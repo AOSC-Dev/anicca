@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715587750?label=Updated)
+![Relative date](https://img.shields.io/date/1715588253?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -12,7 +12,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.10.0|app-admin||
 |aarty|0.4.9|0.6.1|app-utils||
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
-|abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
 |acbs|20240510.2|20240317|app-devel|Possible downgrade from the current version (20240510.2 -> 20240317)|
 |acccheck|0.2.1|0-2-1|app-penetration||
@@ -68,7 +67,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-findupdate|0.4.7|0.3.2|app-utils|Possible downgrade from the current version (0.4.7 -> 0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
-|aoscbootstrap|0.4.5|0.4.7|app-utils||
 |apache-maven|3.9.4|3.9.6|lang-java||
 |apicula|0.9.1|0.12|app-electronics||
 |apparmor|3.0.8|3.1.7|app-admin||
@@ -1257,7 +1255,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksnakeduel|23.08.5|24.02.2|desktop-kde||
 |kspaceduel|23.08.5|24.02.2|desktop-kde||
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksquares|23.08.5|24.02.2|desktop-kde||
 |ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksshaskpass|5.27.11|6.0.4|desktop-kde||
 |kstars|3.6.7|3.7.0|desktop-kde||
@@ -1606,7 +1603,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
-|libvirt|10.2.0|10.3.0|app-virtualization||
 |libvirt-python|10.1.0|10.3.0|runtime-virtualization||
 |libvisual|0.4.0|0.4.2|runtime-multimedia||
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32||
@@ -2504,6 +2500,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtpy|2.1.0|2.4.1|lang-python||
 |qtractor|0.9.23|0.9.91|app-multimedia||
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
+|quazip|0.9.1|1.4|runtime-common||
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.2.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
@@ -2511,7 +2508,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common||
-|raptor2|2.0.15|2.0.16|runtime-common||
 |rarian|0.8.1|0.8.5|app-doc||
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
@@ -2968,7 +2964,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrar|6.2.2|6.2.12|app-utils||
 |unrpyc|1.1.6|2.0.1|app-games||
 |unshield|1.4.3|1.5.1|app-utils||
-|upower|1.90.0|1.90.4|app-admin||
 |upx|4.2.1|4.2.3|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
@@ -3007,7 +3002,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
 |vim|9.1.0140|9.1.0393|app-editors||
-|virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.1|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
 |vkd3d|1.9|1.11|runtime-display||
@@ -3087,7 +3081,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcb-proto|1.16.0|1.17.0|runtime-display||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32||
 |xcffib|0.7.0|1.5.0|lang-python||
-|xclip|20191017|0.13|app-utils|Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.9|desktop-wm||
 |xcowsay|1.4|1.6|app-utils||
 |xdelta|3.0.11|3.1.0|app-utils||
