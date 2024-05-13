@@ -10,7 +10,7 @@ async function renderDataTable() {
     return Object.values(row);
   });
 
-  new DataTable("#pkgsupdate", {
+  const table = new DataTable("#pkgsupdate", {
     columns: [
       { title: "Package" },
       { title: "Repo Version" },
@@ -39,11 +39,12 @@ async function renderDataTable() {
     },
     data: dataSet,
   });
+
+  table.page.len(25).draw();
 }
 
 async function getUpdateDate() {
-  const dataUrl =
-    "https://api.github.com/repos/AOSC-Dev/anicca/branches/main";
+  const dataUrl = "https://api.github.com/repos/AOSC-Dev/anicca/branches/main";
   const data = await fetch(dataUrl).then((response) => response.json());
   const updateTimestamp = Date.parse(data.commit.commit.author.date);
 
