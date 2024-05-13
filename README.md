@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715617012?label=Updated)
+![Relative date](https://img.shields.io/date/1715620349?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -867,7 +867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hypothesis-python|6.97.4|6.101.0|lang-python||
 |hysteria|2.4.0|2.4.3|app-network||
 |i2c-tools|4.1|4.3|app-utils||
-|i2pd|2.41.0|2.51.0|app-web||
+|i2pd|2.41.0|2.52.0|app-web||
 |i3lock|2.14.1|2.15|desktop-wm||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
 |ibm-plex-fonts|6.3.0|6.4.0|desktop-fonts||
@@ -911,16 +911,17 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |inotify-tools|3.21.9.6|4.23.9.0|app-admin||
-|intel-compute-runtime|24.13.29138.7|24.17.29377.6|runtime-scientific||
+|intel-compute-runtime|24.13.29138.7|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
-|intel-graphics-compiler|1.0.16510.2|1.0.16747.4|app-devel||
+|intel-graphics-compiler|1.0.16510.2|1.0.16747.7|app-devel||
 |intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
 |intel-ucode|20221108|20240312|runtime-data||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.0.0|desktop-fonts||
+|iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
+|iperf3|3.16|3.17|app-network||
 |ipmitool|1.8.18|1_8_19|app-utils||
 |iproute2|6.8.0|6.9.0|app-network||
 |ipset|7.1|7.21|app-network||
@@ -1029,7 +1030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbg-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdbusaddons|5.115.0|6.0.4|desktop-kde||
 |kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
-|kddockwidgets|1.3.1|2.0.0|runtime-desktop||
+|kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.4|desktop-kde||
 |kde-dev-scripts|23.08.5|24.02.2|desktop-kde||
 |kde-dev-utils|23.08.5|24.02.2|desktop-kde||
@@ -2210,7 +2211,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
 |perl-xml-sax|1.00|1.02|lang-perl||
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
-|perl-xml-writer|0.625|0.900|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
 |perl-yaml-tiny|1.73|1.74|lang-perl||
@@ -2915,6 +2915,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
 |umbrello|23.08.5|24.02.2|desktop-kde||
+|uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils||
