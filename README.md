@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715620349?label=Updated)
+![Relative date](https://img.shields.io/date/1715624033?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -864,7 +864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.101.0|lang-python||
+|hypothesis-python|6.97.4|6.102.0|lang-python||
 |hysteria|2.4.0|2.4.3|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -1275,7 +1275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubrick|23.08.5|24.02.2|desktop-kde||
 |kunitconversion|5.115.0|6.0.4|desktop-kde||
 |kvantum|1.0.10|1.1.1|desktop-kde||
-|kvirc|5.0.0|5.2.2|app-web||
+|kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
 |kwallet|5.115.0|6.0.4|desktop-kde||
@@ -1304,10 +1304,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|runtime-imaging||
 |lcms2+32|2.9|2.16|runtime-optenv32||
 |ldb|2.6.1|2.9.0|app-database||
-|ldc|1.35.0|1.37.0|lang-dlang||
+|ldc|1.35.0|1.38.0|lang-dlang||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
-|level-zero|1.16.14|1.16.15|runtime-common||
+|level-zero|1.16.14|1.17.0|runtime-common||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
@@ -1330,7 +1330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
-|libbpf|1.2.0|1.4.1|runtime-kernel||
+|libbpf|1.2.0|1.4.2|runtime-kernel||
 |libbsd|0.10.0|0.12.2|runtime-common||
 |libburn|1.5.2|1.5.6|runtime-devices||
 |libbytesize|2.1|2.10|runtime-common||
@@ -1413,7 +1413,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgravatar|23.08.5|24.02.2|desktop-kde||
 |libgsf|1.14.47|1_14_52|desktop-gnome||
 |libgtop|2.38.0|2.41.3|desktop-gnome||
-|libguestfs|1.52.0|1.53.1|runtime-virtualization||
+|libguestfs|1.52.0|1.53.2|runtime-virtualization||
 |libgusb|0.4.8|0.4.9|runtime-devices||
 |libgweather|4.1.0|4.4.2|desktop-gnome||
 |libgxps|0.2.5|0.3.2|runtime-doc||
@@ -1431,7 +1431,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|runtime-devices||
 |libisofs|1.5.2|1.5.6.pl01|runtime-common||
 |libjcat|0.1.8|0.2.1|runtime-common||
-|libjpeg-turbo+32|2.0.5|3.0.2|runtime-optenv32||
+|libjpeg-turbo|3.0.2|3.0.3|runtime-imaging||
+|libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
 |libjxl|0.7.0|0.10.2|runtime-imaging||
 |libkcddb|23.08.5|24.02.2|desktop-kde||
 |libkcompactdisc|23.08.5|24.02.2|desktop-kde||
@@ -1510,7 +1511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libphonenumber|8.12.17|8.13.36|runtime-i18n||
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
-|libplist|2.3.0|2.5.0|runtime-common||
+|libplist|2.3.0|2.6.0|runtime-common||
 |libpng|1.6.42|1.6.43|runtime-imaging||
 |libpng+32|1.2.57|1.6.43|runtime-optenv32||
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
@@ -2211,6 +2212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
 |perl-xml-sax|1.00|1.02|lang-perl||
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
+|perl-xml-writer|0.625|0.900|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
 |perl-yaml-tiny|1.73|1.74|lang-perl||
