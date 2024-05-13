@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715638418?label=Updated)
+![Relative date](https://img.shields.io/date/1715641947?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -743,7 +743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|124.0.6367.118|124.0.6367.201|app-web||
+|google-chrome|124.0.6367.118|124.0.6367.207|app-web||
 |goverlay|1.0|1.1.1|app-utils||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
@@ -1088,7 +1088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kget|23.08.5|24.02.2|desktop-kde||
 |kglobalaccel|5.115.0|6.0.4|desktop-kde||
 |kgoldrunner|23.08.5|24.02.2|desktop-kde||
-|kgpg|23.08.5|24.02.2|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.4|desktop-kde||
 |khangman|23.08.5|24.02.2|desktop-kde||
@@ -1627,6 +1626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
 |libxml++|2.40.1|5.2.0|runtime-common||
 |libxml2|2.10.4|2.12.7|runtime-common||
+|libxml2+32|2.10.4|2.12.7|runtime-optenv32||
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
@@ -1882,10 +1882,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|57|app-devices||
 |newt|0.52.23|0.52.24|runtime-common||
 |nfs-utils|2.6.2|2.6.4|app-utils||
-|nghttp2|1.58.0|1.61.0|runtime-web||
+|nghttp2|1.58.0|1.62.0|runtime-web||
 |nginx|1.25.3|1.26.0|app-web||
 |ngspice|35|42|app-electronics||
-|ninja|1.12.1|1.12.0|app-devel|Possible downgrade from the current version (1.12.1 -> 1.12.0)|
 |nmap|7.93|7.95|app-network||
 |nodejs|20.13.0|21.7.1|lang-js||
 |noip|2.1.9|3.0.0|app-network||
@@ -1894,7 +1893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.4|app-utils||
 |normaliz|3.6.3|3.10.2|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
-|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|20201206-phase3|desktop-fonts|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
+|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.5.1|desktop-fonts|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
 |npth|1.6|1.7|runtime-common||
 |nsd|4.7.0|4_9_1_REL|app-network||
 |nsgenbind|0.8|0.9|app-devel||
@@ -1914,7 +1913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|550.78|runtime-optenv32||
 |nvme-cli|2.6|2.9.1|app-admin||
 |obs-studio|27.0.0|30.1.2|app-multimedia||
-|ocaml|4.14.2|5.1.1+effect-syntax|lang-ocaml||
+|ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-integers|0.4.0|0.7.0|lang-ocaml||
@@ -2824,6 +2823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tellico-trinity|14.1.0|14.1.2|desktop-trinity||
 |telly-skout|23.08.5|24.02.2|desktop-kde||
 |template-glib|3.28.0|3.36.2|desktop-gnome||
+|tepl|6.0.2|6.9.0|runtime-editors||
 |termcolor|1.1.0|2.4.0|lang-python||
 |terminaltables|3.1.0|3.1.10|lang-python||
 |terminator|2.1.1|2.1.3|desktop-gnome||
