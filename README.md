@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715627409?label=Updated)
+![Relative date](https://img.shields.io/date/1715631147?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -194,7 +194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.103|lang-python||
+|boto3|1.20.26|1.34.104|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -1078,7 +1078,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kemoticons|5.115.0|6.0.4|desktop-kde||
 |kernel-tools|6.7.5|5.19.17|app-admin|Possible downgrade from the current version (6.7.5 -> 5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
-|keyring|21.7.0|25.2.0|lang-python||
+|keyring|21.7.0|25.2.1|lang-python||
 |keysmith|23.08.5|24.02.2|desktop-kde||
 |kfilemetadata|5.115.0|6.0.4|desktop-kde||
 |kfind|23.08.5|24.02.2|desktop-kde||
@@ -1562,7 +1562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh2|1.9.0|1.11.0|runtime-network||
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32||
 |libstatgrab|0.91|0.92.1|runtime-admin||
-|libstoragemgmt|1.7.3|1.9.8|runtime-admin||
+|libstoragemgmt|1.7.3|1.10.0|runtime-admin||
 |libsysstat|0.4.4|1.0.0|runtime-admin||
 |libtasn1|4.15.0|4.19.0|runtime-cryptography||
 |libtasn1+32|4.15.0|4.19.0|runtime-optenv32||
@@ -1576,7 +1576,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtifiles2|1.1.6|1.1.7|runtime-devices||
 |libtirpc|1.3.1|1.3.4|runtime-common||
 |libtommath|1.2.0|1.3.0|runtime-scientific||
-|libtool+32|2.4.6|2.4.7|runtime-optenv32||
+|libtool|2.4.7|2.5.0|app-devel||
+|libtool+32|2.4.6|2.5.0|runtime-optenv32||
 |libtracefs|1.6.4|1.8.0|runtime-admin||
 |libtsm|4.0.1|4.0.2|runtime-common||
 |libudfread|1.1.1|1.1.2|runtime-multimedia||
@@ -2905,7 +2906,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
-|ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
 |uchardet|0.0.5|0.0.8|runtime-i18n||
 |ucx|1.15.0|1.16.0|runtime-scientific||
 |udiskie|2.2.0|2.5.3|app-utils||
