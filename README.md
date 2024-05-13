@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715609493?label=Updated)
+![Relative date](https://img.shields.io/date/1715613208?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -541,10 +541,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.02.2|desktop-kde||
 |filelight-trinity|14.1.0|14.1.2|desktop-trinity||
 |filezilla|3.66.4|3.60.2|app-network|Possible downgrade from the current version (3.66.4 -> 3.60.2)|
-|fim|0.7<br>+git20240221|0.7.0|app-utils|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |fio|3.35|3.37|app-utils||
-|firefox|123.0|125.0.3|app-web||
+|firefox|123.0|126.0|app-web||
 |firehol|3.1.6|3.1.7|app-network||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
@@ -1563,7 +1562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libstoragemgmt|1.7.3|1.9.8|runtime-admin||
 |libsysstat|0.4.4|1.0.0|runtime-admin||
 |libtasn1|4.15.0|4.19.0|runtime-cryptography||
-|libtasn1+32|4.15.0|4.19.0|runtime-optenv32||
 |libteam|1.31|1.32|app-network||
 |libthai|0.1.28|0.1.29|runtime-i18n||
 |libticables2|1.3.4|1.3.5|runtime-devices||
@@ -1889,7 +1887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nodejs|20.13.0|21.7.1|lang-js||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia||
-|nokogiri|1.13.9|1.16.4|lang-ruby||
+|nokogiri|1.13.9|1.16.5|lang-ruby||
 |nomino|1.3.1|1.3.4|app-utils||
 |normaliz|3.6.3|3.10.2|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
@@ -1928,7 +1926,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde||
 |okular|23.08.5|24.02.2|desktop-kde||
 |olefile|0.46|0.47|lang-python||
-|oma|1.3.6|1.12.13|app-admin||
+|oma|1.3.8|1.12.13|app-admin||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
 |opam|2.1.3|2.1.5|lang-ocaml||
@@ -3033,7 +3031,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxmaxima|22.05.0|24.02.2|app-scientific||
 |x11-proto|2023.2|2024.1|runtime-display||
 |x11-proto+32|2019.2|2024.1|runtime-optenv32||
-|x264|20170521|3190|runtime-multimedia|Possible downgrade from the current version (20170521 -> 3190)|
+|x264|0<br>+git20240305|3190|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
 |x264+32|20160827.2245|3190|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3190)|
 |x265+32|2.2|3.6|runtime-optenv32||
 |xa|2.4.0|2.4.1|app-devel||
@@ -3130,7 +3128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
-|zstd-static|1.4.5|1.5.6|app-utils||
 |zutils|1.7|1.13|app-utils||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
 |zxtune|5053|5061|app-multimedia||
