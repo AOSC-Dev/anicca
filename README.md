@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715608499?label=Updated)
+![Relative date](https://img.shields.io/date/1715609493?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -115,7 +115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atkmm|2.28.0|2.36.3|desktop-gnome||
 |atomicwrites|1.3.0|1.4.1|lang-python||
 |atomix|3.34.0|44.0|desktop-gnome||
-|atril|1.26.1|1.28.0|desktop-mate||
 |attica5|5.115.0|6.0.4|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
@@ -225,8 +224,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairocffi|1.0.2|1.7.0|lang-python||
 |cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
-|caja|1.26.3|1.28.0|desktop-mate||
-|caja-extensions|1.26.1|1.28.0|desktop-mate||
 |calendarsupport|23.08.5|24.02.2|desktop-kde||
 |calibre|5.30.0|7.10.0|app-doc||
 |calindori|23.08.5|24.02.2|desktop-kde||
@@ -485,11 +482,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |enchant-2|2.3.1|2.7.3|app-i18n||
 |endeavour|42.0|43.0|desktop-gnome||
 |enet|1.3.14|1.3.18|runtime-network||
-|engrampa|1.26.1|1.28.1|desktop-mate||
 |entrypoints|0.3|0.4|lang-python||
 |eog|42.3|45.3|desktop-gnome||
 |eog-plugins|42.1|44.0|desktop-gnome||
-|eom|1.26.1|1.28.0|desktop-mate||
 |epiphany|42.4|46.0|desktop-gnome||
 |epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|lang-python||
@@ -1357,6 +1352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libconfig|1.7.2|1.7.3|runtime-common||
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
+|libcuckoo|0.3|0.3.1|runtime-common||
 |libdatrie|0.2.12|0.2.13|runtime-i18n||
 |libdc1394|2.2.6|2.2.7|runtime-devices||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
@@ -1468,9 +1464,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libltc|1.3.1|1.3.2|runtime-multimedia||
 |libluv|1.47.0<br>+0|1.48.0-2|lang-lua|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|runtime-devices||
-|libmatekbd|1.26.1|1.28.0|desktop-mate||
-|libmatemixer|1.26.1|1.28.0|desktop-mate||
-|libmateweather|1.26.3|1.28.0|desktop-mate||
 |libmatroska|1.6.2|1.7.1|runtime-multimedia||
 |libmaxminddb|1.4.3|1.9.1|runtime-web||
 |libmd|1.0.4|1.1.0|runtime-cryptography||
@@ -1732,39 +1725,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.1|app-utils||
 |mangohud+32|0.7.0|0.7.1|runtime-optenv32||
 |marble|23.08.5|24.02.2|desktop-kde||
-|marco|1.26.2|1.28.1|desktop-mate||
 |mariadb|10.9.4|11.4.1|app-database||
 |markdown|3.3.4|3.6|lang-python||
 |markdownpart|23.08.5|24.02.2|desktop-kde||
 |markupsafe|2.1.1|2.1.5|lang-python||
 |marshmallow|3.20.2|3.21.2|lang-python||
 |mat2|0.13.0|0.6.1|app-utils|Possible downgrade from the current version (0.13.0 -> 0.6.1)|
-|mate-applets|1.26.1|1.28.0|desktop-mate||
-|mate-backgrounds|1.26.0|1.28.0|desktop-mate||
-|mate-calc|1.26.0|1.28.0|desktop-mate||
-|mate-common|1.26.0|1.28.0|desktop-mate||
-|mate-control-center|1.26.1|1.28.0|desktop-mate||
-|mate-desktop|1.26.0|1.28.2|desktop-mate||
-|mate-hud|19.10.1|22.10.3|desktop-mate||
-|mate-icon-theme|1.26.0|1.28.0|desktop-mate||
-|mate-media|1.26.2|1.28.1|desktop-mate||
-|mate-menu|20.04.3|22.04.2|desktop-mate||
-|mate-menus|1.26.1|1.28.0|desktop-mate||
-|mate-notification-daemon|1.26.1|1.28.0|desktop-mate||
-|mate-panel|1.26.4|1.28.1|desktop-mate||
-|mate-polkit|1.26.1|1.28.1|desktop-mate||
-|mate-power-manager|1.26.1|1.28.1|desktop-mate||
-|mate-screensaver|1.26.2|1.28.0|desktop-mate||
-|mate-sensors-applet|1.26.0|1.28.0|desktop-mate||
-|mate-session-manager|1.26.1|1.28.0|desktop-mate||
-|mate-settings-daemon|1.26.1|1.28.0|desktop-mate||
-|mate-system-monitor|1.26.2|1.28.1|desktop-mate||
-|mate-terminal|1.26.1|1.28.1|desktop-mate||
-|mate-themes|3.22.24|3.22.26|desktop-mate||
-|mate-tweak|21.10.0|22.10.0|desktop-mate||
-|mate-user-guide|1.26.2|1.28.0|desktop-mate||
-|mate-user-share|1.26.0|1.28.0|desktop-mate||
-|mate-utils|1.26.1|1.28.0|desktop-mate||
 |materialx|1.38.8|1.38.10|runtime-creativity||
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
@@ -1833,7 +1799,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |most|5.0.0a|5.2.0|app-utils||
 |mouseemu|0.16|0.16.orig|app-utils|Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |movit|1.6.3|1.7.1|runtime-multimedia||
-|mozo|1.26.2|1.28.0|desktop-mate||
 |mp3gain|1.6.2|1_6_2|app-multimedia||
 |mp4v2|4.1.3|2.1.3|app-multimedia|Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32||
@@ -2299,7 +2264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |platformdirs|2.5.2|4.2.1|lang-python||
 |playerctl|2.0.1|2.4.1|app-multimedia||
 |pluggy|1.0.0|1.5.0|lang-python||
-|pluma|1.26.1|1.28.0|desktop-mate||
 |plymouth|22.02.122|24.004.60|app-admin||
 |plymouth-kcm|5.27.11|6.0.4|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
@@ -2440,7 +2404,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.3|lang-python||
 |python-augeas|1.0.3|1.1.0|lang-python||
 |python-build|0.8.0|1.2.1|lang-python||
-|python-caja|1.26.0|1.28.0|desktop-mate||
 |python-cloudflare|2.8.15|3.0.0b9|lang-python||
 |python-cssselect|1.0.3|1.2.0|lang-python||
 |python-daemonize|2.5.0|3.8.0|lang-python||
@@ -2828,6 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeedu|14.1.0|14.1.2|desktop-trinity||
 |tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
+|tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
 |tdeio-apt|14.1.0|14.1.2|desktop-trinity||
 |tdeio-ftps|14.1.0|14.1.2|desktop-trinity||
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity||
@@ -3145,7 +3109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.2|0.5.6|app-doc||
 |zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
-|zeal|0.6.1|0.7.0|app-doc||
 |zeitgeist|1.0.3|1.0.4|app-admin||
 |zellij|0.39.2|0.40.1|app-utils||
 |zenity|3.42.1|4.0.1|desktop-gnome||
@@ -3167,7 +3130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
-|zstandard|0.15.2|0.22.0|lang-python||
 |zstd-static|1.4.5|1.5.6|app-utils||
 |zutils|1.7|1.13|app-utils||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
