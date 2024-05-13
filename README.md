@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715577279?label=Updated)
+![Relative date](https://img.shields.io/date/1715581078?label=Updated)
 | Package | Repo Version | New Version | Path | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts/1-ming||
@@ -537,7 +537,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|app-i18n/fcitx5-pinyin-zhwiki|Compound version number '0.2.3+dict20210823'|
 |fd|10.1.0|10.0.0|app-utils/fd|Possible downgrade from the current version (10.1.0 -> 10.0.0)|
 |fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
-|feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
 |feedparser|6.0.8|6.0.11|lang-python/feedparser||
 |feeluown|4.1.1|4.1.3|app-multimedia/feeluown||
 |feeluown-netease|1.0.1|1.0.2|app-multimedia/feeluown-netease||
@@ -837,7 +836,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.4.0|runtime-optenv32/harfbuzz+32||
 |haruna|0.12.3|1.1.0|desktop-kde/haruna||
 |harvid|0.8.3|0.9.1|app-multimedia/harvid||
-|hashcat|6.2.6|24.4.28|app-penetration/hashcat||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python/hatch-fancy-pypi-readme||
 |hatch-vcs|0.3.0|0.4.0|lang-python/hatch-vcs||
 |hatchling|1.21.1|1.10.0|lang-python/hatchling|Possible downgrade from the current version (1.21.1 -> 1.10.0)|
@@ -1515,7 +1513,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libogg|1.3.4|1.3.5|runtime-multimedia/libogg||
 |libogg+32|1.3.4|1.3.5|runtime-optenv32/libogg+32||
 |libopenraw|0.1.3|0.3.7|runtime-imaging/libopenraw||
-|liborcus|0.17.2|0.19.2|runtime-productivity/liborcus||
 |libosinfo|1.10.0|1.11.0|runtime-common/libosinfo||
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis/libosmgpsmap||
 |libp11|0.4.10|0.4.12|runtime-cryptography/libp11||
@@ -1982,6 +1979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.8|2.1.9|app-admin/open-iscsi||
 |open-isns|0.101|0.102|app-admin/open-isns||
 |open-rs|5.0.1|5.1.2|app-utils/open-rs||
+|open-vm-tools|12.3.5|12.4.0|app-virtualization/open-vm-tools||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific/openblas|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging/opencascade||
 |opencc|1.1.3|1.1.7|app-i18n/opencc||
@@ -1997,7 +1995,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openexr|3.1.8|3.2.126|runtime-imaging/openexr||
 |openfortivpn|1.18.0|1.22.0|app-network/openfortivpn||
 |openh264|2.4.0<br>+gmp114<br>+2|2.4.1|app-multimedia/openh264|Compound version number '2.4.0+gmp114+2'|
-|openimagedenoise|1.4.3|2.2.2|runtime-imaging/openimagedenoise||
 |openimageio|2.4.17.0|2.5.11.0|runtime-imaging/openimageio||
 |openixcard|1.0.1|1.1.8|app-devel/openixcard||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java/openjdk-11|Compound version number '11.0.20.1+ga'|
@@ -2664,6 +2661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |signon|8.60|8.61|app-admin/signon||
 |signon-kwallet-extension|23.08.5|24.02.2|desktop-kde/signon-kwallet-extension||
 |signon-plugin-oauth2|0.24|0.25|runtime-desktop/signon-plugin-oauth2||
+|signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop/signon-ui|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games/simgear||
 |simh|3.11<br>+1|3.12-2|app-emulation/simh|Compound version number '3.11+1'|
 |simple-scan|42.1|46.0|desktop-gnome/simple-scan||
