@@ -43,7 +43,7 @@ async function renderDataTable() {
 
 async function getUpdateDate() {
   const dataUrl =
-    "https://api.github.com/repos/Suyun114/anicca-aosc/branches/main";
+    "https://api.github.com/repos/AOSC-Dev/anicca/branches/main";
   const data = await fetch(dataUrl).then((response) => response.json());
   const updateTimestamp = Date.parse(data.commit.commit.author.date);
 
