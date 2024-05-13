@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715634779?label=Updated)
+![Relative date](https://img.shields.io/date/1715638418?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -272,7 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|124.0.6367.118|124.0.6367.201|app-web||
+|chromium|124.0.6367.118|124.0.6367.207|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -520,7 +520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
-|fcitx5-pinyin-moegirl|20240509|20240309|app-i18n|Possible downgrade from the current version (20240509 -> 20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
 |fdkaac|1.0.1|1.0.6|app-multimedia||
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
@@ -1628,7 +1627,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
 |libxml++|2.40.1|5.2.0|runtime-common||
 |libxml2|2.10.4|2.12.7|runtime-common||
-|libxml2+32|2.10.4|2.12.7|runtime-optenv32||
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
@@ -1782,7 +1780,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|runtime-common||
 |minuet|23.08.5|24.02.2|desktop-kde||
 |mitmproxy|7.0.4|10.3.0|app-network||
-|mixxx|2.4.1|2.4.0|app-creativity|Possible downgrade from the current version (2.4.1 -> 2.4.0)|
 |mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
 |mkvtoolnix|79.0|84.0|app-multimedia||
@@ -1814,7 +1811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
 |mpv|0.37.0|0.38.0|app-multimedia||
-|mpvpaper|1.4|1.5|app-utils||
+|mpvpaper|1.4|1.6|app-utils||
 |ms-sys|2.6.0|2.8.0|app-utils||
 |msgpack-c|6.0.0|6.0.1|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
@@ -2827,7 +2824,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tellico-trinity|14.1.0|14.1.2|desktop-trinity||
 |telly-skout|23.08.5|24.02.2|desktop-kde||
 |template-glib|3.28.0|3.36.2|desktop-gnome||
-|tepl|6.0.2|6.9.0|runtime-editors||
 |termcolor|1.1.0|2.4.0|lang-python||
 |terminaltables|3.1.0|3.1.10|lang-python||
 |terminator|2.1.1|2.1.3|desktop-gnome||
