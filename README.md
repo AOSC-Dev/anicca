@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715574996?label=Updated)
+![Relative date](https://img.shields.io/date/1715577279?label=Updated)
 | Package | Repo Version | New Version | Path | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts/1-ming||
@@ -1982,7 +1982,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.8|2.1.9|app-admin/open-iscsi||
 |open-isns|0.101|0.102|app-admin/open-isns||
 |open-rs|5.0.1|5.1.2|app-utils/open-rs||
-|open-vm-tools|12.3.5|12.4.0|app-virtualization/open-vm-tools||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific/openblas|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging/opencascade||
 |opencc|1.1.3|1.1.7|app-i18n/opencc||
@@ -2665,7 +2664,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |signon|8.60|8.61|app-admin/signon||
 |signon-kwallet-extension|23.08.5|24.02.2|desktop-kde/signon-kwallet-extension||
 |signon-plugin-oauth2|0.24|0.25|runtime-desktop/signon-plugin-oauth2||
-|signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop/signon-ui|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games/simgear||
 |simh|3.11<br>+1|3.12-2|app-emulation/simh|Compound version number '3.11+1'|
 |simple-scan|42.1|46.0|desktop-gnome/simple-scan||
