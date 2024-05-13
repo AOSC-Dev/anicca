@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715631147?label=Updated)
+![Relative date](https://img.shields.io/date/1715634779?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -1699,7 +1699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|desktop-lxde||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.206|0.291.2|desktop-fonts||
+|lxgwcleargothic-font|0.206|0.300.4|desktop-fonts||
 |lxgwnewcleargothic-font|1.108|1.121|desktop-fonts||
 |lxgwwenkai-font|1.315|1.330|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
@@ -1722,6 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|24.02.2|desktop-kde||
 |maim|5.5.3|5.8.0|app-utils||
 |mako|1.1.4|1.3.3|lang-python||
+|mako-notification-daemon|1.8.0|1.9.0|app-utils||
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
 |man-pages|6.05.01<br>+posix2017a|6.7|runtime-data|Compound version number '6.05.01+posix2017a'|
@@ -1769,7 +1770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mihomo|1.18.2|1.18.4|app-network||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.4|desktop-kde||
-|mimalloc|2.1.2|2.1.4|runtime-common||
+|mimalloc|2.1.2|2.1.6|runtime-common||
 |mime-types|9|99|runtime-data||
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|runtime-optenvw64||
@@ -2906,6 +2907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
+|ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
 |uchardet|0.0.5|0.0.8|runtime-i18n||
 |ucx|1.15.0|1.16.0|runtime-scientific||
 |udiskie|2.2.0|2.5.3|app-utils||
@@ -2968,7 +2970,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
-|virtualenv|20.25.0|20.26.1|lang-python||
+|virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
 |vkd3d|1.9|1.11|runtime-display||
 |vkd3d+32|1.9|1.11|runtime-optenv32||
