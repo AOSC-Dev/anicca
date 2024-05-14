@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715710526?label=Updated)
+![Relative date](https://img.shields.io/date/1715713793?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -454,7 +454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpdk|22.11.1|24.03|runtime-network||
 |dragon|23.08.5|24.02.2|desktop-kde||
 |drkonqi|5.27.11|6.0.4|desktop-kde||
-|dropbox|148.4.4519|198.4.7615|app-web||
+|dropbox|148.4.4519|199.4.6287|app-web||
 |drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -1712,7 +1712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m1n1|1.4.6<br>+logo20231113.1|1.4.12|runtime-kernel|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|lang-python||
 |m2r|0.2.1|0.3.1|app-doc||
-|m3u8|0.7.1|4.1.0|lang-python||
+|m3u8|0.7.1|5.0.0|lang-python||
 |mac-fdisk|0.1|0.1.orig|app-admin|Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|app-network||
 |mailcommon|23.08.5|24.02.2|desktop-kde||
