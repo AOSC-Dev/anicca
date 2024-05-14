@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715653536?label=Updated)
+![Relative date](https://img.shields.io/date/1715656537?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -300,6 +300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|316|app-admin||
 |cockpit-machines|284.1|312|app-admin||
+|cockpit-podman|63|87|app-admin||
 |code-server|4.9.1|4.89.0|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
 |coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -2269,14 +2270,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.4|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils||
-|pnpm|8.15.5|9.1.0-0|lang-js||
+|pnpm|8.15.5|9.1.1|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.71|app-i18n||
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python||
-|podman|4.9.3<br>+vsock0.7.2|5.0.2|app-containers|Compound version number '4.9.3+vsock0.7.2'|
+|podman|4.9.3<br>+vsock0.7.2|5.0.3|app-containers|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|runtime-doc||
-|poedit|3.4.1|3.4.2-oss|app-i18n||
+|poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
 |polari|42.1|46.0|desktop-gnome||
