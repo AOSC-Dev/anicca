@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715685044?label=Updated)
+![Relative date](https://img.shields.io/date/1715689260?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -2368,7 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|lang-python||
 |pylev|1.3.0|1.4.0|lang-python||
 |pylibacl|0.5.4|0.7.0|lang-python||
-|pylint|2.14.4|3.1.1|lang-python||
+|pylint|2.14.4|3.2.0|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
 |pymysql|0.9.3|1.1.0|lang-python||
@@ -3092,7 +3092,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|desktop-gnome||
 |yelp-tools|42.0|42.1|desktop-gnome||
 |yelp-xsl|42.0|42.1|desktop-gnome||
-|yosys|0.39|0.40|app-electronics||
+|yosys|0.39|0.41|app-electronics||
 |ytmusicapi|1.5.1|1.7.1|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
