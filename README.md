@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715666369?label=Updated)
+![Relative date](https://img.shields.io/date/1715667413?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -1664,6 +1664,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llfuse|1.4.1|1.5.0|lang-python||
 |llvm|17.0.6|18.1.5|app-devel||
 |llvm+32|14.0.6|18.1.5|runtime-optenv32||
+|llvm-runtime+wasi|17.0.6|18.1.5|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
 |lmdb|0.9.28|0.9.32|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -2415,6 +2416,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-hglib|2.6.1|2.6.2|lang-python||
 |python-installer|0.5.1|0.7.0|lang-python||
 |python-kaitaistruct|0.9|0.10|lang-python||
+|python-ldap3|2.9|2.9.1|lang-python||
 |python-linux-procfs|0.7.1|0.7.3|lang-python||
 |python-ly|0.9.6|0.9.7|lang-python||
 |python-lz4|2.1.6|4.3.3|lang-python||
