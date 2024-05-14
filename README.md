@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715667413?label=Updated)
+![Relative date](https://img.shields.io/date/1715670798?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -825,7 +825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatch-vcs|0.3.0|0.4.0|lang-python||
-|hatchling|1.21.1|1.10.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.10.0)|
+|hatchling|1.21.1|1.11.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.0)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
 |hdf5|1.10.5|1.14.4.1|runtime-scientific||
@@ -1087,7 +1087,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgeography|23.08.5|24.02.2|desktop-kde||
 |kget|23.08.5|24.02.2|desktop-kde||
 |kglobalaccel|5.115.0|6.0.4|desktop-kde||
-|kgoldrunner|23.08.5|24.02.2|desktop-kde||
 |kgpg|23.08.5|24.02.2|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.4|desktop-kde||
@@ -1472,7 +1471,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmediainfo|22.06|24.04|runtime-multimedia||
 |libmicrohttpd|0.9.71|1.0.1|runtime-web||
 |libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32||
-|libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia||
 |libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32||
 |libmspack|0.10.1alpha|0.11.0|runtime-common||
 |libmsym|0.2.3|0.2.4.2|runtime-scientific||
@@ -2331,7 +2329,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio|17.0<br>+xrdp0.7|17.0|app-multimedia|Compound version number '17.0+xrdp0.7'|
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
 |pulseaudio-qt|1.3|1.4.0|runtime-desktop||
-|pulsectl|20.5.1|24.4.0|lang-python||
 |puremagic|1.15|1.23|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|desktop-kde||
@@ -2612,7 +2609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shellingham|1.3.1|1.5.4|lang-python||
 |shotcut|21.08.11|24.04.28|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
-|showmethekey|1.12.0|1.13.0|app-utils||
+|showmethekey|1.12.0|1.13.1|app-utils||
 |shutter|0.94|0.99.2|app-utils||
 |siege|4.0.7|4.1.6|app-network||
 |signon|8.60|8.61|app-admin||
@@ -2629,7 +2626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.04.90|desktop-kde||
 |skanpage|23.08.5|24.02.2|desktop-kde||
 |skktools|1.3.4|1_3_4|app-i18n||
-|slirp4netns|1.2.2|1.3.0|app-admin||
+|slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
 |slurm|0.4.4|0.5.1|app-network||
@@ -2653,7 +2650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sof-firmware|2.2.3|2.8.1|runtime-kernel||
 |sof-tools|2.2.3|2.8.1|app-multimedia||
 |sofia-sip|1.12.11|1.13.17|runtime-web||
-|solaar|1.1.11|1.1.12|app-utils||
+|solaar|1.1.11|1.1.13|app-utils||
 |solid|5.115.0|6.0.4|desktop-kde||
 |sonic-visualiser|4.4|4.5.2|app-multimedia||
 |sonnet|5.115.0|6.0.4|desktop-kde||
@@ -2698,7 +2695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.45.3|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
-|sqlmap|1.8.2|1.8.4|app-penetration||
+|sqlmap|1.8.2|1.8.5|app-penetration||
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfs-tools-ng|1.2.0|1.3.1|app-admin||
