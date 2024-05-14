@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715677990?label=Updated)
+![Relative date](https://img.shields.io/date/1715681756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -347,7 +347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python||
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.10.3|lang-python||
-|ctags|20191203|6.1.20240505.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240505.0)|
+|ctags|20191203|6.1.20240512.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240512.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|app-devel|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
@@ -679,7 +679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|14.2.0|app-imaging||
 |glslang+32|7.11.3214|14.2.0|runtime-optenv32||
 |glu+32|9.0.1|9.0.3|runtime-optenv32||
-|gmic|3.2.6|3.3.5|runtime-imaging||
+|gmic|3.2.6|3.3.6|runtime-imaging||
 |gmime-3|3.2.7|3.2.14|desktop-gnome||
 |gmp+32|6.1.2|6.3.0|runtime-optenv32||
 |gnome-applets|3.44.0|3.52.0|desktop-gnome||
@@ -1547,6 +1547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
+|libsodium|1.0.18|1.0.19|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -1933,7 +1934,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
 |opam|2.1.3|2.1.5|lang-ocaml||
-|open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-rs|5.0.1|5.1.2|app-utils||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
@@ -2310,7 +2310,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.02.2|desktop-kde||
-|prismlauncher|8.2|8.3|app-games||
 |prison5|5.115.0|6.0.4|desktop-kde||
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.0|app-gis||
@@ -2929,7 +2928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrpyc|1.1.6|2.0.1|app-games||
 |unshield|1.4.3|1.5.1|app-utils||
 |upower|1.90.0|1.90.4|app-admin||
-|upx|4.2.1|4.2.3|app-devel||
+|upx|4.2.1|4.2.4|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
@@ -2952,7 +2951,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala-panel-appmenu|0.7.4|24.02|runtime-desktop||
 |valgrind|3.22.0|3.23.0|app-devel||
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia||
-|vapoursynth|57|67|app-multimedia||
+|vapoursynth|57|68|app-multimedia||
 |variety|0.7.1|0.8.12|app-utils||
 |varnish|6.3.2|7.5.0|app-network||
 |vasm|1.9f|1.9.f|app-devel||
@@ -2966,6 +2965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
+|vim|9.1.0393|9.1.0412|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
