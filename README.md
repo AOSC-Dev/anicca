@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715674644?label=Updated)
+![Relative date](https://img.shields.io/date/1715677990?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -284,6 +284,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|desktop-cinnamon||
 |cjs|5.8.0|6.0.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
+|clash-verge-rev|1.5.11|1.6.2|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
@@ -584,6 +585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|runtime-desktop||
 |freetype+32|2.12.1|2.13.2|runtime-optenv32||
 |freexl|1.0.5|2.0.0|runtime-gis||
+|frei0r-plugins|2.2.0|2.3.2|runtime-multimedia||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi|1.0.10|1.0.14|app-scientific||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
@@ -1545,7 +1547,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
-|libsodium|1.0.18|1.0.19|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -2840,7 +2841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |threadweaver|5.115.0|6.0.4|desktop-kde||
 |throttled|0.9.2|0.10.0|app-utils||
 |thunderbird|115.5.2|125.0|app-web||
-|tig|2.4.1|2.5.9|app-utils||
+|tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python||
 |tilda|1.4.1|2.0.0|app-utils||
@@ -2849,6 +2850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tint2|16.7|17.0.2|desktop-wm||
 |tinycdb|0.78|0.81|app-database||
 |tinycss2|1.0.2|1.3.0|lang-python||
+|tinyproxy|1.11.1|1.11.2|app-network||
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
@@ -2865,7 +2867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
-|tpm2-tss|2.3.3|4.1.0|runtime-devices||
+|tpm2-tss|2.3.3|4.1.1|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
 |tqdm|4.62.3|4.66.4|lang-python||
 |tqt3|14.1.0|14.1.2|desktop-trinity||
@@ -2931,7 +2933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
-|urwid|2.1.2|2.6.11|lang-python||
+|urwid|2.1.2|2.6.12|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
 |usbutils|015|017|app-utils||
