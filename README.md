@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715670798?label=Updated)
+![Relative date](https://img.shields.io/date/1715674644?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -284,7 +284,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|desktop-cinnamon||
 |cjs|5.8.0|6.0.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
-|clash-verge-rev|1.5.11|1.6.2|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
@@ -585,7 +584,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|runtime-desktop||
 |freetype+32|2.12.1|2.13.2|runtime-optenv32||
 |freexl|1.0.5|2.0.0|runtime-gis||
-|frei0r-plugins|2.2.0|2.3.2|runtime-multimedia||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi|1.0.10|1.0.14|app-scientific||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
@@ -1087,6 +1085,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgeography|23.08.5|24.02.2|desktop-kde||
 |kget|23.08.5|24.02.2|desktop-kde||
 |kglobalaccel|5.115.0|6.0.4|desktop-kde||
+|kgoldrunner|23.08.5|24.02.2|desktop-kde||
 |kgpg|23.08.5|24.02.2|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.4|desktop-kde||
@@ -1471,6 +1470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmediainfo|22.06|24.04|runtime-multimedia||
 |libmicrohttpd|0.9.71|1.0.1|runtime-web||
 |libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32||
+|libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia||
 |libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32||
 |libmspack|0.10.1alpha|0.11.0|runtime-common||
 |libmsym|0.2.3|0.2.4.2|runtime-scientific||
@@ -2329,6 +2329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio|17.0<br>+xrdp0.7|17.0|app-multimedia|Compound version number '17.0+xrdp0.7'|
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
 |pulseaudio-qt|1.3|1.4.0|runtime-desktop||
+|pulsectl|20.5.1|24.4.0|lang-python||
 |puremagic|1.15|1.23|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|desktop-kde||
@@ -2742,7 +2743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
 |synaptic|0.90.2|0.91.3|app-admin||
-|syncthing|1.27.3|1.27.6|app-network||
+|syncthing|1.27.3|1.27.7|app-network||
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network||
 |syndication|5.115.0|6.0.4|desktop-kde||
 |synergy|1.11.1|2.3.2|app-network||
@@ -2757,6 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
 |tagparser|11.5.1|12.1.0|runtime-multimedia||
+|tailscale|1.64.2|1.66.1|app-network||
 |taisei|1.3.2|1.4.1|app-games||
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
