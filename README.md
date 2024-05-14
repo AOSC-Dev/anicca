@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715660117?label=Updated)
+![Relative date](https://img.shields.io/date/1715663586?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -2476,7 +2476,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|app-doc||
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
-|rbw|1.10.1|1.10.0|app-utils|Possible downgrade from the current version (1.10.1 -> 1.10.0)|
 |rclone|1.65.2|1.66.0|app-web||
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
@@ -2512,14 +2511,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rng-tools|6.7|6.16|app-utils||
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common||
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
-|rocm-bandwidth-test|6.0.2|6.1.0|runtime-rocm||
-|rocm-cmake|6.0.2|6.1.0|runtime-rocm||
-|rocm-llvm|6.0.2|6.1.0|runtime-rocm||
-|rocm-smi-lib|6.0.2|6.1.0|runtime-rocm||
-|rocminfo|6.0.2|6.1.0|runtime-rocm||
-|rocr-runtime|6.0.2|6.1.0|runtime-rocm||
+|rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
+|rocm-cmake|6.0.2|6.1.1|runtime-rocm||
+|rocm-llvm|6.0.2|6.1.1|runtime-rocm||
+|rocm-smi-lib|6.0.2|6.1.1|runtime-rocm||
+|rocminfo|6.0.2|6.1.1|runtime-rocm||
+|rocr-runtime|6.0.2|6.1.1|runtime-rocm||
 |rocs|23.08.5|24.02.2|desktop-kde||
-|roct-thunk-interface|6.0.0|6.1.0|runtime-rocm||
+|roct-thunk-interface|6.0.0|6.1.1|runtime-rocm||
 |ronn-ng|0.9.1|0.10.1|lang-ruby||
 |rosegarden|20.12|23.12|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2560,7 +2559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.0|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
-|sarasa-gothic-fonts|1.0.3|1.0.11|desktop-fonts||
+|sarasa-gothic-fonts|1.0.3|1.0.12|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc|1.4|2.0|app-multimedia||
@@ -2606,7 +2605,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
 |shadow|4.13|4.15.1|app-admin||
-|shadowsocks-rust|1.15.3|1.18.3|app-network||
+|shadowsocks-rust|1.15.3|1.18.4|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shared-mime-info|2.2|2.4|runtime-data||
@@ -2932,7 +2931,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upx|4.2.1|4.2.3|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
-|urlgrabber|3.10.2|4.1.0|lang-python||
 |urwid|2.1.2|2.6.11|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
