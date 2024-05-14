@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715651640?label=Updated)
+![Relative date](https://img.shields.io/date/1715653536?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -300,7 +300,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|316|app-admin||
 |cockpit-machines|284.1|312|app-admin||
-|cockpit-podman|63|87|app-admin||
 |code-server|4.9.1|4.89.0|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
 |coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -1720,7 +1719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailcommon|23.08.5|24.02.2|desktop-kde||
 |mailimporter|23.08.5|24.02.2|desktop-kde||
 |maim|5.5.3|5.8.0|app-utils||
-|mako|1.1.4|1.3.3|lang-python||
+|mako|1.1.4|1.3.4|lang-python||
 |mako-notification-daemon|1.8.0|1.9.0|app-utils||
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
