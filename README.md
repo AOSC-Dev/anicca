@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715706676?label=Updated)
+![Relative date](https://img.shields.io/date/1715710526?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -826,6 +826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatch-vcs|0.3.0|0.4.0|lang-python||
 |hatchling|1.21.1|1.11.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.0)|
 |haveged|1.9.13|1.9.18|app-utils||
+|hddtemp|0.3.52|0.4.3|app-utils||
 |hdf5|1.10.5|1.14.4.1|runtime-scientific||
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common||
 |hdsentinel|0.17|400s|app-utils||
