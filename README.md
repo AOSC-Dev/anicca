@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715681756?label=Updated)
+![Relative date](https://img.shields.io/date/1715685044?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -595,7 +595,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-python|0.3.1|1.0.7|lang-python||
 |future|0.17.0|1.0.0|lang-python||
 |futures|3.2.0|3.4.0|lang-python||
-|fuzzel|1.9.2|1.10.2|app-utils||
 |fvwm|2.6.9|2.7.0|desktop-wm||
 |fwupd|1.9.13|1.9.19|app-admin||
 |fzf|0.46.1|0.52.0|app-utils||
@@ -867,7 +866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hysteria|2.4.0|2.4.3|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
-|i3lock|2.14.1|2.15|desktop-wm||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
 |ibm-plex-fonts|6.3.0|6.4.0|desktop-fonts||
 |ibus|1.5.25|1.5.30|app-i18n||
@@ -1934,6 +1932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
 |opam|2.1.3|2.1.5|lang-ocaml||
+|open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-rs|5.0.1|5.1.2|app-utils||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
@@ -2232,7 +2231,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
-|pipewire|1.0.4|1.0.6|app-multimedia||
 |pipewire-0.2|0.2.7|1.0.6|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
@@ -2641,7 +2639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smplayer|19.10.2|24.5.0|app-multimedia||
 |snapd|2.61.2|2.63|app-admin||
 |snapd-glib|1.63|1.65|runtime-admin||
-|snapper|0.10.7|0.11.0|app-admin||
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.0|runtime-common||
 |sniffio|1.3.0|1.3.1|lang-python||
@@ -2738,7 +2735,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.9|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.02.2|desktop-kde||
-|swaybg|1.2.0|1.2.1|app-utils||
 |sweeper|23.08.5|24.02.2|desktop-kde||
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
@@ -2980,18 +2976,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vrms|1.27|1.33|app-utils||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.1|runtime-desktop||
-|vulkan-extensionlayer|1.3.280.0|1.3.283|runtime-display||
-|vulkan-headers|1.3.280.0|1.3.284|runtime-display||
-|vulkan-headers+32|1.3.272|1.3.284|runtime-optenv32||
-|vulkan-loader|1.3.280.0|1.3.283|runtime-display||
-|vulkan-loader+32|1.3.272|1.3.283|runtime-optenv32||
+|vulkan-extensionlayer|1.3.280.0|1.3.285|runtime-display||
+|vulkan-headers|1.3.280.0|1.3.285|runtime-display||
+|vulkan-headers+32|1.3.272|1.3.285|runtime-optenv32||
+|vulkan-loader|1.3.280.0|1.3.285|runtime-display||
+|vulkan-loader+32|1.3.272|1.3.285|runtime-optenv32||
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.280.0|1.3.283|runtime-display||
-|vulkan-validationlayers|1.3.280.0|1.3.283|runtime-display||
+|vulkan-utility-libraries|1.3.280.0|1.3.285|runtime-display||
+|vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
 |warpinator|1.6.3|1.8.3|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.05.06.00|app-utils||
+|watchman|4.9.0|2024.05.13.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
@@ -3021,7 +3017,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
-|wireplumber|0.5.0|0.5.2|app-multimedia||
 |wireshark|4.2.3|4.2.4|app-network||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
@@ -3030,8 +3025,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wrk|4.1.0|4.2.0|app-network||
 |wsproto|1.0.0|1.2.0|lang-python||
 |wtforms|2.2.1|3.1.2|lang-python||
-|wxgtk-3+32|3.0.4|3.2.4|runtime-optenv32||
-|wxmaxima|22.05.0|24.02.2|app-scientific||
+|wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32||
+|wxmaxima|22.05.0|24.05.0|app-scientific||
+|wxwidgets|3.2.4|3.2.5|runtime-desktop||
 |x11-proto|2023.2|2024.1|runtime-display||
 |x11-proto+32|2019.2|2024.1|runtime-optenv32||
 |x264|0<br>+git20240305|3190|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
@@ -3074,7 +3070,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0|app-network||
 |xray|1.8.4|1.8.11|app-network||
-|xrdp|0.10.0|0.9.25.1|app-network|Possible downgrade from the current version (0.10.0 -> 0.9.25.1)|
 |xreader|3.8.5|4.0.2|app-doc||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsel|1.2.0|1.2.1|app-utils||
