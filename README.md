@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715641947?label=Updated)
+![Relative date](https://img.shields.io/date/1715647641?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -1088,6 +1088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kget|23.08.5|24.02.2|desktop-kde||
 |kglobalaccel|5.115.0|6.0.4|desktop-kde||
 |kgoldrunner|23.08.5|24.02.2|desktop-kde||
+|kgpg|23.08.5|24.02.2|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.4|desktop-kde||
 |khangman|23.08.5|24.02.2|desktop-kde||
@@ -1929,6 +1930,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okular|23.08.5|24.02.2|desktop-kde||
 |olefile|0.46|0.47|lang-python||
 |oma|1.3.8|1.12.13|app-admin||
+|onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
 |opam|2.1.3|2.1.5|lang-ocaml||
@@ -1940,7 +1942,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencc|1.1.3|1.1.7|app-i18n||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
-|opencl-registry-api|2022.01.04|2023.12.14|app-devel||
+|opencl-registry-api|2022.01.04|2024.05.08|app-devel||
 |opencolorio|2.1.2|2.3.2|runtime-imaging||
 |openconnect|8.10|9.12|app-network||
 |opencore-amr|0.1.5|0.1.6|runtime-multimedia||
@@ -1964,7 +1966,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2_6_7|app-admin||
 |openldap+32|2.4.59|2_6_7|runtime-optenv32||
 |openmpi|4.1.6|5.0.3|app-scientific||
-|openmpt|0.6.4|0.7.6|app-multimedia||
+|openmpt|0.6.4|0.7.7|app-multimedia||
 |openpgl|0.5.0|0.6.0|runtime-creativity||
 |openpyxl|2.6.0|3.1.2|lang-python||
 |openra|20210321|20231010|app-games||
@@ -2042,12 +2044,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
-|pcsclite|1.9.9|2.2.0|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5788|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsclite|1.9.9|2.2.1|app-devices||
+|pcsx2|1.6.0<br>+git20210825|1.7.5806|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
-|peazip|7.9.0|9.7.1|app-utils||
+|peazip|7.9.0|9.8.0|app-utils||
 |peewee|3.17.1|3.17.5|lang-python||
 |peg|0.1.18|0.1.20|app-devel||
 |pep517|0.12.0|0.13.1|lang-python||
@@ -2899,7 +2901,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.11.0|lang-python||
-|typst|0.10.0|0.11.0|app-doc||
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
