@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715717639?label=Updated)
+![Relative date](https://img.shields.io/date/1715721157?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -194,7 +194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.104|lang-python||
+|boto3|1.20.26|1.34.105|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -597,7 +597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
 |fwupd|1.9.13|1.9.19|app-admin||
-|fzf|0.46.1|0.52.0|app-utils||
+|fzf|0.46.1|0.52.1|app-utils||
 |gajim|1.4.0|1.8.4|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
 |gammaray|2.11.2|3.0.0|app-devel||
@@ -912,7 +912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
 |intel-graphics-compiler|1.0.16510.2|1.0.16747.7|app-devel||
 |intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
-|intel-ucode|20221108|20240312|runtime-data||
+|intel-ucode|20221108|20240514|runtime-data||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
@@ -1075,7 +1075,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kemoticons|5.115.0|6.0.4|desktop-kde||
 |kernel-tools|6.7.5|5.19.17|app-admin|Possible downgrade from the current version (6.7.5 -> 5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
-|keyring|21.7.0|25.2.1|lang-python||
 |keysmith|23.08.5|24.02.2|desktop-kde||
 |kfilemetadata|5.115.0|6.0.4|desktop-kde||
 |kfind|23.08.5|24.02.2|desktop-kde||
@@ -1591,7 +1590,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
-|libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.3.0|app-virtualization||
 |libvirt-python|10.1.0|10.3.0|runtime-virtualization||
@@ -1886,7 +1884,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|42|app-electronics||
 |nmap|7.93|7.95|app-network||
 |nodejs|20.13.0|21.7.1|lang-js||
-|noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia||
 |nokogiri|1.13.9|1.16.5|lang-ruby||
 |nomino|1.3.1|1.3.4|app-utils||
@@ -2359,7 +2356,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygame|2.0.2|2.5.2|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
-|pygments|2.10.0|2.18.0|lang-python||
 |pygobject-3|3.42.2|3.48.2|lang-python||
 |pygraphviz|1.5|1.13|lang-python||
 |pyhamcrest|2.0.3|2.1.0|lang-python||
