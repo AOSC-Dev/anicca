@@ -1,6 +1,6 @@
 async function renderDataTable() {
   const dataUrl =
-    "https://raw.githubusercontent.com/Suyun114/anicca-aosc/main/pkgsupdate.json";
+    "https://raw.githubusercontent.com/AOSC-Dev/anicca/main/pkgsupdate.json";
 
   const data = await fetch(dataUrl).then((response) => response.json());
 
