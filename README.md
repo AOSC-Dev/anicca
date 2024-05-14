@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715656537?label=Updated)
+![Relative date](https://img.shields.io/date/1715660117?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -2411,7 +2411,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-daemonize|2.5.0|3.8.0|lang-python||
 |python-dbusmock|0.22.0|0.31.1|lang-python||
 |python-djvulibre|0.8.6|0.8.8|lang-python||
-|python-evdev|1.4.0|1.7.0|lang-python||
+|python-evdev|1.4.0|1.7.1|lang-python||
 |python-graphviz|0.16|0.20.3|lang-python||
 |python-hglib|2.6.1|2.6.2|lang-python||
 |python-installer|0.5.1|0.7.0|lang-python||
@@ -2995,7 +2995,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
-|wcslib|6.4|8.2.2|runtime-scientific||
+|wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
 |wdm|1.28|1.29|desktop-displaymanagers||
 |webencodings|0.5|0.5.1|lang-python||
