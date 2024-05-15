@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715750013?label=Updated)
+![Relative date](https://img.shields.io/date/1715753751?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -229,7 +229,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
-|cargo-c|0.9.24|0.9.32+cargo-0.79.0|lang-rust||
 |cargo-release|0.24.11|0.25.7|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |castxml|0.6.2|0.6.6|app-devel||
@@ -914,7 +913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
-|iperf3|3.16|3.17|app-network||
+|iperf3|3.16|3.17.1|app-network||
 |ipmitool|1.8.18|1_8_19|app-utils||
 |iproute2|6.8.0|6.9.0|app-network||
 |ipset|7.1|7.21|app-network||
@@ -2631,7 +2630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs||
 |smpeg|0.4.5|2_0_0|app-multimedia||
-|smpeg+32|0.4.5|2_0_0|runtime-optenv32||
 |smplayer|19.10.2|24.5.0|app-multimedia||
 |snapd|2.61.2|2.63|app-admin||
 |snapd-glib|1.63|1.65|runtime-admin||
@@ -2774,7 +2772,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
 |tde-systemsettings|14.1.0|14.1.2|desktop-trinity||
 |tdeaccessibility|14.1.0|14.1.2|desktop-trinity||
-|tdeaddons|14.1.0|14.1.2|desktop-trinity||
 |tdeadmin|14.1.0|14.1.2|desktop-trinity||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
 |tdebase|14.1.0|14.1.2|desktop-trinity||
