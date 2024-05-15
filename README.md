@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715807485?label=Updated)
+![Relative date](https://img.shields.io/date/1715811223?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -745,7 +745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|124.0.6367.118|124.0.6367.207|app-web||
+|google-chrome|124.0.6367.118|125.0.6422.60|app-web||
 |goverlay|1.0|1.1.1|app-utils||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
@@ -1774,7 +1774,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |milou|5.27.11|6.0.4|desktop-kde||
 |mimalloc|2.1.2|2.1.6|runtime-common||
 |mime-types|9|99|runtime-data||
-|minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|runtime-optenvw64||
 |mini-portile|2.8.0|2.8.6|lang-ruby||
 |minicom|2.8|2.9|app-utils||
@@ -3126,7 +3125,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
-|zope-interface|5.4.0|6.3|lang-python||
+|zope-interface|5.4.0|6.4|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
