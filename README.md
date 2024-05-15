@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715796886?label=Updated)
+![Relative date](https://img.shields.io/date/1715800336?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -249,7 +249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |celt-0.5|0.5.1.3|0.5.2|runtime-multimedia||
 |cerberus|1.3.2|1.3.5|lang-python||
 |cereal|1.3.0|1.3.2|runtime-common||
-|certbot|2.5.0|2.10.0|app-web||
+|certbot|2.5.0|2.10.0|groups||
 |certbot-apache|2.5.0|2.10.0|app-web||
 |certbot-dns-cloudflare|2.5.0|2.10.0|app-web||
 |certbot-nginx|2.5.0|2.10.0|app-web||
@@ -271,7 +271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
 |chromium|124.0.6367.118|124.0.6367.207|app-web||
 |cifs-utils|6.10|7.0|app-network||
-|cinnamon|5.8.3|6.0.4|desktop-cinnamon||
+|cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
 |cinnamon-desktop|5.8.0|6.0.0|desktop-cinnamon||
 |cinnamon-menus|5.8.0|6.0.0|desktop-cinnamon||
@@ -789,7 +789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gstreamer|1.22.0|1.24.3|runtime-multimedia||
-|gstreamer-1-0+32|1.16.2|1.24.3|groups||
+|gstreamer-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32||
@@ -1379,7 +1379,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts||
 |libesmtp|1.0.6|1.1.0|runtime-network||
-|libetebase|0.5.4|0.5.6|runtime-cryptography||
 |libetonyek|0.1.9|0.1.10|runtime-productivity||
 |libev|4.25|4.33|runtime-common||
 |libevdev|1.11.0|1.13.1|runtime-devices||
@@ -1529,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web||
 |libraw|0.20.0|0.21.2|runtime-imaging||
 |librcc|0.2.12|0.2.13|runtime-i18n||
-|libreoffice|7.5.4.2|24.2.3.2|app-productivity||
+|libreoffice|7.5.4.2|24.2.3.2|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
@@ -2713,7 +2712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network||
 |sslh|1.19c|2.1.1|app-network||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
-|starship|1.17.1|1.18.2|app-utils||
+|starship|1.17.1|1.19.0|app-utils||
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.02.2|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
@@ -3020,7 +3019,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
-|wireshark|4.2.3|4.2.4|app-network||
+|wireshark|4.2.3|4.2.5|app-network||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts||
@@ -3118,7 +3117,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zfec|1.5.3|1.5.7.4|lang-python||
 |zfs|2.2.3|2.2.4|app-admin||
 |zimg|3.0.2|3.0.5|runtime-imaging||
-|zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
 |zlib+32|1.2.11|1.3.1|runtime-optenv32||
 |zlib-static|1.2.12|1.3.1|runtime-common||
