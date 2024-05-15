@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715782451?label=Updated)
+![Relative date](https://img.shields.io/date/1715785945?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -798,6 +798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtranslator|42.0|46.1|desktop-gnome||
 |gucharmap|15.1.3|15.1.4|desktop-gnome||
 |guile|3.0.4|3.0.9|app-devel||
+|gulp|4.0.0|5.0.0|lang-js||
 |gupnp|1.2.4|1.6.6|desktop-gnome||
 |gupnp-av|0.12.11|0.14.1|desktop-gnome||
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome||
@@ -1008,6 +1009,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
 |kcmutils|5.115.0|6.0.4|desktop-kde||
 |kcodecs|5.115.0|6.0.4|desktop-kde||
+|kcolorchooser|23.08.5|24.02.2|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
 |kcompletion|5.115.0|6.0.4|desktop-kde||
 |kconfig|5.115.0|6.0.4|desktop-kde||
@@ -2031,13 +2033,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm|1.3.1|1.3.2|desktop-lxde||
-|pcp|6.0.1|6.2.1|app-utils||
+|pcp|6.0.1|6.2.2|app-utils||
 |pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.1|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5806|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5811|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
