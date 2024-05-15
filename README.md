@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715753751?label=Updated)
+![Relative date](https://img.shields.io/date/1715757272?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -229,6 +229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
+|cargo-c|0.9.24|0.9.32+cargo-0.79.0|lang-rust||
 |cargo-release|0.24.11|0.25.7|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |castxml|0.6.2|0.6.6|app-devel||
@@ -330,7 +331,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|app-devel||
 |cracklib|2.9.8|2.9.11|runtime-cryptography||
 |crash|7.2.9|8.0.5|app-devel||
-|crazydiskinfo|1.0.2|1.1.0|app-utils||
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
@@ -951,7 +951,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |json-c|0.16|0.17|runtime-common||
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|runtime-common||
-|jsonlines|1.2.0|4.0.0|lang-python||
 |jsonpointer|2.3|2.4|lang-python||
 |jsonrpc-glib|3.42.0|3.44.0|runtime-common||
 |jsonschema|3.2.0|0.0.1|lang-python|Possible downgrade from the current version (3.2.0 -> 0.0.1)|
@@ -1339,7 +1338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|runtime-imaging||
 |libcgroup|2.0|3.1.0|app-admin||
 |libchamplain|0.12.20|0.12.21|desktop-gnome||
-|libchewing|0.5.1|0.7.0|runtime-i18n||
+|libchewing|0.5.1|0.8.0|runtime-i18n||
 |libclc|17.0.3|18.1.5|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
@@ -2630,6 +2629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs||
 |smpeg|0.4.5|2_0_0|app-multimedia||
+|smpeg+32|0.4.5|2_0_0|runtime-optenv32||
 |smplayer|19.10.2|24.5.0|app-multimedia||
 |snapd|2.61.2|2.63|app-admin||
 |snapd-glib|1.63|1.65|runtime-admin||
@@ -2772,6 +2772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
 |tde-systemsettings|14.1.0|14.1.2|desktop-trinity||
 |tdeaccessibility|14.1.0|14.1.2|desktop-trinity||
+|tdeaddons|14.1.0|14.1.2|desktop-trinity||
 |tdeadmin|14.1.0|14.1.2|desktop-trinity||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
 |tdebase|14.1.0|14.1.2|desktop-trinity||
