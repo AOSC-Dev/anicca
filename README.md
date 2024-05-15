@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715800336?label=Updated)
+![Relative date](https://img.shields.io/date/1715804012?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -1379,6 +1379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts||
 |libesmtp|1.0.6|1.1.0|runtime-network||
+|libetebase|0.5.4|0.5.6|runtime-cryptography||
 |libetonyek|0.1.9|0.1.10|runtime-productivity||
 |libev|4.25|4.33|runtime-common||
 |libevdev|1.11.0|1.13.1|runtime-devices||
@@ -3117,6 +3118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zfec|1.5.3|1.5.7.4|lang-python||
 |zfs|2.2.3|2.2.4|app-admin||
 |zimg|3.0.2|3.0.5|runtime-imaging||
+|zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
 |zlib+32|1.2.11|1.3.1|runtime-optenv32||
 |zlib-static|1.2.12|1.3.1|runtime-common||
