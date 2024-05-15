@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715746544?label=Updated)
+![Relative date](https://img.shields.io/date/1715750013?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -858,7 +858,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.102.2|lang-python||
+|hypothesis-python|6.97.4|6.102.4|lang-python||
 |hysteria|2.4.0|2.4.3|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -944,6 +944,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jellyfish|0.6.0|1.0.3|lang-python||
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
+|jmespath|0.10.0|1.0.1|lang-python||
 |jmol|14.30.0|16.2.15|app-scientific||
 |john|1.8.0|1.9.0|app-penetration||
 |josepy|1.13.0|1.14.0|lang-python||
@@ -2256,7 +2257,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.11|6.0.4|desktop-kde||
 |plasma-workspace-wallpapers|5.27.11|6.0.4|desktop-kde||
 |plasmatube|23.08.5|24.02.2|desktop-kde||
-|platformdirs|2.5.2|4.2.1|lang-python||
+|platformdirs|2.5.2|4.2.2|lang-python||
 |playerctl|2.0.1|2.4.1|app-multimedia||
 |pluggy|1.0.0|1.5.0|lang-python||
 |plymouth|22.02.122|24.004.60|app-admin||
