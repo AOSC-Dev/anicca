@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715768025?label=Updated)
+![Relative date](https://img.shields.io/date/1715771545?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -854,7 +854,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hwdata|0.377|0.382|runtime-data||
 |hwloc|1.11.10|2.10.0|app-admin||
 |hyper-h11|0.12.0|0.14.0|lang-python||
-|hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.102.4|lang-python||
@@ -1116,7 +1115,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.02.2|desktop-kde||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.02.2|desktop-kde||
-|kirigami-addons|0.11.0|1.2.0|desktop-kde||
+|kirigami-addons|0.11.0|1.2.1|desktop-kde||
 |kirigami-gallery|23.08.5|24.02.2|desktop-kde||
 |kirigami2|5.115.0|6.0.4|desktop-kde||
 |kiriki|23.08.5|24.02.2|desktop-kde||
@@ -1935,6 +1934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencc|1.1.3|1.1.7|app-i18n||
+|opencl-clang|17.0.0|18.1.0|runtime-common||
 |opencl-registry-api|2022.01.04|2024.05.08|app-devel||
 |opencolorio|2.1.2|2.3.2|runtime-imaging||
 |openconnect|8.10|9.12|app-network||
@@ -3070,6 +3070,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|391|app-utils||
 |xviewer|3.0.2|3.4.4|app-imaging||
+|xwayland|23.2.6|23.2.7|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
 |xz|5.4.1|5.6.1|app-utils||
 |xz+32|5.2.5|5.6.1|runtime-optenv32||
