@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715760912?label=Updated)
+![Relative date](https://img.shields.io/date/1715764599?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -448,7 +448,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxyqml|0.5.0|0.5.3|app-doc||
 |dpdk|22.11.1|24.03|runtime-network||
 |dragon|23.08.5|24.02.2|desktop-kde||
-|drkonqi|5.27.11|6.0.4|desktop-kde||
 |dropbox|148.4.4519|199.4.6287|app-web||
 |drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
@@ -566,7 +565,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fortune-mod|3.6.1|3.20.0|app-games||
 |fortunes-zh|2.97|2.98|app-games||
 |fping|5.1|5.2|app-network||
-|fprintd|1.94.2|1.94.3|app-admin||
 |fractal|7.0|7|desktop-gnome||
 |frameworkintegration|5.115.0|6.0.4|desktop-kde||
 |freealut|1.1.0|1_1_0|runtime-multimedia||
@@ -715,7 +713,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome||
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome||
 |gnome-tour|42.0|46.0|desktop-gnome||
-|gnome-usage|3.38.1|46.0|desktop-gnome||
 |gnome-user-docs|42.0|46.1|desktop-gnome||
 |gnome-user-share|3.34.0|43.0|desktop-gnome||
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome||
@@ -831,6 +828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |hidapi|0.12.0|0.14.0|runtime-devices||
+|highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
@@ -1303,7 +1301,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
-|libaal|1.0.7|24"|runtime-admin||
 |libaccounts-glib|1.24|1.27|runtime-desktop||
 |libaccounts-qt|1.16|1.17|runtime-desktop||
 |libaio|0.3.111|0.3.113|runtime-common||
@@ -2369,7 +2366,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pynacl|1.3.0|1.5.0|lang-python||
 |pynput|1.7.6|1.7.7|lang-python||
 |pyopengl|3.1.5|3.1.7|lang-python||
-|pyopenssl|23.1.1|24.1.0|lang-python||
 |pyotherside|1.5.9|1.6.0|lang-python||
 |pyparsing|2.4.7|3.1.2|lang-python||
 |pyparted|3.11.6|3.12.0|lang-python||
@@ -2909,6 +2905,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils||
 |unbound|1.19.2<br>+icannbundle20210902|1.20.0|app-network|Compound version number '1.19.2+icannbundle20210902'|
+|uncrustify|0.78.1|0.79.0|app-devel||
 |unidecode|1.0.23|1.3.8|lang-python||
 |unifont|15.1.04|15.1.05|desktop-fonts||
 |unixodbc|2.3.9|2.3.12|app-database||
