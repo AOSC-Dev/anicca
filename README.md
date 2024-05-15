@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715771545?label=Updated)
+![Relative date](https://img.shields.io/date/1715775716?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -854,6 +854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hwdata|0.377|0.382|runtime-data||
 |hwloc|1.11.10|2.10.0|app-admin||
 |hyper-h11|0.12.0|0.14.0|lang-python||
+|hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.102.4|lang-python||
@@ -1587,7 +1588,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
-|libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.3.0|app-virtualization||
 |libvirt-python|10.1.0|10.3.0|runtime-virtualization||
 |libvisual|0.4.0|0.4.2|runtime-multimedia||
@@ -1865,7 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |network-manager-applet|1.28.0|1.36.0|desktop-gnome||
 |networkmanager|1.40.6|1.46.0|app-network||
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-l2tp|1.8.6|1.20.14|app-network||
+|networkmanager-l2tp|1.8.6|1.20.16|app-network||
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
@@ -3070,7 +3070,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|391|app-utils||
 |xviewer|3.0.2|3.4.4|app-imaging||
-|xwayland|23.2.6|23.2.7|runtime-display||
+|xwayland|23.2.6|24.1.0|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
 |xz|5.4.1|5.6.1|app-utils||
 |xz+32|5.2.5|5.6.1|runtime-optenv32||
