@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715757272?label=Updated)
+![Relative date](https://img.shields.io/date/1715760912?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -331,6 +331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|app-devel||
 |cracklib|2.9.8|2.9.11|runtime-cryptography||
 |crash|7.2.9|8.0.5|app-devel||
+|crazydiskinfo|1.0.2|1.1.0|app-utils||
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
@@ -556,7 +557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fltk|1.3.5|1.3.9|runtime-desktop||
 |fluidsynth|2.0.5|2.3.5|app-multimedia||
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32||
-|fmt|8.0.1|10.2.1|runtime-common||
 |folks|0.15.5|0.15.9|desktop-gnome||
 |font-awesome|6.5.1|6.5.2|desktop-fonts||
 |fontconfig|2.14.0|2.15.0|runtime-desktop||
@@ -831,7 +831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |hidapi|0.12.0|0.14.0|runtime-devices||
-|highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
@@ -951,6 +950,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |json-c|0.16|0.17|runtime-common||
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|runtime-common||
+|jsonlines|1.2.0|4.0.0|lang-python||
 |jsonpointer|2.3|2.4|lang-python||
 |jsonrpc-glib|3.42.0|3.44.0|runtime-common||
 |jsonschema|3.2.0|0.0.1|lang-python|Possible downgrade from the current version (3.2.0 -> 0.0.1)|
@@ -2657,7 +2657,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
-|spdlog|1.9.2|1.14.1|runtime-common||
 |spdx-licenses|3.11|3.23|runtime-data||
 |spectacle|22.12.3|24.02.2|desktop-kde||
 |speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
