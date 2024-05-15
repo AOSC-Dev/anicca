@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715789752?label=Updated)
+![Relative date](https://img.shields.io/date/1715793239?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -329,6 +329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cppcheck|2.8|2.14.0|app-devel||
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compound version number '1.58.0+a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel||
+|cpulimit|3.0|3.1|app-admin||
 |cracklib|2.9.8|2.9.11|runtime-cryptography||
 |crash|7.2.9|8.0.5|app-devel||
 |crazydiskinfo|1.0.2|1.1.0|app-utils||
@@ -1614,7 +1615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxau+32|1.0.9|1.0.11|runtime-optenv32||
 |libxaw3d|1.6.3|1.6.6|runtime-display||
 |libxcb|1.16.1|1.17.0|runtime-display||
-|libxcb+32|1.13|1.17.0|runtime-optenv32||
 |libxdg-basedir|1.2.0|1.2.3|runtime-desktop||
 |libxdmcp|1.1.4|1.1.5|runtime-display||
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
