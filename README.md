@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715733962?label=Updated)
+![Relative date](https://img.shields.io/date/1715738267?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -551,6 +551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
 |flask|1.1.2|3.0.3|lang-python||
 |flask-login|0.4.1|0.6.3|lang-python||
+|flask-wtf|0.14|1.2.1|lang-python||
 |flat-remix-gtk-theme|20200718|20220627|desktop-themes||
 |flat-remix-icon-theme|20191122|20240201|desktop-themes||
 |flatbuffers|2.0.6|24.3.25|runtime-common||
@@ -1636,7 +1637,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|runtime-common||
 |liferea|1.13.8|1.15.6|app-web||
 |light-locker|1.8.0|1.9.0|app-utils||
-|lightsoff|40.0.1|46.0|desktop-gnome||
 |lighttpd|1.4.55|1.4.76|app-network||
 |lilv|0.24.12|0.24.24|runtime-multimedia||
 |lilypond|2.23.0|2.25.4|app-multimedia||
@@ -3031,8 +3031,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxwidgets|3.2.4|3.2.5|runtime-desktop||
 |x11-proto|2023.2|2024.1|runtime-display||
 |x11-proto+32|2019.2|2024.1|runtime-optenv32||
-|x264|0<br>+git20240305|3190|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
-|x264+32|20160827.2245|3190|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3190)|
+|x264|0<br>+git20240305|3191|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
+|x264+32|20160827.2245|3191|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3191)|
 |x265+32|2.2|3.6|runtime-optenv32||
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
