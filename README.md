@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715742931?label=Updated)
+![Relative date](https://img.shields.io/date/1715746544?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -849,7 +849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
-|hugo|0.123.6|0.125.7|app-web||
+|hugo|0.123.6|0.126.0|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hwdata|0.377|0.382|runtime-data||
@@ -858,7 +858,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.102.1|lang-python||
+|hypothesis-python|6.97.4|6.102.2|lang-python||
 |hysteria|2.4.0|2.4.3|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -944,7 +944,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jellyfish|0.6.0|1.0.3|lang-python||
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
-|jmespath|0.10.0|1.0.1|lang-python||
 |jmol|14.30.0|16.2.15|app-scientific||
 |john|1.8.0|1.9.0|app-penetration||
 |josepy|1.13.0|1.14.0|lang-python||
