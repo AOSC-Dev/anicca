@@ -1,11 +1,11 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715811223?label=Updated)
+![Relative date](https://img.shields.io/date/1715814780?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
-|7-zip|23.01|24.03|app-utils||
+|7-zip|23.01|24.05|app-utils||
 |a2ps|4.14|4.15.6|app-doc||
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1774,6 +1774,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |milou|5.27.11|6.0.4|desktop-kde||
 |mimalloc|2.1.2|2.1.6|runtime-common||
 |mime-types|9|99|runtime-data||
+|minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|runtime-optenvw64||
 |mini-portile|2.8.0|2.8.6|lang-ruby||
 |minicom|2.8|2.9|app-utils||
