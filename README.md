@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715793239?label=Updated)
+![Relative date](https://img.shields.io/date/1715796886?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -101,8 +101,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
-|aspnetcore-runtime-6.0|6.0.0|6.0.29|app-devel||
-|aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|app-devel||
+|aspnetcore-runtime-6.0|6.0.0|6.0.30|app-devel||
+|aspnetcore-runtime-8.0|8.0.4|8.0.5|app-devel||
+|aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
+|aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
 |assimp|5.3.1|5.4.1|runtime-multimedia||
 |ast-grep|0.22.2|0.22.3|app-devel||
 |astroid|2.12.2|3.2.0|lang-python||
@@ -431,18 +433,24 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
 |dosbox|0.74<br>+3|0.74-3|app-emulation|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|runtime-common||
-|dotnet-apphost-pack-6.0|6.0.0|6.0.29|lang-dotnet||
+|dotnet-apphost-pack-6.0|6.0.0|6.0.30|lang-dotnet||
+|dotnet-apphost-pack-8.0|8.0.4|8.0.5|lang-dotnet||
+|dotnet-host|8.0.4|8.0.5|lang-dotnet||
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet||
-|dotnet-hostfxr-6.0|6.0.0|6.0.29|lang-dotnet||
+|dotnet-hostfxr-6.0|6.0.0|6.0.30|lang-dotnet||
+|dotnet-hostfxr-8.0|8.0.4|8.0.5|lang-dotnet||
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet||
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet||
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet||
-|dotnet-runtime-6.0|6.0.0|6.0.29|lang-dotnet||
-|dotnet-runtime-deps-6.0|6.0.0|6.0.29|lang-dotnet||
-|dotnet-sdk-6.0|6.0.100|6.0.421|app-devel||
-|dotnet-targeting-pack-6.0|6.0.0|6.0.29|lang-dotnet||
-|dotnet-templates-6.0|6.0.100|6.0.421|app-devel||
-|dotnet-templates-8.0|8.0.204|6.0.421|app-devel|Possible downgrade from the current version (8.0.204 -> 6.0.421)|
+|dotnet-runtime-6.0|6.0.0|6.0.30|lang-dotnet||
+|dotnet-runtime-8.0|8.0.4|8.0.5|lang-dotnet||
+|dotnet-runtime-deps-6.0|6.0.0|6.0.30|lang-dotnet||
+|dotnet-sdk-6.0|6.0.100|6.0.422|app-devel||
+|dotnet-sdk-8.0|8.0.204|8.0.300|app-devel||
+|dotnet-targeting-pack-6.0|6.0.0|6.0.30|lang-dotnet||
+|dotnet-targeting-pack-8.0|8.0.4|8.0.5|lang-dotnet||
+|dotnet-templates-6.0|6.0.100|6.0.422|app-devel||
+|dotnet-templates-8.0|8.0.204|6.0.422|app-devel|Possible downgrade from the current version (8.0.204 -> 6.0.422)|
 |double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_10_0|app-doc||
@@ -1615,6 +1623,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxau+32|1.0.9|1.0.11|runtime-optenv32||
 |libxaw3d|1.6.3|1.6.6|runtime-display||
 |libxcb|1.16.1|1.17.0|runtime-display||
+|libxcb+32|1.13|1.17.0|runtime-optenv32||
 |libxdg-basedir|1.2.0|1.2.3|runtime-desktop||
 |libxdmcp|1.1.4|1.1.5|runtime-display||
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
@@ -2481,7 +2490,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode+32|3.6|3.7.14|runtime-optenv32||
 |recommonmark|20180907|0.7.1|lang-python|Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
-|regex|2019.02.21|2024.5.10|lang-python||
+|regex|2019.02.21|2024.5.15|lang-python||
 |reiser4progs|1.2.2|1.2.2.|app-admin||
 |remmina|1.4.31|1.4.35|app-network||
 |renderdoc|1.16|1.32|app-devel||
