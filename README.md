@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715778855?label=Updated)
+![Relative date](https://img.shields.io/date/1715782451?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -798,7 +798,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtranslator|42.0|46.1|desktop-gnome||
 |gucharmap|15.1.3|15.1.4|desktop-gnome||
 |guile|3.0.4|3.0.9|app-devel||
-|gulp|4.0.0|5.0.0|lang-js||
 |gupnp|1.2.4|1.6.6|desktop-gnome||
 |gupnp-av|0.12.11|0.14.1|desktop-gnome||
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome||
@@ -1009,7 +1008,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
 |kcmutils|5.115.0|6.0.4|desktop-kde||
 |kcodecs|5.115.0|6.0.4|desktop-kde||
-|kcolorchooser|23.08.5|24.02.2|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
 |kcompletion|5.115.0|6.0.4|desktop-kde||
 |kconfig|5.115.0|6.0.4|desktop-kde||
@@ -2560,6 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scandir|1.9.0|1.10.0|lang-python||
 |scapy|2.4.4|2.5.0|app-network||
 |sccache|0.3.3|0.8.0|app-devel||
+|scdoc|1.11.2|1.11.3|app-doc||
 |schema|0.7.5|0.7.7|lang-python||
 |scons|4.4.0|4.7.0|app-devel||
 |scour|0.37|0.38.2|app-utils||
