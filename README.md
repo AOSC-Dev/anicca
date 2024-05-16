@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715890457?label=Updated)
+![Relative date](https://img.shields.io/date/1715894034?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -190,7 +190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.106|lang-python||
+|boto3|1.20.26|1.34.107|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -512,7 +512,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faac|1.29.9.2|1.30|app-multimedia||
 |faac+32|1.28|1.30|runtime-optenv32||
 |faad2|2.10.0|2.11.1|app-multimedia||
-|faad2+32|2.10.0|2.11.1|runtime-optenv32||
 |facile|1.1.3|1.1.4|lang-ocaml||
 |fail2ban|1.0.2|1.1.0|app-admin||
 |falkon|23.08.5|24.02.2|desktop-kde||
@@ -1175,7 +1174,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifications|5.115.0|6.0.4|desktop-kde||
 |knotifyconfig|5.115.0|6.0.4|desktop-kde||
 |knowit-trinity|14.1.0|14.1.2|desktop-trinity||
-|knutclient-trinity|14.1.0|14.1.2|desktop-trinity||
 |kodi|20.3|21.0|app-multimedia||
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|app-multimedia||
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2123,7 +2121,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gtk2-unique|0.05|0.07|lang-perl||
 |perl-html-form|6.03|6.11|lang-perl||
 |perl-html-parser|3.72|3.82|lang-perl||
-|perl-html-tagset|3.20|3.24|lang-perl||
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
 |perl-http-date|6.02|6.06|lang-perl||
@@ -2440,7 +2437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
-|qmmp|1.6.5|2.1.7|app-multimedia||
+|qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.1|app-web||
 |qqc2-desktop-style|5.115.0|6.0.4|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
