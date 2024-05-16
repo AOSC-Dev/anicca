@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715847178?label=Updated)
+![Relative date](https://img.shields.io/date/1715850729?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -2292,7 +2292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |popt+32|1.16|1.19|runtime-optenv32||
 |portaudio|19<br>+20140130|190600_20161030|runtime-multimedia|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32|Compound version number '19+20140130'|
-|portmidi|217|236|runtime-multimedia||
+|portmidi|2.0.4|236|runtime-multimedia||
 |postfix|3.7.3|3.9.0|app-web||
 |postgresql|13.13|16.3|app-database||
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2356,7 +2356,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
-|pygame|2.0.2|2.5.2|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
