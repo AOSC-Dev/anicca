@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715843501?label=Updated)
+![Relative date](https://img.shields.io/date/1715847178?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -666,7 +666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitui|0.25.0|0.26.1|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
-|glances|3.4.0.2|4.0.2|app-admin||
+|glances|3.4.0.2|4.0.4|app-admin||
 |glib|2.80.0|2.80.2|runtime-common||
 |glib+32|2.62.6|2.80.2|runtime-optenv32||
 |glib-networking|2.72.2|2.80.0|runtime-common||
@@ -2876,7 +2876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|app-web||
 |trash-cli|0.17.1.14|0.24.4.17|app-utils||
 |tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
-|trio|0.24.0|0.25.0|lang-python||
+|trio|0.24.0|0.25.1|lang-python||
 |trollius|2.1|2.2.1|lang-python||
 |trove-classifiers|2024.1.31|2024.4.10|lang-python||
 |tslib|1.21|1.23|runtime-devices||
