@@ -1,10 +1,9 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715868781?label=Updated)
+![Relative date](https://img.shields.io/date/1715872428?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
-|1-ming|8.00|8.10|desktop-fonts||
 |7-zip|23.01|24.05|app-utils||
 |a2ps|4.14|4.15.6|app-doc||
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -106,7 +105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
 |assimp|5.3.1|5.4.1|runtime-multimedia||
-|ast-grep|0.22.2|0.22.3|app-devel||
 |astroid|2.12.2|3.2.0|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.15|app-devel||
@@ -120,7 +118,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
 |attrs|20.3.0|23.2.0|lang-python||
-|atuin|18.0.1|18.2.0|app-utils||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.02.2|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -518,7 +515,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fail2ban|1.0.2|1.1.0|app-admin||
 |falkon|23.08.5|24.02.2|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
-|fantasque-sans-mono-nerd-fonts|3.1.1|3.2.1|desktop-fonts||
 |fasteners|0.18|0.19|lang-python||
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
@@ -592,7 +588,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi|1.0.10|1.0.14|app-scientific||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
-|frp|0.57.0|0.58.0|app-network||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin||
 |fuse-python|0.3.1|1.0.7|lang-python||
@@ -871,7 +866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
-|ibm-plex-fonts|6.3.0|6.4.0|desktop-fonts||
 |ibus|1.5.25|1.5.30|app-i18n||
 |ibus-anthy|1.5.13|1.5.16|app-i18n||
 |ibus-chewing|1.6.1|2.0.0|app-i18n||
@@ -967,7 +961,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.02.2|desktop-kde||
 |jupyter-client|5.2.4|8.6.1|lang-python||
 |jupyter-core|4.4.0|5.7.2|lang-python||
-|just|1.25.2|1.26.0|app-devel||
 |k3b|23.08.5|24.02.2|desktop-kde||
 |k3b-trinity|14.1.0|14.1.2|desktop-trinity||
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1309,7 +1302,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.35.0|1.38.0|lang-dlang||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
-|level-zero|1.16.14|1.17.0|runtime-common||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
@@ -1700,9 +1692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|desktop-lxde||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.206|0.300.4|desktop-fonts||
-|lxgwnewcleargothic-font|1.108|1.121|desktop-fonts||
-|lxgwwenkai-font|1.315|1.330|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
@@ -1857,6 +1846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neochat|23.08.5|24.02.2|desktop-kde||
 |neomutt|20200619|20240425|app-web||
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
+|neovim|0.9.5|0.10.0|app-editors||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.2.1|lang-python||
@@ -2489,7 +2479,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.5.15|lang-python||
 |reiser4progs|1.2.2|1.2.2.|app-admin||
-|remmina|1.4.31|1.4.35|app-network||
 |renderdoc|1.16|1.32|app-devel||
 |repo|2.43|2.45|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
@@ -2556,7 +2545,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.0|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
-|sarasa-gothic-fonts|1.0.3|1.0.12|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc|1.4|2.0|app-multimedia||
@@ -2710,7 +2698,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network||
 |sslh|1.19c|2.1.1|app-network||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
-|starship|1.17.1|1.19.0|app-utils||
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.02.2|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
@@ -2918,7 +2905,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unbound|1.19.2<br>+icannbundle20210902|1.20.0|app-network|Compound version number '1.19.2+icannbundle20210902'|
 |uncrustify|0.78.1|0.79.0|app-devel||
 |unidecode|1.0.23|1.3.8|lang-python||
-|unifont|15.1.04|15.1.05|desktop-fonts||
 |unixodbc|2.3.9|2.3.12|app-database||
 |unpaper|20190211|7.0.0|app-doc|Possible downgrade from the current version (20190211 -> 7.0.0)|
 |unrar|6.2.2|6.2.12|app-utils||
