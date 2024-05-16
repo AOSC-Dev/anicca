@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715829269?label=Updated)
+![Relative date](https://img.shields.io/date/1715832747?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -839,6 +839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |hidapi|0.12.0|0.14.0|runtime-devices||
+|highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
@@ -2262,7 +2263,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.0.4|desktop-kde||
 |plasmatube|23.08.5|24.02.2|desktop-kde||
 |platformdirs|2.5.2|4.2.2|lang-python||
-|playerctl|2.0.1|2.4.1|app-multimedia||
 |pluggy|1.0.0|1.5.0|lang-python||
 |plymouth|22.02.122|24.004.60|app-admin||
 |plymouth-kcm|5.27.11|6.0.4|desktop-kde||
