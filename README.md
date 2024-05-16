@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715820356?label=Updated)
+![Relative date](https://img.shields.io/date/1715824563?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -320,7 +320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.13|1.7.16|app-containers||
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|runtime-containers|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|app-utils||
-|coreboot-utils|4.15|24.02.01|app-admin||
+|coreboot-utils|4.15|24.05|app-admin||
 |corefreq|20170301|1.97.2-x86_64|app-utils|Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
 |coreutils|9.4|9.5|app-utils||
 |corrosion|0.2.1|0.4.10|app-devel||
@@ -787,7 +787,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gstreamer|1.22.0|1.24.3|runtime-multimedia||
 |gstreamer-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
@@ -1583,7 +1582,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libudfread|1.1.1|1.1.2|runtime-multimedia||
 |libuhd|4.5.0.0|4.6.0.0|runtime-ham||
 |libuninameslist|20190701|20230916|runtime-i18n||
-|libunistring|0.9.10|1.2|runtime-common||
 |libunwind|1.6.2|1.8.1|runtime-common||
 |libupnp|1.14.16|1.14.19|runtime-network||
 |liburing|2.0|2.6|runtime-common||
@@ -1876,7 +1874,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
-|networkmanager-qt|5.115.0|6.0.4|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
 |networkmanager-vpnc|1.2.6|1.2.8|app-network||
 |networkx|2.8.5|3.3|lang-python||
@@ -2697,10 +2694,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfs-tools-ng|1.2.0|1.3.1|app-admin||
-|squashfuse|0.1.105|0.5.2|app-admin||
 |squid|5.7|6.9|app-web||
 |sra-tools|3.0.3|3.1.0|app-scientific||
-|srain|1.5.1|1.7.0|app-web||
 |sratom|0.6.4|0.6.16|runtime-common||
 |srecord|1.64|1.65.0|app-utils||
 |srtp|2.4.0|2.6.0|runtime-multimedia||
@@ -3126,7 +3121,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-interface|5.4.0|6.4|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
-|zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
 |zxtune|5053|5061|app-multimedia||
