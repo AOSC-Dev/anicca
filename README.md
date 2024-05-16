@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715832747?label=Updated)
+![Relative date](https://img.shields.io/date/1715836419?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -1198,7 +1198,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontrast|23.08.5|24.02.2|desktop-kde||
 |konversation|23.08.5|24.02.2|desktop-kde||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity||
-|kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
 |kopeninghours|23.08.5|24.02.2|desktop-kde||
 |kopete|23.08.5|24.02.2|desktop-kde||
 |kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1600,7 +1599,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt-python|10.1.0|10.3.0|runtime-virtualization||
 |libvisual|0.4.0|0.4.2|runtime-multimedia||
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32||
-|libvncserver|0.9.13|0.9.14|runtime-network||
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
 |libvpx|1.10.0|1.14.0|runtime-multimedia||
 |libvpx+32|1.9.0|1.14.0|runtime-optenv32||
