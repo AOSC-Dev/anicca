@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715826434?label=Updated)
+![Relative date](https://img.shields.io/date/1715829269?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -839,7 +839,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |hidapi|0.12.0|0.14.0|runtime-devices||
-|highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
@@ -1794,6 +1793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.22.0|app-network||
 |modemmanager-qt|5.115.0|6.0.4|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
+|mold|2.4.0|2.31.0|app-devel||
 |mono|6.12.0.182|6.12.0.206|lang-dotnet||
 |monotonic|1.5|1.6|lang-python||
 |moodbar|1.2.1|1.3.0|app-multimedia||
@@ -2496,7 +2496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
-|rexml|3.2.5|3.2.6|lang-ruby||
+|rexml|3.2.5|3.2.7|lang-ruby||
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rhythmbox|3.4.4|3.4.7|app-multimedia||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
