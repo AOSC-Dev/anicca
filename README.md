@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715883282?label=Updated)
+![Relative date](https://img.shields.io/date/1715886593?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1028,7 +1028,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.4|desktop-kde||
-|kde-dev-scripts|23.08.5|24.02.2|desktop-kde||
 |kde-dev-utils|23.08.5|24.02.2|desktop-kde||
 |kde-gtk-config|5.27.11|6.0.4|desktop-kde||
 |kde-inotify-survey|23.08.5|24.02.2|desktop-kde||
