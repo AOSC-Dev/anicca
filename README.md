@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715894034?label=Updated)
+![Relative date](https://img.shields.io/date/1715897528?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -512,6 +512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faac|1.29.9.2|1.30|app-multimedia||
 |faac+32|1.28|1.30|runtime-optenv32||
 |faad2|2.10.0|2.11.1|app-multimedia||
+|faad2+32|2.10.0|2.11.1|runtime-optenv32||
 |facile|1.1.3|1.1.4|lang-ocaml||
 |fail2ban|1.0.2|1.1.0|app-admin||
 |falkon|23.08.5|24.02.2|desktop-kde||
@@ -1174,6 +1175,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifications|5.115.0|6.0.4|desktop-kde||
 |knotifyconfig|5.115.0|6.0.4|desktop-kde||
 |knowit-trinity|14.1.0|14.1.2|desktop-trinity||
+|knutclient-trinity|14.1.0|14.1.2|desktop-trinity||
 |kodi|20.3|21.0|app-multimedia||
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|app-multimedia||
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1924,7 +1926,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
-|opam|2.1.3|2.1.5|lang-ocaml||
+|opam|2.1.3|2.1.6|lang-ocaml||
 |open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-rs|5.0.1|5.1.2|app-utils||
@@ -2121,6 +2123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gtk2-unique|0.05|0.07|lang-perl||
 |perl-html-form|6.03|6.11|lang-perl||
 |perl-html-parser|3.72|3.82|lang-perl||
+|perl-html-tagset|3.20|3.24|lang-perl||
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
 |perl-http-date|6.02|6.06|lang-perl||
