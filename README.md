@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715857883?label=Updated)
+![Relative date](https://img.shields.io/date/1715862059?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -185,6 +185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-qt|5.115.0|6.0.4|desktop-kde||
 |bochs|2.6.11|2.8|app-emulation||
 |boinc|7.24.3|8.0/8.0.1|app-scientific||
+|bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.02.2|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
@@ -1695,7 +1696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lucene++|3.0.8|3.0.9|runtime-common||
 |lunzip|1.10|1.14|app-utils||
 |lutris|0.5.11|0.5.17|app-games||
-|lvm2|2.03.14|2.03.23|app-admin||
+|lvm2|2.03.14|2.03.24|app-admin||
 |lxappearance|0.6.2|0.6.3|desktop-lxde||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
