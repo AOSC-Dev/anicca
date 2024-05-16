@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715814780?label=Updated)
+![Relative date](https://img.shields.io/date/1715820356?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -237,7 +237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |castxml|0.6.2|0.6.6|app-devel||
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||
-|cava|0.10.1|0.10.2|app-multimedia||
 |cbm|0.2|0.3.2|app-network||
 |ccid|1.5.1|1.5.5|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
@@ -547,7 +546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|app-utils|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |fio|3.35|3.37|app-utils||
-|firefox|123.0|126.0|app-web||
+|firefox|125.0.3|126.0|app-web||
 |firehol|3.1.6|3.1.7|app-network||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
@@ -1489,7 +1488,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnice|0.1.17|0.1.22|runtime-network||
 |libnl|3.5.0|3.9.0|runtime-network||
 |libnl+32|3.2.28|3.9.0|runtime-optenv32||
-|libnma|1.10.2|1.10.6|runtime-network||
 |libnotify|0.7.9|0.8.3|runtime-desktop||
 |libnsl2|1.3.0|2.0.1|runtime-network||
 |libnspsl|0.1.6|0.1.7|runtime-web||
@@ -1740,7 +1738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.38.10|runtime-creativity||
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
-|matplotlib|3.8.0|3.8.4|lang-python||
+|matplotlib|3.8.0|3.9.0|lang-python||
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|app-scientific||
@@ -1872,7 +1870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|app-devel||
 |nettle|3.7.2|3.9.1|runtime-cryptography||
 |nettle+32|3.7.2|3.9.1|runtime-optenv32||
-|network-manager-applet|1.28.0|1.36.0|desktop-gnome||
 |networkmanager|1.40.6|1.46.0|app-network||
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
