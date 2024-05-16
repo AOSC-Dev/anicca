@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715886593?label=Updated)
+![Relative date](https://img.shields.io/date/1715890457?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -454,6 +454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.10.0|1_10_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
 |dpdk|22.11.1|24.03|runtime-network||
+|dracut|059|101|app-admin||
 |dragon|23.08.5|24.02.2|desktop-kde||
 |drkonqi|5.27.11|6.0.4|desktop-kde||
 |dropbox|148.4.4519|199.4.6287|app-web||
@@ -1028,6 +1029,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.4|desktop-kde||
+|kde-dev-scripts|23.08.5|24.02.2|desktop-kde||
 |kde-dev-utils|23.08.5|24.02.2|desktop-kde||
 |kde-gtk-config|5.27.11|6.0.4|desktop-kde||
 |kde-inotify-survey|23.08.5|24.02.2|desktop-kde||
@@ -2883,7 +2885,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc||
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
-|typing-extensions|4.7.1|4.11.0|lang-python||
+|typing-extensions|4.7.1|4.12.0a2|lang-python||
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
