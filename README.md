@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715852416?label=Updated)
+![Relative date](https://img.shields.io/date/1715854345?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts||
@@ -856,7 +856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
-|hugo|0.123.6|0.126.0|app-web||
+|hugo|0.123.6|0.126.1|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hwdata|0.377|0.382|runtime-data||
@@ -908,12 +908,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|app-utils||
 |inih|53|58|app-devel||
 |iniparse|0.4|0.5|lang-python||
-|iniparser|4.1|4.2|runtime-common||
+|iniparser|4.1|4.2.1|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |inotify-tools|3.21.9.6|4.23.9.0|app-admin||
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
-|intel-graphics-compiler|1.0.16510.2|1.0.16747.7|app-devel||
+|intel-graphics-compiler|1.0.16510.2|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
 |intel-ucode|20221108|20240514|runtime-data||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
@@ -2233,6 +2233,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
+|pipewire|1.0.6|1.1.81|app-multimedia||
 |pipewire-0.2|0.2.7|1.1.81|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
