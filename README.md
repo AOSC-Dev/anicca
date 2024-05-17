@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715958742?label=Updated)
+![Relative date](https://img.shields.io/date/1715962555?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -105,7 +105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ast-grep|0.22.2|0.22.3|app-devel||
 |astroid|2.12.2|3.2.1|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
-|astyle|3.4.14|3.4.15|app-devel||
+|astyle|3.4.14|3.4.16|app-devel||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
 |at-spi2-core+32|2.26.3|2.52.0|runtime-optenv32||
 |atk+32|2.26.1|2.38.0|runtime-optenv32||
@@ -173,6 +173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.02.2|desktop-kde||
 |blinker|1.4|1.8.2|lang-python||
 |bluedevil|5.27.11|6.0.4|desktop-kde||
+|bluez|5.75|5.76|app-devices||
 |bluez-alsa|3.0.0|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.4|desktop-kde||
 |boinc|7.24.3|8.0/8.0.1|app-scientific||
@@ -2365,7 +2366,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypdf2|1.26.0|4.2.0|lang-python||
 |pyperf|2.5.0|2.6.3|lang-python||
 |pypkgconfig|1.4.0|1.5.5|lang-python||
-|pypsutil|5.8.0|5.9.8|lang-python||
 |pyqt-builder|1.12.1|1.16.2|lang-python||
 |pyqt5|5.15.5|5.15.10|lang-python||
 |pyqt5-sip|12.9.0|12.13.0|lang-python||
@@ -2688,7 +2688,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ss-tproxy|4.6.1|4.8|app-network||
 |sshfs|3.6.0|3.7.3|app-network||
 |sshpass|1.06|1.10|app-network||
-|sslh|1.19c|2.1.1|app-network||
+|sslh|1.19c|2.1.2|app-network||
+|sssd|2.9.4|2.9.5|app-admin||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.02.2|desktop-kde||
