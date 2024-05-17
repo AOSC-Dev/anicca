@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715976799?label=Updated)
+![Relative date](https://img.shields.io/date/1715980282?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -811,7 +811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
-|haruna|0.12.3|1.1.0|desktop-kde||
+|haruna|0.12.3|1.1.1|desktop-kde||
 |harvid|0.8.3|0.9.1|app-multimedia||
 |hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
