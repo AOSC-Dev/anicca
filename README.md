@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715929957?label=Updated)
+![Relative date](https://img.shields.io/date/1715933793?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -165,7 +165,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bigsh0t|2.5.1|2.7|runtime-multimedia||
 |bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
 |binutils+32|2.38|2.42|runtime-optenv32||
-|binutils+w64|2.34|2.42|runtime-optenvw64||
 |bird|2.14|2.15.1|app-network||
 |black-hole-solver|1.10.1|1.12.0|runtime-games||
 |bleachbit|4.0.0|4.6.0|app-utils||
@@ -1261,7 +1260,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.02.2|desktop-kde||
 |kunitconversion|5.115.0|6.0.4|desktop-kde||
-|kvantum|1.0.10|1.1.1|desktop-kde||
 |kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2733,7 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
 |tagparser|11.5.1|12.1.0|runtime-multimedia||
-|tailscale|1.64.2|1.66.1|app-network||
+|tailscale|1.64.2|1.66.3|app-network||
 |taisei|1.3.2|1.4.1|app-games||
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
@@ -2858,7 +2856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
 |trio|0.24.0|0.25.1|lang-python||
 |trollius|2.1|2.2.1|lang-python||
-|trove-classifiers|2024.1.31|2024.4.10|lang-python||
+|trove-classifiers|2024.1.31|2024.5.17|lang-python||
 |tslib|1.21|1.23|runtime-devices||
 |ttf-misaki|2021.05.05|2021-05-05|desktop-fonts||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
