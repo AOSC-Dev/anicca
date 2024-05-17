@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715919263?label=Updated)
+![Relative date](https://img.shields.io/date/1715922898?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1145,11 +1145,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmenuedit|5.27.11|6.0.4|desktop-kde||
 |kmime|23.08.5|24.02.2|desktop-kde||
 |kmines|23.08.5|24.02.2|desktop-kde||
+|kmix|23.08.5|24.02.2|desktop-kde||
 |kmod|31|32|app-admin||
 |kmousetool|23.08.5|24.02.2|desktop-kde||
 |kmouth|23.08.5|24.02.2|desktop-kde||
 |kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kmplot|23.08.5|24.02.2|desktop-kde||
 |kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
 |kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1293,7 +1293,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.9|2.16|runtime-optenv32||
 |ldb|2.6.1|2.9.0|app-database||
 |ldc|1.35.0|1.38.0|lang-dlang||
-|leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
