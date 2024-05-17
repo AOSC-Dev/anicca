@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715965872?label=Updated)
+![Relative date](https://img.shields.io/date/1715969798?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -115,7 +115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.0.4|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
-|attrs|20.3.0|23.2.0|lang-python||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.02.2|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -310,7 +309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
-|containerd|1.7.13|1.7.16|app-containers||
+|containerd|1.7.13|1.7.17|app-containers||
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|runtime-containers|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|app-utils||
 |coreboot-utils|4.15|24.05|app-admin||
@@ -1359,7 +1358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libe-book|0.1.2|0.1.3|runtime-doc||
 |libebml|1.4.0|1.4.5|runtime-multimedia||
 |libeconf|0.5.0|0.6.3|runtime-common||
-|libedit|20191231<br>+3.1|20230828-3.1|runtime-common|Compound version number '20191231+3.1'|
+|libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
 |libepubgen|0.1.0|0.1.1|runtime-doc||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts||
@@ -1640,6 +1639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
+|linux-kernel-lts|6.6.17|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-pam|1.6.0|1.6.1|app-admin||
@@ -2953,7 +2953,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
-|vrms|1.27|1.33|app-utils||
+|vrms|1.27|1.34|app-utils||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.1|runtime-desktop||
 |vulkan-extensionlayer|1.3.280.0|1.3.285|runtime-display||
@@ -3021,7 +3021,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|runtime-display||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32||
-|xcffib|0.7.0|1.5.0|lang-python||
 |xclip|20191017|0.13|app-utils|Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.9|desktop-wm||
 |xcowsay|1.4|1.6|app-utils||
