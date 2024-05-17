@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715906874?label=Updated)
+![Relative date](https://img.shields.io/date/1715910926?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -832,6 +832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common||
 |hdsentinel|0.17|400s|app-utils||
 |helix|23.10|24.03|app-editors||
+|help2man|1.48.1|1.49.3|app-doc||
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
@@ -1356,6 +1357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdecor|0.1.1|0.2.2|runtime-desktop||
 |libdeflate|1.19|1.20|runtime-common||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia||
+|libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
 |libdmapsharing|2.9.41|3_9_13|runtime-multimedia||
 |libdnet|1.12|1.18.0|runtime-network||
 |libdrm+32|2.4.113|2.4.120|runtime-optenv32||
@@ -2005,6 +2007,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pamixer|1.4|1.6|app-multimedia||
 |pandas|2.1.2|2.2.2|lang-python||
 |pandoc|3.1.13|3.2|app-doc||
+|pango+32|1.44.7|1.52.2|runtime-optenv32||
 |pangomm|2.46.3|2.52.0|runtime-desktop||
 |pangomm-2.48|2.50.1|2.52.0|runtime-desktop||
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Possible downgrade from the current version (20180816 -> .1.5.0)|
@@ -2310,6 +2313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |protobuf-c|1.3.3|1.5.0|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils||
+|pstate-frequency|3.11.0|3.15.1|app-admin||
 |pstoedit|3.75|4.01|app-doc||
 |psycopg2|2.8.6|2.9.9|lang-python||
 |ptex|2.3.2|2.4.2|runtime-creativity||
@@ -2469,6 +2473,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdma-core|38.0|51.0|app-admin||
 |re2|20190901|2024-05-01|runtime-common|Possible downgrade from the current version (20190901 -> 2024-05-01)|
 |re2c|1.3|3.1|runtime-common||
+|readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|6.3.008|8.2|runtime-optenv32||
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
 |recode|3.7.7|3.7.14|app-utils||
@@ -2518,6 +2523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rt-tests|2.6|2.7|app-utils||
 |rtaudio|5.1.0|6.0.1|runtime-multimedia||
 |rtmidi|4.0.0|6.0.0|runtime-multimedia||
+|rtmpdump|20151223|2.3|app-network|Possible downgrade from the current version (20151223 -> 2.3)|
 |rtmpdump+32|20150114|2.3|runtime-optenv32|Possible downgrade from the current version (20150114 -> 2.3)|
 |rtslib-fb|2.1.75|2.1.76|app-admin||
 |rtv|1.27.0|1.27.1|app-web||
