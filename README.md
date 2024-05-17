@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715955126?label=Updated)
+![Relative date](https://img.shields.io/date/1715958742?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -77,6 +77,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |arandr|0.1.10|0.1.11|app-utils||
+|aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
 |arc-theme|20210412|20221218|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
@@ -305,7 +306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configshell-fb|1.1.28|1.1.30|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
 |conky|1.10.8|1.21.0|app-utils||
-|conmon|2.1.10|2.1.11|app-admin||
+|conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
 |containerd|1.7.13|1.7.16|app-containers||
