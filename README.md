@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715962555?label=Updated)
+![Relative date](https://img.shields.io/date/1715965872?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1640,7 +1640,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
-|linux-kernel-lts|6.6.17|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-pam|1.6.0|1.6.1|app-admin||
@@ -2366,6 +2365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypdf2|1.26.0|4.2.0|lang-python||
 |pyperf|2.5.0|2.6.3|lang-python||
 |pypkgconfig|1.4.0|1.5.5|lang-python||
+|pypsutil|5.8.0|5.9.8|lang-python||
 |pyqt-builder|1.12.1|1.16.2|lang-python||
 |pyqt5|5.15.5|5.15.10|lang-python||
 |pyqt5-sip|12.9.0|12.13.0|lang-python||
