@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715948406?label=Updated)
+![Relative date](https://img.shields.io/date/1715951683?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -848,7 +848,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hwdata|0.377|0.382|runtime-data||
-|hwloc|1.11.10|2.10.0|app-admin||
 |hyper-h11|0.12.0|0.14.0|lang-python||
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
@@ -1700,7 +1699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m3u8|0.7.1|5.0.0|lang-python||
 |mac-fdisk|0.1|0.1.orig|app-admin|Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|app-network||
-|mailcommon|23.08.5|24.02.2|desktop-kde||
 |mailimporter|23.08.5|24.02.2|desktop-kde||
 |maim|5.5.3|5.8.0|app-utils||
 |mako|1.1.4|1.3.5|lang-python||
@@ -2592,7 +2590,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |showmethekey|1.12.0|1.13.1|app-utils||
 |shutter|0.94|0.99.2|app-utils||
 |siege|4.0.7|4.1.6|app-network||
-|signon|8.60|8.61|app-admin||
 |signon-kwallet-extension|23.08.5|24.02.2|desktop-kde||
 |signon-plugin-oauth2|0.24|0.25|runtime-desktop||
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
@@ -3039,6 +3036,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xfsprogs|6.7.0|6.8.0|app-admin||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
 |xjadeo|0.8.13|0.8.14|app-multimedia||
@@ -3049,7 +3047,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0|app-network||
 |xray|1.8.4|1.8.11|app-network||
-|xreader|3.8.5|4.0.2|app-doc||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsel|1.2.0|1.2.1|app-utils||
 |xsimd|10.0.0|13.0.0|runtime-common||
