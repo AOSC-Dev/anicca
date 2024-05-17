@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715980282?label=Updated)
+![Relative date](https://img.shields.io/date/1715984002?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -282,7 +282,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils||
 |cln|1.3.6|1.3.7|runtime-common||
 |cloc|1.84|2.00|app-utils||
-|clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
