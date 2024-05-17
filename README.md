@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715940801?label=Updated)
+![Relative date](https://img.shields.io/date/1715944376?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -648,7 +648,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-archive-all|1.20.0|1.23.1|app-vcs||
 |git-branchless|0.7.1|0.8.0|app-utils||
 |git-lfs|3.5.0|3.5.1|app-devel||
-|gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
 |gitui|0.25.0|0.26.1|app-utils||
@@ -925,7 +924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |itinerary|23.08.5|24.02.2|desktop-kde||
 |itsdangerous|1.1.0|2.2.0|lang-python||
 |iverilog|12.0|12_0|app-electronics||
-|iw|5.19|6.7|app-network||
+|iw|5.19|6.9|app-network||
 |iwd|1.20|2.17|app-network||
 |ixion|0.17.0|0.19.0|runtime-scientific||
 |j4-dmenu-desktop|2.17|2.18|app-utils||
@@ -1633,15 +1632,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api|6.7.12|5.19.17|core-devel|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.17|5.10.216|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.10.216)|
+|linux+kernel+lts|6.6.17|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.216|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.216|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.216)|
+|linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
+|linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.216|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.216|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.216)|
+|linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
+|linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-pam|1.6.0|1.6.1|app-admin||
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
@@ -2767,6 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
 |tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
+|tdeio-apt|14.1.0|14.1.2|desktop-trinity||
 |tdeio-ftps|14.1.0|14.1.2|desktop-trinity||
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity||
 |tdeio-sword|14.1.0|14.1.2|desktop-trinity||
@@ -2938,7 +2938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0412|app-editors||
+|vim|9.1.0393|9.1.0414|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
@@ -2948,6 +2948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vmpk|0.8.0|0.9.0|app-creativity||
 |vnstat|2.4|2.12|app-network||
 |volk|2.5.0|3.1.2|runtime-common||
+|volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vrms|1.27|1.33|app-utils||
