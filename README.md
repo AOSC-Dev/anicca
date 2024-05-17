@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715937268?label=Updated)
+![Relative date](https://img.shields.io/date/1715940801?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -2767,7 +2767,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
 |tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
-|tdeio-apt|14.1.0|14.1.2|desktop-trinity||
 |tdeio-ftps|14.1.0|14.1.2|desktop-trinity||
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity||
 |tdeio-sword|14.1.0|14.1.2|desktop-trinity||
