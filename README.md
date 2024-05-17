@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715910926?label=Updated)
+![Relative date](https://img.shields.io/date/1715912807?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1012,7 +1012,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kchmviewer-trinity|14.1.0|14.1.2|desktop-trinity||
 |kclock|23.08.5|24.02.2|desktop-kde||
 |kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
-|kcmutils|5.115.0|6.0.4|desktop-kde||
 |kcodecs|5.115.0|6.0.4|desktop-kde||
 |kcolorchooser|23.08.5|24.02.2|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
@@ -1258,7 +1257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|24.02.2|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
-|ktexteditor|5.115.0|6.0.4|desktop-kde||
 |ktextwidgets|5.115.0|6.0.4|desktop-kde||
 |ktimer|23.08.5|24.02.2|desktop-kde||
 |ktnef|23.08.5|24.02.2|desktop-kde||
@@ -1802,7 +1800,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpfr+32|3.1.4|4.2.1|runtime-optenv32||
 |mpg123|1.25.13|1.32.6|app-multimedia||
 |mpg123+32|1.25.13|1.32.6|runtime-optenv32||
-|mplayer|1.4|1.5|app-multimedia||
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
 |mpv|0.37.0|0.38.0|app-multimedia||
