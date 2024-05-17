@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715933793?label=Updated)
+![Relative date](https://img.shields.io/date/1715937268?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -165,6 +165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bigsh0t|2.5.1|2.7|runtime-multimedia||
 |bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
 |binutils+32|2.38|2.42|runtime-optenv32||
+|binutils+w64|2.34|2.42|runtime-optenvw64||
 |bird|2.14|2.15.1|app-network||
 |black-hole-solver|1.10.1|1.12.0|runtime-games||
 |bleachbit|4.0.0|4.6.0|app-utils||
@@ -1260,6 +1261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.02.2|desktop-kde||
 |kunitconversion|5.115.0|6.0.4|desktop-kde||
+|kvantum|1.0.10|1.1.1|desktop-kde||
 |kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2839,7 +2841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
-|tpm2-tss|2.3.3|4.1.1|runtime-devices||
+|tpm2-tss|2.3.3|4.1.2|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
 |tqdm|4.62.3|4.66.4|lang-python||
 |tqt3|14.1.0|14.1.2|desktop-trinity||
