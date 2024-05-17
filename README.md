@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715984002?label=Updated)
+![Relative date](https://img.shields.io/date/1715987606?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -282,6 +282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils||
 |cln|1.3.6|1.3.7|runtime-common||
 |cloc|1.84|2.00|app-utils||
+|clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
@@ -636,8 +637,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.0.3_build|app-devel||
-|ghostscript|9.54.0|10.03.0|app-doc||
-|ghostscript+32|9.27|10.03.0|runtime-optenv32||
+|ghostscript|9.54.0|10.03.1|app-doc||
+|ghostscript+32|9.27|10.03.1|runtime-optenv32||
 |ghostwriter|23.08.5|24.02.2|desktop-kde||
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging||
@@ -3084,7 +3085,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.02.2|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
-|zathura|0.5.2|0.5.6|app-doc||
 |zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeitgeist|1.0.3|1.0.4|app-admin||
