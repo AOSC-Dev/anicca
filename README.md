@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715951683?label=Updated)
+![Relative date](https://img.shields.io/date/1715955126?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -77,7 +77,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |arandr|0.1.10|0.1.11|app-utils||
-|aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
 |arc-theme|20210412|20221218|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
@@ -92,7 +91,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.02.2|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.3|app-utils||
+|asahi-fwextract|0.6.21|0.7.5|app-utils||
 |asciidoctor|2.0.12|2.0.22|app-doc||
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
@@ -103,7 +102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
 |ast-grep|0.22.2|0.22.3|app-devel||
-|astroid|2.12.2|3.2.0|lang-python||
+|astroid|2.12.2|3.2.1|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.15|app-devel||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -848,6 +847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hwdata|0.377|0.382|runtime-data||
+|hwloc|1.11.10|2.10.0|app-admin||
 |hyper-h11|0.12.0|0.14.0|lang-python||
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
@@ -1699,6 +1699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m3u8|0.7.1|5.0.0|lang-python||
 |mac-fdisk|0.1|0.1.orig|app-admin|Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|app-network||
+|mailcommon|23.08.5|24.02.2|desktop-kde||
 |mailimporter|23.08.5|24.02.2|desktop-kde||
 |maim|5.5.3|5.8.0|app-utils||
 |mako|1.1.4|1.3.5|lang-python||
@@ -2590,6 +2591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |showmethekey|1.12.0|1.13.1|app-utils||
 |shutter|0.94|0.99.2|app-utils||
 |siege|4.0.7|4.1.6|app-network||
+|signon|8.60|8.61|app-admin||
 |signon-kwallet-extension|23.08.5|24.02.2|desktop-kde||
 |signon-plugin-oauth2|0.24|0.25|runtime-desktop||
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
@@ -3047,6 +3049,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0|app-network||
 |xray|1.8.4|1.8.11|app-network||
+|xreader|3.8.5|4.0.2|app-doc||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsel|1.2.0|1.2.1|app-utils||
 |xsimd|10.0.0|13.0.0|runtime-common||
