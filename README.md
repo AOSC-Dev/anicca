@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715915604?label=Updated)
+![Relative date](https://img.shields.io/date/1715919263?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -95,7 +95,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.3|app-utils||
-|asciidoc|8.6.10|10.2.0|app-doc||
 |asciidoctor|2.0.12|2.0.22|app-doc||
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
@@ -126,7 +125,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|app-admin||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
-|autofs|5.1.8|5.1.9|app-admin||
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -151,9 +149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
 |baloo|5.115.0|6.0.4|desktop-kde||
 |baloo-widgets|23.08.5|24.02.2|desktop-kde||
-|balsa|2.6.3|2.6.4|desktop-gnome||
 |balz|1.20|9.86|app-utils||
-|bamf|0.5.5|0.5.6|runtime-desktop||
 |bandwhich|0.20.0|0.22.2|app-network||
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
@@ -181,7 +177,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.4|desktop-kde||
 |bluez-alsa|3.0.0|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.4|desktop-kde||
-|bochs|2.6.11|2.8|app-emulation||
 |boinc|7.24.3|8.0/8.0.1|app-scientific||
 |bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.02.2|desktop-kde||
@@ -1150,7 +1145,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmenuedit|5.27.11|6.0.4|desktop-kde||
 |kmime|23.08.5|24.02.2|desktop-kde||
 |kmines|23.08.5|24.02.2|desktop-kde||
-|kmix|23.08.5|24.02.2|desktop-kde||
 |kmod|31|32|app-admin||
 |kmousetool|23.08.5|24.02.2|desktop-kde||
 |kmouth|23.08.5|24.02.2|desktop-kde||
@@ -1756,7 +1750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
-|mihomo|1.18.2|1.18.4|app-network||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.4|desktop-kde||
 |mimalloc|2.1.2|2.1.6|runtime-common||
@@ -2438,7 +2431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.1|app-web||
+|qownnotes|22.6.1|24.5.2|app-web||
 |qqc2-desktop-style|5.115.0|6.0.4|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
