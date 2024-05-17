@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715926554?label=Updated)
+![Relative date](https://img.shields.io/date/1715929957?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -75,7 +75,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr-util|1.6.1|1.6.3|runtime-common||
 |apsw|3.30.1|3.45.3.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
-|apt-fast|1.9.11|1.11.0|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |arandr|0.1.10|0.1.11|app-utils||
 |aranym|1.1.0|1_1_0|app-emulation||
@@ -87,7 +86,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |argyllcms|3.1.0|3.2.0|app-imaging||
 |arianna|23.08.5|24.02.2|desktop-kde||
 |ark|23.08.5|24.02.2|desktop-kde||
-|arp-scan|1.9.8|1.10.0|app-network||
 |arpack-ng|3.8.0|3.9.1|app-scientific||
 |arpwatch|2.1a15|3.6|app-network||
 |arrow|1.0.3|1.3.0|lang-python||
@@ -103,7 +101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.4|8.0.5|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
-|assimp|5.3.1|5.4.1|runtime-multimedia||
+|assimp|5.4.0|5.4.1|runtime-multimedia||
 |ast-grep|0.22.2|0.22.3|app-devel||
 |astroid|2.12.2|3.2.0|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
@@ -903,7 +901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inotify-tools|3.21.9.6|4.23.9.0|app-admin||
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
-|intel-graphics-compiler|1.0.16510.2|1.0.16900.3|app-devel||
+|intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
