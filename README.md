@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715912807?label=Updated)
+![Relative date](https://img.shields.io/date/1715915604?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -463,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||
 |dtc|1.6.0|1.7.0|app-devel||
-|dua|2.28.0|2.29.0|app-utils||
 |dub|1.34.0|1.37.0|lang-dlang||
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
@@ -641,7 +640,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
-|gh|2.49.0|2.49.2|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.0.3_build|app-devel||
@@ -659,7 +657,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|app-devel||
 |gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
-|gitoxide|0.34.0|0.35.0|app-vcs||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
 |gitui|0.25.0|0.26.1|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
@@ -913,7 +910,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
 |intel-graphics-compiler|1.0.16510.2|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
-|intel-ucode|20221108|20240514|runtime-data||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
@@ -1012,6 +1008,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kchmviewer-trinity|14.1.0|14.1.2|desktop-trinity||
 |kclock|23.08.5|24.02.2|desktop-kde||
 |kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
+|kcmutils|5.115.0|6.0.4|desktop-kde||
 |kcodecs|5.115.0|6.0.4|desktop-kde||
 |kcolorchooser|23.08.5|24.02.2|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
@@ -1257,6 +1254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|24.02.2|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
+|ktexteditor|5.115.0|6.0.4|desktop-kde||
 |ktextwidgets|5.115.0|6.0.4|desktop-kde||
 |ktimer|23.08.5|24.02.2|desktop-kde||
 |ktnef|23.08.5|24.02.2|desktop-kde||
@@ -1800,6 +1798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpfr+32|3.1.4|4.2.1|runtime-optenv32||
 |mpg123|1.25.13|1.32.6|app-multimedia||
 |mpg123+32|1.25.13|1.32.6|runtime-optenv32||
+|mplayer|1.4|1.5|app-multimedia||
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
 |mpv|0.37.0|0.38.0|app-multimedia||
