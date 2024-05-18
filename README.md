@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716009174?label=Updated)
+![Relative date](https://img.shields.io/date/1716012905?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1974,7 +1974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
 |osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|ostree|2023.1|2024.5|app-admin||
+|ostree|2023.1|2024.6|app-admin||
 |owntone|28.6|28.9|app-multimedia||
 |oxygen|5.27.11|6.0.4|desktop-kde||
 |oxygen-icons|5.115.0|6.0.4|desktop-kde||
@@ -3034,6 +3034,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-utils|1.1.3|1.2.1|app-utils||
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
+|xf86-input-elographics|1.4.3|1.4.4|runtime-display||
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
