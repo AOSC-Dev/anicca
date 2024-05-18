@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716063285?label=Updated)
+![Relative date](https://img.shields.io/date/1716066612?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -113,6 +113,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.0.4|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
+|attrs|20.3.0|23.2.0|lang-python||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.02.2|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -2367,6 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyscard|1.9.9|2.0.9|lang-python||
 |pyscss|1.3.7|1.4.0|lang-python||
 |pyside2|5.15.11|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.11 -> 5.15.2.1)|
+|pysmbc|1.0.22|1.0.25.1|lang-python||
 |pysocks|1.6.8|1.7.1|lang-python||
 |pysol-cards|0.14.2|0.16.0|lang-python||
 |pysol-sound-server|3.01|3.20|lang-python||
