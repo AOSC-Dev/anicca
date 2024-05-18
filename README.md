@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716005639?label=Updated)
+![Relative date](https://img.shields.io/date/1716009174?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -65,14 +65,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
-|apache-maven|3.9.4|3.9.6|lang-java||
 |apicula|0.9.1|0.12|app-electronics||
 |apparmor|3.0.8|3.1.7|app-admin||
-|appres|1.0.5|1.0.6|app-utils||
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
-|apr-util|1.6.1|1.6.3|runtime-common||
 |apsw|3.30.1|3.45.3.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
@@ -301,6 +298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python||
 |composer|2.0.13|2.7.6|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
+|configargparse|1.3|1.7|lang-python||
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
 |configshell-fb|1.1.28|1.1.30|lang-python||
@@ -1428,6 +1426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdepim|23.08.5|24.02.2|desktop-kde||
 |libkeduvocdocument|23.08.5|24.02.2|desktop-kde||
 |libkexiv2|23.08.5|24.02.2|desktop-kde||
+|libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkeyfinder|2.2.5|2.2.8|runtime-multimedia||
 |libkgapi|23.08.5|24.02.2|desktop-kde||
 |libkipi|23.08.5|24.02.2|desktop-kde||
@@ -1723,6 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|app-scientific||
+|mbedtls|2.16.7|3.6.0|runtime-cryptography||
 |mbedtls+32|2.16.7|3.6.0|runtime-optenv32||
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
@@ -2694,6 +2694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
 |stlink|1.7.0|1.8.0|app-devel||
+|stm32flash|0.6|0.7|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|app-admin||
 |strace|6.5|6.9|app-devel||
@@ -3033,7 +3034,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-utils|1.1.3|1.2.1|app-utils||
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
-|xf86-input-elographics|1.4.3|1.4.4|runtime-display||
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
