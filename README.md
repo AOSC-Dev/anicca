@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716020009?label=Updated)
+![Relative date](https://img.shields.io/date/1716023586?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1729,7 +1729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
-|mdbook|0.4.14|0.4.37|app-doc||
+|mdbook|0.4.14|0.4.40|app-doc||
 |mdds|2.0.2|2.1.1|runtime-productivity||
 |mechanize|0.4.5|0.4.10|lang-python||
 |mediainfo|22.06|24.04|app-multimedia||
