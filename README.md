@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716045196?label=Updated)
+![Relative date](https://img.shields.io/date/1716048875?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -565,7 +565,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
-|freeciv|2.6.5|3.1.1|app-games||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
@@ -762,7 +761,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsound|1.0.2|1.0.3|desktop-gnome||
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
-|gssproxy|0.8.2|0.9.2|app-network||
 |gst-libav-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-bad-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|runtime-optenv32||
@@ -1487,7 +1485,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.32.0|2.0.2|desktop-gnome||
 |libpfm|4.12.0|4.13.0|runtime-admin||
 |libphonenumber|8.12.17|8.13.37|runtime-i18n||
-|libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
 |libpng|1.6.42|1.6.43|runtime-imaging||
@@ -2332,6 +2329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
+|pygit2|1.14.1|1.15.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
 |pygobject-3|3.42.2|3.48.2|lang-python||
@@ -2422,7 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.2|app-web||
+|qownnotes|22.6.1|24.5.4|app-web||
 |qqc2-desktop-style|5.115.0|6.0.4|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
