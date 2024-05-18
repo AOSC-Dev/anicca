@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716030586?label=Updated)
+![Relative date](https://img.shields.io/date/1716034753?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -270,7 +270,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|desktop-cinnamon||
 |cjs|5.8.0|6.0.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
-|clash-verge-rev|1.5.11|1.6.2|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
@@ -3087,7 +3086,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeitgeist|1.0.3|1.0.4|app-admin||
-|zellij|0.39.2|0.40.1|app-utils||
 |zenity|3.42.1|4.0.1|desktop-gnome||
 |zeroconf|0.28.6|0.132.2|lang-python||
 |zeromq|4.3.4|4.3.5|runtime-common||
