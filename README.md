@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716012905?label=Updated)
+![Relative date](https://img.shields.io/date/1716016358?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1759,7 +1759,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.2.7|app-network||
 |miniupnpd|2.3.5|2.3.6|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
-|minuet|23.08.5|24.02.2|desktop-kde||
 |mitmproxy|7.0.4|10.3.0|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
@@ -2471,7 +2470,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |remmina|1.4.31|1.4.35|app-network||
 |renderdoc|1.16|1.32|app-devel||
 |repo|2.43|2.45|app-devel||
-|reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
@@ -2990,7 +2988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|app-emulation|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
+|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
