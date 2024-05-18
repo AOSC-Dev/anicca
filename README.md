@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716023586?label=Updated)
+![Relative date](https://img.shields.io/date/1716027182?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -764,7 +764,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsm+32|1.0.19|1.0.22|runtime-optenv32||
 |gsmartcontrol|1.1.3|1.1.4|app-admin||
 |gsoap|2.8.124|2.8.134|runtime-network||
-|gsound|1.0.2|1.0.3|desktop-gnome||
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
 |gssproxy|0.8.2|0.9.2|app-network||
@@ -1578,7 +1577,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
-|libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.3.0|app-virtualization||
 |libvirt-python|10.1.0|10.3.0|runtime-virtualization||
 |libvisual|0.4.0|0.4.2|runtime-multimedia||
