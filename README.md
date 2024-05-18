@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716034753?label=Updated)
+![Relative date](https://img.shields.io/date/1716038051?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1974,6 +1974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
+|osu-lazer|2024.412.1|2024.517.0|app-games||
 |owntone|28.6|28.9|app-multimedia||
 |oxygen|5.27.11|6.0.4|desktop-kde||
 |oxygen-icons|5.115.0|6.0.4|desktop-kde||
@@ -2024,7 +2025,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.1|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5815|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5818|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -3042,7 +3043,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
 |xjadeo|0.8.13|0.8.14|app-multimedia||
-|xkeyboard-config|2.40|2.41|runtime-display||
 |xl2tpd|1.3.15|1.3.18|app-network||
 |xmlrpc-c|1.54.06|1.59.03|runtime-common||
 |xmlsec|1.2.36|1.3.4|runtime-common||
