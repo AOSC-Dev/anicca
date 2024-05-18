@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716048875?label=Updated)
+![Relative date](https://img.shields.io/date/1716052290?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
+|acbs|20240510.2|20240519|app-devel||
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
 |accountsservice|22.08.8|23.13.9|app-admin||
@@ -228,6 +229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
 |ccid|1.5.1|1.5.5|runtime-devices||
+|ccls|0.20220729|0.20240202|app-devel||
 |cddlib|0.94j|0.94m|runtime-scientific||
 |cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
@@ -390,7 +392,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |diffuse|0.6.0|0.9.0|app-devel||
 |diffutils|3.8|3.10|app-utils||
 |digikam|7.9.0|8.3.0|desktop-kde||
-|digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
 |discover|5.27.11|6.0.4|desktop-kde||
 |distcc|3.3.5|3.4|app-devel||
@@ -565,6 +566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
+|freeciv|2.6.5|3.1.1|app-games||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
@@ -761,6 +763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsound|1.0.2|1.0.3|desktop-gnome||
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
+|gssproxy|0.8.2|0.9.2|app-network||
 |gst-libav-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-bad-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|runtime-optenv32||
@@ -1485,6 +1488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.32.0|2.0.2|desktop-gnome||
 |libpfm|4.12.0|4.13.0|runtime-admin||
 |libphonenumber|8.12.17|8.13.37|runtime-i18n||
+|libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
 |libpng|1.6.42|1.6.43|runtime-imaging||
@@ -2436,7 +2440,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.3.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common||
@@ -2497,7 +2500,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpm|4.18.0|4.19.1.1-release|app-admin||
 |rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
-|rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
 |rtaudio|5.1.0|6.0.1|runtime-multimedia||
 |rtmidi|4.0.0|6.0.0|runtime-multimedia||
