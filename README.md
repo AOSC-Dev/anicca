@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715999127?label=Updated)
+![Relative date](https://img.shields.io/date/1716002080?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -390,7 +390,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcpcd|9.2.0|10.0.6|app-network||
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
-|dieharder|3.31.1|3.31.1_20110601-1|app-utils||
 |diff-match-patch|20200713|20230430|lang-python||
 |diff-so-fancy|1.4.1|1.4.4|app-utils||
 |diffuse|0.6.0|0.9.0|app-devel||
@@ -693,7 +692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
 |gnome-initial-setup|42.2|46.1|desktop-gnome||
 |gnome-keyring|40.0|46.1|desktop-gnome||
-|gnome-logs|3.36.0|43.0|desktop-gnome||
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
 |gnome-maps|42.3|46.11|desktop-gnome||
 |gnome-nibbles|3.38.2|4.0.4|desktop-gnome||
@@ -2186,7 +2184,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.31|lang-perl||
 |perl-type-serialiser|1.0|1.01|lang-perl||
 |perl-uri|1.74|5.28|lang-perl||
-|perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
 |perl-xml-libxml|2.0201|2.0210|lang-perl||
 |perl-xml-libxslt|1.96|2.002001|lang-perl||
