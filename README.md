@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716002080?label=Updated)
+![Relative date](https://img.shields.io/date/1716005639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -301,7 +301,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python||
 |composer|2.0.13|2.7.6|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
-|configargparse|1.3|1.7|lang-python||
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
 |configshell-fb|1.1.28|1.1.30|lang-python||
@@ -390,6 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcpcd|9.2.0|10.0.6|app-network||
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
+|dieharder|3.31.1|3.31.1_20110601-1|app-utils||
 |diff-match-patch|20200713|20230430|lang-python||
 |diff-so-fancy|1.4.1|1.4.4|app-utils||
 |diffuse|0.6.0|0.9.0|app-devel||
@@ -692,6 +692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
 |gnome-initial-setup|42.2|46.1|desktop-gnome||
 |gnome-keyring|40.0|46.1|desktop-gnome||
+|gnome-logs|3.36.0|43.0|desktop-gnome||
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
 |gnome-maps|42.3|46.11|desktop-gnome||
 |gnome-nibbles|3.38.2|4.0.4|desktop-gnome||
@@ -1427,7 +1428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdepim|23.08.5|24.02.2|desktop-kde||
 |libkeduvocdocument|23.08.5|24.02.2|desktop-kde||
 |libkexiv2|23.08.5|24.02.2|desktop-kde||
-|libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkeyfinder|2.2.5|2.2.8|runtime-multimedia||
 |libkgapi|23.08.5|24.02.2|desktop-kde||
 |libkipi|23.08.5|24.02.2|desktop-kde||
@@ -1723,7 +1723,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|app-scientific||
-|mbedtls|2.16.7|3.6.0|runtime-cryptography||
 |mbedtls+32|2.16.7|3.6.0|runtime-optenv32||
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
@@ -2184,6 +2183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.31|lang-perl||
 |perl-type-serialiser|1.0|1.01|lang-perl||
 |perl-uri|1.74|5.28|lang-perl||
+|perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
 |perl-xml-libxml|2.0201|2.0210|lang-perl||
 |perl-xml-libxslt|1.96|2.002001|lang-perl||
@@ -2694,7 +2694,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
 |stlink|1.7.0|1.8.0|app-devel||
-|stm32flash|0.6|0.7|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|app-admin||
 |strace|6.5|6.9|app-devel||
