@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716059479?label=Updated)
+![Relative date](https://img.shields.io/date/1716063285?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -113,7 +113,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.0.4|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
-|attrs|20.3.0|23.2.0|lang-python||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.02.2|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -821,6 +820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
+|hidapi|0.12.0|0.14.0|runtime-devices||
 |highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
@@ -2127,6 +2127,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mail-dkim|0.40|1.20240124|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
 |perl-mail-spf|2.9.0|3.20240206|lang-perl||
+|perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
 |perl-mime-tools|5.509|5.515|lang-perl||
@@ -2366,7 +2367,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyscard|1.9.9|2.0.9|lang-python||
 |pyscss|1.3.7|1.4.0|lang-python||
 |pyside2|5.15.11|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.11 -> 5.15.2.1)|
-|pysmbc|1.0.22|1.0.25.1|lang-python||
 |pysocks|1.6.8|1.7.1|lang-python||
 |pysol-cards|0.14.2|0.16.0|lang-python||
 |pysol-sound-server|3.01|3.20|lang-python||
@@ -2869,6 +2869,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.12.0a2|lang-python||
+|typst|0.11.0|0.11.1|app-doc||
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
@@ -2933,7 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0414|app-editors||
+|vim|9.1.0393|9.1.0418|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
