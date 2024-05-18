@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716016358?label=Updated)
+![Relative date](https://img.shields.io/date/1716020009?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -149,7 +149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |bash-completion|2.13.0|2.14.0|app-shells||
-|bash-git-status|0.2.2|0.1.0|app-vcs|Possible downgrade from the current version (0.2.2 -> 0.1.0)|
+|bash-git-status|0.2.2|0.3.0|app-vcs||
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
 |bcachefs-tools|1.4.1|1.7.0|app-admin||
 |bcftools|1.10.2|1.20|app-scientific||
@@ -1692,7 +1692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzlib|1.11|1.14|runtime-common||
 |m17n-db|1.8.0|1.8.5|runtime-i18n||
 |m17n-lib|1.8.0|1.8.4|runtime-i18n||
-|m1n1|1.4.6<br>+logo20231113.1|1.4.12|runtime-kernel|Compound version number '1.4.6+logo20231113.1'|
+|m1n1|1.4.6<br>+logo20231113.1|1.4.14|runtime-kernel|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|lang-python||
 |m2r|0.2.1|0.3.1|app-doc||
 |m3u8|0.7.1|5.0.0|lang-python||
@@ -1759,6 +1759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.2.7|app-network||
 |miniupnpd|2.3.5|2.3.6|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
+|minuet|23.08.5|24.02.2|desktop-kde||
 |mitmproxy|7.0.4|10.3.0|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
@@ -2470,6 +2471,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |remmina|1.4.31|1.4.35|app-network||
 |renderdoc|1.16|1.32|app-devel||
 |repo|2.43|2.45|app-devel||
+|reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
@@ -2711,6 +2713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.9|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.02.2|desktop-kde||
+|svt-av1|2.0.0|2.1.0|runtime-multimedia||
 |sweeper|23.08.5|24.02.2|desktop-kde||
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
