@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716056162?label=Updated)
+![Relative date](https://img.shields.io/date/1716059479?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -821,7 +821,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
-|hidapi|0.12.0|0.14.0|runtime-devices||
 |highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
@@ -1499,6 +1498,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpqxx|6.4.5|7.9.0|runtime-database||
 |libproxy|0.5.5|0.5.6|runtime-network||
 |libpwquality|1.4.2|1.4.5|runtime-cryptography||
+|libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
 |libqalculate|4.5.1|5.1.1|runtime-scientific||
 |libqmi|1.30.8|1.34.0|runtime-devices||
 |libqofono|0.98|0.122|runtime-network||
@@ -1907,6 +1907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
+|opam|2.1.3|2.1.6|lang-ocaml||
 |open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-rs|5.0.1|5.1.3|app-utils||
@@ -2126,7 +2127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mail-dkim|0.40|1.20240124|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
 |perl-mail-spf|2.9.0|3.20240206|lang-perl||
-|perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
 |perl-mime-tools|5.509|5.515|lang-perl||
