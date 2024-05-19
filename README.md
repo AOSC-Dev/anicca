@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716092082?label=Updated)
+![Relative date](https://img.shields.io/date/1716095541?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -100,7 +100,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
-|ast-grep|0.22.2|0.22.3|app-devel||
 |astroid|2.12.2|3.2.1|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.16|app-devel||
@@ -150,9 +149,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |bash-completion|2.13.0|2.14.0|app-shells||
-|bash-git-status|0.2.2|0.3.0|app-vcs||
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
-|bcachefs-tools|1.4.1|1.7.0|app-admin||
+|bcachefs-tools|1.6.4|1.7.0|app-admin||
 |bcftools|1.10.2|1.20|app-scientific||
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
@@ -185,7 +183,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
-|bread-dog|0.1.0|0.2.0|app-utils||
 |breeze|5.27.11|6.0.4|desktop-kde||
 |breeze-grub|5.27.11|6.0.4|desktop-kde||
 |breeze-gtk|5.27.11|6.0.4|desktop-kde||
@@ -647,7 +644,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
-|gitui|0.25.0|0.26.2|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
 |glances|3.4.0.2|4.0.4|app-admin||
@@ -1912,7 +1908,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
-|open-rs|5.0.1|5.1.3|app-utils||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
