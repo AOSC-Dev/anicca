@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716156806?label=Updated)
+![Relative date](https://img.shields.io/date/1716160461?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -499,7 +499,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fail2ban|1.0.2|1.1.0|app-admin||
 |falkon|23.08.5|24.02.2|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
-|fasteners|0.18|0.19|lang-python||
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
@@ -1502,7 +1501,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
-|librsync|2.3.2|2.3.4|runtime-network||
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
 |libsass|3.6.4|3.6.6|runtime-common||
@@ -1603,7 +1601,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
-|libxslt|1.1.34|1.1.39|runtime-common||
 |libxslt+32|1.1.34|1.1.39|runtime-optenv32||
 |libzen|0.4.38|0.4.41|runtime-common||
 |libzip|1.5.2|1.10.1|runtime-common||
