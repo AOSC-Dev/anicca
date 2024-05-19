@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716142565?label=Updated)
+![Relative date](https://img.shields.io/date/1716145769?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -520,7 +520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fftw|3.3.8|3.3.10|runtime-scientific||
 |fftw+32|3.3.4|3.3.10|runtime-optenv32||
 |fido2|0.9.1|1.1.3|lang-python||
-|file-roller|3.42.0|44.2|desktop-gnome||
+|file-roller|3.42.0|44.3|desktop-gnome||
 |filelight|23.08.5|24.02.2|desktop-kde||
 |filelight-trinity|14.1.0|14.1.2|desktop-trinity||
 |filezilla|3.66.4|3.60.2|app-network|Possible downgrade from the current version (3.66.4 -> 3.60.2)|
@@ -1127,6 +1127,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmediaplayer|5.115.0|6.0.4|desktop-kde||
 |kmenuedit|5.27.11|6.0.4|desktop-kde||
 |kmime|23.08.5|24.02.2|desktop-kde||
+|kmines|23.08.5|24.02.2|desktop-kde||
 |kmix|23.08.5|24.02.2|desktop-kde||
 |kmod|31|32|app-admin||
 |kmousetool|23.08.5|24.02.2|desktop-kde||
@@ -1738,6 +1739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
+|mihomo|1.18.4|1.18.5|app-network||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.4|desktop-kde||
 |mimalloc|2.1.2|2.1.6|runtime-common||
@@ -1850,13 +1852,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|57|app-devices||
 |newt|0.52.23|0.52.24|runtime-common||
 |nfs-utils|2.6.2|2.6.4|app-utils||
-|nghttp2|1.58.0|1.62.0|runtime-web||
+|nghttp2|1.58.0|1.62.1|runtime-web||
 |nginx|1.25.3|1.26.0|app-web||
 |ngspice|35|42|app-electronics||
 |nmap|7.93|7.95|app-network||
 |nodejs|20.13.0|21.7.1|lang-js||
 |noip|2.1.9|3.0.0|app-network||
-|noise-suppression-for-voice|0.91|1.03|app-multimedia||
+|noise-suppression-for-voice|0.91|1.10|app-multimedia||
 |nokogiri|1.13.9|1.16.5|lang-ruby||
 |nomino|1.3.1|1.3.4|app-utils||
 |normaliz|3.6.3|3.10.2|app-scientific||
