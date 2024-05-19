@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716099370?label=Updated)
+![Relative date](https://img.shields.io/date/1716102674?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -183,6 +183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
+|bread-dog|0.2.0|0.2.1|app-utils||
 |breeze|5.27.11|6.0.4|desktop-kde||
 |breeze-grub|5.27.11|6.0.4|desktop-kde||
 |breeze-gtk|5.27.11|6.0.4|desktop-kde||
@@ -456,7 +457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.15.2|lang-ocaml||
 |dunst|1.10.0|1.11.0|app-utils||
 |duplicity|2.2.2|2.2.3|app-utils||
-|easy-rsa|3.0.8|3.1.7|app-cryptography||
+|easy-rsa|3.0.8|3.2.0|app-cryptography||
 |ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
 |editline|1.16.1|1.17.1|runtime-common||
@@ -1134,6 +1135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmenuedit|5.27.11|6.0.4|desktop-kde||
 |kmime|23.08.5|24.02.2|desktop-kde||
 |kmines|23.08.5|24.02.2|desktop-kde||
+|kmix|23.08.5|24.02.2|desktop-kde||
 |kmod|31|32|app-admin||
 |kmousetool|23.08.5|24.02.2|desktop-kde||
 |kmouth|23.08.5|24.02.2|desktop-kde||
@@ -1326,6 +1328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchewing|0.5.1|0.8.1|runtime-i18n||
 |libclc|17.0.3|18.1.5|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
+|libcmis|0.5.2|0.6.2|runtime-productivity||
 |libconfig|1.7.2|1.7.3|runtime-common||
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
@@ -1431,6 +1434,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkomparediff2|23.08.5|24.02.2|desktop-kde||
 |libksane|23.08.5|24.02.2|desktop-kde||
 |libkscreen|5.27.11|6.0.4|desktop-kde||
+|libksieve|23.08.5|24.02.2|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |libksysguard|5.27.11|6.0.4|desktop-kde||
 |libktorrent|23.08.5|24.02.2|desktop-kde||
@@ -1961,6 +1965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
 |orca|42.3|46.1|desktop-gnome||
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
+|osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
 |osu-lazer|2024.412.1|2024.517.0|app-games||
