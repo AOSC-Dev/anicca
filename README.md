@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716095541?label=Updated)
+![Relative date](https://img.shields.io/date/1716099370?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -371,7 +371,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.31.3|1.43.4|lang-js||
+|deno|1.31.3|1.43.5|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
 |deploykit-backend|0.1.1|0.1.0|app-admin|Possible downgrade from the current version (0.1.1 -> 0.1.0)|
 |deploykit-gui|0.2.1|test-ci|app-admin|Versions not comparable: `0.2.1` and `test-ci`|
@@ -1134,7 +1134,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmenuedit|5.27.11|6.0.4|desktop-kde||
 |kmime|23.08.5|24.02.2|desktop-kde||
 |kmines|23.08.5|24.02.2|desktop-kde||
-|kmix|23.08.5|24.02.2|desktop-kde||
 |kmod|31|32|app-admin||
 |kmousetool|23.08.5|24.02.2|desktop-kde||
 |kmouth|23.08.5|24.02.2|desktop-kde||
@@ -1314,7 +1313,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libc+wasi|20|22|runtime-wasi||
 |libcacard|2.7.0|2.8.1|runtime-emulation||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
-|libcap+32|2.31|2.69|runtime-optenv32||
+|libcap|2.69|2.70|runtime-common||
+|libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
 |libcbor|0.8.0|0.11.0|runtime-common||
@@ -1326,7 +1326,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchewing|0.5.1|0.8.1|runtime-i18n||
 |libclc|17.0.3|18.1.5|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
-|libcmis|0.5.2|0.6.2|runtime-productivity||
 |libconfig|1.7.2|1.7.3|runtime-common||
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
@@ -1432,7 +1431,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkomparediff2|23.08.5|24.02.2|desktop-kde||
 |libksane|23.08.5|24.02.2|desktop-kde||
 |libkscreen|5.27.11|6.0.4|desktop-kde||
-|libksieve|23.08.5|24.02.2|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |libksysguard|5.27.11|6.0.4|desktop-kde||
 |libktorrent|23.08.5|24.02.2|desktop-kde||
@@ -1963,7 +1961,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
 |orca|42.3|46.1|desktop-gnome||
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
-|osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
 |osu-lazer|2024.412.1|2024.517.0|app-games||
