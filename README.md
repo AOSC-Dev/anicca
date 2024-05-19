@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716127951?label=Updated)
+![Relative date](https://img.shields.io/date/1716131598?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -126,7 +126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autopep8|1.5.6|2.1.0|lang-python||
 |autossh|1.4f|1.4g|app-network||
 |avahi-tqt|14.1.0|14.1.2|desktop-trinity||
-|avogadrolibs|1.95.1|1.99.0|runtime-scientific||
 |avr-binutils|2.37|2.42|app-devel||
 |avr-gcc|10.3.1<br>+git20210510|14.1.0|app-devel|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|app-devel||
@@ -227,7 +226,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
 |ccid|1.5.1|1.5.5|runtime-devices||
-|ccls|0.20220729|0.20240202|app-devel||
 |cddlib|0.94j|0.94m|runtime-scientific||
 |cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
@@ -257,7 +255,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|124.0.6367.118|125.0.6422.60|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -411,6 +408,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|25.0.3<br>+tini0.19.0|26.1.3|app-containers|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|app-containers||
 |docutils|0.20.1|0.21.2|lang-python||
+|dolphin|23.08.5|24.02.2|desktop-kde||
 |dolphin-emu|5.0<br>+git20211101|5.0|app-games|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|desktop-kde||
 |dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -721,7 +719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|124.0.6367.118|125.0.6422.60|app-web||
 |goverlay|1.0|1.1.1|app-utils||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
@@ -1294,8 +1291,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libarchive|3.7.3|3.7.4|runtime-common||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
-|libass|0.15.1|0.17.1|runtime-multimedia||
-|libass+32|0.15.1|0.17.1|runtime-optenv32||
+|libass|0.15.1|0.17.2|runtime-multimedia||
+|libass+32|0.15.1|0.17.2|runtime-optenv32||
 |libassuan|2.5.3|2.5.7|runtime-common||
 |libatomic-ops|7.8.0|7.8.2|runtime-common||
 |libavif|0.11.1|1.0.4|runtime-multimedia||
@@ -1514,7 +1511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshout+32|2.4.3|2.4.6|runtime-optenv32||
 |libsidplay|1.36.59|2.1.1|runtime-multimedia||
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32||
-|libsidplayfp|1.8.8|2.7.0|runtime-multimedia||
+|libsidplayfp|1.8.8|2.7.1|runtime-multimedia||
 |libsigc++|2.10.8|3.6.0|runtime-common||
 |libsigc++-3.0|3.4.0|3.6.0|runtime-common||
 |libsigsegv|2.12|2.14|runtime-common||
@@ -1969,7 +1966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-sounds|5.25.3|6.0.4|desktop-kde||
 |p-vector|0.3.6|0.3.8|app-admin||
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
-|p7zip|17.04|17.05|app-utils||
 |packaging|23.0|24.0|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
 |pahole|1.25|1.26|app-utils||
@@ -2127,7 +2123,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
 |perl-module-find|0.13|0.16|lang-perl||
-|perl-module-scandeps|1.27|1.35|lang-perl||
 |perl-moo|2.005004|2.005005|lang-perl||
 |perl-mozilla-ca|20180117|20240313|lang-perl||
 |perl-mro-compat|0.13|0.15|lang-perl||
@@ -2894,6 +2889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upower|1.90.0|1.90.4|app-admin||
 |upx|4.2.1|4.2.4|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
+|uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
 |urwid|2.1.2|2.6.12|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
