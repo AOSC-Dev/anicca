@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716113507?label=Updated)
+![Relative date](https://img.shields.io/date/1716117096?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -326,7 +326,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
 |cryfs|0.10.2|0.11.4|app-admin||
-|crypto++|8.2.0|8.9.0|runtime-cryptography||
 |cryptography|40.0.0|42.0.7|lang-python||
 |cryptsetup|2.7.0|2.7.2|app-admin||
 |css-parser|1.0.6|1.0.10|lang-python||
@@ -846,7 +845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.102.4|lang-python||
-|hysteria|2.4.0|2.4.3|app-network||
+|hysteria|2.4.0|2.4.4|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
@@ -2023,7 +2022,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
-|peazip|7.9.0|9.8.0|app-utils||
 |peewee|3.17.1|3.17.5|lang-python||
 |peg|0.1.18|0.1.20|app-devel||
 |pep517|0.12.0|0.13.1|lang-python||
