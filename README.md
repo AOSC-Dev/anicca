@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716102674?label=Updated)
+![Relative date](https://img.shields.io/date/1716106561?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -304,7 +304,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conky|1.10.8|1.21.1|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
-|construct|2.9.45|2.10.70|lang-python||
 |containerd|1.7.13|1.7.17|app-containers||
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|runtime-containers|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|app-utils||
@@ -742,7 +741,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greetd|0.9.0|0.10.0|desktop-displaymanagers||
 |greetd-gtkgreet|0.8|0.5|desktop-displaymanagers|Possible downgrade from the current version (0.8 -> 0.5)|
 |grep|3.8|3.11|app-utils||
-|greybird|3.22.12|3.23.3|desktop-themes||
 |grilo|0.3.15|0.3.16|desktop-gnome||
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome||
 |gringo|5.4.1|5.7.1|app-devel||
@@ -1724,6 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
 |mccabe|0.6.1|0.7.0|lang-python||
+|mcfly|0.8.5|0.8.6|app-utils||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
 |mdbook|0.4.14|0.4.40|app-doc||
