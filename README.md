@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716135272?label=Updated)
+![Relative date](https://img.shields.io/date/1716138680?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1319,7 +1319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin||
 |libchamplain|0.12.20|0.12.21|desktop-gnome||
 |libchewing|0.5.1|0.8.1|runtime-i18n||
-|libclc|17.0.3|18.1.5|runtime-devices||
+|libclc|17.0.3|18.1.6|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
 |libconfig|1.7.2|1.7.3|runtime-common||
@@ -1635,9 +1635,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|app-network||
 |lldpd|1.0.17|1.0.18|app-network||
 |llfuse|1.4.1|1.5.0|lang-python||
-|llvm|17.0.6|18.1.5|app-devel||
-|llvm+32|14.0.6|18.1.5|runtime-optenv32||
-|llvm-runtime+wasi|17.0.6|18.1.5|runtime-wasi||
+|llvm|17.0.6|18.1.6|app-devel||
+|llvm+32|14.0.6|18.1.6|runtime-optenv32||
+|llvm-runtime+wasi|17.0.6|18.1.6|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
 |lmdb|0.9.28|0.9.32|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -1671,6 +1671,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|desktop-lxde||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
+|lxgwcleargothic-font|0.300.4|0.310|desktop-fonts||
+|lxgwnewcleargothic-font|1.121|1.122|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
