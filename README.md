@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716085963?label=Updated)
+![Relative date](https://img.shields.io/date/1716088481?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1850,6 +1850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
+|networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
 |networkmanager-qt|5.115.0|6.0.4|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
