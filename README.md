@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716073864?label=Updated)
+![Relative date](https://img.shields.io/date/1716079833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -90,7 +90,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.02.2|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.5|app-utils||
+|asahi-fwextract|0.6.21|0.7.6|app-utils||
 |asciidoctor|2.0.12|2.0.23|app-doc||
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
@@ -1684,6 +1684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
 |lynx|2.9.0|2.9.1|app-web||
+|lyx|2.3.7|2.3.8|app-doc||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
 |lziprecover|1.21|1.24|app-utils||
