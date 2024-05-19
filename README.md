@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716121169?label=Updated)
+![Relative date](https://img.shields.io/date/1716124277?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -903,6 +903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipmitool|1.8.18|1_8_19|app-utils||
 |iproute2|6.8.0|6.9.0|app-network||
 |ipset|7.1|7.21|app-network||
+|ipt2socks|1.1.3|1.1.4|app-network||
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
 |ipy|0.83|1.01|lang-python||
@@ -1114,6 +1115,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kjournald|23.08.5|24.02.2|desktop-kde||
 |kjs|5.115.0|6.0.4|desktop-kde||
 |kjsembed|5.115.0|6.0.4|desktop-kde||
+|kjumpingcube|23.08.5|24.02.2|desktop-kde||
 |kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity||
 |klamav-trinity|14.1.0|14.1.2|desktop-trinity||
 |klcddimmer-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1699,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako-notification-daemon|1.8.0|1.9.0|app-utils||
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
-|man-pages|6.05.01<br>+posix2017a|6.7|runtime-data|Compound version number '6.05.01+posix2017a'|
+|man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.1|app-utils||
 |mangohud+32|0.7.0|0.7.1|runtime-optenv32||
 |marble|23.08.5|24.02.2|desktop-kde||
@@ -1882,6 +1884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|app-utils||
 |nvidia|550.54.14|550.78|runtime-display||
 |nvidia+32|0|550.78|runtime-optenv32||
+|nvme-cli|2.6|2.9.1|app-admin||
 |obs-studio|27.0.0|30.1.2|app-multimedia||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
