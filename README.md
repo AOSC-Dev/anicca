@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716124277?label=Updated)
+![Relative date](https://img.shields.io/date/1716127951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -341,7 +341,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|lang-python||
 |cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
-|cyrus-sasl|2.1.27|2.1.28|app-network||
 |cython|3.0.2|3.0.10|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
@@ -364,7 +363,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
-|debconf|1.5.83|1.5.86|app-admin||
 |debian-archive-keyring|2021.1.1|2023.4|app-admin||
 |debian-ports-archive-keyring|2022.02.15~deb11u1|2024.02.02|app-admin||
 |debianutils|5.7|5.17|app-utils||
@@ -413,7 +411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|25.0.3<br>+tini0.19.0|26.1.3|app-containers|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|app-containers||
 |docutils|0.20.1|0.21.2|lang-python||
-|dolphin|23.08.5|24.02.2|desktop-kde||
 |dolphin-emu|5.0<br>+git20211101|5.0|app-games|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|desktop-kde||
 |dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -528,7 +525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.02.2|desktop-kde||
 |filelight-trinity|14.1.0|14.1.2|desktop-trinity||
 |filezilla|3.66.4|3.60.2|app-network|Possible downgrade from the current version (3.66.4 -> 3.60.2)|
-|fim|0.7<br>+git20240221|0.7.0|app-utils|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
+|fim|0.7<br>+git20240221|0.7.1|app-utils|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |fio|3.35|3.37|app-utils||
 |firefox|125.0.3|126.0|app-web||
@@ -798,7 +795,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.02.2|desktop-kde||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
 |gzdoom|4.6.1|4.12.2|app-games||
-|gzip|1.12|1.13|app-utils||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
@@ -2456,7 +2452,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
-|recode|3.7.7|3.7.14|app-utils||
 |recode+32|3.6|3.7.14|runtime-optenv32||
 |recommonmark|20180907|0.7.1|lang-python|Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
@@ -2899,7 +2894,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upower|1.90.0|1.90.4|app-admin||
 |upx|4.2.1|4.2.4|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
-|uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
 |urwid|2.1.2|2.6.12|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
