@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716088481?label=Updated)
+![Relative date](https://img.shields.io/date/1716092082?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -303,7 +303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.12.3|lang-python||
 |configshell-fb|1.1.28|1.1.30|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
-|conky|1.10.8|1.21.0|app-utils||
+|conky|1.10.8|1.21.1|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
@@ -2359,7 +2359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparted|3.11.6|3.12.0|lang-python||
 |pypdf|4.0.1|4.2.0|lang-python||
 |pypdf2|1.26.0|4.2.0|lang-python||
-|pyperf|2.5.0|2.6.3|lang-python||
+|pyperf|2.5.0|2.7.0|lang-python||
 |pypkgconfig|1.4.0|1.5.5|lang-python||
 |pypsutil|5.8.0|5.9.8|lang-python||
 |pyqt-builder|1.12.1|1.16.2|lang-python||
