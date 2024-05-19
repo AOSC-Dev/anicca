@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716079833?label=Updated)
+![Relative date](https://img.shields.io/date/1716083898?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -157,6 +157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|2.3.6|app-productivity||
+|bear|3.1.3|3.1.4|app-devel||
 |beautifulsoup4|4.10.0|4.12.3|lang-python||
 |benchmark|1.8.2|1.8.3|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2451,6 +2452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|app-doc||
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
+|rb-inotify|0.10.1|0.11.1|lang-ruby||
 |rclone|1.65.2|1.66.0|app-web||
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
