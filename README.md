@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716117096?label=Updated)
+![Relative date](https://img.shields.io/date/1716121169?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -326,6 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
 |cryfs|0.10.2|0.11.4|app-admin||
+|crypto++|8.2.0|8.9.0|runtime-cryptography||
 |cryptography|40.0.0|42.0.7|lang-python||
 |cryptsetup|2.7.0|2.7.2|app-admin||
 |css-parser|1.0.6|1.0.10|lang-python||
@@ -812,7 +813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdf5|1.10.5|1.14.4.1|runtime-scientific||
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common||
 |hdsentinel|0.17|400s|app-utils||
-|helix|23.10|24.03|app-editors||
 |help2man|1.48.1|1.49.3|app-doc||
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
@@ -1114,7 +1114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kjournald|23.08.5|24.02.2|desktop-kde||
 |kjs|5.115.0|6.0.4|desktop-kde||
 |kjsembed|5.115.0|6.0.4|desktop-kde||
-|kjumpingcube|23.08.5|24.02.2|desktop-kde||
 |kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity||
 |klamav-trinity|14.1.0|14.1.2|desktop-trinity||
 |klcddimmer-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1722,7 +1721,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
 |mccabe|0.6.1|0.7.0|lang-python||
-|mcfly|0.8.5|0.8.6|app-utils||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
 |mdbook|0.4.14|0.4.40|app-doc||
@@ -1786,7 +1784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
 |mpv|0.37.0|0.38.0|app-multimedia||
-|mpvpaper|1.4|1.6|app-utils||
 |ms-sys|2.6.0|2.8.0|app-utils||
 |msgpack-c|6.0.0|6.0.1|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
@@ -1885,7 +1882,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|app-utils||
 |nvidia|550.54.14|550.78|runtime-display||
 |nvidia+32|0|550.78|runtime-optenv32||
-|nvme-cli|2.6|2.9.1|app-admin||
 |obs-studio|27.0.0|30.1.2|app-multimedia||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
@@ -1981,7 +1977,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |palapeli|23.08.5|24.02.2|desktop-kde||
 |palp|2.1|2.21|app-scientific||
 |pam-python|1.0.7|1.0.8|lang-python||
-|pam-u2f|1.0.8|1.3.0|runtime-admin||
 |pam-wrapper|1.1.3|1.1.5|app-devel||
 |pamixer|1.4|1.6|app-multimedia||
 |pandas|2.1.2|2.2.2|lang-python||
@@ -2022,6 +2017,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
+|peazip|7.9.0|9.8.0|app-utils||
 |peewee|3.17.1|3.17.5|lang-python||
 |peg|0.1.18|0.1.20|app-devel||
 |pep517|0.12.0|0.13.1|lang-python||
