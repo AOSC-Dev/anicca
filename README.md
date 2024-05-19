@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716149555?label=Updated)
+![Relative date](https://img.shields.io/date/1716153153?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -83,7 +83,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
 |argyllcms|3.1.0|3.2.0|app-imaging||
 |arianna|23.08.5|24.02.2|desktop-kde||
-|ark|23.08.5|24.02.2|desktop-kde||
 |arpack-ng|3.8.0|3.9.1|app-scientific||
 |arpwatch|2.1a15|3.6|app-network||
 |arrow|1.0.3|1.3.0|lang-python||
@@ -1963,7 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
-|osu-lazer|2024.412.1|2024.517.0|app-games||
+|osu-lazer|2024.412.1|2024.519.1|app-games||
 |owntone|28.6|28.9|app-multimedia||
 |oxygen|5.27.11|6.0.4|desktop-kde||
 |oxygen-icons|5.115.0|6.0.4|desktop-kde||
@@ -2012,7 +2011,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.1|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5818|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5825|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2365,7 +2364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|lang-python||
 |pysolfc|2.12.0|3.0.0|app-games||
 |pyte|0.8.0|0.8.2|lang-python||
-|pytest|7.1.1|8.2.0|lang-python||
+|pytest|7.1.1|8.2.1|lang-python||
 |python-2+32|999|2.7.18|runtime-optenv32|Possible downgrade from the current version (999 -> 2.7.18)|
 |python-3|3.10.13|3.12.3|lang-python||
 |python-augeas|1.0.3|1.1.0|lang-python||
