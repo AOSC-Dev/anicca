@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716196529?label=Updated)
+![Relative date](https://img.shields.io/date/1716199971?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -221,7 +221,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|lang-rust||
 |cargo-release|0.24.11|0.25.7|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
-|castxml|0.6.2|0.6.6|app-devel||
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
@@ -609,6 +608,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdk-pixbuf|2.42.8|2.42.12|runtime-imaging||
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
 |gdm|42.0|46.0|desktop-gnome||
+|gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|app-devel||
 |geany-plugins|2.0|2.0.0|app-devel||
@@ -856,7 +856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icewm|1.8.3|3.4.7|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
-|icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
 |idna|3.3|3.7|lang-python||
 |ifaddr|0.1.7|0.2.0|lang-python||
@@ -1390,7 +1389,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgxps|0.2.5|0.3.2|runtime-doc||
 |libhandy|1.6.3|1.8.3|desktop-gnome||
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
-|libical|3.0.8|3.0.18|runtime-productivity||
 |libidn|1.41|1.42|runtime-network||
 |libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
@@ -1795,7 +1793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.2|app-doc||
-|musescore|4.2.1|4.3.0|app-creativity||
 |mutagen|1.46.0|1.47.0|app-multimedia||
 |mutter|42.4|46.1|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
@@ -1822,7 +1819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neochat|23.08.5|24.02.2|desktop-kde||
 |neomutt|20200619|20240425|app-web||
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
-|neovim|0.9.5|0.10.0|app-editors||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.2.1|lang-python||
@@ -2904,7 +2900,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40.1|runtime-optenv32||
 |util-macros|1.20.0|1.20.1|runtime-display||
 |util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
-|v2ray|5.13.0|5.16.1|app-network||
 |v2raya|2.2.5.1|2.2.5|app-network|Possible downgrade from the current version (2.2.5.1 -> 2.2.5)|
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
