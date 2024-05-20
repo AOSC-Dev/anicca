@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716207827?label=Updated)
+![Relative date](https://img.shields.io/date/1716210875?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -29,6 +29,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adwaita-icon-theme|42.0|46.0|desktop-gnome||
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome||
 |aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
+|agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils||
 |aide|0.16.2|0.18.8|app-utils||
 |aiohttp|3.7.4.post0|3.9.5|lang-python||
@@ -272,6 +273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils||
 |cln|1.3.6|1.3.7|runtime-common||
 |cloc|1.84|2.00|app-utils||
+|cloud-init|24.1.4<br>+git20240513|24.1.4|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
@@ -1299,6 +1301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
+|libbpf|1.2.0|1.4.2|runtime-kernel||
 |libbsd|0.10.0|0.12.2|runtime-common||
 |libburn|1.5.2|1.5.6|runtime-devices||
 |libbytesize|2.1|2.10|runtime-common||
@@ -1913,6 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.0|app-network||
+|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|runtime-imaging||
 |openimageio|2.4.17.0|2.5.11.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
@@ -2972,7 +2976,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
+|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
