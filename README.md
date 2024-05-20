@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716192929?label=Updated)
+![Relative date](https://img.shields.io/date/1716196529?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -13,7 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
-|acbs|20240510.2|20240519|app-devel||
+|acbs|20240510.2|20240519.2|app-devel||
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
 |accountsservice|22.08.8|23.13.9|app-admin||
@@ -2334,7 +2334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|lang-python||
 |pylev|1.3.0|1.4.0|lang-python||
 |pylibacl|0.5.4|0.7.0|lang-python||
-|pylint|2.14.4|3.2.1|lang-python||
+|pylint|2.14.4|3.2.2|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
 |pymysql|0.9.3|1.1.0|lang-python||
