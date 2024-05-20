@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716225346?label=Updated)
+![Relative date](https://img.shields.io/date/1716228924?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1030,7 +1030,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
 |kdewebkit|5.115.0|6.0.4|desktop-kde||
 |kdf|23.08.5|24.02.2|desktop-kde||
-|kdiagram|2.8.0|3.0.1|desktop-kde||
 |kdialog|23.08.5|24.02.2|desktop-kde||
 |kdiamond|23.08.5|24.02.2|desktop-kde||
 |kdiff3-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1807,6 +1806,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus|42.2|46.1|desktop-gnome||
 |nautilus-python|1.2.3|4.0.1|desktop-gnome||
 |nbd|3.24|3.26.1|app-network||
+|nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
 |ncbi-vdb|3.0.2|3.1.0|app-scientific||
 |ncdu|1.16|2.4|app-utils||
@@ -2747,6 +2747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebase|14.1.0|14.1.2|desktop-trinity||
 |tdebindings|14.1.0|14.1.2|desktop-trinity||
 |tdedocker|14.1.0|14.1.2|desktop-trinity||
+|tdeedu|14.1.0|14.1.2|desktop-trinity||
 |tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
 |tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
@@ -2911,6 +2912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |variety|0.7.1|0.8.12|app-utils||
 |varnish|6.3.2|7.5.0|app-network||
 |vasm|1.9f|1.9.f|app-devel||
+|vba-m|2.1.8|2.1.9|app-games||
 |vde2|2.3.2|2.3.3|app-network||
 |vdpauinfo|1.0|1.5|app-utils||
 |verdict|1.4.1|1.4.2|runtime-scientific||
