@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716189180?label=Updated)
+![Relative date](https://img.shields.io/date/1716192929?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -329,7 +329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python||
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.0|lang-python||
-|ctags|20191203|6.1.20240512.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240512.0)|
+|ctags|20191203|6.1.20240519.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240519.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|app-devel|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
@@ -396,7 +396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.6|lang-python||
 |dkms|2.8.3|3.0.13|app-admin||
 |dlib|19.20.0|19.24.4|lang-python||
-|dmd|2.089.0|2.108.1|lang-dlang||
+|dmd|2.106.1|2.108.1|lang-dlang||
 |dmenu|5.2|5.3|app-utils||
 |dmidecode|3.5|3.6|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
@@ -2927,7 +2927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0418|app-editors||
+|vim|9.1.0393|9.1.0421|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
