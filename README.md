@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716174865?label=Updated)
+![Relative date](https://img.shields.io/date/1716178551?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -183,7 +183,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
-|bread-dog|0.2.0|0.2.1|app-utils||
 |breeze|5.27.11|6.0.4|desktop-kde||
 |breeze-grub|5.27.11|6.0.4|desktop-kde||
 |breeze-gtk|5.27.11|6.0.4|desktop-kde||
@@ -1668,7 +1667,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.14|app-utils||
 |lutris|0.5.11|0.5.17|app-games||
 |lvm2|2.03.14|2.03.24|app-admin||
-|lxappearance|0.6.2|0.6.3|desktop-lxde||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
 |lxgwcleargothic-font|0.300.4|0.310|desktop-fonts||
@@ -2864,7 +2862,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.12.0a2|lang-python||
-|typst|0.11.0|0.11.1|app-doc||
 |tzdata|2023d|2024a|runtime-data||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
