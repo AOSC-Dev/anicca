@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716170168?label=Updated)
+![Relative date](https://img.shields.io/date/1716172210?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -2454,6 +2454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
 |recode+32|3.6|3.7.14|runtime-optenv32||
 |recommonmark|20180907|0.7.1|lang-python|Possible downgrade from the current version (20180907 -> 0.7.1)|
+|redis|7.2.4|7.2.5|app-database||
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.5.15|lang-python||
 |reiser4progs|1.2.2|1.2.2.|app-admin||
@@ -2465,7 +2466,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
-|rexml|3.2.5|3.2.8|lang-ruby||
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rhythmbox|3.4.4|3.4.7|app-multimedia||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
