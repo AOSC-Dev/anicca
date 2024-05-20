@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716228924?label=Updated)
+![Relative date](https://img.shields.io/date/1716232312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -434,7 +434,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-8.0|8.0.204|6.0.422|app-devel|Possible downgrade from the current version (8.0.204 -> 6.0.422)|
 |double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
-|doxygen|1.10.0|1_10_0|app-doc||
+|doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
 |dpdk|22.11.1|24.03|runtime-network||
 |dracut|059|101|app-admin||
@@ -1030,6 +1030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
 |kdewebkit|5.115.0|6.0.4|desktop-kde||
 |kdf|23.08.5|24.02.2|desktop-kde||
+|kdiagram|2.8.0|3.0.1|desktop-kde||
 |kdialog|23.08.5|24.02.2|desktop-kde||
 |kdiamond|23.08.5|24.02.2|desktop-kde||
 |kdiff3-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2239,7 +2240,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
-|polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.4|desktop-kde||
