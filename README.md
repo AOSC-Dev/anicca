@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716210875?label=Updated)
+![Relative date](https://img.shields.io/date/1716214339?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -209,6 +209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging||
 |calendarsupport|23.08.5|24.02.2|desktop-kde||
 |calibre|5.30.0|7.10.0|app-doc||
+|caligula|0.4.5|0.4.6|app-utils||
 |calindori|23.08.5|24.02.2|desktop-kde||
 |callaudiod|0.1.4|0.1.9|app-admin||
 |calver|2022.06.26|2022.6.26|lang-python||
