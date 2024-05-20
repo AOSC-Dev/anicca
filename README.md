@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716203494?label=Updated)
+![Relative date](https://img.shields.io/date/1716207827?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -29,7 +29,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adwaita-icon-theme|42.0|46.0|desktop-gnome||
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome||
 |aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
-|agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils||
 |aide|0.16.2|0.18.8|app-utils||
 |aiohttp|3.7.4.post0|3.9.5|lang-python||
@@ -1300,7 +1299,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
-|libbpf|1.2.0|1.4.2|runtime-kernel||
 |libbsd|0.10.0|0.12.2|runtime-common||
 |libburn|1.5.2|1.5.6|runtime-devices||
 |libbytesize|2.1|2.10|runtime-common||
@@ -1424,6 +1422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkolabxml|1.2.0|1.2.1|runtime-productivity||
 |libkomparediff2|23.08.5|24.02.2|desktop-kde||
 |libksane|23.08.5|24.02.2|desktop-kde||
+|libkscreen|5.27.11|6.0.4|desktop-kde||
 |libksieve|23.08.5|24.02.2|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |libksysguard|5.27.11|6.0.4|desktop-kde||
@@ -1914,7 +1913,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.0|app-network||
-|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|runtime-imaging||
 |openimageio|2.4.17.0|2.5.11.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
@@ -2198,6 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pipewire-0.2|0.2.7|1.1.81|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
+|pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
 |pkginfo|1.5.0.1|1.10.0|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
