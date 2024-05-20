@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716199971?label=Updated)
+![Relative date](https://img.shields.io/date/1716203494?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -100,7 +100,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
-|astroid|2.12.2|3.2.1|lang-python||
+|astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.16|app-devel||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -612,7 +612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|app-devel||
 |geany-plugins|2.0|2.0.0|app-devel||
-|geary|40.0|44.1|desktop-gnome||
+|geary|40.0|46.0|desktop-gnome||
 |gedit|42.2|47.0|desktop-gnome||
 |gedit-plugins|42.1|47.1|desktop-gnome||
 |gegl-0.4|0.4.48|0_4_48|runtime-imaging||
@@ -856,6 +856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icewm|1.8.3|3.4.7|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
+|icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
 |idna|3.3|3.7|lang-python||
 |ifaddr|0.1.7|0.2.0|lang-python||
@@ -1423,7 +1424,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkolabxml|1.2.0|1.2.1|runtime-productivity||
 |libkomparediff2|23.08.5|24.02.2|desktop-kde||
 |libksane|23.08.5|24.02.2|desktop-kde||
-|libkscreen|5.27.11|6.0.4|desktop-kde||
 |libksieve|23.08.5|24.02.2|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |libksysguard|5.27.11|6.0.4|desktop-kde||
@@ -2198,7 +2198,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pipewire-0.2|0.2.7|1.1.81|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
-|pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
 |pkginfo|1.5.0.1|1.10.0|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
