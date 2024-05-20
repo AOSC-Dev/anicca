@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716235961?label=Updated)
+![Relative date](https://img.shields.io/date/1716239565?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -179,7 +179,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.108|lang-python||
+|boto3|1.20.26|1.34.109|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -342,7 +342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.2|3.0.10|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
-|damo|1.0.9|2.3.4|app-admin||
+|damo|1.0.9|2.3.5|app-admin||
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkhttpd|1.13|1.16|app-web||
@@ -966,7 +966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kate|23.08.5|24.02.2|desktop-kde||
 |katomic|23.08.5|24.02.2|desktop-kde||
 |kauth|5.115.0|6.0.4|desktop-kde||
-|kbarcode-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbd|2.5.1|2.6.4|app-utils||
 |kbfx-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbibtex-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2048,6 +2047,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-timezone|2.39|2.62|lang-perl||
 |perl-dbd-mysql|4.050|5.005|lang-perl||
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
+|perl-dbi|1.642|1.643|lang-perl||
 |perl-devel-checklib|1.13|1.16|lang-perl||
 |perl-devel-stacktrace|2.04|2.05|lang-perl||
 |perl-devel-symdump|2.0604|2.18|lang-perl|Possible downgrade from the current version (2.0604 -> 2.18)|
@@ -2626,6 +2626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
+|spdx-licenses|3.11|3.23|runtime-data||
 |spectacle|22.12.3|24.02.2|desktop-kde||
 |speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
 |speedometer|2.8|2.9|app-network||
@@ -2950,7 +2951,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.05.13.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
-|wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
 |wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
@@ -3056,7 +3056,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-tools|42.0|42.1|desktop-gnome||
 |yelp-xsl|42.0|42.1|desktop-gnome||
 |yosys|0.39|0.41|app-electronics||
-|ytmusicapi|1.5.1|1.7.1|lang-python||
+|ytmusicapi|1.5.1|1.7.2|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
