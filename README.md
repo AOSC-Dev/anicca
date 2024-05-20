@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716239565?label=Updated)
+![Relative date](https://img.shields.io/date/1716243084?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -60,6 +60,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amtk|5.5.1|5.6.1|desktop-gnome||
 |analitza|23.08.5|24.02.2|desktop-kde||
 |angelfish|23.08.5|24.02.2|desktop-kde||
+|annotated-types|0.6.0|0.7.0|lang-python||
 |ansible|2.12.1|2.16.6|app-admin||
 |aom|3.8.1|3.9.0|runtime-multimedia||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes||
@@ -79,7 +80,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|desktop-themes||
 |arc-theme|20210412|20221218|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20231222|20240429|app-admin||
+|archlinux-keyring|20231222|20240520|app-admin||
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
 |argyllcms|3.1.0|3.2.0|app-imaging||
 |arianna|23.08.5|24.02.2|desktop-kde||
@@ -810,6 +811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
+|hicolor-icon-theme|0.17|0.18|runtime-data||
 |hidapi|0.12.0|0.14.0|runtime-devices||
 |highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
@@ -966,6 +968,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kate|23.08.5|24.02.2|desktop-kde||
 |katomic|23.08.5|24.02.2|desktop-kde||
 |kauth|5.115.0|6.0.4|desktop-kde||
+|kbarcode-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbd|2.5.1|2.6.4|app-utils||
 |kbfx-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbibtex-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2951,6 +2954,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.05.13.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
+|wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
 |wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
