@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716178551?label=Updated)
+![Relative date](https://img.shields.io/date/1716182139?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -673,7 +673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
 |gnome-control-center|42.3|46.1|desktop-gnome||
-|gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome||
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
@@ -1085,7 +1084,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimagemapeditor|23.08.5|24.02.2|desktop-kde||
 |kimap|23.08.5|24.02.2|desktop-kde||
 |kinfocenter|5.27.11|6.0.4|desktop-kde||
-|kinit|5.115.0|6.0.4|desktop-kde||
 |kio|5.115.0|6.0.4|desktop-kde||
 |kio-admin|23.08.5|24.02.2|desktop-kde||
 |kio-extras|23.08.5|24.02.2|desktop-kde||
@@ -2371,7 +2369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.0.0b9|lang-python||
 |python-cssselect|1.0.3|1.2.0|lang-python||
 |python-daemonize|2.5.0|3.8.0|lang-python||
-|python-dbusmock|0.22.0|0.31.1|lang-python||
 |python-djvulibre|0.8.6|0.8.8|lang-python||
 |python-evdev|1.4.0|1.7.1|lang-python||
 |python-graphviz|0.16|0.20.3|lang-python||
@@ -2587,6 +2584,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome||
 |simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
+|sing-box|1.8.13|1.8.14|app-network||
 |singular|4.1.1|2023.02.09|app-scientific||
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.04.90|desktop-kde||
