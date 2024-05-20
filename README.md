@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716243084?label=Updated)
+![Relative date](https://img.shields.io/date/1716246753?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -946,7 +946,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaccounts-integration|23.08.5|24.02.2|desktop-kde||
 |kaccounts-providers|23.08.5|24.02.2|desktop-kde||
 |kactivities|5.115.0|6.0.4|desktop-kde||
-|kactivities-stats|5.115.0|6.0.4|desktop-kde||
 |kactivitymanagerd|5.27.11|6.0.4|desktop-kde||
 |kaddressbook|23.08.5|24.02.2|desktop-kde||
 |kaffeine-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2459,7 +2458,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
-|requests|2.31.0|2.32.0|lang-python||
+|requests|2.31.0|2.32.1|lang-python||
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
