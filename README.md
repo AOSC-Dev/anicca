@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716214339?label=Updated)
+![Relative date](https://img.shields.io/date/1716218062?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -397,7 +397,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.6|lang-python||
 |dkms|2.8.3|3.0.13|app-admin||
 |dlib|19.20.0|19.24.4|lang-python||
-|dmd|2.106.1|2.108.1|lang-dlang||
 |dmenu|5.2|5.3|app-utils||
 |dmidecode|3.5|3.6|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
@@ -447,12 +446,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||
 |dtc|1.6.0|1.7.0|app-devel||
-|dub|1.34.0|1.37.0|lang-dlang||
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
 |dune|3.4.1|3.15.2|lang-ocaml||
 |dunst|1.10.0|1.11.0|app-utils||
-|duplicity|2.2.2|2.2.3|app-utils||
+|duplicity|2.2.2|2.2.4|app-utils||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
 |ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
@@ -1008,7 +1006,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-cli-tools|5.27.11|6.0.4|desktop-kde||
 |kde-dev-scripts|23.08.5|24.02.2|desktop-kde||
 |kde-dev-utils|23.08.5|24.02.2|desktop-kde||
-|kde-gtk-config|5.27.11|6.0.4|desktop-kde||
 |kde-inotify-survey|23.08.5|24.02.2|desktop-kde||
 |kdebugsettings|23.08.5|24.02.2|desktop-kde||
 |kdeclarative|5.115.0|6.0.4|desktop-kde||
@@ -1277,7 +1274,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|runtime-imaging||
 |lcms2+32|2.9|2.16|runtime-optenv32||
 |ldb|2.6.1|2.9.0|app-database||
-|ldc|1.35.0|1.38.0|lang-dlang||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
 |levenshtein|0.12.0|0.25.1|lang-python||
@@ -1620,13 +1616,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.17|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.10.217)|
+|linux+kernel+lts|6.6.31|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
 |linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
 |linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
-|linux-kernel-lts|6.6.17|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.17 -> 5.19.17)|
+|linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-pam|1.6.0|1.6.1|app-admin||
@@ -2325,7 +2321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygit2|1.14.1|1.15.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
-|pygobject-3|3.42.2|3.48.2|lang-python||
 |pygraphviz|1.5|1.13|lang-python||
 |pyhamcrest|2.0.3|2.1.0|lang-python||
 |pyicu|2.3.1|2.13.1|lang-python||
