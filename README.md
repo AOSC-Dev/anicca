@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716218062?label=Updated)
+![Relative date](https://img.shields.io/date/1716221708?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -13,7 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
-|acbs|20240510.2|20240519.2|app-devel||
+|acbs|20240520|20240519.2|app-devel|Possible downgrade from the current version (20240520 -> 20240519.2)|
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
 |accountsservice|22.08.8|23.13.9|app-admin||
@@ -576,7 +576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python||
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
-|fwupd|1.9.13|1.9.19|app-admin||
+|fwupd|1.9.13|1.9.20|app-admin||
 |fzf|0.46.1|0.52.1|app-utils||
 |gajim|1.4.0|1.8.4|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
@@ -628,6 +628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghostscript|9.54.0|10.03.1|app-doc||
 |ghostscript+32|9.27|10.03.1|runtime-optenv32||
 |ghostwriter|23.08.5|24.02.2|desktop-kde||
+|gi-docgen|2023.3|2024.1|app-doc||
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging||
 |giflib+32|5.1.8|5.2.2|runtime-optenv32||
@@ -1006,6 +1007,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-cli-tools|5.27.11|6.0.4|desktop-kde||
 |kde-dev-scripts|23.08.5|24.02.2|desktop-kde||
 |kde-dev-utils|23.08.5|24.02.2|desktop-kde||
+|kde-gtk-config|5.27.11|6.0.4|desktop-kde||
 |kde-inotify-survey|23.08.5|24.02.2|desktop-kde||
 |kdebugsettings|23.08.5|24.02.2|desktop-kde||
 |kdeclarative|5.115.0|6.0.4|desktop-kde||
@@ -2321,6 +2323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygit2|1.14.1|1.15.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
+|pygobject-3|3.42.2|3.48.2|lang-python||
 |pygraphviz|1.5|1.13|lang-python||
 |pyhamcrest|2.0.3|2.1.0|lang-python||
 |pyicu|2.3.1|2.13.1|lang-python||
