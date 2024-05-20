@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716185861?label=Updated)
+![Relative date](https://img.shields.io/date/1716189180?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1367,6 +1367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgcrypt+32|1.9.1|1.10.3|runtime-optenv32||
 |libgdiplus|6.0.5|6.1|lang-dotnet||
 |libgee|0.20.5|0.20.6|desktop-gnome||
+|libgeotiff|1.5.1|1.7.1|runtime-gis||
 |libgig|4.4.0|4.4.1|runtime-multimedia||
 |libgit2|1.7.2|1.8.1|runtime-vcs||
 |libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
@@ -1483,6 +1484,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libplist|2.3.0|2.6.0|runtime-common||
 |libpng|1.6.42|1.6.43|runtime-imaging||
 |libpng+32|1.2.57|1.6.43|runtime-optenv32||
+|libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
 |libpqxx|6.4.5|7.9.0|runtime-database||
 |libproxy|0.5.5|0.5.6|runtime-network||
@@ -1561,6 +1563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
+|libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.3.0|app-virtualization||
@@ -2154,6 +2157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readline-gnu|1.36|1.46|lang-perl||
 |perl-test-deep|1.130|1.204|lang-perl||
 |perl-test-fatal|0.014|0.017|lang-perl||
+|perl-test-nowarnings|1.04|1.06|lang-perl||
 |perl-text-bibtex|0.88|0.89|lang-perl||
 |perl-text-csv|1.99|2.04|lang-perl||
 |perl-text-csv-xs|1.38|1.54|lang-perl||
@@ -2598,6 +2602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs||
 |smpeg|0.4.5|2_0_0|app-multimedia||
+|smpeg+32|0.4.5|2_0_0|runtime-optenv32||
 |smplayer|19.10.2|24.5.0|app-multimedia||
 |snapd|2.61.2|2.63|app-admin||
 |snapd-glib|1.63|1.65|runtime-admin||
