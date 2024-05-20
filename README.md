@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716232312?label=Updated)
+![Relative date](https://img.shields.io/date/1716235961?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -853,7 +853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
-|icewm|1.8.3|3.4.7|desktop-wm||
+|icewm|1.8.3|3.5.0|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
 |icu+32|64.2|75-1|runtime-optenv32||
@@ -2048,7 +2048,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-timezone|2.39|2.62|lang-perl||
 |perl-dbd-mysql|4.050|5.005|lang-perl||
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
-|perl-dbi|1.642|1.643|lang-perl||
 |perl-devel-checklib|1.13|1.16|lang-perl||
 |perl-devel-stacktrace|2.04|2.05|lang-perl||
 |perl-devel-symdump|2.0604|2.18|lang-perl|Possible downgrade from the current version (2.0604 -> 2.18)|
@@ -2240,6 +2239,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
+|polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.4|desktop-kde||
@@ -2626,7 +2626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
-|spdx-licenses|3.11|3.23|runtime-data||
 |spectacle|22.12.3|24.02.2|desktop-kde||
 |speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
 |speedometer|2.8|2.9|app-network||
