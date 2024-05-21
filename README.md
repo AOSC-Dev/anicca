@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716256536?label=Updated)
+![Relative date](https://img.shields.io/date/1716258433?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -516,7 +516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpegthumbs|23.08.5|24.02.2|desktop-kde||
 |ffms2|2.23|2.40|app-multimedia||
 |ffnvcodec|11.1.5.1|12.2.72.0|runtime-multimedia||
-|fftw|3.3.8|3.3.10|runtime-scientific||
 |fftw+32|3.3.4|3.3.10|runtime-optenv32||
 |fido2|0.9.1|1.1.3|lang-python||
 |file-roller|3.42.0|44.3|desktop-gnome||
@@ -1050,7 +1049,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|app-utils||
 |keepassxc|2.6.6|2.7.8|app-utils||
 |kemoticons|5.115.0|6.0.4|desktop-kde||
-|kernel-tools|6.9.0|5.19.17|app-admin|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
+|kernel-tools|6.9.1|5.19.17|app-admin|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
 |keyring|21.7.0|25.2.1|lang-python||
 |keysmith|23.08.5|24.02.2|desktop-kde||
@@ -1081,7 +1080,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kigo|23.08.5|24.02.2|desktop-kde||
 |kile-trinity|14.1.0|14.1.2|desktop-trinity||
 |killbots|23.08.5|24.02.2|desktop-kde||
-|kima-trinity|14.1.0|14.1.2|desktop-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde||
 |kimageformats|5.115.0|6.0.4|desktop-kde||
 |kimagemapeditor|23.08.5|24.02.2|desktop-kde||
@@ -1617,14 +1615,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|app-i18n||
 |linux+api|6.7.12|5.19.17|core-devel|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
+|linux+kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
 |linux+kernel+lts|6.6.31|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
 |linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
 |linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
-|linux-kernel|6.9.0|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.0 -> 5.19.17)|
+|linux-kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
@@ -2376,7 +2374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-kaitaistruct|0.9|0.10|lang-python||
 |python-ldap3|2.9|2.9.1|lang-python||
 |python-linux-procfs|0.7.1|0.7.3|lang-python||
-|python-ly|0.9.6|0.9.7|lang-python||
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
 |python-mpd2|3.0.5|3.1.1|lang-python||
