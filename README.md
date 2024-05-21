@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716272280?label=Updated)
+![Relative date](https://img.shields.io/date/1716275509?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1240,6 +1240,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktouch|23.08.5|24.02.2|desktop-kde||
 |ktrip|23.08.5|24.02.2|desktop-kde||
+|ktuberling|23.08.5|24.02.2|desktop-kde||
 |kturtle|23.08.5|24.02.2|desktop-kde||
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.02.2|desktop-kde||
@@ -2131,6 +2132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-ssleay|1.85|1.94|lang-perl||
 |perl-package-stash|0.38|0.40|lang-perl||
 |perl-package-stash-xs|0.29|0.30|lang-perl||
+|perl-par|1.016|1.020|lang-perl||
 |perl-par-dist|0.49|0.52|lang-perl||
 |perl-par-packer|1.050|1.063|lang-perl||
 |perl-parallel-forkmanager|1.20|2.02|lang-perl||
@@ -2412,6 +2414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|0.9.91|app-multimedia||
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
+|qt-6|6.7.0|6.7.1|runtime-desktop||
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtcreator|12.0.1|13.0.1|app-devel||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
