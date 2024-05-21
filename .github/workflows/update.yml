@@ -21,7 +21,9 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Get `aosc-findupdate`
-        run: git clone https://github.com/AOSC-Dev/aosc-findupdate
+        run: |
+          git clone https://github.com/AOSC-Dev/aosc-findupdate
+          git checkout tags/v0.4.7
 
       - name: Get `aosc-os-abbs`
         run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
