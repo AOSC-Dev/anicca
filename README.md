@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716325908?label=Updated)
+![Relative date](https://img.shields.io/date/1716329485?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -2397,6 +2397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
+|qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.4|app-web||
 |qqc2-desktop-style|5.115.0|6.0.5|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
