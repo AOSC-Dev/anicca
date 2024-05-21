@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716297276?label=Updated)
+![Relative date](https://img.shields.io/date/1716300763?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1705,7 +1705,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |matplotlib|3.8.0|3.9.0|lang-python||
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
-|maxima|5.46.0|5.47.0|app-scientific||
 |mbedtls|2.16.7|3.6.0|runtime-cryptography||
 |mbedtls+32|2.16.7|3.6.0|runtime-optenv32||
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
@@ -1804,7 +1803,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
-|ncbi-vdb|3.0.2|3.1.0|app-scientific||
 |ncdu|1.16|2.4|app-utils||
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
@@ -2815,7 +2813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqt3|14.1.0|14.1.2|desktop-trinity||
 |tqtinterface|14.1.0|14.1.2|desktop-trinity||
 |trace-cmd|2.8.3|3.2|app-utils||
-|tracker|3.3.3|3.7.3|desktop-gnome||
 |tracker-miners|3.3.1|3.7.3|desktop-gnome||
 |traitlets|5.0.5|5.14.3|lang-python||
 |transcode|1.1.7|1_1_7|app-multimedia||
@@ -2857,7 +2854,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uhttpmock|0.5.3|0.10.0|runtime-web||
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
-|umbrello|23.08.5|24.02.2|desktop-kde||
 |uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
@@ -3057,7 +3053,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeromq|4.3.4|4.3.5|runtime-common||
 |zerotier-one|1.12.2|1.14.0|app-network||
 |zfec|1.5.3|1.5.7.4|lang-python||
-|zfs|2.2.3|2.2.4|app-admin||
 |zimg|3.0.2|3.0.5|runtime-imaging||
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
