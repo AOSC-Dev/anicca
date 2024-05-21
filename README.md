@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716268374?label=Updated)
+![Relative date](https://img.shields.io/date/1716272280?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -884,8 +884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.2|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |inotify-tools|3.21.9.6|4.23.9.0|app-admin||
-|intel-compute-runtime|24.13.29138.7|24.17.29377.8|runtime-scientific||
-|intel-gmmlib|22.3.18|22.3.19|runtime-devices||
+|intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
@@ -1241,7 +1240,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktouch|23.08.5|24.02.2|desktop-kde||
 |ktrip|23.08.5|24.02.2|desktop-kde||
-|ktuberling|23.08.5|24.02.2|desktop-kde||
 |kturtle|23.08.5|24.02.2|desktop-kde||
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.02.2|desktop-kde||
@@ -2133,7 +2131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-ssleay|1.85|1.94|lang-perl||
 |perl-package-stash|0.38|0.40|lang-perl||
 |perl-package-stash-xs|0.29|0.30|lang-perl||
-|perl-par|1.016|1.020|lang-perl||
 |perl-par-dist|0.49|0.52|lang-perl||
 |perl-par-packer|1.050|1.063|lang-perl||
 |perl-parallel-forkmanager|1.20|2.02|lang-perl||
