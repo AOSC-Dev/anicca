@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716311593?label=Updated)
+![Relative date](https://img.shields.io/date/1716315292?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -716,7 +716,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|goverlay|1.0|1.1.1|app-utils||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -1688,6 +1687,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
 |man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
+|mangohud|0.7.0|0.7.1|app-utils||
 |mangohud+32|0.7.0|0.7.1|runtime-optenv32||
 |marble|23.08.5|24.02.2|desktop-kde||
 |mariadb|10.9.4|11.4.1|app-database||
@@ -2676,7 +2676,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.8|2.5.59.9|app-creativity||
+|superslicer|2.5.59.8|2.5.59.10|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.02.2|desktop-kde||
 |svt-av1|2.0.0|2.1.0|runtime-multimedia||
@@ -2943,6 +2943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weechat|4.2.1|4.2.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
+|werkzeug|1.0.1|3.0.3|lang-python||
 |wesnoth|1.16.10|1.18.0|app-games||
 |weston|13.0.0|13.0.1|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
