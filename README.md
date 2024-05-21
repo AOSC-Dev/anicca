@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716282816?label=Updated)
+![Relative date](https://img.shields.io/date/1716286367?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1886,7 +1886,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
 |ocamlbuild|0.14.1|0.14.3|lang-ocaml||
 |ocrad|0.27|0.29|app-doc||
-|ocrmypdf|11.7.0|16.3.0|app-doc||
+|ocrmypdf|11.7.0|16.3.1|app-doc||
 |ocserv|1.1.2|1.3.0|app-network||
 |ofono|1.30|2.7|app-network||
 |okteta|0.26.9|0.26.15|desktop-kde||
@@ -1957,7 +1957,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20240510|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
-|osu-lazer|2024.412.1|2024.519.1|app-games||
+|osu-lazer|2024.412.1|2024.521.2|app-games||
 |owntone|28.6|28.9|app-multimedia||
 |oxygen|5.27.11|6.0.4|desktop-kde||
 |oxygen-icons|5.115.0|6.0.4|desktop-kde||
