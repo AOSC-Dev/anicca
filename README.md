@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716258433?label=Updated)
+![Relative date](https://img.shields.io/date/1716261245?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -233,7 +233,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdemu-daemon|3.2.4|3.2.6|app-multimedia||
 |cdrdao|1.2.4|1.2.5|app-multimedia||
 |celluloid|0.18|0.26|app-multimedia||
-|celt-0.5|0.5.1.3|0.5.2|runtime-multimedia||
 |cerberus|1.3.2|1.3.5|lang-python||
 |cereal|1.3.0|1.3.2|runtime-common||
 |certbot|2.5.0|2.10.0|groups||
@@ -1080,6 +1079,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kigo|23.08.5|24.02.2|desktop-kde||
 |kile-trinity|14.1.0|14.1.2|desktop-trinity||
 |killbots|23.08.5|24.02.2|desktop-kde||
+|kima-trinity|14.1.0|14.1.2|desktop-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde||
 |kimageformats|5.115.0|6.0.4|desktop-kde||
 |kimagemapeditor|23.08.5|24.02.2|desktop-kde||
