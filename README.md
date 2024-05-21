@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716264860?label=Updated)
+![Relative date](https://img.shields.io/date/1716268374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -451,6 +451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.15.2|lang-ocaml||
 |dunst|1.10.0|1.11.0|app-utils||
 |duplicity|2.2.2|2.2.4|app-utils||
+|e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
 |ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
@@ -2669,7 +2670,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshfs|3.6.0|3.7.3|app-network||
 |sshpass|1.06|1.10|app-network||
 |sslh|1.19c|2.1.2|app-network||
-|sssd|2.9.4|2.9.5|app-admin||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.02.2|desktop-kde||
@@ -2796,7 +2796,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.2|2.5.7|app-admin||
 |thin-provisioning-tools|1.0.10|1.0.12|app-admin||
 |threadweaver|5.115.0|6.0.4|desktop-kde||
-|throttled|0.9.2|0.10.0|app-utils||
 |thunderbird|115.5.2|125.0|app-web||
 |tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
@@ -2897,7 +2896,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |utfcpp|3.2.1|4.0.5|runtime-common||
 |uthash|2.1.0|2.3.0|runtime-common||
 |util-linux+32|2.29.2|2.40.1|runtime-optenv32||
-|util-macros|1.20.0|1.20.1|runtime-display||
 |util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
 |v2raya|2.2.5.1|2.2.5|app-network|Possible downgrade from the current version (2.2.5.1 -> 2.2.5)|
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
@@ -2997,7 +2995,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
 |xapian-core|1.4.18|1.4.25|runtime-common||
-|xapps|2.6.1|2.8.2|runtime-desktop||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|runtime-display||
