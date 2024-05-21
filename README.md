@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716322407?label=Updated)
+![Relative date](https://img.shields.io/date/1716325908?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -60,7 +60,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |analitza|23.08.5|24.02.2|desktop-kde||
 |angelfish|23.08.5|24.02.2|desktop-kde||
 |annotated-types|0.6.0|0.7.0|lang-python||
-|ansible|2.12.1|2.16.6|app-admin||
+|ansible|2.12.1|2.17.0|app-admin||
 |aom|3.8.1|3.9.0|runtime-multimedia||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
@@ -179,7 +179,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.109|lang-python||
+|boto3|1.20.26|1.34.110|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -331,7 +331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.0|lang-python||
 |ctags|20191203|6.1.20240519.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240519.0)|
-|cuda|12.4.0<br>+550.54.14|12.4.1|app-devel|Compound version number '12.4.0+550.54.14'|
+|cuda|12.4.0<br>+550.54.14|12.5.0|app-devel|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
@@ -717,6 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
+|google-chrome|125.0.6422.60|125.0.6422.76|app-web||
 |goverlay|1.0|1.1.1|app-utils||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
@@ -1918,8 +1919,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg|2.5.0|2.5.2|runtime-imaging||
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
-|openldap|2.6.7|2_6_7|app-admin||
-|openldap+32|2.4.59|2_6_7|runtime-optenv32||
+|openldap|2.6.7|2_6_8|app-admin||
+|openldap+32|2.4.59|2_6_8|runtime-optenv32||
 |openmpi|4.1.6|5.0.3|app-scientific||
 |openmpt|0.6.4|0.7.7|app-multimedia||
 |openpgl|0.5.0|0.6.0|runtime-creativity||
@@ -2396,7 +2397,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
-|qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.4|app-web||
 |qqc2-desktop-style|5.115.0|6.0.5|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
@@ -2904,7 +2904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0421|app-editors||
+|vim|9.1.0393|9.1.0429|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
