@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716261245?label=Updated)
+![Relative date](https://img.shields.io/date/1716264860?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1306,6 +1306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libc+wasi|20|22|runtime-wasi||
 |libcacard|2.7.0|2.8.1|runtime-emulation||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
+|libcamera|0.2.0|0.3.0|runtime-devices||
 |libcap|2.69|2.70|runtime-common||
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
