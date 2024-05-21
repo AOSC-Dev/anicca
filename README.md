@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716300763?label=Updated)
+![Relative date](https://img.shields.io/date/1716304365?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -13,7 +13,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
-|acbs|20240520|20240519.2|app-devel|Possible downgrade from the current version (20240520 -> 20240519.2)|
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
 |accountsservice|22.08.8|23.13.9|app-admin||
@@ -759,7 +758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gstreamer|1.22.0|1.24.3|runtime-multimedia||
 |gstreamer-1-0+32|1.16.2|1.24.3|runtime-optenv32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
@@ -1705,6 +1703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |matplotlib|3.8.0|3.9.0|lang-python||
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
+|maxima|5.46.0|5.47.0|app-scientific||
 |mbedtls|2.16.7|3.6.0|runtime-cryptography||
 |mbedtls+32|2.16.7|3.6.0|runtime-optenv32||
 |mbox-importer|23.08.5|24.02.2|desktop-kde||
@@ -1803,6 +1802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
+|ncbi-vdb|3.0.2|3.1.0|app-scientific||
 |ncdu|1.16|2.4|app-utils||
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
@@ -2414,6 +2414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |racket|8.12|8.13|lang-lisp||
+|radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
@@ -2423,6 +2424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
 |rb-inotify|0.10.1|0.11.1|lang-ruby||
+|rbw|1.10.1|1.10.2|app-utils||
 |rclone|1.65.2|1.66.0|app-web||
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
@@ -2471,7 +2473,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden|20.12|23.12|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
 |rp-pppoe|3.15|4.0|app-network||
-|rpcbind|1.2.5|1.2.6|app-network||
 |rpcsvc-proto|1.4.2|1.4.4|app-devel||
 |rpm|4.18.0|4.19.1.1-release|app-admin||
 |rrdtool|1.7.2|1.8.0|runtime-common||
@@ -2854,6 +2855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uhttpmock|0.5.3|0.10.0|runtime-web||
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
+|umbrello|23.08.5|24.02.2|desktop-kde||
 |uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
