@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716329485?label=Updated)
+![Relative date](https://img.shields.io/date/1716333205?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1632,7 +1632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|14.0.6|18.1.6|runtime-optenv32||
 |llvm-runtime+wasi|17.0.6|18.1.6|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
-|lmdb|0.9.28|0.9.32|app-database||
+|lmdb|0.9.28|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
 |logrotate|3.18.1|3.21.0|app-admin||
@@ -2932,7 +2932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
 |warpinator|1.6.3|1.8.3|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.05.13.00|app-utils||
+|watchman|4.9.0|2024.05.20.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
