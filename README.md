@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716252472?label=Updated)
+![Relative date](https://img.shields.io/date/1716256536?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -577,7 +577,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python||
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
-|fwupd|1.9.13|1.9.20|app-admin||
 |fzf|0.46.1|0.52.1|app-utils||
 |gajim|1.4.0|1.8.4|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
@@ -883,13 +882,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|app-utils||
 |inih|53|58|app-devel||
 |iniparse|0.4|0.5|lang-python||
-|iniparser|4.1|4.2.1|runtime-common||
+|iniparser|4.1|4.2.2|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |inotify-tools|3.21.9.6|4.23.9.0|app-admin||
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
-|intel-media-driver|24.1.5|24.2.2|runtime-multimedia||
+|intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
@@ -902,6 +901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.4|app-network||
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
+|ipy|0.83|1.01|lang-python||
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |irssi|1.2.3|1.4.5|app-web||
@@ -1795,7 +1795,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.2|app-doc||
-|mutagen|1.46.0|1.47.0|app-multimedia||
 |mutter|42.4|46.1|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
 |mycli|1.23.2|1.27.2|app-database||
@@ -2156,7 +2155,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-deep|1.130|1.204|lang-perl||
 |perl-test-fatal|0.014|0.017|lang-perl||
 |perl-test-nowarnings|1.04|1.06|lang-perl||
-|perl-text-bibtex|0.88|0.89|lang-perl||
 |perl-text-csv|1.99|2.04|lang-perl||
 |perl-text-csv-xs|1.38|1.54|lang-perl||
 |perl-text-template|1.59|1.61|lang-perl||
