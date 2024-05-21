@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716318711?label=Updated)
+![Relative date](https://img.shields.io/date/1716322407?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -254,6 +254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
+|chromium|125.0.6422.60|125.0.6422.76|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -1512,6 +1513,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
+|libsodium|1.0.18|1.0.19|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -2445,7 +2447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
-|requests|2.31.0|2.32.1|lang-python||
+|requests|2.31.0|2.32.2|lang-python||
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
@@ -2807,7 +2809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
-|tpm2-tss|2.3.3|4.1.2|runtime-devices||
+|tpm2-tss|2.3.3|4.1.3|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
 |tqdm|4.62.3|4.66.4|lang-python||
 |tqt3|14.1.0|14.1.2|desktop-trinity||
@@ -2833,6 +2835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
 |twisted|21.2.0|24.3.0|lang-python||
 |twm|1.0.11|1.0.12|desktop-wm||
+|twolame|0.3.13|0.4.0|app-multimedia||
 |twolame+32|0.3.13|0.4.0|runtime-optenv32||
 |txaio|18.8.1|23.1.1|lang-python||
 |txt2tags|3.7|3.9|app-doc||
