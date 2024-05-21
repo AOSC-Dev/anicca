@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716279296?label=Updated)
+![Relative date](https://img.shields.io/date/1716282816?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1751,6 +1751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|runtime-common||
 |minuet|23.08.5|24.02.2|desktop-kde||
 |mitmproxy|7.0.4|10.3.0|app-network||
+|mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
 |mkvtoolnix|79.0|84.0|app-multimedia||
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|app-web|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
@@ -1759,6 +1760,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mobile-broadband-provider-info|20190618|20240407|runtime-data||
 |mock|2.0.0|5.1.0|lang-python||
 |modem-manager-gui|0.0.19.1|0.0.20|app-network||
+|modemmanager|1.18.12|1.22.0|app-network||
 |modemmanager-qt|5.115.0|6.0.4|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
 |mold|2.4.0|2.31.0|app-devel||
