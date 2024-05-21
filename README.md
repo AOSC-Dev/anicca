@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716289898?label=Updated)
+![Relative date](https://img.shields.io/date/1716294123?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -339,7 +339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|lang-python||
 |cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
-|cython|3.0.2|3.0.10|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
 |damo|1.0.9|2.3.5|app-admin||
@@ -811,7 +810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |hicolor-icon-theme|0.17|0.18|runtime-data||
-|hidapi|0.12.0|0.14.0|runtime-devices||
 |highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
@@ -868,7 +866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick|6.9.13<br>+7|6.9.13-10|app-utils|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.0<br>+43|7.1.1-32|app-utils|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|lang-python||
-|imake|1.0.8|1.0.10|app-devel||
 |imapsync|1.977|2.229|app-network||
 |imath|3.1.5|3.1.11|runtime-display||
 |img2pdf|0.4.0|0.5.1|app-doc||
@@ -1498,7 +1495,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librcc|0.2.12|0.2.13|runtime-i18n||
 |libreoffice|7.5.4.2|24.2.3.2|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
-|librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
 |librsync|2.3.2|2.3.4|runtime-network||
 |librtas|2.0.2|2.0.6|runtime-admin||
@@ -1530,7 +1526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.10.6|runtime-optenv32||
 |libssh2|1.9.0|1.11.0|runtime-network||
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32||
-|libstatgrab|0.91|0.92.1|runtime-admin||
 |libstoragemgmt|1.7.3|1.10.0|runtime-admin||
 |libsysstat|0.4.4|1.0.0|runtime-admin||
 |libtasn1|4.15.0|4.19.0|runtime-cryptography||
@@ -1583,7 +1578,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpd|0.10.2|0.10.3|runtime-productivity||
 |libwpe|1.12.2|1.16.0|runtime-web||
 |libwpg|0.3.3|0.3.4|runtime-productivity||
-|libwps|0.4.10|0.4.14|runtime-productivity||
 |libwww-perl|6.33|6.77|lang-perl||
 |libx86|1.1|3.5|runtime-common||
 |libx86emu|3.1|3.5|runtime-common||
@@ -1862,7 +1856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4_9_1_REL|app-network||
 |nsgenbind|0.8|0.9|app-devel||
 |nspr+32|4.24|4.35|runtime-optenv32||
-|nss|3.99|3.100|runtime-cryptography||
 |nss+32|3.78|3.100|runtime-optenv32||
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
@@ -1990,7 +1983,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parted|3.5|3.6|app-admin||
 |partimage|0.6.9|0.7.2|app-admin||
 |partitionmanager|23.08.5|24.02.2|desktop-kde||
-|pass|1.7.3|1.7.4|app-utils||
 |pastel|0.2.0|0.2.1|lang-python||
 |pathlib2|2.3.5|2.3.7.post1|lang-python||
 |pathspec|0.11.0|0.12.1|lang-python||
@@ -2031,7 +2023,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-inspector|1.28|1.36|lang-perl||
 |perl-class-method-modifiers|2.12|2.15|lang-perl||
 |perl-class-singleton|1.5|1.6|lang-perl||
-|perl-clone|0.41|0.46|lang-perl||
 |perl-common-sense|3.74|3.75|lang-perl||
 |perl-config-file|1.50|1.54|lang-perl||
 |perl-convert-asn1|0.27|0.34|lang-perl||
@@ -2056,7 +2047,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-abstract|3.008|3.010|lang-perl||
 |perl-email-address|1.912|1.913|lang-perl||
 |perl-email-date-format|1.005|1.008|lang-perl||
-|perl-email-messageid|1.406|1.408|lang-perl||
 |perl-email-mime|1.946|1.954|lang-perl||
 |perl-email-mime-contenttype|1.022|1.028|lang-perl||
 |perl-email-mime-encodings|1.315|1.317|lang-perl||
@@ -2172,7 +2162,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
 |perl-xml-sax|1.00|1.02|lang-perl||
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
-|perl-xml-writer|0.625|0.900|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
 |perl-yaml-tiny|1.73|1.74|lang-perl||
@@ -2229,7 +2218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.4|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils||
-|pnpm|8.15.5|9.1.1|lang-js||
+|pnpm|8.15.5|9.1.2|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.71|app-i18n||
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
@@ -2332,7 +2321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylint|2.14.4|3.2.2|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
-|pymysql|0.9.3|1.1.0|lang-python||
+|pymysql|0.9.3|1.1.1|lang-python||
 |pynacl|1.3.0|1.5.0|lang-python||
 |pynput|1.7.6|1.7.7|lang-python||
 |pyopengl|3.1.5|3.1.7|lang-python||
@@ -2482,7 +2471,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ronn-ng|0.9.1|0.10.1|lang-ruby||
 |rosegarden|20.12|23.12|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
-|roxterm|3.14.3|3.15.0|app-utils||
 |rp-pppoe|3.15|4.0|app-network||
 |rpcbind|1.2.5|1.2.6|app-network||
 |rpcsvc-proto|1.4.2|1.4.4|app-devel||
@@ -2533,7 +2521,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scons|4.4.0|4.7.0|app-devel||
 |scour|0.37|0.38.2|app-utils||
 |screen|4.9.0|4.9.1|app-utils||
-|scrot|0.8|1.10|app-utils||
 |scummvm|2.2.0|2.8.1|app-games||
 |sdcc|4.3.6|4.4.0|app-devel||
 |sddm-kcm|5.27.11|6.0.4|desktop-kde||
@@ -2553,7 +2540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |semver|2.8.1|3.0.2|lang-python||
 |sequoia-sq|0.31.0|0.35.0|app-cryptography||
 |ser2net|3.5|4.6.2|app-network||
-|serd|0.32.0|0.32.2|runtime-common||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
 |setuptools-python2|44.1.0|70.0.0|lang-python||
@@ -2658,7 +2644,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlmap|1.8.2|1.8.5|app-penetration||
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
-|squashfs-tools-ng|1.2.0|1.3.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
 |squid|5.7|6.9|app-web||
 |sra-tools|3.0.3|3.1.0|app-scientific||
