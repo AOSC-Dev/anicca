@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716246753?label=Updated)
+![Relative date](https://img.shields.io/date/1716252472?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -793,6 +793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.02.2|desktop-kde||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
 |gzdoom|4.6.1|4.12.2|app-games||
+|handbrake|1.7.3|1.8.0|app-multimedia||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
@@ -901,7 +902,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.4|app-network||
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
-|ipy|0.83|1.01|lang-python||
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |irssi|1.2.3|1.4.5|app-web||
@@ -946,6 +946,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaccounts-integration|23.08.5|24.02.2|desktop-kde||
 |kaccounts-providers|23.08.5|24.02.2|desktop-kde||
 |kactivities|5.115.0|6.0.4|desktop-kde||
+|kactivities-stats|5.115.0|6.0.4|desktop-kde||
 |kactivitymanagerd|5.27.11|6.0.4|desktop-kde||
 |kaddressbook|23.08.5|24.02.2|desktop-kde||
 |kaffeine-trinity|14.1.0|14.1.2|desktop-trinity||
