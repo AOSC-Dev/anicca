@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716415955?label=Updated)
+![Relative date](https://img.shields.io/date/1716419623?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1791,6 +1791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus|42.2|46.1|desktop-gnome||
 |nautilus-python|1.2.3|4.0.1|desktop-gnome||
 |nbd|3.24|3.26.1|app-network||
+|nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
 |ncbi-vdb|3.0.2|3.1.1|app-scientific||
 |ncdu|1.16|2.4|app-utils||
@@ -1961,7 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paprefs|1.1|1.2|app-multimedia||
 |paq8o|9|10t|app-utils||
-|parallel|20191122|20240422|app-utils||
+|parallel|20191122|20240522|app-utils||
 |paramiko|2.10.3|3.4.0|lang-python||
 |pari|2.13.1|2.15.5|app-scientific||
 |parley|23.08.5|24.02.2|desktop-kde||
@@ -2184,6 +2185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-mobile|5.27.5|6.0.5|desktop-kde||
 |plasma-nano|5.27.11|6.0.5|desktop-kde||
 |plasma-nm|5.27.11|6.0.5|desktop-kde||
+|plasma-pa|5.27.11|6.0.5|desktop-kde||
 |plasma-pk-updates|0.3.2|6.0.5|desktop-kde||
 |plasma-sdk|5.27.11|6.0.5|desktop-kde||
 |plasma-settings|22.06|24.02.0|desktop-kde||
