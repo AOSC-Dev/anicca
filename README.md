@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716358561?label=Updated)
+![Relative date](https://img.shields.io/date/1716361934?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -336,7 +336,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
-|curl+32|8.6.0|8.7.1|runtime-optenv32||
+|curl|8.7.1|8.8.0|app-web||
+|curl+32|8.6.0|8.8.0|runtime-optenv32||
 |curtsies|0.3.4|0.4.2|lang-python||
 |cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
@@ -1150,7 +1151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
 |koko|23.08.5|24.02.2|desktop-kde||
 |kolf|23.08.5|24.02.2|desktop-kde||
-|kollision|23.08.5|24.02.2|desktop-kde||
 |kolourpaint|23.08.5|24.02.2|desktop-kde||
 |kompare|23.08.5|24.02.2|desktop-kde||
 |kompose-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1892,7 +1892,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencc|1.1.3|1.1.7|app-i18n||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
-|opencl-registry-api|2022.01.04|2024.05.08|app-devel||
 |opencolorio|2.1.2|2.3.2|runtime-imaging||
 |openconnect|8.10|9.12|app-network||
 |opencore-amr|0.1.5|0.1.6|runtime-multimedia||
