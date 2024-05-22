@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716333205?label=Updated)
+![Relative date](https://img.shields.io/date/1716338858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -339,7 +339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|lang-python||
 |cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
-|cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
 |damo|1.0.9|2.3.5|app-admin||
 |dante|1.4.2|1.4.3|app-network||
@@ -2540,7 +2539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |secretstorage|3.3.0|3.3.3|lang-python||
 |semantic-version|2.8.5|2.10.0|lang-python||
 |semver|2.8.1|3.0.2|lang-python||
-|sequoia-sq|0.31.0|0.35.0|app-cryptography||
+|sequoia-sq|0.31.0|0.36.0|app-cryptography||
 |ser2net|3.5|4.6.2|app-network||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
