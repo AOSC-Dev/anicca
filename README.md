@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716383744?label=Updated)
+![Relative date](https://img.shields.io/date/1716387115?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -122,7 +122,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
-|autopep8|1.5.6|2.1.0|lang-python||
+|autopep8|1.5.6|2.1.1|lang-python||
 |autossh|1.4f|1.4g|app-network||
 |avahi-tqt|14.1.0|14.1.2|desktop-trinity||
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific||
@@ -347,6 +347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dar|2.7.13|2.7.14|app-utils||
 |darkhttpd|1.13|1.16|app-web||
 |darkradiant|3.8.0|3.9.0|app-games||
+|dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.1|runtime-multimedia||
 |dblatex|0.3.12|1.0.97|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
@@ -1387,7 +1388,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libindi|2.0.5|2.0.7|runtime-scientific||
-|libinput|1.24.0|1.25.0|runtime-devices||
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|runtime-network||
@@ -2742,6 +2742,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tderadio|14.1.0|14.1.2|desktop-trinity||
 |tdesdk|14.1.0|14.1.2|desktop-trinity||
 |tdesudo|14.1.0|14.1.2|desktop-trinity||
+|tdesvn|14.1.0|14.1.2|desktop-trinity||
 |tdetoys|14.1.0|14.1.2|desktop-trinity||
 |tdeutils|14.1.0|14.1.2|desktop-trinity||
 |tdevelop|14.1.0|14.1.2|desktop-trinity||
