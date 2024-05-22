@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716369277?label=Updated)
+![Relative date](https://img.shields.io/date/1716372843?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -46,7 +46,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akregator|23.08.5|24.02.2|desktop-kde||
 |alabaster|0.7.12|0.7.16|lang-python||
 |alacarte|3.44.2|3.52.0|desktop-gnome||
-|alacritty|0.13.1|0.13.2|app-utils||
 |allegro|5.2.6.0|5.2.9.1|runtime-games||
 |allegro+32|4.4.2|5.2.9.1|runtime-optenv32||
 |alligator|23.08.5|24.02.2|desktop-kde||
@@ -656,7 +655,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|runtime-optenv32||
 |gmic|3.2.6|3.3.6|runtime-imaging||
 |gmime-3|3.2.7|3.2.14|desktop-gnome||
-|gnome-applets|3.44.0|3.52.0|desktop-gnome||
 |gnome-autoar|0.4.3|0.4.4|desktop-gnome||
 |gnome-backgrounds|42.0|46.0|desktop-gnome||
 |gnome-bluetooth|42.2|46.0|desktop-gnome||
@@ -704,6 +702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnote|42.1|46.0|desktop-gnome||
 |gnu-efi|3.0.14|3.0.18|app-devel||
 |gnupg|2.4.4|2.4.5|app-cryptography||
+|gnustep-base|1.28.0|1_29_0|runtime-gnustep||
 |gnustep-make|2.9.0|2_9_1|runtime-gnustep||
 |gnutls|3.8.4|3.8.5|runtime-cryptography||
 |gnutls+32|3.6.15|3.8.5|runtime-optenv32||
@@ -1208,7 +1207,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksh93|2020.0.0<br>+20200208|1.0.8|app-shells|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208 -> 1.0.8)|
 |kshisen|23.08.5|24.02.2|desktop-kde||
 |kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
-|kshutdown-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksirk|23.08.5|24.02.2|desktop-kde||
 |ksmtp|23.08.5|24.02.2|desktop-kde||
 |ksnakeduel|23.08.5|24.02.2|desktop-kde||
@@ -1763,6 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp3gain|1.6.2|1_6_2|app-multimedia||
 |mp4v2|4.1.3|2.1.3|app-multimedia|Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32||
+|mpg123|1.25.13|1.32.6|app-multimedia||
 |mpg123+32|1.25.13|1.32.6|runtime-optenv32||
 |mplayer|1.4|1.5|app-multimedia||
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2022,7 +2021,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl||
 |perl-crypt-openssl-random|0.15|0.16|lang-perl||
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
-|perl-data-dump|1.23|1.25|lang-perl||
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
@@ -2428,6 +2426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
 |recode+32|3.6|3.7.14|runtime-optenv32||
+|recommonmark|20180907|0.7.1|lang-python|Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redis|7.2.4|7.2.5|app-database||
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.5.15|lang-python||
