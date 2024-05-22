@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716372843?label=Updated)
+![Relative date](https://img.shields.io/date/1716376245?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -203,7 +203,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cachecontrol|0.12.6|0.14.0|lang-python||
 |cachetools|3.1.0|5.3.3|lang-python||
 |cairo|1.17.6|1.18.0|runtime-imaging||
-|cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
 |cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
@@ -364,7 +363,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debian-archive-keyring|2021.1.1|2023.4|app-admin||
 |debian-ports-archive-keyring|2022.02.15~deb11u1|2024.02.02|app-admin||
 |debianutils|5.7|5.17|app-utils||
-|decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
@@ -655,6 +653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|runtime-optenv32||
 |gmic|3.2.6|3.3.6|runtime-imaging||
 |gmime-3|3.2.7|3.2.14|desktop-gnome||
+|gnome-applets|3.44.0|3.52.0|desktop-gnome||
 |gnome-autoar|0.4.3|0.4.4|desktop-gnome||
 |gnome-backgrounds|42.0|46.0|desktop-gnome||
 |gnome-bluetooth|42.2|46.0|desktop-gnome||
@@ -1089,7 +1088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.02.2|desktop-kde||
 |kirigami-addons|0.11.0|1.2.1|desktop-kde||
-|kirigami-gallery|23.08.5|24.02.2|desktop-kde||
 |kirigami2|5.115.0|6.0.5|desktop-kde||
 |kiriki|23.08.5|24.02.2|desktop-kde||
 |kitemmodels|5.115.0|6.0.5|desktop-kde||
@@ -1180,7 +1178,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kplotting|5.115.0|6.0.5|desktop-kde||
 |kpmcore|23.08.5|24.02.2|desktop-kde||
 |kpty|5.115.0|6.0.5|desktop-kde||
-|kpublictransport|23.08.5|24.02.2|desktop-kde||
 |kqtquickcharts|23.08.5|24.02.2|desktop-kde||
 |kquickcharts|5.115.0|6.0.5|desktop-kde||
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde||
@@ -1207,6 +1204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksh93|2020.0.0<br>+20200208|1.0.8|app-shells|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208 -> 1.0.8)|
 |kshisen|23.08.5|24.02.2|desktop-kde||
 |kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
+|kshutdown-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksirk|23.08.5|24.02.2|desktop-kde||
 |ksmtp|23.08.5|24.02.2|desktop-kde||
 |ksnakeduel|23.08.5|24.02.2|desktop-kde||
@@ -2021,6 +2019,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl||
 |perl-crypt-openssl-random|0.15|0.16|lang-perl||
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
+|perl-data-dump|1.23|1.25|lang-perl||
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
@@ -2248,7 +2247,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.02.2|desktop-kde||
-|prison5|5.115.0|6.0.5|desktop-kde||
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.0|app-gis||
 |projectm|4.0.0|4.1.1|runtime-multimedia||
