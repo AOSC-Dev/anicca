@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716351238?label=Updated)
+![Relative date](https://img.shields.io/date/1716354796?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -368,7 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.31.3|1.43.5|lang-js||
+|deno|1.31.3|1.43.6|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
 |deploykit-backend|0.1.1|0.1.0|app-admin|Possible downgrade from the current version (0.1.1 -> 0.1.0)|
 |deploykit-gui|0.2.1|test-ci|app-admin|Versions not comparable: `0.2.1` and `test-ci`|
@@ -1285,7 +1285,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libarchive|3.7.3|3.7.4|runtime-common||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
-|libass|0.15.1|0.17.2|runtime-multimedia||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||
 |libassuan|2.5.3|2.5.7|runtime-common||
 |libatomic-ops|7.8.0|7.8.2|runtime-common||
@@ -1468,7 +1467,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis||
 |libp11|0.4.10|0.4.12|runtime-cryptography||
 |libpano13|2.9.19|2.9.22|runtime-imaging||
-|libpaper|2.1.2|2.2.5|runtime-productivity||
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32||
 |libpeas|1.32.0|2.0.2|desktop-gnome||
 |libpfm|4.12.0|4.13.0|runtime-admin||
@@ -1481,7 +1479,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
 |libpqxx|6.4.5|7.9.0|runtime-database||
-|libproxy|0.5.5|0.5.6|runtime-network||
 |libpwquality|1.4.2|1.4.5|runtime-cryptography||
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
 |libqalculate|4.5.1|5.1.1|runtime-scientific||
@@ -2145,7 +2142,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-csv|1.99|2.04|lang-perl||
 |perl-text-csv-xs|1.38|1.54|lang-perl||
 |perl-text-template|1.59|1.61|lang-perl||
-|perl-time-duration|1.20|1.21|lang-perl||
 |perl-timedate|2.30|2.33|lang-perl||
 |perl-tk|804.034|804.036|lang-perl||
 |perl-try-tiny|0.30|0.31|lang-perl||
@@ -2588,7 +2584,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapd|2.61.2|2.63|app-admin||
 |snapd-glib|1.63|1.65|runtime-admin||
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
-|snappy|1.1.8|1.2.0|runtime-common||
+|snappy|1.1.8|1.2.1|runtime-common||
 |sniffio|1.3.0|1.3.1|lang-python||
 |snowball|2.1.0|2.2.0|runtime-common||
 |snowballstemmer|1.2.1|2.2.0|lang-python||
@@ -3030,7 +3026,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.6.3|1.9.4|lang-python||
 |yarn|1.22.17|1.22.22|lang-js||
 |yaspin|1.2.0|3.0.2|lang-python||
-|yaz|5.31.0|5.34.0|runtime-web||
 |yelp|42.1|42.2|desktop-gnome||
 |yelp-tools|42.0|42.1|desktop-gnome||
 |yelp-xsl|42.0|42.1|desktop-gnome||
