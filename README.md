@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716338858?label=Updated)
+![Relative date](https://img.shields.io/date/1716342900?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -183,6 +183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
+|bpftrace|0.20.3|0.20.4|app-admin||
 |breeze|5.27.11|6.0.5|desktop-kde||
 |breeze-grub|5.27.11|6.0.5|desktop-kde||
 |breeze-gtk|5.27.11|6.0.5|desktop-kde||
@@ -339,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|lang-python||
 |cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
+|cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
 |damo|1.0.9|2.3.5|app-admin||
 |dante|1.4.2|1.4.3|app-network||
@@ -447,7 +449,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
 |dune|3.4.1|3.15.2|lang-ocaml||
-|dunst|1.10.0|1.11.0|app-utils||
 |duplicity|2.2.2|2.2.4|app-utils||
 |e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
@@ -1685,7 +1686,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|24.02.2|desktop-kde||
 |maim|5.5.3|5.8.0|app-utils||
 |mako|1.1.4|1.3.5|lang-python||
-|mako-notification-daemon|1.8.0|1.9.0|app-utils||
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
 |man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
@@ -2943,7 +2943,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia||
 |websocket-client|1.7.0|1.8.0|lang-python||
 |websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.1|4.2.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
 |wesnoth|1.16.10|1.18.0|app-games||
