@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716397891?label=Updated)
+![Relative date](https://img.shields.io/date/1716401740?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1380,7 +1380,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libhandy|1.6.3|1.8.3|desktop-gnome||
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libidn|1.41|1.42|runtime-network||
-|libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libindi|2.0.5|2.0.7|runtime-scientific||
 |libinput|1.24.0|1.25.0|runtime-devices||
@@ -1483,7 +1482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web||
 |libraw|0.20.0|0.21.2|runtime-imaging||
 |librcc|0.2.12|0.2.13|runtime-i18n||
-|libreoffice|7.5.4.2|24.2.3.2|groups||
+|libreoffice|7.5.4.2|24.2.4.1|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
@@ -1491,7 +1490,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
 |libsass|3.6.4|3.6.6|runtime-common||
-|libsbsms|2.3.0|2.0.2|runtime-multimedia|Possible downgrade from the current version (2.3.0 -> 2.0.2)|
 |libsecret|0.20.4|0.21.4|runtime-desktop||
 |libshout|2.4.3|2.4.6|runtime-multimedia||
 |libshout+32|2.4.3|2.4.6|runtime-optenv32||
@@ -1713,9 +1711,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils||
 |mercurial|5.2.1|6.7.3|app-vcs||
 |merkuro|23.08.5|24.02.2|desktop-kde||
-|mesa|24.0.7<br>+dxheaders1.613.1|24.0.7|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.0.7|runtime-optenv32||
-|mesa-amber|21.3.9|24.0.7|runtime-display||
+|mesa|24.0.7<br>+dxheaders1.613.1|24.0.8|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.0.8|runtime-optenv32||
+|mesa-amber|21.3.9|24.0.8|runtime-display||
 |messagelib|23.08.5|24.02.2|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
@@ -2463,7 +2461,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
 |rtaudio|5.1.0|6.0.1|runtime-multimedia||
-|rtmidi|4.0.0|6.0.0|runtime-multimedia||
 |rtmpdump|20151223|2.3|app-network|Possible downgrade from the current version (20151223 -> 2.3)|
 |rtmpdump+32|20150114|2.3|runtime-optenv32|Possible downgrade from the current version (20150114 -> 2.3)|
 |rtslib-fb|2.1.75|2.1.76|app-admin||
