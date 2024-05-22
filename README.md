@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716405106?label=Updated)
+![Relative date](https://img.shields.io/date/1716408800?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -178,7 +178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.110|lang-python||
+|boto3|1.20.26|1.34.111|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
@@ -1713,9 +1713,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils||
 |mercurial|5.2.1|6.7.3|app-vcs||
 |merkuro|23.08.5|24.02.2|desktop-kde||
-|mesa|24.0.7<br>+dxheaders1.613.1|24.0.8|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.0.8|runtime-optenv32||
-|mesa-amber|21.3.9|24.0.8|runtime-display||
+|mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.1.0|runtime-optenv32||
+|mesa-amber|21.3.9|24.1.0|runtime-display||
 |messagelib|23.08.5|24.02.2|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
@@ -1723,7 +1723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mihomo|1.18.4|1.18.5|app-network||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.5|desktop-kde||
-|mimalloc|2.1.2|2.1.6|runtime-common||
+|mimalloc|2.1.2|2.1.7|runtime-common||
 |mime-types|9|99|runtime-data||
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|runtime-optenvw64||
@@ -1822,6 +1822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
+|networkmanager-qt|5.115.0|6.0.5|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
 |networkmanager-vpnc|1.2.6|1.2.8|app-network||
 |networkx|2.8.5|3.3|lang-python||
@@ -2020,6 +2021,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
+|perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
 |perl-datetime-locale|1.26|1.42|lang-perl||
 |perl-dbd-mysql|4.050|5.005|lang-perl||
@@ -2545,6 +2547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games||
 |simh|3.11<br>+1|3.12-2|app-emulation|Compound version number '3.11+1'|
+|simple-scan|42.1|46.0|desktop-gnome||
 |simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
 |sing-box|1.8.13|1.8.14|app-network||
@@ -2802,7 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
 |trio|0.24.0|0.25.1|lang-python||
 |trollius|2.1|2.2.1|lang-python||
-|trove-classifiers|2024.1.31|2024.5.17|lang-python||
+|trove-classifiers|2024.1.31|2024.5.22|lang-python||
 |tslib|1.21|1.23|runtime-devices||
 |ttf-misaki|2021.05.05|2021-05-05|desktop-fonts||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
