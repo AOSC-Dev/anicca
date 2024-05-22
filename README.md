@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716401740?label=Updated)
+![Relative date](https://img.shields.io/date/1716405106?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1380,6 +1380,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libhandy|1.6.3|1.8.3|desktop-gnome||
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libidn|1.41|1.42|runtime-network||
+|libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libindi|2.0.5|2.0.7|runtime-scientific||
 |libinput|1.24.0|1.25.0|runtime-devices||
@@ -1490,6 +1491,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
 |libsass|3.6.4|3.6.6|runtime-common||
+|libsbsms|2.3.0|2.0.2|runtime-multimedia|Possible downgrade from the current version (2.3.0 -> 2.0.2)|
 |libsecret|0.20.4|0.21.4|runtime-desktop||
 |libshout|2.4.3|2.4.6|runtime-multimedia||
 |libshout+32|2.4.3|2.4.6|runtime-optenv32||
@@ -1820,7 +1822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
-|networkmanager-qt|5.115.0|6.0.5|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
 |networkmanager-vpnc|1.2.6|1.2.8|app-network||
 |networkx|2.8.5|3.3|lang-python||
@@ -2019,7 +2020,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
-|perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
 |perl-datetime-locale|1.26|1.42|lang-perl||
 |perl-dbd-mysql|4.050|5.005|lang-perl||
@@ -2461,6 +2461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
 |rtaudio|5.1.0|6.0.1|runtime-multimedia||
+|rtmidi|4.0.0|6.0.0|runtime-multimedia||
 |rtmpdump|20151223|2.3|app-network|Possible downgrade from the current version (20151223 -> 2.3)|
 |rtmpdump+32|20150114|2.3|runtime-optenv32|Possible downgrade from the current version (20150114 -> 2.3)|
 |rtslib-fb|2.1.75|2.1.76|app-admin||
@@ -2544,7 +2545,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games||
 |simh|3.11<br>+1|3.12-2|app-emulation|Compound version number '3.11+1'|
-|simple-scan|42.1|46.0|desktop-gnome||
 |simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
 |sing-box|1.8.13|1.8.14|app-network||
