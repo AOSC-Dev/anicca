@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716347683?label=Updated)
+![Relative date](https://img.shields.io/date/1716351238?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -503,7 +503,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faulthandler|3.1|3.2|lang-python||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
-|fdkaac|1.0.1|1.0.6|app-multimedia||
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
 |feeluown|4.1.1|4.1.4|app-multimedia||
@@ -513,7 +512,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg|4.4.4|7.0|app-multimedia||
 |ffmpeg+32|4.2.5|7.0|runtime-optenv32||
 |ffmpegthumbs|23.08.5|24.02.2|desktop-kde||
-|ffms2|2.23|2.40|app-multimedia||
 |ffnvcodec|11.1.5.1|12.2.72.0|runtime-multimedia||
 |fftw+32|3.3.4|3.3.10|runtime-optenv32||
 |fido2|0.9.1|1.1.3|lang-python||
@@ -1987,7 +1985,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python||
 |pathspec|0.11.0|0.12.1|lang-python||
 |patool|1.12|upstream/2.2.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.2.0)|
-|pavucontrol|3.0|5.0|app-multimedia||
+|pavucontrol|3.0|6.0|app-multimedia||
 |pbr|5.6.0|6.0.0|lang-python||
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
@@ -3037,7 +3035,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-tools|42.0|42.1|desktop-gnome||
 |yelp-xsl|42.0|42.1|desktop-gnome||
 |yosys|0.39|0.41|app-electronics||
-|ytmusicapi|1.5.1|1.7.2|lang-python||
+|you-get|0.4.1650|0.4.1700|app-multimedia||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
