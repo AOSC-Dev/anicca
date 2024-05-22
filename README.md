@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716408800?label=Updated)
+![Relative date](https://img.shields.io/date/1716412420?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1792,7 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
-|ncbi-vdb|3.0.2|3.1.0|app-scientific||
+|ncbi-vdb|3.0.2|3.1.1|app-scientific||
 |ncdu|1.16|2.4|app-utils||
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
@@ -2227,7 +2227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32|Compound version number '19+20140130'|
 |portmidi|2.0.4|236|runtime-multimedia||
 |postfix|3.7.3|3.9.0|app-web||
-|postgresql|13.13|16.3|app-database||
+|postgresql|13.13|17|app-database||
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
 |powerdevil|5.27.11|6.0.5|desktop-kde||
 |powerpc-utils|1.3.10|1.3.12|app-admin||
@@ -2298,7 +2298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyhamcrest|2.0.3|2.1.0|lang-python||
 |pyicu|2.3.1|2.13.1|lang-python||
 |pyiso8601|0.1.13|2.1.0|lang-python||
-|pylast|3.0.0|5.2.0|lang-python||
+|pylast|3.0.0|5.3.0|lang-python||
 |pylev|1.3.0|1.4.0|lang-python||
 |pylibacl|0.5.4|0.7.0|lang-python||
 |pylint|2.14.4|3.2.2|lang-python||
