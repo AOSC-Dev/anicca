@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716354796?label=Updated)
+![Relative date](https://img.shields.io/date/1716358561?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -332,7 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.0|lang-python||
 |ctags|20191203|6.1.20240519.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240519.0)|
-|cuda|12.4.0<br>+550.54.14|12.5.0|app-devel|Compound version number '12.4.0+550.54.14'|
+|cuda|12.5.0<br>+555.42.02|12.5.0|app-devel|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02 -> 12.5.0)|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
@@ -2399,7 +2399,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
 |qt-6|6.7.0|6.7.1|runtime-desktop||
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
-|qtcreator|12.0.1|13.0.1|app-devel||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
 |qtractor|0.9.23|0.9.91|app-multimedia||
@@ -2631,7 +2630,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.3.275.0|2024.1|runtime-display||
 |spread-sheet-widget|0.3|0.10|runtime-productivity||
 |sqlalchemy|1.2.18|2.0.30|lang-python||
-|sqlcipher|4.5.6|4.5.7|app-database||
+|sqlcipher|4.5.6|4.6.0|app-database||
 |sqlite|3.45.1|3.45.3|app-database||
 |sqlite+32|3.32.3|3.45.3|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||
@@ -2641,7 +2640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
 |squid|5.7|6.9|app-web||
-|sra-tools|3.0.3|3.1.0|app-scientific||
+|sra-tools|3.0.3|3.1.1|app-scientific||
 |srain|1.5.1|1.7.0|app-web||
 |sratom|0.6.4|0.6.16|runtime-common||
 |srecord|1.64|1.65.0|app-utils||
