@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716380537?label=Updated)
+![Relative date](https://img.shields.io/date/1716383744?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -347,7 +347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dar|2.7.13|2.7.14|app-utils||
 |darkhttpd|1.13|1.16|app-web||
 |darkradiant|3.8.0|3.9.0|app-games||
-|dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.1|runtime-multimedia||
 |dblatex|0.3.12|1.0.97|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
@@ -2389,6 +2388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.02.2|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
+|qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.4|app-web||
 |qqc2-desktop-style|5.115.0|6.0.5|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
@@ -2742,7 +2742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tderadio|14.1.0|14.1.2|desktop-trinity||
 |tdesdk|14.1.0|14.1.2|desktop-trinity||
 |tdesudo|14.1.0|14.1.2|desktop-trinity||
-|tdesvn|14.1.0|14.1.2|desktop-trinity||
 |tdetoys|14.1.0|14.1.2|desktop-trinity||
 |tdeutils|14.1.0|14.1.2|desktop-trinity||
 |tdevelop|14.1.0|14.1.2|desktop-trinity||
