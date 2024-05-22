@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716361934?label=Updated)
+![Relative date](https://img.shields.io/date/1716365756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|23.01|24.05|app-utils||
@@ -1151,6 +1151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
 |koko|23.08.5|24.02.2|desktop-kde||
 |kolf|23.08.5|24.02.2|desktop-kde||
+|kollision|23.08.5|24.02.2|desktop-kde||
 |kolourpaint|23.08.5|24.02.2|desktop-kde||
 |kompare|23.08.5|24.02.2|desktop-kde||
 |kompose-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2080,7 +2081,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl||
 |perl-http-date|6.02|6.06|lang-perl||
 |perl-http-message|6.11|6.45|lang-perl||
-|perl-image-exiftool|12.50|12.84|lang-perl||
+|perl-image-exiftool|12.50|12.85|lang-perl||
 |perl-io-socket-inet6|2.72|2.73|lang-perl||
 |perl-io-socket-ssl|2.062|2.085|lang-perl||
 |perl-io-tee|0.65|0.66|lang-perl||
@@ -2584,7 +2585,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|runtime-common||
 |sniffio|1.3.0|1.3.1|lang-python||
-|snowball|2.1.0|2.2.0|runtime-common||
 |snowballstemmer|1.2.1|2.2.0|lang-python||
 |soci|4.0.1|4.0.3|runtime-database||
 |sof-firmware|2.2.3|2.8.1|runtime-kernel||
@@ -3054,7 +3054,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
-|zope-interface|5.4.0|6.4|lang-python||
+|zope-interface|5.4.0|6.4.post0|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
