@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716429268?label=Updated)
+![Relative date](https://img.shields.io/date/1716431211?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2248,7 +2248,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|runtime-multimedia||
 |prompt-toolkit|2.0.8|3.0.43|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
-|protobuf|3.15.6|26.1|runtime-common||
+|protobuf|3.15.6|27.0|runtime-common||
 |protobuf-c|1.3.3|1.5.0|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils||
@@ -2999,7 +2999,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsel|1.2.0|1.2.1|app-utils||
 |xsimd|10.0.0|13.0.0|runtime-common||
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
-|xterm|390|391|app-utils||
+|xterm|390|392|app-utils||
 |xviewer|3.0.2|3.4.4|app-imaging||
 |xwayland|23.2.6|24.1.0|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
