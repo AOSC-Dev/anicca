@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716455665?label=Updated)
+![Relative date](https://img.shields.io/date/1716459251?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -84,6 +84,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ark|23.08.5|24.02.2|desktop-kde||
 |arpack-ng|3.8.0|3.9.1|app-scientific||
 |arpwatch|2.1a15|3.6|app-network||
+|arrow|1.0.3|1.3.0|lang-python||
 |artikulate|23.08.5|24.02.2|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
@@ -1707,6 +1708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |merkuro|23.08.5|24.02.2|desktop-kde||
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.0|runtime-optenv32||
+|mesa-amber|21.3.9|24.1.0|runtime-display||
 |messagelib|23.08.5|24.02.2|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
@@ -2870,7 +2872,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0429|app-editors||
+|vim|9.1.0393|9.1.0433|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
