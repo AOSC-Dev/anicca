@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716491481?label=Updated)
+![Relative date](https://img.shields.io/date/1716495341?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -177,7 +177,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.111|lang-python||
+|boto3|1.20.26|1.34.112|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -822,7 +822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.102.5|lang-python||
+|hypothesis-python|6.97.4|6.102.6|lang-python||
 |hysteria|2.4.0|2.4.4|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -1292,6 +1292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
+|libcava|0.10.1|0.10.2|runtime-multimedia||
 |libcbor|0.8.0|0.11.0|runtime-common||
 |libcdio+32|0.94|2.1.0|runtime-optenv32||
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
@@ -2366,7 +2367,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|0.9.91|app-multimedia||
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
-|qt-6|6.7.0|6.7.1|runtime-desktop||
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
