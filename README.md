@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716437638?label=Updated)
+![Relative date](https://img.shields.io/date/1716441283?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2936,7 +2936,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
