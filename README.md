@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716473525?label=Updated)
+![Relative date](https://img.shields.io/date/1716477201?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -147,7 +147,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |bash-completion|2.13.0|2.14.0|app-shells||
-|bash-startup|0.6.6|0.6.5|runtime-data|Possible downgrade from the current version (0.6.6 -> 0.6.5)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
 |bcachefs-tools|1.6.4|1.7.0|app-admin||
 |bcftools|1.10.2|1.20|app-scientific||
@@ -156,7 +155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|2.3.6|app-productivity||
 |bear|3.1.3|3.1.4|app-devel||
 |beautifulsoup4|4.10.0|4.12.3|lang-python||
-|benchmark|1.8.2|1.8.3|runtime-common||
+|benchmark|1.8.2|1.8.4|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
 |bigsh0t|2.5.1|2.7|runtime-multimedia||
 |bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
@@ -1907,6 +1906,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1+32|1.1.1q|3.3.0|runtime-optenv32||
 |opensubdiv|3.6.0|3_6_0|runtime-creativity||
 |openswan|2.6.51.5|3.0.0|app-network||
+|opentimelineio|0.15|0.16.0|runtime-multimedia||
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|app-games|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|app-network||
 |openvswitch|3.0.3|3.3.0|app-network||
@@ -2597,8 +2597,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|runtime-productivity||
 |sqlalchemy|1.2.18|2.0.30|lang-python||
 |sqlcipher|4.5.6|4.6.0|app-database||
-|sqlite|3.45.1|3.45.3|app-database||
-|sqlite+32|3.32.3|3.45.3|runtime-optenv32||
+|sqlite|3.45.1|3.46.0|app-database||
+|sqlite+32|3.32.3|3.46.0|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
 |sqlmap|1.8.2|1.8.5|app-penetration||
@@ -2699,7 +2699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity||
 |tdeio-sword|14.1.0|14.1.2|desktop-trinity||
 |tdeio-umountwrapper|14.1.0|14.1.2|desktop-trinity||
-|tdelibs|14.1.0|14.1.2|desktop-trinity||
 |tdemultimedia|14.1.0|14.1.2|desktop-trinity||
 |tdenetwork|14.1.0|14.1.2|desktop-trinity||
 |tdenetworkmanager|14.1.0|14.1.2|desktop-trinity||
@@ -2793,6 +2792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
 |twisted|21.2.0|24.3.0|lang-python||
 |twm|1.0.11|1.0.12|desktop-wm||
+|twolame|0.3.13|0.4.0|app-multimedia||
 |twolame+32|0.3.13|0.4.0|runtime-optenv32||
 |txaio|18.8.1|23.1.1|lang-python||
 |txt2tags|3.7|3.9|app-doc||
