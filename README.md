@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716441283?label=Updated)
+![Relative date](https://img.shields.io/date/1716445054?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -182,7 +182,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.02.2|desktop-kde||
-|bpftrace|0.20.3|0.20.4|app-admin||
 |breeze|5.27.11|6.0.5|desktop-kde||
 |breeze-grub|5.27.11|6.0.5|desktop-kde||
 |breeze-gtk|5.27.11|6.0.5|desktop-kde||
@@ -564,7 +563,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|runtime-gis||
 |frei0r-plugins|2.2.0|2.3.2|runtime-multimedia||
 |frescobaldi|3.2|3.3.0|app-multimedia||
-|fribidi|1.0.10|1.0.14|app-scientific||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin||
@@ -700,7 +698,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|desktop-gnome||
 |gnote|42.1|46.0|desktop-gnome||
 |gnu-efi|3.0.14|3.0.18|app-devel||
-|gnupg|2.4.4|2.4.5|app-cryptography||
 |gnustep-base|1.28.0|1_29_0|runtime-gnustep||
 |gnustep-make|2.9.0|2_9_1|runtime-gnustep||
 |gnutls|3.8.4|3.8.5|runtime-cryptography||
@@ -1314,7 +1311,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
 |libcuckoo|0.3|0.3.1|runtime-common||
-|libdatrie|0.2.12|0.2.13|runtime-i18n||
 |libdc1394|2.2.6|2.2.7|runtime-devices||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
 |libdecor|0.1.1|0.2.2|runtime-desktop||
@@ -1419,7 +1415,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.0.5|desktop-kde||
 |libktorrent|23.08.5|24.02.2|desktop-kde||
 |liblangtag|0.6.3|0.6.7|runtime-i18n||
-|liblastfm|1.0.9|1.1.0|runtime-multimedia||
 |liblo|0.29|0.32|runtime-multimedia||
 |liblouis|3.12.0|3.29.0|runtime-a11y||
 |libltc|1.3.1|1.3.2|runtime-multimedia||
@@ -1487,7 +1482,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
-|librsync|2.3.2|2.3.4|runtime-network||
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
 |libsass|3.6.4|3.6.6|runtime-common||
@@ -1612,7 +1606,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
-|linux-pam|1.6.0|1.6.1|app-admin||
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -1643,7 +1636,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.13.8|runtime-common||
 |lua-expat|1.4.1|1.5.1|lang-lua||
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
-|lua-socket|3.0<br>+rc1|3.1.0|lang-lua|Compound version number '3.0+rc1'|
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
 |luarocks|3.5.0|3.11.0|lang-lua||
@@ -1880,12 +1872,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
 |opam|2.1.3|2.1.6|lang-ocaml||
-|open-iscsi|2.1.8|2.1.9|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
-|opencc|1.1.3|1.1.7|app-i18n||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
 |opencolorio|2.1.2|2.3.2|runtime-imaging||
 |openconnect|8.10|9.12|app-network||
@@ -1940,7 +1930,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
 |osu-lazer|2024.412.1|2024.521.2|app-games||
-|owntone|28.6|28.9|app-multimedia||
 |oxygen|5.27.11|6.0.5|desktop-kde||
 |oxygen-icons|5.115.0|6.0.5|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
@@ -2037,7 +2026,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-date-format|1.005|1.008|lang-perl||
 |perl-email-mime|1.946|1.954|lang-perl||
 |perl-email-mime-contenttype|1.022|1.028|lang-perl||
-|perl-email-mime-encodings|1.315|1.317|lang-perl||
 |perl-email-simple|2.216|2.218|lang-perl||
 |perl-error|0.17027|0.17029|lang-perl||
 |perl-ev|4.25|4.34|lang-perl||
@@ -2140,7 +2128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-uri|1.74|5.28|lang-perl||
 |perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
-|perl-xml-libxml|2.0201|2.0210|lang-perl||
 |perl-xml-libxslt|1.96|2.002001|lang-perl||
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
@@ -2489,7 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s3transfer|0.5.0|0.10.1|lang-python||
 |samba|4.17.2|4.20.1|app-network||
 |samtools|1.16.1|1.20|app-scientific||
-|sane-backends|1.0.32|1.3.0|runtime-devices||
+|sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
@@ -2936,6 +2923,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
+|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-regdb|2022.08.12|2024.05.08|app-network||
@@ -2967,7 +2955,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|app-utils|Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.9|desktop-wm||
 |xcowsay|1.4|1.6|app-utils||
-|xdelta|3.0.11|3.1.0|app-utils||
 |xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop||
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin||
 |xdg-desktop-portal-gnome|42.3|46.1|desktop-gnome||
