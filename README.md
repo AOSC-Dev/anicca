@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716470057?label=Updated)
+![Relative date](https://img.shields.io/date/1716473525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -129,7 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|14.1.0|app-devel|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|app-devel||
 |avrdude|6.3|7.3|app-devel||
-|ayatana-indicator-messages|0.8.2|23.10.0|runtime-desktop||
+|ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop||
 |b2sdk|1.14.0|2.3.0|lang-python||
 |b43-firmware-installer|20160210|019|app-admin|Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
@@ -1907,7 +1907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1+32|1.1.1q|3.3.0|runtime-optenv32||
 |opensubdiv|3.6.0|3_6_0|runtime-creativity||
 |openswan|2.6.51.5|3.0.0|app-network||
-|opentimelineio|0.15|0.16.0|runtime-multimedia||
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|app-games|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|app-network||
 |openvswitch|3.0.3|3.3.0|app-network||
@@ -2121,6 +2120,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-uri|1.74|5.28|lang-perl||
 |perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
+|perl-xml-libxslt|1.96|2.002001|lang-perl||
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
@@ -2133,6 +2133,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
 |phonon|4.11.1|4.12.0|desktop-kde||
+|picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.0|desktop-kde||
 |picocom|3.1|2023-04|app-utils||
 |pidgin|2.14.12|2.14.13|app-web||
@@ -2792,7 +2793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
 |twisted|21.2.0|24.3.0|lang-python||
 |twm|1.0.11|1.0.12|desktop-wm||
-|twolame|0.3.13|0.4.0|app-multimedia||
 |twolame+32|0.3.13|0.4.0|runtime-optenv32||
 |txaio|18.8.1|23.1.1|lang-python||
 |txt2tags|3.7|3.9|app-doc||
