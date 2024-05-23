@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716477201?label=Updated)
+![Relative date](https://img.shields.io/date/1716480919?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -167,7 +167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinker|1.4|1.8.2|lang-python||
 |bluedevil|5.27.11|6.0.5|desktop-kde||
 |bluez|5.75|5.76|app-devices||
-|bluez-alsa|3.0.0|4.2.0|app-multimedia||
+|bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.5|desktop-kde||
 |boinc|7.24.3|8.0/8.0.1|app-scientific||
 |bolt|0.9.7|0.9.8|app-admin||
@@ -2472,7 +2472,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sanlock|3.8.5|3.9.2|app-admin||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
-|sbc|1.4|2.0|app-multimedia||
 |sbc+32|1.3|2.0|runtime-optenv32||
 |sbcl|2.4.3|2.4.4|lang-lisp||
 |sbsigntool|0.9.4|0.9.5|app-admin||
@@ -2699,6 +2698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity||
 |tdeio-sword|14.1.0|14.1.2|desktop-trinity||
 |tdeio-umountwrapper|14.1.0|14.1.2|desktop-trinity||
+|tdelibs|14.1.0|14.1.2|desktop-trinity||
 |tdemultimedia|14.1.0|14.1.2|desktop-trinity||
 |tdenetwork|14.1.0|14.1.2|desktop-trinity||
 |tdenetworkmanager|14.1.0|14.1.2|desktop-trinity||
