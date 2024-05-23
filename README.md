@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716452260?label=Updated)
+![Relative date](https://img.shields.io/date/1716455665?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -84,7 +84,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ark|23.08.5|24.02.2|desktop-kde||
 |arpack-ng|3.8.0|3.9.1|app-scientific||
 |arpwatch|2.1a15|3.6|app-network||
-|arrow|1.0.3|1.3.0|lang-python||
 |artikulate|23.08.5|24.02.2|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
@@ -1708,7 +1707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |merkuro|23.08.5|24.02.2|desktop-kde||
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.0|runtime-optenv32||
-|mesa-amber|21.3.9|24.1.0|runtime-display||
 |messagelib|23.08.5|24.02.2|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
 |mgba|0.9.2|0.10.3|app-games||
@@ -1846,6 +1844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
 |numpy|1.26.1|1.26.4|lang-python||
+|nut|2.7.4|2.8.2|app-admin||
 |nvchecker|1.5|2.14.1|app-utils||
 |nvidia|550.54.14|555.42.02|runtime-display||
 |nvidia+32|0|555.42.02|runtime-optenv32||
@@ -3029,7 +3028,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
-|zope-interface|5.4.0|6.4.post0|lang-python||
+|zope-interface|5.4.0|6.4.post1|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
