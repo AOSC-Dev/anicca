@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716462819?label=Updated)
+![Relative date](https://img.shields.io/date/1716466794?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -883,6 +883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.4|app-network||
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
+|ipy|0.83|1.01|lang-python||
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |irssi|1.2.3|1.4.5|app-web||
@@ -2024,6 +2025,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|lang-perl||
 |perl-extutils-config|0.008|0.009|lang-perl||
 |perl-extutils-depends|0.405|0.8001|lang-perl||
+|perl-extutils-installpaths|0.012|0.013|lang-perl||
 |perl-fcgi|0.78|0.82|lang-perl||
 |perl-file-basedir|0.08|0.09|lang-perl||
 |perl-file-copy-recursive|0.44|0.45|lang-perl||
@@ -2153,7 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.10.0|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.04.90|desktop-kde||
+|plasma-angelfish|22.06|24.05.0|desktop-kde||
 |plasma-browser-integration|5.27.11|6.0.5|desktop-kde||
 |plasma-desktop|5.27.11|6.0.5|desktop-kde||
 |plasma-disks|5.27.11|6.0.5|desktop-kde||
@@ -2422,6 +2424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlwrap|0.43|0.46.1|runtime-common||
 |rng-tools|6.7|6.16|app-utils||
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common||
+|rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
 |rocm-cmake|6.0.2|6.1.1|runtime-rocm||
 |rocm-llvm|6.0.2|6.1.1|runtime-rocm||
@@ -2520,7 +2523,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |siege|4.0.7|4.1.6|app-network||
 |signon|8.60|8.61|app-admin||
 |signon-kwallet-extension|23.08.5|24.05.0|desktop-kde||
-|signon-plugin-oauth2|0.24|0.25|runtime-desktop||
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games||
 |simh|3.11<br>+1|3.12-2|app-emulation|Compound version number '3.11+1'|
@@ -2530,7 +2532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sing-box|1.8.13|1.8.14|app-network||
 |singular|4.1.1|2023.02.09|app-scientific||
 |sip|6.3.1|6.8.3|lang-python||
-|skanlite|23.08.5|24.04.90|desktop-kde||
+|skanlite|23.08.5|24.05.0|desktop-kde||
 |skanpage|23.08.5|24.05.0|desktop-kde||
 |skktools|1.3.4|1_3_4|app-i18n||
 |slirp4netns|1.2.2|1.3.1|app-admin||
@@ -2982,7 +2984,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xz|5.4.1|5.6.1|app-utils||
 |xz+32|5.4.1|5.6.1|runtime-optenv32||
 |yad|0.40.0|13.0|app-utils||
-|yakuake|23.08.5|24.02.2|desktop-kde||
+|yakuake|23.08.5|24.05.0|desktop-kde||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
 |yard|0.9.26|0.9.36|app-doc||
