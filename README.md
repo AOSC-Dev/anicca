@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716488234?label=Updated)
+![Relative date](https://img.shields.io/date/1716491481?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -522,6 +522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
 |flask|1.1.2|3.0.3|lang-python||
+|flask-login|0.4.1|0.6.3|lang-python||
 |flask-wtf|0.14|1.2.1|lang-python||
 |flat-remix-gtk-theme|20200718|20220627|desktop-themes||
 |flat-remix-icon-theme|20191122|20240201|desktop-themes||
@@ -1209,6 +1210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksudoku|23.08.5|24.05.0|desktop-kde||
 |ksystemlog|23.08.5|24.05.0|desktop-kde||
 |ksystemlog-trinity|14.1.0|14.1.2|desktop-trinity||
+|ksystemstats|5.27.11|6.0.5|desktop-kde||
 |kteatime|23.08.5|24.05.0|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
@@ -2059,6 +2061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ipc-system-simple|1.25|1.30|lang-perl||
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl||
 |perl-json|2.90|4.10|lang-perl||
+|perl-json-parse|0.57|0.43|lang-perl|Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compound version number '4.0+00'|
 |perl-list-moreutils|0.428|0.430|lang-perl||
 |perl-lwp-mediatypes|6.02|6.04|lang-perl||
