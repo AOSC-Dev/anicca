@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716484384?label=Updated)
+![Relative date](https://img.shields.io/date/1716488234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -468,7 +468,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|lang-python||
 |etckeeper|1.18.20|1.18.21|app-admin||
-|ethtool|6.0|6.7|app-network||
+|ethtool|6.0|6.9|app-network||
 |etl|1.2.2|1.5.1|runtime-common||
 |eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.0|desktop-kde||
@@ -522,7 +522,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
 |flask|1.1.2|3.0.3|lang-python||
-|flask-login|0.4.1|0.6.3|lang-python||
 |flask-wtf|0.14|1.2.1|lang-python||
 |flat-remix-gtk-theme|20200718|20220627|desktop-themes||
 |flat-remix-icon-theme|20191122|20240201|desktop-themes||
@@ -786,7 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatch-vcs|0.3.0|0.4.0|lang-python||
-|hatchling|1.21.1|1.11.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.0)|
+|hatchling|1.21.1|1.11.1|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.1)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
 |hdf5|1.10.5|1.14.4.1|runtime-scientific||
@@ -1210,7 +1209,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksudoku|23.08.5|24.05.0|desktop-kde||
 |ksystemlog|23.08.5|24.05.0|desktop-kde||
 |ksystemlog-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksystemstats|5.27.11|6.0.5|desktop-kde||
 |kteatime|23.08.5|24.05.0|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
@@ -1918,7 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
 |orca|42.3|46.1|desktop-gnome||
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
-|osinfo-db|20230719|20240510|app-admin||
+|osinfo-db|20230719|20240523|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |ostree|2023.1|2024.6|app-admin||
 |osu-lazer|2024.412.1|2024.521.2|app-games||
@@ -2061,7 +2059,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ipc-system-simple|1.25|1.30|lang-perl||
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl||
 |perl-json|2.90|4.10|lang-perl||
-|perl-json-parse|0.57|0.43|lang-perl|Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compound version number '4.0+00'|
 |perl-list-moreutils|0.428|0.430|lang-perl||
 |perl-lwp-mediatypes|6.02|6.04|lang-perl||
