@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716480919?label=Updated)
+![Relative date](https://img.shields.io/date/1716484384?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2968,7 +2968,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0|app-network||
-|xray|1.8.4|1.8.11|app-network||
+|xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
 |xreader|3.8.5|4.0.2|app-doc||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
