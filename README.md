@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716574514?label=Updated)
+![Relative date](https://img.shields.io/date/1716577817?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -519,6 +519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatpak-builder|1.0.14|1.4.3|app-devel||
 |flent|1.3.2|2.1.1|app-network||
 |flightgear|2020.3.13|2020.3.19|app-games||
+|flint|2.5.2|3.1.2|runtime-scientific||
 |fltk|1.3.5|1.3.9|runtime-desktop||
 |fluidsynth|2.0.5|2.3.5|app-multimedia||
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32||
@@ -1622,8 +1623,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.300.4|0.310|desktop-fonts||
-|lxgwnewcleargothic-font|1.121|1.122|desktop-fonts||
+|lxgwcleargothic-font|0.300.4|0.311|desktop-fonts||
+|lxgwnewcleargothic-font|1.121|1.123|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
@@ -2544,7 +2545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
-|spdx-licenses|3.11|3.23|runtime-data||
+|spdx-licenses|3.11|3.24.0|runtime-data||
 |spectacle|22.12.3|24.05.0|desktop-kde||
 |speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
 |speedometer|2.8|2.9|app-network||
@@ -2632,7 +2633,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tagparser|11.5.1|12.1.0|runtime-multimedia||
 |tailscale|1.64.2|1.66.4|app-network||
 |taisei|1.3.2|1.4.1|app-games||
-|tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
 |targetcli-fb|2.1.54|2.1.58|app-admin||
 |tarsnap|1.0.39|1.0.40|app-admin||
