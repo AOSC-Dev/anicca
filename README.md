@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716567339?label=Updated)
+![Relative date](https://img.shields.io/date/1716570692?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -105,7 +105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atkmm|2.28.0|2.36.3|desktop-gnome||
 |atomicwrites|1.3.0|1.4.1|lang-python||
 |atomix|3.34.0|44.0|desktop-gnome||
-|attica5|5.115.0|6.0.5|desktop-kde||
+|attica5|5.115.0|6.0.90|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
 |attrs|20.3.0|23.2.0|lang-python||
@@ -138,7 +138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backcall|0.1.0|0.2.0|lang-python||
 |backports|0|1.1|lang-python||
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
-|baloo|5.115.0|6.0.5|desktop-kde||
+|baloo|5.115.0|6.0.90|desktop-kde||
 |baloo-widgets|23.08.5|24.05.0|desktop-kde||
 |balz|1.20|9.86|app-utils||
 |bandwhich|0.20.0|0.22.2|app-network||
@@ -166,7 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|desktop-kde||
 |bluez|5.75|5.76|app-devices||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
-|bluez-qt|5.115.0|6.0.5|desktop-kde||
+|bluez-qt|5.115.0|6.0.90|desktop-kde||
 |boinc|7.24.3|8.0/8.0.1|app-scientific||
 |bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.05.0|desktop-kde||
@@ -182,7 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze|5.27.11|6.0.5|desktop-kde||
 |breeze-grub|5.27.11|6.0.5|desktop-kde||
 |breeze-gtk|5.27.11|6.0.5|desktop-kde||
-|breeze-icons|5.115.0|6.0.5|desktop-kde||
+|breeze-icons|5.115.0|6.0.90|desktop-kde||
 |breeze-plymouth|5.27.11|6.0.5|desktop-kde||
 |bridge-utils|1.6|1.7.1|app-network||
 |brotli|1.0.9|1.1.0|app-utils||
@@ -201,7 +201,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo|1.17.6|1.18.0|runtime-imaging||
 |cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
-|cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
 |calendarsupport|23.08.5|24.05.0|desktop-kde||
 |calibre|5.30.0|7.11.0|app-doc||
@@ -468,7 +467,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exceptiongroup|1.2.0|1.2.1|lang-python||
 |exempi|2.5.1|2.6.5|runtime-imaging||
 |exiv2|0.27.5|0.28.2|runtime-imaging||
-|extra-cmake-modules|5.115.0|6.0.5|app-devel||
+|extra-cmake-modules|5.115.0|6.0.90|app-devel||
 |eyed3|0.9.5|0.9.7|lang-python||
 |eza|0.11.0|0.10.1|app-utils|Possible downgrade from the current version (0.11.0 -> 0.10.1)|
 |f3|7.2|8.0|app-utils||
@@ -535,7 +534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fping|5.1|5.2|app-network||
 |fprintd|1.94.2|1.94.3|app-admin||
 |fractal|7.0|7|desktop-gnome||
-|frameworkintegration|5.115.0|6.0.5|desktop-kde||
+|frameworkintegration|5.115.0|6.0.90|desktop-kde||
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
@@ -913,8 +912,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
 |kaccounts-integration|23.08.5|24.05.0|desktop-kde||
 |kaccounts-providers|23.08.5|24.05.0|desktop-kde||
-|kactivities|5.115.0|6.0.5|desktop-kde||
-|kactivities-stats|5.115.0|6.0.5|desktop-kde||
+|kactivities|5.115.0|6.0.90|desktop-kde||
+|kactivities-stats|5.115.0|6.0.90|desktop-kde||
 |kactivitymanagerd|5.27.11|6.0.5|desktop-kde||
 |kaddressbook|23.08.5|24.05.0|desktop-kde||
 |kaffeine-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -926,16 +925,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kamera|23.08.5|24.05.0|desktop-kde||
 |kamoso|23.08.5|24.05.0|desktop-kde||
 |kanagram|23.08.5|24.05.0|desktop-kde||
-|kapidox|5.115.0|6.0.5|desktop-kde||
+|kapidox|5.115.0|6.0.90|desktop-kde||
 |kapman|23.08.5|24.05.0|desktop-kde||
 |kapptemplate|23.08.5|24.05.0|desktop-kde||
-|karchive|5.115.0|6.0.5|desktop-kde||
+|karchive|5.115.0|6.0.90|desktop-kde||
 |kasablanca-trinity|14.1.0|14.1.2|desktop-trinity||
 |kasts|23.08.5|24.05.0|desktop-kde||
 |katapult-trinity|14.1.0|14.1.2|desktop-trinity||
 |kate|23.08.5|24.05.0|desktop-kde||
 |katomic|23.08.5|24.05.0|desktop-kde||
-|kauth|5.115.0|6.0.5|desktop-kde||
+|kauth|5.115.0|6.0.90|desktop-kde||
 |kbarcode-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbd|2.5.1|2.6.4|app-utils||
 |kbfx-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -943,34 +942,34 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbiff-trinity|14.1.0|14.1.2|desktop-trinity||
 |kblackbox|23.08.5|24.05.0|desktop-kde||
 |kblocks|23.08.5|24.05.0|desktop-kde||
-|kbookmarks|5.115.0|6.0.5|desktop-kde||
+|kbookmarks|5.115.0|6.0.90|desktop-kde||
 |kbookreader-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbounce|23.08.5|24.05.0|desktop-kde||
 |kbreakout|23.08.5|24.05.0|desktop-kde||
 |kbruch|23.08.5|24.05.0|desktop-kde||
 |kcachegrind|23.08.5|24.05.0|desktop-kde||
 |kcalc|23.08.5|24.05.0|desktop-kde||
-|kcalendarcore|5.115.0|6.0.5|desktop-kde||
+|kcalendarcore|5.115.0|6.0.90|desktop-kde||
 |kcalutils|23.08.5|24.05.0|desktop-kde||
 |kcharselect|23.08.5|24.05.0|desktop-kde||
 |kchmviewer-trinity|14.1.0|14.1.2|desktop-trinity||
 |kclock|23.08.5|24.05.0|desktop-kde||
 |kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
-|kcmutils|5.115.0|6.0.5|desktop-kde||
-|kcodecs|5.115.0|6.0.5|desktop-kde||
+|kcmutils|5.115.0|6.0.90|desktop-kde||
+|kcodecs|5.115.0|6.0.90|desktop-kde||
 |kcolorchooser|23.08.5|24.05.0|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
-|kcompletion|5.115.0|6.0.5|desktop-kde||
-|kconfig|5.115.0|6.0.5|desktop-kde||
-|kconfigwidgets|5.115.0|6.0.5|desktop-kde||
-|kcontacts|5.115.0|6.0.5|desktop-kde||
-|kcoreaddons|5.115.0|6.0.5|desktop-kde||
+|kcompletion|5.115.0|6.0.90|desktop-kde||
+|kconfig|5.115.0|6.0.90|desktop-kde||
+|kconfigwidgets|5.115.0|6.0.90|desktop-kde||
+|kcontacts|5.115.0|6.0.90|desktop-kde||
+|kcoreaddons|5.115.0|6.0.90|desktop-kde||
 |kcpuload-trinity|14.1.0|14.1.2|desktop-trinity||
-|kcrash|5.115.0|6.0.5|desktop-kde||
+|kcrash|5.115.0|6.0.90|desktop-kde||
 |kcron|23.08.5|24.05.0|desktop-kde||
-|kdav|5.115.0|6.0.5|desktop-kde||
+|kdav|5.115.0|6.0.90|desktop-kde||
 |kdbg-trinity|14.1.0|14.1.2|desktop-trinity||
-|kdbusaddons|5.115.0|6.0.5|desktop-kde||
+|kdbusaddons|5.115.0|6.0.90|desktop-kde||
 |kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.5|desktop-kde||
@@ -979,26 +978,26 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-gtk-config|5.27.11|6.0.5|desktop-kde||
 |kde-inotify-survey|23.08.5|24.05.0|desktop-kde||
 |kdebugsettings|23.08.5|24.05.0|desktop-kde||
-|kdeclarative|5.115.0|6.0.5|desktop-kde||
+|kdeclarative|5.115.0|6.0.90|desktop-kde||
 |kdeconnect|23.08.5|24.05.0|desktop-kde||
 |kdecoration|5.27.11|6.0.5|desktop-kde||
-|kded|5.115.0|6.0.5|desktop-kde||
+|kded|5.115.0|6.0.90|desktop-kde||
 |kdeedu-data|23.08.5|24.05.0|desktop-kde||
 |kdegraphics-mobipocket|23.08.5|24.05.0|desktop-kde||
 |kdegraphics-thumbnailers|23.08.5|24.05.0|desktop-kde||
-|kdelibs4support|5.115.0|6.0.5|desktop-kde||
+|kdelibs4support|5.115.0|6.0.90|desktop-kde||
 |kdenetwork-filesharing|23.08.5|24.05.0|desktop-kde||
 |kdenlive|23.08.5|24.05.0|desktop-kde||
 |kdepim-addons|23.08.5|24.05.0|desktop-kde||
 |kdepim-runtime|23.08.5|24.05.0|desktop-kde||
 |kdeplasma-addons|5.27.11|6.0.5|desktop-kde||
-|kdesignerplugin|5.115.0|6.0.5|desktop-kde||
-|kdesu|5.115.0|6.0.5|desktop-kde||
+|kdesignerplugin|5.115.0|6.0.90|desktop-kde||
+|kdesu|5.115.0|6.0.90|desktop-kde||
 |kdev-php|23.08.5|24.05.0|desktop-kde||
 |kdev-python|23.08.5|24.05.0|desktop-kde||
 |kdevelop|23.08.5|24.05.0|desktop-kde||
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
-|kdewebkit|5.115.0|6.0.5|desktop-kde||
+|kdewebkit|5.115.0|6.0.90|desktop-kde||
 |kdf|23.08.5|24.05.0|desktop-kde||
 |kdiagram|2.8.0|3.0.1|desktop-kde||
 |kdialog|23.08.5|24.05.0|desktop-kde||
@@ -1006,8 +1005,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdiff3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdirstat-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde||
-|kdnssd|5.115.0|6.0.5|desktop-kde||
-|kdoctools|5.115.0|6.0.5|desktop-kde||
+|kdnssd|5.115.0|6.0.90|desktop-kde||
+|kdoctools|5.115.0|6.0.90|desktop-kde||
 |kdpkg-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdsoap|1.9.0|2.2.0|runtime-network||
 |keditbookmarks|23.08.5|24.05.0|desktop-kde||
@@ -1017,46 +1016,46 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-favicon|1.9.0|9.7.4|app-utils||
 |keepass-plugin-twofish|1.3|1.4|app-utils||
 |keepassxc|2.6.6|2.7.8|app-utils||
-|kemoticons|5.115.0|6.0.5|desktop-kde||
+|kemoticons|5.115.0|6.0.90|desktop-kde||
 |kernel-tools|6.9.1|5.19.17|app-admin|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
 |keyring|21.7.0|25.2.1|lang-python||
 |keysmith|23.08.5|24.05.0|desktop-kde||
-|kfilemetadata|5.115.0|6.0.5|desktop-kde||
+|kfilemetadata|5.115.0|6.0.90|desktop-kde||
 |kfind|23.08.5|24.05.0|desktop-kde||
 |kfloppy|23.04.3|24.05.0|desktop-kde||
 |kfourinline|23.08.5|24.05.0|desktop-kde||
 |kgamma|5.27.11|6.0.5|desktop-kde||
 |kgeography|23.08.5|24.05.0|desktop-kde||
 |kget|23.08.5|24.05.0|desktop-kde||
-|kglobalaccel|5.115.0|6.0.5|desktop-kde||
+|kglobalaccel|5.115.0|6.0.90|desktop-kde||
 |kgoldrunner|23.08.5|24.05.0|desktop-kde||
 |kgpg|23.08.5|24.05.0|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
-|kguiaddons|5.115.0|6.0.5|desktop-kde||
+|kguiaddons|5.115.0|6.0.90|desktop-kde||
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
 |khelpcenter|23.08.5|24.05.0|desktop-kde||
-|kholidays|5.115.0|6.0.5|desktop-kde||
+|kholidays|5.115.0|6.0.90|desktop-kde||
 |khotkeys|5.27.11|6.0.5|desktop-kde||
-|khtml|5.115.0|6.0.5|desktop-kde||
-|ki18n|5.115.0|6.0.5|desktop-kde||
-|kiconthemes|5.115.0|6.0.5|desktop-kde||
+|khtml|5.115.0|6.0.90|desktop-kde||
+|ki18n|5.115.0|6.0.90|desktop-kde||
+|kiconthemes|5.115.0|6.0.90|desktop-kde||
 |kid3|3.8.3|3.9.5|app-multimedia||
 |kidentitymanagement|23.08.5|24.05.0|desktop-kde||
-|kidletime|5.115.0|6.0.5|desktop-kde||
+|kidletime|5.115.0|6.0.90|desktop-kde||
 |kig|23.08.5|24.05.0|desktop-kde||
 |kigo|23.08.5|24.05.0|desktop-kde||
 |kile-trinity|14.1.0|14.1.2|desktop-trinity||
 |killbots|23.08.5|24.05.0|desktop-kde||
 |kima-trinity|14.1.0|14.1.2|desktop-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde||
-|kimageformats|5.115.0|6.0.5|desktop-kde||
+|kimageformats|5.115.0|6.0.90|desktop-kde||
 |kimagemapeditor|23.08.5|24.05.0|desktop-kde||
 |kimap|23.08.5|24.05.0|desktop-kde||
 |kinfocenter|5.27.11|6.0.5|desktop-kde||
-|kinit|5.115.0|6.0.5|desktop-kde||
-|kio|5.115.0|6.0.5|desktop-kde||
+|kinit|5.115.0|6.0.90|desktop-kde||
+|kio|5.115.0|6.0.90|desktop-kde||
 |kio-admin|23.08.5|24.05.0|desktop-kde||
 |kio-extras|23.08.5|24.05.0|desktop-kde||
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
@@ -1066,18 +1065,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kipi-plugins|23.08.5|24.05.0|desktop-kde||
 |kirigami-addons|0.11.0|1.2.1|desktop-kde||
 |kirigami-gallery|23.08.5|24.05.0|desktop-kde||
-|kirigami2|5.115.0|6.0.5|desktop-kde||
+|kirigami2|5.115.0|6.0.90|desktop-kde||
 |kiriki|23.08.5|24.05.0|desktop-kde||
-|kitemmodels|5.115.0|6.0.5|desktop-kde||
-|kitemviews|5.115.0|6.0.5|desktop-kde||
+|kitemmodels|5.115.0|6.0.90|desktop-kde||
+|kitemviews|5.115.0|6.0.90|desktop-kde||
 |kiten|23.08.5|24.05.0|desktop-kde||
 |kitinerary|23.08.5|24.05.0|desktop-kde||
 |kitty|0.26.4|0.34.1|app-utils||
 |kiwisolver|1.0.1|1.4.5|lang-python||
-|kjobwidgets|5.115.0|6.0.5|desktop-kde||
+|kjobwidgets|5.115.0|6.0.90|desktop-kde||
 |kjournald|23.08.5|24.05.0|desktop-kde||
-|kjs|5.115.0|6.0.5|desktop-kde||
-|kjsembed|5.115.0|6.0.5|desktop-kde||
+|kjs|5.115.0|6.0.90|desktop-kde||
+|kjsembed|5.115.0|6.0.90|desktop-kde||
 |kjumpingcube|23.08.5|24.05.0|desktop-kde||
 |kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity||
 |klamav-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1093,7 +1092,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmail-account-wizard|23.08.5|24.05.0|desktop-kde||
 |kmailtransport|23.08.5|24.05.0|desktop-kde||
 |kmbox|23.08.5|24.05.0|desktop-kde||
-|kmediaplayer|5.115.0|6.0.5|desktop-kde||
+|kmediaplayer|5.115.0|6.0.90|desktop-kde||
 |kmenuedit|5.27.11|6.0.5|desktop-kde||
 |kmime|23.08.5|24.05.0|desktop-kde||
 |kmines|23.08.5|24.05.0|desktop-kde||
@@ -1111,13 +1110,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knetload-trinity|14.1.0|14.1.2|desktop-trinity||
 |knetstats-trinity|14.1.0|14.1.2|desktop-trinity||
 |knetwalk|23.08.5|24.05.0|desktop-kde||
-|knewstuff|5.115.0|6.0.5|desktop-kde||
+|knewstuff|5.115.0|6.0.90|desktop-kde||
 |knights|23.08.5|24.05.0|desktop-kde||
 |knights-trinity|14.1.0|14.1.2|desktop-trinity||
 |knmap-trinity|14.1.0|14.1.2|desktop-trinity||
 |knotes|23.08.5|24.05.0|desktop-kde||
-|knotifications|5.115.0|6.0.5|desktop-kde||
-|knotifyconfig|5.115.0|6.0.5|desktop-kde||
+|knotifications|5.115.0|6.0.90|desktop-kde||
+|knotifyconfig|5.115.0|6.0.90|desktop-kde||
 |knowit-trinity|14.1.0|14.1.2|desktop-trinity||
 |knutclient-trinity|14.1.0|14.1.2|desktop-trinity||
 |kodi|20.3|21.0|app-multimedia||
@@ -1144,21 +1143,21 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity||
 |korganizer|23.08.5|24.05.0|desktop-kde||
 |kosmindoormap|23.08.5|24.05.0|desktop-kde||
-|kpackage|5.115.0|6.0.5|desktop-kde||
-|kparts|5.115.0|6.0.5|desktop-kde||
+|kpackage|5.115.0|6.0.90|desktop-kde||
+|kparts|5.115.0|6.0.90|desktop-kde||
 |kpat|23.08.5|24.05.0|desktop-kde||
-|kpeople|5.115.0|6.0.5|desktop-kde||
+|kpeople|5.115.0|6.0.90|desktop-kde||
 |kpicosim-trinity|14.1.0|14.1.2|desktop-trinity||
 |kpilot-trinity|14.1.0|14.1.2|desktop-trinity||
 |kpimtextedit|23.08.5|24.05.0|desktop-kde||
 |kpipewire|5.27.11|6.0.5|desktop-kde||
 |kpkpass|23.08.5|24.05.0|desktop-kde||
-|kplotting|5.115.0|6.0.5|desktop-kde||
+|kplotting|5.115.0|6.0.90|desktop-kde||
 |kpmcore|23.08.5|24.05.0|desktop-kde||
-|kpty|5.115.0|6.0.5|desktop-kde||
+|kpty|5.115.0|6.0.90|desktop-kde||
 |kpublictransport|23.08.5|24.05.0|desktop-kde||
 |kqtquickcharts|23.08.5|24.05.0|desktop-kde||
-|kquickcharts|5.115.0|6.0.5|desktop-kde||
+|kquickcharts|5.115.0|6.0.90|desktop-kde||
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde||
 |kramdown|2.3.1|2.4.0|lang-ruby||
 |krb5|1.17.1|1.21.2-final|app-network||
@@ -1169,9 +1168,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krename-trinity|14.1.0|14.1.2|desktop-trinity||
 |kreversi|23.08.5|24.05.0|desktop-kde||
 |krfb|23.08.5|24.05.0|desktop-kde||
-|kross|5.115.0|6.0.5|desktop-kde||
+|kross|5.115.0|6.0.90|desktop-kde||
 |kruler|23.08.5|24.05.0|desktop-kde||
-|krunner|5.115.0|6.0.5|desktop-kde||
+|krunner|5.115.0|6.0.90|desktop-kde||
 |krusader|2.7.2|2.8.1|desktop-kde||
 |krusader-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksanecore|23.08.5|24.05.0|desktop-kde||
@@ -1179,7 +1178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kscreen|5.27.11|6.0.5|desktop-kde||
 |kscreenlocker|5.27.11|6.0.5|desktop-kde||
 |ksensors-trinity|14.1.0|14.1.2|desktop-trinity||
-|kservice|5.115.0|6.0.5|desktop-kde||
+|kservice|5.115.0|6.0.90|desktop-kde||
 |ksh93|2020.0.0<br>+20200208|1.0.8|app-shells|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208 -> 1.0.8)|
 |kshisen|23.08.5|24.05.0|desktop-kde||
 |kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1201,8 +1200,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|24.05.0|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
-|ktexteditor|5.115.0|6.0.5|desktop-kde||
-|ktextwidgets|5.115.0|6.0.5|desktop-kde||
+|ktexteditor|5.115.0|6.0.90|desktop-kde||
+|ktextwidgets|5.115.0|6.0.90|desktop-kde||
 |ktimer|23.08.5|24.05.0|desktop-kde||
 |ktnef|23.08.5|24.05.0|desktop-kde||
 |ktoblzcheck|1.53|1.57|runtime-productivity||
@@ -1214,27 +1213,27 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kturtle|23.08.5|24.05.0|desktop-kde||
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.05.0|desktop-kde||
-|kunitconversion|5.115.0|6.0.5|desktop-kde||
+|kunitconversion|5.115.0|6.0.90|desktop-kde||
 |kvantum|1.0.10|1.1.1|desktop-kde||
 |kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
-|kwallet|5.115.0|6.0.5|desktop-kde||
+|kwallet|5.115.0|6.0.90|desktop-kde||
 |kwallet-pam|5.27.11|6.0.5|desktop-kde||
 |kwalletmanager|23.08.5|24.05.0|desktop-kde||
 |kwave|23.08.5|24.05.0|desktop-kde||
-|kwayland|5.115.0|6.0.5|desktop-kde||
+|kwayland|5.115.0|6.0.90|desktop-kde||
 |kwayland-integration|5.27.11|6.0.5|desktop-kde||
 |kweather|23.08.5|24.05.0|desktop-kde||
 |kweathercore|0.7|0.8.0|desktop-kde||
-|kwidgetsaddons|5.115.0|6.0.5|desktop-kde||
+|kwidgetsaddons|5.115.0|6.0.90|desktop-kde||
 |kwin|5.27.11|6.0.5|desktop-kde||
-|kwindowsystem|5.115.0|6.0.5|desktop-kde||
+|kwindowsystem|5.115.0|6.0.90|desktop-kde||
 |kwordquiz|23.08.5|24.05.0|desktop-kde||
 |kwrited|5.27.11|6.0.5|desktop-kde||
 |kxmleditor-trinity|14.1.0|14.1.2|desktop-trinity||
-|kxmlgui|5.115.0|6.0.5|desktop-kde||
-|kxmlrpcclient|5.115.0|6.0.5|desktop-kde||
+|kxmlgui|5.115.0|6.0.90|desktop-kde||
+|kxmlrpcclient|5.115.0|6.0.90|desktop-kde||
 |kyotocabinet|1.2.79|1.2.80|app-database||
 |lablgtk|2.18.11|3.1.4|lang-ocaml||
 |ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
@@ -1246,6 +1245,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldb|2.6.1|2.9.0|app-database||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
+|level-zero|1.17.0|1.17.2|runtime-common||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
@@ -1478,6 +1478,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
+|libsodium|1.0.18|1.0.19|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -1711,7 +1712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mock|2.0.0|5.1.0|lang-python||
 |modem-manager-gui|0.0.19.1|0.0.20|app-network||
 |modemmanager|1.18.12|1.22.0|app-network||
-|modemmanager-qt|5.115.0|6.0.5|desktop-kde||
+|modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
 |mold|2.4.0|2.31.0|app-devel||
 |mono|6.12.0.182|6.12.0.206|lang-dotnet||
@@ -1788,7 +1789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
-|networkmanager-qt|5.115.0|6.0.5|desktop-kde||
+|networkmanager-qt|5.115.0|6.0.90|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
 |networkmanager-vpnc|1.2.6|1.2.8|app-network||
 |networkx|2.8.5|3.3|lang-python||
@@ -1900,7 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |osu-lazer|2024.412.1|2024.521.2|app-games||
 |oxygen|5.27.11|6.0.5|desktop-kde||
-|oxygen-icons|5.115.0|6.0.5|desktop-kde||
+|oxygen-icons|5.115.0|6.0.90|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
 |p-vector|0.3.6|0.3.8|app-admin||
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
@@ -2118,6 +2119,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pillow|8.4.0|10.3.0|lang-python||
 |pim-data-exporter|23.08.5|24.05.0|desktop-kde||
 |pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
+|pimcommon|23.08.5|24.05.0|desktop-kde||
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
@@ -2134,7 +2136,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-desktop|5.27.11|6.0.5|desktop-kde||
 |plasma-disks|5.27.11|6.0.5|desktop-kde||
 |plasma-firewall|5.27.11|6.0.5|desktop-kde||
-|plasma-framework|5.115.0|6.0.5|desktop-kde||
+|plasma-framework|5.115.0|6.0.90|desktop-kde||
 |plasma-integration|5.27.11|6.0.5|desktop-kde||
 |plasma-mobile|5.27.5|6.0.5|desktop-kde||
 |plasma-nano|5.27.11|6.0.5|desktop-kde||
@@ -2196,7 +2198,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.0|desktop-kde||
-|prison5|5.115.0|6.0.5|desktop-kde||
+|prison5|5.115.0|6.0.90|desktop-kde||
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.0|app-gis||
 |projectm|4.0.0|4.1.1|runtime-multimedia||
@@ -2218,7 +2220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulsectl|20.5.1|24.4.0|lang-python||
 |puremagic|1.15|1.23|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
-|purpose|5.115.0|6.0.5|desktop-kde||
+|purpose|5.115.0|6.0.90|desktop-kde||
 |pv|1.6.20|1.8.9|app-utils||
 |py-filelock|3.0.12|3.14.0|lang-python||
 |py-setproctitle|1.1.10|1.3.3|lang-python||
@@ -2336,7 +2338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.7|app-web||
-|qqc2-desktop-style|5.115.0|6.0.5|desktop-kde||
+|qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|0.9.91|app-multimedia||
@@ -2528,9 +2530,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sof-tools|2.2.3|2.8.1|app-multimedia||
 |sofia-sip|1.12.11|1.13.17|runtime-web||
 |solaar|1.1.11|1.1.13|app-utils||
-|solid|5.115.0|6.0.5|desktop-kde||
+|solid|5.115.0|6.0.90|desktop-kde||
 |sonic-visualiser|4.4|4.5.2|app-multimedia||
-|sonnet|5.115.0|6.0.5|desktop-kde||
+|sonnet|5.115.0|6.0.90|desktop-kde||
 |sord|0.16.4|0.16.16|runtime-common||
 |sortedcontainers|2.3.0|2.4.0|lang-python||
 |sos|4.4|4.7.1|lang-python||
@@ -2614,9 +2616,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synaptic|0.90.2|0.91.3|app-admin||
 |syncthing|1.27.3|1.27.7|app-network||
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network||
-|syndication|5.115.0|6.0.5|desktop-kde||
+|syndication|5.115.0|6.0.90|desktop-kde||
 |synergy|1.11.1|2.3.2|app-network||
-|syntax-highlighting|5.115.0|6.0.5|desktop-kde||
+|syntax-highlighting|5.115.0|6.0.90|desktop-kde||
 |syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
@@ -2707,7 +2709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.12|app-games||
 |thermald|2.5.2|2.5.7|app-admin||
 |thin-provisioning-tools|1.0.10|1.0.12|app-admin||
-|threadweaver|5.115.0|6.0.5|desktop-kde||
+|threadweaver|5.115.0|6.0.90|desktop-kde||
 |thunderbird|115.5.2|125.0|app-web||
 |tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
