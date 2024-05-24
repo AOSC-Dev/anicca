@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716588821?label=Updated)
+![Relative date](https://img.shields.io/date/1716592316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -151,6 +151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|2.3.6|app-productivity||
+|bear|3.1.3|3.1.4|app-devel||
 |beautifulsoup4|4.10.0|4.12.3|lang-python||
 |benchmark|1.8.2|1.8.4|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1825,6 +1826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|555.42.02|runtime-optenv32||
 |obs-studio|27.0.0|30.1.2|app-multimedia||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
+|ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-num|1.3|1.5|lang-ocaml||
@@ -1841,7 +1843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.11|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7604-240417-a536cbe|app-games||
+|oolite|1.90|1.91.0.7614-240524-db7caf1|app-games||
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-isns|0.101|0.102|app-admin||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
@@ -1969,6 +1971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-data-inheritable|0.08|0.09|lang-perl||
 |perl-class-inspector|1.28|1.36|lang-perl||
 |perl-class-method-modifiers|2.12|2.15|lang-perl||
+|perl-class-singleton|1.5|1.6|lang-perl||
 |perl-common-sense|3.74|3.75|lang-perl||
 |perl-config-file|1.50|1.54|lang-perl||
 |perl-convert-asn1|0.27|0.34|lang-perl||
@@ -2111,7 +2114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |phonon|4.11.1|4.12.0|desktop-kde||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.0|desktop-kde||
-|picocom|3.1|2023-04|app-utils||
 |pidgin|2.14.12|2.14.13|app-web||
 |pikepdf|2.8.0|8.15.1|app-doc||
 |piklab-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2194,7 +2196,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
-|prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.0|desktop-kde||
 |prison5|5.115.0|6.0.90|desktop-kde||
