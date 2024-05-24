@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716549203?label=Updated)
+![Relative date](https://img.shields.io/date/1716553234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -30,7 +30,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils||
 |aide|0.16.2|0.18.8|app-utils||
-|aiohttp|3.7.4.post0|3.9.5|lang-python||
 |aisleriot|3.22.24|3.22.32|desktop-gnome||
 |akode|14.1.0|14.1.2|desktop-trinity||
 |akonadi|23.08.5|24.05.0|desktop-kde||
@@ -523,6 +522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatpak-builder|1.0.14|1.4.3|app-devel||
 |flent|1.3.2|2.1.1|app-network||
 |flightgear|2020.3.13|2020.3.19|app-games||
+|flint|2.5.2|3.1.2|runtime-scientific||
 |fltk|1.3.5|1.3.9|runtime-desktop||
 |fluidsynth|2.0.5|2.3.5|app-multimedia||
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32||
@@ -659,7 +659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome||
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
-|gnome-initial-setup|42.2|46.1|desktop-gnome||
+|gnome-initial-setup|42.2|46.2|desktop-gnome||
 |gnome-keyring|40.0|46.1|desktop-gnome||
 |gnome-logs|3.36.0|43.0|desktop-gnome||
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
@@ -2133,8 +2133,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
-|pipewire|1.0.6|1.1.81|app-multimedia||
-|pipewire-0.2|0.2.7|1.1.81|app-multimedia||
+|pipewire|1.0.6|1.1.82|app-multimedia||
+|pipewire-0.2|0.2.7|1.1.82|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
