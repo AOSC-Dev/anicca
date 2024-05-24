@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716511607?label=Updated)
+![Relative date](https://img.shields.io/date/1716515734?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -384,7 +384,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
 |discover|5.27.11|6.0.5|desktop-kde||
-|distcc|3.3.5|3.4|app-devel||
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
 |distro|1.6.0|1.9.0|lang-python||
@@ -393,7 +392,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|2.8.3|3.0.13|app-admin||
 |dlib|19.20.0|19.24.4|lang-python||
 |dmenu|5.2|5.3|app-utils||
-|dmidecode|3.5|3.6|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
 |dnsmasq|2.89|2.90|app-network||
 |dnspython|2.3.0|2.6.1|lang-python||
@@ -630,6 +628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|app-devel||
 |gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
+|gitoxide|0.35.0|0.36.0|app-vcs||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
@@ -705,7 +704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|runtime-productivity||
 |goldendict|1.5.0~rc2|1.5.0|app-i18n||
 |gom|0.4|0.5.1|runtime-database||
-|google-api-python-client|1.7.11|2.129.0|lang-python||
+|google-api-python-client|1.7.11|2.130.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
 |google-chrome|125.0.6422.60|125.0.6422.112|app-web||
@@ -818,7 +817,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugo|0.123.6|0.126.1|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
-|hwdata|0.377|0.382|runtime-data||
 |hwloc|1.11.10|2.10.0|app-admin||
 |hyper-h11|0.12.0|0.14.0|lang-python||
 |hyper-h2|4.0.0|4.1.0|lang-python||
@@ -1384,7 +1382,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|runtime-devices||
 |libisofs|1.5.2|1.5.6.pl01|runtime-common||
 |libjcat|0.1.8|0.2.1|runtime-common||
-|libjpeg-turbo|3.0.2|3.0.3|runtime-imaging||
 |libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
 |libjxl|0.7.0|0.10.2|runtime-imaging||
 |libkcddb|23.08.5|24.05.0|desktop-kde||
