@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716541993?label=Updated)
+![Relative date](https://img.shields.io/date/1716545564?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -398,7 +398,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|app-doc||
 |docbook-xml|0|5.1|app-doc||
 |docker|25.0.3<br>+tini0.19.0|26.1.3|app-containers|Compound version number '25.0.3+tini0.19.0'|
-|docker-compose|2.24.6|2.27.0|app-containers||
+|docker-compose|2.24.6|2.27.1|app-containers||
 |docutils|0.20.1|0.21.2|lang-python||
 |dolphin|23.08.5|24.05.0|desktop-kde||
 |dolphin-emu|5.0<br>+git20211101|5.0|app-games|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
@@ -1285,7 +1285,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
-|libcava|0.10.1|0.10.2|runtime-multimedia||
 |libcbor|0.8.0|0.11.0|runtime-common||
 |libcdio+32|0.94|2.1.0|runtime-optenv32||
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
@@ -1615,6 +1614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrs|071a|072|app-scientific||
 |lrzsz|0.12.21|0.12.21.orig|app-network|Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
 |lsd|1.0.0|1.1.2|app-utils||
+|lshw|02.19.2|02.20|app-utils||
 |lskat|23.08.5|24.05.0|desktop-kde||
 |lsof|4.98.0|4.99.3|app-utils||
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
@@ -1950,7 +1950,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pbr|5.6.0|6.0.0|lang-python||
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
-|pcmanfm|1.3.1|1.3.2|desktop-lxde||
 |pcp|6.0.1|6.2.2|app-utils||
 |pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
@@ -2376,7 +2375,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
 |rb-inotify|0.10.1|0.11.1|lang-ruby||
-|rbw|1.10.1|1.10.2|app-utils||
 |rclone|1.65.2|1.66.0|app-web||
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
