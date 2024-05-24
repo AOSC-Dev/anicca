@@ -1,12 +1,13 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716524379?label=Updated)
+![Relative date](https://img.shields.io/date/1716527675?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
+|aardvark-dns|1.9.0|1.10.0|app-admin||
 |aarty|0.4.9|0.6.1|app-utils||
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
@@ -68,7 +69,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
-|apsw|3.30.1|3.45.3.0|lang-python||
+|apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |arandr|0.1.10|0.1.11|app-utils||
@@ -608,7 +609,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geos|3.7.3|3.12.1|runtime-gis||
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
-|gfm|1.07|1.08|app-devices||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.0.3_build|app-devel||
@@ -658,6 +658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-characters|42.0|46.0|desktop-gnome||
 |gnome-chess|42.1|46.0|desktop-gnome||
 |gnome-clocks|42.0|46.0|desktop-gnome||
+|gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
 |gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
 |gnome-control-center|42.3|46.1|desktop-gnome||
@@ -776,6 +777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.05.0|desktop-kde||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
 |gzdoom|4.6.1|4.12.2|app-games||
+|handbrake|1.7.3|1.8.0|app-multimedia||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
@@ -941,6 +943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kapman|23.08.5|24.05.0|desktop-kde||
 |kapptemplate|23.08.5|24.05.0|desktop-kde||
 |karchive|5.115.0|6.0.5|desktop-kde||
+|kasablanca-trinity|14.1.0|14.1.2|desktop-trinity||
 |kasts|23.08.5|24.05.0|desktop-kde||
 |katapult-trinity|14.1.0|14.1.2|desktop-trinity||
 |kate|23.08.5|24.05.0|desktop-kde||
@@ -1003,6 +1006,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdepim-runtime|23.08.5|24.05.0|desktop-kde||
 |kdeplasma-addons|5.27.11|6.0.5|desktop-kde||
 |kdesignerplugin|5.115.0|6.0.5|desktop-kde||
+|kdesu|5.115.0|6.0.5|desktop-kde||
 |kdev-php|23.08.5|24.05.0|desktop-kde||
 |kdev-python|23.08.5|24.05.0|desktop-kde||
 |kdevelop|23.08.5|24.05.0|desktop-kde||
@@ -1069,11 +1073,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-admin|23.08.5|24.05.0|desktop-kde||
 |kio-extras|23.08.5|24.05.0|desktop-kde||
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
+|kio-gdrive|23.08.5|24.05.0|desktop-kde||
 |kio-zeroconf|23.08.5|24.05.0|desktop-kde||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.05.0|desktop-kde||
 |kirigami-addons|0.11.0|1.2.1|desktop-kde||
 |kirigami-gallery|23.08.5|24.05.0|desktop-kde||
+|kirigami2|5.115.0|6.0.5|desktop-kde||
 |kiriki|23.08.5|24.05.0|desktop-kde||
 |kitemmodels|5.115.0|6.0.5|desktop-kde||
 |kitemviews|5.115.0|6.0.5|desktop-kde||
@@ -1092,6 +1098,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kldap|23.08.5|24.05.0|desktop-kde||
 |kleopatra|23.08.5|24.05.0|desktop-kde||
 |klettres|23.08.5|24.05.0|desktop-kde||
+|klickety|23.08.5|24.05.0|desktop-kde||
 |klines|23.08.5|24.05.0|desktop-kde||
 |kmag|23.08.5|24.05.0|desktop-kde||
 |kmahjongg|23.08.5|24.05.0|desktop-kde||
@@ -1342,6 +1349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgdiplus|6.0.5|6.1|lang-dotnet||
 |libgee|0.20.5|0.20.6|desktop-gnome||
 |libgeotiff|1.5.1|1.7.1|runtime-gis||
+|libgig|4.4.0|4.4.1|runtime-multimedia||
 |libgit2|1.7.2|1.8.1|runtime-vcs||
 |libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|runtime-optenv32||
@@ -1778,6 +1786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.0.1|desktop-cinnamon||
 |neochat|23.08.5|24.05.0|desktop-kde||
 |neomutt|20200619|20240425|app-web||
+|neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.2.1|lang-python||
@@ -1824,6 +1833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss+32|3.78|3.100|runtime-optenv32||
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
+|nuget|4.9.4|6.6.1.2.bin|lang-dotnet||
 |numactl|2.0.14|2.0.18|app-admin||
 |numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
@@ -2190,6 +2200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|22.08.0|24.05.0|runtime-doc||
 |poppler+32|0.66.0|24.05.0|runtime-optenv32||
 |poppler-data|0.4.9|0.4.12|runtime-data||
+|popt|1.18|1.19|runtime-common||
 |popt+32|1.16|1.19|runtime-optenv32||
 |portaudio|19<br>+20140130|190600_20161030|runtime-multimedia|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32|Compound version number '19+20140130'|
@@ -2346,7 +2357,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
-|qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.5.7|app-web||
 |qqc2-desktop-style|5.115.0|6.0.5|desktop-kde||
@@ -2574,6 +2584,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
+|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
 |spim|9.1.23|9.1.24|app-emulation||
@@ -2756,6 +2767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm2-tss|2.3.3|4.1.3|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
 |tqdm|4.62.3|4.66.4|lang-python||
+|tqt3|14.1.0|14.1.2|desktop-trinity||
 |tqtinterface|14.1.0|14.1.2|desktop-trinity||
 |trace-cmd|2.8.3|3.2|app-utils||
 |tracker-miners|3.3.1|3.7.3|desktop-gnome||
@@ -2840,6 +2852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vba-m|2.1.8|2.1.9|app-games||
 |vde2|2.3.2|2.3.3|app-network||
 |vdpauinfo|1.0|1.5|app-utils||
+|verdict|1.4.1|1.4.2|runtime-scientific||
 |verilator|4.204|5.024|app-electronics||
 |versioningit|3.0.0|3.1.1|app-devel||
 |vgmstream|20191206|1879|runtime-multimedia|Possible downgrade from the current version (20191206 -> 1879)|
@@ -2880,6 +2893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
 |wdm|1.28|1.29|desktop-displaymanagers||
+|webencodings|0.5|0.5.1|lang-python||
 |webkit2gtk|2.42.5|2.44.2|runtime-web||
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia||
 |websocket-client|1.7.0|1.8.0|lang-python||
