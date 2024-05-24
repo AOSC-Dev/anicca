@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716585089?label=Updated)
+![Relative date](https://img.shields.io/date/1716588821?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -151,7 +151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|2.3.6|app-productivity||
-|bear|3.1.3|3.1.4|app-devel||
 |beautifulsoup4|4.10.0|4.12.3|lang-python||
 |benchmark|1.8.2|1.8.4|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -175,7 +174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.112|lang-python||
+|boto3|1.20.26|1.34.113|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -1970,7 +1969,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-data-inheritable|0.08|0.09|lang-perl||
 |perl-class-inspector|1.28|1.36|lang-perl||
 |perl-class-method-modifiers|2.12|2.15|lang-perl||
-|perl-class-singleton|1.5|1.6|lang-perl||
 |perl-common-sense|3.74|3.75|lang-perl||
 |perl-config-file|1.50|1.54|lang-perl||
 |perl-convert-asn1|0.27|0.34|lang-perl||
@@ -2487,6 +2485,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shared-mime-info|2.2|2.4|runtime-data||
+|shellingham|1.3.1|1.5.4|lang-python||
 |shotcut|21.08.11|24.04.28|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
@@ -2562,6 +2561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
+|spim|9.1.23|9.1.24|app-emulation||
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|runtime-display||
 |spirv-llvm-translator|17.0.0|18.1.0|app-devel||
 |spirv-tools|1.3.275.0|2024.1|runtime-display||
