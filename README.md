@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716553234?label=Updated)
+![Relative date](https://img.shields.io/date/1716556435?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -30,6 +30,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils||
 |aide|0.16.2|0.18.8|app-utils||
+|aiohttp|3.7.4.post0|3.9.5|lang-python||
 |aisleriot|3.22.24|3.22.32|desktop-gnome||
 |akode|14.1.0|14.1.2|desktop-trinity||
 |akonadi|23.08.5|24.05.0|desktop-kde||
@@ -764,7 +765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome||
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome||
 |guvcview|2.0.5|2.1.0|app-devices||
-|gvfs|1.50.2|1.54.0|desktop-gnome||
+|gvfs|1.50.2|1.54.1|desktop-gnome||
 |gwc|0.21<br>+19|0.22-06|app-multimedia|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|runtime-network||
 |gwenview|23.08.5|24.05.0|desktop-kde||
