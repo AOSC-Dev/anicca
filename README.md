@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716531427?label=Updated)
+![Relative date](https://img.shields.io/date/1716534721?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -205,8 +205,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
 |calendarsupport|23.08.5|24.05.0|desktop-kde||
-|calibre|5.30.0|7.10.0|app-doc||
-|caligula|0.4.5|0.4.6|app-utils||
+|calibre|5.30.0|7.11.0|app-doc||
+|caligula|0.4.5|0.4.7|app-utils||
 |calindori|23.08.5|24.05.0|desktop-kde||
 |callaudiod|0.1.4|0.1.9|app-admin||
 |calver|2022.06.26|2022.6.26|lang-python||
@@ -471,9 +471,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.0|desktop-kde||
 |evince|42.3|46.1|desktop-gnome||
-|evolution|3.44.4|3.52.1|desktop-gnome||
-|evolution-data-server|3.44.4|3.52.1|desktop-gnome||
-|evolution-ews|3.42.0|3.52.1|desktop-gnome||
+|evolution|3.44.4|3.52.2|desktop-gnome||
+|evolution-data-server|3.44.4|3.52.2|desktop-gnome||
+|evolution-ews|3.42.0|3.52.2|desktop-gnome||
 |evtest|1.34|1.35|app-utils||
 |exceptiongroup|1.2.0|1.2.1|lang-python||
 |exempi|2.5.1|2.6.5|runtime-imaging||
@@ -1065,6 +1065,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |killbots|23.08.5|24.05.0|desktop-kde||
 |kima-trinity|14.1.0|14.1.2|desktop-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde||
+|kimageformats|5.115.0|6.0.5|desktop-kde||
 |kimagemapeditor|23.08.5|24.05.0|desktop-kde||
 |kimap|23.08.5|24.05.0|desktop-kde||
 |kinfocenter|5.27.11|6.0.5|desktop-kde||
@@ -1440,6 +1441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnsl2|1.3.0|2.0.1|runtime-network||
 |libnspsl|0.1.6|0.1.7|runtime-web||
 |libnumbertext|1.0.7|1.0.11|runtime-productivity||
+|libnvme|1.6|1.9|runtime-devices||
 |libodfgen|0.1.6|0.1.8|runtime-productivity||
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|runtime-productivity||
@@ -1590,7 +1592,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
 |linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
 |linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
@@ -3017,7 +3018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
-|zope-interface|5.4.0|6.4.post1|lang-python||
+|zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
 |zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
