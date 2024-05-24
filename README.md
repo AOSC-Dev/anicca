@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716581606?label=Updated)
+![Relative date](https://img.shields.io/date/1716585089?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2487,7 +2487,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shared-mime-info|2.2|2.4|runtime-data||
-|shellingham|1.3.1|1.5.4|lang-python||
 |shotcut|21.08.11|24.04.28|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
@@ -2563,7 +2562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
-|spim|9.1.23|9.1.24|app-emulation||
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|runtime-display||
 |spirv-llvm-translator|17.0.0|18.1.0|app-devel||
 |spirv-tools|1.3.275.0|2024.1|runtime-display||
