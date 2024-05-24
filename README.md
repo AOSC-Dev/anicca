@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716538514?label=Updated)
+![Relative date](https://img.shields.io/date/1716541993?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -904,7 +904,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.15|app-scientific||
 |john|1.8.0|1.9.0|app-penetration||
 |josepy|1.13.0|1.14.0|lang-python||
-|jq|1.6|1.7.1|app-devel||
 |json-c|0.16|0.17|runtime-common||
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|runtime-common||
@@ -1616,7 +1615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrs|071a|072|app-scientific||
 |lrzsz|0.12.21|0.12.21.orig|app-network|Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
 |lsd|1.0.0|1.1.2|app-utils||
-|lshw|02.19.2|02.20|app-utils||
 |lskat|23.08.5|24.05.0|desktop-kde||
 |lsof|4.98.0|4.99.3|app-utils||
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
@@ -1705,13 +1703,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mimalloc|2.1.2|2.1.7|runtime-common||
 |mime-types|9|99|runtime-data||
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
-|mingw+w64|8.0.0|11.0.1|runtime-optenvw64||
+|mingw+w64|8.0.2|11.0.1|runtime-optenvw64||
 |mini-portile|2.8.0|2.8.6|lang-ruby||
 |minicom|2.8|2.9|app-utils||
 |miniserve|0.26.0|0.27.1|app-web||
 |miniupnpc|2.1|2.2.7|app-network||
 |miniupnpd|2.3.5|2.3.6|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
+|minuet|23.08.5|24.05.0|desktop-kde||
 |mitmproxy|7.0.4|10.3.0|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
@@ -1740,7 +1739,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayer|1.4|1.5|app-multimedia||
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
-|mpv|0.37.0|0.38.0|app-multimedia||
 |ms-sys|2.6.0|2.8.0|app-utils||
 |msgpack-c|6.0.0|6.0.1|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
@@ -2977,7 +2975,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
 |yard|0.9.26|0.9.36|app-doc||
 |yarl|1.6.3|1.9.4|lang-python||
-|yarn|1.22.17|1.22.22|lang-js||
 |yaspin|1.2.0|3.0.2|lang-python||
 |yelp|42.1|42.2|desktop-gnome||
 |yelp-tools|42.0|42.1|desktop-gnome||
