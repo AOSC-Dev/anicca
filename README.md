@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716563627?label=Updated)
+![Relative date](https://img.shields.io/date/1716567339?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -355,8 +355,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
-|debian-archive-keyring|2021.1.1|2023.4|app-admin||
-|debian-ports-archive-keyring|2022.02.15~deb11u1|2024.02.02|app-admin||
 |debianutils|5.7|5.17|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
@@ -388,7 +386,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distro|1.6.0|1.9.0|lang-python||
 |distrobox|1.4.2.1|1.7.2.1|app-utils||
 |django|5.0.3|5.0.6|lang-python||
-|dkms|2.8.3|3.0.13|app-admin||
 |dlib|19.20.0|19.24.4|lang-python||
 |dmenu|5.2|5.3|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
@@ -480,7 +477,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|app-multimedia||
 |faad2+32|2.10.0|2.11.1|runtime-optenv32||
 |facile|1.1.3|1.1.4|lang-ocaml||
-|fail2ban|1.0.2|1.1.0|app-admin||
 |falkon|23.08.5|24.05.0|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python||
@@ -859,7 +855,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python||
 |iniparser|4.1|4.2.2|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
-|inotify-tools|3.21.9.6|4.23.9.0|app-admin||
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
@@ -882,7 +877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iso-codes|4.4|4.16.0|runtime-data||
 |isomd5sum|1.2.3|1.2.4|app-utils||
 |isort|4.3.21|5.13.2|lang-python||
-|ispc|1.22.0|1.23.0|app-devel||
+|ispc|1.22.0|1.24.0|app-devel||
 |itinerary|23.08.5|24.05.0|desktop-kde||
 |itsdangerous|1.1.0|2.2.0|lang-python||
 |iverilog|12.0|12_0|app-electronics||
@@ -1257,6 +1252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaal|1.0.7|24"|runtime-admin||
 |libaccounts-glib|1.24|1.27|runtime-desktop||
 |libaccounts-qt|1.16|1.17|runtime-desktop||
+|libadwaita|1.5.0|1.5.1|desktop-gnome||
 |libaio|0.3.111|0.3.113|runtime-common||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
@@ -1430,7 +1426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnsl2|1.3.0|2.0.1|runtime-network||
 |libnspsl|0.1.6|0.1.7|runtime-web||
 |libnumbertext|1.0.7|1.0.11|runtime-productivity||
-|libnvme|1.6|1.9|runtime-devices||
 |libodfgen|0.1.6|0.1.8|runtime-productivity||
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|runtime-productivity||
@@ -1483,7 +1478,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
-|libsodium|1.0.18|1.0.19|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -1602,7 +1596,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmdb|0.9.28|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
-|logrotate|3.18.1|3.21.0|app-admin||
 |loguru|0.5.3|0.7.2|lang-python||
 |lokalize|23.08.5|24.05.0|desktop-kde||
 |loudmouth|1.5.3|1.5.4|runtime-web||
@@ -1687,7 +1680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.12|1.6.27|app-admin||
 |menulibre|2.2.1|2.4.0|app-utils||
 |menumaker|0.99.12|0.99.14|app-utils||
-|mercurial|5.2.1|6.7.3|app-vcs||
 |merkuro|23.08.5|24.05.0|desktop-kde||
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.0|runtime-optenv32||
@@ -1830,7 +1822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|app-utils||
 |nvidia|550.54.14|555.42.02|runtime-display||
 |nvidia+32|0|555.42.02|runtime-optenv32||
-|nvme-cli|2.6|2.9.1|app-admin||
 |obs-studio|27.0.0|30.1.2|app-multimedia||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
@@ -1905,9 +1896,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
 |orca|42.3|46.1|desktop-gnome||
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
-|osinfo-db|20230719|20240523|app-admin||
+|osinfo-db|20240510|20240523|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|ostree|2023.1|2024.6|app-admin||
 |osu-lazer|2024.412.1|2024.521.2|app-games||
 |oxygen|5.27.11|6.0.5|desktop-kde||
 |oxygen-icons|5.115.0|6.0.5|desktop-kde||
@@ -2128,7 +2118,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pillow|8.4.0|10.3.0|lang-python||
 |pim-data-exporter|23.08.5|24.05.0|desktop-kde||
 |pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
-|pimcommon|23.08.5|24.05.0|desktop-kde||
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
@@ -2377,7 +2366,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
-|rdma-core|38.0|51.0|app-admin||
 |re2|20190901|2024-05-01|runtime-common|Possible downgrade from the current version (20190901 -> 2024-05-01)|
 |re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
