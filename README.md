@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716515734?label=Updated)
+![Relative date](https://img.shields.io/date/1716517690?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -526,7 +526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flat-remix-gtk-theme|20200718|20220627|desktop-themes||
 |flat-remix-icon-theme|20191122|20240201|desktop-themes||
 |flatbuffers|2.0.6|24.3.25|runtime-common||
-|flatpak|1.14.6|1.14.8|app-admin||
 |flatpak-builder|1.0.14|1.4.3|app-devel||
 |flent|1.3.2|2.1.1|app-network||
 |flightgear|2020.3.13|2020.3.19|app-games||
@@ -2542,7 +2541,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartmontools|7.3|7.4|app-admin||
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs||
-|smpeg|0.4.5|2_0_0|app-multimedia||
 |smpeg+32|0.4.5|2_0_0|runtime-optenv32||
 |smplayer|19.10.2|24.5.0|app-multimedia||
 |snapd|2.61.2|2.63|app-admin||
