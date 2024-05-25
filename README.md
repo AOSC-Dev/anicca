@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716653662?label=Updated)
+![Relative date](https://img.shields.io/date/1716657146?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -866,7 +866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |irssi|1.2.3|1.4.5|app-web||
-|iso-codes|4.4|4.16.0|runtime-data||
 |isomd5sum|1.2.3|1.2.4|app-utils||
 |isort|4.3.21|5.13.2|lang-python||
 |ispc|1.22.0|1.24.0|app-devel||
@@ -1571,15 +1570,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.217)|
+|linux+kernel+lts|6.6.31|5.10.218|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.218)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
+|linux+kernel+retro|5.10.132|5.10.218|runtime-kernel||
+|linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
+|linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
+|linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -2377,6 +2376,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
+|requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
 |rexml|3.2.5|3.2.8|lang-ruby||
