@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716646323?label=Updated)
+![Relative date](https://img.shields.io/date/1716649945?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -165,7 +165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.75|5.76|app-devices||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
-|boinc|7.24.3|8.0/8.0.1|app-scientific||
+|boinc|7.24.3|8.0/8.0.2|app-scientific||
 |bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.05.0|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
@@ -472,7 +472,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python||
-|fastfetch|2.11.5|2.13.2|app-utils||
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
@@ -901,6 +900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.0|desktop-kde||
 |jupyter-client|5.2.4|8.6.2|lang-python||
 |jupyter-core|4.4.0|5.7.2|lang-python||
+|just|1.26.0|1.27.0|app-devel||
 |k3b|23.08.5|24.05.0|desktop-kde||
 |k3b-trinity|14.1.0|14.1.2|desktop-trinity||
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2300,7 +2300,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-linux-procfs|0.7.1|0.7.3|lang-python||
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
-|python-mpd2|3.0.5|3.1.1|lang-python||
 |python-msgpack|1.0.2|1.0.8|lang-python||
 |python-node-semver|0.8.0|0.9.0|lang-python||
 |python-openid|2.2.5|3.2|lang-python||
@@ -2857,7 +2856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland-utils|1.1.0|1.2.0|app-utils||
-|wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
 |wdm|1.28|1.29|desktop-displaymanagers||
 |webencodings|0.5|0.5.1|lang-python||
@@ -2959,6 +2957,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.39|0.41|app-electronics||
 |you-get|0.4.1650|0.4.1700|app-multimedia||
 |yubico-pam|2.26|2.27|app-devices||
+|yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.0|app-devices||
@@ -2974,7 +2973,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeromq|4.3.4|4.3.5|runtime-common||
 |zerotier-one|1.12.2|1.14.0|app-network||
 |zfec|1.5.3|1.5.7.4|lang-python||
-|zimg|3.0.2|3.0.5|runtime-imaging||
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
 |zlib-static|1.2.12|1.3.1|runtime-common||
