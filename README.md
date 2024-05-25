@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716653741?label=Updated)
+![Relative date](https://img.shields.io/date/1716654039?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1025,6 +1025,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kglobalaccel|5.115.0|6.0.90|desktop-kde||
 |kgoldrunner|23.08.5|24.05.0|desktop-kde||
 |kgpg|23.08.5|24.05.0|desktop-kde||
+|kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.90|desktop-kde||
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
@@ -1570,15 +1571,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.217|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.217)|
+|linux+kernel+lts|6.6.31|5.10.218|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.218)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.217|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
+|linux+kernel+retro|5.10.132|5.10.218|runtime-kernel||
+|linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.217|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.217|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.217)|
+|linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
+|linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
