@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716657273?label=Updated)
+![Relative date](https://img.shields.io/date/1716657525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -380,6 +380,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ding-libs|0.6.1|0.6.2|runtime-admin||
 |discover|5.27.11|6.0.5|desktop-kde||
 |distlib|0.3.1|0.3.8|lang-python||
+|distorm|3.5.1|3.5.2b|app-devel||
 |distro|1.6.0|1.9.0|lang-python||
 |distrobox|1.4.2.1|1.7.2.1|app-utils||
 |django|5.0.3|5.0.6|lang-python||
@@ -653,7 +654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
 |gnome-maps|42.3|46.11|desktop-gnome||
 |gnome-nibbles|3.38.2|4.0.4|desktop-gnome||
-|gnome-online-accounts|3.44.0|3.50.1|desktop-gnome||
+|gnome-online-accounts|3.44.0|3.50.2|desktop-gnome||
 |gnome-packagekit|3.32.0|43.0|desktop-gnome||
 |gnome-panel|3.44.0|3.52.0|desktop-gnome||
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
@@ -2517,6 +2518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowball|2.1.0|2.2.0|runtime-common||
 |snowballstemmer|1.2.1|2.2.0|lang-python||
 |soci|4.0.1|4.0.3|runtime-database||
+|sof-firmware|2.2.3|2.8.1|runtime-kernel||
 |sof-tools|2.2.3|2.8.1|app-multimedia||
 |sofia-sip|1.12.11|1.13.17|runtime-web||
 |solaar|1.1.11|1.1.13|app-utils||
