@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716657146?label=Updated)
+![Relative date](https://img.shields.io/date/1716660851?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -367,7 +367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network||
-|dhcpcd|9.2.0|10.0.6|app-network||
+|dhcpcd|9.2.0|10.0.8|app-network||
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtc|1.6.0|1.7.0|app-devel||
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
-|dune|3.4.1|3.15.2|lang-ocaml||
+|dune|3.4.1|3.15.3|lang-ocaml||
 |duplicity|2.2.2|2.2.4|app-utils||
 |e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
@@ -654,7 +654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
 |gnome-maps|42.3|46.11|desktop-gnome||
 |gnome-nibbles|3.38.2|4.0.4|desktop-gnome||
-|gnome-online-accounts|3.44.0|3.50.1|desktop-gnome||
+|gnome-online-accounts|3.44.0|3.50.2|desktop-gnome||
 |gnome-packagekit|3.32.0|43.0|desktop-gnome||
 |gnome-panel|3.44.0|3.52.0|desktop-gnome||
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
@@ -866,6 +866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |irssi|1.2.3|1.4.5|app-web||
+|iso-codes|4.4|4.16.0|runtime-data||
 |isomd5sum|1.2.3|1.2.4|app-utils||
 |isort|4.3.21|5.13.2|lang-python||
 |ispc|1.22.0|1.24.0|app-devel||
