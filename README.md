@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716671479?label=Updated)
+![Relative date](https://img.shields.io/date/1716675199?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -334,7 +334,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
-|damo|1.0.9|2.3.5|app-admin||
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkhttpd|1.13|1.16|app-web||
@@ -964,6 +963,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdav|5.115.0|6.0.90|desktop-kde||
 |kdbg-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdbusaddons|5.115.0|6.0.90|desktop-kde||
+|kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.5|desktop-kde||
 |kde-dev-scripts|23.08.5|24.05.0|desktop-kde||
@@ -1576,6 +1576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
+|linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
@@ -1737,7 +1738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.2|app-doc||
-|mutter|42.4|46.1|desktop-gnome||
+|mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
 |mycli|1.23.2|1.27.2|app-database||
 |mygpoclient|1.8|1.9|lang-python||
