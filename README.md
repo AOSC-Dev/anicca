@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716649760?label=Updated)
+![Relative date](https://img.shields.io/date/1716651549?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -716,7 +716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grub-customizer|5.2.4|5.2.5|app-admin||
 |gsasl|1.8.1|2.2.1|runtime-admin||
 |gsettings-desktop-schemas|42.0|46.0|desktop-gnome||
-|gsl|2.5|2.7.1|runtime-scientific||
+|gsl|2.5|2.8|runtime-scientific||
 |gsm|1.0.19|1.0.22|runtime-multimedia||
 |gsm+32|1.0.19|1.0.22|runtime-optenv32||
 |gsmartcontrol|1.1.3|1.1.4|app-admin||
@@ -2014,7 +2014,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-canvas|1.002|1.006|lang-perl||
 |perl-gnome2-vfs|1.083|1.084|lang-perl||
 |perl-gnome2-wnck|0.16|0.18|lang-perl||
-|perl-gtk2|1.2499|1.24993|lang-perl||
 |perl-gtk2-unique|0.05|0.07|lang-perl||
 |perl-html-form|6.03|6.11|lang-perl||
 |perl-html-parser|3.72|3.82|lang-perl||
@@ -2421,6 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby|3.2.2|3.3.1|lang-ruby||
 |ruby-bundler|2.1.4|2.5.10|lang-ruby||
 |ruby-ffi|1.10.0|1.16.3|lang-ruby||
+|ruby-gettext|3.2.9|3.4.9|lang-ruby||
 |ruby-locale|2.1.3|2.1.4|lang-ruby||
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby||
 |ruby-pg|1.1.4|1.5.6|lang-ruby||
