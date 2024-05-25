@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716597989?label=Updated)
+![Relative date](https://img.shields.io/date/1716602028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -77,7 +77,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|desktop-themes||
 |arc-theme|20210412|20221218|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20231222|20240520|app-admin||
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
 |argyllcms|3.1.0|3.2.0|app-imaging||
 |arianna|23.08.5|24.05.0|desktop-kde||
@@ -2464,7 +2463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|43.0|desktop-gnome||
 |secretstorage|3.3.0|3.3.3|lang-python||
 |semver|2.8.1|3.0.2|lang-python||
-|sequoia-sq|0.31.0|0.36.0|app-cryptography||
 |ser2net|3.5|4.6.2|app-network||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
