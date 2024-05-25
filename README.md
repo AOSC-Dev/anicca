@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716675199?label=Updated)
+![Relative date](https://img.shields.io/date/1716678699?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -334,6 +334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
+|damo|1.0.9|2.3.5|app-admin||
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkhttpd|1.13|1.16|app-web||
@@ -659,9 +660,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
 |gnome-session|42.0|46.0|desktop-gnome||
 |gnome-settings-daemon|42.2|46.0|desktop-gnome||
-|gnome-shell|42.4|46.1|desktop-gnome||
+|gnome-shell|42.4|46.2|desktop-gnome||
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
-|gnome-shell-extensions|42.3|46.1|desktop-gnome||
+|gnome-shell-extensions|42.3|46.2|desktop-gnome||
 |gnome-software|42.4|46.2|desktop-gnome||
 |gnome-sudoku|42.0|46.1|desktop-gnome||
 |gnome-system-monitor|42.0|46.0|desktop-gnome||
@@ -851,7 +852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.0.1|desktop-fonts||
+|iosevka-fonts|28.0.5|30.1.0|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
 |iperf3|3.16|3.17.1|app-network||
