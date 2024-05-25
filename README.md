@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716642730?label=Updated)
+![Relative date](https://img.shields.io/date/1716646323?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -772,7 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatchling|1.21.1|1.11.1|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.1)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
-|hdf5|1.10.5|1.14.4.1|runtime-scientific||
+|hdf5|1.10.5|1.14.4.3|runtime-scientific||
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common||
 |hdsentinel|0.17|400s|app-utils||
 |helm|3.15.0|3.15.1|app-containers||
@@ -2959,7 +2959,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.39|0.41|app-electronics||
 |you-get|0.4.1650|0.4.1700|app-multimedia||
 |yubico-pam|2.26|2.27|app-devices||
-|yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.0|app-devices||
