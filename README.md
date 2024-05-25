@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716664274?label=Updated)
+![Relative date](https://img.shields.io/date/1716667947?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1515,6 +1515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
+|libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.3.0|app-virtualization||
@@ -2839,7 +2840,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vrms|1.27|1.34|app-utils||
 |vsftpd|3.0.3|3.0.5|app-network||
-|vte|0.68.0|0.76.1|runtime-desktop||
+|vte|0.68.0|0.76.2|runtime-desktop||
 |vulkan-extensionlayer|1.3.280.0|1.3.285|runtime-display||
 |vulkan-headers|1.3.280.0|1.3.285|runtime-display||
 |vulkan-headers+32|1.3.272|1.3.285|runtime-optenv32||
@@ -2909,7 +2910,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcowsay|1.4|1.6|app-utils||
 |xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop||
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin||
-|xdg-desktop-portal-gnome|42.3|46.1|desktop-gnome||
+|xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome||
 |xdg-desktop-portal-gtk|1.12.0|1.15.1|app-admin||
 |xdg-desktop-portal-kde|5.27.11|6.0.5|desktop-kde||
 |xdg-user-dirs|0.17|0.18|app-admin||
