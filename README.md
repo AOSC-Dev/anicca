@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716617849?label=Updated)
+![Relative date](https://img.shields.io/date/1716621072?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -188,6 +188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bulky|2.9|3.2|desktop-cinnamon||
 |bullet|2.88|3.25|app-scientific||
+|bup|0.30|0.33.3|app-utils||
 |byobu|5.133|6.12|app-utils||
 |c-ares|1.28.1|1.29.0|runtime-network||
 |c-blosc|1.21.3|1.21.5|runtime-common||
@@ -297,7 +298,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.13|1.7.17|app-containers||
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|runtime-containers|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|app-utils||
-|coreboot-utils|4.15|24.05|app-admin||
 |corefreq|20170301|1.97.2-x86_64|app-utils|Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
 |coreutils|9.4|9.5|app-utils||
 |corrosion|0.2.1|0.4.10|app-devel||
@@ -553,6 +553,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gaupol|1.7|1.14.1|app-multimedia||
 |gc|8.2.6|8.2.4|runtime-common|Possible downgrade from the current version (8.2.6 -> 8.2.4)|
 |gcab|1.1|1.6|desktop-gnome||
+|gcc|13.2.0|14.1.0|core-devel||
 |gcc+32|13.2.0|14.1.0|runtime-optenv32||
 |gcc+cross-amd64|9.3.1|14.1.0|app-devel||
 |gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|app-devel|Compound version number '12.2.0+glibc2.36+4'|
@@ -640,7 +641,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
 |gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
-|gnome-control-center|42.3|46.1|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome||
@@ -1789,7 +1789,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nghttp2|1.58.0|1.62.1|runtime-web||
 |nginx|1.25.3|1.26.0|app-web||
 |ngspice|35|42|app-electronics||
-|nmap|7.93|7.95|app-network||
 |nodejs|20.13.0|21.7.1|lang-js||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
@@ -2107,6 +2106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |piklab-trinity|14.1.0|14.1.2|desktop-trinity||
 |pillow|8.4.0|10.3.0|lang-python||
 |pim-data-exporter|23.08.5|24.05.0|desktop-kde||
+|pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
 |pimcommon|23.08.5|24.05.0|desktop-kde||
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
@@ -2224,6 +2224,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycountry|18.12.8|23.12.11|lang-python||
 |pycparser|2.19|2.22|lang-python||
 |pycryptodome|3.7.3|3.20.0|lang-python||
+|pycryptodomex|3.9.9|3.20.0|lang-python||
 |pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
@@ -2294,6 +2295,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
 |python-mpd2|3.0.5|3.1.1|lang-python||
+|python-msgpack|1.0.2|1.0.8|lang-python||
 |python-node-semver|0.8.0|0.9.0|lang-python||
 |python-openid|2.2.5|3.2|lang-python||
 |python-pam|1.8.4|2.0.2|lang-python||
@@ -2538,6 +2540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spglib|1.16.2|2.4.0|runtime-scientific||
 |sphinx|7.0.1|7.3.7|app-doc||
 |sphinx-press-theme|0.8.0|0.9.1|app-doc||
+|sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
 |sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
@@ -2589,7 +2592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|0.23.1|app-multimedia||
+|sunshine|0.23.0|2024.525.32353|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
@@ -2632,6 +2635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-common-cmake|14.1.0|14.1.2|desktop-trinity||
 |tde-i18n|14.1.0|14.1.2|desktop-trinity||
 |tde-style-baghira|14.1.0|14.1.2|desktop-trinity||
+|tde-style-domino|14.1.0|14.1.2|desktop-trinity||
 |tde-style-ia-ora|14.1.0|14.1.2|desktop-trinity||
 |tde-style-lipstik|14.1.0|14.1.2|desktop-trinity||
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
@@ -2707,7 +2711,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
-|tokodon|23.08.5|24.05.0|desktop-kde||
 |toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
 |toolbelt|0.9.1|1.0.0|lang-python||
@@ -2890,6 +2893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
 |xapian-core|1.4.18|1.4.25|runtime-common||
+|xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|runtime-display||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32||
