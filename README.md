@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716624975?label=Updated)
+![Relative date](https://img.shields.io/date/1716628367?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -372,7 +372,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
 |diff-match-patch|20200713|20230430|lang-python||
 |diff-so-fancy|1.4.1|1.4.4|app-utils||
-|diffuse|0.6.0|0.9.0|app-devel||
 |diffutils|3.8|3.10|app-utils||
 |digikam|7.9.0|8.3.0|desktop-kde||
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -476,7 +475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
-|fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
 |feeluown|4.1.1|4.1.4|app-multimedia||
@@ -519,7 +517,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-awesome|6.5.1|6.5.2|desktop-fonts||
 |font-manager|0.8.8|0.8.9|app-utils||
 |fontconfig|2.14.0|2.15.0|runtime-desktop||
-|fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
 |fonttools|4.47.2|4.51.0|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
 |fortune-mod|3.6.1|3.20.0|app-games||
@@ -1269,6 +1266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
 |libcamera|0.2.0|0.3.0|runtime-devices||
 |libcap|2.69|2.70|runtime-common||
+|libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
 |libcbor|0.8.0|0.11.0|runtime-common||
@@ -1306,6 +1304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
 |libepubgen|0.1.0|0.1.1|runtime-doc||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts||
+|libesmtp|1.0.6|1.1.0|runtime-network||
 |libetebase|0.5.4|0.5.6|runtime-cryptography||
 |libetonyek|0.1.9|0.1.10|runtime-productivity||
 |libev|4.25|4.33|runtime-common||
@@ -1459,6 +1458,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsecret|0.20.4|0.21.4|runtime-desktop||
 |libshout|2.4.3|2.4.6|runtime-multimedia||
 |libshout+32|2.4.3|2.4.6|runtime-optenv32||
+|libshumate|1.2.1|1.2.2|desktop-gnome||
 |libsidplay|1.36.59|2.1.1|runtime-multimedia||
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32||
 |libsidplayfp|1.8.8|2.7.1|runtime-multimedia||
@@ -2803,7 +2803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2raya|2.2.5.1|2.2.5|app-network|Possible downgrade from the current version (2.2.5.1 -> 2.2.5)|
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
-|v4l2loopback|0.12.5|0.13.1|app-utils||
+|v4l2loopback|0.12.5|0.13.2|app-utils||
 |vala|0.56.16|0.56.17|app-devel||
 |vala-panel-appmenu|0.7.4|24.02|runtime-desktop||
 |valgrind|3.22.0|3.23.0|app-devel||
@@ -2822,7 +2822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0433|app-editors||
+|vim|9.1.0393|9.1.0444|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
@@ -2962,6 +2962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.05.0|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
+|zathura|0.5.2|0.5.6|app-doc||
 |zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeitgeist|1.0.3|1.0.4|app-admin||
