@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716592316?label=Updated)
+![Relative date](https://img.shields.io/date/1716597989?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -93,8 +93,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
-|aspnetcore-runtime-6.0|6.0.0|6.0.30|app-devel||
-|aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
@@ -403,17 +401,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
 |dosbox|0.74<br>+3|0.74-3|app-emulation|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|runtime-common||
-|dotnet-apphost-pack-6.0|6.0.0|6.0.30|lang-dotnet||
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet||
-|dotnet-hostfxr-6.0|6.0.0|6.0.30|lang-dotnet||
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet||
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet||
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet||
-|dotnet-runtime-6.0|6.0.0|6.0.30|lang-dotnet||
 |dotnet-runtime-deps-6.0|6.0.0|6.0.30|lang-dotnet||
-|dotnet-sdk-6.0|6.0.100|6.0.422|app-devel||
-|dotnet-targeting-pack-6.0|6.0.0|6.0.30|lang-dotnet||
-|dotnet-templates-6.0|6.0.100|6.0.422|app-devel||
 |dotnet-templates-8.0|8.0.300|6.0.422|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.422)|
 |double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
@@ -1421,7 +1413,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs|4.0.0|5.0.3|runtime-network||
 |libnfs-static|4.0.0|5.0.3|runtime-network||
 |libnice|0.1.17|0.1.22|runtime-network||
-|libnl|3.5.0|3.9.0|runtime-network||
 |libnl+32|3.2.28|3.9.0|runtime-optenv32||
 |libnotify|0.7.9|0.8.3|runtime-desktop||
 |libnsl2|1.3.0|2.0.1|runtime-network||
@@ -1867,7 +1858,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
-|openjpeg|2.5.0|2.5.2|runtime-imaging||
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
 |openldap|2.6.7|2_6_8|app-admin||
@@ -1901,7 +1891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osdlyrics|20190407|0.5.15|app-multimedia|Possible downgrade from the current version (20190407 -> 0.5.15)|
 |osinfo-db|20240510|20240523|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|osu-lazer|2024.412.1|2024.521.2|app-games||
+|osu-lazer|2024.412.1|2024.523.0|app-games||
 |oxygen|5.27.11|6.0.5|desktop-kde||
 |oxygen-icons|5.115.0|6.0.90|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
@@ -1947,7 +1937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.2|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5836|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5839|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2114,6 +2104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |phonon|4.11.1|4.12.0|desktop-kde||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.0|desktop-kde||
+|picocom|3.1|2023-04|app-utils||
 |pidgin|2.14.12|2.14.13|app-web||
 |pikepdf|2.8.0|8.15.1|app-doc||
 |piklab-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2149,7 +2140,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-systemmonitor|5.27.11|6.0.5|desktop-kde||
 |plasma-thunderbolt|5.27.11|6.0.5|desktop-kde||
 |plasma-vault|5.27.11|6.0.5|desktop-kde||
-|plasma-wayland-protocols|1.10.0|1.11.1|desktop-kde||
+|plasma-wayland-protocols|1.10.0|1.13.0|desktop-kde||
 |plasma-welcome|5.27.11|6.0.5|desktop-kde||
 |plasma-workspace|5.27.11|6.0.5|desktop-kde||
 |plasma-workspace-wallpapers|5.27.11|6.0.5|desktop-kde||
@@ -2196,6 +2187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
+|prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.0|desktop-kde||
 |prison5|5.115.0|6.0.90|desktop-kde||
