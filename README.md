@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716603878?label=Updated)
+![Relative date](https://img.shields.io/date/1716606861?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2328,12 +2328,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.7|app-web||
+|qownnotes|22.6.1|24.5.8|app-web||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|0.9.91|app-multimedia||
-|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
+|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt-6|6.7.0|6.7.1|runtime-desktop||
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
@@ -2386,7 +2386,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rinutils|0.4.1|0.10.2|runtime-common||
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|runtime-common||
-|rng-tools|6.7|6.16|app-utils||
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common||
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
