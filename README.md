@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716654405?label=Updated)
+![Relative date](https://img.shields.io/date/1716654803?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -883,7 +883,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|lang-python||
 |jedi|0.18.1|0.19.1|lang-python||
 |jeepney|0.6.0|0.8.0|lang-python||
-|jellyfish|0.6.0|1.0.3|lang-python||
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
 |jmespath|0.10.0|1.0.1|lang-python||
@@ -1066,7 +1065,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|24.05.0|desktop-kde||
 |kitinerary|23.08.5|24.05.0|desktop-kde||
 |kitty|0.26.4|0.34.1|app-utils||
-|kiwisolver|1.0.1|1.4.5|lang-python||
 |kjobwidgets|5.115.0|6.0.90|desktop-kde||
 |kjournald|23.08.5|24.05.0|desktop-kde||
 |kjs|5.115.0|6.0.90|desktop-kde||
@@ -2966,7 +2964,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zanshin|23.08.5|24.05.0|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
 |zathura|0.5.2|0.5.6|app-doc||
-|zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeitgeist|1.0.3|1.0.4|app-admin||
 |zenity|3.42.1|4.0.1|desktop-gnome||
