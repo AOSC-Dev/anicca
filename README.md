@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716652492?label=Updated)
+![Relative date](https://img.shields.io/date/1716653741?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -267,7 +267,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils||
 |cln|1.3.6|1.3.7|runtime-common||
 |cloc|1.84|2.00|app-utils||
-|cloud-init|24.1.4<br>+git20240513|24.1.4|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
+|cloud-init|24.1.4<br>+git20240513|24.1.6|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
@@ -1025,7 +1025,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kglobalaccel|5.115.0|6.0.90|desktop-kde||
 |kgoldrunner|23.08.5|24.05.0|desktop-kde||
 |kgpg|23.08.5|24.05.0|desktop-kde||
-|kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
 |kguiaddons|5.115.0|6.0.90|desktop-kde||
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
