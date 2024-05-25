@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716610449?label=Updated)
+![Relative date](https://img.shields.io/date/1716613896?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1449,6 +1449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web||
 |libraw|0.20.0|0.21.2|runtime-imaging||
 |librcc|0.2.12|0.2.13|runtime-i18n||
+|libreoffice|7.5.4.2|24.2.4.1|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
@@ -2440,7 +2441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.4.3|2.4.4|lang-lisp||
 |sbsigntool|0.9.4|0.9.5|app-admin||
 |scandir|1.9.0|1.10.0|lang-python||
-|sccache|0.3.3|0.8.0|app-devel||
+|sccache|0.3.3|0.8.1|app-devel||
 |scdoc|1.11.2|1.11.3|app-doc||
 |schema|0.7.5|0.7.7|lang-python||
 |scons|4.4.0|4.7.0|app-devel||
