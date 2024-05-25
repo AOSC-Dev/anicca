@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716651549?label=Updated)
+![Relative date](https://img.shields.io/date/1716652492?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2014,6 +2014,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-canvas|1.002|1.006|lang-perl||
 |perl-gnome2-vfs|1.083|1.084|lang-perl||
 |perl-gnome2-wnck|0.16|0.18|lang-perl||
+|perl-gtk2|1.2499|1.24993|lang-perl||
 |perl-gtk2-unique|0.05|0.07|lang-perl||
 |perl-html-form|6.03|6.11|lang-perl||
 |perl-html-parser|3.72|3.82|lang-perl||
