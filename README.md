@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716667947?label=Updated)
+![Relative date](https://img.shields.io/date/1716671479?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -31,7 +31,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aha|0.5|0.5.1|app-utils||
 |aide|0.16.2|0.18.8|app-utils||
 |aiohttp|3.7.4.post0|3.9.5|lang-python||
-|aisleriot|3.22.24|3.22.32|desktop-gnome||
+|aisleriot|3.22.24|3.22.33|desktop-gnome||
 |akode|14.1.0|14.1.2|desktop-trinity||
 |akonadi|23.08.5|24.05.0|desktop-kde||
 |akonadi-calendar|23.08.5|24.05.0|desktop-kde||
@@ -452,7 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etl|1.2.2|1.5.1|runtime-common||
 |eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.0|desktop-kde||
-|evince|42.3|46.1|desktop-gnome||
+|evince|42.3|46.3|desktop-gnome||
 |evolution|3.44.4|3.52.2|desktop-gnome||
 |evolution-data-server|3.44.4|3.52.2|desktop-gnome||
 |evolution-ews|3.42.0|3.52.2|desktop-gnome||
@@ -520,7 +520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|app-utils||
 |fontconfig|2.14.0|2.15.0|runtime-desktop||
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
-|fonttools|4.47.2|4.51.0|desktop-fonts||
+|fonttools|4.47.2|4.52.1|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
 |fortune-mod|3.6.1|3.20.0|app-games||
 |fortunes-zh|2.97|2.98|app-games||
@@ -613,7 +613,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|runtime-vcs||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
-|glances|3.4.0.2|4.0.5|app-admin||
+|glances|3.4.0.2|4.0.7|app-admin||
 |glib|2.80.0|2.80.2|runtime-common||
 |glib+32|2.62.6|2.80.2|runtime-optenv32||
 |glib-networking|2.72.2|2.80.0|runtime-common||
@@ -745,7 +745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors||
 |gtkspellcheck|4.0.5|5.0.3|lang-python||
 |gtranslator|42.0|46.1|desktop-gnome||
-|gucharmap|15.1.3|15.1.4|desktop-gnome||
+|gucharmap|15.1.3|15.1.5|desktop-gnome||
 |guile|3.0.4|3.0.9|app-devel||
 |gulp|4.0.0|5.0.0|lang-js||
 |gupnp|1.2.4|1.6.6|desktop-gnome||
@@ -964,7 +964,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdav|5.115.0|6.0.90|desktop-kde||
 |kdbg-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdbusaddons|5.115.0|6.0.90|desktop-kde||
-|kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.5|desktop-kde||
 |kde-dev-scripts|23.08.5|24.05.0|desktop-kde||
@@ -1577,7 +1576,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.1|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.1 -> 5.19.17)|
-|linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
