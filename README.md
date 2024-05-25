@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716613896?label=Updated)
+![Relative date](https://img.shields.io/date/1716617849?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -188,7 +188,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bulky|2.9|3.2|desktop-cinnamon||
 |bullet|2.88|3.25|app-scientific||
-|bup|0.30|0.33.3|app-utils||
 |byobu|5.133|6.12|app-utils||
 |c-ares|1.28.1|1.29.0|runtime-network||
 |c-blosc|1.21.3|1.21.5|runtime-common||
@@ -554,7 +553,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gaupol|1.7|1.14.1|app-multimedia||
 |gc|8.2.6|8.2.4|runtime-common|Possible downgrade from the current version (8.2.6 -> 8.2.4)|
 |gcab|1.1|1.6|desktop-gnome||
-|gcc|13.2.0|14.1.0|core-devel||
 |gcc+32|13.2.0|14.1.0|runtime-optenv32||
 |gcc+cross-amd64|9.3.1|14.1.0|app-devel||
 |gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|app-devel|Compound version number '12.2.0+glibc2.36+4'|
@@ -2109,7 +2107,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |piklab-trinity|14.1.0|14.1.2|desktop-trinity||
 |pillow|8.4.0|10.3.0|lang-python||
 |pim-data-exporter|23.08.5|24.05.0|desktop-kde||
-|pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
 |pimcommon|23.08.5|24.05.0|desktop-kde||
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
@@ -2227,7 +2224,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycountry|18.12.8|23.12.11|lang-python||
 |pycparser|2.19|2.22|lang-python||
 |pycryptodome|3.7.3|3.20.0|lang-python||
-|pycryptodomex|3.9.9|3.20.0|lang-python||
 |pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
@@ -2298,7 +2294,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
 |python-mpd2|3.0.5|3.1.1|lang-python||
-|python-msgpack|1.0.2|1.0.8|lang-python||
 |python-node-semver|0.8.0|0.9.0|lang-python||
 |python-openid|2.2.5|3.2|lang-python||
 |python-pam|1.8.4|2.0.2|lang-python||
@@ -2543,7 +2538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spglib|1.16.2|2.4.0|runtime-scientific||
 |sphinx|7.0.1|7.3.7|app-doc||
 |sphinx-press-theme|0.8.0|0.9.1|app-doc||
-|sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
 |sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
@@ -2638,7 +2632,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-common-cmake|14.1.0|14.1.2|desktop-trinity||
 |tde-i18n|14.1.0|14.1.2|desktop-trinity||
 |tde-style-baghira|14.1.0|14.1.2|desktop-trinity||
-|tde-style-domino|14.1.0|14.1.2|desktop-trinity||
 |tde-style-ia-ora|14.1.0|14.1.2|desktop-trinity||
 |tde-style-lipstik|14.1.0|14.1.2|desktop-trinity||
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
@@ -2897,7 +2890,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
 |xapian-core|1.4.18|1.4.25|runtime-common||
-|xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|runtime-display||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32||
