@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716684671?label=Updated)
+![Relative date](https://img.shields.io/date/1716688898?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -741,7 +741,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-qt-engine|14.1.0|14.1.2|desktop-trinity||
 |gtk3-tqt-engine|14.1.0|14.1.2|desktop-trinity||
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome||
-|gtkmm-4|4.0.2|4.14.4|desktop-gnome||
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors||
 |gtkspellcheck|4.0.5|5.0.3|lang-python||
 |gtranslator|42.0|46.1|desktop-gnome||
@@ -1472,7 +1471,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
-|libsodium|1.0.18|1.0.19|runtime-cryptography||
+|libsodium|1.0.18|1.0.20|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -1505,7 +1504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtsm|4.0.1|4.0.2|runtime-common||
 |libudfread|1.1.1|1.1.2|runtime-multimedia||
 |libuhd|4.5.0.0|4.6.0.0|runtime-ham||
-|libuninameslist|20190701|20230916|runtime-i18n||
+|libuninameslist|20190701|20240524|runtime-i18n||
 |libunistring|0.9.10|1.2|runtime-common||
 |libunwind|1.6.2|1.8.1|runtime-common||
 |libupnp|1.14.16|1.14.19|runtime-network||
@@ -1617,7 +1616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.300.4|0.311|desktop-fonts||
+|lxgwcleargothic-font|0.300.4|0.311.1|desktop-fonts||
 |lxgwnewcleargothic-font|1.121|1.123|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
@@ -1929,7 +1928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python||
 |pathspec|0.11.0|0.12.1|lang-python||
 |patool|1.12|upstream/2.2.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.2.0)|
-|pavucontrol|3.0|6.0|app-multimedia||
 |pbr|5.6.0|6.0.0|lang-python||
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
@@ -2346,7 +2344,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.3.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|racket|8.12|8.13|lang-lisp||
 |radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
@@ -2713,7 +2710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tint2|16.7|17.0.2|desktop-wm||
 |tinycdb|0.78|0.81|app-database||
 |tinycss2|1.0.2|1.3.0|lang-python||
-|tinyproxy|1.11.1|1.11.2|app-network||
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
