@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716761581?label=Updated)
+![Relative date](https://img.shields.io/date/1716765104?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -49,6 +49,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alligator|23.08.5|24.05.0|desktop-kde||
 |alsa-lib|1.2.6.1|1.2.11|runtime-multimedia||
 |alsa-lib+32|1.2.5.1|1.2.11|runtime-optenv32||
+|alsa-ucm-conf|1.2.5.1|1.2.11|runtime-multimedia||
 |alsa-ucm-conf-asahi|4|5|runtime-multimedia||
 |alsa-utils|1.2.8|1.2.11|app-multimedia||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1742,6 +1743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20200619|20240425|app-web||
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
+|net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.2.1|lang-python||
 |netavark|1.9.0|1.10.3|runtime-containers||
 |netcat|1.219|1.226|app-network||
@@ -2292,10 +2294,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyyaml|5.3.1|6.0.1|lang-python||
 |pyzmq|22.3.0|26.0.3|lang-python||
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
+|qbittorrent|4.6.4|4.6.5|app-web||
 |qca|2.3.4|2.3.8|runtime-cryptography||
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
+|qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
