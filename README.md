@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716678699?label=Updated)
+![Relative date](https://img.shields.io/date/1716684671?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1065,7 +1065,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.0.90|desktop-kde||
 |kiten|23.08.5|24.05.0|desktop-kde||
 |kitinerary|23.08.5|24.05.0|desktop-kde||
-|kitty|0.26.4|0.34.1|app-utils||
+|kitty|0.26.4|0.35.0|app-utils||
 |kiwisolver|1.0.1|1.4.5|lang-python||
 |kjobwidgets|5.115.0|6.0.90|desktop-kde||
 |kjournald|23.08.5|24.05.0|desktop-kde||
@@ -1239,7 +1239,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldb|2.6.1|2.9.0|app-database||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |lensfun|0.3.4|0.3.95|runtime-devices||
-|level-zero|1.17.0|1.17.2|runtime-common||
+|level-zero|1.17.0|1.17.6|runtime-common||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
@@ -1279,7 +1279,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|runtime-imaging||
 |libcgroup|2.0|3.1.0|app-admin||
 |libchamplain|0.12.20|0.12.21|desktop-gnome||
-|libchewing|0.5.1|0.8.2|runtime-i18n||
+|libchewing|0.5.1|0.8.3|runtime-i18n||
 |libclc|17.0.3|18.1.6|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
