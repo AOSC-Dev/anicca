@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716718441?label=Updated)
+![Relative date](https://img.shields.io/date/1716721868?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -819,6 +819,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icewm|1.8.3|3.5.0|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
+|icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
 |idna|3.3|3.7|lang-python||
 |ifaddr|0.1.7|0.2.0|lang-python||
@@ -1971,6 +1972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
 |perl-datetime-locale|1.26|1.42|lang-perl||
+|perl-dbd-mysql|4.050|5.005|lang-perl||
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|lang-perl||
 |perl-devel-checklib|1.13|1.16|lang-perl||
@@ -2069,6 +2071,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-sys-virt|5.8.0|10.2.0|lang-perl||
 |perl-template-toolkit|2.27|3.101|lang-perl||
 |perl-term-progressbar|2.22|2.23|lang-perl||
+|perl-term-readkey|2.37|2.38|lang-perl||
 |perl-term-readline-gnu|1.36|1.46|lang-perl||
 |perl-test-deep|1.130|1.204|lang-perl||
 |perl-test-fatal|0.014|0.017|lang-perl||
