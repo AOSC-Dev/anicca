@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716757948?label=Updated)
+![Relative date](https://img.shields.io/date/1716761581?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -49,7 +49,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alligator|23.08.5|24.05.0|desktop-kde||
 |alsa-lib|1.2.6.1|1.2.11|runtime-multimedia||
 |alsa-lib+32|1.2.5.1|1.2.11|runtime-optenv32||
-|alsa-ucm-conf|1.2.5.1|1.2.11|runtime-multimedia||
 |alsa-ucm-conf-asahi|4|5|runtime-multimedia||
 |alsa-utils|1.2.8|1.2.11|app-multimedia||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -112,7 +111,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
-|autobuild4|4.2.2|4.2.1|app-devel|Possible downgrade from the current version (4.2.2 -> 4.2.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -816,8 +814,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|runtime-scientific||
 |igv|2.15.1|2.16.2|app-scientific||
 |iio-sensor-proxy|3.4|3.5|app-utils||
-|imagemagick|6.9.13<br>+7|6.9.13-10|app-utils|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.1<br>+32|7.1.1-32|app-utils|Compound version number '7.1.1+32'|
+|imagemagick|6.9.13<br>+7|6.9.13-11|app-utils|Compound version number '6.9.13+7'|
+|imagemagick+7|7.1.1<br>+32|7.1.1-33|app-utils|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|lang-python||
 |imapsync|1.977|2.229|app-network||
 |imath|3.1.5|3.1.11|runtime-display||
@@ -1744,7 +1742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20200619|20240425|app-web||
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
-|net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.2.1|lang-python||
 |netavark|1.9.0|1.10.3|runtime-containers||
 |netcat|1.219|1.226|app-network||
@@ -2299,7 +2296,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
-|qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
