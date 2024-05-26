@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716743461?label=Updated)
+![Relative date](https://img.shields.io/date/1716747324?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -762,7 +762,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common||
 |hdsentinel|0.17|400s|app-utils||
 |helm|3.15.0|3.15.1|app-containers||
-|help2man|1.48.1|1.49.3|app-doc||
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
@@ -1818,7 +1817,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-isns|0.101|0.102|app-admin||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
-|openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
 |opencolorio|2.1.2|2.3.2|runtime-imaging||
@@ -2319,7 +2317,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quazip|0.9.1|1.4|runtime-common||
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.3.0|runtime-desktop||
-|qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
