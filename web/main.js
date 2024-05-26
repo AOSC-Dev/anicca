@@ -7,7 +7,6 @@ async function renderDataTable() {
 
   const dataSet = data.map((row) => {
     row[1] = row[1].replaceAll("+", "<br>+");
-    row[4] = (new Date(row[4]*1000)).toLocaleDateString()
     return Object.values(row);
   });
 
@@ -17,7 +16,13 @@ async function renderDataTable() {
       { title: "Repo Version" },
       { title: "New Version" },
       { title: "Category" },
-      { title: "Repo Date"},
+      {
+        title: "Repo Date",
+        render: (data, type, row) =>
+          type === "display"
+            ? (new Date(data * 1000)).toLocaleDateString()
+            : data,
+      },
       { title: "Warnings" },
     ],
     scrollX: true,
