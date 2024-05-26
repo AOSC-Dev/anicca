@@ -1,10 +1,9 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716732641?label=Updated)
+![Relative date](https://img.shields.io/date/1716736421?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
-|a2ps|4.14|4.15.6|app-doc||
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.9.0|1.10.0|app-admin||
@@ -111,7 +110,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiocd-kio|23.08.5|24.05.0|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
 |audiotube|23.08.5|24.05.0|desktop-kde||
-|audit|3.1|4.0.1|app-admin||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
 |autobuild4|4.2.2|4.2.1|app-devel|Possible downgrade from the current version (4.2.2 -> 4.2.1)|
@@ -157,7 +155,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
 |binutils+w64|2.34|2.42|runtime-optenvw64||
 |black-hole-solver|1.10.1|1.12.0|runtime-games||
-|bleachbit|4.0.0|4.6.0|app-utils||
 |blender|4.0.2|4.1.1|app-creativity||
 |blinken|23.08.5|24.05.0|desktop-kde||
 |blinker|1.4|1.8.2|lang-python||
@@ -962,7 +959,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.05.0|desktop-kde||
 |kdebugsettings|23.08.5|24.05.0|desktop-kde||
 |kdeclarative|5.115.0|6.0.90|desktop-kde||
-|kdeconnect|23.08.5|24.05.0|desktop-kde||
 |kdecoration|5.27.11|6.0.5|desktop-kde||
 |kded|5.115.0|6.0.90|desktop-kde||
 |kdeedu-data|23.08.5|24.05.0|desktop-kde||
@@ -2303,6 +2299,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |qca|2.3.4|2.3.8|runtime-cryptography||
 |qcef|1.1.6|1.1.8|runtime-desktop||
+|qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
@@ -2574,7 +2571,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.525.32353|app-multimedia||
+|sunshine|0.23.0|2024.526.1114|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
@@ -2702,7 +2699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tor|0.4.7.14|0.4.8.11|app-network||
 |tork-trinity|14.1.0|14.1.2|desktop-trinity||
 |tornado|5.1|6.4|lang-python||
-|tortoisehg|5.3.2|6.6.3|app-vcs||
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
