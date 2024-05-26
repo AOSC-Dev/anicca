@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716740052?label=Updated)
+![Relative date](https://img.shields.io/date/1716743461?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -314,7 +314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python||
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.0|lang-python||
-|ctags|20191203|6.1.20240519.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240519.0)|
+|ctags|20191203|6.1.20240526.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240526.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|app-devel|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02 -> 12.5.0)|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
@@ -2775,7 +2775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
 |v4l2loopback|0.12.5|0.13.2|app-utils||
 |vala|0.56.16|0.56.17|app-devel||
-|vala-panel-appmenu|0.7.4|24.02|runtime-desktop||
+|vala-panel-appmenu|0.7.4|24.05|runtime-desktop||
 |valgrind|3.22.0|3.23.0|app-devel||
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia||
 |vapoursynth|57|68|app-multimedia||
