@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716707625?label=Updated)
+![Relative date](https://img.shields.io/date/1716711228?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1280,6 +1280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libclc|17.0.3|18.1.6|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
+|libconfig|1.7.2|1.7.3|runtime-common||
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
 |libcuckoo|0.3|0.3.1|runtime-common||
@@ -1778,6 +1779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
+|networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
 |networkmanager-qt|5.115.0|6.0.90|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
@@ -2147,7 +2149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|app-utils||
 |pnpm|8.15.5|9.1.2|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
-|po4a|0.63|0.71|app-i18n||
+|po4a|0.63|0.72|app-i18n||
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python||
 |podman|4.9.3<br>+vsock0.7.2|5.0.3|app-containers|Compound version number '4.9.3+vsock0.7.2'|
