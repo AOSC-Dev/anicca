@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716688898?label=Updated)
+![Relative date](https://img.shields.io/date/1716690696?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1748,7 +1748,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nas|1.9.4|1.9.5|app-multimedia||
 |nasm|2.16.01|2.16.03|app-devel||
 |nasm+32|2.12.01|2.16.03|runtime-optenv32||
-|nautilus|42.2|46.1|desktop-gnome||
+|nautilus|42.2|46.2|desktop-gnome||
 |nautilus-python|1.2.3|4.0.1|desktop-gnome||
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
@@ -2710,6 +2710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tint2|16.7|17.0.2|desktop-wm||
 |tinycdb|0.78|0.81|app-database||
 |tinycss2|1.0.2|1.3.0|lang-python||
+|tinyproxy|1.11.1|1.11.2|app-network||
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
