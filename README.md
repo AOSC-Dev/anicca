@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716690696?label=Updated)
+![Relative date](https://img.shields.io/date/1716693206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -2088,7 +2088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|lang-perl||
 |perl-uri|1.74|5.28|lang-perl||
 |perl-www-mechanize|1.91|2.18|lang-perl||
-|perl-x11-protocol-other|30|31|lang-perl||
 |perl-xml-libxslt|1.96|2.002001|lang-perl||
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
