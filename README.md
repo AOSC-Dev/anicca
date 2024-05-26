@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716700313?label=Updated)
+![Relative date](https://img.shields.io/date/1716704101?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a2ps|4.14|4.15.6|app-doc||
@@ -1833,7 +1833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.11|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7614-240524-db7caf1|app-games||
+|oolite|1.90|1.91.0.7615-240525-0b5b52b|app-games||
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-isns|0.101|0.102|app-admin||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
@@ -1980,7 +1980,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-symdump|2.0604|2.18|lang-perl|Possible downgrade from the current version (2.0604 -> 2.18)|
 |perl-digest-hmac|1.03|1.04|lang-perl||
 |perl-email-abstract|3.008|3.010|lang-perl||
-|perl-email-address|1.912|1.913|lang-perl||
 |perl-email-date-format|1.005|1.008|lang-perl||
 |perl-email-mime|1.946|1.954|lang-perl||
 |perl-email-mime-contenttype|1.022|1.028|lang-perl||
@@ -2708,7 +2707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinyproxy|1.11.1|1.11.2|app-network||
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
-|tl-expected|1.0.0|1.1.0|runtime-common||
 |tokodon|23.08.5|24.05.0|desktop-kde||
 |toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
