@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716750703?label=Updated)
+![Relative date](https://img.shields.io/date/1716754315?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -778,6 +778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |htslib|1.16|1.20|app-scientific||
 |httpcore|0.12.2|1.0.5|lang-python||
 |httpd|2.4.58|2.4.59|app-web||
+|httplib2|0.19.0|0.22.0|lang-python||
 |httpx|0.23.3|0.27.0|lang-python||
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
@@ -2496,6 +2497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |solid|5.115.0|6.0.90|desktop-kde||
 |sonic-visualiser|4.4|4.5.2|app-multimedia||
 |sonnet|5.115.0|6.0.90|desktop-kde||
+|sord|0.16.4|0.16.16|runtime-common||
 |sortedcontainers|2.3.0|2.4.0|lang-python||
 |sos|4.4|4.7.1|lang-python||
 |sound-juicer|3.38.0|3.40.0|desktop-gnome||
@@ -2825,7 +2827,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wdm|1.28|1.29|desktop-displaymanagers||
 |webencodings|0.5|0.5.1|lang-python||
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia||
+|websocket-client|1.7.0|1.8.0|lang-python||
 |websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
+|weechat|4.2.2|4.3.0|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
 |wesnoth|1.16.10|1.18.0|app-games||
@@ -2910,6 +2914,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|24.05.0|desktop-kde||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
+|yara|4.5.0|4.5.1|app-utils||
 |yard|0.9.26|0.9.36|app-doc||
 |yarl|1.6.3|1.9.4|lang-python||
 |yaspin|1.2.0|3.0.2|lang-python||
