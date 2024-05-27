@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716804812?label=Updated)
+![Relative date](https://img.shields.io/date/1716808346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -23,7 +23,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts|Possible downgrade from the current version (2.002 -> 2.002R)|
 |adobe-source-sans|3.052|3.052R|desktop-fonts|Possible downgrade from the current version (3.052 -> 3.052R)|
 |adobe-source-serif|4.005|4.005R|desktop-fonts|Possible downgrade from the current version (4.005 -> 4.005R)|
-|adwaita-icon-theme|42.0|46.0|desktop-gnome||
+|adwaita-icon-theme|42.0|46.2|desktop-gnome||
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome||
 |aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
@@ -790,6 +790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.102.6|lang-python||
 |hysteria|2.4.0|2.4.4|app-network||
+|i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts||
