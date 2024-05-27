@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716840755?label=Updated)
+![Relative date](https://img.shields.io/date/1716844468?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -307,7 +307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
-|cryfs|0.10.2|0.11.4|app-admin||
 |crypto++|8.2.0|8.9.0|runtime-cryptography||
 |cryptography|40.0.0|42.0.7|lang-python||
 |cryptsetup|2.7.0|2.7.2|app-admin||
@@ -2167,7 +2166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.0|app-gis||
 |projectm|4.0.0|4.1.1|runtime-multimedia||
-|prompt-toolkit|2.0.8|3.0.43|lang-python||
+|prompt-toolkit|2.0.8|3.0.44|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
 |protobuf|3.15.6|27.0|runtime-common||
 |protobuf-c|1.3.3|1.5.0|runtime-common||
@@ -2405,6 +2404,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
+|sarasa-gothic-fonts|1.0.12|1.0.13|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
@@ -2460,7 +2460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome||
 |simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
-|sing-box|1.8.13|1.8.14|app-network||
+|sing-box|1.8.13|1.9.0|app-network||
 |singular|4.1.1|2023.02.09|app-scientific||
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.05.0|desktop-kde||
