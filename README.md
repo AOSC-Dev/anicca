@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716770980?label=Updated)
+![Relative date](https://img.shields.io/date/1716775101?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -63,7 +63,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
-|apache-maven|3.9.6|3.9.7|lang-java||
 |apicula|0.9.1|0.12|app-electronics||
 |apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
@@ -1963,7 +1962,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-abstract|3.008|3.010|lang-perl||
 |perl-email-address|1.912|1.913|lang-perl||
 |perl-email-date-format|1.005|1.008|lang-perl||
-|perl-email-mime|1.946|1.954|lang-perl||
 |perl-email-mime-contenttype|1.022|1.028|lang-perl||
 |perl-email-simple|2.216|2.218|lang-perl||
 |perl-error|0.17027|0.17029|lang-perl||
