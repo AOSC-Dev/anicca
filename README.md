@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716776942?label=Updated)
+![Relative date](https://img.shields.io/date/1716779764?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -771,7 +771,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
-|hotspot|1.3.0|1.5.0|app-devel||
 |hplip|3.22.4|3.23.12|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
@@ -1761,7 +1760,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.11.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
 |networkmanager-qt|5.115.0|6.0.90|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
@@ -2552,7 +2550,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network||
 |sslh|1.19c|2.1.2|app-network||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
-|stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.05.0|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
