@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716786756?label=Updated)
+![Relative date](https://img.shields.io/date/1716790633?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -93,6 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
+|ast-grep|0.22.3|0.22.4|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.16|app-devel||
@@ -837,7 +838,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.1.0|desktop-fonts||
+|iosevka-fonts|28.0.5|30.1.1|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
 |iperf3|3.16|3.17.1|app-network||
