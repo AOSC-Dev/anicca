@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716801304?label=Updated)
+![Relative date](https://img.shields.io/date/1716804812?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -218,6 +218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cbm|0.2|0.3.2|app-network||
 |ccid|1.5.1|1.5.5|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
+|cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
 |cdemu-daemon|3.2.4|3.2.6|app-multimedia||
 |cdrdao|1.2.4|1.2.5|app-multimedia||
@@ -629,7 +630,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
 |gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
-|gnome-control-center|42.3|46.1|desktop-gnome||
+|gnome-control-center|42.3|46.2|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome||
@@ -789,7 +790,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.102.6|lang-python||
 |hysteria|2.4.0|2.4.4|app-network||
-|i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
 |i3status-rust|0.31.9|0.33.1|desktop-wm||
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts||
@@ -1908,6 +1908,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.2.2|app-utils||
+|pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
@@ -2466,6 +2467,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.05.0|desktop-kde||
 |skanpage|23.08.5|24.05.0|desktop-kde||
+|skktools|1.3.4|1_3_4|app-i18n||
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
@@ -2600,7 +2602,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcl+32|8.6.10|8.6.14|runtime-optenv32||
 |tclap|1.2.2|1.2.5|runtime-common||
 |tcping|1.3.5|2.1.0|app-network||
-|tdb|1.4.7|1.4.10|app-database||
 |tde-common-cmake|14.1.0|14.1.2|desktop-trinity||
 |tde-i18n|14.1.0|14.1.2|desktop-trinity||
 |tde-style-baghira|14.1.0|14.1.2|desktop-trinity||
@@ -2806,6 +2807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.3.272|1.3.285|runtime-optenv32||
 |vulkan-loader|1.3.280.0|1.3.285|runtime-display||
 |vulkan-loader+32|1.3.272|1.3.285|runtime-optenv32||
+|vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.285|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
@@ -2877,6 +2879,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
+|xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfsprogs|6.7.0|6.8.0|app-admin||
