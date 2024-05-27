@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716837063?label=Updated)
+![Relative date](https://img.shields.io/date/1716840755?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1994,7 +1994,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
 |perl-http-date|6.02|6.06|lang-perl||
-|perl-http-message|6.11|6.45|lang-perl||
+|perl-http-message|6.11|6.46|lang-perl||
 |perl-image-exiftool|12.50|12.85|lang-perl||
 |perl-io-socket-inet6|2.72|2.73|lang-perl||
 |perl-io-socket-ssl|2.062|2.085|lang-perl||
@@ -2916,6 +2916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|desktop-gnome||
 |yosys|0.39|0.41|app-electronics||
 |you-get|0.4.1650|0.4.1700|app-multimedia||
+|ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
