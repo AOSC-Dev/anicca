@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716765104?label=Updated)
+![Relative date](https://img.shields.io/date/1716770980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -249,6 +249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|desktop-cinnamon||
 |cjs|5.8.0|6.0.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
+|clash-verge-rev|1.6.2|1.6.4|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
