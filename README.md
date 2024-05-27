@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716797762?label=Updated)
+![Relative date](https://img.shields.io/date/1716801304?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -218,7 +218,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cbm|0.2|0.3.2|app-network||
 |ccid|1.5.1|1.5.5|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
-|cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
 |cdemu-daemon|3.2.4|3.2.6|app-multimedia||
 |cdrdao|1.2.4|1.2.5|app-multimedia||
@@ -378,7 +377,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.4|lang-python||
 |dmenu|5.2|5.3|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
-|dnsmasq|2.89|2.90|app-network||
 |dnspython|2.3.0|2.6.1|lang-python||
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
@@ -512,7 +510,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fonttools|4.47.2|4.52.1|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
 |fortune-mod|3.6.1|3.20.0|app-games||
-|fortunes-zh|2.97|2.98|app-games||
 |fping|5.1|5.2|app-network||
 |fprintd|1.94.2|1.94.3|app-admin||
 |fractal|7.0|7|desktop-gnome||
@@ -991,7 +988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|24.05.0|desktop-kde||
 |keep-trinity|14.1.0|14.1.2|desktop-trinity||
 |keepass|2.46|2.56|app-utils||
-|keepass-plugin-agent|0.10.1|0.13.7|app-utils||
+|keepass-plugin-agent|0.10.1|0.13.8|app-utils||
 |keepass-plugin-favicon|1.9.0|9.7.4|app-utils||
 |keepass-plugin-twofish|1.3|1.4|app-utils||
 |keepassxc|2.6.6|2.7.8|app-utils||
@@ -1460,6 +1457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
 |libspatialite|5.0.1|5.1.0|runtime-gis||
+|libspectre|0.2.9|0.2.12|runtime-doc||
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32||
 |libspiro|0.5.20150702|20221101|runtime-creativity||
 |libspnav|0.2.3|1.0|runtime-devices||
@@ -1910,7 +1908,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.2.2|app-utils||
-|pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
@@ -2158,7 +2155,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
 |powerdevil|5.27.11|6.0.5|desktop-kde||
 |powerpc-utils|1.3.10|1.3.12|app-admin||
-|powershell|7.4.0|7.4.2|app-shells||
 |poxml|23.08.5|24.05.0|desktop-kde||
 |ppp|2.4.9|2.5.0|app-network||
 |ppsspp|1.11.3|1.17.1|app-games||
@@ -2470,7 +2466,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.05.0|desktop-kde||
 |skanpage|23.08.5|24.05.0|desktop-kde||
-|skktools|1.3.4|1_3_4|app-i18n||
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
@@ -2598,7 +2593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |talloc|2.3.4|2.4.2|runtime-common||
 |targetcli-fb|2.1.54|2.1.58|app-admin||
 |tarsnap|1.0.39|1.0.40|app-admin||
-|taskwarrior|2.6.2|3.0.2|app-productivity||
 |tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
 |tbb|2021.11.0|2021.12.0|runtime-common||
 |tbb+32|4.4u4|2021.12.0|runtime-optenv32||
@@ -2812,7 +2806,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.3.272|1.3.285|runtime-optenv32||
 |vulkan-loader|1.3.280.0|1.3.285|runtime-display||
 |vulkan-loader+32|1.3.272|1.3.285|runtime-optenv32||
-|vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.285|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
@@ -2884,7 +2877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
-|xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfsprogs|6.7.0|6.8.0|app-admin||
