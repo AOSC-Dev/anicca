@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716844468?label=Updated)
+![Relative date](https://img.shields.io/date/1716847980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -307,6 +307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
+|cryfs|0.10.2|0.11.4|app-admin||
 |crypto++|8.2.0|8.9.0|runtime-cryptography||
 |cryptography|40.0.0|42.0.7|lang-python||
 |cryptsetup|2.7.0|2.7.2|app-admin||
@@ -425,7 +426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils+32|0.166|0.191|runtime-optenv32||
 |elisa|23.08.5|24.05.0|desktop-kde||
 |elvis|2.2<br>+1pre3|2.2_1-pre2|app-editors|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3 -> 2.2_1-pre2)|
-|emerald|0.8.12.4|0.8.18|desktop-wm||
 |enchant-2|2.3.1|2.8.0|app-i18n||
 |endeavour|42.0|43.0|desktop-gnome||
 |enet|1.3.14|1.3.18|runtime-network||
@@ -483,6 +483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |fio|3.35|3.37|app-utils||
+|firefox|126.0|126.0.1|app-web||
 |firehol|3.1.6|3.1.7|app-network||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
@@ -2557,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.9|app-devel||
 |streamlink|6.5.1|6.7.4|app-multimedia||
 |strongswan|5.9.4|5.9.14|app-network||
-|structlog|19.1.0|24.1.0|lang-python||
+|structlog|19.1.0|24.2.0|lang-python||
 |stubby|0.3.0|0.4.3|app-network||
 |stunnel|5.56|5.72|app-network||
 |subtitleripper|0.3.4|0.3|app-multimedia|Possible downgrade from the current version (0.3.4 -> 0.3)|
