@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716794045?label=Updated)
+![Relative date](https://img.shields.io/date/1716797762?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1460,7 +1460,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
 |libspatialite|5.0.1|5.1.0|runtime-gis||
-|libspectre|0.2.9|0.2.12|runtime-doc||
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32||
 |libspiro|0.5.20150702|20221101|runtime-creativity||
 |libspnav|0.2.3|1.0|runtime-devices||
@@ -2587,7 +2586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
-|systemd|255.3|255.6|app-admin||
 |systemsettings|5.27.11|6.0.5|desktop-kde||
 |systemtap|4.4|5.1|app-utils||
 |sysv-ipc|1.0.1|1.1.0|lang-python||
