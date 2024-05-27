@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716819148?label=Updated)
+![Relative date](https://img.shields.io/date/1716822854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -849,7 +849,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipy|0.83|1.01|lang-python||
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
-|iso-codes|4.4|4.16.0|runtime-data||
 |isomd5sum|1.2.3|1.2.4|app-utils||
 |isort|4.3.21|5.13.2|lang-python||
 |ispc|1.22.0|1.24.0|app-devel||
@@ -1813,7 +1812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.11|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7615-240525-0b5b52b|app-games||
+|oolite|1.90|1.91.0.7616-240527-f882b71|app-games||
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-isns|0.101|0.102|app-admin||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
