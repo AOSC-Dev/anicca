@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716815650?label=Updated)
+![Relative date](https://img.shields.io/date/1716819148?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -904,6 +904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kanagram|23.08.5|24.05.0|desktop-kde||
 |kapidox|5.115.0|6.0.90|desktop-kde||
 |kapman|23.08.5|24.05.0|desktop-kde||
+|kapptemplate|23.08.5|24.05.0|desktop-kde||
 |karchive|5.115.0|6.0.90|desktop-kde||
 |kasablanca-trinity|14.1.0|14.1.2|desktop-trinity||
 |kasts|23.08.5|24.05.0|desktop-kde||
