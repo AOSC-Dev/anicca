@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716808346?label=Updated)
+![Relative date](https://img.shields.io/date/1716812541?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -518,7 +518,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
-|freeciv|2.6.5|3.1.1|app-games||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
@@ -1624,8 +1623,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
 |man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
-|mangohud|0.7.0|0.7.1|app-utils||
-|mangohud+32|0.7.0|0.7.1|runtime-optenv32||
+|mangohud|0.7.0|0.7.2|app-utils||
+|mangohud+32|0.7.0|0.7.2|runtime-optenv32||
 |marble|23.08.5|24.05.0|desktop-kde||
 |mariadb|10.9.4|11.4.1|app-database||
 |markdown|3.3.4|3.6|lang-python||
@@ -1982,7 +1981,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|lang-perl||
 |perl-finance-quote|1.49|1.5301|lang-perl||
 |perl-font-ttf|1.05|1.06|lang-perl||
-|perl-gd|2.71|2.81|lang-perl||
+|perl-gd|2.71|2.82|lang-perl||
 |perl-glib|1.329|1.3294|lang-perl||
 |perl-glib-object-introspection|0.047|0.051|lang-perl||
 |perl-gnome2|1.047|1.048|lang-perl||
@@ -2612,7 +2611,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
 |tde-systemsettings|14.1.0|14.1.2|desktop-trinity||
 |tdeaccessibility|14.1.0|14.1.2|desktop-trinity||
-|tdeaddons|14.1.0|14.1.2|desktop-trinity||
 |tdeadmin|14.1.0|14.1.2|desktop-trinity||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
 |tdebase|14.1.0|14.1.2|desktop-trinity||
@@ -2741,7 +2739,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
 |umbrello|23.08.5|24.05.0|desktop-kde||
-|uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils||
