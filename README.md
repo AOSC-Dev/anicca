@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716812541?label=Updated)
+![Relative date](https://img.shields.io/date/1716815650?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -518,6 +518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
+|freeciv|2.6.5|3.1.1|app-games||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
@@ -903,7 +904,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kanagram|23.08.5|24.05.0|desktop-kde||
 |kapidox|5.115.0|6.0.90|desktop-kde||
 |kapman|23.08.5|24.05.0|desktop-kde||
-|kapptemplate|23.08.5|24.05.0|desktop-kde||
 |karchive|5.115.0|6.0.90|desktop-kde||
 |kasablanca-trinity|14.1.0|14.1.2|desktop-trinity||
 |kasts|23.08.5|24.05.0|desktop-kde||
@@ -2611,6 +2611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
 |tde-systemsettings|14.1.0|14.1.2|desktop-trinity||
 |tdeaccessibility|14.1.0|14.1.2|desktop-trinity||
+|tdeaddons|14.1.0|14.1.2|desktop-trinity||
 |tdeadmin|14.1.0|14.1.2|desktop-trinity||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
 |tdebase|14.1.0|14.1.2|desktop-trinity||
@@ -2739,6 +2740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
 |umbrello|23.08.5|24.05.0|desktop-kde||
+|uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
 |unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils||
