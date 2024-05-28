@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716905514?label=Updated)
+![Relative date](https://img.shields.io/date/1716909224?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -36,7 +36,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi|23.08.5|24.05.0|desktop-kde||
 |akonadi-calendar|23.08.5|24.05.0|desktop-kde||
 |akonadi-calendar-tools|23.08.5|24.05.0|desktop-kde||
-|akonadi-contacts|23.08.5|24.05.0|desktop-kde||
 |akonadi-import-wizard|23.08.5|24.05.0|desktop-kde||
 |akonadi-mime|23.08.5|24.05.0|desktop-kde||
 |akonadi-notes|23.08.5|24.05.0|desktop-kde||
@@ -755,7 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatch-vcs|0.3.0|0.4.0|lang-python||
-|hatchling|1.21.1|1.11.1|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.1)|
+|hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
 |hdf5|1.10.5|1.14.4.3|runtime-scientific||
@@ -1215,6 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |layer-shell-qt|5.27.11|6.0.5|desktop-kde||
+|lazarus|3.2|3.4|lang-pascal||
 |lazy-object-proxy|1.7.1|1.10.0|lang-python||
 |lcms2|2.14|2.16|runtime-imaging||
 |lcms2+32|2.9|2.16|runtime-optenv32||
@@ -1837,7 +1837,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
-|openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
 |openldap|2.6.7|2_6_8|app-admin||
 |openldap+32|2.4.59|2_6_8|runtime-optenv32||
@@ -2718,7 +2717,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-misaki|2021.05.05|2021-05-05|desktop-fonts||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
 |ttf-vlgothic|20200720|20220612|desktop-fonts||
-|ttyd|1.6.3|1.7.7|app-utils||
 |tuned|2.19.0|2.22.1|app-admin||
 |twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
 |twisted|21.2.0|24.3.0|lang-python||
@@ -2769,7 +2767,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|runtime-common||
 |util-linux+32|2.29.2|2.40.1|runtime-optenv32||
 |util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
-|v2raya|2.2.5.1|2.2.5|app-network|Possible downgrade from the current version (2.2.5.1 -> 2.2.5)|
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
 |v4l2loopback|0.12.5|0.13.2|app-utils||
