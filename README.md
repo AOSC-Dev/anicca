@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716869838?label=Updated)
+![Relative date](https://img.shields.io/date/1716873213?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -340,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.108|0.112|runtime-optenv32||
 |dbus-python|1.2.18|1.3.2|lang-python||
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity||
+|dcaenc|3|2|app-multimedia|Possible downgrade from the current version (3 -> 2)|
 |ddcutil|2.1.3|2.1.4|app-utils||
 |ddnet|17.0.3|18.2|app-games||
 |ddrescue|1.24|1.28|app-utils||
@@ -515,7 +516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fprintd|1.94.2|1.94.3|app-admin||
 |fractal|7.0|7|desktop-gnome||
 |frameworkintegration|5.115.0|6.0.90|desktop-kde||
-|freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
 |freeciv|2.6.5|3.1.1|app-games||
@@ -1562,6 +1562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
+|lksctp-tools|1.0.17|1.0.19|app-network||
 |lldpd|1.0.17|1.0.18|app-network||
 |llfuse|1.4.1|1.5.0|lang-python||
 |llvm|17.0.6|18.1.6|app-devel||
