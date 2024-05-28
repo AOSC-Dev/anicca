@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716863399?label=Updated)
+![Relative date](https://img.shields.io/date/1716866027?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1636,6 +1636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-control-center|1.28.0|1.28.1|desktop-mate||
 |materialx|1.38.8|1.38.10|runtime-creativity||
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
+|mathjax|2.7.5|3.2.2|lang-js||
 |matplotlib|3.8.0|3.9.0|lang-python||
 |maturin|1.4.0|1.5.1|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
@@ -2562,11 +2563,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strongswan|5.9.4|5.9.14|app-network||
 |structlog|19.1.0|24.2.0|lang-python||
 |stubby|0.3.0|0.4.3|app-network||
-|stunnel|5.56|5.72|app-network||
 |subtitleripper|0.3.4|0.3|app-multimedia|Possible downgrade from the current version (0.3.4 -> 0.3)|
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
-|sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.527.204311|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
@@ -2759,7 +2758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upx|4.2.1|4.2.4|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
-|urlgrabber|3.10.2|4.1.0|lang-python||
 |urwid|2.1.2|2.6.12|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
@@ -2830,7 +2828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.0|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
-|wesnoth|1.16.10|1.18.0|app-games||
+|wesnoth|1.16.10|1.19.0|app-games||
 |weston|13.0.0|13.0.1|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|lang-python||
@@ -2921,6 +2919,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|desktop-gnome||
 |yosys|0.39|0.41|app-electronics||
 |you-get|0.4.1650|0.4.1700|app-multimedia||
+|yt-dlp|2024.05.26|2024.05.27|app-multimedia||
 |ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
