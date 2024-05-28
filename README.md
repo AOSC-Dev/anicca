@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716934374?label=Updated)
+![Relative date](https://img.shields.io/date/1716937954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1664,6 +1664,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-amber|21.3.9|24.1.0|runtime-display||
 |messagelib|23.08.5|24.05.0|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
+|metee|4.0.0|4.1.0|runtime-devices||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
@@ -2887,6 +2888,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xfce4-screenshooter|1.10.5|1.10.6|desktop-xfce||
 |xfsprogs|6.7.0|6.8.0|app-admin||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
