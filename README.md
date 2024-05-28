@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716851646?label=Updated)
+![Relative date](https://img.shields.io/date/1716857226?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -751,6 +751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
 |haruna|0.12.3|1.1.1|desktop-kde||
 |harvid|0.8.3|0.9.1|app-multimedia||
+|hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatch-vcs|0.3.0|0.4.0|lang-python||
 |hatchling|1.21.1|1.11.1|lang-python|Possible downgrade from the current version (1.21.1 -> 1.11.1)|
@@ -1201,6 +1202,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kweather|23.08.5|24.05.0|desktop-kde||
 |kweathercore|0.7|0.8.0|desktop-kde||
 |kwidgetsaddons|5.115.0|6.0.90|desktop-kde||
+|kwin|5.27.11|6.0.5|desktop-kde||
 |kwindowsystem|5.115.0|6.0.90|desktop-kde||
 |kwordquiz|23.08.5|24.05.0|desktop-kde||
 |kwrited|5.27.11|6.0.5|desktop-kde||
@@ -1403,6 +1405,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libofx|0.9.15|0.10.8|runtime-productivity||
 |libogg|1.3.4|1.3.5|runtime-multimedia||
 |libogg+32|1.3.4|1.3.5|runtime-optenv32||
+|libopenraw|0.1.3|0.3.7|runtime-imaging||
 |liborcus|0.17.2|0.19.2|runtime-productivity||
 |libosinfo|1.10.0|1.11.0|runtime-common||
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis||
@@ -2581,6 +2584,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
+|systemd|255.6|255.7|app-admin||
+|systemd-boot-friend|0.26.3|0.26.4|app-admin||
 |systemsettings|5.27.11|6.0.5|desktop-kde||
 |systemtap|4.4|5.1|app-utils||
 |sysv-ipc|1.0.1|1.1.0|lang-python||
