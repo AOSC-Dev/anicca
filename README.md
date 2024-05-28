@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716920069?label=Updated)
+![Relative date](https://img.shields.io/date/1716923496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1111,7 +1111,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.05.0|desktop-kde||
 |kontact|23.08.5|24.05.0|desktop-kde||
 |kontactinterface|23.08.5|24.05.0|desktop-kde||
-|kontrast|23.08.5|24.05.0|desktop-kde||
 |konversation|23.08.5|24.05.0|desktop-kde||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity||
 |kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2391,7 +2390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
 |rubberband|1.9.2|3.3.0|app-multimedia||
 |ruby|3.2.2|3.3.1|lang-ruby||
-|ruby-bundler|2.1.4|2.5.10|lang-ruby||
+|ruby-bundler|2.1.4|2.5.11|lang-ruby||
 |ruby-ffi|1.10.0|1.16.3|lang-ruby||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby||
 |ruby-locale|2.1.3|2.1.4|lang-ruby||
