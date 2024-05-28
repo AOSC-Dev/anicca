@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716923496?label=Updated)
+![Relative date](https://img.shields.io/date/1716927230?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -170,7 +170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.113|lang-python||
+|boto3|1.20.26|1.34.114|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -1111,6 +1111,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.05.0|desktop-kde||
 |kontact|23.08.5|24.05.0|desktop-kde||
 |kontactinterface|23.08.5|24.05.0|desktop-kde||
+|kontrast|23.08.5|24.05.0|desktop-kde||
 |konversation|23.08.5|24.05.0|desktop-kde||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity||
 |kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2209,8 +2210,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
 |pycurl|7.43.0.6|7.45.3|lang-python||
-|pydantic|2.6.0|2.7.1|lang-python||
-|pydantic-core|2.16.1|2.18.2|lang-python||
+|pydantic|2.6.0|2.7.2|lang-python||
+|pydantic-core|2.16.1|2.18.3|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
