@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716912850?label=Updated)
+![Relative date](https://img.shields.io/date/1716916393?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -55,7 +55,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.11|app-multimedia||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity||
 |amtk|5.5.1|5.6.1|desktop-gnome||
-|analitza|23.08.5|24.05.0|desktop-kde||
 |angelfish|23.08.5|24.05.0|desktop-kde||
 |annotated-types|0.6.0|0.7.0|lang-python||
 |ansible|2.12.1|2.17.0|app-admin||
@@ -834,7 +833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inkscape|1.3.2|1_3_2|app-creativity||
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
-|intel-media-driver|24.1.5|24.2.3|runtime-multimedia||
+|intel-media-driver|24.1.5|24.2.4|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.1.1|desktop-fonts||
@@ -1696,7 +1695,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |most|5.0.0a|5.2.0|app-utils||
 |mouseemu|0.16|0.16.orig|app-utils|Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |movit|1.6.3|1.7.1|runtime-multimedia||
-|mp3gain|1.6.2|1_6_2|app-multimedia||
 |mp4v2|4.1.3|2.1.3|app-multimedia|Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32||
 |mpg123|1.25.13|1.32.6|app-multimedia||
@@ -1798,7 +1796,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|555.42.02|runtime-optenv32||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
-|ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-num|1.3|1.5|lang-ocaml||
 |ocaml-pp|1.1.2|1.2.0|lang-ocaml||
@@ -2176,7 +2173,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |protobuf|3.15.6|27.0|runtime-common||
 |protobuf-c|1.3.3|1.5.0|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
-|psmisc|23.6|23.7|app-utils||
 |pstate-frequency|3.11.0|3.15.1|app-admin||
 |pstoedit|3.75|4.01|app-doc||
 |psycopg2|2.8.6|2.9.9|lang-python||
