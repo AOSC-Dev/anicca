@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716887616?label=Updated)
+![Relative date](https://img.shields.io/date/1716891194?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -590,7 +590,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32||
 |gifski|1.14.4|1.32.0|app-imaging||
 |gimp|2.10.36|2_10_38|app-creativity||
-|girara|0.4.0|0.4.3|runtime-desktop||
+|girara|0.4.4|0.4.3|runtime-desktop|Possible downgrade from the current version (0.4.4 -> 0.4.3)|
 |git-archive-all|1.20.0|1.23.1|app-vcs||
 |git-branchless|0.7.1|0.9.0|app-utils||
 |git-lfs|3.5.0|3.5.1|app-devel||
@@ -1662,6 +1662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-amber|21.3.9|24.1.0|runtime-display||
 |messagelib|23.08.5|24.05.0|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
+|mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.5|desktop-kde||
@@ -2920,7 +2921,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|desktop-gnome||
 |yosys|0.39|0.41|app-electronics||
 |you-get|0.4.1650|0.4.1700|app-multimedia||
-|yt-dlp|2024.05.26|2024.05.27|app-multimedia||
 |ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
@@ -2930,8 +2930,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.05.0|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
-|zathura|0.5.2|0.5.6|app-doc||
-|zathura-pdf-poppler|0.3.1|0.3.2|app-doc||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeal|0.7.0|0.7.1|app-doc||
 |zeitgeist|1.0.3|1.0.4|app-admin||
