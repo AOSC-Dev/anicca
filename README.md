@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716880364?label=Updated)
+![Relative date](https://img.shields.io/date/1716884294?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -465,7 +465,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
-|fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
 |feeluown|4.1.1|4.1.4|app-multimedia||
@@ -770,7 +769,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
-|hotspot|1.3.0|1.5.0|app-devel||
 |hplip|3.22.4|3.23.12|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
@@ -865,7 +863,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jbig2dec|0.18|0.20|runtime-imaging||
 |jdcal|1.4|1.4.1|lang-python||
 |jedi|0.18.1|0.19.1|lang-python||
-|jeepney|0.6.0|0.8.0|lang-python||
 |jellyfish|0.6.0|1.0.3|lang-python||
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
@@ -1011,7 +1008,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kguiaddons|5.115.0|6.0.90|desktop-kde||
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
-|khelpcenter|23.08.5|24.05.0|desktop-kde||
 |kholidays|5.115.0|6.0.90|desktop-kde||
 |khotkeys|5.27.11|6.0.5|desktop-kde||
 |khtml|5.115.0|6.0.90|desktop-kde||
@@ -2303,7 +2299,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.9|app-web||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
@@ -2790,7 +2785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0393|9.1.0447|app-editors||
+|vim|9.1.0446|9.1.0447|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
@@ -2871,7 +2866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|app-utils|Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.9|desktop-wm||
 |xcowsay|1.4|1.6|app-utils||
-|xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop||
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin||
 |xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome||
 |xdg-desktop-portal-gtk|1.12.0|1.15.1|app-admin||
