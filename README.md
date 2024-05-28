@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716899026?label=Updated)
+![Relative date](https://img.shields.io/date/1716902048?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -509,7 +509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|app-utils||
 |fontconfig|2.14.0|2.15.0|runtime-desktop||
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
-|fonttools|4.47.2|4.52.1|desktop-fonts||
+|fonttools|4.47.2|4.52.4|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
 |fortune-mod|3.6.1|3.20.0|app-games||
 |fping|5.1|5.2|app-network||
@@ -1267,6 +1267,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libconfig|1.7.2|1.7.3|runtime-common||
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
+|libcuckoo|0.3|0.3.1|runtime-common||
 |libdc1394|2.2.6|2.2.7|runtime-devices||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
 |libdecor|0.1.1|0.2.2|runtime-desktop||
@@ -2274,6 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
 |python-msgpack|1.0.2|1.0.8|lang-python||
+|python-node-semver|0.8.0|0.9.0|lang-python||
 |python-openid|2.2.5|3.2|lang-python||
 |python-pam|1.8.4|2.0.2|lang-python||
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
@@ -2289,6 +2291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyx|0.14.1|0.16|lang-python||
 |pyxattr|0.6.1|0.8.1|lang-python||
 |pyyaml|5.3.1|6.0.1|lang-python||
+|pyzmq|22.3.0|26.0.3|lang-python||
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |qbittorrent|4.6.4|4.6.5|app-web||
 |qca|2.3.4|2.3.8|runtime-cryptography||
