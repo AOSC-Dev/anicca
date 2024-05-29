@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716988447?label=Updated)
+![Relative date](https://img.shields.io/date/1716991931?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -2651,7 +2651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.0.2|app-web||
+|telegram-desktop|5.0.1|5.0.5|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
@@ -2711,6 +2711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transcode|1.1.7|1_1_7|app-multimedia||
 |translate-shell|0.9.7|0.9.7.1|app-i18n||
 |translate-toolkit|2.3.1|3.13.0|lang-python||
+|transmission|4.0.5|4.0.6|app-web||
 |transmission-remote-gtk|1.5.1|1.6.0|app-web||
 |trash-cli|0.17.1.14|0.24.5.26|app-utils||
 |tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
@@ -2846,7 +2847,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
-|wireguard-tools|1.0.20200827|1.0.20210914|app-network||
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
