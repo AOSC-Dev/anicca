@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717017124?label=Updated)
+![Relative date](https://img.shields.io/date/1717020858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -197,6 +197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|app-utils||
 |cachecontrol|0.12.6|0.14.0|lang-python||
 |cachetools|3.1.0|5.3.3|lang-python||
+|caddy|2.7.6|2.8.0|app-web||
 |cairo|1.17.6|1.18.0|runtime-imaging||
 |cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
@@ -215,11 +216,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|lang-rust||
-|cargo-release|0.24.11|0.25.7|lang-rust||
+|cargo-release|0.24.11|0.25.8|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
+|ccache|4.9.1|4.10|app-devel||
 |ccid|1.5.1|1.5.5|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
 |cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
@@ -245,7 +247,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|125.0.6422.60|125.0.6422.112|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
-|cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
 |cinnamon-desktop|5.8.0|6.0.0|desktop-cinnamon||
 |cinnamon-menus|5.8.0|6.0.0|desktop-cinnamon||
 |cinnamon-screensaver|5.8.0|6.0.3|desktop-cinnamon||
@@ -432,7 +433,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|2.2.2|3.0.0|app-utils||
 |e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
-|ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
 |editline|1.16.1|1.17.1|runtime-common||
 |editorconfig-core-c|0.12.6|0.12.7|runtime-editors||
@@ -865,7 +865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.4|app-network||
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
-|ipy|0.83|1.01|lang-python||
 |ipython|7.28.0|8.24.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |iso-codes|4.4|4.16.0|runtime-data||
@@ -954,7 +953,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcodecs|5.115.0|6.0.90|desktop-kde||
 |kcolorchooser|23.08.5|24.05.0|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
-|kcompletion|5.115.0|6.0.90|desktop-kde||
 |kconfig|5.115.0|6.0.90|desktop-kde||
 |kconfigwidgets|5.115.0|6.0.90|desktop-kde||
 |kcontacts|5.115.0|6.0.90|desktop-kde||
@@ -1079,7 +1077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kldap|23.08.5|24.05.0|desktop-kde||
 |kleopatra|23.08.5|24.05.0|desktop-kde||
 |klettres|23.08.5|24.05.0|desktop-kde||
-|klickety|23.08.5|24.05.0|desktop-kde||
 |klines|23.08.5|24.05.0|desktop-kde||
 |kmag|23.08.5|24.05.0|desktop-kde||
 |kmahjongg|23.08.5|24.05.0|desktop-kde||
@@ -1931,7 +1928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcp|6.0.1|6.2.2|app-utils||
 |pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
-|pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
 |pcsx2|1.6.0<br>+git20210825|1.7.5845|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
