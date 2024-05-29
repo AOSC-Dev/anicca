@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716995623?label=Updated)
+![Relative date](https://img.shields.io/date/1716999297?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -66,7 +66,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-maven|3.9.6|3.9.7|lang-java||
 |apicula|0.9.1|0.12|app-electronics||
-|apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
@@ -413,7 +412,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
 |dune|3.4.1|3.15.3|lang-ocaml||
-|duplicity|2.2.2|2.2.4|app-utils||
+|duplicity|2.2.2|3.0.0|app-utils||
 |e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
 |ecl|23.9.9|24.5.10|lang-lisp||
@@ -433,7 +432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |entrypoints|0.3|0.4|lang-python||
 |eog|42.3|45.3|desktop-gnome||
 |eog-plugins|42.1|44.0|desktop-gnome||
-|epiphany|42.4|46.0|desktop-gnome||
+|epiphany|42.4|46.1|desktop-gnome||
 |epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|lang-python||
 |etckeeper|1.18.20|1.18.21|app-admin||
@@ -772,7 +771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
-|hotspot|1.3.0|1.5.0|app-devel||
+|hotspot|1.3.0|1.5.1|app-devel||
 |hplip|3.22.4|3.23.12|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
@@ -2795,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0447|app-editors||
+|vim|9.1.0446|9.1.0448|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
