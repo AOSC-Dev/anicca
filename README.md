@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716963375?label=Updated)
+![Relative date](https://img.shields.io/date/1716966815?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -519,7 +519,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
-|freeciv|2.6.5|3.1.1|app-games||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
@@ -1062,7 +1061,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kleopatra|23.08.5|24.05.0|desktop-kde||
 |klettres|23.08.5|24.05.0|desktop-kde||
 |klickety|23.08.5|24.05.0|desktop-kde||
-|klines|23.08.5|24.05.0|desktop-kde||
 |kmag|23.08.5|24.05.0|desktop-kde||
 |kmahjongg|23.08.5|24.05.0|desktop-kde||
 |kmail|23.08.5|24.05.0|desktop-kde||
@@ -1818,7 +1816,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oolite|1.90|1.91.0.7616-240527-f882b71|app-games||
 |opam|2.1.3|2.1.6|lang-ocaml||
 |open-isns|0.101|0.102|app-admin||
-|open-vm-tools|12.3.5|12.4.0|app-virtualization||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
@@ -2053,7 +2050,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-sys-virt|5.8.0|10.2.0|lang-perl||
 |perl-template-toolkit|2.27|3.101|lang-perl||
 |perl-term-progressbar|2.22|2.23|lang-perl||
-|perl-term-readkey|2.37|2.38|lang-perl||
 |perl-term-readline-gnu|1.36|1.46|lang-perl||
 |perl-test-deep|1.130|1.204|lang-perl||
 |perl-test-fatal|0.014|0.017|lang-perl||
@@ -2428,7 +2424,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sddm-kcm|5.27.11|6.0.5|desktop-kde||
 |sdl-gfx|2.0.25|2.0.27|runtime-multimedia||
 |sdl-sound|1.0.3|2.0.2|runtime-multimedia||
-|sdl-sound+32|1.0.3|2.0.2|runtime-optenv32||
 |sdl-ttf|2.0.11|2.22.0|runtime-multimedia||
 |sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32||
 |sdl2|2.24.2|2.30.3|runtime-multimedia||
@@ -2880,7 +2875,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal-kde|5.27.11|6.0.5|desktop-kde||
 |xdg-user-dirs|0.17|0.18|app-admin||
 |xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
-|xdg-utils|1.1.3|1.2.1|app-utils||
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
