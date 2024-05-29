@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717002744?label=Updated)
+![Relative date](https://img.shields.io/date/1717006482?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -564,7 +564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm+32|1.11|1.23|runtime-optenv32||
 |gdk-pixbuf|2.42.8|2.42.12|runtime-imaging||
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
-|gdm|42.0|46.0|desktop-gnome||
+|gdm|42.0|46.2|desktop-gnome||
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|app-devel||
