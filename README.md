@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716985300?label=Updated)
+![Relative date](https://img.shields.io/date/1716988447?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -713,12 +713,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
 |gssproxy|0.8.2|0.9.2|app-network||
-|gst-libav-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gst-plugins-bad-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gst-plugins-base-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gst-plugins-good-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gst-plugins-ugly-1-0+32|1.16.2|1.24.3|runtime-optenv32||
-|gstreamer-1-0+32|1.16.2|1.24.3|runtime-optenv32||
+|gst-libav-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gst-plugins-bad-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gst-plugins-base-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gst-plugins-good-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gst-plugins-ugly-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gstreamer|1.24.3|1.24.4|runtime-multimedia||
+|gstreamer-1-0+32|1.16.2|1.24.4|runtime-optenv32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32||
@@ -1241,6 +1242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|runtime-common||
 |libavif|0.11.1|1.0.4|runtime-multimedia||
 |libblkio|1.3.0|1.5.0|runtime-common||
+|libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
 |libbpf|1.2.0|1.4.2|runtime-kernel||
@@ -2284,6 +2286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.1|lang-python||
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python||
 |pythondialog|3.3.0|3.5.3|lang-python||
+|pytools|2019.1|2024.1.3|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
 |pyutil|3.3.0|3.3.6|lang-python||
