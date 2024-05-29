@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716981102?label=Updated)
+![Relative date](https://img.shields.io/date/1716985300?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1241,7 +1241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|runtime-common||
 |libavif|0.11.1|1.0.4|runtime-multimedia||
 |libblkio|1.3.0|1.5.0|runtime-common||
-|libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
 |libbpf|1.2.0|1.4.2|runtime-kernel||
@@ -2285,7 +2284,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.1|lang-python||
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python||
 |pythondialog|3.3.0|3.5.3|lang-python||
-|pytools|2019.1|2024.1.3|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
 |pyutil|3.3.0|3.3.6|lang-python||
@@ -2570,7 +2568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.527.204311|app-multimedia||
+|sunshine|0.23.0|2024.529.1057|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
@@ -2950,6 +2948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
+|zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
