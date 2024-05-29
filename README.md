@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716949895?label=Updated)
+![Relative date](https://img.shields.io/date/1716952515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -646,7 +646,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-packagekit|3.32.0|43.0|desktop-gnome||
 |gnome-panel|3.44.0|3.52.0|desktop-gnome||
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
-|gnome-session|42.0|46.0|desktop-gnome||
 |gnome-settings-daemon|42.2|46.0|desktop-gnome||
 |gnome-shell|42.4|46.2|desktop-gnome||
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
@@ -1173,7 +1172,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksystemlog|23.08.5|24.05.0|desktop-kde||
 |ksystemlog-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksystemstats|5.27.11|6.0.5|desktop-kde||
-|kteatime|23.08.5|24.05.0|desktop-kde||
 |ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
 |ktextaddons|1.5.3|1.5.4|desktop-kde||
 |ktexteditor|5.115.0|6.0.90|desktop-kde||
@@ -1454,6 +1452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|runtime-emulation||
 |libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
+|libsodium|1.0.18|1.0.20|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
@@ -2275,7 +2274,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-linux-procfs|0.7.1|0.7.3|lang-python||
 |python-lz4|2.1.6|4.3.3|lang-python||
 |python-markdown-math|0.6|0.8|lang-python||
-|python-msgpack|1.0.2|1.0.8|lang-python||
 |python-node-semver|0.8.0|0.9.0|lang-python||
 |python-openid|2.2.5|3.2|lang-python||
 |python-pam|1.8.4|2.0.2|lang-python||
