@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1716999297?label=Updated)
+![Relative date](https://img.shields.io/date/1717002744?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -66,6 +66,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-maven|3.9.6|3.9.7|lang-java||
 |apicula|0.9.1|0.12|app-electronics||
+|apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
@@ -1772,7 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|runtime-common||
 |nfs-utils|2.6.2|2.6.4|app-utils||
 |nghttp2|1.58.0|1.62.1|runtime-web||
-|nginx|1.25.3|1.26.0|app-web||
+|nginx|1.25.3|1.27.0|app-web||
 |ngspice|35|42|app-electronics||
 |nmap|7.93|7.95|app-network||
 |nodejs|20.13.0|21.7.1|lang-js||
@@ -2351,6 +2352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
+|requests|2.32.2|2.32.3|lang-python||
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
