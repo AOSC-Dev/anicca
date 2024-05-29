@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717013588?label=Updated)
+![Relative date](https://img.shields.io/date/1717017124?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -93,6 +93,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
+|aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
+|aspnetcore-runtime-8.0|8.0.5|8.0.6|app-devel||
+|aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
+|aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
@@ -170,7 +174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.114|lang-python||
+|boto3|1.20.26|1.34.115|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -390,12 +394,24 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
 |dosbox|0.74<br>+3|0.74-3|app-emulation|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|runtime-common||
+|dotnet-apphost-pack-6.0|6.0.30|6.0.31|lang-dotnet||
+|dotnet-apphost-pack-8.0|8.0.5|8.0.6|lang-dotnet||
+|dotnet-host|8.0.5|8.0.6|lang-dotnet||
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet||
+|dotnet-hostfxr-6.0|6.0.30|6.0.31|lang-dotnet||
+|dotnet-hostfxr-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet||
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet||
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet||
-|dotnet-runtime-deps-6.0|6.0.0|6.0.30|lang-dotnet||
-|dotnet-templates-8.0|8.0.300|6.0.422|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.422)|
+|dotnet-runtime-6.0|6.0.30|6.0.31|lang-dotnet||
+|dotnet-runtime-8.0|8.0.5|8.0.6|lang-dotnet||
+|dotnet-runtime-deps-6.0|6.0.0|6.0.31|lang-dotnet||
+|dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
+|dotnet-sdk-8.0|8.0.300|8.0.301|app-devel||
+|dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
+|dotnet-targeting-pack-8.0|8.0.5|8.0.6|lang-dotnet||
+|dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
+|dotnet-templates-8.0|8.0.300|6.0.423|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.423)|
 |double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
@@ -2802,8 +2818,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
-|vkd3d|1.9|1.11|runtime-display||
-|vkd3d+32|1.9|1.11|runtime-optenv32||
+|vkd3d|1.9|1.12|runtime-display||
+|vkd3d+32|1.9|1.12|runtime-optenv32||
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
 |vmpk|0.8.0|0.9.0|app-creativity||
 |vnstat|2.4|2.12|app-network||
