@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717009865?label=Updated)
+![Relative date](https://img.shields.io/date/1717013588?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -664,6 +664,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|desktop-gnome||
 |gnote|42.1|46.0|desktop-gnome||
 |gnu-efi|3.0.14|3.0.18|app-devel||
+|gnuplot|6.0.0|6.0.1|app-utils||
 |gnustep-base|1.28.0|1_29_0|runtime-gnustep||
 |gnustep-make|2.9.0|2_9_1|runtime-gnustep||
 |gnutls|3.8.4|3.8.5|runtime-cryptography||
@@ -1847,7 +1848,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openmpi|4.1.6|5.0.3|app-scientific||
 |openmpt|0.6.4|0.7.7|app-multimedia||
 |openpgl|0.5.0|0.6.0|runtime-creativity||
-|openpyxl|2.6.0|3.1.2|lang-python||
+|openpyxl|2.6.0|3.1.3|lang-python||
 |openra|20210321|20231010|app-games||
 |openrazer|3.3.0|3.8.0|app-devices||
 |openrgb|0.6|0.9|app-utils||
@@ -2912,8 +2913,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.4|app-imaging||
 |xwayland|23.2.6|24.1.0|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
-|xz|5.4.1|5.6.1|app-utils||
-|xz+32|5.4.1|5.6.1|runtime-optenv32||
+|xz|5.4.1|5.6.2|app-utils||
+|xz+32|5.4.1|5.6.2|runtime-optenv32||
 |yad|0.40.0|13.0|app-utils||
 |yakuake|23.08.5|24.05.0|desktop-kde||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2932,7 +2933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
-|yubioath-desktop|5.1.0|7.0.0|app-devices||
+|yubioath-desktop|5.1.0|7.0.1|app-devices||
 |yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.05.0|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
