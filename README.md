@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717042634?label=Updated)
+![Relative date](https://img.shields.io/date/1717045929?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -684,8 +684,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnote|42.1|46.0|desktop-gnome||
 |gnu-efi|3.0.14|3.0.18|app-devel||
 |gnuplot|6.0.0|6.0.1|app-utils||
-|gnustep-base|1.28.0|1_29_0|runtime-gnustep||
-|gnustep-make|2.9.0|2_9_1|runtime-gnustep||
+|gnustep-base|1.28.0|1_30_0|runtime-gnustep||
+|gnustep-make|2.9.0|2_9_2|runtime-gnustep||
 |gnutls|3.8.4|3.8.5|runtime-cryptography||
 |gnutls+32|3.6.15|3.8.5|runtime-optenv32||
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.3|lang-golang|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
@@ -1097,6 +1097,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmousetool|23.08.5|24.05.0|desktop-kde||
 |kmouth|23.08.5|24.05.0|desktop-kde||
 |kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
+|kmplot|23.08.5|24.05.0|desktop-kde||
 |kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
 |kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1539,6 +1540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|runtime-productivity||
 |libwww-perl|6.33|6.77|lang-perl||
 |libx86|1.1|3.5|runtime-common||
+|libx86emu|3.1|3.5|runtime-common||
 |libxau+32|1.0.9|1.0.11|runtime-optenv32||
 |libxcb|1.16.1|1.17.0|runtime-display||
 |libxcb+32|1.13|1.17.0|runtime-optenv32||
@@ -2605,7 +2607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
 |systemd|255.6|255.7|app-admin||
-|systemd-boot-friend|0.26.3|0.26.4|app-admin||
+|systemd-boot-friend|0.26.3|0.27.0|app-admin||
 |systemsettings|5.27.11|6.0.5|desktop-kde||
 |systemtap|4.4|5.1|app-utils||
 |sysv-ipc|1.0.1|1.1.0|lang-python||
