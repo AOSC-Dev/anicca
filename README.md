@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717024352?label=Updated)
+![Relative date](https://img.shields.io/date/1717030173?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1528,7 +1528,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
 |libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.0|runtime-multimedia||
-|libvpx+32|1.9.0|1.14.0|runtime-optenv32||
 |libwacom|2.4.0|2.11.0|runtime-devices||
 |libwebp|1.3.1|1.4.0|runtime-imaging||
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32||
@@ -1608,7 +1607,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lsof|4.98.0|4.99.3|app-utils||
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|runtime-common||
-|lua-expat|1.4.1|1.5.1|lang-lua||
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
