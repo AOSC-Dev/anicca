@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717089098?label=Updated)
+![Relative date](https://img.shields.io/date/1717092996?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1605,12 +1605,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.300.4|0.311.1|desktop-fonts||
+|lxgwcleargothic-font|0.300.4|0.311.2|desktop-fonts||
 |lxgwnewcleargothic-font|1.121|1.123|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
 |lynx|2.9.0|2.9.1|app-web||
+|lyx|2.3.7|2.3.8|app-doc||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
 |lziprecover|1.21|1.24|app-utils||
@@ -1633,7 +1634,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.2|app-utils||
 |mangohud+32|0.7.0|0.7.2|runtime-optenv32||
 |marble|23.08.5|24.05.0|desktop-kde||
-|mariadb|10.9.4|11.4.1|app-database||
+|mariadb|10.9.4|11.5.1|app-database||
 |markdown|3.3.4|3.6|lang-python||
 |markdownpart|23.08.5|24.05.0|desktop-kde||
 |markupsafe|2.1.1|2.1.5|lang-python||
@@ -2552,6 +2553,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network||
 |sslh|1.19c|2.1.2|app-network||
 |stalonetray|0.8.4|0.8.5|desktop-wm||
+|stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.05.0|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
