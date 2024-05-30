@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717049801?label=Updated)
+![Relative date](https://img.shields.io/date/1717053315?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -555,7 +555,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fvwm|2.6.9|2.7.0|desktop-wm||
 |fzf|0.46.1|0.52.1|app-utils||
 |gajim|1.4.0|1.8.4|app-web||
-|game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
 |gammaray|2.11.2|3.0.0|app-devel||
 |gap|4.10.2|4.13.0|app-scientific||
 |gaupol|1.7|1.14.1|app-multimedia||
@@ -691,7 +690,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.3|lang-golang|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
 |gobject-introspection|1.80.0|1.80.1|app-devel||
 |goffice|0.10.48|0.10.57|runtime-productivity||
-|goldendict|1.5.0~rc2|1.5.0|app-i18n||
 |gom|0.4|0.5.1|runtime-database||
 |google-api-python-client|1.7.11|2.131.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
@@ -886,7 +884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|lang-python||
 |jedi|0.18.1|0.19.1|lang-python||
 |jeepney|0.6.0|0.8.0|lang-python||
-|jellyfish|0.6.0|1.0.3|lang-python||
+|jellyfish|0.6.0|1.0.4|lang-python||
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
 |jmespath|0.10.0|1.0.1|lang-python||
@@ -1163,7 +1161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krename-trinity|14.1.0|14.1.2|desktop-trinity||
 |kreversi|23.08.5|24.05.0|desktop-kde||
 |krfb|23.08.5|24.05.0|desktop-kde||
-|kross|5.115.0|6.0.90|desktop-kde||
 |kruler|23.08.5|24.05.0|desktop-kde||
 |krunner|5.115.0|6.0.90|desktop-kde||
 |krusader|2.7.2|2.8.1|desktop-kde||
@@ -2312,7 +2309,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyyaml|5.3.1|6.0.1|lang-python||
 |pyzmq|22.3.0|26.0.3|lang-python||
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
-|qbittorrent|4.6.4|4.6.5|app-web||
 |qca|2.3.4|2.3.8|runtime-cryptography||
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
