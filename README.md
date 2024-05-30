@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717103677?label=Updated)
+![Relative date](https://img.shields.io/date/1717107290?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -326,6 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
 |curl+32|8.6.0|8.8.0|runtime-optenv32||
 |curtsies|0.3.4|0.4.2|lang-python||
+|cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
@@ -692,7 +693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.131.0|lang-python||
 |google-auth|1.6.3|2.29.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|125.0.6422.60|125.0.6422.112|app-web||
+|google-chrome|125.0.6422.60|125.0.6422.141|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -1487,6 +1488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff+32|4.0.10|4.6.0|runtime-optenv32||
 |libtifiles2|1.1.6|1.1.7|runtime-devices||
 |libtirpc|1.3.1|1.3.4|runtime-common||
+|libtommath|1.2.0|1.3.0|runtime-scientific||
 |libtool|2.4.7|2.5.0|app-devel||
 |libtool+32|2.4.6|2.5.0|runtime-optenv32||
 |libtracefs|1.6.4|1.8.0|runtime-admin||
