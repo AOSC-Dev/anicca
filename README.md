@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717107290?label=Updated)
+![Relative date](https://img.shields.io/date/1717110910?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -243,7 +243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|125.0.6422.60|125.0.6422.112|app-web||
+|chromium|125.0.6422.60|125.0.6422.141|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -312,7 +312,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
-|cryfs|0.10.2|0.11.4|app-admin||
 |crypto++|8.2.0|8.9.0|runtime-cryptography||
 |cryptography|40.0.0|42.0.7|lang-python||
 |cryptsetup|2.7.0|2.7.2|app-admin||
@@ -1261,7 +1260,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
 |libbpf|1.2.0|1.4.2|runtime-kernel||
 |libburn|1.5.2|1.5.6|runtime-devices||
-|libbytesize|2.1|2.10|runtime-common||
 |libc+wasi|20|22|runtime-wasi||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
 |libcamera|0.2.0|0.3.0|runtime-devices||
@@ -2048,7 +2046,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-params-util|1.07|1.102|lang-perl||
 |perl-params-validationcompiler|0.30|0.31|lang-perl||
 |perl-path-tiny|0.108|0.146|lang-perl||
-|perl-pod-parser|1.63|1.67|lang-perl||
 |perl-proc-processtable|0.56|0.636|lang-perl||
 |perl-role-tiny|2.001004|2.002004|lang-perl||
 |perl-specio|0.46|0.48|lang-perl||
@@ -2781,7 +2778,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala|0.56.16|0.56.17|app-devel||
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop||
 |valgrind|3.22.0|3.23.0|app-devel||
-|vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia||
 |vapoursynth|57|68|app-multimedia||
 |variety|0.7.1|0.8.12|app-utils||
 |varnish|6.3.2|7.5.0|app-network||
