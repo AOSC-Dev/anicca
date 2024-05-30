@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717071633?label=Updated)
+![Relative date](https://img.shields.io/date/1717074851?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -1781,7 +1781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nginx|1.25.3|1.27.0|app-web||
 |ngspice|35|42|app-electronics||
 |nmap|7.93|7.95|app-network||
-|nodejs|20.13.0|21.7.1|lang-js||
+|nodejs|20.14.0|21.7.1|lang-js||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
 |nomino|1.3.1|1.3.4|app-utils||
@@ -2415,7 +2415,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
-|sbcl|2.4.3|2.4.5|lang-lisp||
 |sbsigntool|0.9.4|0.9.5|app-admin||
 |scandir|1.9.0|1.10.0|lang-python||
 |sccache|0.3.3|0.8.1|app-devel||
@@ -2911,7 +2910,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.4|app-imaging||
 |xwayland|23.2.6|24.1.0|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
-|xz|5.4.1|5.6.2|app-utils||
 |xz+32|5.4.1|5.6.2|runtime-optenv32||
 |yad|0.40.0|13.0|app-utils||
 |yakuake|23.08.5|24.05.0|desktop-kde||
@@ -2951,7 +2949,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
-|zram-generator|1.1.1|1.1.2|app-admin||
 |zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
