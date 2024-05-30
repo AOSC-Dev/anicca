@@ -1,13 +1,13 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717096413?label=Updated)
+![Relative date](https://img.shields.io/date/1717100023?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
-|aardvark-dns|1.9.0|1.10.0|app-admin||
+|aardvark-dns|1.9.0|1.11.0|app-admin||
 |aarty|0.4.9|0.6.1|app-utils||
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common||
@@ -168,6 +168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boinc|7.24.3|8.0/8.0.2|app-scientific||
 |bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.05.0|desktop-kde||
+|boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
@@ -1652,7 +1653,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.05.0|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
 |mccabe|0.6.1|0.7.0|lang-python||
-|mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
 |mdbook|0.4.14|0.4.40|app-doc||
 |mdds|2.0.2|2.1.1|runtime-productivity||
@@ -1724,6 +1724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.2|app-doc||
+|musescore|4.3.0|4.3.1|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
 |mycli|1.23.2|1.27.2|app-database||
@@ -1752,7 +1753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.3.0|lang-python||
-|netavark|1.9.0|1.10.3|runtime-containers||
+|netavark|1.9.0|1.11.0|runtime-containers||
 |netcat|1.219|1.226|app-network||
 |netcdf|4.7.4|4.9.2|runtime-scientific||
 |netctl|1.23|1.25|app-network||
@@ -1795,6 +1796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet||
+|numactl|2.0.14|2.0.18|app-admin||
 |numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
 |nut|2.7.4|2.8.2|app-admin||
@@ -2323,6 +2325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
+|random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common||
 |raptor2|2.0.15|2.0.16|runtime-common||
@@ -2841,6 +2844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi|0.4.3|0.4.6|app-multimedia||
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
+|windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
