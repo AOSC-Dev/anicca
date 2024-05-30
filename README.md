@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717067445?label=Updated)
+![Relative date](https://img.shields.io/date/1717071633?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -70,12 +70,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
+|apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |arandr|0.1.10|0.1.11|app-utils||
 |aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
-|arc-theme|20210412|20221218|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
 |argyllcms|3.1.0|3.2.0|app-imaging||
@@ -333,7 +333,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |damo|1.0.9|2.3.6|app-admin||
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
-|darkhttpd|1.13|1.16|app-web||
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.2|runtime-multimedia||
@@ -543,7 +542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|runtime-desktop||
 |freetype+32|2.12.1|2.13.2|runtime-optenv32||
 |freexl|1.0.5|2.0.0|runtime-gis||
-|frei0r-plugins|2.2.0|2.3.2|runtime-multimedia||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
@@ -773,7 +771,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harvid|0.8.3|0.9.1|app-multimedia||
 |hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
-|hatch-vcs|0.3.0|0.4.0|lang-python||
 |hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
@@ -820,6 +817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-libpinyin|1.12.0|1.15.7|app-i18n||
 |ibus-m17n|1.4.7|1.4.29|app-i18n||
 |ibus-qt|1.3.3|1.3.4|app-i18n||
+|ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
 |icewm|1.8.3|3.5.0|desktop-wm||
@@ -1797,6 +1795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss+32|3.78|3.100|runtime-optenv32||
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
+|nuget|4.9.4|6.6.1.2.bin|lang-dotnet||
 |numactl|2.0.14|2.0.18|app-admin||
 |numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
@@ -2055,7 +2054,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-string-util|1.31|1.34|lang-perl||
 |perl-sub-install|0.928|0.929|lang-perl||
 |perl-sub-quote|2.006006|2.006008|lang-perl||
-|perl-sys-virt|5.8.0|10.2.0|lang-perl||
 |perl-template-toolkit|2.27|3.101|lang-perl||
 |perl-term-progressbar|2.22|2.23|lang-perl||
 |perl-term-readkey|2.37|2.38|lang-perl||
@@ -2197,7 +2195,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|desktop-kde||
 |pv|1.6.20|1.8.9|app-utils||
-|py-filelock|3.0.12|3.14.0|lang-python||
 |py-setproctitle|1.1.10|1.3.3|lang-python||
 |pyaaf2|1.6.0|1.7.1|lang-python||
 |pyacoustid|1.1.7|1.3.0|lang-python||
