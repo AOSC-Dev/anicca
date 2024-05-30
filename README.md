@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717038799?label=Updated)
+![Relative date](https://img.shields.io/date/1717042634?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -597,6 +597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
+|gh|2.49.2|2.50.0|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.0.3_build|app-devel||
@@ -1096,7 +1097,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmousetool|23.08.5|24.05.0|desktop-kde||
 |kmouth|23.08.5|24.05.0|desktop-kde||
 |kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kmplot|23.08.5|24.05.0|desktop-kde||
 |kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
 |kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1539,7 +1539,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|runtime-productivity||
 |libwww-perl|6.33|6.77|lang-perl||
 |libx86|1.1|3.5|runtime-common||
-|libx86emu|3.1|3.5|runtime-common||
 |libxau+32|1.0.9|1.0.11|runtime-optenv32||
 |libxcb|1.16.1|1.17.0|runtime-display||
 |libxcb+32|1.13|1.17.0|runtime-optenv32||
