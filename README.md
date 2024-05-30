@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717030173?label=Updated)
+![Relative date](https://img.shields.io/date/1717034272?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -288,7 +288,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configargparse|1.3|1.7|lang-python||
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
-|configshell-fb|1.1.28|1.1.30|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
 |conky|1.10.8|1.21.1|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
@@ -419,7 +418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
 |dpdk|22.11.1|24.03|runtime-network||
-|dracut|059|101|app-admin||
+|dracut|059|102|app-admin||
 |dragon|23.08.5|24.05.0|desktop-kde||
 |drkonqi|5.27.11|6.0.5|desktop-kde||
 |dropbox|148.4.4519|200.4.7134|app-web||
@@ -743,7 +742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gti|1.6.1|1.9.1|app-vcs||
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32||
 |gtk-4|4.14.1|4.14.4|desktop-gnome||
-|gtk-doc|1.33.2|1.34.0|app-doc||
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|runtime-desktop||
 |gtk-qt-engine|14.1.0|14.1.2|desktop-trinity||
@@ -786,7 +784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
-|highlight|4.2|4.10|app-devel||
 |highway|1.0.2|1.1.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
@@ -1528,6 +1525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
 |libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.0|runtime-multimedia||
+|libvpx+32|1.9.0|1.14.0|runtime-optenv32||
 |libwacom|2.4.0|2.11.0|runtime-devices||
 |libwebp|1.3.1|1.4.0|runtime-imaging||
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32||
@@ -1542,10 +1540,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libx86|1.1|3.5|runtime-common||
 |libx86emu|3.1|3.5|runtime-common||
 |libxau+32|1.0.9|1.0.11|runtime-optenv32||
-|libxaw3d|1.6.3|1.6.6|runtime-display||
 |libxcb|1.16.1|1.17.0|runtime-display||
 |libxcb+32|1.13|1.17.0|runtime-optenv32||
-|libxdg-basedir|1.2.0|1.2.3|runtime-desktop||
 |libxdmcp|1.1.4|1.1.5|runtime-display||
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
@@ -1607,6 +1603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lsof|4.98.0|4.99.3|app-utils||
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|runtime-common||
+|lua-expat|1.4.1|1.5.1|lang-lua||
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
