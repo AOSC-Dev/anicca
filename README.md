@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717060552?label=Updated)
+![Relative date](https://img.shields.io/date/1717064004?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -2331,6 +2331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
+|rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common||
 |raptor2|2.0.15|2.0.16|runtime-common||
 |rarian|0.8.1|0.8.5|app-doc||
@@ -2419,7 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
-|sbcl|2.4.3|2.4.4|lang-lisp||
+|sbcl|2.4.3|2.4.5|lang-lisp||
 |sbsigntool|0.9.4|0.9.5|app-admin||
 |scandir|1.9.0|1.10.0|lang-python||
 |sccache|0.3.3|0.8.1|app-devel||
