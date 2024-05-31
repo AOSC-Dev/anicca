@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717168372?label=Updated)
+![Relative date](https://img.shields.io/date/1717172056?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -159,6 +159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.05.0|desktop-kde||
 |blinker|1.4|1.8.2|lang-python||
 |bluedevil|5.27.11|6.0.5|desktop-kde||
+|blueman|2.4.1|2.4.2|app-utils||
 |bluez|5.75|5.76|app-devices||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
@@ -189,7 +190,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bup|0.30|0.33.3|app-utils||
 |byobu|5.133|6.12|app-utils||
 |c-ares|1.28.1|1.29.0|runtime-network||
-|c-blosc|1.21.3|1.21.5|runtime-common||
 |cabextract|1.9|1.11|app-utils||
 |cachecontrol|0.12.6|0.14.0|lang-python||
 |cachetools|3.1.0|5.3.3|lang-python||
@@ -497,7 +497,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |fio|3.35|3.37|app-utils||
 |firefox|126.0|126.0.1|app-web||
-|firehol|3.1.6|3.1.7|app-network||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -2407,7 +2406,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
 |sbsigntool|0.9.4|0.9.5|app-admin||
-|scandir|1.9.0|1.10.0|lang-python||
 |sccache|0.3.3|0.8.1|app-devel||
 |scdoc|1.11.2|1.11.3|app-doc||
 |schema|0.7.5|0.7.7|lang-python||
@@ -2443,7 +2441,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadowsocks-rust|1.18.4|1.19.0|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
-|shellingham|1.3.1|1.5.4|lang-python||
 |shotcut|21.08.11|24.04.28|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
