@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717175447?label=Updated)
+![Relative date](https://img.shields.io/date/1717179328?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -285,7 +285,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
-|conky|1.10.8|1.21.1|app-utils||
+|conky|1.10.8|1.21.2|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
@@ -2276,7 +2276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.1|lang-python||
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python||
 |pythondialog|3.3.0|3.5.3|lang-python||
-|pytools|2019.1|2024.1.3|lang-python||
+|pytools|2019.1|2024.1.4|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
 |pyutil|3.3.0|3.3.6|lang-python||
