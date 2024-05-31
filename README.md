@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717139514?label=Updated)
+![Relative date](https://img.shields.io/date/1717143319?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -142,7 +142,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |balz|1.20|9.86|app-utils||
 |bandwhich|0.20.0|0.22.2|app-network||
 |baobab|42.0|46.0|desktop-gnome||
-|bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
 |bcachefs-tools|1.6.4|1.7.0|app-admin||
 |bcftools|1.10.2|1.20|app-scientific||
@@ -1304,7 +1303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|runtime-network||
 |libetebase|0.5.4|0.5.6|runtime-cryptography||
 |libetonyek|0.1.9|0.1.10|runtime-productivity||
-|libevdev|1.11.0|1.13.1|runtime-devices||
+|libevdev|1.11.0|1.13.2|runtime-devices||
 |libexif|0.6.22|0.6.24|runtime-imaging||
 |libexif+32|0.6.22|0.6.24|runtime-optenv32||
 |libfdk-aac|2.0.1|2.0.3|runtime-multimedia||
@@ -1349,7 +1348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|runtime-network||
 |libisoburn|1.5.2|1.5.6|runtime-devices||
-|libisofs|1.5.2|1.5.6.pl01|runtime-common||
 |libjcat|0.1.8|0.2.1|runtime-common||
 |libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
 |libjxl|0.7.0|0.10.2|runtime-imaging||
@@ -1420,6 +1418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|runtime-imaging||
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32||
 |libpeas|1.32.0|2.0.2|desktop-gnome||
+|libphonenumber|8.12.17|8.13.37|runtime-i18n||
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
@@ -2658,7 +2657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tepl|6.0.2|6.9.0|runtime-editors||
 |termcolor|1.1.0|2.4.0|lang-python||
 |terminaltables|3.1.0|3.1.10|lang-python||
-|terminator|2.1.1|2.1.3|desktop-gnome||
+|terminator|2.1.1|2.1.4|desktop-gnome||
 |tesseract|5.3.4|5.2.1|app-utils|Possible downgrade from the current version (5.3.4 -> 5.2.1)|
 |testdisk|7.0|7.2|app-utils||
 |tevent|0.13.0|0.16.1|runtime-common||
@@ -2771,7 +2770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2raya|2.2.5.1|2.2.5|app-network|Possible downgrade from the current version (2.2.5.1 -> 2.2.5)|
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
-|v4l2loopback|0.12.5|0.13.2|app-utils||
 |vala|0.56.16|0.56.17|app-devel||
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop||
 |valgrind|3.22.0|3.23.0|app-devel||
@@ -2894,7 +2892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|runtime-common||
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
-|xpra|5.0.8|6.0|app-network||
+|xpra|5.0.8|6.0.1|app-network||
 |xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
 |xreader|3.8.5|4.0.2|app-doc||
