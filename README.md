@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717129001?label=Updated)
+![Relative date](https://img.shields.io/date/1717132613?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -10,7 +10,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|app-admin||
 |aarty|0.4.9|0.6.1|app-utils||
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity||
-|abseil-cpp|20220623.1|20240116.2|runtime-common||
 |abyss|2.1.5|2.3.7|app-scientific||
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
@@ -134,7 +133,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babel|2.9.1|2.15.0|lang-python||
 |babeld|1.9.2|1.13.1|app-network||
 |babeltrace|1.5.7|1.5.11|app-devel||
-|babl|0.1.108|0_1_108|runtime-imaging||
 |backcall|0.1.0|0.2.0|lang-python||
 |backports|0|1.1|lang-python||
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
@@ -150,7 +148,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|2.3.6|app-productivity||
-|bear|3.1.3|3.1.4|app-devel||
 |beautifulsoup4|4.10.0|4.12.3|lang-python||
 |benchmark|1.8.2|1.8.4|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -715,7 +712,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome||
 |gringo|5.4.1|5.7.1|app-devel||
 |groff|1.22.4|1.23.0|app-utils||
-|grpc|1.46.2|1.64.0|app-network||
 |grsync|1.2.8|1.3.1|app-network||
 |grub|2.12<br>+unifont15.1.04|2.12|app-admin|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|app-admin||
@@ -1834,7 +1830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32||
 |opencryptoki|3.21.0|3.23.0|runtime-cryptography||
 |opencsg|1.5.1|1.6.0|runtime-imaging||
-|opencv|4.7.0|4.9.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.0|app-network||
 |openh264|2.4.0<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.0+gmp114+2'|
@@ -2178,8 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|runtime-multimedia||
 |prompt-toolkit|2.0.8|3.0.45|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
-|protobuf|3.15.6|27.0|runtime-common||
-|protobuf-c|1.3.3|1.5.0|runtime-common||
+|protobuf|25.2|27.0|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils||
 |pstate-frequency|3.11.0|3.15.1|app-admin||
@@ -2339,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
 |rdma-core|51.0|52.0|app-admin||
-|re2|20190901|2024-05-01|runtime-common|Possible downgrade from the current version (20190901 -> 2024-05-01)|
+|re2|20240501|2024-05-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-05-01)|
 |re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
@@ -2509,7 +2503,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch|2.3.3|2.3.1|app-multimedia|Possible downgrade from the current version (2.3.3 -> 2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|runtime-optenv32||
 |soupsieve|1.8.0|2.5|lang-python||
-|sozu|0.15.2|1.0.0|app-web||
+|sozu|0.15.2|1.0.1|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
 |spectacle|22.12.3|24.05.0|desktop-kde||
