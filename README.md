@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717122668?label=Updated)
+![Relative date](https://img.shields.io/date/1717125265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.05|24.06|app-utils||
@@ -196,7 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|app-utils||
 |cachecontrol|0.12.6|0.14.0|lang-python||
 |cachetools|3.1.0|5.3.3|lang-python||
-|caddy|2.7.6|2.8.0|app-web||
+|caddy|2.7.6|2.8.1|app-web||
 |cairo|1.17.6|1.18.0|runtime-imaging||
 |cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
@@ -1002,6 +1002,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdpkg-trinity|14.1.0|14.1.2|desktop-trinity||
 |kdsoap|1.9.0|2.2.0|runtime-network||
 |keditbookmarks|23.08.5|24.05.0|desktop-kde||
+|keep-trinity|14.1.0|14.1.2|desktop-trinity||
 |keepass|2.46|2.56|app-utils||
 |keepass-plugin-agent|0.10.1|0.13.8|app-utils||
 |keepass-plugin-favicon|1.9.0|9.7.4|app-utils||
@@ -1023,6 +1024,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgoldrunner|23.08.5|24.05.0|desktop-kde||
 |kgpg|23.08.5|24.05.0|desktop-kde||
 |kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
+|kguiaddons|5.115.0|6.0.90|desktop-kde||
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
 |khelpcenter|23.08.5|24.05.0|desktop-kde||
@@ -1762,6 +1764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netpbm|10.73.34|11.06.03|app-utils||
 |netsurf-buildsystem|1.9|1.10|app-devel||
 |nettle|3.7.2|3.9.1|runtime-cryptography||
+|nettle+32|3.7.2|3.9.1|runtime-optenv32||
 |networkmanager|1.40.6|1.46.0|app-network||
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
@@ -2306,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.9|app-web||
+|qownnotes|22.6.1|24.5.10|app-web||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
@@ -2335,8 +2338,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
+|rdma-core|51.0|52.0|app-admin||
 |re2|20190901|2024-05-01|runtime-common|Possible downgrade from the current version (20190901 -> 2024-05-01)|
 |re2c|1.3|3.1|runtime-common||
+|readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
 |recode+32|3.6|3.7.14|runtime-optenv32||
@@ -2886,6 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xfce4-screenshooter|1.10.5|1.10.6|desktop-xfce||
 |xfsprogs|6.7.0|6.8.0|app-admin||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
