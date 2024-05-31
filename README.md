@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717189940?label=Updated)
+![Relative date](https://img.shields.io/date/1717193491?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -475,8 +475,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
+|fcitx5|5.1.9|5.1.10|groups||
+|fcitx5-chewing|5.1.3|5.1.4|app-i18n||
+|fcitx5-chinese-addons|5.1.5|5.1.6|app-i18n||
+|fcitx5-configtool|5.1.5|5.1.6|app-i18n||
+|fcitx5-hangul|5.1.3|5.1.4|app-i18n||
+|fcitx5-kkc|5.1.3|5.1.4|app-i18n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
+|fcitx5-rime|5.1.6|5.1.7|app-i18n||
+|fcitx5-skk|5.1.3|5.1.4|app-i18n||
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
 |feeluown|4.1.1|4.1.4|app-multimedia||
@@ -519,7 +527,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|app-utils||
 |fontconfig|2.14.0|2.15.0|runtime-desktop||
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
-|fonttools|4.47.2|4.52.4|desktop-fonts||
+|fonttools|4.47.2|4.53.0|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
 |fortune-mod|3.6.1|3.20.0|app-games||
 |fping|5.1|5.2|app-network||
@@ -538,6 +546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|runtime-gis||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
+|frp|0.58.0|0.58.1|app-network||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin||
 |fuse-python|0.3.1|1.0.7|lang-python||
@@ -600,6 +609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.14.4|1.32.0|app-imaging||
 |gimp|2.10.36|2_10_38|app-creativity||
 |girara|0.4.4|0.4.3|runtime-desktop|Possible downgrade from the current version (0.4.4 -> 0.4.3)|
+|git|2.45.1|2.45.2|app-vcs||
 |git-archive-all|1.20.0|1.23.1|app-vcs||
 |git-branchless|0.7.1|0.9.0|app-utils||
 |git-lfs|3.5.0|3.5.1|app-devel||
