@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717153898?label=Updated)
+![Relative date](https://img.shields.io/date/1717158027?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -572,7 +572,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-arm64|12.1|14.2|app-devel||
 |gdb+cross-mips64r6el|12.1|14.2|app-devel||
 |gdbm+32|1.11|1.23|runtime-optenv32||
-|gdk-pixbuf|2.42.8|2.42.12|runtime-imaging||
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
 |gdm|42.0|46.2|desktop-gnome||
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
@@ -2924,7 +2923,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.13|lang-ocaml||
 |zbar|0.23.90|0.23.93|app-utils||
 |zeal|0.7.0|0.7.1|app-doc||
-|zeitgeist|1.0.3|1.0.4|app-admin||
 |zenity|3.42.1|4.0.1|desktop-gnome||
 |zeroconf|0.28.6|0.132.2|lang-python||
 |zeromq|4.3.4|4.3.5|runtime-common||
