@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717182702?label=Updated)
+![Relative date](https://img.shields.io/date/1717186445?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -171,7 +171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.116|lang-python||
+|boto3|1.20.26|1.34.117|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -627,7 +627,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|desktop-gnome||
 |gnome-applets|3.44.0|3.52.0|desktop-gnome||
 |gnome-autoar|0.4.3|0.4.4|desktop-gnome||
-|gnome-backgrounds|42.0|46.0|desktop-gnome||
 |gnome-bluetooth|42.2|46.0|desktop-gnome||
 |gnome-boxes|42.3|46.1|desktop-gnome||
 |gnome-builder|42.1|46.2|desktop-gnome||
@@ -1290,7 +1289,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdwarf|20210305|0.9.2|runtime-common|Possible downgrade from the current version (20210305 -> 0.9.2)|
 |libe-book|0.1.2|0.1.3|runtime-doc||
 |libebml|1.4.0|1.4.5|runtime-multimedia||
-|libeconf|0.5.0|0.6.3|runtime-common||
 |libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
 |libepubgen|0.1.0|0.1.1|runtime-doc||
@@ -1623,7 +1621,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.2|app-utils||
 |mangohud+32|0.7.0|0.7.2|runtime-optenv32||
-|marble|23.08.5|24.05.0|desktop-kde||
 |mariadb|10.9.4|11.5.1|app-database||
 |markdown|3.3.4|3.6|lang-python||
 |markdownpart|23.08.5|24.05.0|desktop-kde||
@@ -1981,7 +1978,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gd|2.71|2.82|lang-perl||
 |perl-glib|1.329|1.3294|lang-perl||
 |perl-glib-object-introspection|0.047|0.051|lang-perl||
-|perl-gnome2|1.047|1.048|lang-perl||
 |perl-gnome2-canvas|1.002|1.006|lang-perl||
 |perl-gnome2-vfs|1.083|1.084|lang-perl||
 |perl-gnome2-wnck|0.16|0.18|lang-perl||
@@ -2092,7 +2088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
-|pkginfo|1.5.0.1|1.10.0|lang-python||
+|pkginfo|1.5.0.1|1.11.0|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|desktop-kde||
@@ -2505,7 +2501,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|runtime-optenv32||
 |spglib|1.16.2|2.4.0|runtime-scientific||
 |sphinx|7.0.1|7.3.7|app-doc||
-|sphinx-press-theme|0.8.0|0.9.1|app-doc||
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
 |sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
