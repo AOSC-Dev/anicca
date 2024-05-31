@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717193491?label=Updated)
+![Relative date](https://img.shields.io/date/1717197236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -838,7 +838,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imapsync|1.977|2.229|app-network||
 |imath|3.1.5|3.1.11|runtime-display||
 |img2pdf|0.4.0|0.5.1|app-doc||
-|imlib2|1.5.1|1.12.2|runtime-imaging||
 |imlib2+32|1.4.8|1.12.2|runtime-optenv32||
 |imwheel|1.0.0pre12|0.9.9|app-utils|Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.05.0|desktop-kde||
@@ -2029,7 +2028,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
 |perl-module-find|0.13|0.16|lang-perl||
-|perl-module-scandeps|1.27|1.35|lang-perl||
 |perl-moo|2.005004|2.005005|lang-perl||
 |perl-mozilla-ca|20180117|20240313|lang-perl||
 |perl-mro-compat|0.13|0.15|lang-perl||
