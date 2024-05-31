@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717179328?label=Updated)
+![Relative date](https://img.shields.io/date/1717182702?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1588,7 +1588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
-|luarocks|3.5.0|3.11.0|lang-lua||
+|luarocks|3.5.0|3.11.1|lang-lua||
 |lucene++|3.0.8|3.0.9|runtime-common||
 |lunzip|1.10|1.14|app-utils||
 |lutris|0.5.11|0.5.17|app-games||
