@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717258481?label=Updated)
+![Relative date](https://img.shields.io/date/1717261865?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -349,7 +349,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.2.0|0.2.1|app-admin||
 |deploykit-gui|0.3.0|test-ci|app-admin|Versions not comparable: `0.3.0` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -1426,6 +1425,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
+|libpng|1.6.42|1.6.43|runtime-imaging||
 |libpng+32|1.2.57|1.6.43|runtime-optenv32||
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
@@ -2450,7 +2450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
-|shadowsocks-rust|1.18.4|1.19.0|app-network||
+|shadowsocks-rust|1.18.4|1.19.2|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.04.28|app-creativity||
