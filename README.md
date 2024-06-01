@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717207293?label=Updated)
+![Relative date](https://img.shields.io/date/1717209381?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -784,7 +784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
-|highway|1.0.2|1.1.0|runtime-common||
+|highway|1.0.2|1.2.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
@@ -800,8 +800,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
+|hugo|0.126.1|0.126.2|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
+|hwdata|0.382|0.383|runtime-data||
 |hyper-h11|0.12.0|0.14.0|lang-python||
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
@@ -852,6 +854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
 |intel-media-driver|24.1.5|24.2.4|runtime-multimedia||
+|intel-ucode|20240514|20240531|runtime-data||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.1.1|desktop-fonts||
@@ -865,7 +868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.10|app-network||
 |iptraf-ng|1.1.4|1.2.1|app-network||
 |ipy|0.83|1.01|lang-python||
-|ipython|7.28.0|8.24.0|lang-python||
+|ipython|7.28.0|8.25.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |iso-codes|4.4|4.16.0|runtime-data||
 |isomd5sum|1.2.3|1.2.4|app-utils||
