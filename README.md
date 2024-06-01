@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717233211?label=Updated)
+![Relative date](https://img.shields.io/date/1717237008?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
