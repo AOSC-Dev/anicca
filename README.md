@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717244361?label=Updated)
+![Relative date](https://img.shields.io/date/1717247595?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1178,7 +1178,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksirk|23.08.5|24.05.0|desktop-kde||
 |ksmtp|23.08.5|24.05.0|desktop-kde||
 |ksnakeduel|23.08.5|24.05.0|desktop-kde||
-|kspaceduel|23.08.5|24.05.0|desktop-kde||
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksquares|23.08.5|24.05.0|desktop-kde||
 |ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1925,7 +1924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5854|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5858|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2848,6 +2847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
+|wireplumber|0.5.2|0.5.3|app-multimedia||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts||
