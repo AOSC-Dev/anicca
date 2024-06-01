@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717265692?label=Updated)
+![Relative date](https://img.shields.io/date/1717269130?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1291,7 +1291,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
 |libdmapsharing|2.9.41|3_9_13|runtime-multimedia||
 |libdnet|1.12|1.18.0|runtime-network||
-|libdrm+32|2.4.113|2.4.120|runtime-optenv32||
+|libdrm|2.4.120|2.4.121|runtime-display||
+|libdrm+32|2.4.113|2.4.121|runtime-optenv32||
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32||
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32||
 |libdvdread|6.1.1|6.1.3|runtime-multimedia||
@@ -2732,7 +2733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc||
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
-|typing-extensions|4.7.1|4.12.0a2|lang-python||
+|typing-extensions|4.7.1|4.12.1|lang-python||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
