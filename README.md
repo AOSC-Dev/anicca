@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717254700?label=Updated)
+![Relative date](https://img.shields.io/date/1717258481?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -349,7 +349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.2.0|0.1.0|app-admin|Possible downgrade from the current version (0.2.0 -> 0.1.0)|
+|deploykit-backend|0.2.0|0.2.1|app-admin||
 |deploykit-gui|0.3.0|test-ci|app-admin|Versions not comparable: `0.3.0` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -1426,7 +1426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
-|libpng|1.6.42|1.6.43|runtime-imaging||
 |libpng+32|1.2.57|1.6.43|runtime-optenv32||
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
@@ -2340,7 +2339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
 |rdma-core|51.0|52.0|app-admin||
-|re2|20240501|2024-05-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-05-01)|
+|re2|20240501|2024-06-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-06-01)|
 |re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
@@ -2352,7 +2351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.5.15|lang-python||
 |reiser4progs|1.2.2|1.2.2.|app-admin||
 |remmina|1.4.31|1.4.35|app-network||
-|renderdoc|1.16|1.32|app-devel||
+|renderdoc|1.16|1.33|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
 |requests|2.32.2|2.32.3|lang-python||
