@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717197236?label=Updated)
+![Relative date](https://img.shields.io/date/1717203137?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -702,7 +702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpsd|3.18.1|3.25|app-scientific||
 |gpsim|0.31.0|0.32.1|app-electronics||
 |gptfdisk|1.0.9|1.0.10|app-admin||
-|gradle|8.3|8.7.0|lang-java||
+|gradle|8.3|8.8.0|lang-java||
 |granatier|23.08.5|24.05.0|desktop-kde||
 |grantlee-editor|23.08.5|24.05.0|desktop-kde||
 |grantleetheme|23.08.5|24.05.0|desktop-kde||
@@ -717,6 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome||
 |gringo|5.4.1|5.7.1|app-devel||
 |groff|1.22.4|1.23.0|app-utils||
+|grpc|1.64.0|1.64.1|app-network||
 |grsync|1.2.8|1.3.1|app-network||
 |grub|2.12<br>+unifont15.1.04|2.12|app-admin|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|app-admin||
@@ -838,6 +839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imapsync|1.977|2.229|app-network||
 |imath|3.1.5|3.1.11|runtime-display||
 |img2pdf|0.4.0|0.5.1|app-doc||
+|imlib2|1.5.1|1.12.2|runtime-imaging||
 |imlib2+32|1.4.8|1.12.2|runtime-optenv32||
 |imwheel|1.0.0pre12|0.9.9|app-utils|Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.05.0|desktop-kde||
@@ -1566,7 +1568,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel|6.9.2|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.2 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -1609,8 +1610,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
-|lynx|2.9.0|2.9.1|app-web||
-|lyx|2.3.7|2.3.8|app-doc||
+|lynx|2.9.0|2.9.2|app-web||
+|lyx|2.3.7|2.4.0|app-doc||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
 |lziprecover|1.21|1.24|app-utils||
@@ -1678,6 +1679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|runtime-data||
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|app-games|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.2|12.0.0|runtime-optenvw64||
+|mini-portile|2.8.6|2.8.7|lang-ruby||
 |minicom|2.8|2.9|app-utils||
 |miniserve|0.26.0|0.27.1|app-web||
 |miniupnpc|2.1|2.2.7|app-network||
@@ -2028,6 +2030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
 |perl-module-find|0.13|0.16|lang-perl||
+|perl-module-scandeps|1.27|1.35|lang-perl||
 |perl-moo|2.005004|2.005005|lang-perl||
 |perl-mozilla-ca|20180117|20240313|lang-perl||
 |perl-mro-compat|0.13|0.15|lang-perl||
