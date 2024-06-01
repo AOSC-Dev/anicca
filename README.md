@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717251262?label=Updated)
+![Relative date](https://img.shields.io/date/1717254700?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -769,7 +769,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
 |haruna|0.12.3|1.1.1|desktop-kde||
 |harvid|0.8.3|0.9.1|app-multimedia||
-|hashcat|6.2.6|24.4.28|app-penetration||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |haveged|1.9.13|1.9.18|app-utils||
@@ -819,6 +818,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-m17n|1.4.7|1.4.29|app-i18n||
 |ibus-qt|1.3.3|1.3.4|app-i18n||
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
+|ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
 |icewm|1.8.3|3.5.0|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
@@ -1170,6 +1170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kscreenlocker|5.27.11|6.0.5|desktop-kde||
 |ksensors-trinity|14.1.0|14.1.2|desktop-trinity||
 |kservice|5.115.0|6.0.90|desktop-kde||
+|ksh93|2020.0.0<br>+20200208|1.0.8|app-shells|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208 -> 1.0.8)|
 |kshisen|23.08.5|24.05.0|desktop-kde||
 |kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
 |kshutdown-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1355,6 +1356,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjcat|0.1.8|0.2.1|runtime-common||
 |libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
 |libkcddb|23.08.5|24.05.0|desktop-kde||
+|libkcompactdisc|23.08.5|24.05.0|desktop-kde||
 |libkdcraw|23.08.5|24.05.0|desktop-kde||
 |libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkdegames|23.08.5|24.05.0|desktop-kde||
@@ -2308,7 +2310,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.5.10|app-web||
+|qownnotes|22.6.1|24.6.0|app-web||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
@@ -2366,6 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|runtime-common||
 |rng-tools|6.7|6.17|app-utils||
+|robin-hood-hashing|3.11.4|3.11.5|runtime-common||
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
 |rocm-cmake|6.0.2|6.1.1|runtime-rocm||
