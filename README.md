@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717215246?label=Updated)
+![Relative date](https://img.shields.io/date/1717218802?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -673,7 +673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome||
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome||
 |gnome-tour|42.0|46.0|desktop-gnome||
-|gnome-usage|3.38.1|46.0|desktop-gnome||
 |gnome-user-docs|42.0|46.1|desktop-gnome||
 |gnome-user-share|3.34.0|43.0|desktop-gnome||
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome||
@@ -1516,8 +1515,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvncserver|0.9.13|0.9.14|runtime-network||
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
 |libvpl|2.11.0|2023.4.0|runtime-multimedia||
-|libvpx|1.10.0|1.14.0|runtime-multimedia||
-|libvpx+32|1.9.0|1.14.0|runtime-optenv32||
+|libvpx|1.10.0|1.14.1|runtime-multimedia||
+|libvpx+32|1.9.0|1.14.1|runtime-optenv32||
 |libwacom|2.4.0|2.11.0|runtime-devices||
 |libwebp|1.3.1|1.4.0|runtime-imaging||
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32||
@@ -2206,7 +2205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pybind11|2.11.1|2.12.0|lang-python||
 |pycairo|1.18.2|1.26.0|lang-python||
 |pycodestyle|2.7.0|2.11.1|lang-python||
-|pycountry|18.12.8|23.12.11|lang-python||
+|pycountry|18.12.8|24.6.1|lang-python||
 |pycparser|2.19|2.22|lang-python||
 |pycryptodome|3.7.3|3.20.0|lang-python||
 |pycryptodomex|3.9.9|3.20.0|lang-python||
