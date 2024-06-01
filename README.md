@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717240367?label=Updated)
+![Relative date](https://img.shields.io/date/1717244361?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -737,6 +737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.4|runtime-optenv32||
 |gstreamer|1.24.3|1.24.4|runtime-multimedia||
 |gstreamer-1-0+32|1.16.2|1.24.4|runtime-optenv32||
+|gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32||
 |gtk-4|4.14.1|4.14.4|desktop-gnome||
