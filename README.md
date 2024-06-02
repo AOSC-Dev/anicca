@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717341101?label=Updated)
+![Relative date](https://img.shields.io/date/1717344847?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -348,7 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.3.0|test-ci|app-admin|Versions not comparable: `0.3.0` and `test-ci`|
+|deploykit-gui|0.3.1|test-ci|app-admin|Versions not comparable: `0.3.1` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -615,6 +615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|desktop-gnome||
 |gitoxide|0.35.0|0.36.0|app-vcs||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
+|gitui|0.26.2|0.26.3|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
 |glances|4.0.5|4.0.7|app-admin||
@@ -1580,6 +1581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmdb|0.9.28|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
+|logrotate|3.21.0|3.22.0|app-admin||
 |loguru|0.5.3|0.7.2|lang-python||
 |lokalize|23.08.5|24.05.0|desktop-kde||
 |loudmouth|1.5.3|1.5.4|runtime-web||
