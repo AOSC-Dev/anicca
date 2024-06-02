@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717359215?label=Updated)
+![Relative date](https://img.shields.io/date/1717362734?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -218,7 +218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
 |ccache|4.9.1|4.10|app-devel||
-|ccid|1.5.1|1.5.5|runtime-devices||
+|ccid|1.5.1|1.6.0|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
 |cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
@@ -275,6 +275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |collectl|4.3.1|4.3.8|app-utils||
 |colorama|0.4.3|0.4.6|lang-python||
 |colord-gtk|0.3.0|0.3.1|desktop-gnome||
+|colord-kde|23.08.5|24.05.0|desktop-kde||
 |colordiff|1.0.20|1.0.21|app-utils||
 |coloredlogs|10.0|15.0.1|lang-python||
 |composer|2.0.13|2.7.6|app-devel||
@@ -1927,7 +1928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5858|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5862|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2387,6 +2388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpm|4.18.0|4.19.1.1-release|app-admin||
 |rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
+|rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
 |rtaudio|5.1.0|6.0.1|runtime-multimedia||
 |rtmidi|4.0.0|6.0.0|runtime-multimedia||
@@ -2863,7 +2865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto|2023.2|2024.1|runtime-display||
 |x11-proto+32|2019.2|2024.1|runtime-optenv32||
 |x264|0<br>+git20240305|3191|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
-|x264+32|20160827.2245|3191|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3191)|
 |x265+32|2.2|3.6|runtime-optenv32||
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
@@ -2920,6 +2921,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
 |yara|4.5.0|4.5.1|app-utils||
 |yard|0.9.26|0.9.36|app-doc||
+|yarl|1.6.3|1.9.4|lang-python||
 |yaspin|1.2.0|3.0.2|lang-python||
 |yelp|42.1|42.2|desktop-gnome||
 |yelp-tools|42.0|42.1|desktop-gnome||
