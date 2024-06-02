@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717352166?label=Updated)
+![Relative date](https://img.shields.io/date/1717355463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -414,6 +414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dragon|23.08.5|24.05.0|desktop-kde||
 |drkonqi|5.27.11|6.0.5|desktop-kde||
 |dropbox|148.4.4519|200.4.7134|app-web||
+|drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||
@@ -2017,7 +2018,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl||
 |perl-ipc-system-simple|1.25|1.30|lang-perl||
-|perl-javascript-minifier-xs|0.11|0.15|lang-perl||
 |perl-json|2.90|4.10|lang-perl||
 |perl-json-parse|0.57|0.43|lang-perl|Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compound version number '4.0+00'|
@@ -2561,7 +2561,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |step|23.08.5|24.05.0|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
-|stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|app-admin||
 |strace|6.5|6.9|app-devel||
