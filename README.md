@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717348268?label=Updated)
+![Relative date](https://img.shields.io/date/1717352166?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -414,7 +414,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dragon|23.08.5|24.05.0|desktop-kde||
 |drkonqi|5.27.11|6.0.5|desktop-kde||
 |dropbox|148.4.4519|200.4.7134|app-web||
-|drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||

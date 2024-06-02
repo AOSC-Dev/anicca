@@ -184,7 +184,6 @@
 ["musescore","4.3.0","4.3.1","app-creativity",1716197599,[]],
 ["gimp","2.10.36","2_10_38","app-creativity",1710250223,[]],
 ["audacity","3.4.2","3.5.1","app-creativity",1706855338,[]],
-["drumstick","2.0.0","2.9.0","app-creativity",1612570751,[]],
 ["lmms","1.2.2+git20240508","1.2.2","app-creativity",1715211048,["Compound version number '1.2.2+git20240508'","Version number indicates a snapshot (+git) is used"]],
 ["vmpk","0.8.0","0.9.0","app-creativity",1612570751,[]],
 ["blender","4.0.2","4.1.1","app-creativity",1710216829,[]],
