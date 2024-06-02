@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717295698?label=Updated)
+![Relative date](https://img.shields.io/date/1717298122?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1503,7 +1503,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb+32|1.0.23|1.0.27|runtime-optenv32||
 |libusb-compat|0.1.5|0.1.8|runtime-devices||
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
-|libusbmuxd|2.0.2|2.1.0|runtime-devices||
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
