@@ -731,6 +731,7 @@
 ["ghostscript+32","9.27","10.03.1","runtime-optenv32",1600624175,[]],
 ["libusb+32","1.0.23","1.0.27","runtime-optenv32",1535775892,[]],
 ["libwebp+32","0.4.3","1.4.0","runtime-optenv32",1461475710,[]],
+["x264+32","20160827.2245","3191","runtime-optenv32",1461512413,["Possible downgrade from the current version (20160827.2245 -> 3191)"]],
 ["libxslt+32","1.1.34","1.1.39","runtime-optenv32",1577437381,[]],
 ["linux+api+32","6.7.12","5.19.17","runtime-optenv32",1716037929,["Possible downgrade from the current version (6.7.12 -> 5.19.17)"]],
 ["x265+32","2.2","3.6","runtime-optenv32",1461477048,[]],
