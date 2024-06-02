@@ -1524,7 +1524,7 @@
 ["cinnamon-settings-daemon","5.8.1","6.0.0","desktop-cinnamon",1688952990,[]],
 ["nemo","5.8.3","6.0.2","desktop-cinnamon",1716298204,[]],
 ["cinnamon-control-center","5.8.1","6.0.1","desktop-cinnamon",1688952990,[]],
-["proj","9.2.1","9.4.0","app-gis",1703753294,[]],
+["proj","9.2.1","9.4.1","app-gis",1703753294,[]],
 ["aspell","0.60.8","0.60.8.1","app-i18n",1577968559,[]],
 ["translate-shell","0.9.7","0.9.7.1","app-i18n",1678601017,[]],
 ["ibus","1.5.25","1.5.30","app-i18n",1633153813,[]],
