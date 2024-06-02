@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717316077?label=Updated)
+![Relative date](https://img.shields.io/date/1717319593?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -80,6 +80,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arianna|23.08.5|24.05.0|desktop-kde||
 |ark|23.08.5|24.05.0|desktop-kde||
 |arpack-ng|3.8.0|3.9.1|app-scientific||
+|arpwatch|2.1a15|3.6|app-network||
 |arrow|1.0.3|1.3.0|lang-python||
 |artikulate|23.08.5|24.05.0|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
@@ -573,6 +574,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia||
 |gcr|3.41.1|4.3.0|desktop-gnome||
 |gdal|3.8.4|3.9.0|runtime-gis||
+|gdb+cross-amd64|8.2|14.2|app-devel||
 |gdb+cross-arm64|12.1|14.2|app-devel||
 |gdb+cross-mips64r6el|12.1|14.2|app-devel||
 |gdbm+32|1.11|1.23|runtime-optenv32||
@@ -1579,6 +1581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
 |loguru|0.5.3|0.7.2|lang-python||
+|lokalize|23.08.5|24.05.0|desktop-kde||
 |loudmouth|1.5.3|1.5.4|runtime-web||
 |lowdown|1.1.0|1_1_0|app-doc||
 |lpaq|8|9m|app-utils||
@@ -2419,6 +2422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sccache|0.3.3|0.8.1|app-devel||
 |scdoc|1.11.2|1.11.3|app-doc||
 |schema|0.7.5|0.7.7|lang-python||
+|scons|4.4.0|4.7.0|app-devel||
 |scour|0.37|0.38.2|app-utils||
 |screen|4.9.0|4.9.1|app-utils||
 |scummvm|2.2.0|2.8.1|app-games||
@@ -2461,6 +2465,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simgear|2020.3.13|2020.3.19|runtime-games||
 |simh|3.11<br>+1|3.12-2|app-emulation|Compound version number '3.11+1'|
 |simple-scan|42.1|46.0|desktop-gnome||
+|simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
 |sing-box|1.8.13|1.9.0|app-network||
 |singular|4.1.1|2023.02.09|app-scientific||
