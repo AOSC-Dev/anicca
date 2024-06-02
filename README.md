@@ -1,7 +1,7 @@
-# Anicca AOSC
+# Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717305230?label=Updated)
+![Relative date](https://img.shields.io/date/1717308870?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -332,6 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.2|runtime-multimedia||
+|dblatex|0.3.12|1.0.97|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
 |dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
 |dbus-glib|0.110|0.112|runtime-admin||
@@ -482,7 +483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-kkc|5.1.3|5.1.4|app-i18n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.6|5.1.7|app-i18n||
+|fcitx5-rime|5.1.6|5.1.8|app-i18n||
 |fcitx5-skk|5.1.3|5.1.4|app-i18n||
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
@@ -652,6 +653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-control-center|42.3|46.2|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
+|gnome-flashback|3.45.1|3.52.1|desktop-gnome||
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
 |gnome-initial-setup|42.2|46.2|desktop-gnome||
 |gnome-keyring|40.0|46.1|desktop-gnome||
