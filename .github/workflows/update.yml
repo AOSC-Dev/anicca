@@ -23,6 +23,7 @@ jobs:
       - name: Get `aosc-findupdate`
         run: |
           git clone https://github.com/AOSC-Dev/aosc-findupdate
+          cd aosc-findupdate
           git checkout tags/v0.4.7
 
       - name: Get `aosc-os-abbs`
