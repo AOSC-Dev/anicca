@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717308870?label=Updated)
+![Relative date](https://img.shields.io/date/1717312432?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -226,7 +226,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|app-multimedia||
 |celluloid|0.18|0.26|app-multimedia||
 |cerberus|1.3.2|1.3.5|lang-python||
-|certifi|2024.2.2|2024.6.2|lang-python||
 |cervisia|23.08.5|24.05.0|desktop-kde||
 |cffi|1.15.0|1.16.0|lang-python||
 |cfitsio|3.450|4.4.0|runtime-imaging||
@@ -294,7 +293,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.1|app-utils||
 |coreboot-utils|4.15|24.05|app-admin||
 |corefreq|20170301|1.97.2-x86_64|app-utils|Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
-|coreutils|9.4|9.5|app-utils||
 |corrosion|0.2.1|0.4.10|app-devel||
 |cowsay|3.04.01|3.7.0|app-utils||
 |cpp-utilities|5.20.0|5.24.8|runtime-common||
@@ -440,7 +438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |emerald|0.8.12.4|0.8.18|desktop-wm||
 |enchant-2|2.3.1|2.8.0|app-i18n||
 |endeavour|42.0|43.0|desktop-gnome||
-|enet|1.3.14|1.3.18|runtime-network||
 |entrypoints|0.3|0.4|lang-python||
 |eog|42.3|45.3|desktop-gnome||
 |eog-plugins|42.1|44.0|desktop-gnome||
@@ -1875,8 +1872,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openvpn|2.5.4|2.6.10|app-network||
 |openvswitch|3.0.3|3.3.0|app-network||
 |optipng|0.7.7|0.7.8|app-utils||
-|opus|1.3.1|1.5.1|runtime-multimedia||
-|opus+32|1.3.1|1.5.1|runtime-optenv32||
+|opus|1.3.1|1.5.2|runtime-multimedia||
+|opus+32|1.3.1|1.5.2|runtime-optenv32||
 |opusfile|0.11|0.12|runtime-multimedia||
 |orc|0.4.32|0.4.38|app-devel||
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
