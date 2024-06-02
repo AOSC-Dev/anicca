@@ -1396,6 +1396,7 @@
 ["fluidsynth","2.0.5","2.3.5","app-multimedia",1565981377,[]],
 ["v4l-utils","1.22.1","1.26.1","app-multimedia",1657655180,[]],
 ["mjpegtools","2.1.0","2.2.1","app-multimedia",1678950872,[]],
+["mkvtoolnix","84.0","85.0","app-multimedia",1716389206,[]],
 ["xine-ui","0.99.12","0.99.14","app-multimedia",1582665366,[]],
 ["wavpack","5.2.0","5.7.0","app-multimedia",1576672295,[]],
 ["mpg123","1.25.13","1.32.6","app-multimedia",1577608369,[]],
