@@ -2,7 +2,7 @@ import sys
 import json
 import time
 
-header = f"""# Anicca AOSC
+header = f"""# Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 ![Relative date](https://img.shields.io/date/{int(time.time())}?label=Updated)"""
