@@ -506,7 +506,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
-|flask|1.1.2|3.0.3|lang-python||
 |flask-login|0.4.1|0.6.3|lang-python||
 |flask-mail|0.9.1|0.10.0|lang-python||
 |flask-wtf|0.14|1.2.1|lang-python||
@@ -933,7 +932,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbibtex-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbiff-trinity|14.1.0|14.1.2|desktop-trinity||
 |kblackbox|23.08.5|24.05.0|desktop-kde||
-|kblocks|23.08.5|24.05.0|desktop-kde||
 |kbookmarks|5.115.0|6.0.90|desktop-kde||
 |kbookreader-trinity|14.1.0|14.1.2|desktop-trinity||
 |kbounce|23.08.5|24.05.0|desktop-kde||

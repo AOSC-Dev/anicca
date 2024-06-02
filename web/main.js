@@ -1,12 +1,11 @@
 async function renderDataTable() {
   const dataUrl =
-    "https://raw.githubusercontent.com/AOSC-Dev/anicca/main/pkgsupdate.json";
+    "https://raw.githubusercontent.com/AOSC-Dev/anicca/main/anicca-data.json";
 
   const data = await fetch(dataUrl).then((response) => response.json());
 
   const dataSet = data.map((row) => {
-    row.before = row.before.replaceAll("+", "<br>+");
-    row.path = row.path.slice(0, row.path.lastIndexOf("/"));
+    row[1] = row[1].replaceAll("+", "<br>+");
     return Object.values(row);
   });
 
@@ -16,6 +15,13 @@ async function renderDataTable() {
       { title: "Repo Version" },
       { title: "New Version" },
       { title: "Category" },
+      {
+        title: "Repo Date",
+        render: (data, type, row) =>
+          type === "display"
+            ? (new Date(data * 1000)).toLocaleDateString()
+            : data,
+      },
       { title: "Warnings" },
     ],
     scrollX: true,

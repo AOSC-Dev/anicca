@@ -21,7 +21,10 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Get `aosc-findupdate`
-        run: git clone https://github.com/AOSC-Dev/aosc-findupdate
+        run: |
+          git clone https://github.com/AOSC-Dev/aosc-findupdate
+          cd aosc-findupdate
+          git checkout tags/v0.4.7
 
       - name: Get `aosc-os-abbs`
         run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
@@ -45,6 +48,9 @@ jobs:
       - name: Generate `pkgsupdate.json`
         run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
 
+      - name: Generate `anicca-data.json`
+        run: python ./scripts/convert-data.py -o anicca-data.json
+      
       - name: Render markdown
         run: cat pkgsupdate.json | python ./scripts/render-markdown.py > README.md
 
