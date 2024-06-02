@@ -49,7 +49,7 @@ jobs:
         run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
 
       - name: Generate `anicca-data.json`
-        run: python ./scripts/convert-data.py -o web/anicca-data.json
+        run: python ./scripts/convert-data.py -o anicca-data.json
       
       - name: Render markdown
         run: cat pkgsupdate.json | python ./scripts/render-markdown.py > README.md
