@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717301659?label=Updated)
+![Relative date](https://img.shields.io/date/1717305230?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -332,7 +332,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.2|runtime-multimedia||
-|dblatex|0.3.12|1.0.97|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
 |dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
 |dbus-glib|0.110|0.112|runtime-admin||
@@ -373,6 +372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distrobox|1.4.2.1|1.7.2.1|app-utils||
 |django|5.0.3|5.0.6|lang-python||
 |dlib|19.20.0|19.24.4|lang-python||
+|dmd|2.108.1|2.109.0|lang-dlang||
 |dmenu|5.2|5.3|app-utils||
 |dnsdiag|1.6.4|2.1.0|app-network||
 |dnspython|2.3.0|2.6.1|lang-python||
@@ -420,6 +420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||
 |dtc|1.6.0|1.7.0|app-devel||
+|dub|1.37.0|1.38.0|lang-dlang||
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
 |dune|3.4.1|3.15.3|lang-ocaml||
@@ -651,7 +652,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-control-center|42.3|46.2|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
-|gnome-flashback|3.45.1|3.52.1|desktop-gnome||
 |gnome-font-viewer|42.0|46.0|desktop-gnome||
 |gnome-initial-setup|42.2|46.2|desktop-gnome||
 |gnome-keyring|40.0|46.1|desktop-gnome||
@@ -2686,6 +2686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycdb|0.78|0.81|app-database||
 |tinycss2|1.0.2|1.3.0|lang-python||
 |tinyproxy|1.11.1|1.11.2|app-network||
+|tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
 |tokodon|23.08.5|24.05.0|desktop-kde||
