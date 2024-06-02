@@ -1,29 +1,34 @@
 from pathlib import Path
-from multiprocessing import Pool
 from subprocess import check_output
 import json
 from argparse import ArgumentParser
 
-abbs_path = Path("aosc-os-abbs")
-git_cmd = "git -P log -1 --format='%ct' -- ".split()
-
 
 def get_timestamp_git(abbs_path: str, pkg_path: str) -> int:
-    output = check_output(git_cmd + [pkg_path], cwd=abbs_path)
+    cmd = ["git", "-P", "log", "-1", "--format='%ct'", "--"]
+    output = check_output(cmd + [pkg_path], cwd=abbs_path)
     return int(output.decode().strip("'\n"))
 
 
-def get_timestamps_before(abbs_path: Path, pkg_paths: list[str]) -> list[int]:
-    base_path = str(abbs_path.resolve())
-    with Pool() as p:
-        result = p.starmap(
-            get_timestamp_git, [(base_path, pkg_path) for pkg_path in pkg_paths]
-        )
-    return result  # TODO: exception handling
+def get_timestamps_before_msg(abbs_path: Path, pkg_names: list[str]) -> dict[str, int]:
+    cmd = ["git", "-P", "log", "--format='%ct: %s'"]
+    commit_logs = check_output(cmd, cwd=abbs_path).decode().split("\n")
+    pkg_times = {}
+
+    for log in commit_logs:
+        try:
+            timestamp, pkg_name, msg = log.strip("'").split(": ", maxsplit=2)
+        except ValueError:
+            continue
+        if pkg_name in pkg_names and ("update to" in msg or "new," in msg):
+            pkg_names.remove(pkg_name)
+            pkg_times[pkg_name] = int(timestamp)
+
+    return pkg_times
 
 
-def convert(pkgsupdate: list[dict]):
-    final_keys = [
+def convert(abbs_path: Path, pkgsupdate: list[dict]) -> list[list]:
+    anicca_data_keys = [
         "name",
         "before",
         "after",
@@ -35,10 +40,21 @@ def convert(pkgsupdate: list[dict]):
     ]
 
     # Get before_ts
-    for i, before_ts in enumerate(
-        get_timestamps_before(abbs_path, [pkg["path"] for pkg in pkgsupdate])
-    ):
-        pkgsupdate[i]["before_ts"] = before_ts
+    pkg_not_found_in_msg = []
+    pkg_times = get_timestamps_before_msg(
+        abbs_path, [pkg["name"] for pkg in pkgsupdate]
+    )
+    for pkg in pkgsupdate:
+        try:
+            pkg["before_ts"] = pkg_times[pkg["name"]]
+        except KeyError:
+            pkg["before_ts"] = get_timestamp_git(str(abbs_path), pkg["path"])
+            pkg_not_found_in_msg.append(pkg)
+
+    # Show packages not found in commit message
+    print(f"Pkgs not found in msg: {len(pkg_not_found_in_msg)} / {len(pkgsupdate)}")
+    for pkg in sorted(pkg_not_found_in_msg, key=lambda x: x["name"]):
+        print(pkg["name"])
 
     # Remove package name from path
     for pkg in pkgsupdate:
@@ -46,7 +62,7 @@ def convert(pkgsupdate: list[dict]):
 
     anicca_data = []
     for pkg in pkgsupdate:
-        anicca_data.append([pkg[key] for key in final_keys])
+        anicca_data.append([pkg[key] for key in anicca_data_keys])
     return anicca_data
 
 
@@ -58,15 +74,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "-o", "--output", default="anicca-data.json", help="Output file (anicca-data)"
     )
+    parser.add_argument(
+        "-p", "--abbs-path", default="aosc-os-abbs", help="Path to aosc-os-abbs"
+    )
     args = parser.parse_args()
 
     with open(args.input) as f:
         pkgsupdate = json.load(f)
 
-    converted = convert(pkgsupdate)
+    converted = convert(args.abbs_path, pkgsupdate)
     with open(args.output, "w") as f:
         f.write(
             "[\n"
             + ",\n".join([json.dumps(row, separators=(",", ":")) for row in converted])
             + "\n]"
-        )   # For better git history
+        )  # For better git history
