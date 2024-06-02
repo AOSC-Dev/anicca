@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717337520?label=Updated)
+![Relative date](https://img.shields.io/date/1717341101?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1205,7 +1205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.05.0|desktop-kde||
 |kunitconversion|5.115.0|6.0.90|desktop-kde||
-|kvantum|1.0.10|1.1.1|desktop-kde||
+|kvantum|1.0.10|1.1.2|desktop-kde||
 |kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1348,7 +1348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libime|1.1.7|1.1.8|runtime-i18n||
-|libindi|2.0.5|2.0.7|runtime-scientific||
+|libindi|2.0.5|2.0.8|runtime-scientific||
 |libinput|1.24.0|1.25.0|runtime-devices||
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
