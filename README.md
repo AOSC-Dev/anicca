@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717369942?label=Updated)
+![Relative date](https://img.shields.io/date/1717375724?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -95,6 +95,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
+|ast-grep|0.22.4|0.22.5|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |astyle|3.4.14|3.4.16|app-devel||
@@ -2156,8 +2157,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde||
 |polkit-tqt|14.1.0|14.1.2|desktop-trinity||
 |polymake|3.3|4.12|app-scientific||
-|poppler|22.08.0|24.05.0|runtime-doc||
-|poppler+32|0.66.0|24.05.0|runtime-optenv32||
+|poppler|22.08.0|24.06.0|runtime-doc||
+|poppler+32|0.66.0|24.06.0|runtime-optenv32||
 |poppler-data|0.4.9|0.4.12|runtime-data||
 |popt|1.18|1.19|runtime-common||
 |popt+32|1.16|1.19|runtime-optenv32||
