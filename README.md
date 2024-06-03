@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717388228?label=Updated)
+![Relative date](https://img.shields.io/date/1717391738?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1055,6 +1055,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
 |kio-gdrive|23.08.5|24.05.0|desktop-kde||
 |kio-zeroconf|23.08.5|24.05.0|desktop-kde||
+|kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.05.0|desktop-kde||
 |kirigami-addons|0.11.0|1.2.1|desktop-kde||
 |kirigami-gallery|23.08.5|24.05.0|desktop-kde||
@@ -2574,7 +2575,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.601.25037|app-multimedia||
+|sunshine|0.23.0|2024.601.193044|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
