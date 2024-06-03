@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717413192?label=Updated)
+![Relative date](https://img.shields.io/date/1717417335?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -140,7 +140,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
 |bcachefs-tools|1.6.4|1.7.0|app-admin||
-|bcftools|1.10.2|1.20|app-scientific||
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|2.3.6|app-productivity||
@@ -158,7 +157,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
 |boinc|7.24.3|8.0/8.0.2|app-scientific||
-|bolt|0.9.7|0.9.8|app-admin||
 |bomber|23.08.5|24.05.0|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
@@ -176,9 +174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.0.5|desktop-kde||
 |brotli|1.0.9|1.1.0|app-utils||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
-|bubblewrap|0.6.2|0.9.0|app-admin||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
-|bulky|2.9|3.2|desktop-cinnamon||
 |bullet|2.88|3.25|app-scientific||
 |bup|0.30|0.33.3|app-utils||
 |byobu|5.133|6.12|app-utils||
@@ -600,6 +596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git|2.45.1|2.45.2|app-vcs||
 |git-archive-all|1.20.0|1.23.1|app-vcs||
 |git-branchless|0.7.1|0.9.0|app-utils||
+|git-cliff|2.2.2|2.3.0|app-vcs||
 |git-lfs|3.5.0|3.5.1|app-devel||
 |gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
@@ -757,7 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
-|haruna|0.12.3|1.1.1|desktop-kde||
+|haruna|0.12.3|1.1.2|desktop-kde||
 |harvid|0.8.3|0.9.1|app-multimedia||
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
@@ -1018,6 +1015,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khangman|23.08.5|24.05.0|desktop-kde||
 |khealthcertificate|22.11|24.05.0|desktop-kde||
 |khelpcenter|23.08.5|24.05.0|desktop-kde||
+|kholidays|5.115.0|6.0.90|desktop-kde||
 |khotkeys|5.27.11|6.0.5|desktop-kde||
 |khtml|5.115.0|6.0.90|desktop-kde||
 |ki18n|5.115.0|6.0.90|desktop-kde||
@@ -1241,6 +1239,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||
 |libassuan|2.5.3|2.5.7|runtime-common||
+|libatomic-ops|7.8.0|7.8.2|runtime-common||
 |libavif|0.11.1|1.0.4|runtime-multimedia||
 |libblkio|1.3.0|1.5.0|runtime-common||
 |libblockdev|2.23|3.1.1|runtime-devices||
