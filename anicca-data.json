@@ -1058,7 +1058,6 @@
 ["samba","4.17.2","4.20.1","app-network",1673495967,[]],
 ["lksctp-tools","1.0.17","1.0.19","app-network",1469677898,[]],
 ["rtmpdump","20151223","2.3","app-network",1696572712,["Possible downgrade from the current version (20151223 -> 2.3)"]],
-["frp","0.58.0","0.58.1","app-network",1715870817,[]],
 ["syncthing-gtk","0.9.4.4","0.9.4.5","app-network",1568253855,[]],
 ["tinyproxy","1.11.1","1.11.2","app-network",1710565425,[]],
 ["dante","1.4.2","1.4.3","app-network",1510974704,[]],
