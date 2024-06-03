@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717431373?label=Updated)
+![Relative date](https://img.shields.io/date/1717434856?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -405,7 +405,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dropbox|148.4.4519|200.4.7134|app-web||
 |drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
-|dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|app-electronics||
 |dtc|1.6.0|1.7.0|app-devel||
 |dub|1.37.0|1.38.0|lang-dlang||
@@ -669,7 +668,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome||
 |gnome-weather|42.0|46.0|desktop-gnome||
 |gnote|42.1|46.0|desktop-gnome||
-|gnu-efi|3.0.14|3.0.18|app-devel||
 |gnuplot|6.0.0|6.0.1|app-utils||
 |gnustep-base|1.28.0|1_30_0|runtime-gnustep||
 |gnustep-make|2.9.0|2_9_2|runtime-gnustep||
@@ -2557,6 +2555,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
+|sunshine|0.23.0|2024.601.193044|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
