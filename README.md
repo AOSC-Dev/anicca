@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717445667?label=Updated)
+![Relative date](https://img.shields.io/date/1717449202?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -313,7 +313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
-|damo|1.0.9|2.3.6|app-admin||
+|damo|1.0.9|2.3.7|app-admin||
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkradiant|3.8.0|3.9.0|app-games||
@@ -1142,7 +1142,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kquickcharts|5.115.0|6.0.90|desktop-kde||
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde||
 |krb5|1.17.1|1.21.2-final|app-network||
-|krb5+32|1.17.1|1.21.2-final|runtime-optenv32||
 |krdc|23.08.5|24.05.0|desktop-kde||
 |krecipes-trinity|14.1.0|14.1.2|desktop-trinity||
 |krecorder|23.08.5|24.05.0|desktop-kde||
@@ -2204,7 +2203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
 |pycurl|7.43.0.6|7.45.3|lang-python||
-|pydantic|2.6.0|2.7.2|lang-python||
+|pydantic|2.6.0|2.7.3|lang-python||
 |pydantic-core|2.16.1|2.18.4|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
@@ -2928,6 +2927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|runtime-common||
 |zmusic|1.1.8|1.1.13|app-games||
 |znc|1.8.2|1.9.0|app-web||
+|zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
