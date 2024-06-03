@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717438620?label=Updated)
+![Relative date](https://img.shields.io/date/1717441925?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -308,7 +308,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
 |curl+32|8.6.0|8.8.0|runtime-optenv32||
 |curtsies|0.3.4|0.4.2|lang-python||
-|cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
@@ -2204,7 +2203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python||
 |pycurl|7.43.0.6|7.45.3|lang-python||
 |pydantic|2.6.0|2.7.2|lang-python||
-|pydantic-core|2.16.1|2.18.3|lang-python||
+|pydantic-core|2.16.1|2.18.4|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
@@ -2458,6 +2457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.05.0|desktop-kde||
 |skanpage|23.08.5|24.05.0|desktop-kde||
+|skktools|1.3.4|1_3_4|app-i18n||
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
