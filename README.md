@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717379967?label=Updated)
+![Relative date](https://img.shields.io/date/1717381971?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2102,7 +2102,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-data-exporter|23.08.5|24.05.0|desktop-kde||
 |pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
 |pimcommon|23.08.5|24.05.0|desktop-kde||
-|pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
 |pipewire|1.0.6|1.1.82|app-multimedia||
@@ -2387,7 +2386,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
 |rpcsvc-proto|1.4.2|1.4.4|app-devel||
 |rpm|4.18.0|4.19.1.1-release|app-admin||
-|rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
 |rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
