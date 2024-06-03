@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717423958?label=Updated)
+![Relative date](https://img.shields.io/date/1717427705?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -336,7 +336,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.3.4|test-ci|app-admin|Versions not comparable: `0.3.4` and `test-ci`|
+|deploykit-backend|0.2.4|0.2.3|app-admin|Possible downgrade from the current version (0.2.4 -> 0.2.3)|
+|deploykit-gui|0.3.5|test-ci|app-admin|Versions not comparable: `0.3.5` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -892,7 +893,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
 |kaccounts-integration|23.08.5|24.05.0|desktop-kde||
 |kaccounts-providers|23.08.5|24.05.0|desktop-kde||
-|kactivities|5.115.0|6.0.90|desktop-kde||
 |kactivities-stats|5.115.0|6.0.90|desktop-kde||
 |kactivitymanagerd|5.27.11|6.0.5|desktop-kde||
 |kaddressbook|23.08.5|24.05.0|desktop-kde||
@@ -2016,7 +2016,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
-|perl-mime-tools|5.509|5.515|lang-perl||
 |perl-mime-types|2.17|2.26|lang-perl||
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
