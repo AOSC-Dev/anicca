@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717420537?label=Updated)
+![Relative date](https://img.shields.io/date/1717423958?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -182,7 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|app-utils||
 |cachecontrol|0.12.6|0.14.0|lang-python||
 |cachetools|3.1.0|5.3.3|lang-python||
-|caddy|2.7.6|2.8.1|app-web||
+|caddy|2.7.6|2.8.4|app-web||
 |cairo|1.17.6|1.18.0|runtime-imaging||
 |cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
@@ -472,8 +472,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
 |feeluown|4.1.1|4.1.4|app-multimedia||
+|feeluown-bilibili|0.3.3|0.4.0|app-multimedia||
 |feeluown-netease|1.0.1|1.0.3|app-multimedia||
-|feeluown-qqmusic|1.0.2|1.0.4|app-multimedia||
+|feeluown-qqmusic|1.0.2|1.0.5|app-multimedia||
 |ffcall|2.2|2.4|runtime-common||
 |ffmpeg|4.4.4|7.0.1|app-multimedia||
 |ffmpeg+32|4.2.5|7.0.1|runtime-optenv32||
@@ -1924,6 +1925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl+32|999|5.38.2|runtime-optenv32|Possible downgrade from the current version (999 -> 5.38.2)|
 |perl-alien-build|1.92|2.80|lang-perl||
 |perl-alien-libxml2|0.11|0.19|lang-perl||
+|perl-anyevent|7.14|7.17|lang-perl||
 |perl-anyevent-i3|0.17|0.19|lang-perl||
 |perl-app-cpanminus|1.7044|1.7047|lang-perl||
 |perl-archive-zip|1.64|1.68|lang-perl||
@@ -2880,6 +2882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|runtime-common||
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
+|xpra|5.0.8|6.0.1|app-network||
 |xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
 |xreader|3.8.5|4.0.2|app-doc||
