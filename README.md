@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717384486?label=Updated)
+![Relative date](https://img.shields.io/date/1717388228?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1055,7 +1055,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
 |kio-gdrive|23.08.5|24.05.0|desktop-kde||
 |kio-zeroconf|23.08.5|24.05.0|desktop-kde||
-|kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.05.0|desktop-kde||
 |kirigami-addons|0.11.0|1.2.1|desktop-kde||
 |kirigami-gallery|23.08.5|24.05.0|desktop-kde||
