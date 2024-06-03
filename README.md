@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717427705?label=Updated)
+![Relative date](https://img.shields.io/date/1717431373?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -472,7 +472,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-skk|5.1.3|5.1.4|app-i18n||
 |feedbackd|0.2.1|0.3.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
-|feeluown|4.1.1|4.1.4|app-multimedia||
+|feeluown|4.1.1|4.1.5|app-multimedia||
 |feeluown-bilibili|0.3.3|0.4.0|app-multimedia||
 |feeluown-netease|1.0.1|1.0.3|app-multimedia||
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia||
@@ -893,6 +893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
 |kaccounts-integration|23.08.5|24.05.0|desktop-kde||
 |kaccounts-providers|23.08.5|24.05.0|desktop-kde||
+|kactivities|5.115.0|6.0.90|desktop-kde||
 |kactivities-stats|5.115.0|6.0.90|desktop-kde||
 |kactivitymanagerd|5.27.11|6.0.5|desktop-kde||
 |kaddressbook|23.08.5|24.05.0|desktop-kde||
@@ -2016,6 +2017,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
+|perl-mime-tools|5.509|5.515|lang-perl||
 |perl-mime-types|2.17|2.26|lang-perl||
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
@@ -2555,7 +2557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.601.193044|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
