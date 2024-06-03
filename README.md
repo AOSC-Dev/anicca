@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717398858?label=Updated)
+![Relative date](https://img.shields.io/date/1717402588?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -71,7 +71,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
-|arandr|0.1.10|0.1.11|app-utils||
 |aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
@@ -1588,7 +1587,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lpsolve|5.5.2.5|5.6.20|app-scientific||
 |lrs|071a|073|app-scientific||
 |lrzsz|0.12.21|0.12.21.orig|app-network|Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
-|lsd|1.0.0|1.1.2|app-utils||
 |lshw|02.19.2|02.20|app-utils||
 |lskat|23.08.5|24.05.0|desktop-kde||
 |lsof|4.98.0|4.99.3|app-utils||
@@ -2074,6 +2072,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.31|lang-perl||
 |perl-type-serialiser|1.0|1.01|lang-perl||
 |perl-uri|1.74|5.28|lang-perl||
+|perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
 |perl-xml-libxslt|1.96|2.002001|lang-perl||
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
@@ -2139,6 +2138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pnpm|8.15.5|9.1.4|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.72|app-i18n||
+|pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python||
 |podman|4.9.3<br>+vsock0.7.2|5.1.0|app-containers|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|runtime-doc||
@@ -2325,7 +2325,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.3.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|radare2|5.9.0|5.9.2|app-devel||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
@@ -2518,6 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|runtime-optenv32||
 |spglib|1.16.2|2.4.0|runtime-scientific||
 |sphinx|7.0.1|7.3.7|app-doc||
+|sphinx-press-theme|0.8.0|0.9.1|app-doc||
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
 |sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
@@ -2538,7 +2538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
-|sqlmap|1.8.2|1.8.5|app-penetration||
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
