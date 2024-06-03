@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717391738?label=Updated)
+![Relative date](https://img.shields.io/date/1717395428?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2654,7 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.0|app-web||
+|telegram-desktop|5.0.1|5.1.1|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
