@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717441925?label=Updated)
+![Relative date](https://img.shields.io/date/1717445667?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -163,7 +163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.117|lang-python||
+|boto3|1.20.26|1.34.118|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -252,6 +252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.6|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
+|cmake|3.29.3|3.29.4|app-devel||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
@@ -308,6 +309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
 |curl+32|8.6.0|8.8.0|runtime-optenv32||
 |curtsies|0.3.4|0.4.2|lang-python||
+|cycler|0.10.0|0.12.1|lang-python||
 |cymem|2.0.5|2.0.8|lang-python||
 |cython-0.29|0.29.36|3.0.10|lang-python||
 |czmq|4.2.0|4.2.1|runtime-common||
@@ -2926,7 +2928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|runtime-common||
 |zmusic|1.1.8|1.1.13|app-games||
 |znc|1.8.2|1.9.0|app-web||
-|zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
