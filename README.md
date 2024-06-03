@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717417335?label=Updated)
+![Relative date](https://img.shields.io/date/1717420537?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -336,7 +336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.3.1|test-ci|app-admin|Versions not comparable: `0.3.1` and `test-ci`|
+|deploykit-gui|0.3.4|test-ci|app-admin|Versions not comparable: `0.3.4` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -1019,6 +1019,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.11|6.0.5|desktop-kde||
 |khtml|5.115.0|6.0.90|desktop-kde||
 |ki18n|5.115.0|6.0.90|desktop-kde||
+|kicad|8.0.2|8.0.3|app-electronics||
 |kiconthemes|5.115.0|6.0.90|desktop-kde||
 |kid3|3.8.3|3.9.5|app-multimedia||
 |kidentitymanagement|23.08.5|24.05.0|desktop-kde||
@@ -1923,7 +1924,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl+32|999|5.38.2|runtime-optenv32|Possible downgrade from the current version (999 -> 5.38.2)|
 |perl-alien-build|1.92|2.80|lang-perl||
 |perl-alien-libxml2|0.11|0.19|lang-perl||
-|perl-anyevent|7.14|7.17|lang-perl||
 |perl-anyevent-i3|0.17|0.19|lang-perl||
 |perl-app-cpanminus|1.7044|1.7047|lang-perl||
 |perl-archive-zip|1.64|1.68|lang-perl||
@@ -2880,7 +2880,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|runtime-common||
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
-|xpra|5.0.8|6.0.1|app-network||
 |xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
 |xreader|3.8.5|4.0.2|app-doc||
