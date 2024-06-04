@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717514091?label=Updated)
+![Relative date](https://img.shields.io/date/1717517827?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -390,7 +390,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
 |dotnet-templates-8.0|8.0.300|6.0.423|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.423)|
-|double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
@@ -2156,7 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.1|app-gis||
 |projectm|4.0.0|4.1.1|runtime-multimedia||
-|prompt-toolkit|2.0.8|3.0.45|lang-python||
+|prompt-toolkit|2.0.8|3.0.46|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
 |protobuf|25.2|27.0|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
@@ -2599,7 +2598,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebindings|14.1.0|14.1.2|desktop-trinity||
 |tdedocker|14.1.0|14.1.2|desktop-trinity||
 |tdeedu|14.1.0|14.1.2|desktop-trinity||
-|tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
 |tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
 |tdeio-apt|14.1.0|14.1.2|desktop-trinity||
