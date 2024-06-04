@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717525032?label=Updated)
+![Relative date](https://img.shields.io/date/1717528328?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -63,6 +63,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
 |apicula|0.9.1|0.12|app-electronics||
+|apitrace|11.1|12.0|app-devel||
 |apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
@@ -501,6 +502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flent|1.3.2|2.1.1|app-network||
 |flightgear|2020.3.13|2020.3.19|app-games||
 |flint|2.5.2|3.1.2|runtime-scientific||
+|fltk|1.3.5|1.3.9|runtime-desktop||
 |fluidsynth|2.0.5|2.3.5|app-multimedia||
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32||
 |folks|0.15.5|0.15.9|desktop-gnome||
@@ -701,7 +703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grpc|1.64.0|1.64.1|app-network||
 |grsync|1.2.8|1.3.1|app-network||
 |grub|2.12<br>+unifont15.1.04|2.12|app-admin|Compound version number '2.12+unifont15.1.04'|
-|grub-customizer|5.2.4|5.2.5|app-admin||
 |gsasl|1.8.1|2.2.1|runtime-admin||
 |gsettings-desktop-schemas|42.0|46.0|desktop-gnome||
 |gsl|2.5|2.8|runtime-scientific||
@@ -967,7 +968,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesignerplugin|5.115.0|6.0.90|desktop-kde||
 |kdesu|5.115.0|6.0.90|desktop-kde||
 |kdev-php|23.08.5|24.05.0|desktop-kde||
-|kdev-python|23.08.5|24.05.0|desktop-kde||
 |kdevelop|23.08.5|24.05.0|desktop-kde||
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
 |kdewebkit|5.115.0|6.0.90|desktop-kde||
@@ -1737,6 +1737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
+|netaddr|0.7.19|1.3.0|lang-python||
 |netavark|1.10.3|1.11.0|runtime-containers||
 |netcat|1.219|1.226|app-network||
 |netcdf|4.7.4|4.9.2|runtime-scientific||
@@ -1796,6 +1797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrad|0.27|0.29|app-doc||
 |ocrmypdf|11.7.0|16.3.1|app-doc||
 |ocserv|1.1.2|1.3.0|app-network||
+|octave|9.1.0|9.2.0|app-scientific||
 |ofono|1.30|2.7|app-network||
 |okteta|0.26.9|0.26.15|desktop-kde||
 |okular|23.08.5|24.05.0|desktop-kde||
@@ -2728,7 +2730,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unidecode|1.0.23|1.3.8|lang-python||
 |unixodbc|2.3.9|2.3.12|app-database||
 |unpaper|20190211|7.0.0|app-doc|Possible downgrade from the current version (20190211 -> 7.0.0)|
-|unrar|6.2.2|6.2.12|app-utils||
 |unrpyc|1.1.6|2.0.1|app-games||
 |unshield|1.4.3|1.5.1|app-utils||
 |upower|1.90.0|1.90.4|app-admin||
