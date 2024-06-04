@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717517827?label=Updated)
+![Relative date](https://img.shields.io/date/1717521104?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -390,6 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
 |dotnet-templates-8.0|8.0.300|6.0.423|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.423)|
+|double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
@@ -1923,7 +1924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-b-hooks-endofscope|0.24|0.28|lang-perl||
 |perl-cairo|1.106|1.109|lang-perl||
 |perl-canary-stability|2012|2013|lang-perl||
-|perl-cgi|4.47|4.64|lang-perl||
+|perl-cgi|4.47|4.65|lang-perl||
 |perl-class-data-inheritable|0.08|0.09|lang-perl||
 |perl-class-inspector|1.28|1.36|lang-perl||
 |perl-class-method-modifiers|2.12|2.15|lang-perl||
@@ -2598,6 +2599,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebindings|14.1.0|14.1.2|desktop-trinity||
 |tdedocker|14.1.0|14.1.2|desktop-trinity||
 |tdeedu|14.1.0|14.1.2|desktop-trinity||
+|tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
 |tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
 |tdeio-apt|14.1.0|14.1.2|desktop-trinity||
