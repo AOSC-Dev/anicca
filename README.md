@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717485254?label=Updated)
+![Relative date](https://img.shields.io/date/1717488971?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -962,6 +962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeedu-data|23.08.5|24.05.0|desktop-kde||
 |kdegraphics-mobipocket|23.08.5|24.05.0|desktop-kde||
 |kdegraphics-thumbnailers|23.08.5|24.05.0|desktop-kde||
+|kdelibs4support|5.115.0|6.0.90|desktop-kde||
 |kdenetwork-filesharing|23.08.5|24.05.0|desktop-kde||
 |kdenlive|23.08.5|24.05.0|desktop-kde||
 |kdepim-addons|23.08.5|24.05.0|desktop-kde||
