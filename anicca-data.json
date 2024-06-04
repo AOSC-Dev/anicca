@@ -1449,7 +1449,7 @@
 ["noto-fonts","24.1.1+emoji2.042+cjksans2.004+cjkserif2.002","24.6.1","desktop-fonts",1706083317,["Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'"]],
 ["adobe-source-han-serif","2.002","2.002R","desktop-fonts",1706083317,["Possible downgrade from the current version (2.002 -> 2.002R)"]],
 ["lxgwcleargothic-font","0.300.4","0.311.3","desktop-fonts",1715870557,[]],
-["lxgwnewcleargothic-font","1.121","1.123","desktop-fonts",1715870508,[]],
+["lxgwnewcleargothic-font","1.121","1.123.1","desktop-fonts",1715870508,[]],
 ["gcc","13.2.0","14.1.0","core-devel",1694091939,[]],
 ["linux+api","6.7.12","5.19.17","core-devel",1712750153,["Possible downgrade from the current version (6.7.12 -> 5.19.17)"]],
 ["unixodbc","2.3.9","2.3.12","app-database",1600106563,[]],
