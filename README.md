@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717456410?label=Updated)
+![Relative date](https://img.shields.io/date/1717462102?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -172,7 +172,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.11|6.0.5|desktop-kde||
 |breeze-icons|5.115.0|6.0.90|desktop-kde||
 |breeze-plymouth|5.27.11|6.0.5|desktop-kde||
-|brotli|1.0.9|1.1.0|app-utils||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bullet|2.88|3.25|app-scientific||
@@ -1898,7 +1897,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parsedatetime|2.4|2.6|lang-python||
 |parso|0.3.3|0.8.4|lang-python||
 |partclone|0.3.20|0.3.27|app-admin||
-|parted|3.5|3.6|app-admin||
 |partimage|0.6.9|0.7.2|app-admin||
 |partitionmanager|23.08.5|24.05.0|desktop-kde||
 |pastel|0.2.0|0.2.1|lang-python||
