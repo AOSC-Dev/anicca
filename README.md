@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717528328?label=Updated)
+![Relative date](https://img.shields.io/date/1717532052?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.118|lang-python||
+|boto3|1.20.26|1.34.119|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -703,6 +703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grpc|1.64.0|1.64.1|app-network||
 |grsync|1.2.8|1.3.1|app-network||
 |grub|2.12<br>+unifont15.1.04|2.12|app-admin|Compound version number '2.12+unifont15.1.04'|
+|grub-customizer|5.2.4|5.2.5|app-admin||
 |gsasl|1.8.1|2.2.1|runtime-admin||
 |gsettings-desktop-schemas|42.0|46.0|desktop-gnome||
 |gsl|2.5|2.8|runtime-scientific||
@@ -968,6 +969,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesignerplugin|5.115.0|6.0.90|desktop-kde||
 |kdesu|5.115.0|6.0.90|desktop-kde||
 |kdev-php|23.08.5|24.05.0|desktop-kde||
+|kdev-python|23.08.5|24.05.0|desktop-kde||
 |kdevelop|23.08.5|24.05.0|desktop-kde||
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
 |kdewebkit|5.115.0|6.0.90|desktop-kde||
@@ -1843,9 +1845,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.22.0|0.25.1|app-devices||
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|runtime-imaging||
-|openssl+32|3.2.0|3.3.0|runtime-optenv32||
-|openssl-1.1|1.1.1w|3.3.0|runtime-cryptography||
-|openssl-1.1+32|1.1.1q|3.3.0|runtime-optenv32||
+|openssl|3.3.0|3.3.1|runtime-cryptography||
+|openssl+32|3.2.0|3.3.1|runtime-optenv32||
+|openssl-1.1|1.1.1w|3.3.1|runtime-cryptography||
+|openssl-1.1+32|1.1.1q|3.3.1|runtime-optenv32||
 |opensubdiv|3.6.0|3_6_0|runtime-creativity||
 |openswan|2.6.51.5|3.0.0|app-network||
 |opentimelineio|0.15|0.16.0|runtime-multimedia||
@@ -2066,6 +2069,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl||
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
+|php|8.3.7|8.3.8|app-devel||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.0|desktop-kde||
 |picocom|3.1|2023-04|app-utils||
@@ -2318,7 +2322,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
 |rdma-core|51.0|52.0|app-admin||
 |re2|20240501|2024-06-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-06-01)|
-|re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
@@ -2444,7 +2447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplejson|3.16.0|3.19.2|lang-python||
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
 |sing-box|1.8.13|1.9.0|app-network||
-|singular|4.1.1|2023.02.09|app-scientific||
+|singular|4.1.1|2024.06.03|app-scientific||
 |sip|6.3.1|6.8.3|lang-python||
 |skanlite|23.08.5|24.05.0|desktop-kde||
 |skanpage|23.08.5|24.05.0|desktop-kde||
@@ -2484,7 +2487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch|2.3.3|2.3.1|app-multimedia|Possible downgrade from the current version (2.3.3 -> 2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|runtime-optenv32||
 |soupsieve|1.8.0|2.5|lang-python||
-|sozu|0.15.2|1.0.1|app-web||
+|sozu|0.15.2|1.0.2|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
 |spectacle|22.12.3|24.05.0|desktop-kde||
@@ -2555,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.2.1|app-devel||
 |sympy|1.12|1.12.1|lang-python||
 |synaptic|0.90.2|0.91.3|app-admin||
-|syncthing|1.27.3|1.27.7|app-network||
+|syncthing|1.27.3|1.27.8|app-network||
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network||
 |syndication|5.115.0|6.0.90|desktop-kde||
 |synergy|1.11.1|2.3.2|app-network||
@@ -2639,7 +2642,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|lang-python||
 |terminator|2.1.1|2.1.4|desktop-gnome||
 |tesseract|5.3.4|5.2.1|app-utils|Possible downgrade from the current version (5.3.4 -> 5.2.1)|
-|tevent|0.13.0|0.16.1|runtime-common||
 |texlive|20220321|2024|app-doc|Possible downgrade from the current version (20220321 -> 2024)|
 |texmaker|5.1.2|5.1.4|app-doc||
 |texstudio|4.0.2|4.8.0|app-doc||
@@ -2730,6 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unidecode|1.0.23|1.3.8|lang-python||
 |unixodbc|2.3.9|2.3.12|app-database||
 |unpaper|20190211|7.0.0|app-doc|Possible downgrade from the current version (20190211 -> 7.0.0)|
+|unrar|6.2.2|6.2.12|app-utils||
 |unrpyc|1.1.6|2.0.1|app-games||
 |unshield|1.4.3|1.5.1|app-utils||
 |upower|1.90.0|1.90.4|app-admin||
