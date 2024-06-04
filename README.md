@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717488971?label=Updated)
+![Relative date](https://img.shields.io/date/1717492525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -182,7 +182,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cachetools|3.1.0|5.3.3|lang-python||
 |caddy|2.7.6|2.8.4|app-web||
 |cairo|1.17.6|1.18.0|runtime-imaging||
-|cairo+32|1.14.12|1.18.0|runtime-optenv32||
 |cairocffi|1.0.2|1.7.0|lang-python||
 |cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
@@ -2352,7 +2351,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
 |rocm-cmake|6.0.2|6.1.1|runtime-rocm||
 |rocm-llvm|6.0.2|6.1.1|runtime-rocm||
-|rocm-smi-lib|6.0.2|6.1.1|runtime-rocm||
 |rocminfo|6.0.2|6.1.1|runtime-rocm||
 |rocr-runtime|6.0.2|6.1.1|runtime-rocm||
 |rocs|23.08.5|24.05.0|desktop-kde||
@@ -2869,7 +2867,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xinetd|2.3.15|2.3.15.4|app-network||
 |xjadeo|0.8.13|0.8.14|app-multimedia||
 |xkeyboard-config|2.40|2.41|runtime-display||
-|xl2tpd|1.3.15|1.3.18|app-network||
 |xmlrpc-c|1.54.06|1.59.03|runtime-common||
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
