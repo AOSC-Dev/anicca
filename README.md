@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717510431?label=Updated)
+![Relative date](https://img.shields.io/date/1717514091?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -528,6 +528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|runtime-gis||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
+|functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin||
 |fuse-python|0.3.1|1.0.7|lang-python||
 |future|0.17.0|1.0.0|lang-python||
@@ -848,14 +849,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.25.0|lang-python||
 |irrlicht|1.8.4|1.8.5|runtime-games||
 |iso-codes|4.4|4.16.0|runtime-data||
-|isomd5sum|1.2.3|1.2.4|app-utils||
 |isort|4.3.21|5.13.2|lang-python||
 |ispc|1.22.0|1.24.0|app-devel||
 |itinerary|23.08.5|24.05.0|desktop-kde||
 |itsdangerous|1.1.0|2.2.0|lang-python||
 |iverilog|12.0|12_0|app-electronics||
 |iw|5.19|6.9|app-network||
-|iwd|1.20|2.17|app-network||
+|iwd|1.20|2.18|app-network||
 |ixion|0.17.0|0.19.0|runtime-scientific||
 |j4-dmenu-desktop|2.17|3.0|app-utils||
 |jack|1.9.21|1.9.22|app-multimedia||
@@ -1735,6 +1735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.0.1|desktop-cinnamon||
 |neochat|23.08.5|24.05.0|desktop-kde||
 |neomutt|20200619|20240425|app-web||
+|neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.3.0|lang-python||
@@ -2238,7 +2239,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|lang-python||
 |pysolfc|2.12.0|3.0.0|app-games||
 |pyte|0.8.0|0.8.2|lang-python||
-|pytest|7.1.1|8.2.1|lang-python||
+|pytest|7.1.1|8.2.2|lang-python||
 |python-2+32|999|2.7.18|runtime-optenv32|Possible downgrade from the current version (999 -> 2.7.18)|
 |python-3|3.10.13|3.12.3|lang-python||
 |python-augeas|1.0.3|1.1.0|lang-python||
@@ -2487,6 +2488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spamassassin|3.4.6|4.0.1|app-network||
 |spandsp|0.0.6|3.0.0|runtime-multimedia||
 |spectacle|22.12.3|24.05.0|desktop-kde||
+|speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
 |speedometer|2.8|2.9|app-network||
 |speex|1.2.0|1.2.1|runtime-multimedia||
 |speex+32|1.2.0|1.2.1|runtime-optenv32||
