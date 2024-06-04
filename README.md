@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717470982?label=Updated)
+![Relative date](https://img.shields.io/date/1717474479?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -12,6 +12,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abyss|2.1.5|2.3.7|app-scientific||
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
+|accountsservice|22.08.8|23.13.9|app-admin||
 |ack|3.2.0|3.7.0|app-utils||
 |acl|2.3.1|2.3.2|app-utils||
 |acl+32|2.2.52|2.3.2|runtime-optenv32||
@@ -488,7 +489,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |findutils|4.9.0|4.10.0|app-utils||
 |fio|3.35|3.37|app-utils||
-|firefox|126.0|126.0.1|app-web||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -1245,7 +1245,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|runtime-devices||
 |libbloom|1.6|2.0|runtime-common||
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32||
-|libbpf|1.2.0|1.4.2|runtime-kernel||
+|libbpf|1.2.0|1.4.3|runtime-kernel||
 |libburn|1.5.2|1.5.6|runtime-devices||
 |libbytesize|2.1|2.10|runtime-common||
 |libc+wasi|20|22|runtime-wasi||
@@ -2505,6 +2505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
+|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
 |spim|9.1.23|9.1.24|app-emulation||
