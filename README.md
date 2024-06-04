@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717503641?label=Updated)
+![Relative date](https://img.shields.io/date/1717506883?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -126,7 +126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b43-firmware-installer|20160210|019|app-admin|Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
 |babel|2.9.1|2.15.0|lang-python||
-|babeltrace|1.5.7|1.5.11|app-devel||
 |babl|0.1.108|0_1_108|runtime-imaging||
 |backcall|0.1.0|0.2.0|lang-python||
 |backports|0|1.1|lang-python||
@@ -271,6 +270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
+|conky|1.10.8|1.21.2|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
@@ -1549,7 +1549,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -2640,7 +2639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|lang-python||
 |terminator|2.1.1|2.1.4|desktop-gnome||
 |tesseract|5.3.4|5.2.1|app-utils|Possible downgrade from the current version (5.3.4 -> 5.2.1)|
-|testdisk|7.0|7.2|app-utils||
 |tevent|0.13.0|0.16.1|runtime-common||
 |texlive|20220321|2024|app-doc|Possible downgrade from the current version (20220321 -> 2024)|
 |texmaker|5.1.2|5.1.4|app-doc||
