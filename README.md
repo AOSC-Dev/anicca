@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717462102?label=Updated)
+![Relative date](https://img.shields.io/date/1717466362?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -92,7 +92,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
-|ast-grep|0.22.4|0.22.5|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -785,7 +784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
-|hugo|0.126.1|0.126.2|app-web||
+|hugo|0.126.1|0.126.3|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hyper-h11|0.12.0|0.14.0|lang-python||
@@ -863,7 +862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iw|5.19|6.9|app-network||
 |iwd|1.20|2.17|app-network||
 |ixion|0.17.0|0.19.0|runtime-scientific||
-|j4-dmenu-desktop|2.17|2.18|app-utils||
+|j4-dmenu-desktop|2.17|3.0|app-utils||
 |jack|1.9.21|1.9.22|app-multimedia||
 |jasper|2.0.21|4.2.4|runtime-imaging||
 |jbig2dec|0.18|0.20|runtime-imaging||
@@ -1252,7 +1251,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.10|runtime-common||
 |libc+wasi|20|22|runtime-wasi||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
-|libcamera|0.2.0|0.3.0|runtime-devices||
 |libcap|2.69|2.70|runtime-common||
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
@@ -1750,7 +1748,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netcat|1.219|1.226|app-network||
 |netcdf|4.7.4|4.9.2|runtime-scientific||
 |netctl|1.23|1.25|app-network||
-|netease-cloud-music-gtk|2.3.0|2.4.0|app-multimedia||
 |nethack|3.6.6|3.6.7_Released|app-games||
 |netifaces|0.10.9|0.11.0|lang-python||
 |netpbm|10.73.34|11.06.03|app-utils||
@@ -1826,6 +1823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32||
 |opencryptoki|3.21.0|3.23.0|runtime-cryptography||
 |opencsg|1.5.1|1.6.0|runtime-imaging||
+|opencv|4.9.0|4.10.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.1|app-network||
 |openh264|2.4.1<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.1+gmp114+2'|
@@ -1872,7 +1870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.0.5|desktop-kde||
 |oxygen-icons|5.115.0|6.0.90|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
-|p-vector|0.3.6|0.3.8|app-admin||
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
 |packaging|23.0|24.0|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
@@ -1939,7 +1936,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-singleton|1.5|1.6|lang-perl||
 |perl-common-sense|3.74|3.75|lang-perl||
 |perl-config-file|1.50|1.54|lang-perl||
-|perl-convert-asn1|0.27|0.34|lang-perl||
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl||
 |perl-crypt-openssl-random|0.15|0.16|lang-perl||
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
@@ -2074,7 +2070,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl||
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
-|phonon|4.11.1|4.12.0|desktop-kde||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.0|desktop-kde||
 |picocom|3.1|2023-04|app-utils||
@@ -2088,7 +2083,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b1|lang-python||
 |piper|0.6|0.7|app-utils||
-|pipewire|1.0.6|1.1.82|app-multimedia||
+|pipewire|1.0.7|1.1.82|app-multimedia||
 |pipewire-0.2|0.2.7|1.1.82|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
@@ -2829,7 +2824,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
-|wireplumber|0.5.2|0.5.3|app-multimedia||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts||
