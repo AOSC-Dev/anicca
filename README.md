@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717468189?label=Updated)
+![Relative date](https://img.shields.io/date/1717470982?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -12,7 +12,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abyss|2.1.5|2.3.7|app-scientific||
 |acccheck|0.2.1|0-2-1|app-penetration||
 |accerciser|3.40.0|3.42.0|desktop-gnome||
-|accountsservice|22.08.8|23.13.9|app-admin||
 |ack|3.2.0|3.7.0|app-utils||
 |acl|2.3.1|2.3.2|app-utils||
 |acl+32|2.2.52|2.3.2|runtime-optenv32||
@@ -2506,7 +2505,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
-|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
 |spim|9.1.23|9.1.24|app-emulation||
