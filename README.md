@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717593400?label=Updated)
+![Relative date](https://img.shields.io/date/1717596773?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -74,6 +74,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
+|argparse-manpage|4.5|4.6|lang-python||
 |argyllcms|3.1.0|3.2.0|app-imaging||
 |arianna|23.08.5|24.05.0|desktop-kde||
 |ark|23.08.5|24.05.0|desktop-kde||
@@ -275,6 +276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|lang-python||
 |containerd|1.7.13|1.7.18|app-containers||
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|runtime-containers|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
+|convertall|0.7.5|1.0.1|app-utils||
 |corefreq|20170301|1.97.2-x86_64|app-utils|Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
 |corrosion|0.2.1|0.4.10|app-devel||
 |cowsay|3.04.01|3.7.0|app-utils||
@@ -336,7 +338,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network||
-|dhcpcd|9.2.0|10.0.8|app-network||
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
@@ -608,7 +609,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibc+32|2.38|2.39|runtime-optenv32||
 |glibmm|2.66.2|2.80.0|desktop-gnome||
 |glibmm-2.68|2.78.0|2.80.0|desktop-gnome||
-|glm|0.9.9.8|1.0.1|runtime-scientific||
 |glog|0.3.5|0.7.0|runtime-common||
 |gloox|1.0.27|1.0.28|runtime-web||
 |glslang|13.1.1|14.2.0|app-imaging||
@@ -2879,7 +2879,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|392|app-utils||
 |xviewer|3.0.2|3.4.4|app-imaging||
-|xwayland|23.2.6|24.1.0|runtime-display||
 |xxhash|0.8.1|0.8.2|runtime-common||
 |xz+32|5.4.1|5.6.2|runtime-optenv32||
 |yad|0.40.0|13.0|app-utils||
