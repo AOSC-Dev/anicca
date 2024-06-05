@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717542835?label=Updated)
+![Relative date](https://img.shields.io/date/1717548517?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1213,7 +1213,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lablgtk|2.18.11|3.1.4|lang-ocaml||
 |ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
-|layer-shell-qt|5.27.11|6.0.5|desktop-kde||
 |lazarus|3.2|3.4|lang-pascal||
 |lazy-object-proxy|1.7.1|1.10.0|lang-python||
 |lcms2|2.14|2.16|runtime-imaging||
@@ -1940,7 +1939,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
 |perl-data-dump|1.23|1.25|lang-perl||
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
-|perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
 |perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
@@ -2286,7 +2284,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
-|qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
@@ -2769,7 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0461|app-editors||
+|vim|9.1.0446|9.1.0466|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
