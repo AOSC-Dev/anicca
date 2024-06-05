@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717564442?label=Updated)
+![Relative date](https://img.shields.io/date/1717568290?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -16,7 +16,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.2.0|3.7.0|app-utils||
 |acl|2.3.1|2.3.2|app-utils||
 |acl+32|2.2.52|2.3.2|runtime-optenv32||
-|acme|2.5.0|2.10.0|lang-python||
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|desktop-fonts|Possible downgrade from the current version (2.004 -> 2.004R)|
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts|Possible downgrade from the current version (2.002 -> 2.002R)|
@@ -267,7 +266,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python||
 |composer|2.0.13|2.7.6|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
-|configargparse|1.3|1.7|lang-python||
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.3|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
@@ -1124,6 +1122,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpat|23.08.5|24.05.0|desktop-kde||
 |kpeople|5.115.0|6.0.90|desktop-kde||
 |kpicosim-trinity|14.1.0|14.1.2|desktop-trinity||
+|kpilot-trinity|14.1.0|14.1.2|desktop-trinity||
 |kpimtextedit|23.08.5|24.05.0|desktop-kde||
 |kpipewire|5.27.11|6.0.5|desktop-kde||
 |kpkpass|23.08.5|24.05.0|desktop-kde||
@@ -1784,7 +1783,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
 |nut|2.7.4|2.8.2|app-admin||
 |nvchecker|1.5|2.15.1|app-utils||
-|nvidia|550.54.14|555.42.02|runtime-display||
 |nvidia+32|0|555.42.02|runtime-optenv32||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
@@ -2518,7 +2516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
 |sqlparse|0.4.1|0.5.0|lang-python||
-|squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
 |squid|5.7|6.9|app-web||
 |sra-tools|3.0.3|3.1.1|app-scientific||
@@ -2711,7 +2708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typing-extensions|4.7.1|4.12.1|lang-python||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|app-utils||
-|ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
 |uchardet|0.0.5|0.0.8|runtime-i18n||
 |ucx|1.15.0|1.16.0|runtime-scientific||
 |udiskie|2.2.0|2.5.3|app-utils||
@@ -2830,7 +2826,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32||
 |wxmaxima|22.05.0|24.05.0|app-scientific||
 |wxwidgets|3.2.4|3.2.5|runtime-desktop||
-|x11-proto|2023.2|2024.1|runtime-display||
 |x11-proto+32|2019.2|2024.1|runtime-optenv32||
 |x264|0<br>+git20240305|3191|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
 |x264+32|20160827.2245|3191|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3191)|
