@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717625615?label=Updated)
+![Relative date](https://img.shields.io/date/1717629225?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -574,7 +574,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gegl-0.4|0.4.48|0_4_48|runtime-imaging||
 |geoclue2|2.6.0|2.7.1|runtime-gis||
 |geoipupdate|6.1.0|7.0.1|app-network||
-|geos|3.7.3|3.12.1|runtime-gis||
+|geos|3.7.3|3.12.2|runtime-gis||
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
@@ -691,7 +691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|runtime-imaging||
 |graphviz|10.0.1|11.0.0|app-doc||
 |greenlet|1.1.2|3.0.3|lang-python||
-|greetd|0.9.0|0.10.0|desktop-displaymanagers||
+|greetd|0.9.0|0.10.1|desktop-displaymanagers||
 |greetd-gtkgreet|0.8|0.5|desktop-displaymanagers|Possible downgrade from the current version (0.8 -> 0.5)|
 |grep|3.8|3.11|app-utils||
 |greybird|3.22.12|3.23.3|desktop-themes||
@@ -787,7 +787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.103.0|lang-python||
+|hypothesis-python|6.97.4|6.103.1|lang-python||
 |hysteria|2.4.0|2.4.5|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -1588,7 +1588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
 |lxgwcleargothic-font|0.300.4|0.311.3|desktop-fonts||
-|lxgwnewcleargothic-font|1.121|1.123.1|desktop-fonts||
+|lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
@@ -1627,7 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
 |matplotlib|3.8.0|3.9.0|lang-python||
-|maturin|1.4.0|1.5.1|lang-python||
+|maturin|1.4.0|1.6.0|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|app-utils|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|app-scientific||
 |mbedtls|2.16.7|3.6.0|runtime-cryptography||
@@ -1917,7 +1917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pep517|0.12.0|0.13.1|lang-python||
 |perl|5.36.3|5.38.2|lang-perl||
 |perl+32|999|5.38.2|runtime-optenv32|Possible downgrade from the current version (999 -> 5.38.2)|
-|perl-alien-build|1.92|2.80|lang-perl||
+|perl-alien-build|1.92|2.83|lang-perl||
 |perl-alien-libxml2|0.11|0.19|lang-perl||
 |perl-anyevent|7.14|7.17|lang-perl||
 |perl-anyevent-i3|0.17|0.19|lang-perl||
@@ -2775,6 +2775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkd3d|1.9|1.12|runtime-display||
 |vkd3d+32|1.9|1.12|runtime-optenv32||
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
+|vlc|3.0.20|3.0.21|app-multimedia||
 |vmpk|0.8.0|0.9.0|app-creativity||
 |vnstat|2.4|2.12|app-network||
 |volk|2.5.0|3.1.2|runtime-common||
