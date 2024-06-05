@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717614670?label=Updated)
+![Relative date](https://img.shields.io/date/1717618455?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1280,7 +1280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdwarf|20210305|0.9.2|runtime-common|Possible downgrade from the current version (20210305 -> 0.9.2)|
 |libe-book|0.1.2|0.1.3|runtime-doc||
 |libebml|1.4.0|1.4.5|runtime-multimedia||
-|libeconf|0.5.0|0.6.3|runtime-common||
+|libeconf|0.5.0|0.7.0|runtime-common||
 |libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
 |libepubgen|0.1.0|0.1.1|runtime-doc||
@@ -1364,7 +1364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblangtag|0.6.3|0.6.7|runtime-i18n||
 |libliftoff|0.4.1|0.5.0|runtime-display||
 |liblo|0.29|0.32|runtime-multimedia||
-|liblouis|3.12.0|3.29.0|runtime-a11y||
+|liblouis|3.12.0|3.30.0|runtime-a11y||
 |libltc|1.3.1|1.3.2|runtime-multimedia||
 |libluv|1.47.0<br>+0|1.48.0-2|lang-lua|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|runtime-devices||
@@ -1646,9 +1646,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menulibre|2.2.1|2.4.0|app-utils||
 |menumaker|0.99.12|0.99.14|app-utils||
 |merkuro|23.08.5|24.05.0|desktop-kde||
-|mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.1.0|runtime-optenv32||
-|mesa-amber|21.3.9|24.1.0|runtime-display||
+|mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.1.1|runtime-optenv32||
+|mesa-amber|21.3.9|24.1.1|runtime-display||
 |meson|1.4.0|1.4.1|app-devel||
 |messagelib|23.08.5|24.05.0|desktop-kde||
 |metacity|3.44.0|3.46.0|desktop-gnome||
