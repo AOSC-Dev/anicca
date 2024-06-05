@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717548517?label=Updated)
+![Relative date](https://img.shields.io/date/1717552748?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -350,6 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|desktop-kde||
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
+|discord|0.0.54|0.0.55|app-web||
 |discover|5.27.11|6.0.5|desktop-kde||
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
@@ -1213,6 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lablgtk|2.18.11|3.1.4|lang-ocaml||
 |ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
+|layer-shell-qt|5.27.11|6.0.5|desktop-kde||
 |lazarus|3.2|3.4|lang-pascal||
 |lazy-object-proxy|1.7.1|1.10.0|lang-python||
 |lcms2|2.14|2.16|runtime-imaging||
@@ -1264,7 +1266,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.6.5|runtime-common||
 |libcuckoo|0.3|0.3.1|runtime-common||
-|libdc1394|2.2.6|2.2.7|runtime-devices||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
 |libdecor|0.1.1|0.2.2|runtime-desktop||
 |libdeflate|1.19|1.20|runtime-common||
@@ -1939,6 +1940,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
 |perl-data-dump|1.23|1.25|lang-perl||
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
+|perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
 |perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
@@ -2284,6 +2286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
+|qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|0.9.91|app-multimedia||
 |qmlkonsole|23.08.5|24.05.0|desktop-kde||
@@ -2788,11 +2791,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader+32|1.3.272|1.3.285|runtime-optenv32||
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.280.0|1.3.285|runtime-display||
+|vulkan-utility-libraries|1.3.280.0|1.3.286|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
 |warpinator|1.6.3|1.8.3|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.05.27.00|app-utils||
+|watchman|4.9.0|2024.06.03.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
@@ -2837,6 +2840,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|app-devel||
 |xalan-c|1.12|1.12.0|app-doc||
 |xapian-core|1.4.18|1.4.25|runtime-common||
+|xapps|2.8.2|2.8.3|runtime-desktop||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.8|1.0.9|runtime-i18n||
