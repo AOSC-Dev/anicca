@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717607570?label=Updated)
+![Relative date](https://img.shields.io/date/1717611447?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -281,7 +281,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |corrosion|0.2.1|0.4.10|app-devel||
 |cowsay|3.04.01|3.7.0|app-utils||
 |cpp-utilities|5.20.0|5.24.9|runtime-common||
-|cppcheck|2.8|2.14.0|app-devel||
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compound version number '1.58.0+a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel||
 |cpulimit|3.0|3.1|app-admin||
@@ -1694,7 +1693,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpg123+32|1.25.13|1.32.6|runtime-optenv32||
 |mplayer|1.4|1.5|app-multimedia||
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
-|mpmath|1.1.0|1.4.0a1|lang-python||
 |ms-sys|2.6.0|2.8.0|app-utils||
 |msgpack-c|6.0.0|6.0.1|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
@@ -1793,7 +1791,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-num|1.3|1.5|lang-ocaml||
 |ocaml-pp|1.1.2|1.2.0|lang-ocaml||
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
-|ocamlbuild|0.14.1|0.14.3|lang-ocaml||
 |ocrad|0.27|0.29|app-doc||
 |ocrmypdf|11.7.0|16.3.1|app-doc||
 |ocserv|1.1.2|1.3.0|app-network||
@@ -2045,7 +2042,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-deep|1.130|1.204|lang-perl||
 |perl-test-fatal|0.014|0.017|lang-perl||
 |perl-test-nowarnings|1.04|1.06|lang-perl||
-|perl-text-csv|1.99|2.04|lang-perl||
 |perl-text-csv-xs|1.38|1.54|lang-perl||
 |perl-text-template|1.59|1.61|lang-perl||
 |perl-timedate|2.30|2.33|lang-perl||
