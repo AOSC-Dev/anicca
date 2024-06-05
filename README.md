@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717582410?label=Updated)
+![Relative date](https://img.shields.io/date/1717585963?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -70,6 +70,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
+|aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
@@ -327,7 +328,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debianutils|5.7|5.17|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
-|dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.0|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
@@ -494,6 +494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-wtf|0.14|1.2.1|lang-python||
 |flat-remix-gtk-theme|20200718|20220627|desktop-themes||
 |flat-remix-icon-theme|20191122|20240201|desktop-themes||
+|flatbuffers|2.0.6|24.3.25|runtime-common||
 |flatpak|1.14.6|1.14.8|app-admin||
 |flent|1.3.2|2.1.1|app-network||
 |flightgear|2020.3.13|2020.3.19|app-games||
@@ -667,7 +668,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2_9_2|runtime-gnustep||
 |gnutls|3.8.4|3.8.5|runtime-cryptography||
 |gnutls+32|3.6.15|3.8.5|runtime-optenv32||
-|go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.4|lang-golang|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
 |gobject-introspection|1.80.0|1.80.1|app-devel||
 |goffice|0.10.48|0.10.57|runtime-productivity||
 |goldendict|1.5.0~rc2|1.5.0|app-i18n||
@@ -1133,7 +1133,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde||
 |krb5|1.17.1|1.21.2-final|app-network||
 |krb5+32|1.17.1|1.21.2-final|runtime-optenv32||
-|krdc|23.08.5|24.05.0|desktop-kde||
 |krecipes-trinity|14.1.0|14.1.2|desktop-trinity||
 |krecorder|23.08.5|24.05.0|desktop-kde||
 |krename-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1673,6 +1672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mlt|7.22.0|7.24.0|runtime-multimedia||
 |mlterm|3.8.9|3.9.3|app-utils||
 |mock|2.0.0|5.1.0|lang-python||
+|modem-manager-gui|0.0.19.1|0.0.20|app-network||
 |modemmanager|1.18.12|1.22.0|app-network||
 |modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
@@ -1704,6 +1704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.8|app-admin||
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
+|mupdf|1.18.0|1.24.2|app-doc||
 |musescore|4.3.0|4.3.1|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
@@ -2557,6 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syndication|5.115.0|6.0.90|desktop-kde||
 |synergy|1.11.1|2.3.2|app-network||
 |syntax-highlighting|5.115.0|6.0.90|desktop-kde||
+|syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
 |systemd|255.6|255.7|app-admin||
@@ -2760,6 +2762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
+|vim|9.1.0446|9.1.0466|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
