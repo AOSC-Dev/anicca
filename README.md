@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717690532?label=Updated)
+![Relative date](https://img.shields.io/date/1717694031?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -95,7 +95,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.1|runtime-multimedia||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
-|astyle|3.4.16|3.5|app-devel||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
 |at-spi2-core+32|2.26.3|2.52.0|runtime-optenv32||
 |atk+32|2.26.1|2.38.0|runtime-optenv32||
@@ -116,7 +115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
 |autopep8|1.5.6|2.2.0|lang-python||
-|autossh|1.4f|1.4g|app-network||
 |avahi-tqt|14.1.0|14.1.2|desktop-trinity||
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific||
 |avr-binutils|2.37|2.42|app-devel||
@@ -435,7 +433,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etckeeper|1.18.20|1.18.21|app-admin||
 |ethtool|6.0|6.9|app-network||
 |etl|1.2.2|1.5.1|runtime-common||
-|eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.0|desktop-kde||
 |evince|42.3|46.3|desktop-gnome||
 |evolution|3.44.4|3.52.2|desktop-gnome||
@@ -1725,7 +1722,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nasm|2.16.01|2.16.03|app-devel||
 |nasm+32|2.12.01|2.16.03|runtime-optenv32||
 |nautilus|42.2|46.2|desktop-gnome||
-|nautilus-python|1.2.3|4.0.1|desktop-gnome||
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
@@ -2399,7 +2395,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
-|sarasa-gothic-fonts|1.0.12|1.0.13|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
@@ -2525,7 +2520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
-|sqlmap|1.8.5|1.8.6|app-penetration||
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
@@ -2678,7 +2672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toolbelt|0.9.1|1.0.0|lang-python||
 |topgrade|11.0.2|14.0.1|app-admin||
 |toposort|1.8|1.10|lang-python||
-|tor|0.4.7.14|0.4.8.11|app-network||
+|tor|0.4.7.14|0.4.8.12|app-network||
 |tork-trinity|14.1.0|14.1.2|desktop-trinity||
 |tornado|5.1|6.4|lang-python||
 |totem|42.0|43.0|desktop-gnome||
@@ -2767,6 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |varnish|6.3.2|7.5.0|app-network||
 |vasm|1.9f|1.9.f|app-devel||
 |vba-m|2.1.8|2.1.9|app-games||
+|vc|1.4.4|1.4.5|app-devel||
 |vdpauinfo|1.0|1.5|app-utils||
 |verdict|1.4.1|1.4.2|runtime-scientific||
 |verilator|4.204|5.024|app-electronics||
@@ -2775,7 +2770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0466|app-editors||
+|vim|9.1.0446|9.1.0470|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
