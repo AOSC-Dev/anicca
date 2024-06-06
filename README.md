@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717672373?label=Updated)
+![Relative date](https://img.shields.io/date/1717676463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1332,6 +1332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libime|1.1.7|1.1.8|runtime-i18n||
 |libindi|2.0.5|2.0.8|runtime-scientific||
+|libinput|1.24.0|1.26.0|runtime-devices||
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|runtime-network||
@@ -2557,7 +2558,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.601.193044|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.11|2.5.59.10|app-creativity|Possible downgrade from the current version (2.5.59.11 -> 2.5.59.10)|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
 |sweeper|23.08.5|24.05.0|desktop-kde||
@@ -2660,6 +2660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunderbird|115.5.2|125.0|app-web||
 |tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
+|tikzplotlib|0.9.8|0.10.1|lang-python||
 |tilda|1.4.1|2.0.0|app-utils||
 |tilp|1.17|1.18|app-devices||
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
