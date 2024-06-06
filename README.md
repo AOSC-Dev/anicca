@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717708419?label=Updated)
+![Relative date](https://img.shields.io/date/1717711947?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -213,7 +213,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|app-multimedia||
 |celluloid|0.18|0.26|app-multimedia||
 |cerberus|1.3.2|1.3.5|lang-python||
+|certbot|2.10.0|2.11.0|groups||
+|certbot-apache|2.10.0|2.11.0|app-web||
 |certbot-dns-cloudflare|2.10.0|2.11.0|app-web||
+|certbot-nginx|2.10.0|2.11.0|app-web||
 |cervisia|23.08.5|24.05.0|desktop-kde||
 |cffi|1.15.0|1.16.0|lang-python||
 |cfitsio|3.450|4.4.0|runtime-imaging||
@@ -329,7 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
-|debianutils|5.7|5.17|app-utils||
+|debianutils|5.7|5.18|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
@@ -2278,6 +2281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pytools|2019.1|2024.1.4|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
+|pyutil|3.3.0|3.3.6|lang-python||
 |pywbem|0.13.0|1.7.2|lang-python||
 |pyx|0.14.1|0.16|lang-python||
 |pyxattr|0.6.1|0.8.1|lang-python||
