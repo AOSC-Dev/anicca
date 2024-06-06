@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717711947?label=Updated)
+![Relative date](https://img.shields.io/date/1717715784?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -231,7 +231,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|ciel|3.2.6|3.2.5|app-devel|Possible downgrade from the current version (3.2.6 -> 3.2.5)|
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -252,7 +251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils||
 |cln|1.3.6|1.3.7|runtime-common||
 |cloc|1.84|2.00|app-utils||
-|cloud-init|24.1.4<br>+git20240513|24.1.6|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
+|cloud-init|24.1.4<br>+git20240513|24.1.7|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmake|3.29.3|3.29.5|app-devel||
@@ -261,7 +260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|317|app-admin||
 |cockpit-machines|284.1|313|app-admin||
-|cockpit-podman|63|88|app-admin||
+|cockpit-podman|63|89|app-admin||
 |code-server|4.9.1|4.89.1|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
 |coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -274,7 +273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |composer|2.0.13|2.7.6|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
 |configobj|5.0.6|5.0.8|lang-python||
-|configparser|3.7.3|3.12.3|lang-python||
+|configparser|3.7.3|3.12.4|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
 |conky|1.10.8|1.21.2|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
@@ -809,7 +808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
-|icewm|1.8.3|3.5.0|desktop-wm||
+|icewm|1.8.3|3.5.1|desktop-wm||
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
 |icu+32|64.2|75-1|runtime-optenv32||
