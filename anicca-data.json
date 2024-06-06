@@ -1836,7 +1836,6 @@
 ["perl-json-parse","0.57","0.43","lang-perl",1596482997,["Possible downgrade from the current version (0.57 -> 0.43)"]],
 ["perl-email-abstract","3.008","3.010","lang-perl",1678950872,[]],
 ["perl-data-dumper","2.167+02","2.183","lang-perl",1530196415,["Compound version number '2.167+02'"]],
-["perl-yaml-tiny","1.73","1.74","lang-perl",1612155063,[]],
 ["perl-mime-tools","5.509","5.515","lang-perl",1530196414,[]],
 ["perl-ipc-system-simple","1.25","1.30","lang-perl",1678950872,[]],
 ["perl-email-mime-contenttype","1.022","1.028","lang-perl",1530196415,[]],
