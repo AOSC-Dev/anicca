@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717686922?label=Updated)
+![Relative date](https://img.shields.io/date/1717690532?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1712,7 +1712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.8|app-admin||
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
-|mupdf|1.18.0|1.24.2|app-doc||
+|mupdf|1.18.0|1.24.3|app-doc||
 |musescore|4.3.0|4.3.1|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
@@ -1826,6 +1826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.9.0|4.10.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.1|app-network||
+|openh264|2.4.1<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.1+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|runtime-imaging||
 |openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
@@ -2216,7 +2217,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyiso8601|0.1.13|2.1.0|lang-python||
 |pylast|3.0.0|5.3.0|lang-python||
 |pylev|1.3.0|1.4.0|lang-python||
-|pylint|2.14.4|3.2.2|lang-python||
+|pylibacl|0.5.4|0.7.0|lang-python||
+|pylint|2.14.4|3.2.3|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
 |pymysql|0.9.3|1.1.1|lang-python||
@@ -2684,10 +2686,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
 |tpm2-tss|2.3.3|4.1.3|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
+|tqdm|4.62.3|4.66.4|lang-python||
 |tqt3|14.1.0|14.1.2|desktop-trinity||
 |tqtinterface|14.1.0|14.1.2|desktop-trinity||
 |trace-cmd|2.8.3|3.2|app-utils||
 |tracker-miners|3.3.1|3.7.3|desktop-gnome||
+|traitlets|5.0.5|5.14.3|lang-python||
 |transcode|1.1.7|1_1_7|app-multimedia||
 |translate-shell|0.9.7|0.9.7.1|app-i18n||
 |translate-toolkit|2.3.1|3.13.0|lang-python||
