@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717701201?label=Updated)
+![Relative date](https://img.shields.io/date/1717704871?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -65,7 +65,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apicula|0.9.1|0.12|app-electronics||
 |apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
-|appstream-glib|0.7.18|0_8_2|app-admin||
+|appstream-glib|0.7.18|0_8_3|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
 |apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
@@ -84,7 +84,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.05.0|desktop-kde||
 |arts|14.1.0|14.1.2|desktop-trinity||
 |asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.6|app-utils||
+|asahi-fwextract|0.6.21|0.7.7|app-utils||
 |asio|1.18.1|1.30.2|app-devel||
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.120|lang-python||
+|boto3|1.20.26|1.34.121|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -2066,6 +2066,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
+|perl-yaml-tiny|1.73|1.74|lang-perl||
 |perl4-corelibs|0.004|0.005|lang-perl||
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
@@ -2676,7 +2677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toposort|1.8|1.10|lang-python||
 |tor|0.4.7.14|0.4.8.12|app-network||
 |tork-trinity|14.1.0|14.1.2|desktop-trinity||
-|tornado|5.1|6.4|lang-python||
+|tornado|5.1|6.4.1|lang-python||
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
@@ -2880,7 +2881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xpra|5.0.8|6.0.1|app-network||
 |xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
-|xreader|3.8.5|4.0.2|app-doc||
+|xreader|3.8.5|4.2.0|app-doc||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsel|1.2.0|1.2.1|app-utils||
 |xsimd|10.0.0|13.0.0|runtime-common||
@@ -2916,6 +2917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeromq|4.3.4|4.3.5|runtime-common||
 |zerotier-one|1.12.2|1.14.0|app-network||
 |zfec|1.5.3|1.5.7.4|lang-python||
+|zig|0.12.0|0.13.0|lang-ziglang||
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
 |zlib-static|1.2.12|1.3.1|runtime-common||
