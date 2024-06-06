@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717657982?label=Updated)
+![Relative date](https://img.shields.io/date/1717661794?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1331,7 +1331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|runtime-network||
 |libime|1.1.7|1.1.8|runtime-i18n||
 |libindi|2.0.5|2.0.8|runtime-scientific||
-|libinput|1.24.0|1.25.0|runtime-devices||
+|libinput|1.24.0|1.26.0|runtime-devices||
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|runtime-network||
@@ -2353,14 +2353,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rng-tools|6.7|6.17|app-utils||
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common||
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
-|rocm-bandwidth-test|6.0.2|6.1.1|runtime-rocm||
-|rocm-cmake|6.0.2|6.1.1|runtime-rocm||
-|rocm-llvm|6.0.2|6.1.1|runtime-rocm||
-|rocm-smi-lib|6.0.2|6.1.1|runtime-rocm||
-|rocminfo|6.0.2|6.1.1|runtime-rocm||
-|rocr-runtime|6.0.2|6.1.1|runtime-rocm||
+|rocm-bandwidth-test|6.0.2|6.1.2|runtime-rocm||
+|rocm-cmake|6.0.2|6.1.2|runtime-rocm||
+|rocm-llvm|6.0.2|6.1.2|runtime-rocm||
+|rocm-smi-lib|6.0.2|6.1.2|runtime-rocm||
+|rocminfo|6.0.2|6.1.2|runtime-rocm||
+|rocr-runtime|6.0.2|6.1.2|runtime-rocm||
 |rocs|23.08.5|24.05.0|desktop-kde||
-|roct-thunk-interface|6.0.0|6.1.1|runtime-rocm||
+|roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
 |rosegarden|20.12|24.06|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
 |rpcsvc-proto|1.4.2|1.4.4|app-devel||
