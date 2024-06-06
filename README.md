@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717643733?label=Updated)
+![Relative date](https://img.shields.io/date/1717647355?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -37,7 +37,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-import-wizard|23.08.5|24.05.0|desktop-kde||
 |akonadi-mime|23.08.5|24.05.0|desktop-kde||
 |akonadi-notes|23.08.5|24.05.0|desktop-kde||
-|akonadi-search|23.08.5|24.05.0|desktop-kde||
 |akonadiconsole|23.08.5|24.05.0|desktop-kde||
 |akregator|23.08.5|24.05.0|desktop-kde||
 |alabaster|0.7.12|0.7.16|lang-python||
@@ -326,7 +325,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
-|debianutils|5.7|5.17|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
@@ -352,7 +350,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.0.5|desktop-kde||
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
-|distro|1.6.0|1.9.0|lang-python||
 |distrobox|1.4.2.1|1.7.2.1|app-utils||
 |django|5.0.3|5.0.6|lang-python||
 |dlib|19.20.0|19.24.4|lang-python||
@@ -1057,7 +1054,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity||
 |klamav-trinity|14.1.0|14.1.2|desktop-trinity||
 |klcddimmer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kldap|23.08.5|24.05.0|desktop-kde||
 |kleopatra|23.08.5|24.05.0|desktop-kde||
 |klettres|23.08.5|24.05.0|desktop-kde||
 |klickety|23.08.5|24.05.0|desktop-kde||
@@ -1479,7 +1475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libuninameslist|20190701|20240524|runtime-i18n||
 |libunistring|0.9.10|1.2|runtime-common||
 |libunwind|1.6.2|1.8.1|runtime-common||
-|libupnp|1.14.16|1.14.19|runtime-network||
 |libusb|1.0.23|1.0.27|runtime-devices||
 |libusb+32|1.0.23|1.0.27|runtime-optenv32||
 |libusb-compat|0.1.5|0.1.8|runtime-devices||
@@ -1908,7 +1903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5864|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5865|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2127,7 +2122,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podofo|0.9.6|0.10.3|runtime-doc||
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
-|poetry-core|1.7.0|1.9.0|lang-python||
 |polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
