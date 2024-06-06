@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717704871?label=Updated)
+![Relative date](https://img.shields.io/date/1717708419?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -111,6 +111,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
+|autobuild4|4.2.2|4.3.0|app-devel||
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -203,6 +204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
 |ccache|4.9.1|4.10|app-devel||
+|cchardet|2.1.7|2.2.0a2|lang-python||
 |ccid|1.5.1|1.6.0|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
 |cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
@@ -2276,7 +2278,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pytools|2019.1|2024.1.4|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
-|pyutil|3.3.0|3.3.6|lang-python||
 |pywbem|0.13.0|1.7.2|lang-python||
 |pyx|0.14.1|0.16|lang-python||
 |pyxattr|0.6.1|0.8.1|lang-python||
