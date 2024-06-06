@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717679762?label=Updated)
+![Relative date](https://img.shields.io/date/1717683200?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -62,7 +62,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
 |apicula|0.9.1|0.12|app-electronics||
-|apitrace|11.1|12.0|app-devel||
 |apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_2|app-admin||
@@ -99,6 +98,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
 |at-spi2-core+32|2.26.3|2.52.0|runtime-optenv32||
 |atk+32|2.26.1|2.38.0|runtime-optenv32||
+|atkmm|2.28.0|2.36.3|desktop-gnome||
 |atomicwrites|1.3.0|1.4.1|lang-python||
 |atomix|3.34.0|44.0|desktop-gnome||
 |attica5|5.115.0|6.0.90|desktop-kde||
@@ -227,6 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
+|ciel|3.2.6|3.2.5|app-devel|Possible downgrade from the current version (3.2.6 -> 3.2.5)|
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -1414,6 +1415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
 |libpqxx|6.4.5|7.9.0|runtime-database||
+|libpwquality|1.4.2|1.4.5|runtime-cryptography||
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
 |libqalculate|4.5.1|5.1.1|runtime-scientific||
 |libqmi|1.30.8|1.34.0|runtime-devices||
@@ -1635,7 +1637,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.05.0|desktop-kde||
 |mbpfan|2.2.1|2.4.0|app-admin||
 |mccabe|0.6.1|0.7.0|lang-python||
-|mcfly|0.8.6|0.9.0|app-utils||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
 |mdbook|0.4.14|0.4.40|app-doc||
@@ -2826,7 +2827,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
-|wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
