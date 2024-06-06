@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717683200?label=Updated)
+![Relative date](https://img.shields.io/date/1717686922?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -16,6 +16,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.2.0|3.7.0|app-utils||
 |acl|2.3.1|2.3.2|app-utils||
 |acl+32|2.2.52|2.3.2|runtime-optenv32||
+|acme|2.10.0|2.11.0|lang-python||
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|desktop-fonts|Possible downgrade from the current version (2.004 -> 2.004R)|
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts|Possible downgrade from the current version (2.002 -> 2.002R)|
@@ -251,7 +252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.6|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
-|cmake|3.29.3|3.29.4|app-devel||
+|cmake|3.29.3|3.29.5|app-devel||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
@@ -1825,7 +1826,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.9.0|4.10.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.1|app-network||
-|openh264|2.4.1<br>+gmp114<br>+2|2.4.1|app-multimedia|Compound version number '2.4.1+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|runtime-imaging||
 |openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
@@ -2216,7 +2216,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyiso8601|0.1.13|2.1.0|lang-python||
 |pylast|3.0.0|5.3.0|lang-python||
 |pylev|1.3.0|1.4.0|lang-python||
-|pylibacl|0.5.4|0.7.0|lang-python||
 |pylint|2.14.4|3.2.2|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
@@ -2685,12 +2684,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
 |tpm2-tss|2.3.3|4.1.3|runtime-devices||
 |tqca|14.1.0|14.1.2|desktop-trinity||
-|tqdm|4.62.3|4.66.4|lang-python||
 |tqt3|14.1.0|14.1.2|desktop-trinity||
 |tqtinterface|14.1.0|14.1.2|desktop-trinity||
 |trace-cmd|2.8.3|3.2|app-utils||
 |tracker-miners|3.3.1|3.7.3|desktop-gnome||
-|traitlets|5.0.5|5.14.3|lang-python||
 |transcode|1.1.7|1_1_7|app-multimedia||
 |translate-shell|0.9.7|0.9.7.1|app-i18n||
 |translate-toolkit|2.3.1|3.13.0|lang-python||
@@ -2706,7 +2703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
 |ttf-vlgothic|20200720|20220612|desktop-fonts||
 |ttyd|1.6.3|1.7.7|app-utils||
-|tuned|2.19.0|2.22.1|app-admin||
+|tuned|2.19.0|2.23.0|app-admin||
 |twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
 |twisted|21.2.0|24.3.0|lang-python||
 |twm|1.0.11|1.0.12|desktop-wm||
@@ -2827,6 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
+|wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
