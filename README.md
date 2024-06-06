@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717650822?label=Updated)
+![Relative date](https://img.shields.io/date/1717654603?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2165,7 +2165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|runtime-multimedia||
 |prompt-toolkit|2.0.8|3.0.46|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
-|protobuf|25.2|27.0|runtime-common||
+|protobuf|25.2|27.1|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils||
 |pstate-frequency|3.11.0|3.15.1|app-admin||
