@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717694031?label=Updated)
+![Relative date](https://img.shields.io/date/1717697736?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -433,6 +433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etckeeper|1.18.20|1.18.21|app-admin||
 |ethtool|6.0|6.9|app-network||
 |etl|1.2.2|1.5.1|runtime-common||
+|eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.0|desktop-kde||
 |evince|42.3|46.3|desktop-gnome||
 |evolution|3.44.4|3.52.2|desktop-gnome||
@@ -1722,6 +1723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nasm|2.16.01|2.16.03|app-devel||
 |nasm+32|2.12.01|2.16.03|runtime-optenv32||
 |nautilus|42.2|46.2|desktop-gnome||
+|nautilus-python|1.2.3|4.0.1|desktop-gnome||
 |nbd|3.24|3.26.1|app-network||
 |nbxmpp|3.1.0|4.5.4|lang-python||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific||
@@ -2395,6 +2397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
+|sarasa-gothic-fonts|1.0.12|1.0.13|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
