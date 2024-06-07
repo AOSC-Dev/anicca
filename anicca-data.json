@@ -835,7 +835,6 @@
 ["icu+32","64.2","75-1","runtime-optenv32",1563176777,[]],
 ["libdvdcss+32","1.4.2","1.4.3","runtime-optenv32",1600624175,[]],
 ["libdvdnav+32","5.0.3","6.1.1","runtime-optenv32",1461474731,[]],
-["libcap+32","2.31","2.70","runtime-optenv32",1581009557,[]],
 ["imlib2+32","1.4.8","1.12.2","runtime-optenv32",1461478155,[]],
 ["recode+32","3.6","3.7.14","runtime-optenv32",1678950872,[]],
 ["gst-plugins-ugly-1-0+32","1.16.2","1.24.4","runtime-optenv32",1582652906,[]],
