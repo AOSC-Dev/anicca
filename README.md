@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717773271?label=Updated)
+![Relative date](https://img.shields.io/date/1717776948?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -872,7 +872,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.31|app-admin||
 |jinja2|3.1.2|3.1.4|lang-python||
 |jmespath|0.10.0|1.0.1|lang-python||
-|jmol|14.30.0|16.2.15|app-scientific||
+|jmol|14.30.0|16.2.17|app-scientific||
 |john|1.8.0|1.9.0|app-penetration||
 |josepy|1.13.0|1.14.0|lang-python||
 |json-c|0.16|0.17|runtime-common||
@@ -1251,6 +1251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libc+wasi|20|22|runtime-wasi||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
 |libcap|2.69|2.70|runtime-common||
+|libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
 |libcbor|0.8.0|0.11.0|runtime-common||
@@ -1770,7 +1771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
-|nomino|1.3.1|1.3.4|app-utils||
+|nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
 |noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.6.1|desktop-fonts|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
@@ -2296,6 +2297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
 |qownnotes|22.6.1|24.6.0|app-web||
+|qpdf|11.9.0|11.9.1|app-doc||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
