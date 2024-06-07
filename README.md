@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717776948?label=Updated)
+![Relative date](https://img.shields.io/date/1717780398?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1117,7 +1117,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontrast|23.08.5|24.05.0|desktop-kde||
 |konversation|23.08.5|24.05.0|desktop-kde||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity||
-|kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
 |kopeninghours|23.08.5|24.05.0|desktop-kde||
 |kopete|23.08.5|24.05.0|desktop-kde||
 |kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1450,7 +1449,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
-|libspatialite|5.0.1|5.1.0|runtime-gis||
 |libspectre|0.2.9|0.2.12|runtime-doc||
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32||
 |libspiro|0.5.20150702|20221101|runtime-creativity||
@@ -1640,7 +1638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
-|mdbook|0.4.14|0.4.40|app-doc||
 |mdds|2.0.2|2.1.1|runtime-productivity||
 |mechanize|0.4.5|0.4.10|lang-python||
 |mediainfo|22.06|24.05|app-multimedia||
