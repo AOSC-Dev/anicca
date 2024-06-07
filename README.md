@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717751652?label=Updated)
+![Relative date](https://img.shields.io/date/1717755190?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -341,6 +341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network||
+|dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
 |diff-match-patch|20200713|20230430|lang-python||
@@ -685,6 +686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpsd|3.18.1|3.25|app-scientific||
 |gpsim|0.31.0|0.32.1|app-electronics||
 |gptfdisk|1.0.9|1.0.10|app-admin||
+|gradle|8.3|8.8.0|lang-java||
 |granatier|23.08.5|24.05.0|desktop-kde||
 |grantlee-editor|23.08.5|24.05.0|desktop-kde||
 |grantleetheme|23.08.5|24.05.0|desktop-kde||
@@ -882,6 +884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.0|desktop-kde||
 |jupyter-client|5.2.4|8.6.2|lang-python||
 |jupyter-core|4.4.0|5.7.2|lang-python||
+|just|1.27.0|1.28.0|app-devel||
 |k3b|23.08.5|24.05.0|desktop-kde||
 |k3b-trinity|14.1.0|14.1.2|desktop-trinity||
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -935,6 +938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcolorchooser|23.08.5|24.05.0|desktop-kde||
 |kcolorpicker|0.2.0|0.3.1|desktop-kde||
 |kcompletion|5.115.0|6.0.90|desktop-kde||
+|kconfig|5.115.0|6.0.90|desktop-kde||
 |kconfigwidgets|5.115.0|6.0.90|desktop-kde||
 |kcontacts|5.115.0|6.0.90|desktop-kde||
 |kcoreaddons|5.115.0|6.0.90|desktop-kde||
@@ -1332,6 +1336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|runtime-network||
+|libisoburn|1.5.2|1.5.6|runtime-devices||
 |libjcat|0.1.8|0.2.1|runtime-common||
 |libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
 |libkcddb|23.08.5|24.05.0|desktop-kde||
@@ -1454,8 +1459,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh2|1.9.0|1.11.0|runtime-network||
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32||
 |libstoragemgmt|1.7.3|1.10.0|runtime-admin||
+|libsysstat|0.4.4|1.0.0|runtime-admin||
 |libtasn1|4.15.0|4.19.0|runtime-cryptography||
 |libtasn1+32|4.15.0|4.19.0|runtime-optenv32||
+|libteam|1.31|1.32|app-network||
 |libthai|0.1.28|0.1.29|runtime-i18n||
 |libticables2|1.3.4|1.3.5|runtime-devices||
 |libticalcs2|1.1.8|1.1.9|runtime-devices||
@@ -1824,6 +1831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
+|openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
@@ -1901,6 +1909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
+|pcsclite|1.9.9|2.2.3|app-devices||
 |pcsx2|1.6.0<br>+git20210825|1.7.5865|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
@@ -1991,6 +2000,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl||
 |perl-ipc-system-simple|1.25|1.30|lang-perl||
+|perl-javascript-minifier-xs|0.11|0.15|lang-perl||
 |perl-json|2.90|4.10|lang-perl||
 |perl-json-parse|0.57|0.43|lang-perl|Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compound version number '4.0+00'|
@@ -2153,6 +2163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.1|app-gis||
 |projectm|4.0.0|4.1.1|runtime-multimedia||
+|prompt-toolkit|2.0.8|3.0.46|lang-python||
 |proot|5.1.20171016|5.4.0|app-utils||
 |protobuf|25.2|27.1|runtime-common||
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
@@ -2186,6 +2197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptodome|3.7.3|3.20.0|lang-python||
 |pycryptodomex|3.9.9|3.20.0|lang-python||
 |pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
+|pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
 |pycurl|7.43.0.6|7.45.3|lang-python||
 |pydantic|2.6.0|2.7.3|lang-python||
@@ -2247,6 +2259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-evdev|1.4.0|1.7.1|lang-python||
 |python-graphviz|0.16|0.20.3|lang-python||
 |python-hglib|2.6.1|2.6.2|lang-python||
+|python-installer|0.5.1|0.7.0|lang-python||
 |python-kaitaistruct|0.9|0.10|lang-python||
 |python-ldap3|2.9|2.9.1|lang-python||
 |python-linux-procfs|0.7.1|0.7.3|lang-python||
@@ -2311,6 +2324,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
+|rdma-core|51.0|52.0|app-admin||
 |re2|20240501|2024-06-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-06-01)|
 |re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
@@ -2559,6 +2573,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |system-config-printer|1.5.17|1.5.18|app-admin||
 |systemd|255.6|255.7|app-admin||
 |systemsettings|5.27.11|6.0.5|desktop-kde||
+|systemtap|4.4|5.1|app-utils||
 |sysv-ipc|1.0.1|1.1.0|lang-python||
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
@@ -2696,6 +2711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twolame|0.3.13|0.4.0|app-multimedia||
 |twolame+32|0.3.13|0.4.0|runtime-optenv32||
 |txaio|18.8.1|23.1.1|lang-python||
+|txt2tags|3.7|3.9|app-doc||
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.12.1|lang-python||
@@ -2803,6 +2819,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|lang-python||
 |wheezy.template|3.1.0|3.2.2|lang-python||
+|wikipedia|1.4.0|1.4.5|lang-python||
 |wildmidi|0.4.3|0.4.6|app-multimedia||
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |wimlib|1.13.6|1.14.4|app-utils||
