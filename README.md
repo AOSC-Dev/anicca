@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717758721?label=Updated)
+![Relative date](https://img.shields.io/date/1717763044?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -694,7 +694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|runtime-imaging||
 |graphviz|10.0.1|11.0.0|app-doc||
 |greenlet|1.1.2|3.0.3|lang-python||
-|greetd|0.9.0|0.10.1|desktop-displaymanagers||
+|greetd|0.9.0|0.10.3|desktop-displaymanagers||
 |greetd-gtkgreet|0.8|0.5|desktop-displaymanagers|Possible downgrade from the current version (0.8 -> 0.5)|
 |grep|3.8|3.11|app-utils||
 |greybird|3.22.12|3.23.3|desktop-themes||
@@ -1261,7 +1261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin||
 |libchamplain|0.12.20|0.12.21|desktop-gnome||
 |libchewing|0.5.1|0.8.4|runtime-i18n||
-|libclc|17.0.3|18.1.6|runtime-devices||
+|libclc|17.0.3|18.1.7|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
 |libconfig|1.7.2|1.7.3|runtime-common||
@@ -1464,7 +1464,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtasn1|4.15.0|4.19.0|runtime-cryptography||
 |libtasn1+32|4.15.0|4.19.0|runtime-optenv32||
 |libteam|1.31|1.32|app-network||
-|libthai|0.1.28|0.1.29|runtime-i18n||
 |libticables2|1.3.4|1.3.5|runtime-devices||
 |libticalcs2|1.1.8|1.1.9|runtime-devices||
 |libticonv|1.1.4|1.1.5|runtime-devices||
@@ -1501,7 +1500,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.1|runtime-multimedia||
 |libvpx+32|1.9.0|1.14.1|runtime-optenv32||
-|libwacom|2.4.0|2.11.0|runtime-devices||
+|libwacom|2.4.0|2.12.0|runtime-devices||
 |libwebp|1.3.1|1.4.0|runtime-imaging||
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32||
 |libwebsockets|3.1.0|4.3.3|runtime-web||
@@ -1558,9 +1557,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|app-network||
 |lldpd|1.0.17|1.0.18|app-network||
 |llfuse|1.4.1|1.5.0|lang-python||
-|llvm|17.0.6|18.1.6|app-devel||
-|llvm+32|14.0.6|18.1.6|runtime-optenv32||
-|llvm-runtime+wasi|17.0.6|18.1.6|runtime-wasi||
+|llvm|17.0.6|18.1.7|app-devel||
+|llvm+32|14.0.6|18.1.7|runtime-optenv32||
+|llvm-runtime+wasi|17.0.6|18.1.7|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
 |lmdb|0.9.28|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -1590,7 +1589,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.300.4|0.311.3|desktop-fonts||
+|lxgwcleargothic-font|0.300.4|0.312|desktop-fonts||
 |lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
@@ -2157,7 +2156,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
-|prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.0|desktop-kde||
 |prison5|5.115.0|6.0.90|desktop-kde||
