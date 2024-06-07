@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717780398?label=Updated)
+![Relative date](https://img.shields.io/date/1717784250?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -171,6 +171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.0.90|desktop-kde||
 |breeze-plymouth|5.27.11|6.0.5|desktop-kde||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
+|btrfs-progs|6.8.1|6.9|app-admin||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bullet|2.88|3.25|app-scientific||
 |bup|0.30|0.33.3|app-utils||
@@ -1117,6 +1118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontrast|23.08.5|24.05.0|desktop-kde||
 |konversation|23.08.5|24.05.0|desktop-kde||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity||
+|kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
 |kopeninghours|23.08.5|24.05.0|desktop-kde||
 |kopete|23.08.5|24.05.0|desktop-kde||
 |kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1449,6 +1451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
 |libsoup|2.74.2|3.5.1|runtime-web||
 |libsoup-3|3.2.2|3.5.1|runtime-web||
+|libspatialite|5.0.1|5.1.0|runtime-gis||
 |libspectre|0.2.9|0.2.12|runtime-doc||
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32||
 |libspiro|0.5.20150702|20221101|runtime-creativity||
@@ -1638,6 +1641,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python||
 |mcomix|1.2.1|3.1.0|app-utils||
 |mdadm|4.2|4.3|app-admin||
+|mdbook|0.4.14|0.4.40|app-doc||
 |mdds|2.0.2|2.1.1|runtime-productivity||
 |mechanize|0.4.5|0.4.10|lang-python||
 |mediainfo|22.06|24.05|app-multimedia||
@@ -1776,7 +1780,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4_9_1_REL|app-network||
 |nsgenbind|0.8|0.9|app-devel||
 |nspr+32|4.24|4.35|runtime-optenv32||
-|nss+32|3.78|3.100|runtime-optenv32||
+|nss|3.100|3.101|runtime-cryptography||
+|nss+32|3.78|3.101|runtime-optenv32||
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet||
@@ -2432,7 +2437,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-rust|1.5.2|1.9.0|lang-python||
 |setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
-|sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
 |shadowsocks-rust|1.18.4|1.19.2|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
