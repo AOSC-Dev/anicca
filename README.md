@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717791269?label=Updated)
+![Relative date](https://img.shields.io/date/1717794936?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.121|lang-python||
+|boto3|1.20.26|1.34.122|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -529,6 +529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
 |freetype|2.12.1|2.13.2|runtime-desktop||
+|freetype+32|2.12.1|2.13.2|runtime-optenv32||
 |freexl|1.0.5|2.0.0|runtime-gis||
 |frescobaldi|3.2|3.3.0|app-multimedia||
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32||
@@ -1738,6 +1739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.0.1|desktop-cinnamon||
 |neochat|23.08.5|24.05.0|desktop-kde||
 |neomutt|20200619|20240425|app-web||
+|neon+32|0.31.2|0.33.0|runtime-optenv32||
 |nestopia|1.51.0|1.52.1|app-games||
 |net-snmp|5.7.3|5.9.4|app-network||
 |netaddr|0.7.19|1.3.0|lang-python||
@@ -2276,7 +2278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python||
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python||
 |pythondialog|3.3.0|3.5.3|lang-python||
-|pytools|2019.1|2024.1.4|lang-python||
+|pytools|2019.1|2024.1.5|lang-python||
 |pyudev|0.24.1|0.24.3|lang-python||
 |pyusb|1.0.2|1.2.1|lang-python||
 |pyutil|3.3.0|3.3.6|lang-python||
