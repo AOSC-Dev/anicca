@@ -2075,7 +2075,7 @@
 ["zope-component","4.4.1","6.0","lang-python",1530283385,[]],
 ["pam-python","1.0.7","1.0.8","lang-python",1594193185,[]],
 ["gtkspellcheck","4.0.5","5.0.3","lang-python",1495855632,[]],
-["nbxmpp","3.1.0","4.5.4","lang-python",1655338775,[]],
+["nbxmpp","3.1.0","5.0.0","lang-python",1655338775,[]],
 ["boto3","1.20.26","1.34.122","lang-python",1616123331,[]],
 ["pygccxml","2.1.0","2.5.0","lang-python",1614161777,[]],
 ["mygpoclient","1.8","1.9","lang-python",1580710078,[]],
