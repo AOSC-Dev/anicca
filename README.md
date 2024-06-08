@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717873948?label=Updated)
+![Relative date](https://img.shields.io/date/1717877608?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1736,6 +1736,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncdu|1.16|2.4|app-utils||
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
+|neatvnc|0.7.1|0.8.0|runtime-network||
 |nemo|5.8.3|6.0.2|desktop-cinnamon||
 |nemo-extensions|5.8.0|6.0.1|desktop-cinnamon||
 |neochat|23.08.5|24.05.0|desktop-kde||
@@ -1906,7 +1907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathspec|0.11.0|0.12.1|lang-python||
 |patool|1.12|upstream/2.2.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.2.0)|
 |pbr|5.6.0|6.0.0|lang-python||
-|pciutils|3.9.0|3.12.0|app-utils||
+|pciutils|3.9.0|3.13.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.2.2|app-utils||
 |pcre|8.44|8.45|runtime-common||
@@ -2528,7 +2529,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlcipher|4.5.6|4.6.0|app-database||
 |sqlite|3.45.1|3.46.0|app-database||
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32||
-|sqlite-fdw|2.1.0|2.4.0|app-database||
 |sqlitebrowser|3.12.1|83649a3-3357|app-database||
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
