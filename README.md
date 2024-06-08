@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717823540?label=Updated)
+![Relative date](https://img.shields.io/date/1717827424?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1499,7 +1499,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32||
 |libvncserver|0.9.13|0.9.14|runtime-network||
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
-|libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.1|runtime-multimedia||
 |libvpx+32|1.9.0|1.14.1|runtime-optenv32||
 |libwacom|2.4.0|2.12.0|runtime-devices||
@@ -1995,7 +1994,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-html-tagset|3.20|3.24|lang-perl||
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
-|perl-http-date|6.02|6.06|lang-perl||
 |perl-http-message|6.11|6.46|lang-perl||
 |perl-image-exiftool|12.50|12.85|lang-perl||
 |perl-io-socket-inet6|2.72|2.73|lang-perl||
@@ -2441,7 +2439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
 |shadowsocks-rust|1.18.4|1.19.2|app-network||
-|shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
@@ -2792,17 +2789,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
+|vscodium|1.89.1.24130|1.90.0.24158|app-editors||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
-|vulkan-extensionlayer|1.3.280.0|1.3.285|runtime-display||
-|vulkan-headers|1.3.280.0|1.3.286|runtime-display||
-|vulkan-headers+32|1.3.272|1.3.286|runtime-optenv32||
-|vulkan-loader|1.3.280.0|1.3.285|runtime-display||
-|vulkan-loader+32|1.3.272|1.3.285|runtime-optenv32||
+|vulkan-extensionlayer|1.3.280.0|1.3.287|runtime-display||
+|vulkan-headers|1.3.280.0|1.3.287|runtime-display||
+|vulkan-headers+32|1.3.272|1.3.287|runtime-optenv32||
+|vulkan-loader|1.3.280.0|1.3.287|runtime-display||
+|vulkan-loader+32|1.3.272|1.3.287|runtime-optenv32||
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.280.0|1.3.286|runtime-display||
-|vulkan-validationlayers|1.3.280.0|1.3.285|runtime-display||
+|vulkan-utility-libraries|1.3.280.0|1.3.287|runtime-display||
+|vulkan-validationlayers|1.3.280.0|1.3.287|runtime-display||
 |warpinator|1.6.3|1.8.3|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.06.03.00|app-utils||
@@ -2816,7 +2814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia||
 |websocket-client|1.7.0|1.8.0|lang-python||
 |websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.3.1|app-web||
+|weechat|4.2.2|4.3.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
 |wesnoth|1.16.10|1.19.0|app-games||
