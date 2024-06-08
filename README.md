@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717849137?label=Updated)
+![Relative date](https://img.shields.io/date/1717852358?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -337,7 +337,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.1|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.2.6|0.2.5|app-admin|Possible downgrade from the current version (0.2.6 -> 0.2.5)|
 |deploykit-gui|0.4.5|test-ci|app-admin|Versions not comparable: `0.4.5` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
