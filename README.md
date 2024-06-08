@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717813738?label=Updated)
+![Relative date](https://img.shields.io/date/1717816492?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2559,7 +2559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.601.193044|app-multimedia||
+|sunshine|0.23.0|2024.607.215756|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
@@ -2638,7 +2638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.3|app-web||
+|telegram-desktop|5.0.1|5.1.5|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
@@ -2655,7 +2655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|runtime-common||
 |texlive|20220321|2024|app-doc|Possible downgrade from the current version (20220321 -> 2024)|
 |texmaker|5.1.2|5.1.4|app-doc||
-|texstudio|4.0.2|4.8.0|app-doc||
+|texstudio|4.0.2|4.8.1|app-doc||
 |texworks|0.6.6|0.6.9|app-doc||
 |thedarkmod|2.09a|2.12|app-games||
 |thin-provisioning-tools|1.0.10|1.0.12|app-admin||
