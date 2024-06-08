@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717884723?label=Updated)
+![Relative date](https://img.shields.io/date/1717888354?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1418,7 +1418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.43|runtime-optenv32||
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
-|libpqxx|6.4.5|7.9.0|runtime-database||
+|libpqxx|6.4.5|7.9.1|runtime-database||
 |libpwquality|1.4.2|1.4.5|runtime-cryptography||
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
 |libqalculate|4.5.1|5.1.1|runtime-scientific||
@@ -1671,7 +1671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mini-portile|2.8.6|2.8.7|lang-ruby||
 |minicom|2.8|2.9|app-utils||
 |miniserve|0.26.0|0.27.1|app-web||
-|miniupnpc|2.1|2.2.7|app-network||
+|miniupnpc|2.1|2.2.8|app-network||
 |miniupnpd|2.3.5|2.3.6|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
 |minuet|23.08.5|24.05.0|desktop-kde||
