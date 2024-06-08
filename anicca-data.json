@@ -1464,6 +1464,7 @@
 ["mariadb","10.9.4","11.5.1","app-database",1620461769,[]],
 ["redis","7.2.4","7.2.5","app-database",1709472578,[]],
 ["sqlcipher","4.5.6","4.6.0","app-database",1709967928,[]],
+["sqlite-fdw","2.1.0","2.4.0","app-database",1635182639,[]],
 ["tinycdb","0.78","0.81","app-database",1678950872,[]],
 ["sqlite","3.45.1","3.46.0","app-database",1709472589,[]],
 ["pgxnclient","1.3.1","1.3.2","app-database",1620461770,[]],
