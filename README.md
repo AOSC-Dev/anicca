@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717866701?label=Updated)
+![Relative date](https://img.shields.io/date/1717870475?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -617,7 +617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibc+32|2.38|2.39|runtime-optenv32||
 |glibmm|2.66.2|2.80.0|desktop-gnome||
 |glibmm-2.68|2.78.0|2.80.0|desktop-gnome||
-|glog|0.3.5|0.7.0|runtime-common||
+|glog|0.3.5|0.7.1|runtime-common||
 |gloox|1.0.27|1.0.28|runtime-web||
 |glslang|13.1.1|14.2.0|app-imaging||
 |glslang+32|7.11.3214|14.2.0|runtime-optenv32||
@@ -2097,7 +2097,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
-|pkginfo|1.5.0.1|1.11.0|lang-python||
+|pkginfo|1.5.0.1|1.11.1|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|desktop-kde||
