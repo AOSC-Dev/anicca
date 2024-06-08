@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717827424?label=Updated)
+![Relative date](https://img.shields.io/date/1717830750?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1499,6 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32||
 |libvncserver|0.9.13|0.9.14|runtime-network||
 |libvoikko|4.3.1|4.3.2|runtime-i18n||
+|libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.1|runtime-multimedia||
 |libvpx+32|1.9.0|1.14.1|runtime-optenv32||
 |libwacom|2.4.0|2.12.0|runtime-devices||
@@ -1994,6 +1995,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-html-tagset|3.20|3.24|lang-perl||
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
+|perl-http-date|6.02|6.06|lang-perl||
 |perl-http-message|6.11|6.46|lang-perl||
 |perl-image-exiftool|12.50|12.85|lang-perl||
 |perl-io-socket-inet6|2.72|2.73|lang-perl||
@@ -2439,6 +2441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
 |shadowsocks-rust|1.18.4|1.19.2|app-network||
+|shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
