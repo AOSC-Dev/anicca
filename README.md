@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717834444?label=Updated)
+![Relative date](https://img.shields.io/date/1717838080?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -738,7 +738,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkspellcheck|4.0.5|5.0.3|lang-python||
 |gtranslator|42.0|46.1|desktop-gnome||
 |gucharmap|15.1.3|15.1.5|desktop-gnome||
-|guile|3.0.4|3.0.9|app-devel||
 |gulp|4.0.0|5.0.0|lang-js||
 |gupnp|1.2.4|1.6.6|desktop-gnome||
 |gupnp-av|0.12.11|0.14.1|desktop-gnome||
@@ -1288,6 +1287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libeconf|0.5.0|0.7.0|runtime-common||
 |libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
+|libepubgen|0.1.0|0.1.1|runtime-doc||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts||
 |libesmtp|1.0.6|1.1.0|runtime-network||
 |libetebase|0.5.4|0.5.6|runtime-cryptography||
