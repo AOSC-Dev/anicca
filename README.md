@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717863417?label=Updated)
+![Relative date](https://img.shields.io/date/1717866701?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -531,8 +531,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|runtime-desktop||
 |freetype+32|2.12.1|2.13.2|runtime-optenv32||
 |freexl|1.0.5|2.0.0|runtime-gis||
+|frei0r-plugins|2.3.2|2.3.3|runtime-multimedia||
 |frescobaldi|3.2|3.3.0|app-multimedia||
-|fribidi+32|1.0.10|1.0.14|runtime-optenv32||
+|fribidi|1.0.14|1.0.15|app-scientific||
+|fribidi+32|1.0.10|1.0.15|runtime-optenv32||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin||
 |fuse-python|0.3.1|1.0.7|lang-python||
@@ -584,7 +586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gfm|1.07|1.08|app-devices||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
-|ghidra|11.0|11.0.3_build|app-devel||
+|ghidra|11.0|11.1_build|app-devel||
 |ghostscript|9.54.0|10.03.1|app-doc||
 |ghostscript+32|9.27|10.03.1|runtime-optenv32||
 |ghostwriter|23.08.5|24.05.0|desktop-kde||
@@ -607,7 +609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitui|0.26.2|0.26.3|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
-|glances|4.0.5|4.0.7|app-admin||
+|glances|4.0.5|4.0.8|app-admin||
 |glib|2.80.0|2.80.2|runtime-common||
 |glib+32|2.62.6|2.80.2|runtime-optenv32||
 |glib-networking|2.72.2|2.80.0|runtime-common||
