@@ -371,6 +371,7 @@
 ["loudmouth","1.5.3","1.5.4","runtime-web",1531681602,[]],
 ["telepathy-accounts-signon","1.0","2.1","runtime-web",1461632861,[]],
 ["libnspsl","0.1.6","0.1.7","runtime-web",1591894752,[]],
+["uhttpmock","0.5.3","0.10.0","runtime-web",1600321917,[]],
 ["gcc+cross-ppc64","9.3.1","14.1.0","app-devel",1678950872,[]],
 ["just","1.27.0","1.28.0","app-devel",1716823276,[]],
 ["dotnet-templates-6.0","6.0.422","6.0.423","app-devel",1716597653,[]],
