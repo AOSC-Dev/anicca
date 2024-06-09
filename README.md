@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717956968?label=Updated)
+![Relative date](https://img.shields.io/date/1717960274?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1103,7 +1103,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi|20.3|21.0|app-multimedia||
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|app-multimedia||
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
-|koko|23.08.5|24.05.0|desktop-kde||
 |kolf|23.08.5|24.05.0|desktop-kde||
 |kollision|23.08.5|24.05.0|desktop-kde||
 |kolourpaint|23.08.5|24.05.0|desktop-kde||
@@ -1233,6 +1232,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaccounts-qt|1.16|1.17|runtime-desktop||
 |libadwaita|1.5.0|1.5.1|desktop-gnome||
 |libaio|0.3.111|0.3.113|runtime-common||
+|libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
 |libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
@@ -1884,7 +1884,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pamixer|1.4|1.6|app-multimedia||
 |pandas|2.1.2|2.2.2|lang-python||
 |pandoc|3.1.13|3.2|app-doc||
-|pango+32|1.44.7|1.52.2|runtime-optenv32||
+|pango|1.52.2|1.54.0|runtime-desktop||
+|pango+32|1.44.7|1.54.0|runtime-optenv32||
 |pangomm|2.46.3|2.52.0|runtime-desktop||
 |pangomm-2.48|2.50.1|2.52.0|runtime-desktop||
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Possible downgrade from the current version (20180816 -> .1.5.0)|
