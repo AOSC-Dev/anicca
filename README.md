@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717913876?label=Updated)
+![Relative date](https://img.shields.io/date/1717917135?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -171,7 +171,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.0.90|desktop-kde||
 |breeze-plymouth|5.27.11|6.0.5|desktop-kde||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
-|btrfs-progs|6.8.1|6.9|app-admin||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bullet|2.88|3.25|app-scientific||
 |bup|0.30|0.33.3|app-utils||
@@ -337,7 +336,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.1|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.4.5|test-ci|app-admin|Versions not comparable: `0.4.5` and `test-ci`|
+|deploykit-backend|0.3.0|0.2.6|app-admin|Possible downgrade from the current version (0.3.0 -> 0.2.6)|
+|deploykit-gui|0.4.6|test-ci|app-admin|Versions not comparable: `0.4.6` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -2133,6 +2133,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podcastparser|0.6.5|0.6.10|lang-python||
 |podman|4.9.3<br>+vsock0.7.2|5.1.1|app-containers|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|runtime-doc||
+|poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
 |polari|42.1|46.0|desktop-gnome||
