@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717949699?label=Updated)
+![Relative date](https://img.shields.io/date/1717953227?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -302,6 +302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.1|lang-python||
 |ctags|20191203|6.1.20240609.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240609.0)|
+|cuda|12.5.0<br>+555.42.02|12.5.0|app-devel|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02 -> 12.5.0)|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|app-admin||
 |cups+32|2.3.3|2.4.8|runtime-optenv32||
@@ -2873,7 +2874,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xfce4-power-manager|4.18.3|4.18.4|desktop-xfce||
 |xfce4-screenshooter|1.10.5|1.10.6|desktop-xfce||
+|xfce4-session|4.18.3|4.18.4|desktop-xfce||
 |xfce4-settings|4.18.4|4.18.5|desktop-xfce||
 |xfe|1.46.1|1.46.2|app-utils||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
