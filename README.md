@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717960274?label=Updated)
+![Relative date](https://img.shields.io/date/1717963992?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -173,7 +173,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotlipy|0.7.0|1.0.9.2|lang-python||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |bullet|2.88|3.25|app-scientific||
-|bup|0.30|0.33.3|app-utils||
 |c-ares|1.28.1|1.30.0|runtime-network||
 |cabextract|1.9|1.11|app-utils||
 |cachecontrol|0.12.6|0.14.0|lang-python||
@@ -1103,6 +1102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi|20.3|21.0|app-multimedia||
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|app-multimedia||
 |koffice-trinity|14.1.0|14.1.2|desktop-trinity||
+|koko|23.08.5|24.05.0|desktop-kde||
 |kolf|23.08.5|24.05.0|desktop-kde||
 |kollision|23.08.5|24.05.0|desktop-kde||
 |kolourpaint|23.08.5|24.05.0|desktop-kde||
