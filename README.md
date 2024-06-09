@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717888354?label=Updated)
+![Relative date](https://img.shields.io/date/1717894507?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1593,7 +1593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
-|lxgwcleargothic-font|0.300.4|0.312|desktop-fonts||
+|lxgwcleargothic-font|0.300.4|0.320|desktop-fonts||
 |lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
@@ -2732,7 +2732,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udns|0.4|0.5|app-network||
 |ufw|0.36|0.36.2|app-network||
 |uget|2.2.3<br>+1|2.2.2|app-web|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
-|uhttpmock|0.5.3|0.10.0|runtime-web||
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
 |umbrello|23.08.5|24.05.0|desktop-kde||
