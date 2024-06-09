@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717898649?label=Updated)
+![Relative date](https://img.shields.io/date/1717902864?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -132,7 +132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
 |baloo|5.115.0|6.0.90|desktop-kde||
 |baloo-widgets|23.08.5|24.05.0|desktop-kde||
-|balz|1.20|9.86|app-utils||
+|balz|1.20|.55|app-utils||
 |bandwhich|0.20.0|0.22.2|app-network||
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
@@ -154,7 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|desktop-kde||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
-|boinc|7.24.3|8.0/8.0.2|app-scientific||
+|boinc|7.24.3|8.0.2|app-scientific||
 |bomber|23.08.5|24.05.0|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
@@ -1861,7 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentimelineio|0.15|0.16.0|runtime-multimedia||
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|app-games|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|app-network||
-|openvswitch|3.0.3|3.3.0|app-network||
+|openvswitch|3.0.3|3.3.1|app-network||
 |optipng|0.7.7|0.7.8|app-utils||
 |opus|1.3.1|1.5.2|runtime-multimedia||
 |opus+32|1.3.1|1.5.2|runtime-optenv32||
@@ -1916,7 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5870|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5873|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
