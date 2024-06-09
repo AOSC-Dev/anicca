@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717953227?label=Updated)
+![Relative date](https://img.shields.io/date/1717956968?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -657,7 +657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
 |gnome-shell-extensions|42.3|46.2|desktop-gnome||
 |gnome-software|42.4|46.2|desktop-gnome||
-|gnome-sudoku|42.0|46.1|desktop-gnome||
+|gnome-sudoku|42.0|46.2|desktop-gnome||
 |gnome-system-monitor|42.0|46.0|desktop-gnome||
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome||
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome||
@@ -1233,7 +1233,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaccounts-qt|1.16|1.17|runtime-desktop||
 |libadwaita|1.5.0|1.5.1|desktop-gnome||
 |libaio|0.3.111|0.3.113|runtime-common||
-|libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
 |libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
