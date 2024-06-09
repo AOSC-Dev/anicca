@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717920896?label=Updated)
+![Relative date](https://img.shields.io/date/1717924437?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -457,7 +457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python||
-|fastfetch|2.14.0|2.15.0|app-utils||
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
@@ -512,7 +511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome||
 |font-awesome|6.5.1|6.5.2|desktop-fonts||
 |font-manager|0.8.8|0.8.9|app-utils||
-|fontconfig|2.14.0|2.15.0|runtime-desktop||
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
 |fonttools|4.47.2|4.53.0|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
@@ -2309,7 +2307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|0.5.6|0.9.91|app-multimedia||
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
-|qtcreator|13.0.1|13.0.2|app-devel||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
 |qtractor|0.9.23|0.9.91|app-multimedia||
@@ -2878,6 +2875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfce4-screenshooter|1.10.5|1.10.6|desktop-xfce||
+|xfce4-settings|4.18.4|4.18.5|desktop-xfce||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
 |xjadeo|0.8.13|0.8.14|app-multimedia||
