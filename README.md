@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718007415?label=Updated)
+![Relative date](https://img.shields.io/date/1718010912?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -540,7 +540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
 |fzf|0.46.1|0.53.0|app-utils||
-|gajim|1.4.0|1.8.4|app-web||
+|gajim|1.4.0|1.9.0|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
 |gammaray|2.11.2|3.0.0|app-devel||
 |gap|4.10.2|4.13.0|app-scientific||
@@ -2243,7 +2243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqtwebengine|5.15.5|5.15.6|lang-python||
 |pyscard|1.9.9|2.0.10|lang-python||
 |pyscss|1.3.7|1.4.0|lang-python||
-|pyside2|5.15.11|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.11 -> 5.15.2.1)|
+|pyside2|5.15.14|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|lang-python||
 |pysocks|1.6.8|1.7.1|lang-python||
 |pysol-cards|0.14.2|0.16.0|lang-python||
@@ -2532,7 +2532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
-|squid|5.7|6.9|app-web||
+|squid|5.7|6.10|app-web||
 |sra-tools|3.0.3|3.1.1|app-scientific||
 |srain|1.5.1|1.7.0|app-web||
 |sratom|0.6.4|0.6.16|runtime-common||
