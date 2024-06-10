@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718010912?label=Updated)
+![Relative date](https://img.shields.io/date/1718014551?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -155,7 +155,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|desktop-kde||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
-|boinc|7.24.3|8.0.2|app-scientific||
 |bomber|23.08.5|24.05.0|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
@@ -1251,7 +1250,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.10|runtime-common||
 |libc+wasi|20|22|runtime-wasi||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
-|libcap|2.69|2.70|runtime-common||
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
@@ -1306,7 +1304,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfprint|1.94.4|1.94.7|runtime-devices||
 |libftdi|1.4|1.5|runtime-devices||
 |libgcrypt+32|1.9.1|1.10.3|runtime-optenv32||
-|libgdiplus|6.0.5|6.1|lang-dotnet||
 |libgee|0.20.5|0.20.6|desktop-gnome||
 |libgeotiff|1.5.1|1.7.3|runtime-gis||
 |libgig|4.4.0|4.4.1|runtime-multimedia||
@@ -1596,7 +1593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
 |lynx|2.9.0|2.9.2|app-web||
-|lyx|2.3.7|2.4.0|app-doc||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
 |lziprecover|1.21|1.24|app-utils||
@@ -1647,7 +1643,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meld|3.21.3|3.22.2|desktop-gnome||
 |melonds|0.9.2|0.9.5|app-games||
 |memcached|1.6.12|1.6.28|app-admin||
-|menulibre|2.2.1|2.4.0|app-utils||
 |menumaker|0.99.12|0.99.14|app-utils||
 |merkuro|23.08.5|24.05.0|desktop-kde||
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
@@ -2156,7 +2151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerpc-utils|1.3.10|1.3.12|app-admin||
 |poxml|23.08.5|24.05.0|desktop-kde||
 |ppp|2.4.9|2.5.0|app-network||
-|ppsspp|1.11.3|1.17.1|app-games||
 |precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
