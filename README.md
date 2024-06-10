@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718014551?label=Updated)
+![Relative date](https://img.shields.io/date/1718017952?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -776,19 +776,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
 |htslib|1.16|1.20|app-scientific||
-|httpcore|0.12.2|1.0.5|lang-python||
 |httpd|2.4.58|2.4.59|app-web||
 |httplib2|0.19.0|0.22.0|lang-python||
-|httpx|0.23.3|0.27.0|lang-python||
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
 |hugo|0.126.1|0.127.0|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
-|hyper-h11|0.12.0|0.14.0|lang-python||
 |hyper-h2|4.0.0|4.1.0|lang-python||
-|hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
 |hypothesis-python|6.97.4|6.103.1|lang-python||
 |hysteria|2.4.0|2.4.5|app-network||
@@ -1250,6 +1246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.10|runtime-common||
 |libc+wasi|20|22|runtime-wasi||
 |libcaldav|14.1.0|14.1.2|desktop-trinity||
+|libcap|2.69|2.70|runtime-common||
 |libcap+32|2.31|2.70|runtime-optenv32||
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
@@ -1679,7 +1676,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.22.0|app-network||
 |modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
-|mold|2.4.0|2.31.0|app-devel||
+|mold|2.4.0|2.32.0|app-devel||
 |monotonic|1.5|1.6|lang-python||
 |moodbar|1.2.1|1.3.0|app-multimedia||
 |more-itertools|4.3.0|10.2.0|lang-python||
