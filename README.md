@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718025433?label=Updated)
+![Relative date](https://img.shields.io/date/1718028853?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -491,6 +491,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |findutils|4.9.0|4.10.0|app-utils||
 |fio|3.35|3.37|app-utils||
+|firefox|126.0.1|127.0|app-web||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -1834,7 +1835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2_6_8|app-admin||
 |openldap+32|2.4.59|2_6_8|runtime-optenv32||
 |openmpi|4.1.6|5.0.3|app-scientific||
-|openmpt|0.6.4|0.7.7|app-multimedia||
+|openmpt|0.6.4|0.7.8|app-multimedia||
 |openpgl|0.5.0|0.6.0|runtime-creativity||
 |openpyxl|2.6.0|3.1.3|lang-python||
 |openra|20210321|20231010|app-games||
@@ -1868,7 +1869,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.0.90|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
-|packaging|23.0|24.0|lang-python||
+|packaging|23.0|24.1|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
 |pahole|1.25|1.26|app-utils||
 |palapeli|23.08.5|24.05.0|desktop-kde||
