@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718003583?label=Updated)
+![Relative date](https://img.shields.io/date/1718007415?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1439,7 +1439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshumate|1.2.1|1.2.2|desktop-gnome||
 |libsidplay|1.36.59|2.1.1|runtime-multimedia||
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32||
-|libsidplayfp|1.8.8|2.7.1|runtime-multimedia||
+|libsidplayfp|1.8.8|2.8.0|runtime-multimedia||
 |libsigc++|2.10.8|3.6.0|runtime-common||
 |libsigc++-3.0|3.4.0|3.6.0|runtime-common||
 |libsigsegv|2.12|2.14|runtime-common||
@@ -2511,6 +2511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinx-press-theme|0.8.0|0.9.1|app-doc||
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
+|sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
