@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718028853?label=Updated)
+![Relative date](https://img.shields.io/date/1718032519?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1424,7 +1424,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librcc|0.2.12|0.2.13|runtime-i18n||
 |libreoffice|7.5.4.2|24.2.4.2|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
-|librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
@@ -1545,7 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
 |linux+kernel+retro|5.10.132|5.10.218|runtime-kernel||
 |linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
-|linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
+|linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240610|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
@@ -1677,12 +1676,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mock|2.0.0|5.1.0|lang-python||
 |modem-manager-gui|0.0.19.1|0.0.20|app-network||
 |modemmanager|1.18.12|1.22.0|app-network||
-|modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
 |mold|2.4.0|2.32.0|app-devel||
 |monotonic|1.5|1.6|lang-python||
 |moodbar|1.2.1|1.3.0|app-multimedia||
-|more-itertools|4.3.0|10.2.0|lang-python||
+|more-itertools|4.3.0|10.3.0|lang-python||
 |most|5.0.0a|5.2.0|app-utils||
 |mouseemu|0.16|0.16.orig|app-utils|Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |movit|1.6.3|1.7.1|runtime-multimedia||
@@ -2812,7 +2810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
-|wesnoth|1.16.10|1.19.0|app-games||
 |weston|13.0.0|13.0.3|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|lang-python||
