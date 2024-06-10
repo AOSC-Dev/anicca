@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718032519?label=Updated)
+![Relative date](https://img.shields.io/date/1718036236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1424,6 +1424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librcc|0.2.12|0.2.13|runtime-i18n||
 |libreoffice|7.5.4.2|24.2.4.2|groups||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
+|librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
 |librtas|2.0.2|2.0.6|runtime-admin||
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia||
@@ -1676,6 +1677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mock|2.0.0|5.1.0|lang-python||
 |modem-manager-gui|0.0.19.1|0.0.20|app-network||
 |modemmanager|1.18.12|1.22.0|app-network||
+|modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
 |mold|2.4.0|2.32.0|app-devel||
 |monotonic|1.5|1.6|lang-python||
@@ -1907,7 +1909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5873|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5880|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2810,6 +2812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
+|wesnoth|1.16.10|1.19.0|app-games||
 |weston|13.0.0|13.0.3|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|lang-python||
