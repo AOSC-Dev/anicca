@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718000346?label=Updated)
+![Relative date](https://img.shields.io/date/1718003583?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -129,6 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babel|2.9.1|2.15.0|lang-python||
 |babl|0.1.108|0_1_108|runtime-imaging||
 |backcall|0.1.0|0.2.0|lang-python||
+|backports|0|1.1|lang-python||
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
 |baloo|5.115.0|6.0.90|desktop-kde||
 |baloo-widgets|23.08.5|24.05.0|desktop-kde||
@@ -2510,7 +2511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinx-press-theme|0.8.0|0.9.1|app-doc||
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
 |sphinx-tabs|3.4.1|3.4.5|app-doc||
-|sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
