@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718057605?label=Updated)
+![Relative date](https://img.shields.io/date/1718061135?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -57,7 +57,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |angelfish|23.08.5|24.05.0|desktop-kde||
 |annotated-types|0.6.0|0.7.0|lang-python||
 |ansible|2.12.1|2.17.0|app-admin||
-|aom|3.8.1|3.9.0|runtime-multimedia||
+|aom|3.8.1|3.9.1|runtime-multimedia||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
@@ -2407,6 +2407,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scons|4.4.0|4.7.0|app-devel||
 |scour|0.37|0.38.2|app-utils||
 |screen|4.9.0|4.9.1|app-utils||
+|scrot|1.10|1.11.1|app-utils||
 |scummvm|2.2.0|2.8.1|app-games||
 |sdcc|4.3.6|4.4.0|app-devel||
 |sddm-kcm|5.27.11|6.0.5|desktop-kde||
@@ -2433,7 +2434,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
-|shadowsocks-rust|1.18.4|1.19.2|app-network||
+|shadowsocks-rust|1.18.4|1.19.3|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
