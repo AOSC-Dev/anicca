@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1717996389?label=Updated)
+![Relative date](https://img.shields.io/date/1718000346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -129,7 +129,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babel|2.9.1|2.15.0|lang-python||
 |babl|0.1.108|0_1_108|runtime-imaging||
 |backcall|0.1.0|0.2.0|lang-python||
-|backports|0|1.1|lang-python||
 |backports-functools-lru-cache|1.5|2.0.0|lang-python||
 |baloo|5.115.0|6.0.90|desktop-kde||
 |baloo-widgets|23.08.5|24.05.0|desktop-kde||
@@ -1215,7 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.0.90|desktop-kde||
 |kxmlrpcclient|5.115.0|6.0.90|desktop-kde||
 |kyotocabinet|1.2.79|1.2.80|app-database||
-|lablgtk|2.18.11|3.1.4|lang-ocaml||
+|lablgtk|2.18.11|3.1.5|lang-ocaml||
 |ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |layer-shell-qt|5.27.11|6.0.5|desktop-kde||
@@ -1408,7 +1407,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|runtime-imaging||
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32||
 |libpeas|1.32.0|2.0.2|desktop-gnome||
-|libphonenumber|8.12.17|8.13.38|runtime-i18n||
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
