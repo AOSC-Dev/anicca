@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718073213?label=Updated)
+![Relative date](https://img.shields.io/date/1718075651?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -258,6 +258,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|317|app-admin||
 |cockpit-machines|284.1|313|app-admin||
+|cockpit-podman|63|89|app-admin||
 |code-server|4.9.1|4.89.1|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
 |coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -1653,7 +1654,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.0.0|4.1.0|runtime-devices||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
-|milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.5|desktop-kde||
 |mimalloc|2.1.2|2.1.7|runtime-common||
 |mime-types|9|99|runtime-data||
@@ -2341,7 +2341,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |retext|7.2.2|8.0.2|app-editors||
 |rexml|3.2.5|3.2.9|lang-ruby||
 |rfc3986|1.4.0|2.0.0|lang-python||
-|rhythmbox|3.4.4|3.4.7|app-multimedia||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|runtime-common||
