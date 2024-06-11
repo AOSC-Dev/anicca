@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718108509?label=Updated)
+![Relative date](https://img.shields.io/date/1718111724?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -46,11 +46,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |allegro|5.2.6.0|5.2.9.1|runtime-games||
 |allegro+32|4.4.2|5.2.9.1|runtime-optenv32||
 |alligator|23.08.5|24.05.0|desktop-kde||
-|alsa-lib|1.2.6.1|1.2.11|runtime-multimedia||
-|alsa-lib+32|1.2.5.1|1.2.11|runtime-optenv32||
-|alsa-ucm-conf|1.2.5.1|1.2.11|runtime-multimedia||
+|alsa-lib|1.2.6.1|1.2.12|runtime-multimedia||
+|alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32||
+|alsa-plugins|1.2.7.1|1.2.12|runtime-multimedia||
+|alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32||
+|alsa-ucm-conf|1.2.5.1|1.2.12|runtime-multimedia||
 |alsa-ucm-conf-asahi|4|5|runtime-multimedia||
-|alsa-utils|1.2.8|1.2.11|app-multimedia||
+|alsa-utils|1.2.8|1.2.12|app-multimedia||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity||
 |amtk|5.5.1|5.6.1|desktop-gnome||
 |analitza|23.08.5|24.05.0|desktop-kde||
@@ -268,7 +270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord-kde|23.08.5|24.05.0|desktop-kde||
 |colordiff|1.0.20|1.0.21|app-utils||
 |coloredlogs|10.0|15.0.1|lang-python||
-|composer|2.0.13|2.7.6|app-devel||
+|composer|2.0.13|2.7.7|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.4|lang-python||
@@ -2059,7 +2061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-uri|1.74|5.28|lang-perl||
 |perl-www-mechanize|1.91|2.18|lang-perl||
 |perl-x11-protocol-other|30|31|lang-perl||
-|perl-xml-libxslt|1.96|2.002001|lang-perl||
+|perl-xml-libxslt|1.96|2.003000|lang-perl||
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
