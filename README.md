@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718111724?label=Updated)
+![Relative date](https://img.shields.io/date/1718115139?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -275,7 +275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|lang-python||
 |configparser|3.7.3|3.12.4|lang-python||
 |confuse|3.2.2|3.3|runtime-common||
-|conky|1.10.8|1.21.2|app-utils||
+|conky|1.10.8|1.21.3|app-utils||
 |conmon|2.1.10|2.1.12|app-admin||
 |constantly|15.1.0|23.10.4|lang-python||
 |construct|2.9.45|2.10.70|lang-python||
@@ -338,7 +338,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.1|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.4.6|test-ci|app-admin|Versions not comparable: `0.4.6` and `test-ci`|
+|deploykit-backend|0.4.0|0.3.0|app-admin|Possible downgrade from the current version (0.4.0 -> 0.3.0)|
+|deploykit-gui|0.5.0|test-ci|app-admin|Versions not comparable: `0.5.0` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -2709,7 +2710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twolame|0.3.13|0.4.0|app-multimedia||
 |twolame+32|0.3.13|0.4.0|runtime-optenv32||
 |txaio|18.8.1|23.1.1|lang-python||
-|txt2tags|3.7|3.9|app-doc||
 |txtorcon|19.1.0|23.11.0|lang-python||
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.12.2|lang-python||
