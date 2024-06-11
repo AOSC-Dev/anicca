@@ -243,7 +243,6 @@
 ["targetcli-fb","2.1.54","2.1.58","app-admin",1641887332,[]],
 ["efivar","38","39","app-admin",1673935846,[]],
 ["ubuntu-keyring","2021.03.26","2023.11.28.1","app-admin",1641887332,[]],
-["cockpit-podman","63","89","app-admin",1678351353,[]],
 ["cloud-init","24.1.4+git20240513","24.1.7","app-admin",1716210109,["Compound version number '24.1.4+git20240513'","Version number indicates a snapshot (+git) is used"]],
 ["ndctl","72","79","app-admin",1641887332,[]],
 ["accountsservice","22.08.8","23.13.9","app-admin",1678601096,[]],
