@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718089976?label=Updated)
+![Relative date](https://img.shields.io/date/1718093869?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -106,6 +106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
 |attrs|20.3.0|23.2.0|lang-python||
+|atuin|18.2.0|18.3.0|app-utils||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.05.0|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -201,7 +202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||
 |cbm|0.2|0.3.2|app-network||
-|ccache|4.9.1|4.10|app-devel||
 |cchardet|2.1.7|2.2.0a2|lang-python||
 |ccid|1.5.1|1.6.0|runtime-devices||
 |cddlib|0.94j|0.94m|runtime-scientific||
@@ -577,7 +577,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|desktop-gnome||
 |gedit-plugins|42.1|47.1|desktop-gnome||
 |gegl-0.4|0.4.48|0_4_48|runtime-imaging||
-|geoclue2|2.6.0|2.7.1|runtime-gis||
 |geoipupdate|6.1.0|7.0.1|app-network||
 |geos|3.7.3|3.12.2|runtime-gis||
 |getdns|1.6.0|1.7.3|app-network||
@@ -1268,7 +1267,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcpuid|0.5.1|0.6.5|runtime-common||
 |libcuckoo|0.3|0.3.1|runtime-common||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
-|libdecor|0.1.1|0.2.2|runtime-desktop||
 |libdeflate|1.19|1.20|runtime-common||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia||
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
@@ -1297,7 +1295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfdk-aac|2.0.1|2.0.3|runtime-multimedia||
 |libffado|2.4.4|2.4.8|runtime-multimedia||
 |libffi|3.4.4|3.4.6|runtime-common||
-|libffi+32|3.4.2|3.4.6|runtime-optenv32||
 |libfido2|1.13.0|1.14.0|runtime-devices||
 |libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
@@ -1311,7 +1308,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|runtime-optenv32||
 |libgnome-games-support|1.8.2|2.0.0|desktop-gnome||
-|libgnt|2.14.0|2.14.3|runtime-common||
 |libgovirt|0.3.8|0.3.9|runtime-virtualization||
 |libgpg-error|1.48|1.49|runtime-cryptography||
 |libgpg-error+32|1.41|1.49|runtime-optenv32||
@@ -1857,7 +1853,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |optipng|0.7.7|0.7.8|app-utils||
 |opus|1.3.1|1.5.2|runtime-multimedia||
 |opus+32|1.3.1|1.5.2|runtime-optenv32||
-|opusfile|0.11|0.12|runtime-multimedia||
 |orc|0.4.32|0.4.38|app-devel||
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
 |orca|42.3|46.1|desktop-gnome||
@@ -2125,7 +2120,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python||
 |podman|4.9.3<br>+vsock0.7.2|5.1.1|app-containers|Compound version number '4.9.3+vsock0.7.2'|
-|podofo|0.9.6|0.10.3|runtime-doc||
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
@@ -2340,7 +2334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
-|rexml|3.2.5|3.2.9|lang-ruby||
+|rexml|3.2.5|3.3.0|lang-ruby||
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
@@ -2539,7 +2533,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |step|23.08.5|24.05.0|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|desktop-cinnamon||
-|stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|app-devel||
 |streamlink|6.5.1|6.7.4|app-multimedia||
@@ -2791,14 +2784,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers|1.3.280.0|1.3.287|runtime-display||
 |vulkan-headers+32|1.3.272|1.3.287|runtime-optenv32||
 |vulkan-loader|1.3.280.0|1.3.287|runtime-display||
-|vulkan-loader+32|1.3.272|1.3.287|runtime-optenv32||
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.287|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.287|runtime-display||
 |warpinator|1.6.3|1.8.3|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.06.03.00|app-utils||
+|watchman|4.9.0|2024.06.10.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
@@ -2910,7 +2902,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubikey-manager|4.0.1|5.4.0|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.1|app-devices||
-|yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.05.0|desktop-kde||
 |zarith|1.9.1|1.13|lang-ocaml||
 |zbar|0.23.90|0.23.93|app-utils||
