@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718133165?label=Updated)
+![Relative date](https://img.shields.io/date/1718136835?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -390,7 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-runtime-deps-6.0|6.0.0|6.0.31|lang-dotnet||
 |dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
-|dotnet-sdk-8.0|8.0.300|8.0.301|app-devel||
+|dotnet-sdk-8.0|8.0.300|8.0.302|app-devel||
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
 |dotnet-targeting-pack-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
@@ -686,6 +686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.132.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
+|google-chrome|125.0.6422.141|126.0.6478.55|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -2130,7 +2131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
-|polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.5|desktop-kde||
@@ -2653,7 +2653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.12|app-games||
 |thin-provisioning-tools|1.0.10|1.0.12|app-admin||
 |threadweaver|5.115.0|6.0.90|desktop-kde||
-|thunderbird|115.5.2|125.0|app-web||
+|thunderbird|115.5.2|127.0|app-web||
 |tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python||
