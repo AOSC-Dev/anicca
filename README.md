@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718143941?label=Updated)
+![Relative date](https://img.shields.io/date/1718147575?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -810,6 +810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
 |icewm|1.8.3|3.5.1|desktop-wm||
+|icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
 |icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
@@ -1037,6 +1038,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimap|23.08.5|24.05.0|desktop-kde||
 |kinfocenter|5.27.11|6.0.5|desktop-kde||
 |kinit|5.115.0|6.0.90|desktop-kde||
+|kio|5.115.0|6.0.90|desktop-kde||
 |kio-admin|23.08.5|24.05.0|desktop-kde||
 |kio-extras|23.08.5|24.05.0|desktop-kde||
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
@@ -1084,6 +1086,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmplot|23.08.5|24.05.0|desktop-kde||
 |kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
+|kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
 |knavalbattle|23.08.5|24.05.0|desktop-kde||
 |knemo-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1872,7 +1875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
 |packaging|23.0|24.1|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
-|pahole|1.25|1.26|app-utils||
+|pahole|1.25|1.27|app-utils||
 |palapeli|23.08.5|24.05.0|desktop-kde||
 |palp|2.1|2.21|app-scientific||
 |pam-python|1.0.7|1.0.8|lang-python||
@@ -2393,6 +2396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samba|4.17.2|4.20.1|app-network||
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
+|sanlock|3.8.5|3.9.2|app-admin||
 |sarasa-gothic-fonts|1.0.12|1.0.13|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
