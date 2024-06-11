@@ -1069,7 +1069,7 @@
 ["lrzsz","0.12.21","0.12.21.orig","app-network",1481254632,["Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)"]],
 ["gssproxy","0.8.2","0.9.2","app-network",1600577920,[]],
 ["arpwatch","2.1a15","3.6","app-network",1678950872,[]],
-["sing-box","1.8.13","1.9.2","app-network",1716037816,[]],
+["sing-box","1.8.13","1.9.3","app-network",1716037816,[]],
 ["nmap","7.93","7.95","app-network",1678351353,[]],
 ["smartdns","35","45","app-network",1640828077,[]],
 ["tailscale","1.64.2","1.66.4","app-network",1715161834,[]],
