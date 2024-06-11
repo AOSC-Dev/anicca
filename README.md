@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718075651?label=Updated)
+![Relative date](https://img.shields.io/date/1718079329?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -158,7 +158,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|24.05.0|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
-|borgbackup|1.1.17|1.2.8|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
 |boto3|1.20.26|1.34.123|lang-python||
@@ -351,6 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|desktop-kde||
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
+|discord|0.0.55|0.0.56|app-web||
 |discover|5.27.11|6.0.5|desktop-kde||
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
@@ -1654,6 +1654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.0.0|4.1.0|runtime-devices||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
+|milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.0.5|desktop-kde||
 |mimalloc|2.1.2|2.1.7|runtime-common||
 |mime-types|9|99|runtime-data||
