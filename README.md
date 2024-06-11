@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718118761?label=Updated)
+![Relative date](https://img.shields.io/date/1718122610?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -338,7 +338,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.1|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.4.0|0.3.0|app-admin|Possible downgrade from the current version (0.4.0 -> 0.3.0)|
 |deploykit-gui|0.5.0|test-ci|app-admin|Versions not comparable: `0.5.0` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -866,7 +865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |j4-dmenu-desktop|2.17|3.0|app-utils||
 |jack|1.9.21|1.9.22|app-multimedia||
 |jasper|2.0.21|4.2.4|runtime-imaging||
-|jbig2dec|0.18|0.20|runtime-imaging||
 |jdcal|1.4|1.4.1|lang-python||
 |jedi|0.18.1|0.19.1|lang-python||
 |jeepney|0.6.0|0.8.0|lang-python||
@@ -902,7 +900,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalarm|23.08.5|24.05.0|desktop-kde||
 |kalgebra|23.08.5|24.05.0|desktop-kde||
 |kalk|23.08.5|24.05.0|desktop-kde||
-|kalzium|23.08.5|24.05.0|desktop-kde||
 |kamera|23.08.5|24.05.0|desktop-kde||
 |kamoso|23.08.5|24.05.0|desktop-kde||
 |kanagram|23.08.5|24.05.0|desktop-kde||
@@ -1769,7 +1766,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
-|nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
 |noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.6.1|desktop-fonts|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
