@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718122610?label=Updated)
+![Relative date](https://img.shields.io/date/1718126066?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -865,6 +865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |j4-dmenu-desktop|2.17|3.0|app-utils||
 |jack|1.9.21|1.9.22|app-multimedia||
 |jasper|2.0.21|4.2.4|runtime-imaging||
+|jbig2dec|0.18|0.20|runtime-imaging||
 |jdcal|1.4|1.4.1|lang-python||
 |jedi|0.18.1|0.19.1|lang-python||
 |jeepney|0.6.0|0.8.0|lang-python||
@@ -900,6 +901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalarm|23.08.5|24.05.0|desktop-kde||
 |kalgebra|23.08.5|24.05.0|desktop-kde||
 |kalk|23.08.5|24.05.0|desktop-kde||
+|kalzium|23.08.5|24.05.0|desktop-kde||
 |kamera|23.08.5|24.05.0|desktop-kde||
 |kamoso|23.08.5|24.05.0|desktop-kde||
 |kanagram|23.08.5|24.05.0|desktop-kde||
@@ -1233,7 +1235,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaio|0.3.111|0.3.113|runtime-common||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
-|libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||
@@ -1766,6 +1767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
+|nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
 |noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.6.1|desktop-fonts|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
@@ -2426,7 +2428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-python2|44.1.0|70.0.0|lang-python||
 |setuptools-python3|69.1.0|70.0.0|lang-python||
 |setuptools-rust|1.5.2|1.9.0|lang-python||
-|setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
