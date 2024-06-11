@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718136835?label=Updated)
+![Relative date](https://img.shields.io/date/1718143941?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -163,7 +163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.123|lang-python||
+|boto3|1.20.26|1.34.124|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.0|desktop-kde||
@@ -231,6 +231,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
+|chromium|125.0.6422.141|126.0.6478.55|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
@@ -683,7 +684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|runtime-productivity||
 |goldendict|1.5.0~rc2|1.5.0|app-i18n||
 |gom|0.4|0.5.1|runtime-database||
-|google-api-python-client|1.7.11|2.132.0|lang-python||
+|google-api-python-client|1.7.11|2.133.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
 |google-chrome|125.0.6422.141|126.0.6478.55|app-web||
@@ -809,7 +810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
 |icewm|1.8.3|3.5.1|desktop-wm||
-|icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|64.2|75-1|runtime-i18n||
 |icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
@@ -1037,7 +1037,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimap|23.08.5|24.05.0|desktop-kde||
 |kinfocenter|5.27.11|6.0.5|desktop-kde||
 |kinit|5.115.0|6.0.90|desktop-kde||
-|kio|5.115.0|6.0.90|desktop-kde||
 |kio-admin|23.08.5|24.05.0|desktop-kde||
 |kio-extras|23.08.5|24.05.0|desktop-kde||
 |kio-fuse|5.0.1|5.1.0|desktop-kde||
@@ -1085,7 +1084,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmplot|23.08.5|24.05.0|desktop-kde||
 |kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
-|kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
 |kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
 |knavalbattle|23.08.5|24.05.0|desktop-kde||
 |knemo-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2131,6 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.4-oss|app-i18n||
 |poetry|1.6.1|1.8.3|lang-python||
 |poetry-core|1.7.0|1.9.0|lang-python||
+|polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.5|desktop-kde||
@@ -2394,7 +2393,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samba|4.17.2|4.20.1|app-network||
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
-|sanlock|3.8.5|3.9.2|app-admin||
 |sarasa-gothic-fonts|1.0.12|1.0.13|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
