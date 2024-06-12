@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718216162?label=Updated)
+![Relative date](https://img.shields.io/date/1718219496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -399,7 +399,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpdk|22.11.1|24.03|runtime-network||
 |dragon|23.08.5|24.05.0|desktop-kde||
 |drkonqi|5.27.11|6.0.5|desktop-kde||
-|dropbox|148.4.4519|200.4.7134|app-web||
+|dropbox|148.4.4519|201.4.5552|app-web||
 |drumstick|2.0.0|2.9.0|app-creativity||
 |dssim|3.2.0|3.3.1|app-imaging||
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -1832,7 +1832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openmpi|4.1.6|5.0.3|app-scientific||
 |openmpt|0.6.4|0.7.8|app-multimedia||
 |openpgl|0.5.0|0.6.0|runtime-creativity||
-|openpyxl|2.6.0|3.1.3|lang-python||
+|openpyxl|2.6.0|3.1.4|lang-python||
 |openra|20210321|20231010|app-games||
 |openrazer|3.3.0|3.8.0|app-devices||
 |openrgb|0.6|0.9|app-utils||
@@ -2189,7 +2189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python||
 |pycurl|7.43.0.6|7.45.3|lang-python||
 |pydantic|2.6.0|2.7.4|lang-python||
-|pydantic-core|2.16.1|2.18.4|lang-python||
+|pydantic-core|2.16.1|2.19.0|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
