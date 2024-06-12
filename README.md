@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718223173?label=Updated)
+![Relative date](https://img.shields.io/date/1718226778?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -698,7 +698,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphviz|10.0.1|11.0.0|app-doc||
 |greenlet|1.1.2|3.0.3|lang-python||
 |greetd|0.9.0|0.10.3|desktop-displaymanagers||
-|greetd-gtkgreet|0.8|0.5|desktop-displaymanagers|Possible downgrade from the current version (0.8 -> 0.5)|
 |grep|3.8|3.11|app-utils||
 |greybird|3.22.12|3.23.3|desktop-themes||
 |grilo|0.3.15|0.3.16|desktop-gnome||
@@ -2527,7 +2526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.05.0|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
-|sticky|1.16|1.19|desktop-cinnamon||
+|sticky|1.16|1.20|desktop-cinnamon||
 |stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|app-devel||
