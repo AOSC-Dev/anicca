@@ -1183,6 +1183,7 @@
 ["lirc","0.9.4d","0.10.2","app-devices",1486922787,[]],
 ["razergenie","0.9.0","1.1.0","app-devices",1653037433,[]],
 ["newflasher","52","57","app-devices",1658966837,[]],
+["yubikey-manager-qt","1.2.1","1.2.6","app-devices",1619621628,[]],
 ["tilp","1.17","1.18","app-devices",1678950872,[]],
 ["openrazer","3.3.0","3.8.0","app-devices",1653037433,[]],
 ["opensc","0.22.0","0.25.1","app-devices",1669533924,[]],
