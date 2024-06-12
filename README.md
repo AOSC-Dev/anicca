@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718183699?label=Updated)
+![Relative date](https://img.shields.io/date/1718187220?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1277,7 +1277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdeflate|1.19|1.20|runtime-common||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia||
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
-|libdmapsharing|2.9.41|3_9_13|runtime-multimedia||
+|libdmapsharing|3.9.13|3_9_13|runtime-multimedia||
 |libdnet|1.12|1.18.0|runtime-network||
 |libdrm|2.4.120|2.4.121|runtime-display||
 |libdrm+32|2.4.113|2.4.121|runtime-optenv32||

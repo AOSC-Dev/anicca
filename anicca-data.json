@@ -1275,7 +1275,7 @@
 ["libvpx","1.10.0","1.14.1","runtime-multimedia",1644178449,[]],
 ["alsa-lib","1.2.6.1","1.2.12","runtime-multimedia",1625223208,[]],
 ["rtaudio","5.1.0","6.0.1","runtime-multimedia",1630127736,[]],
-["libdmapsharing","2.9.41","3_9_13","runtime-multimedia",1531513132,[]],
+["libdmapsharing","3.9.13","3_9_13","runtime-multimedia",1718187040,[]],
 ["libsidplayfp","1.8.8","2.8.0","runtime-multimedia",1550646103,[]],
 ["lilv","0.24.12","0.24.24","runtime-multimedia",1654053412,[]],
 ["libdiscid","0.6.2","0.6.4","runtime-multimedia",1531411178,[]],
