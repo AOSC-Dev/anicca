@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718147575?label=Updated)
+![Relative date](https://img.shields.io/date/1718153341?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -321,7 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.2|runtime-multimedia||
-|dblatex|0.3.12|1.0.97|app-doc||
+|dblatex|0.3.12|1.1.14|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
 |dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
 |dbus-glib|0.110|0.112|runtime-admin||
@@ -528,7 +528,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
 |freecell-solver|6.2.0|6.8.0|app-games||
 |freeciv|2.6.5|3.1.1|app-games||
-|freeglut+32|3.0.0|3.4.0|runtime-optenv32||
+|freeglut|3.4.0|3.6.0|runtime-display||
+|freeglut+32|3.0.0|3.6.0|runtime-optenv32||
 |freerdp|2.11.2|3.5.1|app-network||
 |freetds|1.00.112|1.4.19|runtime-database||
 |freetype|2.12.1|2.13.2|runtime-desktop||
