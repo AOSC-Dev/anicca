@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718153341?label=Updated)
+![Relative date](https://img.shields.io/date/1718157605?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1288,7 +1288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdwarf|20210305|0.9.2|runtime-common|Possible downgrade from the current version (20210305 -> 0.9.2)|
 |libe-book|0.1.2|0.1.3|runtime-doc||
 |libebml|1.4.0|1.4.5|runtime-multimedia||
-|libeconf|0.5.0|0.7.0|runtime-common||
+|libeconf|0.5.0|0.7.1|runtime-common||
 |libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32||
 |libepubgen|0.1.0|0.1.1|runtime-doc||
@@ -1376,7 +1376,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libluv|1.47.0<br>+0|1.48.0-2|lang-lua|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|runtime-devices||
 |libmatroska|1.6.2|1.7.1|runtime-multimedia||
-|libmaxminddb|1.4.3|1.9.1|runtime-web||
+|libmaxminddb|1.4.3|1.10.0|runtime-web||
 |libmediaart|1.9.4|1.9.6|runtime-multimedia||
 |libmediainfo|22.06|24.05|runtime-multimedia||
 |libmicrohttpd|0.9.71|1.0.1|runtime-web||
