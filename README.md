@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718205205?label=Updated)
+![Relative date](https://img.shields.io/date/1718208920?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -317,7 +317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dar|2.7.13|2.7.14|app-utils||
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
-|dav1d|1.4.0|1.4.2|runtime-multimedia||
+|dav1d|1.4.0|1.4.3|runtime-multimedia||
 |dblatex|0.3.12|1.1.14|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
 |dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
@@ -2350,7 +2350,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
 |rosegarden|20.12|24.06|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
-|rpcsvc-proto|1.4.2|1.4.4|app-devel||
 |rpm|4.18.0|4.19.1.1-release|app-admin||
 |rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
@@ -2733,7 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
-|urwid|2.1.2|2.6.13|lang-python||
+|urwid|2.1.2|2.6.14|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
 |utfcpp|3.2.1|4.0.5|runtime-common||
