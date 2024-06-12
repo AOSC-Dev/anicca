@@ -2880,7 +2880,6 @@
 ["libgpg-error-static","1.48","1.49","runtime-cryptography",1709461519,[]],
 ["opencryptoki","3.21.0","3.23.0","runtime-cryptography",1696572712,[]],
 ["libtasn1","4.15.0","4.19.0","runtime-cryptography",1575786350,[]],
-["openssl","3.3.0","3.3.1","runtime-cryptography",1712803632,[]],
 ["botan","1.10.17","3.4.0","runtime-cryptography",1575779059,[]],
 ["nettle","3.7.2","3.9.1","runtime-cryptography",1617167171,[]],
 ["libgpg-error","1.48","1.49","runtime-cryptography",1709461519,[]],
