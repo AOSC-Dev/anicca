@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718226778?label=Updated)
+![Relative date](https://img.shields.io/date/1718230342?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2125,8 +2125,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde||
 |polkit-tqt|14.1.0|14.1.2|desktop-trinity||
 |polymake|3.3|4.12|app-scientific||
-|poppler|22.08.0|24.06.0|runtime-doc||
-|poppler+32|0.66.0|24.06.0|runtime-optenv32||
+|poppler|22.08.0|24.06.1|runtime-doc||
+|poppler+32|0.66.0|24.06.1|runtime-optenv32||
 |poppler-data|0.4.9|0.4.12|runtime-data||
 |popt|1.18|1.19|runtime-common||
 |popt+32|1.16|1.19|runtime-optenv32||
@@ -2557,14 +2557,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
 |system-config-printer|1.5.17|1.5.18|app-admin||
-|systemd|255.6|255.7|app-admin||
+|systemd|255.6|256|app-admin||
 |systemsettings|5.27.11|6.0.5|desktop-kde||
 |systemtap|4.4|5.1|app-utils||
 |sysv-ipc|1.0.1|1.1.0|lang-python||
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
 |tagparser|11.5.1|12.1.0|runtime-multimedia||
-|tailscale|1.64.2|1.66.4|app-network||
+|tailscale|1.64.2|1.68.0|app-network||
 |taisei|1.3.2|1.4.1|app-games||
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
@@ -2895,7 +2895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.4.0|app-devices||
-|yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.1|app-devices||
 |yuzu|1582|1732|app-games||
 |zanshin|23.08.5|24.05.0|desktop-kde||
