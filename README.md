@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718194924?label=Updated)
+![Relative date](https://img.shields.io/date/1718198181?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1523,8 +1523,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
 |libxml++|2.40.1|5.2.0|runtime-common||
-|libxml2|2.10.4|2.12.7|runtime-common||
-|libxml2+32|2.10.4|2.12.7|runtime-optenv32||
+|libxml2|2.10.4|2.12.8|runtime-common||
+|libxml2+32|2.10.4|2.12.8|runtime-optenv32||
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
@@ -2170,7 +2170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pstate-frequency|3.11.0|3.15.1|app-admin||
 |pstoedit|3.75|4.01|app-doc||
 |psycopg2|2.8.6|2.9.9|lang-python||
-|ptex|2.3.2|2.4.2|runtime-creativity||
+|ptex|2.3.2|2.4.3|runtime-creativity||
 |ptyprocess|0.6.0|0.7.0|lang-python||
 |pugixml|1.11.4|1.14|runtime-common||
 |pulseaudio|17.0<br>+xrdp0.7|17.0|app-multimedia|Compound version number '17.0+xrdp0.7'|
