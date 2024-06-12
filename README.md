@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718212313?label=Updated)
+![Relative date](https://img.shields.io/date/1718216162?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1520,8 +1520,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
-|libxslt|1.1.34|1.1.39|runtime-common||
-|libxslt+32|1.1.34|1.1.39|runtime-optenv32||
+|libxslt|1.1.34|1.1.40|runtime-common||
+|libxslt+32|1.1.34|1.1.40|runtime-optenv32||
 |libzen|0.4.38|0.4.41|runtime-common||
 |libzip|1.5.2|1.10.1|runtime-common||
 |liferea|1.13.8|1.15.6|app-web||
@@ -2365,7 +2365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|lang-python||
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
 |rubberband|1.9.2|3.3.0|app-multimedia||
-|ruby|3.2.2|3.3.2|lang-ruby||
+|ruby|3.2.2|3.3.3|lang-ruby||
 |ruby-bundler|2.1.4|2.5.11|lang-ruby||
 |ruby-ffi|1.10.0|1.17.0|lang-ruby||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby||
