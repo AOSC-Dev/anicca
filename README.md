@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718187220?label=Updated)
+![Relative date](https://img.shields.io/date/1718190690?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1649,6 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |melonds|0.9.2|0.9.5|app-games||
 |memcached|1.6.27|1.6.28|app-admin||
 |menumaker|0.99.12|0.99.14|app-utils||
+|mercurial|6.7.3|6.7.4|app-vcs||
 |merkuro|23.08.5|24.05.0|desktop-kde||
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|runtime-display|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.1|runtime-optenv32||
@@ -1894,7 +1895,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.0|desktop-kde||
 |parsedatetime|2.4|2.6|lang-python||
 |parso|0.3.3|0.8.4|lang-python||
-|partclone|0.3.20|0.3.27|app-admin||
+|partclone|0.3.20|0.3.28|app-admin||
 |partimage|0.6.9|0.7.2|app-admin||
 |partitionmanager|23.08.5|24.05.0|desktop-kde||
 |pastel|0.2.0|0.2.1|lang-python||
@@ -1911,7 +1912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5880|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5886|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -1919,8 +1920,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |peewee|3.17.1|3.17.5|lang-python||
 |peg|0.1.18|0.1.20|app-devel||
 |pep517|0.12.0|0.13.1|lang-python||
-|perl|5.36.3|5.40.0|lang-perl||
-|perl+32|999|5.40.0|runtime-optenv32|Possible downgrade from the current version (999 -> 5.40.0)|
+|perl|5.36.3|5.41.0|lang-perl||
+|perl+32|999|5.41.0|runtime-optenv32|Possible downgrade from the current version (999 -> 5.41.0)|
 |perl-alien-build|1.92|2.83|lang-perl||
 |perl-alien-libxml2|0.11|0.19|lang-perl||
 |perl-anyevent|7.14|7.17|lang-perl||
