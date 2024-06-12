@@ -2923,7 +2923,7 @@
 ["libusb-compat","0.1.5","0.1.8","runtime-devices",1678950872,[]],
 ["libusb","1.0.23","1.0.27","runtime-devices",1530331404,[]],
 ["sane-backends","1.0.32","1.3.1","runtime-devices",1657655045,[]],
-["libwacom","2.4.0","2.12.0","runtime-devices",1663359144,[]],
+["libwacom","2.4.0","2.12.1","runtime-devices",1663359144,[]],
 ["libnfc","1.7.1","1.8.0","runtime-devices",1678950872,[]],
 ["usbredir","0.8.0","0.14.0","runtime-devices",1570906865,[]],
 ["libgpiod","1.4.2","2.1.2","runtime-devices",1582089665,[]],
