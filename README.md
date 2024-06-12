@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718169163?label=Updated)
+![Relative date](https://img.shields.io/date/1718173022?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1680,7 +1680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mlt|7.22.0|7.24.0|runtime-multimedia||
 |mlterm|3.8.9|3.9.3|app-utils||
 |mock|2.0.0|5.1.0|lang-python||
-|modem-manager-gui|0.0.19.1|0.0.20|app-network||
 |modemmanager|1.18.12|1.22.0|app-network||
 |modemmanager-qt|5.115.0|6.0.90|desktop-kde||
 |mokutil|0.6.0|0.7.2|app-admin||
@@ -1707,7 +1706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.28.0<br>+1|4.28.0-1|app-admin|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|app-admin||
 |mtdev|1.1.6|1.1.7|runtime-devices||
-|muffin|5.8.0|6.0.1|desktop-cinnamon||
+|muffin|5.8.0|6.2.0|desktop-cinnamon||
 |mugshot|0.4.1|0.4.3|app-utils||
 |multipath-tools|0.9.3|0.9.8|app-admin||
 |munkres|1.0.12|release-1.1.4|lang-python||
@@ -1766,7 +1765,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|runtime-common||
 |nfs-utils|2.6.2|2.6.4|app-utils||
 |nghttp2|1.58.0|1.62.1|runtime-web||
-|nginx|1.25.3|1.27.0|app-web||
 |ngspice|35|42|app-electronics||
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
@@ -1944,7 +1942,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl||
 |perl-crypt-openssl-random|0.15|0.16|lang-perl||
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
-|perl-data-dump|1.23|1.25|lang-perl||
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
 |perl-date-manip|6.82|6.95|lang-perl||
