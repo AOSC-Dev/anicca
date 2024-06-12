@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718176433?label=Updated)
+![Relative date](https://img.shields.io/date/1718180167?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -352,6 +352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |diffuse|0.6.0|0.9.0|app-devel||
 |diffutils|3.8|3.10|app-utils||
 |digikam|7.9.0|8.3.0|desktop-kde||
+|digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
 |discord|0.0.55|0.0.56|app-web||
 |discover|5.27.11|6.0.5|desktop-kde||
@@ -1391,6 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfnetlink|1.0.1|1.0.2|runtime-network||
 |libnfs|4.0.0|5.0.3|runtime-network||
 |libnfs-static|4.0.0|5.0.3|runtime-network||
+|libnice|0.1.17|0.1.22|runtime-network||
 |libnl+32|3.2.28|3.9.0|runtime-optenv32||
 |libnotify|0.7.9|0.8.3|runtime-desktop||
 |libnsl2|1.3.0|2.0.1|runtime-network||
@@ -2082,7 +2084,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|24.05.0|desktop-kde||
 |pimcommon|23.08.5|24.05.0|desktop-kde||
 |pinentry|1.1.0|1.3.0|app-utils||
-|pip|22.3.1|24.1b1|lang-python||
+|pip|22.3.1|24.1b2|lang-python||
 |pipewire|1.0.7|1.1.82|app-multimedia||
 |pipewire-0.2|0.2.7|1.1.82|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
@@ -2345,7 +2347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rinutils|0.4.1|0.10.2|runtime-common||
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|runtime-common||
-|rng-tools|6.7|6.17|app-utils||
+|rng-tools|6.16|6.17|app-utils||
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common||
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.2|runtime-rocm||
@@ -2524,7 +2526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfuse|0.1.105|0.5.2|app-admin||
 |squid|5.7|6.10|app-web||
 |sra-tools|3.0.3|3.1.1|app-scientific||
-|srain|1.5.1|1.7.0|app-web||
 |sratom|0.6.4|0.6.16|runtime-common||
 |srecord|1.64|1.65.0|app-utils||
 |srtp+32|1.5.4|2.6.0|runtime-optenv32||
@@ -2814,6 +2815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wesnoth|1.16.10|1.19.0|app-games||
 |weston|13.0.0|13.0.3|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
+|wheel|0.42.0|0.43.0|lang-python||
 |wheezy.template|3.1.0|3.2.2|lang-python||
 |wikipedia|1.4.0|1.4.5|lang-python||
 |wildmidi|0.4.3|0.4.6|app-multimedia||
@@ -2822,6 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
+|wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
