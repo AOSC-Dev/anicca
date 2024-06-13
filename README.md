@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718284495?label=Updated)
+![Relative date](https://img.shields.io/date/1718288127?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -217,7 +217,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cffi|1.15.0|1.16.0|lang-python||
 |cfitsio|3.450|4.4.0|runtime-imaging||
 |cgal|5.2|5.6.1|runtime-scientific||
-|cgns|4.2.0|4.4.0|app-devel||
 |chardet|3.0.4|5.2.0|lang-python||
 |charset-normalizer|2.0.9|3.3.2|lang-python||
 |checksec|1.9.0|2.7.1|app-devel||
@@ -411,14 +410,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
 |editline|1.16.1|1.17.1|runtime-common||
-|editorconfig-core-c|0.12.6|0.12.7|runtime-editors||
+|editorconfig-core-c|0.12.6|0.12.8|runtime-editors||
 |efivar|38|39|app-admin||
 |elfutils|0.188|0.191|app-utils||
 |elfutils+32|0.166|0.191|runtime-optenv32||
 |elisa|23.08.5|24.05.1|desktop-kde||
 |elvis|2.2<br>+1pre3|2.2_1-pre2|app-editors|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3 -> 2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|desktop-wm||
-|enchant-2|2.3.1|2.8.0|app-i18n||
+|enchant-2|2.3.1|2.8.1|app-i18n||
 |endeavour|42.0|43.0|desktop-gnome||
 |entrypoints|0.3|0.4|lang-python||
 |eog|42.3|45.3|desktop-gnome||
