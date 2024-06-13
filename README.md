@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718259400?label=Updated)
+![Relative date](https://img.shields.io/date/1718262760?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -75,7 +75,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aranym|1.1.0|1_1_0|app-emulation||
 |arc-kde|20180614|20220908|desktop-themes||
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|app-utils|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20240520|20240609|app-admin||
 |arduino-avr-core|1.8.3|1.8.6|app-devel||
 |argparse-manpage|4.5|4.6|lang-python||
 |argyllcms|3.1.0|3.2.0|app-imaging||
@@ -114,7 +113,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
-|autobuild4|4.2.2|4.3.0|app-devel||
+|autobuild4|4.3.1|4.3.0|app-devel|Possible downgrade from the current version (4.3.1 -> 4.3.0)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -232,16 +231,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|125.0.6422.141|126.0.6478.55|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
-|cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon||
-|cinnamon-desktop|5.8.0|6.0.0|desktop-cinnamon||
-|cinnamon-menus|5.8.0|6.0.0|desktop-cinnamon||
-|cinnamon-screensaver|5.8.0|6.0.3|desktop-cinnamon||
-|cinnamon-session|5.8.1|6.0.4|desktop-cinnamon||
-|cinnamon-settings-daemon|5.8.1|6.0.0|desktop-cinnamon||
-|cinnamon-translations|5.8.1|6.0.2|desktop-cinnamon||
-|cjs|5.8.0|6.0.0|desktop-cinnamon||
+|cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
+|cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon||
+|cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon||
+|cinnamon-screensaver|5.8.0|6.2.0|desktop-cinnamon||
+|cinnamon-session|5.8.1|6.2.0|desktop-cinnamon||
+|cinnamon-settings-daemon|5.8.1|6.2.0|desktop-cinnamon||
+|cinnamon-translations|5.8.1|6.2.0|desktop-cinnamon||
+|cjs|5.8.0|6.2.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
-|clash-verge-rev|1.6.4|1.6.5|app-network||
+|clash-verge-rev|1.6.4|1.6.6|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
@@ -256,8 +255,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
-|cockpit|286.1|317|app-admin||
-|cockpit-machines|284.1|313|app-admin||
+|cockpit|286.1|318|app-admin||
+|cockpit-machines|284.1|314|app-admin||
 |cockpit-podman|63|89|app-admin||
 |code-server|4.9.1|4.89.1|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -682,7 +681,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|125.0.6422.141|126.0.6478.55|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -2105,7 +2103,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils||
-|pnpm|9.2.0|9.3.0|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.72|app-i18n||
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
