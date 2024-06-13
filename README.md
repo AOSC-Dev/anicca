@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718262760?label=Updated)
+![Relative date](https://img.shields.io/date/1718266561?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -258,7 +258,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|318|app-admin||
 |cockpit-machines|284.1|314|app-admin||
 |cockpit-podman|63|89|app-admin||
-|code-server|4.9.1|4.89.1|app-utils||
+|code-server|4.9.1|4.90.1|app-utils||
 |codeine-trinity|14.1.0|14.1.2|desktop-trinity||
 |coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
 |collectl|4.3.1|4.3.8|app-utils||
@@ -463,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-hangul|5.1.3|5.1.4|app-i18n||
 |fcitx5-kkc|5.1.3|5.1.4|app-i18n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
-|fcitx5-pinyin-moegirl|20240509|20240609|app-i18n||
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.6|5.1.8|app-i18n||
 |fcitx5-skk|5.1.3|5.1.4|app-i18n||
@@ -2340,7 +2339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.1.2|runtime-rocm||
 |rocminfo|6.0.2|6.1.2|runtime-rocm||
 |rocr-runtime|6.0.2|6.1.2|runtime-rocm||
-|rocs|23.08.5|24.05.0|desktop-kde||
 |roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
 |rosegarden|20.12|24.06|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2536,7 +2534,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.610.122248|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.11|2.5.59.12|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.0|desktop-kde||
 |sweeper|23.08.5|24.05.0|desktop-kde||
