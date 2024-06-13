@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718266561?label=Updated)
+![Relative date](https://img.shields.io/date/1718270061?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -113,7 +113,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
-|autobuild4|4.3.1|4.3.0|app-devel|Possible downgrade from the current version (4.3.1 -> 4.3.0)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -1694,7 +1693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtdev|1.1.6|1.1.7|runtime-devices||
 |muffin|5.8.0|6.2.0|desktop-cinnamon||
 |mugshot|0.4.1|0.4.3|app-utils||
-|multipath-tools|0.9.3|0.9.8|app-admin||
+|multipath-tools|0.9.3|0.9.9|app-admin||
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.3|app-doc||
@@ -2339,6 +2338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.1.2|runtime-rocm||
 |rocminfo|6.0.2|6.1.2|runtime-rocm||
 |rocr-runtime|6.0.2|6.1.2|runtime-rocm||
+|rocs|23.08.5|24.05.0|desktop-kde||
 |roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
 |rosegarden|20.12|24.06|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
