@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718288127?label=Updated)
+![Relative date](https://img.shields.io/date/1718291640?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -217,6 +217,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cffi|1.15.0|1.16.0|lang-python||
 |cfitsio|3.450|4.4.0|runtime-imaging||
 |cgal|5.2|5.6.1|runtime-scientific||
+|cgns|4.2.0|4.4.0|app-devel||
 |chardet|3.0.4|5.2.0|lang-python||
 |charset-normalizer|2.0.9|3.3.2|lang-python||
 |checksec|1.9.0|2.7.1|app-devel||
@@ -454,7 +455,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
 |fcitx5|5.1.9|5.1.10|groups||
-|fcitx5-chewing|5.1.3|5.1.4|app-i18n||
+|fcitx5-chewing|5.1.3|5.1.5|app-i18n||
 |fcitx5-chinese-addons|5.1.5|5.1.6|app-i18n||
 |fcitx5-configtool|5.1.5|5.1.6|app-i18n||
 |fcitx5-hangul|5.1.3|5.1.4|app-i18n||
@@ -538,7 +539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gajim|1.4.0|1.9.0|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
 |gammaray|2.11.2|3.0.0|app-devel||
-|gap|4.10.2|4.13.0|app-scientific||
+|gap|4.10.2|4.13.1|app-scientific||
 |gaupol|1.7|1.15|app-multimedia||
 |gc|8.2.6|8.2.4|runtime-common|Possible downgrade from the current version (8.2.6 -> 8.2.4)|
 |gcab|1.1|1.6|desktop-gnome||
@@ -1921,7 +1922,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-config-file|1.50|1.54|lang-perl||
 |perl-convert-asn1|0.27|0.34|lang-perl||
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl||
-|perl-crypt-openssl-random|0.15|0.16|lang-perl||
+|perl-crypt-openssl-random|0.15|0.17|lang-perl||
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl||
@@ -2363,6 +2364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby||
 |ruby-pg|1.1.4|1.5.6|lang-ruby||
 |ruby-pkg-config|1.4.4|1.5.6|lang-ruby||
+|rustc|1.78.0|1.79.0|lang-rust||
 |rustc-demangle|0.1.21|0.1.24|runtime-common||
 |rxvt-unicode|9.22|9.31|runtime-display||
 |rygel|0.40.4|0.42.6|desktop-gnome||
