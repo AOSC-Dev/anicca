@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718252163?label=Updated)
+![Relative date](https://img.shields.io/date/1718255639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2005,6 +2005,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-tools|5.509|5.515|lang-perl||
 |perl-mime-types|2.17|2.26|lang-perl||
 |perl-module-build|0.4224|0.4234|lang-perl||
+|perl-module-build-tiny|0.039|0.048|lang-perl||
 |perl-module-find|0.13|0.16|lang-perl||
 |perl-module-scandeps|1.27|1.35|lang-perl||
 |perl-moo|2.005004|2.005005|lang-perl||
@@ -2784,7 +2785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.287|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.287|runtime-display||
-|warpinator|1.6.3|1.8.3|desktop-cinnamon||
+|warpinator|1.6.3|1.8.4|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.06.10.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
