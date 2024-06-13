@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718313220?label=Updated)
+![Relative date](https://img.shields.io/date/1718316882?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -796,7 +796,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-hangul|1.5.4|1.5.5|app-i18n||
 |ibus-libpinyin|1.12.0|1.15.7|app-i18n||
 |ibus-m17n|1.4.7|1.4.29|app-i18n||
-|ibus-qt|1.3.3|1.3.4|app-i18n||
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|app-i18n||
 |icdiff|1.9.5|2.0.7|app-utils||
@@ -897,6 +896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalzium|23.08.5|24.05.1|desktop-kde||
 |kamera|23.08.5|24.05.1|desktop-kde||
 |kamoso|23.08.5|24.05.1|desktop-kde||
+|kanagram|23.08.5|24.05.1|desktop-kde||
 |kapidox|5.115.0|6.0.90|desktop-kde||
 |kapman|23.08.5|24.05.1|desktop-kde||
 |kapptemplate|23.08.5|24.05.1|desktop-kde||
@@ -1571,7 +1571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
-|luarocks|3.5.0|3.11.1|lang-lua||
 |lucene++|3.0.8|3.0.9|runtime-common||
 |lunzip|1.10|1.14|app-utils||
 |lutris|0.5.11|0.5.17|app-games||
@@ -1999,7 +1998,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
 |perl-mime-tools|5.509|5.515|lang-perl||
-|perl-mime-types|2.17|2.26|lang-perl||
 |perl-module-build|0.4224|0.4234|lang-perl||
 |perl-module-build-tiny|0.039|0.048|lang-perl||
 |perl-module-find|0.13|0.16|lang-perl||
@@ -2863,7 +2861,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0.1|app-network||
-|xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
 |xreader|3.8.5|4.2.0|app-doc||
 |xscreensaver|6.08|6.09|app-utils||
