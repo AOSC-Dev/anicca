@@ -406,7 +406,6 @@
 ["gdb+cross-mips64r6el","12.1","14.2","app-devel",1700797896,[]],
 ["vala","0.56.16","0.56.17","app-devel",1710809322,[]],
 ["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,[]],
-["mold","2.4.0","2.32.0","app-devel",1709285594,[]],
 ["capstone","5.0.1","5.0","app-devel",1712501970,["Possible downgrade from the current version (5.0.1 -> 5.0)"]],
 ["sccache","0.3.3","0.8.1","app-devel",1680558295,[]],
 ["gcc+cross-powerpc","9.3.1","14.1.0","app-devel",1678950872,[]],
