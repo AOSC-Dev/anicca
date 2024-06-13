@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718295541?label=Updated)
+![Relative date](https://img.shields.io/date/1718298852?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -516,7 +516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.0.90|desktop-kde||
 |freealut|1.1.0|1_1_0|runtime-multimedia||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32||
-|freecell-solver|6.2.0|6.8.0|app-games||
+|freecell-solver|6.2.0|6.10.0|app-games||
 |freeciv|2.6.5|3.1.1|app-games||
 |freeglut|3.4.0|3.6.0|runtime-display||
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32||
@@ -535,6 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python||
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
+|fwupd|1.9.20|1.9.21|app-admin||
 |fzf|0.46.1|0.53.0|app-utils||
 |gajim|1.4.0|1.9.0|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
@@ -578,6 +579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
+|gh|2.50.0|2.51.0|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.1_build|app-devel||
@@ -2358,7 +2360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
 |rubberband|1.9.2|3.3.0|app-multimedia||
 |ruby|3.2.2|3.3.3|lang-ruby||
-|ruby-bundler|2.1.4|2.5.11|lang-ruby||
+|ruby-bundler|2.1.4|2.5.12|lang-ruby||
 |ruby-ffi|1.10.0|1.17.0|lang-ruby||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby||
 |ruby-locale|2.1.3|2.1.4|lang-ruby||
