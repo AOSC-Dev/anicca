@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718291640?label=Updated)
+![Relative date](https://img.shields.io/date/1718295541?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1752,6 +1752,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
+|nokogiri|1.16.5|1.16.6|lang-ruby||
 |nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
@@ -2697,7 +2698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-tools|2022.10|2024.04|app-utils||
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
 |uchardet|0.0.5|0.0.8|runtime-i18n||
-|ucx|1.15.0|1.16.0|runtime-scientific||
+|ucx|1.15.0|1.17.0|runtime-scientific||
 |udiskie|2.2.0|2.5.3|app-utils||
 |udisks-2|2.8.4|2.10.1|app-admin||
 |udns|0.4|0.5|app-network||
