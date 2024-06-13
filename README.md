@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718281316?label=Updated)
+![Relative date](https://img.shields.io/date/1718284495?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -965,7 +965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.0.90|desktop-kde||
 |kdev-php|23.08.5|24.05.1|desktop-kde||
 |kdev-python|23.08.5|24.05.1|desktop-kde||
-|kdevelop|23.08.5|24.05.0|desktop-kde||
+|kdevelop|23.08.5|24.05.1|desktop-kde||
 |kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
 |kdewebkit|5.115.0|6.0.90|desktop-kde||
 |kdf|23.08.5|24.05.1|desktop-kde||
@@ -2872,7 +2872,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xxhash|0.8.1|0.8.2|runtime-common||
 |xz+32|5.4.1|5.6.2|runtime-optenv32||
 |yad|0.40.0|13.0|app-utils||
-|yakuake|23.08.5|24.05.0|desktop-kde||
+|yakuake|23.08.5|24.05.1|desktop-kde||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
 |yara|4.5.0|4.5.1|app-utils||
