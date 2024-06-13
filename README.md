@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718277221?label=Updated)
+![Relative date](https://img.shields.io/date/1718281316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -331,9 +331,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.31.3|1.44.1|lang-js||
+|deno|1.31.3|1.44.2|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.4.1|0.4.0|app-admin|Possible downgrade from the current version (0.4.1 -> 0.4.0)|
 |deploykit-gui|0.5.1|test-ci|app-admin|Versions not comparable: `0.5.1` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -944,6 +943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop||
 |kde-cli-tools|5.27.11|6.0.5|desktop-kde||
+|kde-dev-scripts|23.08.5|24.05.1|desktop-kde||
 |kde-dev-utils|23.08.5|24.05.1|desktop-kde||
 |kde-gtk-config|5.27.11|6.0.5|desktop-kde||
 |kde-inotify-survey|23.08.5|24.05.1|desktop-kde||
@@ -2074,7 +2074,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.11.1|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.05.0|desktop-kde||
+|plasma-angelfish|22.06|24.05.1|desktop-kde||
 |plasma-browser-integration|5.27.11|6.0.5|desktop-kde||
 |plasma-desktop|5.27.11|6.0.5|desktop-kde||
 |plasma-disks|5.27.11|6.0.5|desktop-kde||
@@ -2884,6 +2884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
+|yubikey-manager|4.0.1|5.4.0|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.1|app-devices||
 |yuzu|1582|1732|app-games||
