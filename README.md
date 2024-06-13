@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718309659?label=Updated)
+![Relative date](https://img.shields.io/date/1718313220?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -227,7 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|125.0.6422.141|126.0.6478.55|app-web||
+|chromium|125.0.6422.141|126.0.6478.61|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.0.4|groups||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
@@ -759,7 +759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils||
 |hdf5|1.10.5|1.14.4.3|runtime-scientific||
 |hdsentinel|0.17|400s|app-utils||
-|helm|3.15.0|3.15.1|app-containers||
+|helm|3.15.0|3.15.2|app-containers||
 |help2man|1.48.1|1.49.3|app-doc||
 |herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
@@ -897,7 +897,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalzium|23.08.5|24.05.1|desktop-kde||
 |kamera|23.08.5|24.05.1|desktop-kde||
 |kamoso|23.08.5|24.05.1|desktop-kde||
-|kanagram|23.08.5|24.05.1|desktop-kde||
 |kapidox|5.115.0|6.0.90|desktop-kde||
 |kapman|23.08.5|24.05.1|desktop-kde||
 |kapptemplate|23.08.5|24.05.1|desktop-kde||
