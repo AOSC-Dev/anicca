@@ -1474,7 +1474,6 @@
 ["libspatialite","5.0.1","5.1.0","runtime-gis",1703753294,[]],
 ["geos","3.7.3","3.12.2","runtime-gis",1577969398,[]],
 ["wdm","1.28","1.29","desktop-displaymanagers",1678604371,[]],
-["greetd","0.9.0","0.10.3","desktop-displaymanagers",1710842566,[]],
 ["lightdm-settings","2.0.2","2.0.3","desktop-displaymanagers",1709985478,[]],
 ["xdm","1.1.12","1.1.16","desktop-displaymanagers",1587076659,[]],
 ["slick-greeter","2.0.3","2.0.4","desktop-displaymanagers",1709985478,[]],
