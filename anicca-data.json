@@ -2339,7 +2339,6 @@
 ["libgnt","2.14.0","2.14.3","runtime-common",1620878457,[]],
 ["msgpack-c","6.0.0","6.0.1","runtime-common",1708762981,[]],
 ["clucene","2.3.3.4+git20130812","2.3.3.4","runtime-common",1673495966,["Compound version number '2.3.3.4+git20130812'","Version number indicates a snapshot (+git) is used"]],
-["xerces-c","3.2.3","3.2.5","runtime-common",1600321917,[]],
 ["highway","1.1.0","1.2.0","runtime-common",1717235212,[]],
 ["opencl-clang","17.0.0","18.1.0","runtime-common",1702006584,[]],
 ["re2c","1.3","3.1","runtime-common",1576675259,[]],
