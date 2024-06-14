@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718320505?label=Updated)
+![Relative date](https://img.shields.io/date/1718326123?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -650,6 +650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.52.0|desktop-gnome||
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
 |gnome-session|42.0|46.0|desktop-gnome||
+|gnome-settings-daemon|42.2|46.0|desktop-gnome||
 |gnome-shell|42.4|46.2|desktop-gnome||
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
 |gnome-shell-extensions|42.3|46.2|desktop-gnome||
@@ -1292,7 +1293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffado|2.4.4|2.4.8|runtime-multimedia||
 |libffi|3.4.4|3.4.6|runtime-common||
 |libffi+32|3.4.2|3.4.6|runtime-optenv32||
-|libfido2|1.13.0|1.14.0|runtime-devices||
+|libfido2|1.13.0|1.15.0|runtime-devices||
 |libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
 |libfprint|1.94.4|1.94.7|runtime-devices||
@@ -2509,6 +2510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.0|lang-python||
 |squashfs-tools|4.5|4.6.1|app-admin||
 |squashfuse|0.1.105|0.5.2|app-admin||
+|squid|5.7|6.10|app-web||
 |sra-tools|3.0.3|3.1.1|app-scientific||
 |sratom|0.6.4|0.6.16|runtime-common||
 |srecord|1.64|1.65.0|app-utils||
