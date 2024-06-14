@@ -370,7 +370,7 @@
 ["uhttpmock","0.5.3","0.10.0","runtime-web",1600321917,[]],
 ["nghttp3","1.3.0","1.4.0","runtime-web",1718151092,[]],
 ["gcc+cross-ppc64","9.3.1","14.1.0","app-devel",1678950872,[]],
-["just","1.27.0","1.28.0","app-devel",1716823276,[]],
+["just","1.28.0","1.29.0","app-devel",1718355234,[]],
 ["dotnet-templates-6.0","6.0.422","6.0.423","app-devel",1716597653,[]],
 ["gcc+cross-loongarch64","13.2.0+glibc2.37+1","14.1.0","app-devel",1703924374,["Compound version number '13.2.0+glibc2.37+1'"]],
 ["corrosion","0.2.1","0.4.10","app-devel",1659589128,[]],
