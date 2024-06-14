@@ -1981,6 +1981,7 @@
 ["backports-functools-lru-cache","1.5","2.0.0","lang-python",1522530847,[]],
 ["pathlib2","2.3.5","2.3.7.post1","lang-python",1581796621,[]],
 ["attrs","20.3.0","23.2.0","lang-python",1609312655,[]],
+["ptyprocess","0.6.0","0.7.0","lang-python",1530553512,[]],
 ["bottle","0.12.18","0.12.25","lang-python",1581796620,[]],
 ["python-cloudflare","2.8.15","3.0.0b9","lang-python",1615174551,[]],
 ["python-graphviz","0.16","0.20.3","lang-python",1616134410,[]],

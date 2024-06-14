@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718392374?label=Updated)
+![Relative date](https://img.shields.io/date/1718396035?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2154,6 +2154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pstoedit|3.75|4.01|app-doc||
 |psycopg2|2.8.6|2.9.9|lang-python||
 |ptex|2.3.2|2.4.3|runtime-creativity||
+|ptyprocess|0.6.0|0.7.0|lang-python||
 |pugixml|1.11.4|1.14|runtime-common||
 |pulseaudio|17.0<br>+xrdp0.7|17.0|app-multimedia|Compound version number '17.0+xrdp0.7'|
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
