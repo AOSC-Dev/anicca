@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718356463?label=Updated)
+![Relative date](https://img.shields.io/date/1718360097?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1882,7 +1882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.1|desktop-kde||
 |parsedatetime|2.4|2.6|lang-python||
 |parso|0.3.3|0.8.4|lang-python||
-|partclone|0.3.20|0.3.28|app-admin||
+|partclone|0.3.20|0.3.29|app-admin||
 |partimage|0.6.9|0.7.2|app-admin||
 |partitionmanager|23.08.5|24.05.1|desktop-kde||
 |pastel|0.2.0|0.2.1|lang-python||
@@ -1899,7 +1899,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5886|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5890|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2287,13 +2287,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
-|qtpy|2.1.0|2.4.1|lang-python||
 |qtractor|0.9.23|0.9.91|app-multimedia||
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
 |quazip|0.9.1|1.4|runtime-common||
 |quickjs|2024.01.13|2024-01-13|lang-js||
 |qwt5|6.1.5|6.3.0|runtime-desktop||
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
+|r|4.4.0|4.4.1|app-scientific||
 |ragel|6.10|7.0.4|app-devel||
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
