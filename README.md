@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718389033?label=Updated)
+![Relative date](https://img.shields.io/date/1718392374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2154,7 +2154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pstoedit|3.75|4.01|app-doc||
 |psycopg2|2.8.6|2.9.9|lang-python||
 |ptex|2.3.2|2.4.3|runtime-creativity||
-|ptyprocess|0.6.0|0.7.0|lang-python||
 |pugixml|1.11.4|1.14|runtime-common||
 |pulseaudio|17.0<br>+xrdp0.7|17.0|app-multimedia|Compound version number '17.0+xrdp0.7'|
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
@@ -2618,7 +2617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.5|app-web||
+|telegram-desktop|5.0.1|5.1.7|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
