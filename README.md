@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718385191?label=Updated)
+![Relative date](https://img.shields.io/date/1718389033?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2362,7 +2362,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
 |rubberband|1.9.2|3.3.0|app-multimedia||
 |ruby|3.2.2|3.3.3|lang-ruby||
-|ruby-bundler|2.1.4|2.5.12|lang-ruby||
+|ruby-bundler|2.1.4|2.5.13|lang-ruby||
 |ruby-ffi|1.10.0|1.17.0|lang-ruby||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby||
 |ruby-locale|2.1.3|2.1.4|lang-ruby||
@@ -2538,7 +2538,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.610.122248|app-multimedia||
+|sunshine|0.23.0|2024.613.3910|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
