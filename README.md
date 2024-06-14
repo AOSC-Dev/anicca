@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718378140?label=Updated)
+![Relative date](https://img.shields.io/date/1718381720?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -223,7 +223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|1.9.0|2.7.1|app-devel||
 |cheese|41.1|44.1|desktop-gnome||
 |cheetah3|3.2.5|3.2.6.post2|lang-python||
-|cherrypy|18.1.0|18.9.0|lang-python||
+|cherrypy|18.1.0|18.10.0|lang-python||
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
@@ -878,7 +878,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.1|desktop-kde||
 |jupyter-client|5.2.4|8.6.2|lang-python||
 |jupyter-core|4.4.0|5.7.2|lang-python||
-|just|1.28.0|1.29.0|app-devel||
 |k3b|23.08.5|24.05.1|desktop-kde||
 |k3b-trinity|14.1.0|14.1.2|desktop-trinity||
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -2222,6 +2221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5-sip|12.9.0|12.13.0|lang-python||
 |pyqtwebengine|5.15.5|5.15.6|lang-python||
 |pyscard|1.9.9|2.0.10|lang-python||
+|pyscss|1.3.7|1.4.0|lang-python||
 |pyside2|5.15.14|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|lang-python||
 |pysocks|1.6.8|1.7.1|lang-python||
