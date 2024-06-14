@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718338629?label=Updated)
+![Relative date](https://img.shields.io/date/1718342010?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -680,7 +680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|126.0.6478.55|126.0.6478.61|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -1699,7 +1698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.18.0|1.24.3|app-doc||
-|musescore|4.3.0|4.3.1|app-creativity||
+|musescore|4.3.0|4.3.2|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
 |mycli|1.23.2|1.27.2|app-database||
@@ -1720,8 +1719,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
 |neatvnc|0.7.1|0.8.0|runtime-network||
-|nemo|5.8.3|6.0.2|desktop-cinnamon||
-|nemo-extensions|5.8.0|6.0.1|desktop-cinnamon||
+|nemo|5.8.3|6.2.0|desktop-cinnamon||
+|nemo-extensions|5.8.0|6.2.0|desktop-cinnamon||
 |neochat|23.08.5|24.05.1|desktop-kde||
 |neomutt|20200619|20240425|app-web||
 |neon+32|0.31.2|0.33.0|runtime-optenv32||
@@ -1751,7 +1750,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|runtime-common||
 |nfs-utils|2.6.2|2.6.4|app-utils||
 |nghttp2|1.58.0|1.62.1|runtime-web||
+|nghttp3|1.3.0|1.4.0|runtime-web||
 |ngspice|35|42|app-electronics||
+|ngtcp2|1.5.0|1.6.0|runtime-web||
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
