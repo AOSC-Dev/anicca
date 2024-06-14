@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718334871?label=Updated)
+![Relative date](https://img.shields.io/date/1718338629?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1144,6 +1144,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kross|5.115.0|6.0.90|desktop-kde||
 |kruler|23.08.5|24.05.1|desktop-kde||
 |krunner|5.115.0|6.0.90|desktop-kde||
+|krusader|2.7.2|2.8.1|desktop-kde||
 |krusader-trinity|14.1.0|14.1.2|desktop-trinity||
 |ksanecore|23.08.5|24.05.1|desktop-kde||
 |kscope-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1659,7 +1660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.6|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
 |minuet|23.08.5|24.05.1|desktop-kde||
-|mitmproxy|7.0.4|10.3.0|app-network||
+|mitmproxy|7.0.4|10.3.1|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
 |mkvtoolnix|84.0|85.0|app-multimedia||
