@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718399639?label=Updated)
+![Relative date](https://img.shields.io/date/1718403294?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -783,7 +783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.103.1|lang-python||
+|hypothesis-python|6.97.4|6.103.2|lang-python||
 |hysteria|2.4.0|2.4.5|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -1601,7 +1601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.5|lang-python||
 |malcontent|0.10.5|0.12.0|runtime-desktop||
 |man-db|2.11.1|2.12.1|app-utils||
-|man-pages|6.05.01<br>+posix2017a|6.8|runtime-data|Compound version number '6.05.01+posix2017a'|
+|man-pages|6.05.01<br>+posix2017a|6.9|runtime-data|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.2|app-utils||
 |mangohud+32|0.7.0|0.7.2|runtime-optenv32||
 |marble|23.08.5|24.05.1|desktop-kde||
