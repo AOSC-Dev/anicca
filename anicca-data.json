@@ -308,7 +308,7 @@
 ["openexr","3.1.8","3.2.126","runtime-imaging",1687941313,[]],
 ["opencsg","1.5.1","1.6.0","runtime-imaging",1672817129,[]],
 ["babl","0.1.108","0_1_108","runtime-imaging",1710250223,[]],
-["gmic","3.2.6","3.3.6","runtime-imaging",1642132413,[]],
+["gmic","3.2.6","3.4.0","runtime-imaging",1642132413,[]],
 ["coin","4.0.0+git20220828","4.0.0","runtime-imaging",1674446327,["Compound version number '4.0.0+git20220828'","Version number indicates a snapshot (+git) is used"]],
 ["gegl-0.4","0.4.48","0_4_48","runtime-imaging",1710250223,[]],
 ["opencascade","7.6.3","7.8.0","runtime-imaging",1672806408,[]],
