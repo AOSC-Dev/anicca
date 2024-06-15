@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718435650?label=Updated)
+![Relative date](https://img.shields.io/date/1718439437?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -323,7 +323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity||
 |dcaenc|3|2|app-multimedia|Possible downgrade from the current version (3 -> 2)|
 |ddcutil|2.1.3|2.1.4|app-utils||
-|ddnet|17.0.3|18.2|app-games||
+|ddnet|17.0.3|18.3|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
 |debianutils|5.7|5.19|app-utils||
@@ -565,7 +565,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm+32|1.11|1.23|runtime-optenv32||
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
 |gdm|42.0|46.2|desktop-gnome||
-|gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|app-devel||
 |geany-plugins|2.0|2.0.0|app-devel||
@@ -1431,7 +1430,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsigc++-3.0|3.4.0|3.6.0|runtime-common||
 |libsigsegv|2.12|2.14|runtime-common||
 |libslirp|4.6.1|4.8.0|runtime-emulation||
-|libsndfile|1.2.0|1.2.2|runtime-multimedia||
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
 |libsodium|1.0.18|1.0.20|runtime-cryptography||
 |libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
