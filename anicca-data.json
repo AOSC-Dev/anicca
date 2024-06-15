@@ -1749,7 +1749,6 @@
 ["perl-anyevent","7.14","7.17","lang-perl",1530196415,[]],
 ["perl-sub-install","0.928","0.929","lang-perl",1678950872,[]],
 ["perl-mime-lite","3.030","3.033","lang-perl",1678950872,[]],
-["perl-io-tee","0.65","0.66","lang-perl",1590975699,[]],
 ["libintl-perl","1.29","1.33","lang-perl",1530196415,[]],
 ["perl-class-singleton","1.5","1.6","lang-perl",1596485702,[]],
 ["perl-json","2.90","4.10","lang-perl",1678950872,[]],

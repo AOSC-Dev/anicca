@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718442805?label=Updated)
+![Relative date](https://img.shields.io/date/1718446496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1983,7 +1983,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-image-exiftool|12.50|12.87|lang-perl||
 |perl-io-socket-inet6|2.72|2.73|lang-perl||
 |perl-io-socket-ssl|2.062|2.085|lang-perl||
-|perl-io-tee|0.65|0.66|lang-perl||
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl||
 |perl-ipc-system-simple|1.25|1.30|lang-perl||
