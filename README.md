@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718468146?label=Updated)
+![Relative date](https://img.shields.io/date/1718471538?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -263,7 +263,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |collectl|4.3.1|4.3.8|app-utils||
 |colorama|0.4.3|0.4.6|lang-python||
 |colord-kde|23.08.5|24.05.1|desktop-kde||
-|colordiff|1.0.20|1.0.21|app-utils||
 |coloredlogs|10.0|15.0.1|lang-python||
 |composer|2.0.13|2.7.7|app-devel||
 |concurrencykit|0.7.1|0.7.2|runtime-common||
@@ -327,7 +326,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddrescue|1.24|1.28|app-utils||
 |ddrescueview|1.23|0.4.5|app-utils|Possible downgrade from the current version (1.23 -> 0.4.5)|
 |debianutils|5.7|5.19|app-utils||
-|debootstrap|1.0.134|1.0.135|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|45.2|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
@@ -826,7 +824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|app-utils||
 |inih|53|58|app-devel||
 |iniparse|0.4|0.5|lang-python||
-|iniparser|4.1|4.2.2|runtime-common||
+|iniparser|4.1|4.2.3|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.19|22.3.20|runtime-devices||
@@ -834,7 +832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.4|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.1.2|desktop-fonts||
+|iosevka-fonts|28.0.5|30.2.0|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
 |iperf3|3.16|3.17.1|app-network||
@@ -1832,7 +1830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpyxl|2.6.0|3.1.4|lang-python||
 |openra|20210321|20231010|app-games||
 |openrazer|3.3.0|3.8.0|app-devices||
-|openrgb|0.6|0.9|app-utils||
 |opensc|0.22.0|0.25.1|app-devices||
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|runtime-imaging||
@@ -1864,7 +1861,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pacman|6.0.1|6.1.0|app-admin||
 |pahole|1.25|1.27|app-utils||
 |palapeli|23.08.5|24.05.1|desktop-kde||
-|palp|2.1|2.21|app-scientific||
 |pam-python|1.0.7|1.0.8|lang-python||
 |pam-wrapper|1.1.3|1.1.5|app-devel||
 |pamixer|1.4|1.6|app-multimedia||
