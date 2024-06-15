@@ -1688,7 +1688,6 @@
 ["vim","9.1.0446","9.1.0487","app-editors",1716881164,[]],
 ["nano","8.0+nanorc2024.1.16","8.0","app-editors",1714695431,["Compound version number '8.0+nanorc2024.1.16'"]],
 ["vscodium","1.90.0.24158","1.90.1.24165","app-editors",1718258115,[]],
-["vscode","1.90.0","1.90.1","app-editors",1718332578,[]],
 ["libuhd","4.5.0.0","4.6.0.0","runtime-ham",1700797896,[]],
 ["ghc","9.4.8","9.10.1-release","lang-haskell",1711355899,[]],
 ["gnustep-make","2.9.0","2_9_2","runtime-gnustep",1631430385,[]],

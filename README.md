@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718449932?label=Updated)
+![Relative date](https://img.shields.io/date/1718454045?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2773,7 +2773,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
-|vscode|1.90.0|1.90.1|app-editors||
 |vscodium|1.90.0.24158|1.90.1.24165|app-editors||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
