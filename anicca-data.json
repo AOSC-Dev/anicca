@@ -2377,7 +2377,7 @@
 ["flatbuffers","2.0.6","24.3.25","runtime-common",1570470274,[]],
 ["confuse","3.2.2","3.3","runtime-common",1535215578,[]],
 ["libosinfo","1.10.0","1.11.0","runtime-common",1694574450,[]],
-["libeconf","0.5.0","0.7.1","runtime-common",1674452224,[]],
+["libeconf","0.5.0","0.7.2","runtime-common",1674452224,[]],
 ["raptor2","2.0.15","2.0.16","runtime-common",1678950872,[]],
 ["lttng-ust","2.13.5","2.13.8","runtime-common",1707183493,[]],
 ["gc","8.2.6","8.2.4","runtime-common",1633494610,["Possible downgrade from the current version (8.2.6 -> 8.2.4)"]],
