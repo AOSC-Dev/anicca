@@ -1091,6 +1091,7 @@
 ["vpnc","0.5.3r550","0.5.3","app-network",1678950872,[]],
 ["iptables","1.8.8","1.8.10","app-network",1674452376,[]],
 ["lighttpd","1.4.55","1.4.76","app-network",1600577920,[]],
+["siege","4.0.7","4.1.6","app-network",1600577920,[]],
 ["wrk","4.1.0","4.2.0","app-network",1528905473,[]],
 ["redsocks2","0.67+git20201229","0.1","app-network",1629863094,["Compound version number '0.67+git20201229'","Version number indicates a snapshot (+git) is used","Possible downgrade from the current version (0.67+git20201229 -> 0.1)"]],
 ["bind","9.18.24","9.16.33","app-network",1709998421,["Possible downgrade from the current version (9.18.24 -> 9.16.33)"]],
