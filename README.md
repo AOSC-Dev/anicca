@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718454045?label=Updated)
+![Relative date](https://img.shields.io/date/1718457219?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -583,7 +583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gh|2.50.0|2.51.0|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
-|ghidra|11.0|11.1_build|app-devel||
+|ghidra|11.0|11.1.1_build|app-devel||
 |ghostscript|9.54.0|10.03.1|app-doc||
 |ghostscript+32|9.27|10.03.1|runtime-optenv32||
 |ghostwriter|23.08.5|24.05.1|desktop-kde||
@@ -2773,7 +2773,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
-|vscodium|1.90.0.24158|1.90.1.24165|app-editors||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
 |vulkan-extensionlayer|1.3.280.0|1.3.287|runtime-display||
