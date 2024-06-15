@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718406892?label=Updated)
+![Relative date](https://img.shields.io/date/1718412550?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2758,7 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0478|app-editors||
+|vim|9.1.0446|9.1.0487|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
@@ -2772,16 +2772,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
+|vscode|1.90.0|1.90.1|app-editors||
+|vscodium|1.90.0.24158|1.90.1.24165|app-editors||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
 |vulkan-extensionlayer|1.3.280.0|1.3.287|runtime-display||
-|vulkan-headers|1.3.280.0|1.3.287|runtime-display||
-|vulkan-headers+32|1.3.272|1.3.287|runtime-optenv32||
-|vulkan-loader|1.3.280.0|1.3.287|runtime-display||
-|vulkan-loader+32|1.3.272|1.3.287|runtime-optenv32||
+|vulkan-headers|1.3.280.0|1.3.288|runtime-display||
+|vulkan-headers+32|1.3.272|1.3.288|runtime-optenv32||
+|vulkan-loader|1.3.280.0|1.3.288|runtime-display||
+|vulkan-loader+32|1.3.272|1.3.288|runtime-optenv32||
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.280.0|1.3.287|runtime-display||
+|vulkan-utility-libraries|1.3.280.0|1.3.288|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.287|runtime-display||
 |warpinator|1.6.3|1.8.4|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
@@ -2848,6 +2850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
 |xdg-utils|1.1.3|1.2.1|app-utils||
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
+|xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
