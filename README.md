@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718485926?label=Updated)
+![Relative date](https://img.shields.io/date/1718489556?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -486,6 +486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
+|flake8|7.0.0|7.1.0|lang-python||
 |flask|1.1.2|3.0.3|lang-python||
 |flask-login|0.4.1|0.6.3|lang-python||
 |flask-mail|0.9.1|0.10.0|lang-python||
@@ -1392,6 +1393,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|runtime-imaging||
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32||
 |libpeas|1.32.0|2.0.2|desktop-gnome||
+|libphonenumber|8.13.38|8.13.39|runtime-i18n||
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
 |libplist|2.3.0|2.6.0|runtime-common||
@@ -2165,7 +2167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaudio|0.2.11|0.2.14|lang-python||
 |pybind11|2.11.1|2.12.0|lang-python||
 |pycairo|1.18.2|1.26.0|lang-python||
-|pycodestyle|2.7.0|2.11.1|lang-python||
+|pycodestyle|2.7.0|2.12.0|lang-python||
 |pycountry|18.12.8|24.6.1|lang-python||
 |pycparser|2.19|2.22|lang-python||
 |pycryptodome|3.7.3|3.20.0|lang-python||
