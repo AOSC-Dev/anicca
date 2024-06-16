@@ -2195,6 +2195,7 @@
 ["rsa","4.0","4.9","lang-python",1549987770,[]],
 ["et-xmlfile","1.0.1","1.1.0","lang-python",1482382343,[]],
 ["pyatspi","2.38.2","2.46.1","lang-python",1663210241,[]],
+["autopep8","2.2.0","2.3.0","lang-python",1717723178,[]],
 ["pycryptopp","0.7.1","0.5.29","lang-python",1473089332,["Possible downgrade from the current version (0.7.1 -> 0.5.29)"]],
 ["traitlets","5.0.5","5.14.3","lang-python",1612335230,[]],
 ["future","0.17.0","1.0.0","lang-python",1551159549,[]],
