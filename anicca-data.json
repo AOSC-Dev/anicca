@@ -1060,7 +1060,7 @@
 ["tailscale","1.64.2","1.68.0","app-network",1715161834,[]],
 ["synergy","1.11.1","2.3.2","app-network",1585097716,[]],
 ["openfortivpn","1.18.0","1.22.1","app-network",1663359140,[]],
-["shadowsocks-rust","1.18.4","1.19.4","app-network",1716184577,[]],
+["shadowsocks-rust","1.18.4","1.20.0","app-network",1716184577,[]],
 ["ss-tproxy","4.6.1","4.8","app-network",1611985904,[]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,[]],
 ["clash-verge-rev","1.6.4","1.6.6","app-network",1717211428,[]],
