@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718543639?label=Updated)
+![Relative date](https://img.shields.io/date/1718547204?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -763,7 +763,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin||
 |highway|1.1.0|1.2.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
-|hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
 |hotspot|1.3.0|1.5.1|app-devel||
 |hplip|3.22.4|3.23.12|app-doc||
@@ -791,7 +790,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.16|app-i18n||
 |ibus-chewing|1.6.1|2.0.0|app-i18n||
 |ibus-hangul|1.5.4|1.5.5|app-i18n||
-|ibus-libpinyin|1.12.0|1.15.7|app-i18n||
 |ibus-m17n|1.4.7|1.4.29|app-i18n||
 |ibus-qt|1.3.3|1.3.4|app-i18n||
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
@@ -1529,15 +1527,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.218|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.218)|
+|linux+kernel+lts|6.6.31|5.10.219|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.219)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.218|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
+|linux+kernel+retro|5.10.132|5.10.219|runtime-kernel||
+|linux+kernel+retro+minimal|5.15.17|5.10.219|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.219)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240610|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.218|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.218|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.218)|
+|linux-kernel-retro|5.10.132|5.10.219|runtime-kernel||
+|linux-kernel-retro-minimal|5.15.17|5.10.219|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.219)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -1769,6 +1767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|app-admin||
 |numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
+|numpy|1.26.4|2.0.0|lang-python||
 |nut|2.7.4|2.8.2|app-admin||
 |nvchecker|1.5|2.15.1|app-utils||
 |nvidia|550.54.14|555.52.04|runtime-display||
@@ -2532,7 +2531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.613.3910|app-multimedia||
+|sunshine|0.23.0|2024.616.13035|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
