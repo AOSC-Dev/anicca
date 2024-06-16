@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718547204?label=Updated)
+![Relative date](https://img.shields.io/date/1718550816?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -763,6 +763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin||
 |highway|1.1.0|1.2.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
+|hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
 |hotspot|1.3.0|1.5.1|app-devel||
 |hplip|3.22.4|3.23.12|app-doc||
@@ -790,6 +791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.16|app-i18n||
 |ibus-chewing|1.6.1|2.0.0|app-i18n||
 |ibus-hangul|1.5.4|1.5.5|app-i18n||
+|ibus-libpinyin|1.12.0|1.15.7|app-i18n||
 |ibus-m17n|1.4.7|1.4.29|app-i18n||
 |ibus-qt|1.3.3|1.3.4|app-i18n||
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
@@ -2555,7 +2557,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
 |tagparser|11.5.1|12.1.0|runtime-multimedia||
-|tailscale|1.64.2|1.68.0|app-network||
+|tailscale|1.64.2|1.68.1|app-network||
 |taisei|1.3.2|1.4.1|app-games||
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
@@ -2611,7 +2613,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.7|app-web||
+|telegram-desktop|5.0.1|5.1.8|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
