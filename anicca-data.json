@@ -2283,7 +2283,7 @@
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compound version number '0.0.0+git20210626'","Version number indicates a snapshot (+git) is used"]],
 ["mate-control-center","1.28.0","1.28.1","desktop-mate",1715609166,[]],
 ["iverilog","12.0","12_0","app-electronics",1714457871,[]],
-["verilator","4.204","5.024","app-electronics",1624316725,[]],
+["verilator","4.204","5.026","app-electronics",1624316725,[]],
 ["gpsim","0.31.0","0.32.1","app-electronics",1625211685,[]],
 ["ngspice","35","42","app-electronics",1624316725,[]],
 ["yosys","0.41","0.42","app-electronics",1717056114,[]],
