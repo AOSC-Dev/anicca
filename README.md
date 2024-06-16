@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718576103?label=Updated)
+![Relative date](https://img.shields.io/date/1718579629?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2764,7 +2764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
-|vulkan-extensionlayer|1.3.280.0|1.3.287|runtime-display||
+|vulkan-extensionlayer|1.3.280.0|1.3.288|runtime-display||
 |vulkan-headers|1.3.280.0|1.3.288|runtime-display||
 |vulkan-headers+32|1.3.272|1.3.288|runtime-optenv32||
 |vulkan-loader|1.3.280.0|1.3.288|runtime-display||
@@ -2772,7 +2772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools|1.3.280.0|1.3.283|app-utils||
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.288|runtime-display||
-|vulkan-validationlayers|1.3.280.0|1.3.287|runtime-display||
+|vulkan-validationlayers|1.3.280.0|1.3.288|runtime-display||
 |warpinator|1.6.3|1.8.4|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.06.10.00|app-utils||
