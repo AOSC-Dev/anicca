@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718608408?label=Updated)
+![Relative date](https://img.shields.io/date/1718612315?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -549,7 +549,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|app-devel|Compound version number '12.2.0+glibc2.36-4'|
 |gcc+cross-powerpc|9.3.1|14.1.0|app-devel||
 |gcc+cross-ppc64|9.3.1|14.1.0|app-devel||
-|gcc+cross-ppc64el|12.3.0|14.1.0|app-devel||
 |gcc+cross-riscv64|12.1.0|14.1.0|app-devel||
 |gcc+w64|9.3.1|14.1.0|runtime-optenvw64||
 |gcdemu|3.2.4|3.2.6|app-multimedia||
@@ -761,7 +760,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
-|hotspot|1.3.0|1.5.1|app-devel||
 |hplip|3.22.4|3.24.4|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
@@ -1348,7 +1346,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblangtag|0.6.3|0.6.7|runtime-i18n||
 |libliftoff|0.4.1|0.5.0|runtime-display||
 |liblo|0.29|0.32|runtime-multimedia||
-|liblouis|3.12.0|3.30.0|runtime-a11y||
 |libltc|1.3.1|1.3.2|runtime-multimedia||
 |libluv|1.47.0<br>+0|1.48.0-2|lang-lua|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|runtime-devices||
@@ -1984,7 +1981,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|lang-perl||
 |perl-mail-dkim|0.40|1.20240124|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
-|perl-mail-spf|2.9.0|3.20240206|lang-perl||
+|perl-mail-spf|2.9.0|3.20240617|lang-perl||
 |perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
