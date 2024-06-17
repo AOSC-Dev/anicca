@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718637316?label=Updated)
+![Relative date](https://img.shields.io/date/1718640939?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1740,7 +1740,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
-|nokogiri|1.16.5|1.16.6|lang-ruby||
 |nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
@@ -2710,6 +2709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
+|urllib3|2.2.1|2.2.2|lang-python||
 |urwid|2.1.2|2.6.14|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
