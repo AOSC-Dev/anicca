@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718589781?label=Updated)
+![Relative date](https://img.shields.io/date/1718592067?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -406,7 +406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ecl|23.9.9|24.5.10|lang-lisp||
 |editables|0.3|0.5|lang-python||
 |editline|1.16.1|1.17.1|runtime-common||
-|editorconfig-core-c|0.12.6|0.12.8|runtime-editors||
+|editorconfig-core-c|0.12.6|0.12.9|runtime-editors||
 |efivar|38|39|app-admin||
 |elfutils|0.188|0.191|app-utils||
 |elfutils+32|0.166|0.191|runtime-optenv32||
@@ -1247,6 +1247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
 |libcdr|0.1.6|0.1.7|runtime-imaging||
 |libcgroup|2.0|3.1.0|app-admin||
+|libchamplain|0.12.20|0.12.21|desktop-gnome||
 |libchewing|0.5.1|0.8.4|runtime-i18n||
 |libclc|17.0.3|18.1.7|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
@@ -1774,7 +1775,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
-|ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-num|1.3|1.5|lang-ocaml||
 |ocaml-pp|1.1.2|1.2.0|lang-ocaml||
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
@@ -1965,7 +1965,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gtk2|1.2499|1.24993|lang-perl||
 |perl-gtk2-unique|0.05|0.07|lang-perl||
 |perl-html-form|6.03|6.11|lang-perl||
-|perl-html-parser|3.72|3.82|lang-perl||
 |perl-html-tagset|3.20|3.24|lang-perl||
 |perl-http-cookies|6.01|6.11|lang-perl||
 |perl-http-daemon|6.01|6.16|lang-perl||
