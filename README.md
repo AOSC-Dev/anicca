@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718619326?label=Updated)
+![Relative date](https://img.shields.io/date/1718622817?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -818,12 +818,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|app-utils||
 |inih|53|58|app-devel||
 |iniparse|0.4|0.5|lang-python||
-|iniparser|4.1|4.2.3|runtime-common||
+|iniparser|4.1|4.2.4|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
 |intel-gmmlib|22.3.19|22.3.20|runtime-devices||
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
-|intel-media-driver|24.1.5|24.2.4|runtime-multimedia||
+|intel-media-driver|24.1.5|24.2.5|runtime-multimedia||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
 |iosevka-fonts|28.0.5|30.2.0|desktop-fonts||
