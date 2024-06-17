@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718585577?label=Updated)
+![Relative date](https://img.shields.io/date/1718589781?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -105,7 +105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
 |attrs|20.3.0|23.2.0|lang-python||
-|audacious|4.3.1|4.4|app-multimedia||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.05.1|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -153,7 +152,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|desktop-kde||
 |bluez-alsa|4.1.1|4.2.0|app-multimedia||
 |bluez-qt|5.115.0|6.0.90|desktop-kde||
-|boinc|8.0.2|8.0.3|app-scientific||
 |bomber|23.08.5|24.05.1|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
@@ -1249,7 +1247,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
 |libcdr|0.1.6|0.1.7|runtime-imaging||
 |libcgroup|2.0|3.1.0|app-admin||
-|libchamplain|0.12.20|0.12.21|desktop-gnome||
 |libchewing|0.5.1|0.8.4|runtime-i18n||
 |libclc|17.0.3|18.1.7|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
@@ -2906,6 +2903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|app-productivity||
 |zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
+|zvbi|0.2.35|0.2.42|runtime-multimedia||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
 |zxtune|5053|5061|app-multimedia||
 |zyn-fusion|3.0.5|3.0.6|app-multimedia||
