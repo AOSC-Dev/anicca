@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718633690?label=Updated)
+![Relative date](https://img.shields.io/date/1718637316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -861,7 +861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |josepy|1.13.0|1.14.0|lang-python||
 |json-c|0.16|0.17|runtime-common||
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compound version number '0.13.1+20180305'|
-|json-glib|1.6.6|1.8.0-actual|runtime-common||
+|json-glib|1.8.0|1.8.0-actual|runtime-common|Possible downgrade from the current version (1.8.0 -> 1.8.0-actual)|
 |jsonlines|1.2.0|4.0.0|lang-python||
 |jsonpointer|2.3|3.0.0|lang-python||
 |jsonrpc-glib|3.42.0|3.44.0|runtime-common||
@@ -1211,8 +1211,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
 |libaacs|0.11.0|0.11.1|runtime-multimedia||
 |libaal|1.0.7|24"|runtime-admin||
-|libaccounts-glib|1.24|1.27|runtime-desktop||
-|libaccounts-qt|1.16|1.17|runtime-desktop||
 |libadwaita|1.5.0|1.5.1|desktop-gnome||
 |libaio|0.3.111|0.3.113|runtime-common||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32||
@@ -1371,7 +1369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnotify|0.7.9|0.8.3|runtime-desktop||
 |libnsl2|1.3.0|2.0.1|runtime-network||
 |libnspsl|0.1.6|0.1.7|runtime-web||
-|libnumbertext|1.0.7|1.0.11|runtime-productivity||
 |libodfgen|0.1.6|0.1.8|runtime-productivity||
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libogg|1.3.4|1.3.5|runtime-multimedia||
@@ -1781,7 +1778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde||
 |okular|23.08.5|24.05.1|desktop-kde||
 |olefile|0.46|0.47|lang-python||
-|oma|1.3.15|1.12.13|app-admin||
+|oma|1.3.17|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|app-games||
@@ -1848,6 +1845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packaging|23.0|24.1|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
 |pahole|1.25|1.27|app-utils||
+|palapeli|23.08.5|24.05.1|desktop-kde||
 |pam-python|1.0.7|1.0.8|lang-python||
 |pam-wrapper|1.1.3|1.1.5|app-devel||
 |pamixer|1.4|1.6|app-multimedia||
