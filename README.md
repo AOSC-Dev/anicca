@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718644386?label=Updated)
+![Relative date](https://img.shields.io/date/1718648194?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1672,7 +1672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c|6.0.0|6.0.1|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
 |msitools|0.101|0.103|app-devel||
-|msr-tools|20170320|1.3|app-utils|Possible downgrade from the current version (20170320 -> 1.3)|
 |mstflint|4.28.0<br>+1|4.28.0-1|app-admin|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|app-admin||
 |mtdev|1.1.6|1.1.7|runtime-devices||
@@ -2510,6 +2509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|app-devel||
+|streamlink|6.7.4|6.8.0|app-multimedia||
 |strongswan|5.9.4|5.9.14|app-network||
 |structlog|19.1.0|24.2.0|lang-python||
 |stubby|0.3.0|0.4.3|app-network||
