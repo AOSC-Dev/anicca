@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718579629?label=Updated)
+![Relative date](https://img.shields.io/date/1718585577?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -311,6 +311,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkradiant|3.8.0|3.9.0|app-games||
+|darktable|4.6.1|4.8.0|app-creativity||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.3|runtime-multimedia||
 |dblatex|0.3.12|1.1.14|app-doc||
@@ -2153,7 +2154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
 |pulseaudio-qt|1.3|1.5.0|runtime-desktop||
 |pulsectl|20.5.1|24.4.0|lang-python||
-|puremagic|1.15|1.23|lang-python||
+|puremagic|1.15|1.24|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|desktop-kde||
 |pv|1.6.20|1.8.10|app-utils||
