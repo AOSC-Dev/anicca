@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718658800?label=Updated)
+![Relative date](https://img.shields.io/date/1718662375?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -191,7 +191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
-|cargo-c|0.9.24|0.9.32+cargo-0.79.0|lang-rust||
+|cargo-c|0.9.24|0.10.0+cargo-0.80.0|lang-rust||
 |cargo-release|0.24.11|0.25.8|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
@@ -1842,6 +1842,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.0.90|desktop-kde||
 |oxygen-sounds|5.25.3|6.0.5|desktop-kde||
 |p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
+|packagekit|1.2.8|1.3.0|app-admin||
+|packagekit-qt|1.1.1|1.1.2|desktop-kde||
 |packaging|23.0|24.1|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
 |pahole|1.25|1.27|app-utils||
@@ -1881,7 +1883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5902|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5911|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
