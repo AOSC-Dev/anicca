@@ -255,7 +255,7 @@
 ["cryptsetup","2.7.0","2.7.3","app-admin",1709504085,[]],
 ["grub-customizer","5.2.4","5.2.5","app-admin",1708232606,[]],
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compound version number '0.5.0+git20210401'","Version number indicates a snapshot (+git) is used"]],
-["damo","1.0.9","2.3.8","app-admin",1641887332,[]],
+["damo","1.0.9","2.3.9","app-admin",1641887332,[]],
 ["pstate-frequency","3.11.0","3.15.1","app-admin",1610962802,[]],
 ["systemd","255.6","256","app-admin",1716796015,[]],
 ["runc","1.1.12","1.1.13","app-admin",1712458054,[]],
