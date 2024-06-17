@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718605066?label=Updated)
+![Relative date](https://img.shields.io/date/1718608408?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -237,7 +237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.2.0|desktop-cinnamon||
 |cjs|5.8.0|6.2.0|desktop-cinnamon||
 |clamav|1.3.0|1.3.1|app-admin||
-|clash-verge-rev|1.6.4|1.6.6|app-network||
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|lang-python||
 |cli-helpers|1.1.0|2.3.1|lang-python||
@@ -590,7 +589,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.14.4|1.32.0|app-imaging||
 |gimp|2.10.36|2_10_38|app-creativity||
 |girara|0.4.4|0.4.3|runtime-desktop|Possible downgrade from the current version (0.4.4 -> 0.4.3)|
-|git|2.45.1|2.45.2|app-vcs||
 |git-archive-all|1.20.0|1.23.1|app-vcs||
 |git-branchless|0.7.1|0.9.0|app-utils||
 |git-cliff|2.2.2|2.3.0|app-vcs||
@@ -599,7 +597,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|desktop-gnome||
 |gitoxide|0.35.0|0.36.0|app-vcs||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
-|gitui|0.26.2|0.26.3|app-utils||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
 |glances|4.0.5|4.0.8|app-admin||
@@ -765,7 +762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hostapd|2.9|2.10|app-network||
 |hotdoc|0.13.7|0.16|app-doc||
 |hotspot|1.3.0|1.5.1|app-devel||
-|hplip|3.22.4|3.23.12|app-doc||
+|hplip|3.22.4|3.24.4|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
 |htslib|1.16|1.20|app-scientific||
@@ -774,7 +771,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|app-creativity||
-|hugo|0.126.1|0.127.0|app-web||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
 |hyper-h2|4.0.0|4.1.0|lang-python||
