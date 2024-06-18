@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718748735?label=Updated)
+![Relative date](https://img.shields.io/date/1718752383?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -397,7 +397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dub|1.37.0|1.38.0|lang-dlang||
 |duktape|2.5.0|2.7.0|lang-js||
 |dulwich|0.21.6|0.22.1|runtime-vcs||
-|dune|3.4.1|3.15.3|lang-ocaml||
+|dune|3.4.1|3.16.0|lang-ocaml||
 |duplicity|2.2.2|3.0.0|app-utils||
 |e2fsprogs|1.47.0|1.47.1|app-admin||
 |easy-rsa|3.0.8|3.2.0|app-cryptography||
@@ -431,6 +431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-ews|3.42.0|3.52.2|desktop-gnome||
 |evtest|1.34|1.35|app-utils||
 |exempi|2.5.1|2.6.5|runtime-imaging||
+|exfatprogs|1.2.3|1.2.4|app-admin||
 |exiv2|0.27.5|0.28.2|runtime-imaging||
 |extra-cmake-modules|5.115.0|6.1.0|app-devel||
 |eyed3|0.9.5|0.9.7|lang-python||
@@ -2199,7 +2200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyperclip|1.8.2|1.9.0|lang-python||
 |pyperf|2.5.0|2.7.0|lang-python||
 |pypkgconfig|1.4.0|1.5.5|lang-python||
-|pypsutil|5.8.0|5.9.8|lang-python||
+|pypsutil|5.8.0|6.0.0|lang-python||
 |pyqt-builder|1.12.1|1.16.2|lang-python||
 |pyqt5|5.15.5|5.15.10|lang-python||
 |pyqt5-sip|12.9.0|12.13.0|lang-python||
