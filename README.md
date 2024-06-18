@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718687651?label=Updated)
+![Relative date](https://img.shields.io/date/1718691438?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2349,7 +2349,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pg|1.1.4|1.5.6|lang-ruby||
 |ruby-pkg-config|1.4.4|1.5.6|lang-ruby||
 |runc|1.1.12|1.1.13|app-admin||
-|rustc|1.78.0|1.79.0|lang-rust||
 |rustc-demangle|0.1.21|0.1.24|runtime-common||
 |rxvt-unicode|9.22|9.31|runtime-display||
 |rygel|0.40.4|0.42.6|desktop-gnome||
