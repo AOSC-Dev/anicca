@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718665997?label=Updated)
+![Relative date](https://img.shields.io/date/1718671870?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -342,7 +342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|desktop-kde||
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
-|discord|0.0.56|0.0.57|app-web||
 |discover|5.27.11|6.0.5|desktop-kde||
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
@@ -1187,7 +1186,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwave|23.08.5|24.05.1|desktop-kde||
 |kwayland|5.115.0|6.0.90|desktop-kde||
 |kwayland-integration|5.27.11|6.0.5|desktop-kde||
-|kweather|23.08.5|24.05.1|desktop-kde||
 |kweathercore|0.7|0.8.0|desktop-kde||
 |kwidgetsaddons|5.115.0|6.0.90|desktop-kde||
 |kwin|5.27.11|6.0.5|desktop-kde||
@@ -2088,8 +2086,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils||
+|pnpm|9.3.0|9.4.0|lang-js||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
-|po4a|0.63|0.72|app-i18n||
+|po4a|0.63|0.73|app-i18n||
 |pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python||
 |podman|5.1.0<br>+vsock0.7.3|5.1.1|app-containers|Compound version number '5.1.0+vsock0.7.3'|
