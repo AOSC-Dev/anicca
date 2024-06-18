@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718680991?label=Updated)
+![Relative date](https://img.shields.io/date/1718684241?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -16,6 +16,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.2.0|3.7.0|app-utils||
 |acl|2.3.1|2.3.2|app-utils||
 |acl+32|2.2.52|2.3.2|runtime-optenv32||
+|acme|2.10.0|2.11.0|lang-python||
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|desktop-fonts|Possible downgrade from the current version (2.004 -> 2.004R)|
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts|Possible downgrade from the current version (2.002 -> 2.002R)|
@@ -36,6 +37,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-contacts|23.08.5|24.05.1|desktop-kde||
 |akonadi-import-wizard|23.08.5|24.05.1|desktop-kde||
 |akonadi-mime|23.08.5|24.05.1|desktop-kde||
+|akonadi-notes|23.08.5|24.05.1|desktop-kde||
 |akonadi-search|23.08.5|24.05.1|desktop-kde||
 |akonadiconsole|23.08.5|24.05.1|desktop-kde||
 |akregator|23.08.5|24.05.1|desktop-kde||
@@ -65,6 +67,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|0.16.0|1.0.3|app-admin||
 |appstream-glib|0.7.18|0_8_3|app-admin||
 |apr|1.6.5|1.7.4|runtime-common||
+|apsw|3.30.1|3.46.0.0|lang-python||
 |apt|2.6.1|2.7.14|app-admin||
 |aqbanking|6.2.2|6.5.4|runtime-productivity||
 |aranym|1.1.0|1_1_0|app-emulation||
@@ -188,6 +191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
+|cargo-c|0.9.24|0.10.0+cargo-0.80.0|lang-rust||
 |cargo-release|0.24.11|0.25.8|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
@@ -602,7 +606,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibmm|2.66.2|2.80.0|desktop-gnome||
 |glibmm-2.68|2.78.0|2.80.0|desktop-gnome||
 |glog|0.3.5|0.7.1|runtime-common||
-|gloox|1.0.27|1.0.28|runtime-web||
 |glslang|13.1.1|14.2.0|app-imaging||
 |glslang+32|7.11.3214|14.2.0|runtime-optenv32||
 |glu+32|9.0.1|9.0.3|runtime-optenv32||
@@ -614,6 +617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-bluetooth|42.2|46.0|desktop-gnome||
 |gnome-boxes|42.3|46.1|desktop-gnome||
 |gnome-builder|42.1|46.2|desktop-gnome||
+|gnome-calculator|42.2|46.1|desktop-gnome||
 |gnome-calendar|42.2|46.1|desktop-gnome||
 |gnome-characters|42.0|46.0|desktop-gnome||
 |gnome-chess|42.1|46.0|desktop-gnome||
@@ -657,6 +661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnuplot|6.0.0|6.0.1|app-utils||
 |gnustep-base|1.28.0|1_30_0|runtime-gnustep||
 |gnustep-make|2.9.0|2_9_2|runtime-gnustep||
+|gnutls|3.8.4|3.8.5|runtime-cryptography||
 |gnutls+32|3.6.15|3.8.5|runtime-optenv32||
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.4|lang-golang|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
 |gobject-introspection|1.80.0|1.80.1|app-devel||
@@ -691,10 +696,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grub-customizer|5.2.4|5.2.5|app-admin||
 |gsasl|1.8.1|2.2.1|runtime-admin||
 |gsettings-desktop-schemas|42.0|46.0|desktop-gnome||
+|gsl|2.5|2.8|runtime-scientific||
 |gsm|1.0.19|1.0.22|runtime-multimedia||
 |gsm+32|1.0.19|1.0.22|runtime-optenv32||
 |gsmartcontrol|1.1.3|1.1.4|app-admin||
-|gsoap|2.8.124|2.8.134|runtime-network||
 |gsound|1.0.2|1.0.3|desktop-gnome||
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
@@ -787,7 +792,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icu|64.2|75-1|runtime-i18n||
 |icu+32|64.2|75-1|runtime-optenv32||
 |id3|0.80|0.81|app-utils||
-|idna|3.3|3.7|lang-python||
 |ifaddr|0.1.7|0.2.0|lang-python||
 |iftop|1.0pre4|0.17|app-network|Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.12|runtime-scientific||
@@ -979,6 +983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kfloppy|23.04.3|24.05.1|desktop-kde||
 |kfourinline|23.08.5|24.05.1|desktop-kde||
 |kgamma|5.27.11|6.0.5|desktop-kde||
+|kgeography|23.08.5|24.05.1|desktop-kde||
 |kget|23.08.5|24.05.1|desktop-kde||
 |kglobalaccel|5.115.0|6.0.90|desktop-kde||
 |kgoldrunner|23.08.5|24.05.1|desktop-kde||
@@ -1011,6 +1016,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio|5.115.0|6.0.90|desktop-kde||
 |kio-admin|23.08.5|24.05.1|desktop-kde||
 |kio-extras|23.08.5|24.05.1|desktop-kde||
+|kio-fuse|5.0.1|5.1.0|desktop-kde||
 |kio-gdrive|23.08.5|24.05.1|desktop-kde||
 |kio-zeroconf|23.08.5|24.05.1|desktop-kde||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1166,6 +1172,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubrick|23.08.5|24.05.1|desktop-kde||
 |kunitconversion|5.115.0|6.0.90|desktop-kde||
 |kvantum|1.0.10|1.1.2|desktop-kde||
+|kvirc|5.0.0|5.2.4|app-web||
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
 |kwallet|5.115.0|6.0.90|desktop-kde||
@@ -1260,6 +1267,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|runtime-network||
 |libetebase|0.5.4|0.5.6|runtime-cryptography||
 |libetonyek|0.1.9|0.1.10|runtime-productivity||
+|libevdev|1.11.0|1.13.2|runtime-devices||
 |libexif|0.6.22|0.6.24|runtime-imaging||
 |libexif+32|0.6.22|0.6.24|runtime-optenv32||
 |libfdk-aac|2.0.1|2.0.3|runtime-multimedia||
@@ -1269,6 +1277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfido2|1.13.0|1.15.0|runtime-devices||
 |libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
+|libfprint|1.94.4|1.94.7|runtime-devices||
 |libftdi|1.4|1.5|runtime-devices||
 |libgcrypt+32|1.9.1|1.10.3|runtime-optenv32||
 |libgeotiff|1.5.1|1.7.3|runtime-gis||
@@ -1279,6 +1288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.0|desktop-gnome||
 |libgnt|2.14.0|2.14.3|runtime-common||
 |libgovirt|0.3.8|0.3.9|runtime-virtualization||
+|libgpg-error|1.48|1.49|runtime-cryptography||
 |libgpg-error+32|1.41|1.49|runtime-optenv32||
 |libgpg-error-static|1.48|1.49|runtime-cryptography||
 |libgphoto2|2.5.30|2.5.31|runtime-devices||
@@ -1321,6 +1331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkolabxml|1.2.0|1.2.1|runtime-productivity||
 |libkomparediff2|23.08.5|24.05.1|desktop-kde||
 |libksane|23.08.5|24.05.1|desktop-kde||
+|libkscreen|5.27.11|6.0.5|desktop-kde||
 |libksieve|23.08.5|24.05.1|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
 |libksysguard|5.27.11|6.0.5|desktop-kde||
@@ -1732,6 +1743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4_10_0_REL|app-network||
 |nsgenbind|0.8|0.9|app-devel||
 |nspr+32|4.24|4.35|runtime-optenv32||
+|nss|3.100|3.101|runtime-cryptography||
 |nss+32|3.78|3.101|runtime-optenv32||
 |nss-mdns|0.14.1|0.15.1|runtime-network||
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
@@ -1859,6 +1871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.13.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.2.2|app-utils||
+|pcre|8.44|8.45|runtime-common||
 |pcre+32|8.44|8.45|runtime-optenv32||
 |pcre-static|8.44|8.45|runtime-common||
 |pcre2|10.43|10.44|runtime-common||
@@ -1918,6 +1931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|lang-perl||
 |perl-extutils-config|0.008|0.009|lang-perl||
 |perl-extutils-depends|0.405|0.8001|lang-perl||
+|perl-extutils-installpaths|0.012|0.013|lang-perl||
 |perl-fcgi|0.78|0.82|lang-perl||
 |perl-file-basedir|0.08|0.09|lang-perl||
 |perl-file-copy-recursive|0.44|0.45|lang-perl||
@@ -2247,6 +2261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qrencode|4.0.2|4.1.1|runtime-imaging||
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|1.0.0|app-multimedia||
+|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|runtime-desktop|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
@@ -2311,6 +2326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
 |rpcsvc-proto|1.4.2|1.4.4|app-devel||
 |rpm|4.18.0|4.19.1.1-release|app-admin||
+|rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
 |rsync|3.2.7|3.3.0|app-network||
 |rt-tests|2.6|2.7|app-utils||
@@ -2342,6 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s3transfer|0.5.0|0.10.1|lang-python||
 |samba|4.17.2|4.20.1|app-network||
 |samtools|1.16.1|1.20|app-scientific||
+|sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
 |sarasa-gothic-fonts|1.0.12|1.0.14|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
@@ -2389,6 +2406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotcut|21.08.11|24.06.02|app-creativity||
 |shotwell|0.31.4|0.32.6|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
+|shutter|0.94|0.99.2|app-utils||
 |siege|4.0.7|4.1.6|app-network||
 |signon|8.60|8.61|app-admin||
 |signon-kwallet-extension|23.08.5|24.05.1|desktop-kde||
@@ -2427,6 +2445,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sof-firmware|2.2.3|2.8.1|runtime-kernel||
 |sof-tools|2.2.3|2.8.1|app-multimedia||
 |sofia-sip|1.12.11|1.13.17|runtime-web||
+|solaar|1.1.11|1.1.13|app-utils||
 |solid|5.115.0|6.0.90|desktop-kde||
 |sonic-visualiser|4.4|4.5.2|app-multimedia||
 |sonnet|5.115.0|6.0.90|desktop-kde||
@@ -2485,7 +2504,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.05.1|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
-|sticky|1.16|1.20|desktop-cinnamon||
 |stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|app-devel||
@@ -2502,6 +2520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
+|sweeper|23.08.5|24.05.1|desktop-kde||
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
 |sympy|1.12|1.12.1|lang-python||
@@ -2612,6 +2631,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk|8.6.10|8.6.14|lang-tcl||
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
+|tokodon|23.08.5|24.05.1|desktop-kde||
 |toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
 |toolbelt|0.9.1|1.0.0|lang-python||
@@ -2681,7 +2701,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrar|6.2.2|6.2.12|app-utils||
 |unrpyc|1.1.6|2.0.1|app-games||
 |unshield|1.4.3|1.5.1|app-utils||
-|upower|1.90.0|1.90.4|app-admin||
 |upx|4.2.1|4.2.4|app-devel||
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|lang-python||
@@ -2726,6 +2745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vnstat|2.4|2.12|app-network||
 |volk|2.5.0|3.1.2|runtime-common||
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
+|vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
@@ -2744,6 +2764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
+|wcslib|6.4|8.3|runtime-scientific||
 |wcwidth|0.1.8|0.2.13|lang-python||
 |wdm|1.28|1.29|desktop-displaymanagers||
 |webencodings|0.5|0.5.1|lang-python||
@@ -2767,8 +2788,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
+|wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts||
+|wrapt|1.11.2|1.16.0|lang-python||
 |wrk|4.1.0|4.2.0|app-network||
 |wsproto|1.0.0|1.2.0|lang-python||
 |wtforms|2.2.1|3.1.2|lang-python||
