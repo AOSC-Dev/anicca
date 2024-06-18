@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718694818?label=Updated)
+![Relative date](https://img.shields.io/date/1718698656?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -110,6 +110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
+|autobuild4|4.3.2|4.3.1|app-devel|Possible downgrade from the current version (4.3.2 -> 4.3.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -328,7 +329,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.2|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.5.1|test-ci|app-admin|Versions not comparable: `0.5.1` and `test-ci`|
+|deploykit-backend|0.4.3|0.4.1|app-admin|Possible downgrade from the current version (0.4.3 -> 0.4.1)|
+|deploykit-gui|0.5.4|test-ci|app-admin|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -1177,6 +1179,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
 |kwallet|5.115.0|6.0.90|desktop-kde||
+|kwallet-pam|5.27.11|6.0.5|desktop-kde||
 |kwalletmanager|23.08.5|24.05.1|desktop-kde||
 |kwave|23.08.5|24.05.1|desktop-kde||
 |kwayland|5.115.0|6.0.90|desktop-kde||
@@ -1353,6 +1356,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmspack|0.10.1alpha|0.11.0|runtime-common||
 |libmsym|0.2.3|0.2.4.2|runtime-scientific||
 |libmtp|1.1.17|1.1.21|runtime-devices||
+|libndp|1.7|1.8|runtime-network||
 |libnet|1.1.6|1.3|runtime-network||
 |libnfc|1.7.1|1.8.0|runtime-devices||
 |libnfnetlink|1.0.1|1.0.2|runtime-network||
