@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718741746?label=Updated)
+![Relative date](https://img.shields.io/date/1718745259?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -156,7 +156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.128|lang-python||
+|boto3|1.20.26|1.34.129|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
@@ -223,7 +223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|125.0.6422.141|126.0.6478.61|app-web||
+|chromium|125.0.6422.141|126.0.6478.114|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.2.0|groups||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
@@ -327,7 +327,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.31.3|1.44.2|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.4.3|0.4.1|app-admin|Possible downgrade from the current version (0.4.3 -> 0.4.1)|
 |deploykit-gui|0.5.4|test-ci|app-admin|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -1596,6 +1595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |marshmallow|3.20.2|3.21.3|lang-python||
 |mat2|0.13.0|0.6.1|app-utils|Possible downgrade from the current version (0.13.0 -> 0.6.1)|
 |mate-control-center|1.28.0|1.28.1|desktop-mate||
+|mate-panel|1.28.1|1.28.2|desktop-mate||
 |materialx|1.38.8|1.38.10|runtime-creativity||
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
@@ -2849,7 +2849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xpra|5.0.8|6.0.1|app-network||
 |xray|1.8.4|1.8.13|app-network||
 |xray-plugin|1.8.11|1.8.12|app-network||
-|xreader|3.8.5|4.2.0|app-doc||
+|xreader|3.8.5|4.2.1|app-doc||
 |xscreensaver|6.08|6.09|app-utils||
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsel|1.2.0|1.2.1|app-utils||
