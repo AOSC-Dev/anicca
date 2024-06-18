@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718698656?label=Updated)
+![Relative date](https://img.shields.io/date/1718702148?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -56,7 +56,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |analitza|23.08.5|24.05.1|desktop-kde||
 |angelfish|23.08.5|24.05.1|desktop-kde||
 |annotated-types|0.6.0|0.7.0|lang-python||
-|ansible|2.12.1|2.17.0|app-admin||
+|ansible|2.12.1|2.17.1|app-admin||
 |aom|3.8.1|3.9.1|runtime-multimedia||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
@@ -2653,7 +2653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |traitlets|5.0.5|5.14.3|lang-python||
 |transcode|1.1.7|1_1_7|app-multimedia||
 |translate-shell|0.9.7|0.9.7.1|app-i18n||
-|translate-toolkit|2.3.1|3.13.0|lang-python||
+|translate-toolkit|2.3.1|3.13.1|lang-python||
 |transmission|4.0.5|4.0.6|app-web||
 |transmission-remote-gtk|1.5.1|1.6.0|app-web||
 |trash-cli|0.17.1.14|0.24.5.26|app-utils||
