@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718734653?label=Updated)
+![Relative date](https://img.shields.io/date/1718737898?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -211,7 +211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-nginx|2.10.0|2.11.0|app-web||
 |cervisia|23.08.5|24.05.1|desktop-kde||
 |cffi|1.15.0|1.16.0|lang-python||
-|cfitsio|3.450|4.4.0|runtime-imaging||
+|cfitsio|3.450|4.4.1|runtime-imaging||
 |cgal|5.2|5.6.1|runtime-scientific||
 |cgns|4.2.0|4.4.0|app-devel||
 |chardet|3.0.4|5.2.0|lang-python||
@@ -480,6 +480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |findutils|4.9.0|4.10.0|app-utils||
 |fio|3.35|3.37|app-utils||
+|firefox|127.0|127.0.1|app-web||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -2304,7 +2305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.16|1.33|app-devel||
 |reportlab|3.5.50|4.2.0|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
-|requests-cache|0.5.2|1.2.0|lang-python||
+|requests-cache|0.5.2|1.2.1|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
 |rexml|3.2.5|3.3.0|lang-ruby||
