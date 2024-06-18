@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718684241?label=Updated)
+![Relative date](https://img.shields.io/date/1718687651?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -700,6 +700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsm|1.0.19|1.0.22|runtime-multimedia||
 |gsm+32|1.0.19|1.0.22|runtime-optenv32||
 |gsmartcontrol|1.1.3|1.1.4|app-admin||
+|gsoap|2.8.124|2.8.134|runtime-network||
 |gsound|1.0.2|1.0.3|desktop-gnome||
 |gspell|1.11.1|1.12.2|desktop-gnome||
 |gssdp|1.2.3|1.6.3|runtime-network||
@@ -2211,7 +2212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.4|lang-python||
 |python-augeas|1.0.3|1.1.0|lang-python||
 |python-build|0.8.0|1.2.1|lang-python||
-|python-cloudflare|2.8.15|3.0.0b9|lang-python||
+|python-cloudflare|2.8.15|3.0.0b10|lang-python||
 |python-cssselect|1.0.3|1.2.0|lang-python||
 |python-daemonize|2.5.0|3.8.0|lang-python||
 |python-dbusmock|0.22.0|0.31.1|lang-python||
@@ -2255,7 +2256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.1|desktop-kde||
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.6.2|app-web||
+|qownnotes|22.6.1|24.6.3|app-web||
 |qpdf|11.9.0|11.9.1|app-doc||
 |qqc2-desktop-style|5.115.0|6.0.90|desktop-kde||
 |qrencode|4.0.2|4.1.1|runtime-imaging||
