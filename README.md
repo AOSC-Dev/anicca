@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718691438?label=Updated)
+![Relative date](https://img.shields.io/date/1718694818?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1177,7 +1177,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
 |kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
 |kwallet|5.115.0|6.0.90|desktop-kde||
-|kwallet-pam|5.27.11|6.0.5|desktop-kde||
 |kwalletmanager|23.08.5|24.05.1|desktop-kde||
 |kwave|23.08.5|24.05.1|desktop-kde||
 |kwayland|5.115.0|6.0.90|desktop-kde||
@@ -1354,7 +1353,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmspack|0.10.1alpha|0.11.0|runtime-common||
 |libmsym|0.2.3|0.2.4.2|runtime-scientific||
 |libmtp|1.1.17|1.1.21|runtime-devices||
-|libndp|1.7|1.8|runtime-network||
 |libnet|1.1.6|1.3|runtime-network||
 |libnfc|1.7.1|1.8.0|runtime-devices||
 |libnfnetlink|1.0.1|1.0.2|runtime-network||
@@ -2016,7 +2014,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|lang-perl||
 |perl-test-nowarnings|1.04|1.06|lang-perl||
 |perl-text-csv|1.99|2.04|lang-perl||
-|perl-text-csv-xs|1.38|1.54|lang-perl||
+|perl-text-csv-xs|1.38|1.55|lang-perl||
 |perl-text-template|1.59|1.61|lang-perl||
 |perl-timedate|2.30|2.33|lang-perl||
 |perl-tk|804.034|804.036|lang-perl||
@@ -2381,7 +2379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-sound+32|1.0.3|2.0.2|runtime-optenv32||
 |sdl-ttf|2.0.11|2.22.0|runtime-multimedia||
 |sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32||
-|sdl2|2.24.2|2.30.3|runtime-multimedia||
+|sdl2|2.24.2|2.30.4|runtime-multimedia||
 |sdl2-image|2.0.5|2.8.2|runtime-multimedia||
 |sdl2-mixer|2.0.4|2.8.0|runtime-multimedia||
 |sdl2-net|2.0.1|2.2.0|runtime-multimedia||
