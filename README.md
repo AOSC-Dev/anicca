@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718730797?label=Updated)
+![Relative date](https://img.shields.io/date/1718734653?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -351,7 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.4|lang-python||
 |dmd|2.108.1|2.109.0|lang-dlang||
 |dmenu|5.2|5.3|app-utils||
-|dnsdiag|1.6.4|2.1.0|app-network||
+|dnsdiag|1.6.4|2.5.0|app-network||
 |dnspython|2.3.0|2.6.1|lang-python||
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
@@ -2763,7 +2763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.288|runtime-display||
 |warpinator|1.6.3|1.8.4|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.06.10.00|app-utils||
+|watchman|4.9.0|2024.06.17.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
@@ -2777,7 +2777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.2|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
-|wesnoth|1.16.10|1.19.0|app-games||
+|wesnoth|1.16.10|1.19.1|app-games||
 |weston|13.0.0|13.0.3|runtime-display||
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|lang-python||
