@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718727473?label=Updated)
+![Relative date](https://img.shields.io/date/1718730797?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -722,6 +722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome||
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors||
 |gtkspellcheck|4.0.5|5.0.3|lang-python||
+|gtkwave|3.3.119|3.3.120|app-electronics||
 |gtranslator|42.0|46.1|desktop-gnome||
 |gucharmap|15.1.3|15.1.5|desktop-gnome||
 |guile|3.0.4|3.0.9|app-devel||
@@ -2862,6 +2863,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yara|4.5.0|4.5.1|app-utils||
 |yard|0.9.26|0.9.36|app-doc||
 |yaspin|1.2.0|3.0.2|lang-python||
+|yaz|5.34.0|5.34.1|runtime-web||
 |yelp|42.1|42.2|desktop-gnome||
 |yosys|0.41|0.42|app-electronics||
 |ytmusicapi|1.7.2|1.7.3|lang-python||
