@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718806451?label=Updated)
+![Relative date](https://img.shields.io/date/1718810033?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1190,7 +1190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lazy-object-proxy|1.7.1|1.10.0|lang-python||
 |lcms2|2.14|2.16|runtime-imaging||
 |lcms2+32|2.9|2.16|runtime-optenv32||
-|ldb|2.6.1|2.9.0|app-database||
+|ldb|2.6.1|2.9.1|app-database||
 |leatherman|1.9.1|1.12.13|runtime-common||
 |levenshtein|0.12.0|0.25.1|lang-python||
 |lib3mf|2.2.0|2.3.1|runtime-imaging||
@@ -2389,8 +2389,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
-|setuptools-python2|44.1.0|70.0.0|lang-python||
-|setuptools-python3|69.1.0|70.0.0|lang-python||
+|setuptools-python2|44.1.0|70.1.0|lang-python||
+|setuptools-python3|69.1.0|70.1.0|lang-python||
 |setuptools-rust|1.5.2|1.9.0|lang-python||
 |setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
