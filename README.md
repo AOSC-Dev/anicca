@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718820978?label=Updated)
+![Relative date](https://img.shields.io/date/1718824420?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -631,7 +631,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-remote-desktop|42.4|46.2|desktop-gnome||
 |gnome-session|42.0|46.0|desktop-gnome||
 |gnome-settings-daemon|42.2|46.0|desktop-gnome||
-|gnome-shell|42.4|46.2|desktop-gnome||
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
 |gnome-shell-extensions|42.3|46.2|desktop-gnome||
 |gnome-software|42.4|46.2|desktop-gnome||
@@ -2013,7 +2012,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|lang-perl||
 |perl-test-nowarnings|1.04|1.06|lang-perl||
 |perl-text-csv|1.99|2.04|lang-perl||
-|perl-text-csv-xs|1.38|1.55|lang-perl||
 |perl-text-template|1.59|1.61|lang-perl||
 |perl-timedate|2.30|2.33|lang-perl||
 |perl-tk|804.034|804.036|lang-perl||
@@ -2887,7 +2885,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|app-productivity||
 |zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
-|zvbi|0.2.35|0.2.42|runtime-multimedia||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
 |zxtune|5053|5061|app-multimedia||
 |zyn-fusion|3.0.5|3.0.6|app-multimedia||
