@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718758253?label=Updated)
+![Relative date](https://img.shields.io/date/1718762433?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -62,7 +62,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils||
 |aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
-|aoscbootstrap|0.4.7|0.5.0|app-utils||
 |apicula|0.9.1|0.12|app-electronics||
 |apparmor|3.0.8|3.1.7|app-admin||
 |appstream|0.16.0|1.0.3|app-admin||
@@ -89,9 +88,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspell|0.60.8|0.60.8.1|app-i18n||
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
-|aspnetcore-runtime-8.0|8.0.5|8.0.6|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
-|aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
@@ -132,7 +129,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baloo|5.115.0|6.1.0|desktop-kde||
 |baloo-widgets|23.08.5|24.05.1|desktop-kde||
 |balz|1.20|.55|app-utils||
-|bandwhich|0.20.0|0.22.2|app-network||
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -335,7 +331,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
-|diff-match-patch|20200713|20230430|lang-python||
 |diff-so-fancy|1.4.1|1.4.4|app-utils||
 |diffutils|3.8|3.10|app-utils||
 |digikam|7.9.0|8.3.0|desktop-kde||
@@ -364,23 +359,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dosbox|0.74<br>+3|0.74-3|app-emulation|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|runtime-common||
 |dotnet-apphost-pack-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-apphost-pack-8.0|8.0.5|8.0.6|lang-dotnet||
-|dotnet-host|8.0.5|8.0.6|lang-dotnet||
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet||
 |dotnet-hostfxr-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-hostfxr-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet||
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet||
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet||
 |dotnet-runtime-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-runtime-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-runtime-deps-6.0|6.0.0|6.0.31|lang-dotnet||
 |dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
-|dotnet-sdk-8.0|8.0.300|8.0.302|app-devel||
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-targeting-pack-8.0|8.0.5|8.0.6|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
-|dotnet-templates-8.0|8.0.300|6.0.423|app-devel|Possible downgrade from the current version (8.0.300 -> 6.0.423)|
 |double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
@@ -593,7 +581,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|app-devel||
 |gitdb|4.0.10|4.0.11|runtime-vcs||
 |gitg|41|44|desktop-gnome||
-|gitoxide|0.35.0|0.36.0|app-vcs||
 |gitpython|3.1.35|3.1.43|runtime-vcs||
 |gjs|1.74.0|1.80.2|desktop-gnome||
 |gksu|2.0.2|2.0.12|desktop-gnome||
@@ -671,7 +658,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|126.0.6478.61|126.0.6478.114|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
@@ -2055,7 +2041,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils||
 |pip|22.3.1|24.1b2|lang-python||
 |pipewire|1.0.7|1.1.83|app-multimedia||
-|pipewire-0.2|0.2.7|1.1.83|app-multimedia||
 |pixman|0.43.0|0.43.4|runtime-display||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
