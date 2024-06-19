@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718795588?label=Updated)
+![Relative date](https://img.shields.io/date/1718799753?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1272,7 +1272,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
 |libfprint|1.94.4|1.94.7|runtime-devices||
 |libftdi|1.4|1.5|runtime-devices||
-|libgcrypt+32|1.9.1|1.10.3|runtime-optenv32||
+|libgcrypt|1.10.3|1.11.0|runtime-cryptography||
+|libgcrypt+32|1.9.1|1.11.0|runtime-optenv32||
+|libgcrypt-static|1.10.3|1.11.0|runtime-cryptography||
 |libgeotiff|1.5.1|1.7.3|runtime-gis||
 |libgig|4.4.0|4.4.1|runtime-multimedia||
 |libgit2|1.7.2|1.8.1|runtime-vcs||
@@ -1483,13 +1485,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
 |libxml++|2.40.1|5.2.0|runtime-common||
-|libxml2|2.10.4|2.13.0|runtime-common||
-|libxml2+32|2.10.4|2.13.0|runtime-optenv32||
+|libxml2|2.10.4|2.13.1|runtime-common||
+|libxml2+32|2.10.4|2.13.1|runtime-optenv32||
 |libxmlb|0.3.15|0.3.19|runtime-common||
 |libxnvctrl|545.23.06|550.54.14|runtime-display||
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
-|libxslt|1.1.34|1.1.40|runtime-common||
-|libxslt+32|1.1.34|1.1.40|runtime-optenv32||
+|libxslt|1.1.34|1.1.41|runtime-common||
+|libxslt+32|1.1.34|1.1.41|runtime-optenv32||
 |libzen|0.4.38|0.4.41|runtime-common||
 |libzip|1.5.2|1.10.1|runtime-common||
 |liferea|1.13.8|1.15.6|app-web||
@@ -1693,7 +1695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|app-utils||
 |ndctl|72|79|app-admin||
 |neatvnc|0.7.1|0.8.0|runtime-network||
-|nemo|5.8.3|6.2.0|desktop-cinnamon||
+|nemo|5.8.3|6.2.1|desktop-cinnamon||
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon||
 |neochat|23.08.5|24.05.1|desktop-kde||
 |neomutt|20200619|20240425|app-web||
@@ -1891,7 +1893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-b-hooks-endofscope|0.24|0.28|lang-perl||
 |perl-cairo|1.106|1.109|lang-perl||
 |perl-canary-stability|2012|2013|lang-perl||
-|perl-cgi|4.47|4.65|lang-perl||
+|perl-cgi|4.47|4.66|lang-perl||
 |perl-class-data-inheritable|0.08|0.09|lang-perl||
 |perl-class-inspector|1.28|1.36|lang-perl||
 |perl-class-method-modifiers|2.12|2.15|lang-perl||
