@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718770637?label=Updated)
+![Relative date](https://img.shields.io/date/1718774069?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -221,7 +221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
 |chromium|125.0.6422.141|126.0.6478.114|app-web||
 |cifs-utils|6.10|7.0|app-network||
-|cinnamon|5.8.3|6.2.0|groups||
+|cinnamon|5.8.3|6.2.0|desktop-cinnamon||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon||
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon||
@@ -371,6 +371,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
+|double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
@@ -438,7 +439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
-|fcitx5|5.1.9|5.1.10|groups||
+|fcitx5|5.1.9|5.1.10|app-i18n||
 |fcitx5-chewing|5.1.3|5.1.5|app-i18n||
 |fcitx5-chinese-addons|5.1.5|5.1.6|app-i18n||
 |fcitx5-configtool|5.1.5|5.1.6|app-i18n||
@@ -587,6 +588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gksu|2.0.2|2.0.12|desktop-gnome||
 |glances|4.0.5|4.0.8|app-admin||
 |glib|2.80.0|2.80.3|runtime-common||
+|glib+32|2.62.6|2.80.3|runtime-optenv32||
 |glib-networking|2.72.2|2.80.0|runtime-common||
 |glibc|2.38|2.39|core-libs||
 |glibc+32|2.38|2.39|runtime-optenv32||
@@ -1384,7 +1386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web||
 |libraw|0.20.0|0.21.2|runtime-imaging||
 |librcc|0.2.12|0.2.13|runtime-i18n||
-|libreoffice|7.5.4.2|24.2.4.2|groups||
+|libreoffice|7.5.4.2|24.2.4.2|app-productivity||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
@@ -1788,7 +1790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
-|openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
+|openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
@@ -2021,6 +2023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
+|perl-xml-sax|1.00|1.02|lang-perl||
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
@@ -2129,7 +2132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|runtime-optenv32||
 |pulseaudio-qt|1.3|1.5.0|runtime-desktop||
 |pulsectl|20.5.1|24.4.0|lang-python||
-|puremagic|1.15|1.24|lang-python||
+|puremagic|1.15|1.25|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.1.0|desktop-kde||
 |pv|1.6.20|1.8.10|app-utils||
@@ -2573,6 +2576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdelibs|14.1.0|14.1.2|desktop-trinity||
 |tdemultimedia|14.1.0|14.1.2|desktop-trinity||
 |tdenetwork|14.1.0|14.1.2|desktop-trinity||
+|tdenetworkmanager|14.1.0|14.1.2|desktop-trinity||
 |tdepacman|14.1.0|14.1.2|desktop-trinity||
 |tdepim|14.1.0|14.1.2|desktop-trinity||
 |tdepowersave|14.1.0|14.1.2|desktop-trinity||
@@ -2750,7 +2754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
 |vulkan-utility-libraries|1.3.280.0|1.3.288|runtime-display||
 |vulkan-validationlayers|1.3.280.0|1.3.288|runtime-display||
-|warpinator|1.6.3|1.8.4|desktop-cinnamon||
+|warpinator|1.6.3|1.8.5|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.06.17.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
@@ -2816,6 +2820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
+|xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfce4-power-manager|4.18.3|4.18.4|desktop-xfce||
