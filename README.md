@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718802986?label=Updated)
+![Relative date](https://img.shields.io/date/1718806451?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -242,7 +242,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.7|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
-|cmake|3.29.5|3.29.6|app-devel||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
@@ -317,7 +316,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.3|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |debianutils|5.7|5.19|app-utils||
-|debootstrap|1.0.135|1.0.136|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|46.0|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
@@ -421,7 +419,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-ews|3.42.0|3.52.2|desktop-gnome||
 |evtest|1.34|1.35|app-utils||
 |exempi|2.5.1|2.6.5|runtime-imaging||
-|exfatprogs|1.2.3|1.2.4|app-admin||
 |exiv2|0.27.5|0.28.2|runtime-imaging||
 |extra-cmake-modules|5.115.0|6.1.0|app-devel||
 |eyed3|0.9.5|0.9.7|lang-python||
@@ -1370,7 +1367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libp11|0.4.10|0.4.12|runtime-cryptography||
 |libpano13|2.9.19|2.9.22|runtime-imaging||
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32||
-|libpeas|1.32.0|2.0.2|desktop-gnome||
+|libpeas|1.36.0|2.0.2|desktop-gnome||
 |libphonenumber|8.13.38|8.13.39|runtime-i18n||
 |libpinyin|2.6.0|2.8.1|runtime-i18n||
 |libpipeline|1.5.3|1.5.7|runtime-common||
@@ -1582,7 +1579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.2|app-utils||
 |mangohud+32|0.7.0|0.7.2|runtime-optenv32||
 |marble|23.08.5|24.05.1|desktop-kde||
-|mariadb|10.9.4|11.5.1|app-database||
+|mariadb|10.9.8|11.5.1|app-database||
 |markdown|3.3.4|3.6|lang-python||
 |markdownpart|23.08.5|24.05.1|desktop-kde||
 |markupsafe|2.1.1|2.1.5|lang-python||
@@ -1769,7 +1766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde||
 |okular|23.08.5|24.05.1|desktop-kde||
 |olefile|0.46|0.47|lang-python||
-|oma|1.3.17|1.12.13|app-admin||
+|oma|1.3.18|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|app-games||
@@ -2712,7 +2709,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|runtime-common||
 |util-linux+32|2.29.2|2.40.1|runtime-optenv32||
 |util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
-|v2raya|2.2.5.1|2.2.5.2|app-network||
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
 |vala|0.56.16|0.56.17|app-devel||
@@ -2721,7 +2717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia||
 |vapoursynth|57|68|app-multimedia||
 |variety|0.7.1|0.8.12|app-utils||
-|varnish|6.3.2|7.5.0|app-network||
+|vasm|1.9f|1.9.f|app-devel||
 |vba-m|2.1.8|2.1.9|app-games||
 |vc|1.4.4|1.4.5|app-devel||
 |vdpauinfo|1.0|1.5|app-utils||
