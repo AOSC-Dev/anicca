@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718799753?label=Updated)
+![Relative date](https://img.shields.io/date/1718802986?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -221,7 +221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
 |chromium|125.0.6422.141|126.0.6478.114|app-web||
 |cifs-utils|6.10|7.0|app-network||
-|cinnamon|5.8.3|6.2.0|groups||
+|cinnamon|5.8.3|6.2.0|desktop-cinnamon||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon||
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon||
@@ -439,7 +439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
-|fcitx5|5.1.9|5.1.10|groups||
+|fcitx5|5.1.9|5.1.10|app-i18n||
 |fcitx5-chewing|5.1.3|5.1.5|app-i18n||
 |fcitx5-chinese-addons|5.1.5|5.1.6|app-i18n||
 |fcitx5-configtool|5.1.5|5.1.6|app-i18n||
@@ -1390,7 +1390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web||
 |libraw|0.20.0|0.21.2|runtime-imaging||
 |librcc|0.2.12|0.2.13|runtime-i18n||
-|libreoffice|7.5.4.2|24.2.4.2|groups||
+|libreoffice|7.5.4.2|24.2.4.2|app-productivity||
 |librevenge|0.0.4|0.0.5|runtime-productivity||
 |librsvg|2.56.1|2.58.91|runtime-imaging||
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32||
@@ -1794,7 +1794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
-|openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
+|openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
@@ -2722,7 +2722,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vapoursynth|57|68|app-multimedia||
 |variety|0.7.1|0.8.12|app-utils||
 |varnish|6.3.2|7.5.0|app-network||
-|vasm|1.9f|1.9.f|app-devel||
 |vba-m|2.1.8|2.1.9|app-games||
 |vc|1.4.4|1.4.5|app-devel||
 |vdpauinfo|1.0|1.5|app-utils||
