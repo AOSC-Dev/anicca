@@ -1826,6 +1826,7 @@
 ["perl-ipc-run","20180523.0","20231003.0","lang-perl",1530196414,[]],
 ["pcsc-perl","1.4.14","1.4.16","lang-perl",1449274835,[]],
 ["perl-xml-libxslt","1.96","2.003000","lang-perl",1530196414,[]],
+["openjfx-8","8u202+ga","8u202-ga","lang-java",1697240554,["Compound version number '8u202+ga'"]],
 ["openjdk-11","11.0.20.1+ga","11.0.23+9","lang-java",1697240554,["Compound version number '11.0.20.1+ga'"]],
 ["gradle","8.3","8.8.0","lang-java",1697240554,[]],
 ["openjfx-11","11.0.20+1","11.0.23+9","lang-java",1697240554,["Compound version number '11.0.20+1'"]],
