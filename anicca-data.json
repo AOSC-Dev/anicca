@@ -414,6 +414,7 @@
 ["gperftools","2.13","2.15","app-devel",1696572712,[]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,[]],
 ["gcc+cross-loongson3","13.2.0+glibc2.37+0","14.1.0","app-devel",1671941046,["Compound version number '13.2.0+glibc2.37+0'"]],
+["acbs","20240620","20240521","app-devel",1718813689,["Possible downgrade from the current version (20240620 -> 20240521)"]],
 ["ltrace","0.7.3+git20151111","0.7.3","app-devel",1620461825,["Compound version number '0.7.3+git20151111'","Version number indicates a snapshot (+git) is used"]],
 ["gcc+cross-arm64","12.2.0+glibc2.36+4","14.1.0","app-devel",1671941046,["Compound version number '12.2.0+glibc2.36+4'"]],
 ["intel-graphics-compiler","1.0.16695.4","1.0.16900.3","app-devel",1715927035,[]],
