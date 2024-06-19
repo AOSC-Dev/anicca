@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718766963?label=Updated)
+![Relative date](https://img.shields.io/date/1718770637?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -317,6 +317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.3|app-games||
 |ddrescue|1.24|1.28|app-utils||
 |debianutils|5.7|5.19|app-utils||
+|debootstrap|1.0.135|1.0.136|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|46.0|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
@@ -370,7 +371,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
 |dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
-|double-conversion|3.2.1|3.3.0|runtime-common||
 |dovecot|2.3.10.1|2.3.21|app-web||
 |doxygen|1.10.0|1_11_0|app-doc||
 |doxyqml|0.5.0|0.5.3|app-doc||
@@ -587,7 +587,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gksu|2.0.2|2.0.12|desktop-gnome||
 |glances|4.0.5|4.0.8|app-admin||
 |glib|2.80.0|2.80.3|runtime-common||
-|glib+32|2.62.6|2.80.3|runtime-optenv32||
 |glib-networking|2.72.2|2.80.0|runtime-common||
 |glibc|2.38|2.39|core-libs||
 |glibc+32|2.38|2.39|runtime-optenv32||
@@ -759,6 +758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|app-creativity||
 |humanize|0.5.1|4.9.0|lang-python||
 |hunspell|1.7.0|1.7.2|app-i18n||
+|hwloc|2.10.0|2.11-branch|app-admin||
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
@@ -1236,6 +1236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcuckoo|0.3|0.3.1|runtime-common||
 |libde265|1.0.8|1.0.15|runtime-multimedia||
 |libdecor|0.1.1|0.2.2|runtime-desktop||
+|libdeflate|1.19|1.20|runtime-common||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia||
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
 |libdmapsharing|3.9.13|3_9_13|runtime-multimedia||
@@ -1963,7 +1964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-list-moreutils|0.428|0.430|lang-perl||
 |perl-lwp-mediatypes|6.02|6.04|lang-perl||
 |perl-lwp-protocol-https|6.06|6.14|lang-perl||
-|perl-mail-dkim|0.40|1.20240124|lang-perl||
+|perl-mail-dkim|0.40|1.20240619|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
 |perl-mail-spf|2.9.0|3.20240617|lang-perl||
 |perl-mailtools|2.20|2.21|lang-perl||
@@ -2020,7 +2021,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl||
 |perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
-|perl-xml-sax|1.00|1.02|lang-perl||
 |perl-xml-sax-expat|0.51|1.33|lang-perl||
 |perl-xml-xpath|1.44|1.48|lang-perl||
 |perl-yaml-libyaml|0.85|0.89|lang-perl||
@@ -2573,7 +2573,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdelibs|14.1.0|14.1.2|desktop-trinity||
 |tdemultimedia|14.1.0|14.1.2|desktop-trinity||
 |tdenetwork|14.1.0|14.1.2|desktop-trinity||
-|tdenetworkmanager|14.1.0|14.1.2|desktop-trinity||
 |tdepacman|14.1.0|14.1.2|desktop-trinity||
 |tdepim|14.1.0|14.1.2|desktop-trinity||
 |tdepowersave|14.1.0|14.1.2|desktop-trinity||
@@ -2817,7 +2816,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
-|xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfce4-power-manager|4.18.3|4.18.4|desktop-xfce||
