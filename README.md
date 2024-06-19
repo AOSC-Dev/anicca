@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718781256?label=Updated)
+![Relative date](https://img.shields.io/date/1718785007?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1230,7 +1230,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin||
 |libchamplain|0.12.20|0.12.21|desktop-gnome||
 |libchewing|0.5.1|0.8.4|runtime-i18n||
-|libclc|17.0.3|18.1.7|runtime-devices||
+|libclc|17.0.3|18.1.8|runtime-devices||
 |libcloudproviders|0.3.1|0.3.6|runtime-web||
 |libcmis|0.5.2|0.6.2|runtime-productivity||
 |libconfig|1.7.2|1.7.3|runtime-common||
@@ -1378,6 +1378,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
 |libportal|0.6|0.7.1|runtime-desktop||
 |libpqxx|6.4.5|7.9.1|runtime-database||
+|libproxy|0.5.6|0.5.7|runtime-network||
 |libpwquality|1.4.2|1.4.5|runtime-cryptography||
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
 |libqalculate|4.5.1|5.1.1|runtime-scientific||
@@ -1493,7 +1494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|runtime-common||
 |liferea|1.13.8|1.15.6|app-web||
 |light-locker|1.8.0|1.9.0|app-utils||
-|lightdm-settings|2.0.2|2.0.3|desktop-displaymanagers||
+|lightdm-settings|2.0.2|2.0.4|desktop-displaymanagers||
 |lightsoff|40.0.1|46.0|desktop-gnome||
 |lighttpd|1.4.55|1.4.76|app-network||
 |lilv|0.24.12|0.24.24|runtime-multimedia||
@@ -1519,9 +1520,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|app-network||
 |lldpd|1.0.17|1.0.18|app-network||
 |llfuse|1.4.1|1.5.0|lang-python||
-|llvm|17.0.6|18.1.7|app-devel||
-|llvm+32|14.0.6|18.1.7|runtime-optenv32||
-|llvm-runtime+wasi|17.0.6|18.1.7|runtime-wasi||
+|llvm|17.0.6|18.1.8|app-devel||
+|llvm+32|14.0.6|18.1.8|runtime-optenv32||
+|llvm-runtime+wasi|17.0.6|18.1.8|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
 |lmdb|0.9.28|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -2107,6 +2108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerdevil|5.27.11|6.1.0|desktop-kde||
 |powerpc-utils|1.3.10|1.3.12|app-admin||
 |poxml|23.08.5|24.05.1|desktop-kde||
+|ppp|2.4.9|2.5.0|app-network||
 |precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
