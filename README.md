@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718810033?label=Updated)
+![Relative date](https://img.shields.io/date/1718813844?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -163,6 +163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.1.0|desktop-kde||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
+|buildbot-benchmark|20240327|20230227|app-benchmarks|Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific||
 |bup|0.30|0.33.3|app-utils||
 |c-ares|1.28.1|1.31.0|runtime-network||
@@ -2352,7 +2353,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|runtime-optenv32|Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.1|lang-python||
-|samba|4.17.2|4.20.1|app-network||
+|samba|4.17.2|4.20.2|app-network||
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
