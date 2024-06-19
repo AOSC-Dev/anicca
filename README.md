@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718788662?label=Updated)
+![Relative date](https://img.shields.io/date/1718792187?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1281,9 +1281,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.0|desktop-gnome||
 |libgnt|2.14.0|2.14.3|runtime-common||
 |libgovirt|0.3.8|0.3.9|runtime-virtualization||
-|libgpg-error|1.48|1.49|runtime-cryptography||
-|libgpg-error+32|1.41|1.49|runtime-optenv32||
-|libgpg-error-static|1.48|1.49|runtime-cryptography||
+|libgpg-error|1.48|1.50|runtime-cryptography||
+|libgpg-error+32|1.41|1.50|runtime-optenv32||
+|libgpg-error-static|1.48|1.50|runtime-cryptography||
 |libgphoto2|2.5.30|2.5.31|runtime-devices||
 |libgpiod|1.4.2|2.1.2|runtime-devices||
 |libgravatar|23.08.5|24.05.1|desktop-kde||
@@ -1794,7 +1794,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|groups|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
-|openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
 |openldap|2.6.7|2_6_8|app-admin||
