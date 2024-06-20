@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718896466?label=Updated)
+![Relative date](https://img.shields.io/date/1718900261?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1906,7 +1906,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
 |perl-datetime-locale|1.26|1.42|lang-perl||
-|perl-dbd-mysql|4.050|5.006|lang-perl||
+|perl-dbd-mysql|4.052|5.006|lang-perl||
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|lang-perl||
 |perl-devel-checklib|1.13|1.16|lang-perl||
@@ -2105,7 +2105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postgresql|13.15|17|app-database||
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
 |powerdevil|5.27.11|6.1.0|desktop-kde||
-|powerpc-utils|1.3.10|1.3.12|app-admin||
 |poxml|23.08.5|24.05.1|desktop-kde||
 |ppp|2.4.9|2.5.0|app-network||
 |precis-i18n|1.0.3|1.1.0|lang-python||
@@ -2155,7 +2154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
-|pycurl|7.43.0.6|7.45.3|lang-python||
 |pydantic|2.6.0|2.7.4|lang-python||
 |pydantic-core|2.16.1|2.19.0|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
@@ -2448,8 +2446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sos|4.4|4.7.1|lang-python||
 |sound-juicer|3.38.0|3.40.0|desktop-gnome||
 |soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity||
-|soundtouch|2.3.3|2.3.1|app-multimedia|Possible downgrade from the current version (2.3.3 -> 2.3.1)|
-|soundtouch+32|1.9.2|2.3.1|runtime-optenv32||
+|soundtouch+32|1.9.2|2.3.3|runtime-optenv32||
 |soupsieve|1.8.0|2.5|lang-python||
 |sozu|0.15.2|1.0.2|app-web||
 |spamassassin|3.4.6|4.0.1|app-network||
