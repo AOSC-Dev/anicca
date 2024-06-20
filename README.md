@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718892831?label=Updated)
+![Relative date](https://img.shields.io/date/1718896466?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -246,6 +246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmocka|1.1.5|1.1.7|app-devel||
+|cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|318|app-admin||
 |cockpit-machines|284.1|314|app-admin||
@@ -1540,6 +1541,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|runtime-common||
 |lua-expat|1.4.1|1.5.1|lang-lua||
+|lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
 |luarocks|3.5.0|3.11.1|lang-lua||
@@ -2029,6 +2031,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl||
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
+|physfs|3.0.2|3.2.0|runtime-common||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.1|desktop-kde||
 |picocom|3.1|2023-04|app-utils||
@@ -2417,6 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
+|slurm|0.4.4|0.5.1|app-network||
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity||
 |smartdns|35|46|app-network||
 |smartmontools|7.3|7.4|app-admin||
