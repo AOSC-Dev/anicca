@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718864313?label=Updated)
+![Relative date](https://img.shields.io/date/1718867672?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -245,6 +245,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
+|cmocka|1.1.5|1.1.7|app-devel||
 |cmus|2.9.1|2.10.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|318|app-admin||
@@ -397,7 +398,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|app-utils||
 |elfutils+32|0.166|0.191|runtime-optenv32||
 |elisa|23.08.5|24.05.1|desktop-kde||
-|elvis|2.2<br>+1pre3|2.2_1-pre2|app-editors|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3 -> 2.2_1-pre2)|
 |embree|4.3.1|4.3.2|app-imaging||
 |emerald|0.8.12.4|0.8.18|desktop-wm||
 |enchant-2|2.3.1|2.8.1|app-i18n||
@@ -1825,7 +1825,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|46.1|desktop-gnome||
 |os-prober|1.81|1.82|app-utils||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|osu-lazer|2024.412.1|2024.523.0|app-games||
 |oxygen|5.27.11|6.1.0|desktop-kde||
 |oxygen-icons|5.115.0|6.1.0|desktop-kde||
 |oxygen-sounds|5.25.3|6.1.0|desktop-kde||
@@ -2447,6 +2446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sortedcontainers|2.3.0|2.4.0|lang-python||
 |sos|4.4|4.7.1|lang-python||
 |sound-juicer|3.38.0|3.40.0|desktop-gnome||
+|soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity||
 |soundtouch|2.3.3|2.3.1|app-multimedia|Possible downgrade from the current version (2.3.3 -> 2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|runtime-optenv32||
 |soupsieve|1.8.0|2.5|lang-python||
@@ -2625,6 +2625,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
 |tokodon|23.08.5|24.05.1|desktop-kde||
+|toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
 |toolbelt|0.9.1|1.0.0|lang-python||
 |topgrade|11.0.2|14.0.1|app-admin||
