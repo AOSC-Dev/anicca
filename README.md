@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718878432?label=Updated)
+![Relative date](https://img.shields.io/date/1718881883?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2141,6 +2141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |py-setproctitle|1.1.10|1.3.3|lang-python||
 |pyaaf2|1.6.0|1.7.1|lang-python||
 |pyacoustid|1.1.7|1.3.0|lang-python||
+|pyasn1|0.4.8|0.6.0|lang-python||
 |pyasn1-modules|0.2.8|0.4.0|lang-python||
 |pyatspi|2.38.2|2.46.1|lang-python||
 |pyaudio|0.2.11|0.2.14|lang-python||
@@ -2175,6 +2176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylint|2.14.4|3.2.3|lang-python||
 |pymarkups|3.0.0|4.0.0|lang-python||
 |pymediainfo|5.0.3|6.1.0|lang-python||
+|pymysql|0.9.3|1.1.1|lang-python||
 |pynacl|1.3.0|1.5.0|lang-python||
 |pynput|1.7.6|1.7.7|lang-python||
 |pyopengl|3.1.5|3.1.7|lang-python||
@@ -2630,7 +2632,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |topgrade|11.0.2|14.0.1|app-admin||
 |toposort|1.8|1.10|lang-python||
 |tork-trinity|14.1.0|14.1.2|desktop-trinity||
-|tornado|5.1|6.4.1|lang-python||
 |totem|42.0|43.0|desktop-gnome||
 |toxcore|0.2.18|0.2.19|app-web||
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin||
