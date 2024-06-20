@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718853267?label=Updated)
+![Relative date](https://img.shields.io/date/1718856900?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -278,7 +278,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpulimit|3.0|3.1|app-admin||
 |cracklib|2.9.8|2.9.11|runtime-cryptography||
 |crash|7.2.9|8.0.5|app-devel||
-|crazydiskinfo|1.0.2|1.1.0|app-utils||
 |crda|3.18|4.15|app-network||
 |crow-translate|2.9.1|2.11.1|app-i18n||
 |crun|1.12|1.15|app-admin||
@@ -322,7 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|46.0|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.31.3|1.44.2|lang-js||
+|deno|1.44.1|1.44.2|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
 |deploykit-gui|0.5.4|test-ci|app-admin|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
@@ -348,7 +347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmd|2.108.1|2.109.0|lang-dlang||
 |dmenu|5.2|5.3|app-utils||
 |dnsdiag|1.6.4|2.5.0|app-network||
-|dnspython|2.3.0|2.6.1|lang-python||
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
 |docbook-xml|0|5.1|app-doc||
@@ -2214,7 +2212,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-daemonize|2.5.0|3.8.0|lang-python||
 |python-dbusmock|0.22.0|0.31.1|lang-python||
 |python-djvulibre|0.8.6|0.8.8|lang-python||
-|python-evdev|1.4.0|1.7.1|lang-python||
 |python-graphviz|0.16|0.20.3|lang-python||
 |python-hglib|2.6.1|2.6.2|lang-python||
 |python-installer|0.5.1|0.7.0|lang-python||
@@ -2275,7 +2272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|lang-python||
 |rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common||
-|raptor2|2.0.15|2.0.16|runtime-common||
 |rarian|0.8.1|0.8.5|app-doc||
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
@@ -2779,7 +2775,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wikipedia|1.4.0|1.4.5|lang-python||
 |wildmidi|0.4.3|0.4.6|app-multimedia||
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
-|wimlib|1.13.6|1.14.4|app-utils||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.11|app-emulation|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
