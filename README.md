@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718860472?label=Updated)
+![Relative date](https://img.shields.io/date/1718864313?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1834,6 +1834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packagekit-qt|1.1.1|1.1.2|desktop-kde||
 |packaging|23.0|24.1|lang-python||
 |pacman|6.0.1|6.1.0|app-admin||
+|pahole|1.25|1.27|app-utils||
 |palapeli|23.08.5|24.05.1|desktop-kde||
 |pam-python|1.0.7|1.0.8|lang-python||
 |pam-wrapper|1.1.3|1.1.5|app-devel||
@@ -2446,7 +2447,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sortedcontainers|2.3.0|2.4.0|lang-python||
 |sos|4.4|4.7.1|lang-python||
 |sound-juicer|3.38.0|3.40.0|desktop-gnome||
-|soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity||
 |soundtouch|2.3.3|2.3.1|app-multimedia|Possible downgrade from the current version (2.3.3 -> 2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|runtime-optenv32||
 |soupsieve|1.8.0|2.5|lang-python||
@@ -2625,7 +2625,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk+32|8.6.10|8.6.14|runtime-optenv32||
 |tl-expected|1.0.0|1.1.0|runtime-common||
 |tokodon|23.08.5|24.05.1|desktop-kde||
-|toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
 |toolbelt|0.9.1|1.0.0|lang-python||
 |topgrade|11.0.2|14.0.1|app-admin||
