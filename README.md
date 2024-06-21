@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718997046?label=Updated)
+![Relative date](https://img.shields.io/date/1719000907?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -2501,6 +2501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|0.21.3|24.1|app-scientific||
 |step|23.08.5|24.05.1|desktop-kde||
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
+|sticky|1.20|1.21|desktop-cinnamon||
 |stlink|1.7.0|1.8.0|app-devel||
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|app-devel||
@@ -2513,7 +2514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.618.25957|app-multimedia||
+|sunshine|0.23.0|2024.621.13429|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
