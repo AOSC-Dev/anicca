@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718964921?label=Updated)
+![Relative date](https://img.shields.io/date/1718968347?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -2335,7 +2335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
 |rubberband|1.9.2|3.3.0|app-multimedia||
 |ruby|3.2.2|3.3.3|lang-ruby||
-|ruby-bundler|2.1.4|2.5.13|lang-ruby||
+|ruby-bundler|2.1.4|2.5.14|lang-ruby||
 |ruby-ffi|1.10.0|1.17.0|lang-ruby||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby||
 |ruby-locale|2.1.3|2.1.4|lang-ruby||
