@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718968347?label=Updated)
+![Relative date](https://img.shields.io/date/1718972460?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -744,7 +744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.1.0|1.2.0|runtime-common||
 |hitori|3.38.4|44.0|desktop-gnome||
 |hostapd|2.9|2.10|app-network||
-|hotdoc|0.13.7|0.16|app-doc||
+|hotdoc|0.13.7|0.17|app-doc||
 |hotspot|1.3.0|1.5.1|app-devel||
 |hplip|3.22.4|3.24.4|app-doc||
 |html2text|2020.1.16|2024.2.26|lang-python||
@@ -2107,6 +2107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postgresql|13.15|17|app-database||
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
 |powerdevil|5.27.11|6.1.0|desktop-kde||
+|powershell|7.4.2|7.4.3|app-shells||
 |poxml|23.08.5|24.05.1|desktop-kde||
 |ppp|2.4.9|2.5.0|app-network||
 |precis-i18n|1.0.3|1.1.0|lang-python||
@@ -2147,7 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyatspi|2.38.2|2.46.1|lang-python||
 |pyaudio|0.2.11|0.2.14|lang-python||
 |pybind11|2.11.1|2.12.0|lang-python||
-|pycairo|1.18.2|1.26.0|lang-python||
+|pycairo|1.18.2|1.26.1|lang-python||
 |pycodestyle|2.7.0|2.12.0|lang-python||
 |pycountry|18.12.8|24.6.1|lang-python||
 |pycparser|2.19|2.22|lang-python||
