@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718957798?label=Updated)
+![Relative date](https://img.shields.io/date/1718961221?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -163,7 +163,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotlipy|0.7.0|1.0.9.2|lang-python||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Possible downgrade from the current version (20240327 -> 20230227)|
-|bulky|3.2|3.3|desktop-cinnamon||
 |bullet|2.88|3.25|app-scientific||
 |bup|0.30|0.33.3|app-utils||
 |c-ares|1.28.1|1.31.0|runtime-network||
@@ -433,7 +432,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.1|desktop-kde||
 |fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python||
-|fastfetch|2.15.0|2.16.0|app-utils||
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
@@ -1128,7 +1126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kscreenlocker|5.27.11|6.1.0|desktop-kde||
 |ksensors-trinity|14.1.0|14.1.2|desktop-trinity||
 |kservice|5.115.0|6.1.0|desktop-kde||
-|ksh93|2020.0.0<br>+20200208|1.0.8|app-shells|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208 -> 1.0.8)|
+|ksh93|2020.0.0|1.0.8|app-shells|Possible downgrade from the current version (2020.0.0 -> 1.0.8)|
 |kshisen|23.08.5|24.05.1|desktop-kde||
 |kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
 |kshutdown-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1731,7 +1729,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|42|app-electronics||
 |ngtcp2|1.5.0|1.6.0|runtime-web||
 |nmap|7.93|7.95|app-network||
-|nodejs|20.14.0|20.15.0|lang-js||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
 |nomino|1.3.1|1.3.5|app-utils||
@@ -1858,7 +1855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.1|desktop-kde||
 |parsedatetime|2.4|2.6|lang-python||
 |parso|0.3.3|0.8.4|lang-python||
-|partclone|0.3.20|0.3.29|app-admin||
+|partclone|0.3.20|0.3.31|app-admin||
 |partimage|0.6.9|0.7.2|app-admin||
 |partitionmanager|23.08.5|24.05.1|desktop-kde||
 |pastel|0.2.0|0.2.1|lang-python||
@@ -1875,7 +1872,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5911|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5913|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
