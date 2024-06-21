@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718930915?label=Updated)
+![Relative date](https://img.shields.io/date/1718935089?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1243,6 +1243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdeflate|1.19|1.20|runtime-common||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia||
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
+|libdisplay-info|0.1.1|0.2.0|runtime-display||
 |libdmapsharing|3.9.13|3_9_13|runtime-multimedia||
 |libdnet|1.12|1.18.0|runtime-network||
 |libdrm|2.4.120|2.4.121|runtime-display||
@@ -1731,6 +1732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|42|app-electronics||
 |ngtcp2|1.5.0|1.6.0|runtime-web||
 |nmap|7.93|7.95|app-network||
+|nodejs|20.14.0|20.15.0|lang-js||
 |noip|2.1.9|3.0.0|app-network||
 |noise-suppression-for-voice|0.91|1.10|app-multimedia||
 |nomino|1.3.1|1.3.5|app-utils||
@@ -1763,7 +1765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
 |ocamlbuild|0.14.1|0.14.3|lang-ocaml||
 |ocrad|0.27|0.29|app-doc||
-|ocrmypdf|11.7.0|16.3.1|app-doc||
+|ocrmypdf|11.7.0|16.4.0|app-doc||
 |ocserv|1.1.2|1.3.0|app-network||
 |octave|9.1.0|9.2.0|app-scientific||
 |ofono|1.30|2.8|app-network||
@@ -2263,7 +2265,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
-|qtractor|0.9.23|0.9.91|app-multimedia||
+|qtractor|0.9.23|1.0.0|app-multimedia||
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
 |quazip|0.9.1|1.4|runtime-common||
 |quickjs|2024.01.13|2024-01-13|lang-js||
