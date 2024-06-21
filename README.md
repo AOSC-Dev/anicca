@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718950664?label=Updated)
+![Relative date](https://img.shields.io/date/1718954129?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -719,7 +719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp|1.2.4|1.6.6|desktop-gnome||
 |gupnp-av|0.12.11|0.14.1|desktop-gnome||
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome||
-|gupnp-igd|0.2.5|1.6.0|desktop-gnome||
 |gvfs|1.50.2|1.54.1|desktop-gnome||
 |gwc|0.21<br>+19|0.22-06|app-multimedia|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|runtime-network||
@@ -1455,6 +1454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
 |libva+32|2.15.0|2.21.0|runtime-optenv32||
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
+|libva-utils|2.21.0|2.22.0|app-utils||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.4.0|app-virtualization||
 |libvirt-python|10.1.0|10.4.0|runtime-virtualization||
@@ -1531,7 +1531,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |logrotate|3.21.0|3.22.0|app-admin||
 |loguru|0.5.3|0.7.2|lang-python||
 |lokalize|23.08.5|24.05.1|desktop-kde||
-|loudmouth|1.5.3|1.5.4|runtime-web||
 |lowdown|1.1.0|1_1_0|app-doc||
 |lpaq|8|9m|app-utils||
 |lpsolve|5.5.2.5|5.6.20|app-scientific||
@@ -2276,6 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|app-devices||
 |razor-agents|2.85|2.152|app-network||
 |rb-inotify|0.10.1|0.11.1|lang-ruby||
+|rbw|1.10.2|1.11.0|app-utils||
 |rclone|1.65.2|1.67.0|app-web||
 |rcm|1.3.4|1.3.6|app-utils||
 |rdflib|6.2.0|7.0.0|lang-python||
