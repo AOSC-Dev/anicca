@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718975717?label=Updated)
+![Relative date](https://img.shields.io/date/1718979231?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -1507,15 +1507,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.219|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.219)|
+|linux+kernel+lts|6.6.31|5.10.220|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.220)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.219|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.219|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.219)|
+|linux+kernel+retro|5.10.132|5.10.220|runtime-kernel||
+|linux+kernel+retro+minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240610|runtime-kernel|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.219|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.219|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.219)|
+|linux-kernel-retro|5.10.132|5.10.220|runtime-kernel||
+|linux-kernel-retro-minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia||
 |lirc|0.9.4d|0.10.2|app-devices||
 |lksctp-tools|1.0.17|1.0.19|app-network||
@@ -1568,7 +1568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|runtime-kernel|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|lang-python||
 |m2r|0.2.1|0.3.1|app-doc||
-|m3u8|0.7.1|5.0.0|lang-python||
+|m3u8|0.7.1|5.1.0|lang-python||
 |mac-fdisk|0.1|0.1.orig|app-admin|Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|app-network||
 |mailcommon|23.08.5|24.05.1|desktop-kde||
@@ -2091,7 +2091,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
-|polkit-kde-agent-1|5.27.11|6.1.0|desktop-kde||
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde||
 |polkit-tqt|14.1.0|14.1.2|desktop-trinity||
 |polymake|3.3|4.12|app-scientific||
