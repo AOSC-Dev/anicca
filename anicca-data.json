@@ -1095,6 +1095,7 @@
 ["alsa-plugins","1.2.7.1","1.2.12","runtime-multimedia",1673935824,[]],
 ["alsa-lib","1.2.6.1","1.2.12","runtime-multimedia",1625223208,[]],
 ["libdiscid","0.6.2","0.6.4","runtime-multimedia",1531411178,[]],
+["libltc","1.3.1","1.3.2","runtime-multimedia",1565150268,[]],
 ["projectm","4.0.0","4.1.1","runtime-multimedia",1706625158,[]],
 ["movit","1.6.3","1.7.1","runtime-multimedia",1678601095,[]],
 ["sdl-ttf","2.0.11","2.22.0","runtime-multimedia",1700797896,[]],
