@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718935089?label=Updated)
+![Relative date](https://img.shields.io/date/1718937077?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -101,7 +101,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.1.0|desktop-kde||
 |attr|2.4.48|2.5.2|runtime-common||
 |attr+32|2.4.48|2.5.2|runtime-optenv32||
-|attrs|20.3.0|23.2.0|lang-python||
 |audacity|3.4.2|3.5.1|app-creativity||
 |audiocd-kio|23.08.5|24.05.1|desktop-kde||
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
@@ -132,7 +131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|desktop-gnome||
 |bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity||
-|bcachefs-tools|1.6.4|1.9.1|app-admin||
 |bcrypt|3.1.7|4.1.3|lang-python||
 |beaker|1.11.0|1.13.0|lang-python||
 |beancount|2.2.1|3.0.0|app-productivity||
@@ -734,7 +732,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
 |haruna|0.12.3|1.1.2|desktop-kde||
 |harvid|0.8.3|0.9.1|app-multimedia||
-|hatch-fancy-pypi-readme|22.8.0|24.1.0|lang-python||
 |hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |haveged|1.9.13|1.9.18|app-utils||
 |hddtemp|0.3.52|0.4.3|app-utils||
@@ -2240,7 +2237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pywbem|0.13.0|1.7.2|lang-python||
 |pyx|0.14.1|0.16|lang-python||
 |pyxattr|0.6.1|0.8.1|lang-python||
-|pyyaml|5.3.1|6.0.1|lang-python||
 |pyzmq|22.3.0|26.0.3|lang-python||
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
 |qca|2.3.4|2.3.8|runtime-cryptography||
