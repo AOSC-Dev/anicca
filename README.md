@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718993835?label=Updated)
+![Relative date](https://img.shields.io/date/1718997046?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -1674,6 +1674,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.9|app-admin||
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
+|mupdf|1.24.3|1.24.4|app-doc||
 |musescore|4.3.0|4.3.2|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
@@ -2396,7 +2397,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
-|shadowsocks-rust|1.18.4|1.20.0|app-network||
+|shadow|4.15.1|4.16.0|app-admin||
+|shadowsocks-rust|1.18.4|1.20.1|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
@@ -2418,7 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.05.1|desktop-kde||
 |skanpage|23.08.5|24.05.1|desktop-kde||
 |skktools|1.3.4|1_3_4|app-i18n||
-|slick-greeter|2.0.3|2.0.4|desktop-displaymanagers||
+|slick-greeter|2.0.3|2.0.5|desktop-displaymanagers||
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
@@ -2447,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sonnet|5.115.0|6.1.0|desktop-kde||
 |sord|0.16.4|0.16.16|runtime-common||
 |sortedcontainers|2.3.0|2.4.0|lang-python||
-|sos|4.4|4.7.1|lang-python||
+|sos|4.4|4.7.2|lang-python||
 |sound-juicer|3.38.0|3.40.0|desktop-gnome||
 |soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity||
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32||
