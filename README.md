@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718979231?label=Updated)
+![Relative date](https://img.shields.io/date/1718983172?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -1324,6 +1324,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkolabxml|1.2.0|1.2.1|runtime-productivity||
 |libkomparediff2|23.08.5|24.05.1|desktop-kde||
 |libksane|23.08.5|24.05.1|desktop-kde||
+|libksba|1.6.6|1.6.7|runtime-cryptography||
 |libkscreen|5.27.11|6.1.0|desktop-kde||
 |libksieve|23.08.5|24.05.1|desktop-kde||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
@@ -1715,7 +1716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network||
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.11.0|app-network||
+|networkmanager-openvpn|1.8.12|1.12.0|app-network||
 |networkmanager-pptp|1.2.10|1.2.12|app-network||
 |networkmanager-qt|5.115.0|6.1.0|desktop-kde||
 |networkmanager-strongswan|1.5.2|1.6.0|app-network||
@@ -2091,6 +2092,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polari|42.1|46.0|desktop-gnome||
 |polib|1.1.0|1.2.0|lang-python||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
+|polkit-kde-agent-1|5.27.11|6.1.0|desktop-kde||
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde||
 |polkit-tqt|14.1.0|14.1.2|desktop-trinity||
 |polymake|3.3|4.12|app-scientific||
