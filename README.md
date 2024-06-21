@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1718986500?label=Updated)
+![Relative date](https://img.shields.io/date/1718990149?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -2192,7 +2192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyperf|2.5.0|2.7.0|lang-python||
 |pypkgconfig|1.4.0|1.5.5|lang-python||
 |pypsutil|5.8.0|6.0.0|lang-python||
-|pyqt-builder|1.12.1|1.16.2|lang-python||
+|pyqt-builder|1.12.1|1.16.3|lang-python||
 |pyqt5|5.15.5|5.15.10|lang-python||
 |pyqt5-sip|12.9.0|12.13.0|lang-python||
 |pyqtwebengine|5.15.5|5.15.6|lang-python||
@@ -2202,7 +2202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysmbc|1.0.22|1.0.25.1|lang-python||
 |pysocks|1.6.8|1.7.1|lang-python||
 |pysol-cards|0.14.2|0.16.0|lang-python||
-|pysol-sound-server|3.01|3.20|lang-python||
 |pysolfc|2.12.0|3.0.0|app-games||
 |pyte|0.8.0|0.8.2|lang-python||
 |python-2+32|999|2.7.18|runtime-optenv32|Possible downgrade from the current version (999 -> 2.7.18)|
