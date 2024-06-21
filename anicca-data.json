@@ -2145,7 +2145,6 @@
 ["tomlkit","0.7.0","0.12.5","lang-python",1609330974,[]],
 ["sos","4.4","4.7.1","lang-python",1678351353,[]],
 ["bottle","0.12.18","0.12.25","lang-python",1581796620,[]],
-["futures","3.2.0","3.4.0","lang-python",1530718722,[]],
 ["setuptools-python3","69.1.0","70.1.0","lang-python",1708685051,[]],
 ["soupsieve","1.8.0","2.5","lang-python",1551387999,[]],
 ["google-api-python-client","1.7.11","2.134.0","lang-python",1581796621,[]],
