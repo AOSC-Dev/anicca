@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719076302?label=Updated)
+![Relative date](https://img.shields.io/date/1719080223?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -795,7 +795,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imlib2|1.5.1|1.12.2|runtime-imaging||
 |imlib2+32|1.4.8|1.12.2|runtime-optenv32||
 |imwheel|1.0.0pre12|0.9.9|app-utils|Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
-|incidenceeditor|23.08.5|24.05.1|desktop-kde||
 |incremental|17.5.0|22.10.0|lang-python||
 |inetutils|2.4|2.5|app-utils||
 |inih|53|58|app-devel||
@@ -1019,7 +1018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.1.0|desktop-kde||
 |kiten|23.08.5|24.05.1|desktop-kde||
 |kitinerary|23.08.5|24.05.1|desktop-kde||
-|kitty|0.26.4|0.35.1|app-utils||
+|kitty|0.26.4|0.35.2|app-utils||
 |kiwisolver|1.0.1|1.4.5|lang-python||
 |kjobwidgets|5.115.0|6.1.0|desktop-kde||
 |kjournald|23.08.5|24.05.1|desktop-kde||
@@ -1311,7 +1310,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkexiv2|23.08.5|24.05.1|desktop-kde||
 |libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkeyfinder|2.2.5|2.2.8|runtime-multimedia||
-|libkgapi|23.08.5|24.05.1|desktop-kde||
 |libkipi|23.08.5|24.05.1|desktop-kde||
 |libkipi-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkkc|0.3.5<br>+git20210213|0.3.5|runtime-i18n|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
@@ -2136,6 +2134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulsectl|20.5.1|24.4.0|lang-python||
 |puremagic|1.15|1.25|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
+|purpose|5.115.0|6.1.0|desktop-kde||
 |pv|1.6.20|1.8.10|app-utils||
 |py-filelock|3.14.0|3.15.4|lang-python||
 |py-setproctitle|1.1.10|1.3.3|lang-python||
