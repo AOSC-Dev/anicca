@@ -180,7 +180,7 @@
 ["ack","3.2.0","3.7.0","app-utils",1579575900,[]],
 ["xss-lock","0.3.0+git20140302","0.3.0","app-utils",1609646610,["Compound version number '0.3.0+git20140302'","Version number indicates a snapshot (+git) is used"]],
 ["fzf","0.46.1","0.53.0","app-utils",1712458054,[]],
-["code-server","4.9.1","4.90.2","app-utils",1672122771,[]],
+["code-server","4.9.1","4.90.3","app-utils",1672122771,[]],
 ["ipmitool","1.8.18","1_8_19","app-utils",1488653406,[]],
 ["git-branchless","0.7.1","0.9.0","app-utils",1680558295,[]],
 ["dmenu","5.2","5.3","app-utils",1694497774,[]],
