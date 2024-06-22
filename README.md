@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719054667?label=Updated)
+![Relative date](https://img.shields.io/date/1719058831?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -518,7 +518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|lang-python||
 |fvwm|2.6.9|2.7.0|desktop-wm||
 |fzf|0.46.1|0.53.0|app-utils||
-|gajim|1.4.0|1.9.0|app-web||
+|gajim|1.4.0|1.9.1|app-web||
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
 |gammaray|2.11.2|3.0.0|app-devel||
 |gap|4.10.2|4.13.1|app-scientific||
@@ -554,6 +554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|desktop-gnome||
 |gedit-plugins|42.1|47.1|desktop-gnome||
 |gegl-0.4|0.4.48|0_4_48|runtime-imaging||
+|genpac|2.0.1|3.0|app-network||
 |geoclue2|2.6.0|2.7.1|runtime-gis||
 |geoipupdate|6.1.0|7.0.1|app-network||
 |geos|3.7.3|3.12.2|runtime-gis||
