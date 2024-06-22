@@ -899,6 +899,7 @@
 ["perl-glib-object-introspection","0.047","0.051","lang-perl",1550814485,[]],
 ["perl-crypt-openssl-guess","0.11","0.15","lang-perl",1531878868,[]],
 ["perl-gnome2-vfs","1.083","1.084","lang-perl",1530196414,[]],
+["perl-try-tiny","0.30","0.31","lang-perl",1530196414,[]],
 ["perl-mail-imapclient","3.42","3.43","lang-perl",1678950872,[]],
 ["perl-timedate","2.30","2.33","lang-perl",1678950872,[]],
 ["libwww-perl","6.33","6.77","lang-perl",1530196415,[]],
