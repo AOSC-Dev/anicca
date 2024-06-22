@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719029696?label=Updated)
+![Relative date](https://img.shields.io/date/1719033260?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -188,7 +188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
 |cargo-c|0.9.24|0.10.0+cargo-0.80.0|lang-rust||
-|cargo-release|0.24.11|0.25.8|lang-rust||
+|cargo-release|0.24.11|0.25.10|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||

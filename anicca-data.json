@@ -1372,7 +1372,7 @@
 ["openvswitch","3.0.3","3.3.1","app-network",1577974572,[]],
 ["crda","3.18","4.15","app-network",1678950872,[]],
 ["cargo-c","0.9.24","0.10.0+cargo-0.80.0","lang-rust",1703924002,[]],
-["cargo-release","0.24.11","0.25.8","lang-rust",1696572712,[]],
+["cargo-release","0.24.11","0.25.10","lang-rust",1696572712,[]],
 ["cargo-audit","0.18.1","0.20.0","lang-rust",1694169722,[]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,[]],
 ["hub","2.14.2+git20230617","2.14.2","app-vcs",1712458054,["Compound version number '2.14.2+git20230617'","Version number indicates a snapshot (+git) is used"]],
