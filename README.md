@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719073063?label=Updated)
+![Relative date](https://img.shields.io/date/1719076302?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -396,6 +396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|app-utils||
 |elfutils+32|0.166|0.191|runtime-optenv32||
 |elisa|23.08.5|24.05.1|desktop-kde||
+|emacs|29.3|29.4|app-editors||
 |embree|4.3.1|4.3.2|app-imaging||
 |emerald|0.8.12.4|0.8.18|desktop-wm||
 |enchant-2|2.3.1|2.8.1|app-i18n||
@@ -808,7 +809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-oneapi-basekit|2024.1.0|2024.2.0|app-devel||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.2.0|desktop-fonts||
+|iosevka-fonts|28.0.5|30.3.0|desktop-fonts||
 |iozone|3.492|3.506|app-admin||
 |ipcalc|0.41|1.0.3|app-network||
 |ipmitool|1.8.18|1_8_19|app-utils||
@@ -2135,9 +2136,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulsectl|20.5.1|24.4.0|lang-python||
 |puremagic|1.15|1.25|lang-python||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
-|purpose|5.115.0|6.1.0|desktop-kde||
 |pv|1.6.20|1.8.10|app-utils||
-|py-filelock|3.14.0|3.15.3|lang-python||
+|py-filelock|3.14.0|3.15.4|lang-python||
 |py-setproctitle|1.1.10|1.3.3|lang-python||
 |pyaaf2|1.6.0|1.7.1|lang-python||
 |pyacoustid|1.1.7|1.3.0|lang-python||
