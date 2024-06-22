@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719011621?label=Updated)
+![Relative date](https://img.shields.io/date/1719017373?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -538,7 +538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-ppc64|9.3.1|14.1.0|app-devel||
 |gcc+cross-ppc64el|12.3.0|14.1.0|app-devel||
 |gcc+cross-riscv64|12.1.0|14.1.0|app-devel||
-|gcc+w64|9.3.1|14.1.0|runtime-optenvw64||
 |gcdemu|3.2.4|3.2.6|app-multimedia||
 |gcr|3.41.1|4.3.0|desktop-gnome||
 |gdal|3.8.4|3.9.0|runtime-gis||
@@ -2006,7 +2005,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-string-util|1.31|1.34|lang-perl||
 |perl-sub-install|0.928|0.929|lang-perl||
 |perl-sub-quote|2.006006|2.006008|lang-perl||
-|perl-template-toolkit|2.27|3.101|lang-perl||
+|perl-template-toolkit|2.27|3.102|lang-perl||
 |perl-term-progressbar|2.22|2.23|lang-perl||
 |perl-term-readkey|2.37|2.38|lang-perl||
 |perl-term-readline-gnu|1.36|1.46|lang-perl||
@@ -2694,6 +2693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uncrustify|0.78.1|0.79.0|app-devel||
 |unidecode|1.0.23|1.3.8|lang-python||
 |unixodbc|2.3.9|2.3.12|app-database||
+|unnamed-sdvx-clone|0.5.0|0.6.0|app-games||
 |unpaper|20190211|7.0.0|app-doc|Possible downgrade from the current version (20190211 -> 7.0.0)|
 |unrar|6.2.2|6.2.12|app-utils||
 |unrpyc|1.1.6|2.0.1|app-games||
@@ -2710,6 +2710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|runtime-common||
 |util-linux+32|2.29.2|2.40.1|runtime-optenv32||
 |util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
+|v2raya|2.2.5.2|2.2.5.6|app-network||
 |v4l-utils|1.22.1|1.26.1|app-multimedia||
 |v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
 |vala|0.56.16|0.56.17|app-devel||
@@ -2727,8 +2728,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |versioningit|3.0.0|3.1.1|app-devel||
 |vgmstream|20191206|1879|runtime-multimedia|Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation||
+|vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0496|app-editors||
+|vim|9.1.0446|9.1.0512|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.2|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
@@ -2742,6 +2744,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
+|vscode|1.90.1|1.90.2|app-editors||
+|vscodium|1.90.1.24165|1.90.2.24171|app-editors||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
 |vulkan-extensionlayer|1.3.280.0|1.3.288|runtime-display||
@@ -2798,7 +2802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x265+32|2.2|3.6|runtime-optenv32||
 |xalan-c|1.12|1.12.0|app-doc||
 |xapian-core|1.4.18|1.4.25|runtime-common||
-|xapps|2.8.2|2.8.3|runtime-desktop||
+|xapps|2.8.2|2.8.4|runtime-desktop||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.8|1.0.9|runtime-i18n||
