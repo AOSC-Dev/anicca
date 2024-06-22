@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719017373?label=Updated)
+![Relative date](https://img.shields.io/date/1719021498?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -538,6 +538,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-ppc64|9.3.1|14.1.0|app-devel||
 |gcc+cross-ppc64el|12.3.0|14.1.0|app-devel||
 |gcc+cross-riscv64|12.1.0|14.1.0|app-devel||
+|gcc+w64|9.3.1|14.1.0|runtime-optenvw64||
 |gcdemu|3.2.4|3.2.6|app-multimedia||
 |gcr|3.41.1|4.3.0|desktop-gnome||
 |gdal|3.8.4|3.9.0|runtime-gis||
@@ -737,7 +738,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdsentinel|0.17|400s|app-utils||
 |helm|3.15.0|3.15.2|app-containers||
 |help2man|1.48.1|1.49.3|app-doc||
-|herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |highway|1.1.0|1.2.0|runtime-common||
@@ -2165,7 +2165,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|2.0.0|3.2.2|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
 |pygit2|1.14.1|1.15.0|lang-python||
-|pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
 |pygobject-3|3.42.2|3.48.2|lang-python||
 |pygraphviz|1.5|1.13|lang-python||
