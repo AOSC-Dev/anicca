@@ -2833,7 +2833,7 @@
 ["mldonkey","3.1.7+2+git20210505","3-1-7-2","app-web",1634534087,["Compound version number '3.1.7+2+git20210505'","Version number indicates a snapshot (+git) is used"]],
 ["zola","0.18.0","0.19.0","app-web",1715161811,[]],
 ["httpd","2.4.58","2.4.59","app-web",1706855383,[]],
-["liferea","1.13.8","1.15.6","app-web",1655338775,[]],
+["liferea","1.13.8","1.15.7","app-web",1655338775,[]],
 ["certbot-dns-cloudflare","2.10.0","2.11.0","app-web",1716728302,[]],
 ["chromium","125.0.6422.141","126.0.6478.114","app-web",1717475120,[]],
 ["notmuch","0.34","0.38.3","app-web",1637636760,[]],
@@ -2880,6 +2880,6 @@
 ["sane-backends","1.0.32","1.3.1","runtime-devices",1657655045,[]],
 ["libcdio-paranoia","10.2+2.0.1","2.0.1","runtime-devices",1639821978,["Compound version number '10.2+2.0.1'","Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)"]],
 ["ccid","1.5.1","1.6.0","runtime-devices",1673935786,[]],
-["libwacom","2.4.0","2.12.1","runtime-devices",1663359144,[]],
+["libwacom","2.4.0","2.12.2","runtime-devices",1663359144,[]],
 ["libisoburn","1.5.2","1.5.6","runtime-devices",1577446802,[]]
 ]

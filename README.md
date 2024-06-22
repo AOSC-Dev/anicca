@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719087191?label=Updated)
+![Relative date](https://img.shields.io/date/1719090844?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1463,7 +1463,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|runtime-multimedia||
 |libvpx|1.10.0|1.14.1|runtime-multimedia||
 |libvpx+32|1.9.0|1.14.1|runtime-optenv32||
-|libwacom|2.4.0|2.12.1|runtime-devices||
+|libwacom|2.4.0|2.12.2|runtime-devices||
 |libwebp|1.3.1|1.4.0|runtime-imaging||
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32||
 |libwebsockets|3.1.0|4.3.3|runtime-web||
@@ -1491,7 +1491,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt+32|1.1.34|1.1.41|runtime-optenv32||
 |libzen|0.4.38|0.4.41|runtime-common||
 |libzip|1.5.2|1.10.1|runtime-common||
-|liferea|1.13.8|1.15.6|app-web||
+|liferea|1.13.8|1.15.7|app-web||
 |light-locker|1.8.0|1.9.0|app-utils||
 |lightdm-settings|2.0.2|2.0.4|desktop-displaymanagers||
 |lightsoff|40.0.1|46.0|desktop-gnome||
