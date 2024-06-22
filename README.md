@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719021498?label=Updated)
+![Relative date](https://img.shields.io/date/1719023289?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -738,6 +738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdsentinel|0.17|400s|app-utils||
 |helm|3.15.0|3.15.2|app-containers||
 |help2man|1.48.1|1.49.3|app-doc||
+|herbstluftwm|0.7.2|0.9.5|desktop-wm||
 |hexchat|2.16.1|2.16.2|app-web||
 |hfsprogs|332.25|667.100.2|app-admin||
 |highway|1.1.0|1.2.0|runtime-common||
@@ -2165,6 +2166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|2.0.0|3.2.2|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
 |pygit2|1.14.1|1.15.0|lang-python||
+|pyglet|1.3.2|2.0.15|lang-python||
 |pygments|2.10.0|2.18.0|lang-python||
 |pygobject-3|3.42.2|3.48.2|lang-python||
 |pygraphviz|1.5|1.13|lang-python||
@@ -2837,7 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|runtime-common||
 |xournalpp|1.1.3|1.2.3|runtime-productivity||
 |xpra|5.0.8|6.0.1|app-network||
-|xray|1.8.4|1.8.15|app-network||
+|xray|1.8.4|1.8.16|app-network||
 |xray-plugin|1.8.11|1.8.15|app-network||
 |xreader|3.8.5|4.2.1|app-doc||
 |xscreensaver|6.08|6.09|app-utils||
@@ -2849,7 +2851,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.5|app-imaging||
 |xxhash|0.8.1|0.8.2|runtime-common||
 |xz+32|5.4.1|5.6.2|runtime-optenv32||
-|yad|0.40.0|13.0|app-utils||
+|yad|0.40.0|14.0|app-utils||
 |yakuake|23.08.5|24.05.1|desktop-kde||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common||
@@ -2880,6 +2882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|runtime-common||
 |zmusic|1.1.8|1.1.13|app-games||
 |znc|1.8.2|1.9.0|app-web||
+|zola|0.18.0|0.19.0|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
