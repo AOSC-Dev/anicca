@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719026201?label=Updated)
+![Relative date](https://img.shields.io/date/1719029696?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.06|24.07|app-utils||
@@ -155,6 +155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
+|bpftrace|0.20.4|0.21.0|app-admin||
 |breeze|5.27.11|6.1.0|desktop-kde||
 |breeze-grub|5.27.11|6.1.0|desktop-kde||
 |breeze-gtk|5.27.11|6.1.0|desktop-kde||
