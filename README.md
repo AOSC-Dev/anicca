@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719162664?label=Updated)
+![Relative date](https://img.shields.io/date/1719166605?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -315,7 +315,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddrescue|1.24|1.28|app-utils||
 |debianutils|5.7|5.19|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
-|deja-dup|42.9|46.0|desktop-gnome||
+|deja-dup|42.9|46.1|desktop-gnome||
 |dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.44.4|lang-js||
@@ -1934,7 +1934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|lang-perl||
 |perl-finance-quote|1.49|1.5301|lang-perl||
 |perl-font-ttf|1.05|1.06|lang-perl||
-|perl-gd|2.71|2.82|lang-perl||
+|perl-gd|2.71|2.83|lang-perl||
 |perl-glib|1.329|1.3294|lang-perl||
 |perl-glib-object-introspection|0.047|0.051|lang-perl||
 |perl-gnome2|1.047|1.048|lang-perl||
