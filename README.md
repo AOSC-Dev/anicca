@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719126920?label=Updated)
+![Relative date](https://img.shields.io/date/1719130515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -396,7 +396,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|app-utils||
 |elfutils+32|0.166|0.191|runtime-optenv32||
 |elisa|23.08.5|24.05.1|desktop-kde||
-|emacs|29.3|29.4|app-editors||
 |embree|4.3.1|4.3.2|app-imaging||
 |emerald|0.8.12.4|0.8.18|desktop-wm||
 |enchant-2|2.3.1|2.8.1|app-i18n||

@@ -1414,7 +1414,6 @@
 ["john","1.8.0","1.9.0","app-penetration",1678950872,[]],
 ["acccheck","0.2.1","0-2-1","app-penetration",1443941708,[]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,[]],
-["emacs","29.3","29.4","app-editors",1711799486,[]],
 ["vim","9.1.0446","9.1.0512","app-editors",1716881164,[]],
 ["nano","8.0+nanorc2024.1.16","8.0","app-editors",1714695431,["Compound version number '8.0+nanorc2024.1.16'"]],
 ["texworks","0.6.6","0.6.9","app-doc",1636116326,[]],
