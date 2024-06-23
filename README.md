@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719141073?label=Updated)
+![Relative date](https://img.shields.io/date/1719145263?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -110,7 +110,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
-|autopep8|2.3.0|2.3.1|lang-python||
 |avahi-tqt|14.1.0|14.1.2|desktop-trinity||
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific||
 |avr-binutils|2.37|2.42|app-devel||
@@ -286,7 +285,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python||
 |cssselect2|0.6.0|0.7.0|lang-python||
 |cssutils|1.0.2|2.11.1|lang-python||
-|ctags|20191203|6.1.20240609.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240609.0)|
+|ctags|20191203|6.1.20240623.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240623.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|app-devel|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02 -> 12.5.0)|
 |cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.10|app-admin||
@@ -2725,7 +2724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation||
 |vicious|2.3.3|2.7.0|desktop-wm||
 |vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0512|app-editors||
+|vim|9.1.0446|9.1.0516|app-editors||
 |virglrenderer|0.10.4|1.0.1|app-virtualization||
 |virtualenv|20.25.0|20.26.3|lang-python||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
