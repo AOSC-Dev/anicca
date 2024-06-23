@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719098020?label=Updated)
+![Relative date](https://img.shields.io/date/1719104026?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -90,7 +90,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
-|ast-grep|0.23.0|0.23.1|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -219,7 +218,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|125.0.6422.141|126.0.6478.114|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.2.2|desktop-cinnamon||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
@@ -679,7 +677,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gringo|5.4.1|5.7.1|app-devel||
 |groff|1.22.4|1.23.0|app-utils||
 |grpc|1.64.0|1.64.2|app-network||
-|grsync|1.2.8|1.3.1|app-network||
 |grub|2.12<br>+unifont15.1.04|2.12|app-admin|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|app-admin||
 |gsasl|1.8.1|2.2.1|runtime-admin||
@@ -1631,7 +1628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minicom|2.8|2.9|app-utils||
 |miniserve|0.26.0|0.27.1|app-web||
 |miniupnpc|2.1|2.2.8|app-network||
-|miniupnpd|2.3.5|2.3.6|app-network||
+|miniupnpd|2.3.5|2.3.7|app-network||
 |minizip|1.2.11|1.3.1|runtime-common||
 |minuet|23.08.5|24.05.1|desktop-kde||
 |mitmproxy|7.0.4|10.3.1|app-network||
