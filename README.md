@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719227627?label=Updated)
+![Relative date](https://img.shields.io/date/1719231760?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1195,7 +1195,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||
-|libassuan|2.5.3|3.0.0|runtime-common||
+|libassuan|2.5.3|3.0.1|runtime-common||
 |libatomic-ops|7.8.0|7.8.2|runtime-common||
 |libavif|0.11.1|1.0.4|runtime-multimedia||
 |libblkio|1.3.0|1.5.0|runtime-common||
@@ -2228,7 +2228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxattr|0.6.1|0.8.1|lang-python||
 |pyzmq|22.3.0|26.0.3|lang-python||
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
-|qca|2.3.4|2.3.8|runtime-cryptography||
+|qca|2.3.4|2.3.9|runtime-cryptography||
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
