@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719242095?label=Updated)
+![Relative date](https://img.shields.io/date/1719245812?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2466,7 +2466,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.3.275.0|2024.1|runtime-display||
 |spread-sheet-widget|0.3|0.10|runtime-productivity||
 |sqlalchemy|1.2.18|2.0.31|lang-python||
-|sqlcipher|4.5.6|4.6.0|app-database||
 |sqlite|3.45.1|3.46.0|app-database||
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32||
 |sqlite-fdw|2.1.0|2.4.0|app-database||

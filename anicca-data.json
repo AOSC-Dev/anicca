@@ -588,7 +588,6 @@
 ["kyotocabinet","1.2.79","1.2.80","app-database",1600106563,[]],
 ["postgresql","13.15","17","app-database",1718201022,[]],
 ["mycli","1.23.2","1.27.2","app-database",1620461770,[]],
-["sqlcipher","4.5.6","4.6.0","app-database",1709967928,[]],
 ["redis","7.2.4","7.2.5","app-database",1709472578,[]],
 ["sqlite","3.45.1","3.46.0","app-database",1709472589,[]],
 ["tinycdb","0.78","0.81","app-database",1678950872,[]],
