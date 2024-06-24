@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719190279?label=Updated)
+![Relative date](https://img.shields.io/date/1719194523?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -434,16 +434,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python||
 |fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python||
-|fcitx5|5.1.9|5.1.10|app-i18n||
-|fcitx5-chewing|5.1.3|5.1.5|app-i18n||
-|fcitx5-chinese-addons|5.1.5|5.1.6|app-i18n||
-|fcitx5-configtool|5.1.5|5.1.6|app-i18n||
-|fcitx5-hangul|5.1.3|5.1.4|app-i18n||
-|fcitx5-kkc|5.1.3|5.1.4|app-i18n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|app-i18n|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.6|5.1.8|app-i18n||
-|fcitx5-skk|5.1.3|5.1.4|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |feedbackd|0.2.1|0.4.0|desktop-gnome||
 |feedparser|6.0.8|6.0.11|lang-python||
@@ -1291,7 +1283,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|runtime-network||
 |libidn+32|1.33|1.42|runtime-optenv32||
 |libidn2|2.3.0|2.3.7|runtime-network||
-|libime|1.1.7|1.1.8|runtime-i18n||
 |libindi|2.0.5|2.0.8|runtime-scientific||
 |libintl-perl|1.29|1.33|lang-perl||
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
@@ -1521,7 +1512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|14.0.6|18.1.8|runtime-optenv32||
 |llvm-runtime+wasi|17.0.6|18.1.8|runtime-wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils||
-|lmdb|0.9.28|0.9.33|app-database||
+|lmdb|0.9.31|0.9.33|app-database||
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
 |logrotate|3.21.0|3.22.0|app-admin||
@@ -2113,7 +2104,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|lang-python||
 |primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.1|desktop-kde||
-|prismlauncher|8.3|8.4|app-games||
 |prison5|5.115.0|6.1.0|desktop-kde||
 |progress|0.16|0.17|app-utils||
 |proj|9.2.1|9.4.1|app-gis||
@@ -2798,7 +2788,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapps|2.8.2|2.8.4|runtime-desktop||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-imdkit|1.0.8|1.0.9|runtime-i18n||
 |xcb-proto|1.16.0|1.17.0|runtime-display||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32||
 |xcffib|0.7.0|1.5.0|lang-python||
