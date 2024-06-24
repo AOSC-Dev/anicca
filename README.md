@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719184405?label=Updated)
+![Relative date](https://img.shields.io/date/1719190279?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -90,6 +90,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
+|ast-grep|0.23.1|0.24.0|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -722,7 +723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.05.1|desktop-kde||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
 |gzdoom|4.6.1|4.12.2|app-games||
-|handbrake|1.7.3|1.8.0|app-multimedia||
+|handbrake|1.7.3|1.8.1|app-multimedia||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
@@ -783,8 +784,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|runtime-scientific||
 |igv|2.15.1|2.16.2|app-scientific||
 |iio-sensor-proxy|3.4|3.5|app-utils||
-|imagemagick|6.9.13<br>+7|6.9.13-11|app-utils|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.1<br>+32|7.1.1-33|app-utils|Compound version number '7.1.1+32'|
+|imagemagick|6.9.13<br>+7|6.9.13-12|app-utils|Compound version number '6.9.13+7'|
+|imagemagick+7|7.1.1<br>+32|7.1.1-34|app-utils|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|lang-python||
 |imapsync|1.977|2.229|app-network||
 |imath|3.1.5|3.1.11|runtime-display||
