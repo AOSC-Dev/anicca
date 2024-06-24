@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719213397?label=Updated)
+![Relative date](https://img.shields.io/date/1719217020?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -108,6 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
+|autobuild4|4.3.3|4.3.2|app-devel|Possible downgrade from the current version (4.3.3 -> 4.3.2)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -1648,7 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
 |mpmath|1.1.0|1.4.0a1|lang-python||
 |ms-sys|2.6.0|2.8.0|app-utils||
-|msgpack-c|6.0.0|6.0.1|runtime-common||
+|msgpack-c|6.0.0|6.0.2|runtime-common||
 |msgpack-c++|6.1.0|6.1.1|runtime-common||
 |msitools|0.101|0.103|app-devel||
 |msr-tools|20170320|1.3|app-utils|Possible downgrade from the current version (20170320 -> 1.3)|
