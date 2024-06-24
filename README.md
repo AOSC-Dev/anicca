@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719263570?label=Updated)
+![Relative date](https://img.shields.io/date/1719267237?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -220,6 +220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc||
 |chntpw|1.1|140201|app-utils||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia||
+|chromium|126.0.6478.114|126.0.6478.126|app-web||
 |cifs-utils|6.10|7.0|app-network||
 |cinnamon|5.8.3|6.2.2|desktop-cinnamon||
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
@@ -651,6 +652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.134.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
+|google-chrome|126.0.6478.114|126.0.6478.126|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
