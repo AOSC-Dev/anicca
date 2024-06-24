@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719267237?label=Updated)
+![Relative date](https://img.shields.io/date/1719270926?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -152,7 +152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|runtime-optenv32||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.131|lang-python||
+|boto3|1.20.26|1.34.132|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
@@ -162,6 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.1.0|desktop-kde||
 |breeze-plymouth|5.27.11|6.1.0|desktop-kde||
 |brotlipy|0.7.0|1.0.9.2|lang-python||
+|btrfs-progs|6.9|6.9.1|app-admin||
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific||
@@ -1833,7 +1834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.5|app-devel||
 |pamixer|1.4|1.6|app-multimedia||
 |pandas|2.1.2|2.2.2|lang-python||
-|pandoc|3.1.13|3.2|app-doc||
+|pandoc|3.1.13|3.2.1|app-doc||
 |pango|1.52.2|1.54.0|runtime-desktop||
 |pango+32|1.44.7|1.54.0|runtime-optenv32||
 |pangomm|2.46.3|2.52.0|runtime-desktop||
@@ -2200,7 +2201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.4|lang-python||
 |python-augeas|1.0.3|1.1.0|lang-python||
 |python-build|0.8.0|1.2.1|lang-python||
-|python-cloudflare|2.8.15|3.0.0b10|lang-python||
+|python-cloudflare|2.8.15|3.0.1|lang-python||
 |python-cssselect|1.0.3|1.2.0|lang-python||
 |python-daemonize|2.5.0|3.8.0|lang-python||
 |python-dbusmock|0.22.0|0.31.1|lang-python||
@@ -2341,7 +2342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s-tui|1.1.3|1.1.6|app-utils||
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|runtime-optenv32|Possible downgrade from the current version (20150112 -> 1.0)|
-|s3transfer|0.5.0|0.10.1|lang-python||
+|s3transfer|0.5.0|0.10.2|lang-python||
 |samba|4.17.2|4.20.2|app-network||
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
