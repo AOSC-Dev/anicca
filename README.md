@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719234914?label=Updated)
+![Relative date](https://img.shields.io/date/1719238467?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1861,7 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5920|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5926|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2668,6 +2668,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udns|0.4|0.5|app-network||
 |ufw|0.36|0.36.2|app-network||
 |uget|2.2.3<br>+1|2.2.2|app-web|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
+|uhttpmock|0.5.3|0.11.0|runtime-web||
 |uim|1.8.8|1.8.9|app-i18n||
 |ujson|1.35|1.36|lang-python||
 |umbrello|23.08.5|24.05.1|desktop-kde||
