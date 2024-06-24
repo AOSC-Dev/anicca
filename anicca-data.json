@@ -1333,6 +1333,7 @@
 ["stunnel","5.56","5.72","app-network",1575785726,[]],
 ["iptraf-ng","1.1.4","1.2.1","app-network",1473801763,[]],
 ["hostapd","2.9","2.10","app-network",1569432808,[]],
+["vnstat","2.4","2.12","app-network",1569375540,[]],
 ["openfortivpn","1.18.0","1.22.1","app-network",1663359140,[]],
 ["grpc","1.64.0","1.64.2","app-network",1717130892,[]],
 ["pktstat","20160317","1.8.5","app-network",1473803173,["Possible downgrade from the current version (20160317 -> 1.8.5)"]],
