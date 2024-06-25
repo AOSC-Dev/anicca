@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719342762?label=Updated)
+![Relative date](https://img.shields.io/date/1719346393?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -999,7 +999,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.05.1|desktop-kde||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
 |kipi-plugins|23.08.5|24.05.1|desktop-kde||
-|kirigami-addons|0.11.0|1.2.1|desktop-kde||
+|kirigami-addons|0.11.0|1.3.0|desktop-kde||
 |kirigami-gallery|23.08.5|24.05.1|desktop-kde||
 |kirigami2|5.115.0|6.1.1|desktop-kde||
 |kiriki|23.08.5|24.05.1|desktop-kde||
@@ -2497,6 +2497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
+|svt-av1|2.1.0|2.1.1|runtime-multimedia||
 |sweeper|23.08.5|24.05.1|desktop-kde||
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
