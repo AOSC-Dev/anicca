@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719313930?label=Updated)
+![Relative date](https://img.shields.io/date/1719318093?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -307,7 +307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.112|runtime-admin||
 |dbus-glib+32|0.108|0.112|runtime-optenv32||
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity||
-|dcaenc|3|2|app-multimedia|Possible downgrade from the current version (3 -> 2)|
 |ddcutil|2.1.3|2.1.4|app-utils||
 |ddnet|17.0.3|18.3|app-games||
 |ddrescue|1.24|1.28|app-utils||
@@ -346,7 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
 |docbook-xml|0|5.1|app-doc||
-|docker|26.1.3|26.1.4|app-containers||
+|docker|26.1.3|27.0.1|app-containers||
 |docker-compose|2.27.1|2.28.1|app-containers||
 |docutils|0.20.1|0.21.2|lang-python||
 |dolphin|23.08.5|24.05.1|desktop-kde||
@@ -2369,8 +2368,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
-|setuptools-python2|44.1.0|70.1.0|lang-python||
-|setuptools-python3|69.1.0|70.1.0|lang-python||
+|setuptools-python2|44.1.0|70.1.1|lang-python||
+|setuptools-python3|69.1.0|70.1.1|lang-python||
 |setuptools-rust|1.5.2|1.9.0|lang-python||
 |setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
