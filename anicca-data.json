@@ -100,6 +100,7 @@
 ["lziprecover","1.21","1.24","app-utils",1551385838,[]],
 ["agrep","4.17","4.17.orig","app-utils",1511126779,["Possible downgrade from the current version (4.17 -> 4.17.orig)"]],
 ["xfe","1.46.1","1.46.2","app-utils",1712719195,[]],
+["isomd5sum","1.2.4","1.2.5","app-utils",1717510858,[]],
 ["reptyr","0.9.0","0.10.0","app-utils",1674089721,[]],
 ["evtest","1.34","1.35","app-utils",1569615153,[]],
 ["acl","2.3.1","2.3.2","app-utils",1641882995,[]],
