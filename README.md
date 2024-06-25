@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719324774?label=Updated)
+![Relative date](https://img.shields.io/date/1719328471?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1101,6 +1101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krename-trinity|14.1.0|14.1.2|desktop-trinity||
 |kreversi|23.08.5|24.05.1|desktop-kde||
 |krfb|23.08.5|24.05.1|desktop-kde||
+|krita|5.2.2|5.2.3|app-creativity||
 |kross|5.115.0|6.1.0|desktop-kde||
 |kruler|23.08.5|24.05.1|desktop-kde||
 |krunner|5.115.0|6.1.0|desktop-kde||
@@ -2825,6 +2826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaspin|1.2.0|3.0.2|lang-python||
 |yaz|5.34.0|5.34.1|runtime-web||
 |yelp|42.1|42.2|desktop-gnome||
+|yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compound version number '0.4.8+2'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.42|app-electronics||
 |you-get|0.4.1700|0.4.1710|app-multimedia||
 |ytmusicapi|1.7.2|1.7.3|lang-python||
