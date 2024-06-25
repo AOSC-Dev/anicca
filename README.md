@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719288959?label=Updated)
+![Relative date](https://img.shields.io/date/1719292400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -444,7 +444,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.3.3|0.4.0|app-multimedia||
 |feeluown-netease|1.0.1|1.0.3|app-multimedia||
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia||
-|feeluown-ytmusic|0.3.4|0.4.0|app-multimedia||
+|feeluown-ytmusic|0.3.4|0.4.1|app-multimedia||
 |ffcall|2.2|2.4|runtime-common||
 |ffmpeg|4.4.4|7.0.1|app-multimedia||
 |ffmpeg+32|4.2.5|7.0.1|runtime-optenv32||
@@ -2840,6 +2840,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.1|runtime-web||
 |yelp|42.1|42.2|desktop-gnome||
 |yosys|0.41|0.42|app-electronics||
+|you-get|0.4.1700|0.4.1710|app-multimedia||
 |ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
@@ -2861,7 +2862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|runtime-common||
 |zmusic|1.1.8|1.1.13|app-games||
 |znc|1.8.2|1.9.0|app-web||
-|zola|0.18.0|0.19.0|app-web||
+|zola|0.18.0|0.19.1|app-web||
 |zope-component|4.4.1|6.0|lang-python||
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
