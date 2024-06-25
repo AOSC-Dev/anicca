@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719318093?label=Updated)
+![Relative date](https://img.shields.io/date/1719321287?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -317,8 +317,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.44.4|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.4.3|0.5.0|app-admin||
-|deploykit-gui|0.5.4|test-ci|app-admin|Versions not comparable: `0.5.4` and `test-ci`|
+|deploykit-backend|0.5.1|0.5.0|app-admin|Possible downgrade from the current version (0.5.1 -> 0.5.0)|
+|deploykit-gui|0.6.1|test-ci|app-admin|Versions not comparable: `0.6.1` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
 |dfu-util|0.10|0.11|app-devel||
@@ -551,6 +551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
+|gh|2.51.0|2.52.0|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.1.1_build|app-devel||
@@ -1806,7 +1807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|runtime-multimedia||
 |orc|0.4.32|0.4.38|app-devel||
 |orc+32|0.4.32|0.4.38|runtime-optenv32||
-|orca|42.3|46.1|desktop-gnome||
+|orca|42.3|46.2|desktop-gnome||
 |os-prober|1.81|1.82|app-utils||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
 |oxygen|5.27.11|6.1.0|desktop-kde||
@@ -2143,6 +2144,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
 |pyenchant|2.0.0|3.2.2|lang-python||
+|pygame|2.5.2|2.6.0|lang-python||
 |pygccxml|2.1.0|2.5.0|lang-python||
 |pygit2|1.14.1|1.15.0|lang-python||
 |pyglet|1.3.2|2.0.15|lang-python||
