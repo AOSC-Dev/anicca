@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719276677?label=Updated)
+![Relative date](https://img.shields.io/date/1719280890?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -108,7 +108,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|desktop-kde||
 |audiveris|5.1.0|5.3.1|app-doc||
 |autobahn|19.2.1|23.6.2|lang-python||
-|autobuild4|4.3.3|4.3.2|app-devel|Possible downgrade from the current version (4.3.3 -> 4.3.2)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
 |automake|1.16i|1.16.5|app-devel||
 |automat|20.2.0|22.10.0|lang-python||
@@ -461,7 +460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |findutils|4.9.0|4.10.0|app-utils||
 |fio|3.35|3.37|app-utils||
-|firefox|127.0|127.0.1|app-web||
+|firefox|127.0|127.0.2|app-web||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -755,7 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python||
 |hyperframe|6.0.0|6.0.1|lang-python||
 |hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.103.5|lang-python||
+|hypothesis-python|6.97.4|6.104.0|lang-python||
 |hysteria|2.4.0|2.4.5|app-network||
 |i2c-tools|4.1|4.3|app-utils||
 |i2pd|2.41.0|2.52.0|app-web||
@@ -1486,7 +1485,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|runtime-common||
 |liferea|1.13.8|1.15.7|app-web||
 |light-locker|1.8.0|1.9.0|app-utils||
-|lightdm-settings|2.0.2|2.0.4|desktop-displaymanagers||
 |lightsoff|40.0.1|46.0|desktop-gnome||
 |lighttpd|1.4.55|1.4.76|app-network||
 |lilv|0.24.12|0.24.24|runtime-multimedia||
@@ -2746,7 +2744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.288|runtime-display||
 |warpinator|1.6.3|1.8.5|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.06.17.00|app-utils||
+|watchman|4.9.0|2024.06.24.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
@@ -2811,9 +2809,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfce4-power-manager|4.18.3|4.18.4|desktop-xfce||
-|xfce4-screenshooter|1.10.5|1.10.6|desktop-xfce||
-|xfce4-session|4.18.3|4.18.4|desktop-xfce||
-|xfce4-settings|4.18.4|4.18.6|desktop-xfce||
 |xfe|1.46.1|1.46.2|app-utils||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
