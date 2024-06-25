@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719296245?label=Updated)
+![Relative date](https://img.shields.io/date/1719299659?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -90,7 +90,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
 |assimp|5.4.0|5.4.1|runtime-multimedia||
-|ast-grep|0.23.1|0.24.0|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
@@ -652,7 +651,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.134.0|lang-python||
 |google-auth|1.6.3|2.30.0|lang-python||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|google-chrome|126.0.6478.114|126.0.6478.126|app-web||
 |gpac|2.2.1|2.4.0|app-multimedia||
 |gperftools|2.13|2.15|app-devel||
 |gpodder|3.10.17|3.11.4|app-multimedia||
