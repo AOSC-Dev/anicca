@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719285320?label=Updated)
+![Relative date](https://img.shields.io/date/1719288959?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -244,7 +244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clzip|1.10|1.14|app-utils||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmocka|1.1.5|1.1.7|app-devel||
-|cmus|2.9.1|2.10.0|app-multimedia||
+|cmus|2.9.1|2.11.0|app-multimedia||
 |cock|0.6.0|0.11.0|lang-python||
 |cockpit|286.1|318|app-admin||
 |cockpit-machines|284.1|314|app-admin||
@@ -2289,7 +2289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.1|lang-python||
 |rest|0.8.1|0.9.1|runtime-web||
 |retext|7.2.2|8.0.2|app-editors||
-|rexml|3.2.5|3.3.0|lang-ruby||
+|rexml|3.2.5|3.3.1|lang-ruby||
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
