@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719292400?label=Updated)
+![Relative date](https://img.shields.io/date/1719296245?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -155,6 +155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
+|bpftrace|0.21.0|0.21.1|app-admin||
 |breeze|5.27.11|6.1.0|desktop-kde||
 |breeze-grub|5.27.11|6.1.0|desktop-kde||
 |breeze-gtk|5.27.11|6.1.0|desktop-kde||
@@ -200,7 +201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdemu-client|3.2.4|3.2.5|app-multimedia||
 |cdemu-daemon|3.2.4|3.2.6|app-multimedia||
 |cdrdao|1.2.4|1.2.5|app-multimedia||
-|celluloid|0.18|0.26|app-multimedia||
+|celluloid|0.18|0.27|app-multimedia||
 |cerberus|1.3.2|1.3.5|lang-python||
 |certbot-apache|2.10.0|2.11.0|app-web||
 |certbot-dns-cloudflare|2.10.0|2.11.0|app-web||
