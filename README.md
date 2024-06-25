@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719321287?label=Updated)
+![Relative date](https://img.shields.io/date/1719324774?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -298,7 +298,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.3|app-network||
 |dar|2.7.13|2.7.14|app-utils||
 |darkradiant|3.8.0|3.9.0|app-games||
-|darktable|4.6.1|4.8.0|app-creativity||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
 |dav1d|1.4.0|1.4.3|runtime-multimedia||
 |dblatex|0.3.12|1.1.14|app-doc||
@@ -551,7 +550,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network||
 |gexiv2|0.14.0|0.14.2|desktop-gnome||
 |gfm|1.07|1.08|app-devices||
-|gh|2.51.0|2.52.0|app-devel||
 |ghc|9.4.8|9.10.1-release|lang-haskell||
 |ghex|42.3|46.0|desktop-gnome||
 |ghidra|11.0|11.1.1_build|app-devel||
@@ -685,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-base-1-0+32|1.16.2|1.24.5|runtime-optenv32||
 |gst-plugins-good-1-0+32|1.16.2|1.24.5|runtime-optenv32||
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gstreamer|1.24.3|1.24.5|runtime-multimedia||
+|gstreamer|1.24.4|1.24.5|runtime-multimedia||
 |gstreamer-1-0+32|1.16.2|1.24.5|runtime-optenv32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs||
@@ -1752,7 +1750,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde||
 |okular|23.08.5|24.05.1|desktop-kde||
 |olefile|0.46|0.47|lang-python||
-|oma|1.3.18|1.12.13|app-admin||
+|oma|1.3.19|1.12.13|app-admin||
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|app-games||
@@ -2264,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|lang-python||
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
 |rdma-core|51.0|52.0|app-admin||
-|re2|20240501|2024-06-01|runtime-common|Possible downgrade from the current version (20240501 -> 2024-06-01)|
 |re2c|1.3|3.1|runtime-common||
 |readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
 |readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
@@ -2372,7 +2369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |service-identity|18.1.0|24.1.0|lang-python||
 |setuptools-python2|44.1.0|70.1.1|lang-python||
 |setuptools-python3|69.1.0|70.1.1|lang-python||
-|setuptools-rust|1.5.2|1.9.0|lang-python||
 |setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
@@ -2400,7 +2396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.05.1|desktop-kde||
 |skanpage|23.08.5|24.05.1|desktop-kde||
 |skktools|1.3.4|1_3_4|app-i18n||
-|slick-greeter|2.0.3|2.0.5|desktop-displaymanagers||
+|slick-greeter|2.0.4|2.0.5|desktop-displaymanagers||
 |slirp4netns|1.2.2|1.3.1|app-admin||
 |slock|1.4|1.5|app-utils||
 |slop|7.4|7.6|app-utils||
@@ -2527,7 +2523,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
 |tbb|2021.11.0|2021.12.0|runtime-common||
 |tbb+32|4.4u4|2021.12.0|runtime-optenv32||
-|tcl|8.6.10|8.6.14|lang-tcl||
 |tcl+32|8.6.10|8.6.14|runtime-optenv32||
 |tclap|1.2.2|1.2.5|runtime-common||
 |tcping|1.3.5|2.1.0|app-network||
@@ -2795,13 +2790,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-user-dirs|0.17|0.18|app-admin||
 |xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
 |xdg-utils|1.1.3|1.2.1|app-utils||
-|xdm|1.1.12|1.1.16|desktop-displaymanagers||
 |xerces-c|3.2.3|3.2.5|runtime-common||
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display||
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display||
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
-|xfce4-power-manager|4.18.3|4.18.4|desktop-xfce||
 |xfe|1.46.1|1.46.2|app-utils||
 |xine-ui|0.99.12|0.99.14|app-multimedia||
 |xinetd|2.3.15|2.3.15.4|app-network||
