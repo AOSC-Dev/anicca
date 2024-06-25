@@ -154,7 +154,7 @@
 ["onefetch","2.20.0","2.21.0","app-utils",1713432638,[]],
 ["eza","0.11.0","0.10.1","app-utils",1694075550,["Possible downgrade from the current version (0.11.0 -> 0.10.1)"]],
 ["udiskie","2.2.0","2.5.3","app-utils",1603858465,[]],
-["fakeroot","1.34","1.35","app-utils",1710565425,[]],
+["fakeroot","1.34","1.35.1","app-utils",1710565425,[]],
 ["mugshot","0.4.1","0.4.3","app-utils",1537076216,[]],
 ["msr-tools","20170320","1.3","app-utils",1616119704,["Possible downgrade from the current version (20170320 -> 1.3)"]],
 ["haveged","1.9.13","1.9.18","app-utils",1600708496,[]],
