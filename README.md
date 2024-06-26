@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719369103?label=Updated)
+![Relative date](https://img.shields.io/date/1719371706?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1810,6 +1810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|46.2|desktop-gnome||
 |os-prober|1.81|1.82|app-utils||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
+|osu-lazer|2024.523.0|2024.625.2|app-games||
 |oxygen|5.27.11|6.1.1|desktop-kde||
 |oxygen-icons|5.115.0|6.1.1|desktop-kde||
 |oxygen-sounds|5.25.3|6.1.1|desktop-kde||
@@ -2226,7 +2227,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|runtime-desktop||
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
 |qd|2.3.22|2.3.24|runtime-common||
-|qemu|9.0.0|9.0.1|app-virtualization||
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
 |qhull|7.2.0|8.0.2|app-scientific||
 |qjackctl|0.9.7|1.0.0|app-multimedia||
