@@ -1116,6 +1116,7 @@
 ["aalib","1.4rc5","1.2","runtime-multimedia",1678950872,["Possible downgrade from the current version (1.4rc5 -> 1.2)"]],
 ["libavif","0.11.1","1.0.4","runtime-multimedia",1714695455,[]],
 ["gsm","1.0.19","1.0.22","runtime-multimedia",1600577920,[]],
+["zvbi","0.2.35","0.2.42","runtime-multimedia",1678950872,[]],
 ["dav1d","1.4.0","1.4.3","runtime-multimedia",1708411664,[]],
 ["assimp","5.4.0","5.4.1","runtime-multimedia",1715927126,[]],
 ["mate-control-center","1.28.0","1.28.1","desktop-mate",1715609166,[]],
