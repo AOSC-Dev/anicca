@@ -2699,7 +2699,7 @@
 ["lxcfs","3.0.3","6.0.0","app-admin",1549304004,[]],
 ["mac-fdisk","0.1","0.1.orig","app-admin",1610962799,["Possible downgrade from the current version (0.1 -> 0.1.orig)"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
-["deploykit-gui","0.6.1","test-ci","app-admin",1719320313,["Versions not comparable: `0.6.1` and `test-ci`"]],
+["deploykit-gui","0.6.2","test-ci","app-admin",1719387123,["Versions not comparable: `0.6.2` and `test-ci`"]],
 ["flatpak","1.14.6","1.14.8","app-admin",1713504759,[]],
 ["udisks-2","2.8.4","2.10.1","app-admin",1565150292,[]],
 ["callaudiod","0.1.4","0.1.9","app-admin",1663210244,[]],
