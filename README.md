@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719411106?label=Updated)
+![Relative date](https://img.shields.io/date/1719414846?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -315,7 +315,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.44.4|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-backend|0.5.1|0.5.0|app-admin|Possible downgrade from the current version (0.5.1 -> 0.5.0)|
 |deploykit-gui|0.6.2|test-ci|app-admin|Versions not comparable: `0.6.2` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
 |dex|0.8.0|0.9.0|app-utils||
@@ -2059,7 +2058,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.1.1|desktop-kde||
 |plasmatube|23.08.5|24.05.1|desktop-kde||
 |platformdirs|2.5.2|4.2.2|lang-python||
-|plymouth-kcm|5.27.11|6.1.1|desktop-kde||
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils||
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
