@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719357233?label=Updated)
+![Relative date](https://img.shields.io/date/1719363003?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -54,6 +54,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity||
 |amtk|5.5.1|5.6.1|desktop-gnome||
 |analitza|23.08.5|24.05.1|desktop-kde||
+|android-udev|20240221|20240625|runtime-devices||
 |angelfish|23.08.5|24.05.1|desktop-kde||
 |annotated-types|0.6.0|0.7.0|lang-python||
 |ansible|2.12.1|2.17.1|app-admin||
@@ -151,7 +152,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
-|bpftrace|0.21.0|0.21.1|app-admin||
 |breeze|5.27.11|6.1.1|desktop-kde||
 |breeze-grub|5.27.11|6.1.1|desktop-kde||
 |breeze-gtk|5.27.11|6.1.1|desktop-kde||
@@ -652,6 +652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpodder|3.10.17|3.11.4|app-multimedia||
 |gpsd|3.18.1|3.25|app-scientific||
 |gpsim|0.31.0|0.32.1|app-electronics||
+|gptfdisk|1.0.9|1.0.10|app-admin||
 |gradle|8.3|8.8.0|lang-java||
 |granatier|23.08.5|24.05.1|desktop-kde||
 |grantlee-editor|23.08.5|24.05.1|desktop-kde||
@@ -1772,6 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.9.0|4.10.0|runtime-scientific||
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.1|app-network||
+|openimagedenoise|1.4.3|2.3.0|runtime-imaging||
 |openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
@@ -2130,6 +2132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaudio|0.2.11|0.2.14|lang-python||
 |pybind11|2.11.1|2.12.0|lang-python||
 |pycairo|1.18.2|1.26.1|lang-python||
+|pycodestyle|2.7.0|2.12.0|lang-python||
 |pycountry|18.12.8|24.6.1|lang-python||
 |pycparser|2.19|2.22|lang-python||
 |pycryptodome|3.7.3|3.20.0|lang-python||
