@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719497559?label=Updated)
+![Relative date](https://img.shields.io/date/1719501279?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -786,9 +786,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python||
 |iniparser|4.1|4.2.4|runtime-common||
 |inkscape|1.3.2|1_3_2|app-creativity||
-|intel-compute-runtime|24.17.29377.6|24.17.29377.8|runtime-scientific||
-|intel-gmmlib|22.3.19|22.3.20|runtime-devices||
-|intel-graphics-compiler|1.0.16695.4|1.0.16900.3|app-devel||
+|intel-compute-runtime|24.22.29735.20|24.17.29377.8|runtime-scientific|Possible downgrade from the current version (24.22.29735.20 -> 24.17.29377.8)|
+|intel-graphics-compiler|1.0.16900.23|1.0.16900.3|app-devel|Possible downgrade from the current version (1.0.16900.23 -> 1.0.16900.3)|
 |intel-media-driver|24.1.5|24.2.5|runtime-multimedia||
 |intel-oneapi-basekit|2024.1.0|2024.2.0|app-devel||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
