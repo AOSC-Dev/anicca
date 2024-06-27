@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719505054?label=Updated)
+![Relative date](https://img.shields.io/date/1719508467?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1157,6 +1157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.1.1|desktop-kde||
 |kwayland-integration|5.27.11|6.1.1|desktop-kde||
 |kweather|23.08.5|24.05.1|desktop-kde||
+|kweathercore|0.7|0.8.0|desktop-kde||
 |kwidgetsaddons|5.115.0|6.1.1|desktop-kde||
 |kwin|5.27.11|6.1.1|desktop-kde||
 |kwindowsystem|5.115.0|6.1.1|desktop-kde||
@@ -2538,6 +2539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeaddons|14.1.0|14.1.2|desktop-trinity||
 |tdeadmin|14.1.0|14.1.2|desktop-trinity||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
+|tdebase|14.1.0|14.1.2|desktop-trinity||
 |tdebindings|14.1.0|14.1.2|desktop-trinity||
 |tdedocker|14.1.0|14.1.2|desktop-trinity||
 |tdeedu|14.1.0|14.1.2|desktop-trinity||
@@ -2785,6 +2787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin||
 |xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome||
 |xdg-desktop-portal-kde|5.27.11|6.1.1|desktop-kde||
+|xdg-user-dirs|0.17|0.18|app-admin||
 |xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
 |xdg-utils|1.1.3|1.2.1|app-utils||
 |xerces-c|3.2.3|3.2.5|runtime-common||
