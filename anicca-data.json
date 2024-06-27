@@ -260,7 +260,6 @@
 ["libwebp+32","0.4.3","1.4.0","runtime-optenv32",1461475710,[]],
 ["alsa-lib+32","1.2.5.1","1.2.12","runtime-optenv32",1625223208,[]],
 ["alsa-plugins+32","1.2.7.1","1.2.12","runtime-optenv32",1673935824,[]],
-["elfutils+32","0.166","0.191","runtime-optenv32",1461460954,[]],
 ["poppler+32","0.66.0","24.06.1","runtime-optenv32",1461471548,[]],
 ["proxychains-ng+32","20161205","4.17","runtime-optenv32",1509982746,["Possible downgrade from the current version (20161205 -> 4.17)"]],
 ["libxml2+32","2.10.4","2.13.1","runtime-optenv32",1669533924,[]],
