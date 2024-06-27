@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719519265?label=Updated)
+![Relative date](https://img.shields.io/date/1719522851?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -697,7 +697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkwave|3.3.119|3.3.120|app-electronics||
 |gtranslator|42.0|46.1|desktop-gnome||
 |gucharmap|15.1.3|15.1.5|desktop-gnome||
-|guile|3.0.4|3.0.9|app-devel||
+|guile|3.0.4|3.0.10|app-devel||
 |gulp|4.0.0|5.0.0|lang-js||
 |gupnp|1.2.4|1.6.6|desktop-gnome||
 |gupnp-av|0.12.11|0.14.1|desktop-gnome||

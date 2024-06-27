@@ -444,7 +444,7 @@
 ["peg","0.1.18","0.1.20","app-devel",1699859032,[]],
 ["meson","1.4.0","1.4.1","app-devel",1713533343,[]],
 ["gtest","1.10.0+git20210513","1.14.0","app-devel",1621313528,["Compound version number '1.10.0+git20210513'","Version number indicates a snapshot (+git) is used"]],
-["guile","3.0.4","3.0.9","app-devel",1601267869,[]],
+["guile","3.0.4","3.0.10","app-devel",1601267869,[]],
 ["shaderc","2023.7","2024.1","app-devel",1700548607,[]],
 ["xsd","4.1.0~alpha11","4.0.0","app-devel",1614161812,["Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)"]],
 ["vc","1.4.4","1.4.5","app-devel",1704959753,[]],
