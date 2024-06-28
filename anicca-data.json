@@ -2143,7 +2143,6 @@
 ["bottle","0.12.18","0.12.25","lang-python",1581796620,[]],
 ["futures","3.2.0","3.4.0","lang-python",1530718722,[]],
 ["setuptools-python3","69.1.0","70.1.1","lang-python",1708685051,[]],
-["soupsieve","1.8.0","2.5","lang-python",1551387999,[]],
 ["google-api-python-client","1.7.11","2.134.0","lang-python",1581796621,[]],
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,[]],
 ["traitlets","5.0.5","5.14.3","lang-python",1612335230,[]],
