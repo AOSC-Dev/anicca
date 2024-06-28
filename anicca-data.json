@@ -1179,7 +1179,6 @@
 ["newt","0.52.23","0.52.24","runtime-common",1674452224,[]],
 ["libblkio","1.3.0","1.5.0","runtime-common",1693486148,[]],
 ["readline","8.2.1","8.2","runtime-common",1677713717,["Possible downgrade from the current version (8.2.1 -> 8.2)"]],
-["libxml2","2.10.4","2.13.1","runtime-common",1682178306,[]],
 ["concurrencykit","0.7.1","0.7.2","runtime-common",1665329558,[]],
 ["pcre2","10.43","10.44","runtime-common",1711896006,[]],
 ["utfcpp","3.2.1","4.0.5","runtime-common",1639826389,[]],
