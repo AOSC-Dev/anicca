@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719580596?label=Updated)
+![Relative date](https://img.shields.io/date/1719583961?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -171,7 +171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|runtime-imaging||
 |cairosvg|2.5.2|2.7.1|app-imaging||
 |calendarsupport|23.08.5|24.05.1|desktop-kde||
-|calibre|5.30.0|7.12.0|app-doc||
+|calibre|5.30.0|7.13.0|app-doc||
 |caligula|0.4.5|0.4.7|app-utils||
 |calindori|23.08.5|24.05.1|desktop-kde||
 |callaudiod|0.1.4|0.1.9|app-admin||
@@ -406,9 +406,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|runtime-optenv32||
 |eventviews|23.08.5|24.05.1|desktop-kde||
 |evince|42.3|46.3|desktop-gnome||
-|evolution|3.44.4|3.52.2|desktop-gnome||
-|evolution-data-server|3.44.4|3.52.2|desktop-gnome||
-|evolution-ews|3.42.0|3.52.2|desktop-gnome||
+|evolution|3.44.4|3.53.1|desktop-gnome||
+|evolution-data-server|3.44.4|3.52.3|desktop-gnome||
+|evolution-ews|3.42.0|3.53.1|desktop-gnome||
 |evtest|1.34|1.35|app-utils||
 |exempi|2.5.1|2.6.5|runtime-imaging||
 |exiv2|0.27.5|0.28.2|runtime-imaging||
@@ -1084,6 +1084,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpimtextedit|23.08.5|24.05.1|desktop-kde||
 |kpipewire|5.27.11|6.1.1|desktop-kde||
 |kpkpass|23.08.5|24.05.1|desktop-kde||
+|kplotting|5.115.0|6.1.1|desktop-kde||
 |kpmcore|23.08.5|24.05.1|desktop-kde||
 |kpty|5.115.0|6.1.1|desktop-kde||
 |kpublictransport|23.08.5|24.05.1|desktop-kde||
@@ -1730,8 +1731,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.0.0|lang-python||
 |nut|2.7.4|2.8.2|app-admin||
 |nvchecker|1.5|2.15.1|app-utils||
-|nvidia|550.54.14|555.52.04|runtime-display||
-|nvidia+32|0|555.52.04|runtime-optenv32||
+|nvidia|550.54.14|555.58|runtime-display||
+|nvidia+32|0|555.58|runtime-optenv32||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
