@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719641826?label=Updated)
+![Relative date](https://img.shields.io/date/1719645256?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -135,6 +135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |benchmark|1.8.2|1.8.4|runtime-common||
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
 |bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
+|black-hole-solver|1.10.1|1.12.0|runtime-games||
 |blender|4.0.2|4.1.1|app-creativity||
 |blinken|23.08.5|24.05.1|desktop-kde||
 |blinker|1.4|1.8.2|lang-python||
@@ -1654,6 +1655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python||
 |muparser|2.2.6.1|2.3.4|runtime-common||
 |mupdf|1.24.3|1.24.4|app-doc||
+|musescore|4.3.0|4.3.2|app-creativity||
 |mutter|42.4|46.2|desktop-gnome||
 |mxml|3.2|4.0.3|runtime-common||
 |mycli|1.23.2|1.27.2|app-database||
