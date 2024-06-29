@@ -1964,7 +1964,7 @@
 ["zxtune","5053","5061","app-multimedia",1700797896,[]],
 ["kodi","20.3","21.0","app-multimedia",1715758898,[]],
 ["streamlink","6.7.4","6.8.1","app-multimedia",1718473109,[]],
-["wireplumber","0.5.4","0.5.3","app-multimedia",1719538276,["Possible downgrade from the current version (0.5.4 -> 0.5.3)"]],
+["wireplumber","0.5.4","0.5.5","app-multimedia",1719538276,[]],
 ["handbrake","1.7.3","1.8.1","app-multimedia",1715609448,[]],
 ["cdemu-daemon","3.2.4","3.2.6","app-multimedia",1582652906,[]],
 ["wildmidi","0.4.3","0.4.6","app-multimedia",1549919967,[]],
