@@ -423,6 +423,7 @@
 ["gcc+cross-riscv64","12.1.0","14.1.0","app-devel",1671941047,[]],
 ["dtc","1.6.0","1.7.0","app-devel",1601267869,[]],
 ["avr-libc","2.0.0","2.1.0","app-devel",1634066043,[]],
+["mold","2.32.0","2.32.1","app-devel",1718243439,[]],
 ["avr-gcc","10.3.1+git20210510","14.1.0","app-devel",1634066043,["Compound version number '10.3.1+git20210510'","Version number indicates a snapshot (+git) is used"]],
 ["strace","6.5","6.9","app-devel",1701420059,[]],
 ["gdb+cross-mips64r6el","12.1","14.2","app-devel",1700797896,[]],
