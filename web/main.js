@@ -5,6 +5,7 @@ async function renderDataTable() {
   const data = await fetch(dataUrl).then((response) => response.json());
 
   const dataSet = data.map((row) => {
+    row[0] = `<a href="https://packages.aosc.io/packages/${row[0]}">${row[0]}</a>`;
     row[1] = row[1].replaceAll("+", "<br>+");
     return Object.values(row);
   });
