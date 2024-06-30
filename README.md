@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719721846?label=Updated)
+![Relative date](https://img.shields.io/date/1719724508?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1736,7 +1736,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|555.58|runtime-optenv32||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
-|ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-num|1.3|1.5|lang-ocaml||
 |ocaml-pp|1.1.2|1.2.0|lang-ocaml||
@@ -2541,7 +2540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeartwork|14.1.0|14.1.2|desktop-trinity||
 |tdebase|14.1.0|14.1.2|desktop-trinity||
 |tdebindings|14.1.0|14.1.2|desktop-trinity||
-|tdedocker|14.1.0|14.1.2|desktop-trinity||
 |tdeedu|14.1.0|14.1.2|desktop-trinity||
 |tdegames|14.1.0|14.1.2|desktop-trinity||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity||
