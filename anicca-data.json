@@ -1230,6 +1230,7 @@
 ["tl-expected","1.0.0","1.1.0","runtime-common",1581486077,[]],
 ["sratom","0.6.4","0.6.16","runtime-common",1577431785,[]],
 ["boost","1.83.0","1.85.0","runtime-common",1700797896,[]],
+["lzlib","1.11","1.14","runtime-common",1570905164,[]],
 ["libunwind","1.6.2","1.8.1","runtime-common",1641887332,[]],
 ["popt","1.18","1.19","runtime-common",1600846258,[]],
 ["gc","8.2.6","8.2.4","runtime-common",1633494610,["Possible downgrade from the current version (8.2.6 -> 8.2.4)"]],
