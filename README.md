@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719717421?label=Updated)
+![Relative date](https://img.shields.io/date/1719720997?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -537,6 +537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|app-devel||
 |geany-plugins|2.0|2.0.0|app-devel||
+|geary|40.0|46.0|desktop-gnome||
 |gedit|42.2|47.0|desktop-gnome||
 |gedit-plugins|42.1|47.1|desktop-gnome||
 |gegl-0.4|0.4.48|0_4_48|runtime-imaging||
@@ -1205,7 +1206,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap-ng|0.7.11|0.8.5|runtime-common||
 |libcarddav|14.1.0|14.1.2|desktop-trinity||
 |libcbor|0.8.0|0.11.0|runtime-common||
-|libcdio+32|0.94|2.1.0|runtime-optenv32||
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
 |libcdr|0.1.6|0.1.7|runtime-imaging||
 |libcgroup|2.0|3.1.0|app-admin||
@@ -1509,6 +1509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common||
 |logrotate|3.21.0|3.22.0|app-admin||
+|loguru|0.5.3|0.7.2|lang-python||
 |lokalize|23.08.5|24.05.1|desktop-kde||
 |loudmouth|1.5.3|1.5.4|runtime-web||
 |lowdown|1.1.0|1_1_0|app-doc||
