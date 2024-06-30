@@ -20,7 +20,7 @@ async function renderDataTable() {
         title: "Repo Date",
         render: (data, type, row) =>
           type === "display"
-            ? (new Date(data * 1000)).toLocaleDateString()
+            ? new Date(data * 1000).toLocaleDateString()
             : data,
       },
       { title: "Warnings" },
