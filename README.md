@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719702897?label=Updated)
+![Relative date](https://img.shields.io/date/1719708909?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2759,6 +2759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wireplumber|0.5.4|0.5.5|app-multimedia||
+|wlroots|0.17.3|0.17.4|runtime-display||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
