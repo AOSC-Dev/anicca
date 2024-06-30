@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719738883?label=Updated)
+![Relative date](https://img.shields.io/date/1719742615?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -598,7 +598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
 |gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
-|gnome-control-center|42.3|46.2|desktop-gnome||
+|gnome-control-center|42.3|46.3|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
 |gnome-disk-utility|42.0|46.0|desktop-gnome||
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome||
@@ -612,14 +612,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-online-accounts|3.44.0|3.50.2|desktop-gnome||
 |gnome-packagekit|3.32.0|43.0|desktop-gnome||
 |gnome-panel|3.44.0|3.52.0|desktop-gnome||
-|gnome-remote-desktop|42.4|46.2|desktop-gnome||
+|gnome-remote-desktop|42.4|46.3|desktop-gnome||
 |gnome-session|42.0|46.0|desktop-gnome||
 |gnome-settings-daemon|42.2|46.0|desktop-gnome||
-|gnome-shell|42.4|46.2|desktop-gnome||
+|gnome-shell|42.4|46.3.1|desktop-gnome||
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome||
 |gnome-shell-extensions|42.3|46.2|desktop-gnome||
-|gnome-software|42.4|46.2|desktop-gnome||
-|gnome-sudoku|42.0|46.2|desktop-gnome||
+|gnome-software|42.4|46.3|desktop-gnome||
+|gnome-sudoku|42.0|46.3|desktop-gnome||
 |gnome-system-monitor|42.0|46.0|desktop-gnome||
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome||
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome||
