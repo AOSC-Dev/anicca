@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719818017?label=Updated)
+![Relative date](https://img.shields.io/date/1719821858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1312,7 +1312,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.1.1|desktop-kde||
 |libktorrent|23.08.5|24.05.1|desktop-kde||
 |liblangtag|0.6.3|0.6.7|runtime-i18n||
-|libliftoff|0.4.1|0.5.0|runtime-display||
 |liblo|0.29|0.32|runtime-multimedia||
 |liblouis|3.12.0|3.30.0|runtime-a11y||
 |libltc|1.3.1|1.3.2|runtime-multimedia||
@@ -2758,8 +2757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9|9.11|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
-|wireplumber|0.5.4|0.5.5|app-multimedia||
-|wlroots|0.17.3|0.17.4|runtime-display||
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web||
