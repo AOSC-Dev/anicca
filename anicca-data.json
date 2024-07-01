@@ -1256,6 +1256,7 @@
 ["hysteria","2.4.0","2.4.5","app-network",1713432607,[]],
 ["spamassassin","3.4.6","4.0.1","app-network",1620896491,[]],
 ["realmd","0.17.1","0.16.3","app-network",1678351353,["Possible downgrade from the current version (0.17.1 -> 0.16.3)"]],
+["openssh","9.7p1","9.8p1","app-network",1714553494,[]],
 ["bind","9.18.24","9.16.33","app-network",1709998421,["Possible downgrade from the current version (9.18.24 -> 9.16.33)"]],
 ["lksctp-tools","1.0.17","1.0.19","app-network",1469677898,[]],
 ["networkmanager-vpnc","1.2.6","1.2.8","app-network",1533440457,[]],
