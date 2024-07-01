@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719843179?label=Updated)
+![Relative date](https://img.shields.io/date/1719846951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -182,7 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
-|cargo-c|0.9.24|0.10.0+cargo-0.80.0|lang-rust||
+|cargo-c|0.9.24|0.10.2|lang-rust||
 |cargo-release|0.24.11|0.25.10|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
@@ -734,7 +734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|lang-python||
 |html5-parser|0.4.9|0.4.12|lang-python||
 |htslib|1.16|1.20|app-scientific||
-|httpd|2.4.58|2.4.59|app-web||
+|httpd|2.4.58|2.4.60|app-web||
 |httplib2|0.19.0|0.22.0|lang-python||
 |httrack|3.49.2|3.49.5|app-web||
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
@@ -1437,7 +1437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
 |libva-utils|2.21.0|2.22.0|app-utils||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
-|libvirt|10.2.0|10.4.0|app-virtualization||
+|libvirt|10.2.0|10.5.0|app-virtualization||
 |libvirt-python|10.1.0|10.4.0|runtime-virtualization||
 |libvisual|0.4.0|0.4.2|runtime-multimedia||
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32||
