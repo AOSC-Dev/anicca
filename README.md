@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719915242?label=Updated)
+![Relative date](https://img.shields.io/date/1719918752?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -453,7 +453,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|lang-ocaml||
 |findutils|4.9.0|4.10.0|app-utils||
 |fio|3.35|3.37|app-utils||
-|firefox|127.0|127.0.2|app-web||
 |firewalld|2.0.0|2.1.2|app-network||
 |flac|1.3.3|1.4.3|app-multimedia||
 |flac+32|1.3.3|1.4.3|runtime-optenv32||
@@ -709,7 +708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.05.1|desktop-kde||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
 |gzdoom|4.6.1|4.12.2|app-games||
-|handbrake|1.7.3|1.8.1|app-multimedia||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|runtime-desktop||
 |harfbuzz+32|2.6.7|8.5.0|runtime-optenv32||
@@ -2372,7 +2370,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin||
 |shaderc|2023.7|2024.1|app-devel||
 |shadow|4.15.1|4.16.0|app-admin||
-|shadowsocks-rust|1.18.4|1.20.1|app-network||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
@@ -2590,7 +2587,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.0.12|app-admin||
 |threadweaver|5.115.0|6.1.1|desktop-kde||
 |thunderbird|115.5.2|127.0|app-web||
-|tig|2.4.1|2.5.10|app-utils||
 |tigervnc|1.12.0|1.13.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python||
 |tilda|1.4.1|2.0.0|app-utils||
@@ -2711,7 +2707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkd3d|1.9|1.12|runtime-display||
 |vkd3d+32|1.9|1.12|runtime-optenv32||
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
-|vlc|3.0.20|3.0.21|app-multimedia||
 |vmpk|0.8.0|0.9.0|app-creativity||
 |vnstat|2.4|2.12|app-network||
 |volk|2.5.0|3.1.2|runtime-common||
