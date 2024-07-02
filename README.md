@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719944292?label=Updated)
+![Relative date](https://img.shields.io/date/1719947717?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1287,6 +1287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkcddb|23.08.5|24.05.1|desktop-kde||
 |libkcompactdisc|23.08.5|24.05.1|desktop-kde||
 |libkdcraw|23.08.5|24.05.1|desktop-kde||
+|libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkdegames|23.08.5|24.05.1|desktop-kde||
 |libkdepim|23.08.5|24.05.1|desktop-kde||
 |libkeduvocdocument|23.08.5|24.05.1|desktop-kde||
@@ -2280,6 +2281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
+|rinutils|0.4.1|0.10.2|runtime-common||
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|runtime-common||
 |rng-tools|6.16|6.17|app-utils||
