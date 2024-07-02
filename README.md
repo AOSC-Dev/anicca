@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719937009?label=Updated)
+![Relative date](https://img.shields.io/date/1719940458?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1183,7 +1183,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaio|0.3.111|0.3.113|runtime-common||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
-|libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||

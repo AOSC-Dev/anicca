@@ -1469,7 +1469,6 @@
 ["libnotify","0.7.9","0.8.3","runtime-desktop",1587074916,[]],
 ["freetype","2.12.1","2.13.2","runtime-desktop",1663359140,[]],
 ["qcef","1.1.6","1.1.8","runtime-desktop",1603226575,[]],
-["libappimage","1.0.4+5","1.0.4-5","runtime-desktop",1663359141,["Compound version number '1.0.4+5'"]],
 ["libportal","0.6","0.7.1","runtime-desktop",1663210210,[]],
 ["xdg-dbus-proxy","0.1.2","0.1.5","runtime-desktop",1573326951,[]],
 ["pangomm","2.46.3","2.52.0","runtime-desktop",1663210250,[]],
