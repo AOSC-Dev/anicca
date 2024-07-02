@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719940458?label=Updated)
+![Relative date](https://img.shields.io/date/1719944292?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -238,6 +238,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.7|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils||
+|cmake|3.29.6|3.30.0|app-devel||
 |cmark|0.30.3|0.31.0|runtime-doc||
 |cmocka|1.1.5|1.1.7|app-devel||
 |cmus|2.9.1|2.11.0|app-multimedia||
@@ -1183,6 +1184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaio|0.3.111|0.3.113|runtime-common||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32||
 |libantlr3c|3.4|4.13.1|runtime-common||
+|libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity||
 |libass+32|0.15.1|0.17.2|runtime-optenv32||
@@ -1285,7 +1287,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkcddb|23.08.5|24.05.1|desktop-kde||
 |libkcompactdisc|23.08.5|24.05.1|desktop-kde||
 |libkdcraw|23.08.5|24.05.1|desktop-kde||
-|libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity||
 |libkdegames|23.08.5|24.05.1|desktop-kde||
 |libkdepim|23.08.5|24.05.1|desktop-kde||
 |libkeduvocdocument|23.08.5|24.05.1|desktop-kde||
@@ -2011,6 +2012,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl||
 |pexpect|4.8.0|4.9.0|lang-python||
 |pgxnclient|1.3.1|1.3.2|app-database||
+|php|8.3.8|8.3.9|app-devel||
 |physfs|3.0.2|3.2.0|runtime-common||
 |picard|2.8.5|2.11|app-multimedia||
 |picmi|23.08.5|24.05.1|desktop-kde||
@@ -2278,7 +2280,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rfc3986|1.4.0|2.0.0|lang-python||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
-|rinutils|0.4.1|0.10.2|runtime-common||
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|runtime-common||
 |rng-tools|6.16|6.17|app-utils||
