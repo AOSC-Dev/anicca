@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719881425?label=Updated)
+![Relative date](https://img.shields.io/date/1719885812?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -769,7 +769,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.12|runtime-scientific||
 |igv|2.15.1|2.16.2|app-scientific||
-|iio-sensor-proxy|3.4|3.5|app-utils||
 |imagemagick|6.9.13<br>+7|6.9.13-12|app-utils|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.1<br>+32|7.1.1-34|app-utils|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|lang-python||
@@ -1143,7 +1142,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktuberling|23.08.5|24.05.1|desktop-kde||
 |kturtle|23.08.5|24.05.1|desktop-kde||
 |kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
-|kubrick|23.08.5|24.05.1|desktop-kde||
 |kunitconversion|5.115.0|6.1.1|desktop-kde||
 |kvantum|1.0.10|1.1.2|desktop-kde||
 |kvirc|5.0.0|5.2.4|app-web||
@@ -1464,7 +1462,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcb+32|1.13|1.17.0|runtime-optenv32||
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
-|libxml++|2.40.1|5.2.0|runtime-common||
 |libxml2|2.10.4|2.13.1|runtime-common||
 |libxml2+32|2.10.4|2.13.1|runtime-optenv32||
 |libxmlb|0.3.15|0.3.19|runtime-common||
@@ -2402,7 +2399,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity||
 |smartdns|35|46|app-network||
 |smartmontools|7.3|7.4|app-admin||
-|smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs||
 |smpeg|0.4.5|2_0_0|app-multimedia||
 |smpeg+32|0.4.5|2_0_0|runtime-optenv32||
@@ -2845,7 +2841,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zig|0.12.0|0.13.0|lang-ziglang||
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia||
-|zlib-static|1.2.12|1.3.1|runtime-common||
 |zmusic|1.1.8|1.1.13|app-games||
 |znc|1.8.2|1.9.0|app-web||
 |zola|0.18.0|0.19.1|app-web||
