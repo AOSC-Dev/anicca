@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719958367?label=Updated)
+![Relative date](https://img.shields.io/date/1719962075?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -144,7 +144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-qt|5.115.0|6.1.1|desktop-kde||
 |bomber|23.08.5|24.05.1|desktop-kde||
 |boost|1.83.0|1.85.0|runtime-common||
-|boost+32|1.63.0|1.85.0|runtime-optenv32||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
 |boto3|1.20.26|1.34.133|lang-python||
@@ -1672,6 +1671,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific||
 |ncdu|1.16|2.4|app-utils||
 |ncompress|4.2.4.6|5.0|app-utils||
+|ncurses|6.4|6.5-20240629|runtime-common||
+|ncurses+32|6.4|6.5-20240629|runtime-optenv32||
 |ndctl|72|79|app-admin||
 |neatvnc|0.7.1|0.8.0|runtime-network||
 |nemo|5.8.3|6.2.1|desktop-cinnamon||
