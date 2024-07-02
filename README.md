@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719890042?label=Updated)
+![Relative date](https://img.shields.io/date/1719893800?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -947,7 +947,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|app-utils||
 |keepassxc|2.6.6|2.7.9|app-utils||
 |kemoticons|5.115.0|6.1.1|desktop-kde||
-|kernel-tools|6.9.3|5.19.17|app-admin|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
+|kernel-tools|6.9.7|5.19.17|app-admin|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
 |keyring|21.7.0|25.2.1|lang-python||
 |keysmith|23.08.5|24.05.1|desktop-kde||
@@ -1485,14 +1485,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|app-i18n||
 |linux+api|6.7.12|5.19.17|core-devel|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
+|linux+kernel|6.9.7|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
 |linux+kernel+lts|6.6.31|5.10.220|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.220)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
 |linux+kernel+retro|5.10.132|5.10.220|runtime-kernel||
 |linux+kernel+retro+minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
 |linux-firmware|20240506|20240610|runtime-kernel||
-|linux-kernel|6.9.3|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.3 -> 5.19.17)|
+|linux-kernel|6.9.7|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.220|runtime-kernel||
 |linux-kernel-retro-minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
