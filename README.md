@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720041204?label=Updated)
+![Relative date](https://img.shields.io/date/1720044794?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1878,8 +1878,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |peewee|3.17.1|3.17.5|lang-python||
 |peg|0.1.18|0.1.20|app-devel||
 |pep517|0.12.0|0.13.1|lang-python||
-|perl|5.36.3|5.41.0|lang-perl||
-|perl+32|999|5.41.0|runtime-optenv32|Possible downgrade from the current version (999 -> 5.41.0)|
+|perl|5.36.3|5.41.1|lang-perl||
+|perl+32|999|5.41.1|runtime-optenv32|Possible downgrade from the current version (999 -> 5.41.1)|
 |perl-alien-build|1.92|2.83|lang-perl||
 |perl-alien-libxml2|0.11|0.19|lang-perl||
 |perl-anyevent|7.14|7.17|lang-perl||
@@ -2845,7 +2845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compound version number '0.4.8+2'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.42|app-electronics||
 |you-get|0.4.1700|0.4.1710|app-multimedia||
-|ytmusicapi|1.7.2|1.7.3|lang-python||
+|ytmusicapi|1.7.2|1.7.4|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
 |yubikey-manager|4.0.1|5.5.1|app-devices||
