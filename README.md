@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720019639?label=Updated)
+![Relative date](https://img.shields.io/date/1720023453?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1546,7 +1546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lsof|4.98.0|4.99.3|app-utils||
 |ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|runtime-common||
-|lua-expat|1.4.1|1.5.1|lang-lua||
+|lua-expat|1.4.1|1.5.2|lang-lua||
 |lua-messagepack|0.5.1|0.5.4|lang-lua||
 |luafilesystem|1.7.0.2|1_8_0|lang-lua||
 |luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
@@ -1555,8 +1555,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.14|app-utils||
 |lutris|0.5.11|0.5.17|app-games||
 |lvm2|2.03.14|2.03.24|app-admin||
-|lxc|5.0.2|6.0.0|app-admin||
-|lxcfs|3.0.3|6.0.0|app-admin||
+|lxc|5.0.2|6.0.1|app-admin||
+|lxcfs|3.0.3|6.0.1|app-admin||
 |lxgwcleargothic-font|0.300.4|0.320|desktop-fonts||
 |lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts||
 |lxml|4.7.1|4.9.1|lang-python||
@@ -2350,7 +2350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |runc|1.1.12|1.1.13|app-admin||
 |rustc-demangle|0.1.21|0.1.24|runtime-common||
 |rxvt-unicode|9.22|9.31|runtime-display||
-|rygel|0.40.4|0.42.6|desktop-gnome||
+|rygel|0.40.4|0.43.0|desktop-gnome||
 |s-tui|1.1.3|1.1.6|app-utils||
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|runtime-optenv32|Possible downgrade from the current version (20150112 -> 1.0)|
@@ -2363,6 +2363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
+|sbcl|2.4.5|2.4.6|lang-lisp||
 |sbsigntool|0.9.4|0.9.5|app-admin||
 |sccache|0.3.3|0.8.1|app-devel||
 |scdoc|1.11.2|1.11.3|app-doc||
@@ -2392,8 +2393,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network||
 |serf|1.3.9|1.3.10|runtime-web||
 |service-identity|18.1.0|24.1.0|lang-python||
-|setuptools-python2|44.1.0|70.1.1|lang-python||
-|setuptools-python3|69.1.0|70.1.1|lang-python||
+|setuptools-python2|44.1.0|70.2.0|lang-python||
+|setuptools-python3|69.1.0|70.2.0|lang-python||
 |setuptools-scm|7.1.0|8.1.0|lang-python||
 |sfml|2.5.1|2.6.1|runtime-multimedia||
 |sg3-utils|1.47r915|1.48|app-admin||
@@ -2402,7 +2403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
 |shotcut|21.08.11|24.06.02|app-creativity||
-|shotwell|0.31.4|0.32.6|desktop-gnome||
+|shotwell|0.31.4|0.32.7|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
 |shutter|0.94|0.99.2|app-utils||
 |siege|4.0.7|4.1.6|app-network||
@@ -2519,7 +2520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.12|2.5.60.0|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
 |svgpart|23.08.5|24.05.1|desktop-kde||
-|svt-av1|2.1.0|2.1.1|runtime-multimedia||
+|svt-av1|2.1.0|2.1.2|runtime-multimedia||
 |sweeper|23.08.5|24.05.1|desktop-kde||
 |swell-foop|41.1|46.0|desktop-gnome||
 |swig|4.1.1|4.2.1|app-devel||
@@ -2655,7 +2656,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
 |trio|0.24.0|0.25.1|lang-python||
 |trollius|2.1|2.2.1|lang-python||
-|trove-classifiers|2024.1.31|2024.5.22|lang-python||
+|trove-classifiers|2024.1.31|2024.7.2|lang-python||
 |tslib|1.21|1.23|runtime-devices||
 |ttf-misaki|2021.05.05|2021-05-05|desktop-fonts||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
@@ -2673,7 +2674,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typed-ast|1.4.3|1.5.5|lang-python||
 |typing-extensions|4.7.1|4.12.2|lang-python||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
-|uboot-tools|2022.10|2024.04|app-utils||
+|uboot-tools|2022.10|2024.07|app-utils||
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
 |uchardet|0.0.5|0.0.8|runtime-i18n||
 |ucx|1.15.0|1.17.0|runtime-scientific||
@@ -2704,7 +2705,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uritemplate|3.0.1|4.1.1|lang-python||
 |urlgrabber|3.10.2|4.1.0|lang-python||
 |urllib3|2.2.1|2.2.2|lang-python||
-|urwid|2.1.2|2.6.14|lang-python||
+|urwid|2.1.2|2.6.15|lang-python||
 |usb-modeswitch|2.6.0|2.6.1|app-utils||
 |usbredir|0.8.0|0.14.0|runtime-devices||
 |utfcpp|3.2.1|4.0.5|runtime-common||
@@ -2745,6 +2746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
+|vtk|9.3.0|9.3.1|app-scientific||
 |vulkan-extensionlayer|1.3.280.0|1.3.288|runtime-display||
 |vulkan-headers|1.3.280.0|1.3.288|runtime-display||
 |vulkan-headers+32|1.3.272|1.3.288|runtime-optenv32||
@@ -2779,7 +2781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi|0.4.3|0.4.6|app-multimedia||
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.9|9.11|app-emulation||
+|wine|9.9|9.12|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
@@ -2855,7 +2857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ytmusicapi|1.7.2|1.7.3|lang-python||
 |yubico-pam|2.26|2.27|app-devices||
 |yubico-piv-tool|2.3.1|2.5.2|app-devices||
-|yubikey-manager|4.0.1|5.4.0|app-devices||
+|yubikey-manager|4.0.1|5.5.1|app-devices||
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices||
 |yubioath-desktop|5.1.0|7.0.1|app-devices||
 |yuzu|1582|1732|app-games||
