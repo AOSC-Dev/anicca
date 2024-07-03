@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720009375?label=Updated)
+![Relative date](https://img.shields.io/date/1720012631?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -311,7 +311,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debianutils|5.7|5.19|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|46.1|desktop-gnome||
-|dejavu-fonts|2.37|2_37|desktop-fonts||
 |deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.44.4|lang-js||
 |dephell-specifier|0.2.2|0.3.0|lang-python||
@@ -910,6 +909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeconnect|23.08.5|24.05.1|desktop-kde||
 |kdecoration|5.27.11|6.1.1|desktop-kde||
 |kded|5.115.0|6.1.1|desktop-kde||
+|kdeedu-data|23.08.5|24.05.1|desktop-kde||
 |kdegraphics-mobipocket|23.08.5|24.05.1|desktop-kde||
 |kdegraphics-thumbnailers|23.08.5|24.05.1|desktop-kde||
 |kdelibs4support|5.115.0|6.1.1|desktop-kde||
@@ -1020,6 +1020,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmail-account-wizard|23.08.5|24.05.1|desktop-kde||
 |kmailtransport|23.08.5|24.05.1|desktop-kde||
 |kmbox|23.08.5|24.05.1|desktop-kde||
+|kmediaplayer|5.115.0|6.1.1|desktop-kde||
 |kmenuedit|5.27.11|6.1.1|desktop-kde||
 |kmime|23.08.5|24.05.1|desktop-kde||
 |kmines|23.08.5|24.05.1|desktop-kde||
@@ -1424,6 +1425,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libunwind|1.6.2|1.8.1|runtime-common||
 |libupnp|1.14.16|1.14.19|runtime-network||
 |libusb|1.0.23|1.0.27|runtime-devices||
+|libusb+32|1.0.23|1.0.27|runtime-optenv32||
 |libusb-compat|0.1.5|0.1.8|runtime-devices||
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
@@ -1731,7 +1733,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia|550.54.14|555.58|runtime-display||
 |nvidia+32|0|555.58|runtime-optenv32||
 |ocaml|4.14.2|5.2.0|lang-ocaml||
-|ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
 |ocaml-num|1.3|1.5|lang-ocaml||
@@ -2294,7 +2295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
 |rosegarden|20.12|24.06|app-creativity||
 |rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
-|rpcsvc-proto|1.4.2|1.4.4|app-devel||
 |rpm|4.18.0|4.19.1.1-release|app-admin||
 |rrdtool|1.7.2|1.8.0|runtime-common||
 |rsa|4.0|4.9|lang-python||
@@ -2515,6 +2515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
 |targetcli-fb|2.1.54|2.1.58|app-admin||
+|tarsnap|1.0.39|1.0.40|app-admin||
 |tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
 |tbb|2021.11.0|2021.12.0|runtime-common||
 |tbb+32|4.4u4|2021.12.0|runtime-optenv32||
@@ -2847,7 +2848,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|lang-python||
 |zope-interface|5.4.0|6.4.post2|lang-python||
 |zotero|6.0.26|6.0.37|app-productivity||
-|zshdb|1.1.3|1.1.4|app-shells||
 |zutils|1.7|1.13|app-utils||
 |zvbi|0.2.35|0.2.42|runtime-multimedia||
 |zxing-cpp|1.4.0|2.2.1|app-utils||
