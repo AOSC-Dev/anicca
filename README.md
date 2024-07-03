@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720005301?label=Updated)
+![Relative date](https://img.shields.io/date/1720009375?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -476,6 +476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
 |fonttools|4.47.2|4.53.0|desktop-fonts||
 |foolscap|0.13.2|23.11.0|lang-python||
+|fortune-mod|3.6.1|3.20.0|app-games||
 |fping|5.1|5.2|app-network||
 |fprintd|1.94.2|1.94.3|app-admin||
 |fractal|7.0|7|desktop-gnome||
@@ -527,7 +528,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-amd64|8.2|14.2|app-devel||
 |gdb+cross-arm64|12.1|14.2|app-devel||
 |gdb+cross-mips64r6el|12.1|14.2|app-devel||
-|gdbm+32|1.11|1.23|runtime-optenv32||
+|gdbm|1.23|1.24|app-database||
+|gdbm+32|1.11|1.24|runtime-optenv32||
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
 |gdm|42.0|46.2|desktop-gnome||
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
@@ -593,6 +595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-chess|42.1|46.0|desktop-gnome||
 |gnome-clocks|42.0|46.0|desktop-gnome||
 |gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
+|gnome-connections|42.1.2|46.0|desktop-gnome||
 |gnome-contacts|42.0|46.0|desktop-gnome||
 |gnome-control-center|42.3|46.3|desktop-gnome||
 |gnome-desktop|42.4|44.0|desktop-gnome||
@@ -907,7 +910,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeconnect|23.08.5|24.05.1|desktop-kde||
 |kdecoration|5.27.11|6.1.1|desktop-kde||
 |kded|5.115.0|6.1.1|desktop-kde||
-|kdeedu-data|23.08.5|24.05.1|desktop-kde||
 |kdegraphics-mobipocket|23.08.5|24.05.1|desktop-kde||
 |kdegraphics-thumbnailers|23.08.5|24.05.1|desktop-kde||
 |kdelibs4support|5.115.0|6.1.1|desktop-kde||
@@ -1018,7 +1020,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmail-account-wizard|23.08.5|24.05.1|desktop-kde||
 |kmailtransport|23.08.5|24.05.1|desktop-kde||
 |kmbox|23.08.5|24.05.1|desktop-kde||
-|kmediaplayer|5.115.0|6.1.1|desktop-kde||
 |kmenuedit|5.27.11|6.1.1|desktop-kde||
 |kmime|23.08.5|24.05.1|desktop-kde||
 |kmines|23.08.5|24.05.1|desktop-kde||
@@ -1423,7 +1424,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libunwind|1.6.2|1.8.1|runtime-common||
 |libupnp|1.14.16|1.14.19|runtime-network||
 |libusb|1.0.23|1.0.27|runtime-devices||
-|libusb+32|1.0.23|1.0.27|runtime-optenv32||
 |libusb-compat|0.1.5|0.1.8|runtime-devices||
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
@@ -1524,6 +1524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |luarocks|3.5.0|3.11.1|lang-lua||
 |lucene++|3.0.8|3.0.9|runtime-common||
 |lunzip|1.10|1.14|app-utils||
+|lutris|0.5.11|0.5.17|app-games||
 |lvm2|2.03.14|2.03.24|app-admin||
 |lxc|5.0.2|6.0.0|app-admin||
 |lxcfs|3.0.3|6.0.0|app-admin||
@@ -1564,6 +1565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-control-center|1.28.0|1.28.1|desktop-mate||
 |mate-panel|1.28.1|1.28.2|desktop-mate||
 |materialx|1.38.8|1.38.10|runtime-creativity||
+|mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
 |matplotlib|3.8.0|3.9.0|lang-python||
 |maturin|1.4.0|1.6.0|lang-python||
@@ -1772,6 +1774,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
+|openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
 |openldap|2.6.7|2_6_8|app-admin||
 |openldap+32|2.4.59|2_6_8|runtime-optenv32||
 |openmpi|4.1.6|5.0.3|app-scientific||
@@ -2085,6 +2088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powershell|7.4.2|7.4.3|app-shells||
 |poxml|23.08.5|24.05.1|desktop-kde||
 |ppp|2.4.9|2.5.0|app-network||
+|precis-i18n|1.0.3|1.1.0|lang-python||
 |premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.7.0|app-productivity||
 |prettytable|0.7.2|3.10.0|lang-python||
@@ -2511,7 +2515,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
 |targetcli-fb|2.1.54|2.1.58|app-admin||
-|tarsnap|1.0.39|1.0.40|app-admin||
 |tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
 |tbb|2021.11.0|2021.12.0|runtime-common||
 |tbb+32|4.4u4|2021.12.0|runtime-optenv32||
