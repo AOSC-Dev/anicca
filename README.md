@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720030550?label=Updated)
+![Relative date](https://img.shields.io/date/1720033871?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1703,7 +1703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses+32|6.4|6.5-20240629|runtime-optenv32||
 |ndctl|72|79|app-admin||
 |neatvnc|0.7.1|0.8.0|runtime-network||
-|nemo|5.8.3|6.2.1|desktop-cinnamon||
+|nemo|5.8.3|6.2.2|desktop-cinnamon||
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon||
 |neochat|23.08.5|24.05.1|desktop-kde||
 |neomutt|20200619|20240425|app-web||
@@ -1743,7 +1743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.5|app-utils||
 |normaliz|3.6.3|3.10.3|app-scientific||
 |notmuch|0.34|0.38.3|app-web||
-|noto-fonts|24.1.1|24.6.1|desktop-fonts||
+|noto-fonts|24.1.1|24.7.1|desktop-fonts||
 |npth|1.6|1.7|runtime-common||
 |nsd|4.7.0|4_10_0_REL|app-network||
 |nsgenbind|0.8|0.9|app-devel||
