@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720023453?label=Updated)
+![Relative date](https://img.shields.io/date/1720026743?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1341,7 +1341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.7|runtime-devices||
 |libmaxminddb|1.4.3|1.10.0|runtime-web||
 |libmediaart|1.9.4|1.9.6|runtime-multimedia||
-|libmediainfo|22.06|24.05|runtime-multimedia||
+|libmediainfo|22.06|24.06|runtime-multimedia||
 |libmicrohttpd|0.9.71|1.0.1|runtime-web||
 |libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32||
 |libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia||
@@ -1562,6 +1562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
+|ly|0.6.0|1.0.0|desktop-displaymanagers||
 |lynx|2.9.0|2.9.2|app-web||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
@@ -1610,22 +1611,23 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdbook|0.4.14|0.4.40|app-doc||
 |mdds|2.0.2|2.1.1|runtime-productivity||
 |mechanize|0.4.5|0.4.10|lang-python||
-|mediainfo|22.06|24.05|app-multimedia||
+|mediainfo|22.06|24.06|app-multimedia||
 |meld|3.21.3|3.22.2|desktop-gnome||
 |melonds|0.9.2|0.9.5|app-games||
-|memcached|1.6.27|1.6.28|app-admin||
+|memcached|1.6.27|1.6.29|app-admin||
 |menumaker|0.99.12|0.99.14|app-utils||
 |mercurial|6.7.3|6.7.4|app-vcs||
 |merkuro|23.08.5|24.05.1|desktop-kde||
-|mesa|24.0.7|24.1.2|runtime-display||
-|mesa+32|22.1.7|24.1.2|runtime-optenv32||
-|mesa-amber|21.3.9|24.1.2|runtime-display||
+|mesa|24.0.7|24.1.3|runtime-display||
+|mesa+32|22.1.7|24.1.3|runtime-optenv32||
+|mesa-amber|21.3.9|24.1.3|runtime-display||
 |meson|1.4.0|1.4.1|app-devel||
 |messagelib|23.08.5|24.05.1|desktop-kde||
 |metacity|3.44.0|3.52.0|desktop-gnome||
 |metee|4.0.0|4.1.0|runtime-devices||
 |mgba|0.9.2|0.10.3|app-games||
 |microsoft-gsl|3.0.1|4.0.0|runtime-common||
+|mihomo|1.18.5|1.18.6|app-network||
 |milkytracker|1.02.00|1.04.00|app-multimedia||
 |milou|5.27.11|6.1.2|desktop-kde||
 |mimalloc|2.1.2|2.1.7|runtime-common||
