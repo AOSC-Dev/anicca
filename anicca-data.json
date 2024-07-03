@@ -75,7 +75,6 @@
 ["pciutils","3.9.0","3.13.0","app-utils",1674452224,[]],
 ["keepass-plugin-agent","0.10.1","0.13.8","app-utils",1541937727,[]],
 ["conky","1.10.8","1.21.3","app-utils",1528127162,[]],
-["diff-so-fancy","1.4.1","1.4.4","app-utils",1622875147,[]],
 ["yara","4.5.0","4.5.1","app-utils",1712767296,[]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Possible downgrade from the current version (20191017 -> 0.13)"]],
 ["netpbm","10.73.34","11.06.03","app-utils",1616134410,[]],
