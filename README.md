@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720033871?label=Updated)
+![Relative date](https://img.shields.io/date/1720037633?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -152,8 +152,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.2.8|1.4.0|app-utils||
 |botan|1.10.17|3.4.0|runtime-cryptography||
 |botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.138|lang-python||
-|botocore|1.34.133|1.34.138|lang-python||
+|boto3|1.20.26|1.34.139|lang-python||
+|botocore|1.34.133|1.34.139|lang-python||
 |bottle|0.12.18|0.12.25|lang-python||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.1|desktop-kde||
@@ -191,7 +191,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common||
 |capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.18.1|0.20.0|lang-rust||
-|cargo-c|0.9.24|0.10.2|lang-rust||
 |cargo-release|0.24.11|0.25.10|lang-rust||
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |castxml|0.6.6|0.6.7|app-devel||
@@ -344,12 +343,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.8|lang-python||
 |distorm|3.5.1|3.5.2b|app-devel||
 |distro|1.6.0|1.9.0|lang-python||
-|distrobox|1.4.2.1|1.7.2.1|app-utils||
 |django|5.0.3|5.0.6|lang-python||
 |dlib|19.20.0|19.24.4|lang-python||
 |dmd|2.108.1|2.109.1|lang-dlang||
-|dmenu|5.2|5.3|app-utils||
-|dnsdiag|1.6.4|2.5.0|app-network||
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
 |docbook-xml|0|5.1|app-doc||
@@ -1456,9 +1452,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
 |libusbmuxd|2.0.2|2.1.0|runtime-devices||
 |libutf8proc|2.4.0|2.9.0|runtime-i18n||
-|libva|2.21.0|2.22.0|runtime-multimedia||
 |libva+32|2.15.0|2.22.0|runtime-optenv32||
-|libva-nvidia-driver|0.0.11|0.7.4|runtime-multimedia||
+|libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia||
 |libva-utils|2.21.0|2.22.0|app-utils||
 |libvdpau+32|1.1.1|1.5|runtime-optenv32||
 |libvirt|10.2.0|10.5.0|app-virtualization||
@@ -1768,7 +1763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-num|1.3|1.5|lang-ocaml||
 |ocaml-pp|1.1.2|1.2.0|lang-ocaml||
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
-|ocamlbuild|0.14.1|0.14.3|lang-ocaml||
+|ocamlbuild|0.14.1|0.15.0|lang-ocaml||
 |ocrad|0.27|0.29|app-doc||
 |ocrmypdf|11.7.0|16.4.1|app-doc||
 |ocserv|1.1.2|1.3.0|app-network||
@@ -1781,9 +1776,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onefetch|2.20.0|2.21.0|app-utils||
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|app-games||
+|opam|2.1.6|2.2.0|lang-ocaml||
 |open-iscsi|2.1.9|2.1.10|app-admin||
 |open-isns|0.101|0.102|app-admin||
-|open-rs|5.1.3|5.1.4|app-utils||
+|open-rs|5.1.3|5.2.0|app-utils||
 |open-vm-tools|12.3.5|12.4.0|app-virtualization||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
@@ -1798,7 +1794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openexr|3.1.8|3.2.126|runtime-imaging||
 |openfortivpn|1.18.0|1.22.1|app-network||
 |openimagedenoise|1.4.3|2.3.0|runtime-imaging||
-|openimageio|2.4.17.0|2.5.12.0|runtime-imaging||
+|openimageio|2.4.17.0|2.5.13.0|runtime-imaging||
 |openixcard|1.0.1|1.1.8|app-devel||
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compound version number '8u382+ga'|
@@ -2478,7 +2474,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
 |spim|9.1.23|9.1.24|app-emulation||
-|spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|runtime-display||
+|spirv-headers|1.3.283.0|1.5.4.raytracing.fixed|runtime-display||
 |spirv-llvm-translator|17.0.0|18.1.1|app-devel||
 |spirv-tools|1.3.275.0|2024.1|runtime-display||
 |spread-sheet-widget|0.3|0.10|runtime-productivity||
@@ -2743,21 +2739,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vmpk|0.8.0|0.9.0|app-creativity||
 |vnstat|2.4|2.12|app-network||
 |volk|2.5.0|3.1.2|runtime-common||
-|volk-meta-loader|1.3.280.0|1.3.283.0|runtime-display||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia||
 |vpnc|0.5.3r550|0.5.3|app-network||
 |vsftpd|3.0.3|3.0.5|app-network||
 |vte|0.68.0|0.76.3|runtime-desktop||
 |vtk|9.3.0|9.3.1|app-scientific||
-|vulkan-extensionlayer|1.3.280.0|1.3.288|runtime-display||
-|vulkan-headers|1.3.280.0|1.3.288|runtime-display||
-|vulkan-headers+32|1.3.272|1.3.288|runtime-optenv32||
-|vulkan-loader|1.3.280.0|1.3.288|runtime-display||
-|vulkan-loader+32|1.3.272|1.3.288|runtime-optenv32||
-|vulkan-tools|1.3.280.0|1.3.283|app-utils||
-|vulkan-tools+32|1.3.227|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.280.0|1.3.288|runtime-display||
-|vulkan-validationlayers|1.3.280.0|1.3.288|runtime-display||
+|vulkan-extensionlayer|1.3.283.0|1.3.288|runtime-display||
+|vulkan-headers|1.3.283.0|1.3.288|runtime-display||
+|vulkan-headers+32|1.3.283.0|1.3.288|runtime-optenv32||
+|vulkan-loader|1.3.283.0|1.3.288|runtime-display||
+|vulkan-loader+32|1.3.283.0|1.3.288|runtime-optenv32||
+|vulkan-tools|1.3.283.0|1.3.283|app-utils||
+|vulkan-tools+32|1.3.283.0|1.3.283|runtime-optenv32||
+|vulkan-utility-libraries|1.3.283.0|1.3.288|runtime-display||
+|vulkan-validationlayers|1.3.283.0|1.3.288|runtime-display||
 |warpinator|1.6.3|1.8.5|desktop-cinnamon||
 |warzone2100|4.1.3|4.4.2|app-games||
 |watchman|4.9.0|2024.06.24.00|app-utils||
