@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719967867?label=Updated)
+![Relative date](https://img.shields.io/date/1719972077?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -187,7 +187,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-smart-release|0.17.0|0.30.0|lang-rust||
 |catatonit|0.1.7|0.2.0|app-admin||
 |catch2|2.13.8|3.6.0|runtime-common||
-|cbm|0.2|0.3.2|app-network||
 |ccache|4.9.1|4.10|app-devel||
 |cchardet|2.1.7|2.2.0a2|lang-python||
 |ccid|1.5.1|1.6.0|runtime-devices||
