@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1719994598?label=Updated)
+![Relative date](https://img.shields.io/date/1719998132?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1888,7 +1888,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|lang-perl||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl||
 |perl-datetime-locale|1.26|1.42|lang-perl||
-|perl-dbd-mysql|4.052|5.006|lang-perl||
+|perl-dbd-mysql|4.052|5.007|lang-perl||
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|lang-perl||
 |perl-devel-checklib|1.13|1.16|lang-perl||
@@ -2236,7 +2236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common||
 |qsynth|0.5.6|1.0.0|app-multimedia||
 |qt-5|5.15.13|5.15.14-lts-lgpl|runtime-desktop||
-|qt-6|6.7.1|6.7.2|runtime-desktop||
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop||
 |qtpy|2.1.0|2.4.1|lang-python||
