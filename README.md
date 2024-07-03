@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720037633?label=Updated)
+![Relative date](https://img.shields.io/date/1720041204?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -281,7 +281,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cppcheck|2.8|2.14.0|app-devel||
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compound version number '1.58.0+a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel||
-|cpulimit|3.0|3.1|app-admin||
 |cracklib|2.9.8|2.9.11|runtime-cryptography||
 |crash|7.2.9|8.0.5|app-devel||
 |crda|3.18|4.15|app-network||
@@ -309,16 +308,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dar|2.7.13|2.7.15|app-utils||
 |darkradiant|3.8.0|3.9.0|app-games||
 |dateutil|2.8.2|2.9.0.post0|lang-python||
-|dav1d|1.4.0|1.4.3|runtime-multimedia||
 |dblatex|0.3.12|1.1.14|app-doc||
 |dbus+32|1.12.18|1.14.10|runtime-optenv32||
 |dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
 |dbus-glib|0.110|0.112|runtime-admin||
 |dbus-glib+32|0.108|0.112|runtime-optenv32||
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity||
-|ddcutil|2.1.3|2.1.4|app-utils||
 |ddnet|17.0.3|18.3|app-games||
-|ddrescue|1.24|1.28|app-utils||
 |debianutils|5.7|5.19|app-utils||
 |decorator|4.3.2|5.1.1|lang-python||
 |deja-dup|42.9|46.1|desktop-gnome||
@@ -328,14 +324,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dephell-specifier|0.2.2|0.3.0|lang-python||
 |deploykit-gui|0.6.2|test-ci|app-admin|Versions not comparable: `0.6.2` and `test-ci`|
 |devhelp|41.2|43.0|desktop-gnome||
-|dex|0.8.0|0.9.0|app-utils||
-|dfu-util|0.10|0.11|app-devel||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network||
 |dia|0.97.3|1|app-doc||
 |dialog|1.3<br>+20191110|1.3-20240619|app-utils|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils||
 |diff-match-patch|20200713|20230430|lang-python||
-|diffutils|3.8|3.10|app-utils||
 |digikam|7.9.0|8.3.0|desktop-kde||
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity||
 |ding-libs|0.6.1|0.6.2|runtime-admin||
@@ -349,7 +342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc||
 |docbook-sgml|0|4.5|app-doc||
 |docbook-xml|0|5.1|app-doc||
-|docker|26.1.3|27.0.3|app-containers||
 |docker-compose|2.27.1|2.28.1|app-containers||
 |docutils|0.20.1|0.21.2|lang-python||
 |dolphin|23.08.5|24.05.1|desktop-kde||
@@ -1780,7 +1772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.10|app-admin||
 |open-isns|0.101|0.102|app-admin||
 |open-rs|5.1.3|5.2.0|app-utils||
-|open-vm-tools|12.3.5|12.4.0|app-virtualization||
+|open-vm-tools|12.3.5|12.4.5|app-virtualization||
 |openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|runtime-imaging||
 |opencl-clang|17.0.0|18.1.0|runtime-common||
@@ -1832,11 +1824,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |os-prober|1.81|1.82|app-utils||
 |osinfo-db|20240523|20240701|app-admin||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|osu-lazer|2024.523.0|2024.625.2|app-games||
+|osu-lazer|2024.523.0|2024.625.3|app-games||
 |oxygen|5.27.11|6.1.2|desktop-kde||
 |oxygen-icons|5.115.0|6.1.2|desktop-kde||
 |oxygen-sounds|5.25.3|6.1.2|desktop-kde||
-|p11-kit+32|0.23.18.1|0.25.3|runtime-optenv32||
+|p11-kit|0.25.3|0.25.4|runtime-cryptography||
+|p11-kit+32|0.23.18.1|0.25.4|runtime-optenv32||
 |packagekit|1.2.8|1.3.0|app-admin||
 |packagekit-qt|1.1.1|1.1.2|desktop-kde||
 |packaging|23.0|24.1|lang-python||
@@ -1867,7 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pastel|0.2.0|0.2.1|lang-python||
 |pathlib2|2.3.5|2.3.7.post1|lang-python||
 |pathspec|0.11.0|0.12.1|lang-python||
-|patool|1.12|upstream/2.2.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.2.0)|
+|patool|1.12|upstream/2.3.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.3.0)|
 |pbr|5.6.0|6.0.0|lang-python||
 |pciutils|3.9.0|3.13.0|app-utils||
 |pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
@@ -1878,7 +1871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|runtime-common||
 |pcsc-perl|1.4.14|1.4.16|lang-perl||
 |pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5926|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5955|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|app-doc||
 |pdfminer|20191020|20231228|app-doc||
 |pdlzip|1.9|1.13|app-utils||
@@ -2297,6 +2290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reiser4progs|1.2.2|1.2.2.|app-admin||
 |remmina|1.4.31|1.4.35|app-network||
 |renderdoc|1.16|1.33|app-devel||
+|repo|2.45|2.46|app-devel||
 |reportlab|3.5.50|4.2.2|lang-python||
 |reptyr|0.9.0|0.10.0|app-utils||
 |requests-cache|0.5.2|1.2.1|lang-python||
