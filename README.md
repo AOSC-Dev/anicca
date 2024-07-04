@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720073952?label=Updated)
+![Relative date](https://img.shields.io/date/1720077319?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1431,7 +1431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtracefs|1.6.4|1.8.0|runtime-admin||
 |libtsm|4.0.1|4.0.2|runtime-common||
 |libudfread|1.1.1|1.1.2|runtime-multimedia||
-|libuhd|4.5.0.0|4.6.0.0|runtime-ham||
+|libuhd|4.5.0.0|4.7.0.0|runtime-ham||
 |libuninameslist|20190701|20240524|runtime-i18n||
 |libunistring|0.9.10|1.2|runtime-common||
 |libunwind|1.6.2|1.8.1|runtime-common||
@@ -2629,7 +2629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toml|0.10.1|0.10.2|lang-python||
 |tomlkit|0.7.0|0.12.5|lang-python||
 |toolbelt|0.9.1|1.0.0|lang-python||
-|topgrade|11.0.2|14.0.1|app-admin||
+|topgrade|11.0.2|15.0.0|app-admin||
 |toposort|1.8|1.10|lang-python||
 |tork-trinity|14.1.0|14.1.2|desktop-trinity||
 |totem|42.0|43.0|desktop-gnome||
