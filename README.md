@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720070060?label=Updated)
+![Relative date](https://img.shields.io/date/1720073952?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1259,6 +1259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfido2|1.13.0|1.15.0|runtime-devices||
 |libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
+|libfprint|1.94.4|1.94.7|runtime-devices||
 |libftdi|1.4|1.5|runtime-devices||
 |libgcrypt+32|1.9.1|1.11.0|runtime-optenv32||
 |libgcrypt-static|1.10.3|1.11.0|runtime-cryptography||
@@ -1966,6 +1967,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|lang-perl||
 |perl-mail-dkim|0.40|1.20240619|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
+|perl-mail-spf|2.9.0|3.20240617|lang-perl||
 |perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
@@ -2518,13 +2520,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.2.1|app-devel||
 |sympy|1.12|1.12.1|lang-python||
 |synaptic|0.90.2|0.91.3|app-admin||
-|syncthing|1.27.3|1.27.8|app-network||
+|syncthing|1.27.3|1.27.9|app-network||
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network||
 |syndication|5.115.0|6.1.2|desktop-kde||
 |synergy|1.11.1|2.3.2|app-network||
 |syntax-highlighting|5.115.0|6.1.2|desktop-kde||
 |syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome||
+|sysstat|12.7.5|12.7.6|app-utils||
 |system-config-printer|1.5.17|1.5.18|app-admin||
 |systemd|255.6|256|app-admin||
 |systemsettings|5.27.11|6.1.2|desktop-kde||
@@ -2532,16 +2535,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysv-ipc|1.0.1|1.1.0|lang-python||
 |taglib|1.11.1|2.0.1|runtime-multimedia||
 |taglib+32|1.11|2.0.1|runtime-optenv32||
-|tagparser|11.5.1|12.1.0|runtime-multimedia||
-|tailscale|1.64.2|1.68.1|app-network||
+|tagparser|11.5.1|12.2.0|runtime-multimedia||
+|tailscale|1.64.2|1.68.2|app-network||
 |taisei|1.3.2|1.4.1|app-games||
 |tali|40.8|40.9|desktop-gnome||
 |talloc|2.3.4|2.4.2|runtime-common||
 |targetcli-fb|2.1.54|2.1.58|app-admin||
 |tarsnap|1.0.39|1.0.40|app-admin||
 |tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
-|tbb|2021.11.0|2021.12.0|runtime-common||
-|tbb+32|4.4u4|2021.12.0|runtime-optenv32||
+|tbb|2021.11.0|2021.13.0|runtime-common||
+|tbb+32|4.4u4|2021.13.0|runtime-optenv32||
 |tcl+32|8.6.10|8.6.14|runtime-optenv32||
 |tclap|1.2.2|1.2.5|runtime-common||
 |tcping|1.3.5|2.1.0|app-network||
@@ -2588,7 +2591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|desktop-trinity||
 |tectonic|0.12.0|0.15.0|app-doc||
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.8|app-web||
+|telegram-desktop|5.0.1|5.2.2|app-web||
 |telepathy-accounts-signon|1.0|2.1|runtime-web||
 |telepathy-glib|0.24.1|0.24.2|runtime-web||
 |telepathy-idle|0.2.0|0.2.2|runtime-web||
