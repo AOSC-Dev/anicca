@@ -2420,7 +2420,7 @@
 ["trollius","2.1","2.2.1","lang-python",1551199939,[]],
 ["pysol-sound-server","3.01","3.20","lang-python",1678950872,[]],
 ["translate-toolkit","2.3.1","3.13.1","lang-python",1549919969,[]],
-["pydantic","2.6.0","2.8.0","lang-python",1708762785,[]],
+["pydantic","2.6.0","2.8.1","lang-python",1708762785,[]],
 ["webencodings","0.5","0.5.1","lang-python",1478270741,[]],
 ["mccabe","0.6.1","0.7.0","lang-python",1530718723,[]],
 ["pygraphviz","1.5","1.13","lang-python",1551166498,[]],
