@@ -754,7 +754,7 @@
 ["gnome-system-monitor","42.0","46.0","desktop-gnome",1663210243,[]],
 ["gnome-clocks","42.0","46.0","desktop-gnome",1663210242,[]],
 ["lightsoff","40.0.1","46.0","desktop-gnome",1631428425,[]],
-["mutter","42.4","46.3","desktop-gnome",1663210248,[]],
+["mutter","42.4","46.3.1","desktop-gnome",1663210248,[]],
 ["gsettings-desktop-schemas","42.0","46.0","desktop-gnome",1663210209,[]],
 ["gnome-shell-extensions","42.3","46.2","desktop-gnome",1663210243,[]],
 ["eog","42.3","45.3","desktop-gnome",1663210248,[]],
