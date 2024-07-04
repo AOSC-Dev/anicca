@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720060555?label=Updated)
+![Relative date](https://img.shields.io/date/1720062938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2352,7 +2352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|app-scientific||
 |sane-backends|1.0.32|1.3.1|runtime-devices||
 |sanlock|3.8.5|3.9.2|app-admin||
-|sarasa-gothic-fonts|1.0.12|1.0.14|desktop-fonts||
+|sarasa-gothic-fonts|1.0.12|1.0.15|desktop-fonts||
 |sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel||
 |sbc+32|1.3|2.0|runtime-optenv32||
@@ -2363,6 +2363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |schema|0.7.5|0.7.7|lang-python||
 |scons|4.4.0|4.7.0|app-devel||
 |scour|0.37|0.38.2|app-utils||
+|scrcpy|2.4|2.5|app-devices||
 |screen|4.9.0|4.9.1|app-utils||
 |scribus|1.6.1|1.6.2|app-productivity||
 |scrot|1.10|1.11.1|app-utils||
@@ -2374,7 +2375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-sound+32|1.0.3|2.0.2|runtime-optenv32||
 |sdl-ttf|2.0.11|2.22.0|runtime-multimedia||
 |sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32||
-|sdl2|2.24.2|2.30.4|runtime-multimedia||
+|sdl2|2.30.4|2.30.5|runtime-multimedia||
 |sdl2-image|2.0.5|2.8.2|runtime-multimedia||
 |sdl2-mixer|2.0.4|2.8.0|runtime-multimedia||
 |sdl2-net|2.0.1|2.2.0|runtime-multimedia||
@@ -2803,6 +2804,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcompmgr|1.1.8|1.1.9|desktop-wm||
 |xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop||
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin||
+|xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome||
 |xdg-desktop-portal-kde|5.27.11|6.1.2|desktop-kde||
 |xdg-user-dirs|0.17|0.18|app-admin||
 |xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
