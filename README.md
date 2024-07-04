@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720084456?label=Updated)
+![Relative date](https://img.shields.io/date/1720088026?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1547,7 +1547,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python||
 |lxpanel|0.9.3|0.10.1|desktop-lxde||
 |lxterminal|0.3.2|0.4.0|desktop-lxde||
-|ly|0.6.0|1.0.0|desktop-displaymanagers||
 |lynx|2.9.0|2.9.2|app-web||
 |lzd|1.0|1.4|app-utils||
 |lzip|1.23|1.24.1|app-utils||
@@ -1582,7 +1581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.38.10|runtime-creativity||
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
 |mathjax|2.7.5|3.2.2|lang-js||
-|matplotlib|3.8.0|3.9.0|lang-python||
+|matplotlib|3.8.0|3.9.1|lang-python||
 |maturin|1.4.0|1.6.0|lang-python||
 |mawk|1.3.4<br>+20190203|1.3.4-20240622|app-utils|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|app-scientific||
@@ -2753,8 +2752,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.3.289|runtime-display||
 |vulkan-validationlayers|1.3.283.0|1.3.289|runtime-display||
 |warpinator|1.6.3|1.8.5|desktop-cinnamon||
-|warzone2100|4.1.3|4.4.2|app-games||
-|watchman|4.9.0|2024.06.24.00|app-utils||
+|warzone2100|4.1.3|4.5.0|app-games||
+|watchman|4.9.0|2024.07.01.00|app-utils||
 |wavpack|5.2.0|5.7.0|app-multimedia||
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32||
 |wayland|1.22.0|1.23.0|runtime-display||
@@ -2765,7 +2764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia||
 |websocket-client|1.7.0|1.8.0|lang-python||
 |websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.3.3|app-web||
+|weechat|4.2.2|4.3.4|app-web||
 |weka|3.9.2|8.0.0|app-scientific||
 |werkzeug|1.0.1|3.0.3|lang-python||
 |wesnoth|1.16.10|1.19.1|app-games||
