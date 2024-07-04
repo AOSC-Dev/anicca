@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720124014?label=Updated)
+![Relative date](https://img.shields.io/date/1720127592?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -466,7 +466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|2.6.5|3.1.1|app-games|Compliance mode enabled, was '3.1.1'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|freerdp|2.11.2|3.5.1|app-network|Compliance mode enabled, was '3.5.1'|
+|freerdp|2.11.2|3.6.2|app-network|Compliance mode enabled, was '3.6.2'|
 |freetds|1.00.112|1.4.19|runtime-database|Compliance mode enabled, was '1.4.19'|
 |freetype|2.12.1|2.13.2|runtime-desktop|Compliance mode enabled, was '2.13.2'|
 |freetype+32|2.12.1|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
@@ -548,7 +548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
 |gjs|1.74.0|1.81.1|desktop-gnome|Compliance mode enabled, was '1.81.1'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
-|glances|4.0.5|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
+|glances|4.0.5|4.1.2.1|app-admin|Compliance mode enabled, was '4.1.2.1'|
 |glib|2.80.0|2.80.3|runtime-common|Compliance mode enabled, was '2.80.3'|
 |glib+32|2.62.6|2.80.3|runtime-optenv32|Compliance mode enabled, was '2.80.3'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
@@ -725,7 +725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.104.2|lang-python|Compliance mode enabled, was '6.104.2'|
+|hypothesis-python|6.97.4|6.104.3|lang-python|Compliance mode enabled, was '6.104.3'|
 |hysteria|2.4.0|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.52.0|app-web|Compliance mode enabled, was '2.52.0'|
