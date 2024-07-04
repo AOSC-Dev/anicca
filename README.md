@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720095716?label=Updated)
+![Relative date](https://img.shields.io/date/1720098908?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -88,7 +88,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|lang-python||
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
-|assimp|5.4.0|5.4.1|runtime-multimedia||
+|assimp|5.4.0|5.4.2|runtime-multimedia||
 |ast-grep|0.24.0|0.24.1|app-devel||
 |astroid|2.12.2|3.2.2|lang-python||
 |astrometry.net|0.94|0.95|app-scientific||
@@ -2049,7 +2049,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.11.1|lang-python||
 |pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.05.1|desktop-kde||
+|plasma-angelfish|22.06|24.05.2|desktop-kde||
 |plasma-browser-integration|5.27.11|6.1.2|desktop-kde||
 |plasma-desktop|5.27.11|6.1.2|desktop-kde||
 |plasma-disks|5.27.11|6.1.2|desktop-kde||
