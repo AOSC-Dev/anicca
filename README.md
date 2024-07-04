@@ -1,2872 +1,2845 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720106063?label=Updated)
+![Relative date](https://img.shields.io/date/1720109515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
-|aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
-|aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
-|aardvark-dns|1.9.0|1.11.0|app-admin||
-|aarty|0.4.9|0.6.1|app-utils||
-|abakus-trinity|14.1.0|14.1.2|desktop-trinity||
-|abyss|2.1.5|2.3.7|app-scientific||
-|acccheck|0.2.1|0-2-1|app-penetration||
-|accerciser|3.40.0|3.42.0|desktop-gnome||
-|accountsservice|22.08.8|23.13.9|app-admin||
-|ack|3.2.0|3.7.0|app-utils||
-|acl|2.3.1|2.3.2|app-utils||
-|acl+32|2.2.52|2.3.2|runtime-optenv32||
-|acme|2.10.0|2.11.0|lang-python||
-|adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
-|adobe-source-han-sans|2.004|2.004R|desktop-fonts|Possible downgrade from the current version (2.004 -> 2.004R)|
-|adobe-source-han-serif|2.002|2.002R|desktop-fonts|Possible downgrade from the current version (2.002 -> 2.002R)|
-|adobe-source-sans|3.052|3.052R|desktop-fonts|Possible downgrade from the current version (3.052 -> 3.052R)|
-|adobe-source-serif|4.005|4.005R|desktop-fonts|Possible downgrade from the current version (4.005 -> 4.005R)|
-|adwaita-icon-theme|46.0|46.2|desktop-gnome||
-|adwaita-qt|1.4.1|1.4.2|desktop-gnome||
-|aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
-|agrep|4.17|4.17.orig|app-utils|Possible downgrade from the current version (4.17 -> 4.17.orig)|
-|aha|0.5|0.5.1|app-utils||
-|aide|0.16.2|0.18.8|app-utils||
-|aiohttp|3.7.4.post0|3.9.5|lang-python||
-|aisleriot|3.22.24|3.22.33|desktop-gnome||
-|akode|14.1.0|14.1.2|desktop-trinity||
-|akonadi|23.08.5|24.05.2|desktop-kde||
-|akonadi-calendar|23.08.5|24.05.2|desktop-kde||
-|akonadi-calendar-tools|23.08.5|24.05.2|desktop-kde||
-|akonadi-contacts|23.08.5|24.05.2|desktop-kde||
-|akonadi-import-wizard|23.08.5|24.05.2|desktop-kde||
-|akonadi-mime|23.08.5|24.05.2|desktop-kde||
-|akonadi-notes|23.08.5|24.05.2|desktop-kde||
-|akonadi-search|23.08.5|24.05.2|desktop-kde||
-|akonadiconsole|23.08.5|24.05.2|desktop-kde||
-|akregator|23.08.5|24.05.2|desktop-kde||
-|alabaster|0.7.12|0.7.16|lang-python||
-|allegro|5.2.6.0|5.2.9.1|runtime-games||
-|allegro+32|4.4.2|5.2.9.1|runtime-optenv32||
-|alligator|23.08.5|24.05.2|desktop-kde||
-|alsa-lib|1.2.6.1|1.2.12|runtime-multimedia||
-|alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32||
-|alsa-plugins|1.2.7.1|1.2.12|runtime-multimedia||
-|alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32||
-|alsa-ucm-conf-asahi|4|5|runtime-multimedia||
-|alsa-utils|1.2.8|1.2.12|app-multimedia||
-|amarok-trinity|14.1.0|14.1.2|desktop-trinity||
-|amtk|5.5.1|5.6.1|desktop-gnome||
-|analitza|23.08.5|24.05.2|desktop-kde||
-|angelfish|23.08.5|24.05.2|desktop-kde||
-|annotated-types|0.6.0|0.7.0|lang-python||
-|ansible|2.12.1|2.17.1|app-admin||
-|aom|3.8.1|3.9.1|runtime-multimedia||
-|aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes||
-|aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
-|aosc-media-writer|0.3.4|5.0.9|app-utils||
-|aosc-xdg-menu|20200412|20160217|runtime-data|Possible downgrade from the current version (20200412 -> 20160217)|
-|apicula|0.9.1|0.12|app-electronics||
-|apparmor|3.0.8|3.1.7|app-admin||
-|appstream|0.16.0|1.0.3|app-admin||
-|appstream-glib|0.7.18|0_8_3|app-admin||
-|apr|1.6.5|1.7.4|runtime-common||
-|apsw|3.30.1|3.46.0.1|lang-python||
-|apt|2.6.1|2.7.14|app-admin||
-|aqbanking|6.2.2|6.5.4|runtime-productivity||
-|aranym|1.1.0|1_1_0|app-emulation||
-|arc-kde|20180614|20220908|desktop-themes||
-|arduino-avr-core|1.8.3|1.8.6|app-devel||
-|argparse-manpage|4.5|4.6|lang-python||
-|argyllcms|3.1.0|3.2.0|app-imaging||
-|arianna|23.08.5|24.05.2|desktop-kde||
-|ark|23.08.5|24.05.2|desktop-kde||
-|arpack-ng|3.8.0|3.9.1|app-scientific||
-|arrow|1.0.3|1.3.0|lang-python||
-|artikulate|23.08.5|24.05.2|desktop-kde||
-|arts|14.1.0|14.1.2|desktop-trinity||
-|asahi-common|20231113|20231113-aosc|runtime-admin|Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.8|app-utils||
-|asio|1.18.1|1.30.2|app-devel||
-|asn1crypto|1.2.0|1.5.1|lang-python||
-|aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel||
-|aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel||
-|assimp|5.4.0|5.4.2|runtime-multimedia||
-|astroid|2.12.2|3.2.2|lang-python||
-|astrometry.net|0.94|0.95|app-scientific||
-|astyle|3.5|3.5.1|app-devel||
-|at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32||
-|at-spi2-core+32|2.26.3|2.52.0|runtime-optenv32||
-|atk+32|2.26.1|2.38.0|runtime-optenv32||
-|atkmm|2.28.0|2.36.3|desktop-gnome||
-|atomicwrites|1.3.0|1.4.1|lang-python||
-|atomix|3.34.0|44.0|desktop-gnome||
-|attica5|5.115.0|6.1.2|desktop-kde||
-|attr|2.4.48|2.5.2|runtime-common||
-|attr+32|2.4.48|2.5.2|runtime-optenv32||
-|audacity|3.4.2|3.5.1|app-creativity||
-|audiocd-kio|23.08.5|24.05.2|desktop-kde||
-|audiofile|0.3.6git20160829|0.3.6|runtime-multimedia||
-|audiotube|23.08.5|24.05.2|desktop-kde||
-|audiveris|5.1.0|5.3.1|app-doc||
-|autobahn|19.2.1|23.6.2|lang-python||
-|automake|1.16i|1.16.5|app-devel||
-|automat|20.2.0|22.10.0|lang-python||
-|avahi-tqt|14.1.0|14.1.2|desktop-trinity||
-|avogadrolibs|1.95.1|1.99.0|runtime-scientific||
-|avr-binutils|2.37|2.42|app-devel||
-|avr-gcc|10.3.1<br>+git20210510|14.1.0|app-devel|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
-|avr-libc|2.0.0|2.1.0|app-devel||
-|avrdude|6.3|7.3|app-devel||
-|ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop||
-|b2sdk|1.14.0|2.4.1|lang-python||
-|b43-firmware-installer|20160210|019|app-admin|Possible downgrade from the current version (20160210 -> 019)|
-|b43-tools|0<br>+git20170913|019|runtime-kernel|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
-|babel|2.9.1|2.15.0|lang-python||
-|babl|0.1.108|0_1_108|runtime-imaging||
-|backcall|0.1.0|0.2.0|lang-python||
-|backports|0|1.1|lang-python||
-|backports-functools-lru-cache|1.5|2.0.0|lang-python||
-|baloo|5.115.0|6.1.2|desktop-kde||
-|baloo-widgets|23.08.5|24.05.2|desktop-kde||
-|balz|1.20|.55|app-utils||
-|baobab|42.0|46.0|desktop-gnome||
-|bash|5.2.26|5.2.21|app-shells|Possible downgrade from the current version (5.2.26 -> 5.2.21)|
-|basket-trinity|14.1.0|14.1.2|desktop-trinity||
-|bcrypt|3.1.7|4.1.3|lang-python||
-|beaker|1.11.0|1.13.0|lang-python||
-|beancount|2.2.1|3.0.0|app-productivity||
-|beautifulsoup4|4.10.0|4.12.3|lang-python||
-|benchmark|1.8.2|1.8.4|runtime-common||
-|bibletime-trinity|14.1.0|14.1.2|desktop-trinity||
-|bind|9.18.24|9.16.33|app-network|Possible downgrade from the current version (9.18.24 -> 9.16.33)|
-|black-hole-solver|1.10.1|1.12.0|runtime-games||
-|blender|4.0.2|4.1.1|app-creativity||
-|blinken|23.08.5|24.05.2|desktop-kde||
-|blinker|1.4|1.8.2|lang-python||
-|bluedevil|5.27.11|6.1.2|desktop-kde||
-|bluez-alsa|4.1.1|4.2.0|app-multimedia||
-|bluez-qt|5.115.0|6.1.2|desktop-kde||
-|bomber|23.08.5|24.05.2|desktop-kde||
-|boost|1.83.0|1.85.0|runtime-common||
-|boost+32|1.63.0|1.85.0|runtime-optenv32||
-|borgbackup|1.2.8|1.4.0|app-utils||
-|botan|1.10.17|3.4.0|runtime-cryptography||
-|botan-2|2.12.1|3.4.0|runtime-cryptography||
-|boto3|1.20.26|1.34.139|lang-python||
-|botocore|1.34.133|1.34.139|lang-python||
-|bottle|0.12.18|0.12.25|lang-python||
-|bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
-|bovo|23.08.5|24.05.2|desktop-kde||
-|breeze|5.27.11|6.1.2|desktop-kde||
-|breeze-grub|5.27.11|6.1.2|desktop-kde||
-|breeze-gtk|5.27.11|6.1.2|desktop-kde||
-|breeze-icons|5.115.0|6.1.2|desktop-kde||
-|breeze-plymouth|5.27.11|6.1.2|desktop-kde||
-|brotlipy|0.7.0|1.0.9.2|lang-python||
-|budgie-screensaver|5.0.2|5.1.0|desktop-gnome||
-|buildbot-benchmark|20240327|20230227|app-benchmarks|Possible downgrade from the current version (20240327 -> 20230227)|
-|bullet|2.88|3.25|app-scientific||
-|bup|0.30|0.33.3|app-utils||
-|c-ares|1.28.1|1.32.0|runtime-network||
-|cabal-install|3.10.3.0|3.12.1.0|lang-haskell||
-|cabextract|1.9|1.11|app-utils||
-|cachecontrol|0.12.6|0.14.0|lang-python||
-|cachetools|3.1.0|5.3.3|lang-python||
-|cairo|1.17.6|1.18.0|runtime-imaging||
-|cairo+32|1.14.12|1.18.0|runtime-optenv32||
-|cairocffi|1.0.2|1.7.1|lang-python||
-|cairomm|1.12.2|1.18.0|runtime-imaging||
-|cairosvg|2.5.2|2.7.1|app-imaging||
-|calendarsupport|23.08.5|24.05.2|desktop-kde||
-|calibre|5.30.0|7.13.0|app-doc||
-|caligula|0.4.5|0.4.7|app-utils||
-|calindori|23.08.5|24.05.2|desktop-kde||
-|callaudiod|0.1.4|0.1.10|app-admin||
-|calls|46.0|46.3|desktop-gnome||
-|calver|2022.06.26|2022.6.26|lang-python||
-|camlp4|4.14<br>+1|5.1+1|lang-ocaml|Compound version number '4.14+1'|
-|camlp5|8.02.01|6023|lang-ocaml||
-|cantor|23.08.5|24.05.2|desktop-kde||
-|capnproto|0.10.2|1.0.2|runtime-common||
-|capstone|5.0.1|5.0|app-devel|Possible downgrade from the current version (5.0.1 -> 5.0)|
-|cargo-audit|0.18.1|0.20.0|lang-rust||
-|cargo-smart-release|0.17.0|0.30.0|lang-rust||
-|catatonit|0.1.7|0.2.0|app-admin||
-|catch2|2.13.8|3.6.0|runtime-common||
-|cchardet|2.1.7|2.2.0a2|lang-python||
-|ccid|1.5.1|1.6.0|runtime-devices||
-|cddlib|0.94j|0.94m|runtime-scientific||
-|cdecl|20161129|2.5|app-utils|Possible downgrade from the current version (20161129 -> 2.5)|
-|cdemu-client|3.2.4|3.2.5|app-multimedia||
-|cdemu-daemon|3.2.4|3.2.6|app-multimedia||
-|cdrdao|1.2.4|1.2.5|app-multimedia||
-|celluloid|0.18|0.27|app-multimedia||
-|cerberus|1.3.2|1.3.5|lang-python||
-|certbot-apache|2.10.0|2.11.0|app-web||
-|certbot-dns-cloudflare|2.10.0|2.11.0|app-web||
-|certbot-nginx|2.10.0|2.11.0|app-web||
-|cervisia|23.08.5|24.05.2|desktop-kde||
-|cffi|1.15.0|1.16.0|lang-python||
-|cfitsio|3.450|4.4.1|runtime-imaging||
-|cgal|5.2|5.6.1|runtime-scientific||
-|cgns|4.2.0|4.4.0|app-devel||
-|chardet|3.0.4|5.2.0|lang-python||
-|charset-normalizer|2.0.9|3.3.2|lang-python||
-|checksec|1.9.0|2.7.1|app-devel||
-|cheese|41.1|44.1|desktop-gnome||
-|cheetah3|3.2.5|3.2.6.post2|lang-python||
-|cherrypy|18.1.0|18.10.0|lang-python||
-|chmlib|0.40a|0.40|runtime-doc||
-|chntpw|1.1|140201|app-utils||
-|chromaprint|1.5.0|1.5.1|runtime-multimedia||
-|chromium|126.0.6478.114|126.0.6478.126|app-web||
-|cifs-utils|6.10|7.0|app-network||
-|cinnamon|5.8.3|6.2.3|desktop-cinnamon||
-|cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon||
-|cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon||
-|cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon||
-|cinnamon-screensaver|5.8.0|6.2.0|desktop-cinnamon||
-|cinnamon-session|5.8.1|6.2.0|desktop-cinnamon||
-|cinnamon-settings-daemon|5.8.1|6.2.0|desktop-cinnamon||
-|cinnamon-translations|5.8.1|6.2.1|desktop-cinnamon||
-|cjs|5.8.0|6.2.0|desktop-cinnamon||
-|clamav|1.3.0|1.3.1|app-admin||
-|clazy|1.11|1.12|app-devel||
-|cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compound version number '37.0+13.0+0+2'|
-|cleo|2.0.1|2.1.0|lang-python||
-|cli-helpers|1.1.0|2.3.1|lang-python||
-|click|7.1.2|8.1.7|lang-python||
-|clinfo|3.0.21.02.21|3.0.23.01.25|app-devel||
-|clipit|1.4.2|1.4.5|app-utils||
-|cln|1.3.6|1.3.7|runtime-common||
-|cloc|1.84|2.00|app-utils||
-|cloud-init|24.1.4<br>+git20240513|24.1.7|app-admin|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
-|clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
-|clzip|1.10|1.14|app-utils||
-|cmark|0.30.3|0.31.0|runtime-doc||
-|cmocka|1.1.5|1.1.7|app-devel||
-|cock|0.6.0|0.11.0|lang-python||
-|cockpit|286.1|320|app-admin||
-|cockpit-machines|284.1|315|app-admin||
-|cockpit-podman|63|90|app-admin||
-|code-server|4.9.1|4.90.3|app-utils||
-|codeine-trinity|14.1.0|14.1.2|desktop-trinity||
-|coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
-|collectl|4.3.1|4.3.8|app-utils||
-|colorama|0.4.3|0.4.6|lang-python||
-|colord-kde|23.08.5|24.05.2|desktop-kde||
-|coloredlogs|10.0|15.0.1|lang-python||
-|composer|2.0.13|2.7.7|app-devel||
-|concurrencykit|0.7.1|0.7.2|runtime-common||
-|configobj|5.0.6|5.0.8|lang-python||
-|configparser|3.7.3|3.12.4|lang-python||
-|confuse|3.2.2|3.3|runtime-common||
-|conky|1.10.8|1.21.3|app-utils||
-|conmon|2.1.10|2.1.12|app-admin||
-|constantly|15.1.0|23.10.4|lang-python||
-|construct|2.9.45|2.10.70|lang-python||
+|aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
+|aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
+|aardvark-dns|1.9.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
+|aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
+|abakus-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|abyss|2.1.5|2.3.7|app-scientific|Compliance mode enabled, was '2.3.7'|
+|accerciser|3.40.0|3.42.0|desktop-gnome|Compliance mode enabled, was '3.42.0'|
+|accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
+|ack|3.2.0|3.7.0|app-utils|Compliance mode enabled, was '3.7.0'|
+|acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
+|acl+32|2.2.52|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
+|acme|2.10.0|2.11.0|lang-python|Compliance mode enabled, was '2.11.0'|
+|adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
+|adobe-source-han-sans|2.004|2.004r|desktop-fonts|Compliance mode enabled, was '2.004R'<br>Possible downgrade from the current version (2.004 -> 2.004r)|
+|adobe-source-han-serif|2.002|2.002r|desktop-fonts|Compliance mode enabled, was '2.002R'<br>Possible downgrade from the current version (2.002 -> 2.002r)|
+|adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
+|adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
+|adwaita-icon-theme|46.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
+|aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compliance mode enabled, was '3.2.2'|
+|agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
+|aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
+|aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
+|aiohttp|3.7.4.post0|3.9.5|lang-python|Compliance mode enabled, was '3.9.5'|
+|aisleriot|3.22.24|3.22.33|desktop-gnome|Compliance mode enabled, was '3.22.33'|
+|akode|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|akonadi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-calendar|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-calendar-tools|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-contacts|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-import-wizard|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-mime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-notes|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-search|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadiconsole|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akregator|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|alabaster|0.7.12|0.7.16|lang-python|Compliance mode enabled, was '0.7.16'|
+|allegro|5.2.6.0|5.2.9.1|runtime-games|Compliance mode enabled, was '5.2.9.1'|
+|allegro+32|4.4.2|5.2.9.1|runtime-optenv32|Compliance mode enabled, was '5.2.9.1'|
+|alligator|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|alsa-lib|1.2.6.1|1.2.12|runtime-multimedia|Compliance mode enabled, was '1.2.12'|
+|alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
+|alsa-plugins|1.2.7.1|1.2.12|runtime-multimedia|Compliance mode enabled, was '1.2.12'|
+|alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
+|alsa-ucm-conf-asahi|4|5|runtime-multimedia|Compliance mode enabled, was '5'|
+|alsa-utils|1.2.8|1.2.12|app-multimedia|Compliance mode enabled, was '1.2.12'|
+|amarok-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
+|analitza|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|angelfish|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|ansible|2.12.1|2.17.1|app-admin|Compliance mode enabled, was '2.17.1'|
+|aom|3.8.1|3.9.1|runtime-multimedia|Compliance mode enabled, was '3.9.1'|
+|aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'|
+|aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
+|aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
+|aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
+|apicula|0.9.1|0.12|app-electronics|Compliance mode enabled, was '0.12'|
+|apparmor|3.0.8|3.1.7|app-admin|Compliance mode enabled, was '3.1.7'|
+|appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
+|appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
+|apr|1.6.5|1.7.4|runtime-common|Compliance mode enabled, was '1.7.4'|
+|apsw|3.30.1|3.46.0.1|lang-python|Compliance mode enabled, was '3.46.0.1'|
+|apt|2.6.1|2.7.14|app-admin|Compliance mode enabled, was '2.7.14'|
+|aqbanking|6.2.2|6.5.4|runtime-productivity|Compliance mode enabled, was '6.5.4'|
+|arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
+|arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
+|argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
+|argyllcms|3.1.0|3.2.0|app-imaging|Compliance mode enabled, was '3.2.0'|
+|arianna|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ark|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|arpack-ng|3.8.0|3.9.1|app-scientific|Compliance mode enabled, was '3.9.1'|
+|arrow|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
+|artikulate|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|arts|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|asahi-common|20231113|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20231113 -> 20231113-aosc)|
+|asahi-fwextract|0.6.21|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
+|asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
+|asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
+|aspnetcore-runtime-6.0|6.0.30|6.0.31|app-devel|Compliance mode enabled, was '6.0.31'|
+|aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|app-devel|Compliance mode enabled, was '6.0.31'|
+|assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
+|astroid|2.12.2|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
+|astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
+|astyle|3.5|3.5.1|app-devel|Compliance mode enabled, was '3.5.1'|
+|at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
+|at-spi2-core+32|2.26.3|2.52.0|runtime-optenv32|Compliance mode enabled, was '2.52.0'|
+|atk+32|2.26.1|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
+|atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
+|atomicwrites|1.3.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
+|atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|attica5|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
+|attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
+|audacity|3.4.2|3.5.1|app-creativity|Compliance mode enabled, was '3.5.1'|
+|audiocd-kio|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
+|audiotube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|audiveris|5.1.0|5.3.1|app-doc|Compliance mode enabled, was '5.3.1'|
+|autobahn|19.2.1|23.6.2|lang-python|Compliance mode enabled, was '23.6.2'|
+|automake|1.16i|1.16.5|app-devel|Compliance mode enabled, was '1.16.5'|
+|automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
+|avahi-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
+|avr-binutils|2.37|2.42|app-devel|Compliance mode enabled, was '2.42'|
+|avr-gcc|10.3.1<br>+git20210510|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|avr-libc|2.0.0|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
+|avrdude|6.3|7.3|app-devel|Compliance mode enabled, was '7.3'|
+|ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop|Compliance mode enabled, was '24.5.0'|
+|b2sdk|1.14.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
+|b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
+|b43-tools|0<br>+git20170913|019|runtime-kernel|Compliance mode enabled, was '019'|
+|babel|2.9.1|2.15.0|lang-python|Compliance mode enabled, was '2.15.0'|
+|backcall|0.1.0|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|backports|0|1.1|lang-python|Compliance mode enabled, was '1.1'|
+|backports-functools-lru-cache|1.5|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|baloo|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|baloo-widgets|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|balz|1.20|.55|app-utils|Compliance mode enabled, was '.55'|
+|baobab|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|bash|5.2.26|5.2.21|app-shells|Compliance mode enabled, was '5.2.21'<br>Possible downgrade from the current version (5.2.26 -> 5.2.21)|
+|basket-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|bcrypt|3.1.7|4.1.3|lang-python|Compliance mode enabled, was '4.1.3'|
+|beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
+|beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
+|beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
+|benchmark|1.8.2|1.8.4|runtime-common|Compliance mode enabled, was '1.8.4'|
+|bibletime-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|bind|9.18.24|9.16.33|app-network|Compliance mode enabled, was '9.16.33'<br>Possible downgrade from the current version (9.18.24 -> 9.16.33)|
+|black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
+|blender|4.0.2|4.1.1|app-creativity|Compliance mode enabled, was '4.1.1'|
+|blinken|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|blinker|1.4|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
+|bluedevil|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|bluez-alsa|4.1.1|4.2.0|app-multimedia|Compliance mode enabled, was '4.2.0'|
+|bluez-qt|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|bomber|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|boost|1.83.0|1.85.0|runtime-common|Compliance mode enabled, was '1.85.0'|
+|boost+32|1.63.0|1.85.0|runtime-optenv32|Compliance mode enabled, was '1.85.0'|
+|borgbackup|1.2.8|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
+|botan|1.10.17|3.4.0|runtime-cryptography|Compliance mode enabled, was '3.4.0'|
+|botan-2|2.12.1|3.4.0|runtime-cryptography|Compliance mode enabled, was '3.4.0'|
+|boto3|1.20.26|1.34.139|lang-python|Compliance mode enabled, was '1.34.139'|
+|botocore|1.34.133|1.34.139|lang-python|Compliance mode enabled, was '1.34.139'|
+|bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
+|bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compliance mode enabled, was '51.11'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
+|bovo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|breeze|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|breeze-grub|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|breeze-gtk|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|breeze-icons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|breeze-plymouth|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
+|budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
+|buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
+|bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
+|bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
+|c-ares|1.28.1|1.32.0|runtime-network|Compliance mode enabled, was '1.32.0'|
+|cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
+|cabextract|1.9|1.11|app-utils|Compliance mode enabled, was '1.11'|
+|cachecontrol|0.12.6|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
+|cachetools|3.1.0|5.3.3|lang-python|Compliance mode enabled, was '5.3.3'|
+|cairo|1.17.6|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
+|cairo+32|1.14.12|1.18.0|runtime-optenv32|Compliance mode enabled, was '1.18.0'|
+|cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
+|cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
+|cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
+|calendarsupport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|calibre|5.30.0|7.13.0|app-doc|Compliance mode enabled, was '7.13.0'|
+|caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
+|calindori|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
+|calls|46.0|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|calver|2022.06.26|2022.6.26|lang-python|Compliance mode enabled, was '2022.6.26'|
+|camlp4|4.14<br>+1|5.2+1|lang-ocaml|Compliance mode enabled, was '5.2+1'|
+|camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
+|cantor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
+|capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
+|cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
+|catatonit|0.1.7|0.2.0|app-admin|Compliance mode enabled, was '0.2.0'|
+|catch2|2.13.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
+|cchardet|2.1.7|2.2.0~a2|lang-python|Compliance mode enabled, was '2.2.0a2'|
+|ccid|1.5.1|1.6.0|runtime-devices|Compliance mode enabled, was '1.6.0'|
+|cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
+|cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
+|cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
+|cdemu-daemon|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
+|cdrdao|1.2.4|1.2.5|app-multimedia|Compliance mode enabled, was '1.2.5'|
+|celluloid|0.18|0.27|app-multimedia|Compliance mode enabled, was '0.27'|
+|cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
+|certbot-apache|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
+|certbot-dns-cloudflare|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
+|certbot-nginx|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
+|cervisia|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|cffi|1.15.0|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
+|cfitsio|3.450|4.4.1|runtime-imaging|Compliance mode enabled, was '4.4.1'|
+|cgal|5.2|5.6.1|runtime-scientific|Compliance mode enabled, was '5.6.1'|
+|cgns|4.2.0|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
+|chardet|3.0.4|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
+|charset-normalizer|2.0.9|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
+|checksec|1.9.0|2.7.1|app-devel|Compliance mode enabled, was '2.7.1'|
+|cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
+|cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
+|cherrypy|18.1.0|18.10.0|lang-python|Compliance mode enabled, was '18.10.0'|
+|chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
+|chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
+|chromaprint|1.5.0|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
+|chromium|126.0.6478.114|126.0.6478.126|app-web|Compliance mode enabled, was '126.0.6478.126'|
+|cifs-utils|6.10|7.0|app-network|Compliance mode enabled, was '7.0'|
+|cinnamon|5.8.3|6.2.3|desktop-cinnamon|Compliance mode enabled, was '6.2.3'|
+|cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-screensaver|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-session|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-settings-daemon|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-translations|5.8.1|6.2.1|desktop-cinnamon|Compliance mode enabled, was '6.2.1'|
+|cjs|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|clamav|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
+|clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
+|cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compliance mode enabled, was '37.0_13.0_0_2'|
+|cleo|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
+|click|7.1.2|8.1.7|lang-python|Compliance mode enabled, was '8.1.7'|
+|clinfo|3.0.21.02.21|3.0.23.01.25|app-devel|Compliance mode enabled, was '3.0.23.01.25'|
+|clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
+|cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
+|cloc|1.84|2.00|app-utils|Compliance mode enabled, was '2.00'|
+|cloud-init|24.1.4<br>+git20240513|24.2|app-admin|Compliance mode enabled, was '24.2'|
+|clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
+|clzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
+|cmark|0.30.3|0.31.0|runtime-doc|Compliance mode enabled, was '0.31.0'|
+|cmocka|1.1.5|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
+|cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
+|cockpit|286.1|320|app-admin|Compliance mode enabled, was '320'|
+|cockpit-machines|284.1|315|app-admin|Compliance mode enabled, was '315'|
+|cockpit-podman|63|90|app-admin|Compliance mode enabled, was '90'|
+|code-server|4.9.1|4.90.3|app-utils|Compliance mode enabled, was '4.90.3'|
+|codeine-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|coin|4.0.0<br>+git20220828|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
+|collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
+|colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
+|colord-kde|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
+|composer|2.0.13|2.7.7|app-devel|Compliance mode enabled, was '2.7.7'|
+|concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
+|configobj|5.0.6|5.0.8|lang-python|Compliance mode enabled, was '5.0.8'|
+|configparser|3.7.3|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
+|confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
+|conky|1.10.8|1.21.3|app-utils|Compliance mode enabled, was '1.21.3'|
+|conmon|2.1.10|2.1.12|app-admin|Compliance mode enabled, was '2.1.12'|
+|constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
+|construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containers-common|0.59.0|1.0.1|runtime-containers||
-|convertall|0.7.5|1.0.1|app-utils||
-|corefreq|20170301|1.97.2-x86_64|app-utils|Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
-|corrosion|0.2.1|0.4.10|app-devel||
-|cpp-utilities|5.20.0|5.25.0|runtime-common||
-|cppcheck|2.8|2.14.0|app-devel||
-|cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compound version number '1.58.0+a'|
-|cpprestsdk|2.10.18|2.10.19|app-devel||
-|cracklib|2.9.8|2.9.11|runtime-cryptography||
-|crash|7.2.9|8.0.5|app-devel||
-|crda|3.18|4.15|app-network||
-|crow-translate|2.9.1|2.11.1|app-i18n||
-|crun|1.12|1.15|app-admin||
-|cryfs|0.10.2|0.11.4|app-admin||
-|crypto++|8.2.0|8.9.0|runtime-cryptography||
-|cryptography|40.0.0|42.0.8|lang-python||
-|cryptsetup|2.7.0|2.7.3|app-admin||
-|css-parser|1.0.6|1.0.10|lang-python||
-|cssselect2|0.6.0|0.7.0|lang-python||
-|cssutils|1.0.2|2.11.1|lang-python||
-|ctags|20191203|6.1.20240630.0|app-devel|Possible downgrade from the current version (20191203 -> 6.1.20240630.0)|
-|cunit|2.1<br>+3|2.1-3|app-devel|Compound version number '2.1+3'|
-|cups|2.4.7|2.4.10|app-admin||
-|cups+32|2.3.3|2.4.10|runtime-optenv32||
-|curl+32|8.6.0|8.8.0|runtime-optenv32||
-|curtsies|0.3.4|0.4.2|lang-python||
-|cycler|0.10.0|0.12.1|lang-python||
-|cymem|2.0.5|2.0.8|lang-python||
-|cython-0.29|0.29.36|3.0.10|lang-python||
-|czmq|4.2.0|4.2.1|runtime-common||
-|dante|1.4.2|1.4.3|app-network||
-|dar|2.7.13|2.7.15|app-utils||
-|darkradiant|3.8.0|3.9.0|app-games||
-|dateutil|2.8.2|2.9.0.post0|lang-python||
-|dblatex|0.3.12|1.1.14|app-doc||
-|dbus+32|1.12.18|1.14.10|runtime-optenv32||
-|dbus-1-tqt|14.1.0|14.1.2|desktop-trinity||
-|dbus-glib|0.110|0.112|runtime-admin||
-|dbus-glib+32|0.108|0.112|runtime-optenv32||
-|dbus-tqt|14.1.0|14.1.2|desktop-trinity||
-|debianutils|5.7|5.19|app-utils||
-|decorator|4.3.2|5.1.1|lang-python||
-|deja-dup|42.9|46.1|desktop-gnome||
-|dejavu-fonts|2.37|2_37|desktop-fonts||
-|deluge|2.1.1|2.0.5|app-web|Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.44.1|1.44.4|lang-js||
-|dephell-specifier|0.2.2|0.3.0|lang-python||
-|deploykit-gui|0.6.2|test-ci|app-admin|Versions not comparable: `0.6.2` and `test-ci`|
-|devhelp|41.2|43.0|desktop-gnome||
-|dhcp|4.4.3.P1|4.4.3-P1|app-network||
-|dia|0.97.3|1|app-doc||
-|dialog|1.3<br>+20240619|1.3-20240619|app-utils|Compound version number '1.3+20240619'|
-|dieharder|3.31.1|3.31.1_20110601-1|app-utils||
-|diff-match-patch|20200713|20230430|lang-python||
-|digikam|7.9.0|8.3.0|desktop-kde||
-|digikam-trinity|14.1.0|14.1.2|desktop-trinity||
-|ding-libs|0.6.1|0.6.2|runtime-admin||
-|discover|5.27.11|6.1.2|desktop-kde||
-|distlib|0.3.1|0.3.8|lang-python||
-|distorm|3.5.1|3.5.2b|app-devel||
-|distro|1.6.0|1.9.0|lang-python||
-|django|5.0.3|5.0.6|lang-python||
-|dlib|19.20.0|19.24.4|lang-python||
-|dmd|2.108.1|2.109.1|lang-dlang||
-|docbook-dtd|4.5|5.1|app-doc||
-|docbook-sgml|0|4.5|app-doc||
-|docbook-xml|0|5.1|app-doc||
-|docker-compose|2.27.1|2.28.1|app-containers||
-|docutils|0.20.1|0.21.2|lang-python||
-|dolphin|23.08.5|24.05.2|desktop-kde||
-|dolphin-emu|5.0<br>+git20211101|2407|app-games|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
-|dolphin-plugins|23.08.5|24.05.2|desktop-kde||
-|dolphin-trinity|14.1.0|14.1.2|desktop-trinity||
-|dosbox|0.74<br>+3|0.74-3|app-emulation|Compound version number '0.74+3'|
-|dotconf|1.3|1.4.1|runtime-common||
-|dotnet-apphost-pack-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet||
-|dotnet-hostfxr-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet||
-|dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet||
-|dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet||
-|dotnet-runtime-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-runtime-deps-6.0|6.0.0|6.0.31|lang-dotnet||
-|dotnet-sdk-6.0|6.0.422|6.0.423|app-devel||
-|dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet||
-|dotnet-templates-6.0|6.0.422|6.0.423|app-devel||
-|double-conversion|3.2.1|3.3.0|runtime-common||
-|dovecot|2.3.10.1|2.3.21|app-web||
-|doxygen|1.10.0|1_11_0|app-doc||
-|doxyqml|0.5.0|0.5.3|app-doc||
-|dpdk|22.11.1|24.03|runtime-network||
-|dragon|23.08.5|24.05.2|desktop-kde||
-|drkonqi|5.27.11|6.1.2|desktop-kde||
-|dropbox|148.4.4519|202.4.5551|app-web||
-|drumstick|2.0.0|2.9.0|app-creativity||
-|dssim|3.2.0|3.3.1|app-imaging||
-|dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
-|dsview|1.3.1|1.12|app-electronics||
-|dtc|1.6.0|1.7.0|app-devel||
-|dub|1.37.0|1.38.1|lang-dlang||
-|duktape|2.5.0|2.7.0|lang-js||
-|dulwich|0.21.6|0.22.1|runtime-vcs||
-|dune|3.4.1|3.16.0|lang-ocaml||
-|duplicity|2.2.2|3.0.0|app-utils||
-|e2fsprogs|1.47.0|1.47.1|app-admin||
-|easy-rsa|3.0.8|3.2.0|app-cryptography||
-|ecl|23.9.9|24.5.10|lang-lisp||
-|editables|0.3|0.5|lang-python||
-|editline|1.16.1|1.17.1|runtime-common||
-|editorconfig-core-c|0.12.6|0.12.9|runtime-editors||
-|efivar|38|39|app-admin||
-|elfutils|0.188|0.191|app-utils||
-|elfutils+32|0.166|0.191|runtime-optenv32||
-|elisa|23.08.5|24.05.2|desktop-kde||
-|embree|4.3.1|4.3.2|app-imaging||
-|emerald|0.8.12.4|0.8.18|desktop-wm||
-|enchant-2|2.3.1|2.8.1|app-i18n||
-|endeavour|42.0|43.0|desktop-gnome||
-|entrypoints|0.3|0.4|lang-python||
-|eog|42.3|45.3|desktop-gnome||
-|eog-plugins|42.1|44.0|desktop-gnome||
-|epiphany|42.4|46.2|desktop-gnome||
-|epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
-|et-xmlfile|1.0.1|1.1.0|lang-python||
-|etckeeper|1.18.20|1.18.21|app-admin||
-|ethtool|6.0|6.9|app-network||
-|etl|1.2.2|1.5.1|runtime-common||
-|eudev+32|3.1.5|3.2.14|runtime-optenv32||
-|eventviews|23.08.5|24.05.2|desktop-kde||
-|evince|42.3|46.3|desktop-gnome||
-|evolution|3.44.4|3.53.1|desktop-gnome||
-|evolution-data-server|3.44.4|3.52.3|desktop-gnome||
-|evolution-ews|3.42.0|3.53.1|desktop-gnome||
-|evtest|1.34|1.35|app-utils||
-|exempi|2.5.1|2.6.5|runtime-imaging||
-|exiv2|0.27.5|0.28.2|runtime-imaging||
-|extra-cmake-modules|5.115.0|6.1.2|app-devel||
-|eyed3|0.9.5|0.9.7|lang-python||
-|eza|0.11.0|0.10.1|app-utils|Possible downgrade from the current version (0.11.0 -> 0.10.1)|
-|f3|7.2|8.0|app-utils||
-|faac|1.29.9.2|1.30|app-multimedia||
-|faac+32|1.28|1.30|runtime-optenv32||
-|faad2|2.10.0|2.11.1|app-multimedia||
-|faad2+32|2.10.0|2.11.1|runtime-optenv32||
-|facile|1.1.3|1.1.4|lang-ocaml||
-|fakeroot|1.34|1.35.1|app-utils||
-|falkon|23.08.5|24.05.2|desktop-kde||
-|fann|20190109|2.2.0|runtime-scientific|Possible downgrade from the current version (20190109 -> 2.2.0)|
-|fasteners|0.18|0.19|lang-python||
-|fastfetch|2.16.0|2.17.1|app-utils||
-|fastimport|0.9.8|0.9.14|lang-python||
-|fatattr|1.0.1|1.0.1.orig|app-utils|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
-|faulthandler|3.1|3.2|lang-python||
-|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
+|convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
+|corefreq|20170301|1.97.2-x86_64|app-utils|Compliance mode enabled, was '1.97.2-x86_64'<br>Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
+|corrosion|0.2.1|0.4.10|app-devel|Compliance mode enabled, was '0.4.10'|
+|cpp-utilities|5.20.0|5.25.0|runtime-common|Compliance mode enabled, was '5.25.0'|
+|cppcheck|2.8|2.14.0|app-devel|Compliance mode enabled, was '2.14.0'|
+|cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
+|cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
+|cracklib|2.9.8|2.9.11|runtime-cryptography|Compliance mode enabled, was '2.9.11'|
+|crash|7.2.9|8.0.5|app-devel|Compliance mode enabled, was '8.0.5'|
+|crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
+|crow-translate|2.9.1|2.11.1|app-i18n|Compliance mode enabled, was '2.11.1'|
+|crun|1.12|1.15|app-admin|Compliance mode enabled, was '1.15'|
+|cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
+|crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
+|cryptography|40.0.0|42.0.8|lang-python|Compliance mode enabled, was '42.0.8'|
+|cryptsetup|2.7.0|2.7.3|app-admin|Compliance mode enabled, was '2.7.3'|
+|css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
+|cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
+|ctags|20191203|6.1.20240630.0|app-devel|Compliance mode enabled, was '6.1.20240630.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20240630.0)|
+|cups|2.4.7|2.4.10|app-admin|Compliance mode enabled, was '2.4.10'|
+|cups+32|2.3.3|2.4.10|runtime-optenv32|Compliance mode enabled, was '2.4.10'|
+|curl+32|8.6.0|8.8.0|runtime-optenv32|Compliance mode enabled, was '8.8.0'|
+|curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
+|cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
+|cymem|2.0.5|2.0.8|lang-python|Compliance mode enabled, was '2.0.8'|
+|cython-0.29|0.29.36|3.0.10|lang-python|Compliance mode enabled, was '3.0.10'|
+|czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
+|dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
+|dar|2.7.13|2.7.15|app-utils|Compliance mode enabled, was '2.7.15'|
+|darkradiant|3.8.0|3.9.0|app-games|Compliance mode enabled, was '3.9.0'|
+|dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
+|dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
+|dbus+32|1.12.18|1.14.10|runtime-optenv32|Compliance mode enabled, was '1.14.10'|
+|dbus-1-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
+|dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
+|dbus-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|debianutils|5.7|5.19|app-utils|Compliance mode enabled, was '5.19'|
+|decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
+|deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
+|deno|1.44.1|1.44.4|lang-js|Compliance mode enabled, was '1.44.4'|
+|dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|deploykit-gui|0.6.2|test-ci|app-admin|Compliance mode enabled, was 'test-ci'<br>Versions not comparable: `0.6.2` and `test-ci`|
+|devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
+|dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
+|dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
+|diff-match-patch|20200713|20230430|lang-python|Compliance mode enabled, was '20230430'|
+|digikam|7.9.0|8.3.0|desktop-kde|Compliance mode enabled, was '8.3.0'|
+|digikam-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|discover|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
+|distorm|3.5.1|3.5.2b|app-devel|Compliance mode enabled, was '3.5.2b'|
+|distro|1.6.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
+|django|5.0.3|5.0.6|lang-python|Compliance mode enabled, was '5.0.6'|
+|dlib|19.20.0|19.24.4|lang-python|Compliance mode enabled, was '19.24.4'|
+|dmd|2.108.1|2.109.1|lang-dlang|Compliance mode enabled, was '2.109.1'|
+|docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
+|docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
+|docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
+|docker-compose|2.27.1|2.28.1|app-containers|Compliance mode enabled, was '2.28.1'|
+|docutils|0.20.1|0.21.2|lang-python|Compliance mode enabled, was '0.21.2'|
+|dolphin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|dolphin-emu|5.0<br>+git20211101|2407|app-games|Compliance mode enabled, was '2407'|
+|dolphin-plugins|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|dolphin-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
+|dotnet-apphost-pack-6.0|6.0.30|6.0.31|lang-dotnet|Compliance mode enabled, was '6.0.31'|
+|dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
+|dotnet-hostfxr-6.0|6.0.30|6.0.31|lang-dotnet|Compliance mode enabled, was '6.0.31'|
+|dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet|Compliance mode enabled, was '2.1.30'|
+|dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet|Compliance mode enabled, was '3.1.32'|
+|dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
+|dotnet-runtime-6.0|6.0.30|6.0.31|lang-dotnet|Compliance mode enabled, was '6.0.31'|
+|dotnet-runtime-deps-6.0|6.0.0|6.0.31|lang-dotnet|Compliance mode enabled, was '6.0.31'|
+|dotnet-sdk-6.0|6.0.422|6.0.423|app-devel|Compliance mode enabled, was '6.0.423'|
+|dotnet-targeting-pack-6.0|6.0.30|6.0.31|lang-dotnet|Compliance mode enabled, was '6.0.31'|
+|dotnet-templates-6.0|6.0.422|6.0.423|app-devel|Compliance mode enabled, was '6.0.423'|
+|double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
+|dovecot|2.3.10.1|2.3.21|app-web|Compliance mode enabled, was '2.3.21'|
+|doxygen|1.10.0|1.11.0|app-doc|Compliance mode enabled, was '1_11_0'|
+|doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
+|dpdk|22.11.1|24.03|runtime-network|Compliance mode enabled, was '24.03'|
+|dragon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|drkonqi|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|dropbox|148.4.4519|202.4.5551|app-web|Compliance mode enabled, was '202.4.5551'|
+|drumstick|2.0.0|2.9.0|app-creativity|Compliance mode enabled, was '2.9.0'|
+|dssim|3.2.0|3.3.1|app-imaging|Compliance mode enabled, was '3.3.1'|
+|dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
+|dsview|1.3.1|1.12|app-electronics|Compliance mode enabled, was '1.12'|
+|dtc|1.6.0|1.7.0|app-devel|Compliance mode enabled, was '1.7.0'|
+|dub|1.37.0|1.38.1|lang-dlang|Compliance mode enabled, was '1.38.1'|
+|duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
+|dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
+|dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
+|duplicity|2.2.2|3.0.0|app-utils|Compliance mode enabled, was '3.0.0'|
+|e2fsprogs|1.47.0|1.47.1|app-admin|Compliance mode enabled, was '1.47.1'|
+|easy-rsa|3.0.8|3.2.0|app-cryptography|Compliance mode enabled, was '3.2.0'|
+|ecl|23.9.9|24.5.10|lang-lisp|Compliance mode enabled, was '24.5.10'|
+|editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
+|editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
+|editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
+|efivar|38|39|app-admin|Compliance mode enabled, was '39'|
+|elfutils|0.188|0.191|app-utils|Compliance mode enabled, was '0.191'|
+|elfutils+32|0.166|0.191|runtime-optenv32|Compliance mode enabled, was '0.191'|
+|elisa|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|embree|4.3.1|4.3.2|app-imaging|Compliance mode enabled, was '4.3.2'|
+|emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
+|enchant-2|2.3.1|2.8.1|app-i18n|Compliance mode enabled, was '2.8.1'|
+|endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
+|eog|42.3|45.3|desktop-gnome|Compliance mode enabled, was '45.3'|
+|eog-plugins|42.1|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|epiphany|42.4|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compliance mode enabled, was '0.1.6'|
+|et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
+|etckeeper|1.18.20|1.18.21|app-admin|Compliance mode enabled, was '1.18.21'|
+|ethtool|6.0|6.9|app-network|Compliance mode enabled, was '6.9'|
+|etl|1.2.2|1.5.1|runtime-common|Compliance mode enabled, was '1.5.1'|
+|eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
+|eventviews|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|evince|42.3|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|evolution|3.44.4|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
+|evolution-data-server|3.44.4|3.52.3|desktop-gnome|Compliance mode enabled, was '3.52.3'|
+|evolution-ews|3.42.0|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
+|evtest|1.34|1.35|app-utils|Compliance mode enabled, was '1.35'|
+|exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
+|exiv2|0.27.5|0.28.2|runtime-imaging|Compliance mode enabled, was '0.28.2'|
+|extra-cmake-modules|5.115.0|6.1.2|app-devel|Compliance mode enabled, was '6.1.2'|
+|eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
+|eza|0.11.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'<br>Possible downgrade from the current version (0.11.0 -> 0.10.1)|
+|f3|7.2|8.0|app-utils|Compliance mode enabled, was '8.0'|
+|faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
+|faac+32|1.28|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
+|faad2|2.10.0|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
+|faad2+32|2.10.0|2.11.1|runtime-optenv32|Compliance mode enabled, was '2.11.1'|
+|facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
+|fakeroot|1.34|1.35.1|app-utils|Compliance mode enabled, was '1.35.1'|
+|falkon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
+|fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
+|fastfetch|2.16.0|2.17.1|app-utils|Compliance mode enabled, was '2.17.1'|
+|fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
+|fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
+|faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
+|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compliance mode enabled, was '2.29.5374.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
-|fcron|3.3.1|3.3.0|app-admin|Possible downgrade from the current version (3.3.1 -> 3.3.0)|
-|feedbackd|0.2.1|0.4.0|desktop-gnome||
-|feedparser|6.0.8|6.0.11|lang-python||
-|feeluown|4.1.1|4.1.5|app-multimedia||
-|feeluown-bilibili|0.3.3|0.4.0|app-multimedia||
-|feeluown-netease|1.0.1|1.0.3|app-multimedia||
-|feeluown-qqmusic|1.0.2|1.0.5|app-multimedia||
-|feeluown-ytmusic|0.3.4|0.4.1|app-multimedia||
-|ffcall|2.2|2.4|runtime-common||
-|ffmpeg|4.4.4|7.0.1|app-multimedia||
-|ffmpeg+32|4.2.5|7.0.1|runtime-optenv32||
-|ffmpegthumbs|23.08.5|24.05.2|desktop-kde||
-|ffms2|2.40|5.0|app-multimedia||
-|ffnvcodec|11.1.5.1|12.2.72.0|runtime-multimedia||
-|fftw+32|3.3.4|3.3.10|runtime-optenv32||
-|fido2|0.9.1|1.1.3|lang-python||
-|file-roller|3.42.0|44.3|desktop-gnome||
-|filelight|23.08.5|24.05.2|desktop-kde||
-|filelight-trinity|14.1.0|14.1.2|desktop-trinity||
-|filezilla|3.66.4|3.60.2|app-network|Possible downgrade from the current version (3.66.4 -> 3.60.2)|
-|findlib|1.9.5|1.9.6|lang-ocaml||
-|fio|3.35|3.37|app-utils||
-|firewalld|2.0.0|2.1.2|app-network||
-|flac|1.3.3|1.4.3|app-multimedia||
-|flac+32|1.3.3|1.4.3|runtime-optenv32||
-|flake8|7.0.0|7.1.0|lang-python||
-|flask|1.1.2|3.0.3|lang-python||
-|flask-login|0.4.1|0.6.3|lang-python||
-|flask-mail|0.9.1|0.10.0|lang-python||
-|flask-wtf|0.14|1.2.1|lang-python||
-|flat-remix-gtk-theme|20200718|20220627|desktop-themes||
-|flat-remix-icon-theme|20191122|20240201|desktop-themes||
-|flatbuffers|2.0.6|24.3.25|runtime-common||
-|flatpak|1.14.6|1.14.8|app-admin||
-|flent|1.3.2|2.1.1|app-network||
-|flightgear|2020.3.13|2020.3.19|app-games||
-|flint|2.5.2|3.1.2|runtime-scientific||
-|fltk|1.3.5|1.3.9|runtime-desktop||
-|fluidsynth|2.0.5|2.3.5|app-multimedia||
-|fluidsynth+32|1.1.6|2.3.5|runtime-optenv32||
-|fmt|10.2.1|11.0.0|runtime-common||
-|folks|0.15.5|0.15.9|desktop-gnome||
-|font-awesome|6.5.1|6.5.2|desktop-fonts||
-|font-manager|0.8.8|0.9.0|app-utils||
-|fontconfig+32|2.14.0|2.15.0|runtime-optenv32||
-|fonttools|4.47.2|4.53.0|desktop-fonts||
-|foolscap|0.13.2|23.11.0|lang-python||
-|fortune-mod|3.6.1|3.22.0|app-games||
-|fping|5.1|5.2|app-network||
-|fprintd|1.94.2|1.94.3|app-admin||
-|fractal|7.0|7|desktop-gnome||
-|frameworkintegration|5.115.0|6.1.2|desktop-kde||
-|freealut|1.1.0|1_1_0|runtime-multimedia||
-|freealut+32|1.1.0|1_1_0|runtime-optenv32||
-|freecell-solver|6.2.0|6.12.0|app-games||
-|freeciv|2.6.5|3.1.1|app-games||
-|freeglut|3.4.0|3.6.0|runtime-display||
-|freeglut+32|3.0.0|3.6.0|runtime-optenv32||
-|freerdp|2.11.2|3.5.1|app-network||
-|freetds|1.00.112|1.4.19|runtime-database||
-|freetype|2.12.1|2.13.2|runtime-desktop||
-|freetype+32|2.12.1|2.13.2|runtime-optenv32||
-|freexl|1.0.5|2.0.0|runtime-gis||
-|frei0r-plugins|2.3.2|2.3.3|runtime-multimedia||
-|frescobaldi|3.2|3.3.0|app-multimedia||
-|fribidi|1.0.14|1.0.15|app-scientific||
-|fribidi+32|1.0.10|1.0.15|runtime-optenv32||
-|functools32|3.2.3<br>+2|3.2.3-2|lang-python|Compound version number '3.2.3+2'|
-|fuse-exfat|1.3.0|1.4.0|app-admin||
-|fuse-overlayfs|1.13|1.14|app-admin||
-|fuse-python|0.3.1|1.0.8|lang-python||
-|future|0.17.0|1.0.0|lang-python||
-|futures|3.2.0|3.4.0|lang-python||
-|fvwm|2.6.9|2.7.0|desktop-wm||
-|fzf|0.46.1|0.53.0|app-utils||
-|gajim|1.4.0|1.9.1|app-web||
-|game-music-emu+32|0.6.0|0.6.3|runtime-optenv32||
-|gammaray|2.11.2|3.0.0|app-devel||
-|gap|4.10.2|4.13.1|app-scientific||
-|gaupol|1.7|1.15|app-multimedia||
-|gc|8.2.6|8.2.4|runtime-common|Possible downgrade from the current version (8.2.6 -> 8.2.4)|
-|gcab|1.1|1.6|desktop-gnome||
-|gcc|13.2.0|14.1.0|core-devel||
-|gcc+32|13.2.0|14.1.0|runtime-optenv32||
-|gcc+cross-amd64|9.3.1|14.1.0|app-devel||
-|gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|app-devel|Compound version number '12.2.0+glibc2.36+4'|
-|gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|14.1.0|app-devel|Compound version number '13.2.0+glibc2.37+1'|
-|gcc+cross-loongson3|13.2.0<br>+glibc2.37<br>+0|14.1.0|app-devel|Compound version number '13.2.0+glibc2.37+0'|
-|gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|app-devel|Compound version number '12.2.0+glibc2.36-4'|
-|gcc+cross-powerpc|9.3.1|14.1.0|app-devel||
-|gcc+cross-ppc64|9.3.1|14.1.0|app-devel||
-|gcc+cross-ppc64el|12.3.0|14.1.0|app-devel||
-|gcc+cross-riscv64|12.1.0|14.1.0|app-devel||
-|gcc+w64|9.3.1|14.1.0|runtime-optenvw64||
-|gcdemu|3.2.4|3.2.6|app-multimedia||
-|gcr|3.41.1|4.3.0|desktop-gnome||
-|gdal|3.8.4|3.9.1|runtime-gis||
-|gdb+cross-amd64|8.2|14.2|app-devel||
-|gdb+cross-arm64|12.1|14.2|app-devel||
-|gdb+cross-mips64r6el|12.1|14.2|app-devel||
-|gdbm|1.23|1.24|app-database||
-|gdbm+32|1.11|1.24|runtime-optenv32||
-|gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32||
-|gdm|42.0|46.2|desktop-gnome||
-|gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
-|gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compound version number '0.8.1+debian'|
-|geany|2.0|2.0.0|app-devel||
-|geany-plugins|2.0|2.0.0|app-devel||
-|geary|40.0|46.0|desktop-gnome||
-|gedit|42.2|47.0|desktop-gnome||
-|gedit-plugins|42.1|47.1|desktop-gnome||
-|gegl-0.4|0.4.48|0_4_48|runtime-imaging||
-|genpac|2.0.1|3.0.1|app-network||
-|geoclue2|2.6.0|2.7.1|runtime-gis||
-|geoipupdate|6.1.0|7.0.1|app-network||
-|geos|3.7.3|3.12.2|runtime-gis||
-|getdns|1.6.0|1.7.3|app-network||
-|gexiv2|0.14.0|0.14.3|desktop-gnome||
-|gfm|1.07|1.08|app-devices||
-|ghc|9.4.8|9.10.1-release|lang-haskell||
-|ghex|42.3|46.0|desktop-gnome||
-|ghidra|11.0|11.1.1_build|app-devel||
-|ghostscript|9.54.0|10.03.1|app-doc||
-|ghostscript+32|9.27|10.03.1|runtime-optenv32||
-|ghostwriter|23.08.5|24.05.2|desktop-kde||
-|gi-docgen|2023.3|2024.1|app-doc||
-|giac|1.9.0<br>+93|1.9.0|app-scientific|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
-|giflib|5.1.8|5.2.2|runtime-imaging||
-|giflib+32|5.1.8|5.2.2|runtime-optenv32||
-|gifski|1.14.4|1.32.0|app-imaging||
-|gimp|2.10.36|2_10_38|app-creativity||
-|girara|0.4.4|0.4.3|runtime-desktop|Possible downgrade from the current version (0.4.4 -> 0.4.3)|
-|git-archive-all|1.20.0|1.23.1|app-vcs||
-|git-branchless|0.7.1|0.9.0|app-utils||
-|git-cliff|2.2.2|2.4.0|app-vcs||
-|git-lfs|3.5.0|3.5.1|app-devel||
-|gitdb|4.0.10|4.0.11|runtime-vcs||
-|gitg|41|44|desktop-gnome||
-|gitpython|3.1.35|3.1.43|runtime-vcs||
-|gjs|1.74.0|1.81.1|desktop-gnome||
-|gksu|2.0.2|2.0.12|desktop-gnome||
-|glances|4.0.5|4.1.1|app-admin||
-|glib|2.80.0|2.80.3|runtime-common||
-|glib+32|2.62.6|2.80.3|runtime-optenv32||
-|glib-networking|2.72.2|2.80.0|runtime-common||
-|glibc|2.38|2.39|core-libs||
-|glibc+32|2.38|2.39|runtime-optenv32||
-|glibmm|2.66.2|2.80.0|desktop-gnome||
-|glibmm-2.68|2.78.0|2.80.0|desktop-gnome||
-|glog|0.3.5|0.7.1|runtime-common||
-|glslang|13.1.1|14.3.0|app-imaging||
-|glslang+32|7.11.3214|14.3.0|runtime-optenv32||
-|glu+32|9.0.1|9.0.3|runtime-optenv32||
-|gmic|3.2.6|3.4.0|runtime-imaging||
-|gmime-3|3.2.7|3.2.15|desktop-gnome||
-|gmpy2|2.1.5|2.2.0|lang-python||
-|gnome-applets|3.44.0|3.52.0|desktop-gnome||
-|gnome-autoar|0.4.3|0.4.4|desktop-gnome||
-|gnome-backgrounds|42.0|46.0|desktop-gnome||
-|gnome-bluetooth|42.2|46.0|desktop-gnome||
-|gnome-boxes|42.3|46.1|desktop-gnome||
-|gnome-builder|42.1|46.2|desktop-gnome||
-|gnome-calculator|42.2|46.1|desktop-gnome||
-|gnome-calendar|42.2|46.1|desktop-gnome||
-|gnome-characters|42.0|46.0|desktop-gnome||
-|gnome-chess|42.1|46.0|desktop-gnome||
-|gnome-clocks|42.0|46.0|desktop-gnome||
-|gnome-color-manager|3.36.0|3_36_0|desktop-gnome||
-|gnome-connections|42.1.2|46.0|desktop-gnome||
-|gnome-contacts|42.0|46.0|desktop-gnome||
-|gnome-control-center|42.3|46.3|desktop-gnome||
-|gnome-desktop|42.4|44.0|desktop-gnome||
-|gnome-disk-utility|42.0|46.0|desktop-gnome||
-|gnome-flashback|3.45.1|3.52.1|desktop-gnome||
-|gnome-font-viewer|42.0|46.0|desktop-gnome||
-|gnome-initial-setup|42.2|46.3|desktop-gnome||
-|gnome-keyring|40.0|46.1|desktop-gnome||
-|gnome-logs|3.36.0|43.0|desktop-gnome||
-|gnome-mahjongg|3.38.3|3.40.1|desktop-gnome||
-|gnome-maps|42.3|46.11|desktop-gnome||
-|gnome-nibbles|3.38.2|4.0.4|desktop-gnome||
-|gnome-online-accounts|3.44.0|3.51.0|desktop-gnome||
-|gnome-packagekit|3.32.0|43.0|desktop-gnome||
-|gnome-panel|3.44.0|3.52.0|desktop-gnome||
-|gnome-remote-desktop|42.4|46.3|desktop-gnome||
-|gnome-session|42.0|46.0|desktop-gnome||
-|gnome-settings-daemon|42.2|46.0|desktop-gnome||
-|gnome-shell|42.4|46.3.1|desktop-gnome||
-|gnome-shell-extension-gsconnect|53|57|desktop-gnome||
-|gnome-shell-extensions|42.3|46.2|desktop-gnome||
-|gnome-software|42.4|46.3|desktop-gnome||
-|gnome-sudoku|42.0|46.3|desktop-gnome||
-|gnome-system-monitor|42.0|46.0|desktop-gnome||
-|gnome-terminal|3.44.1|3.97.0|desktop-gnome||
-|gnome-themes-standard|3.27.90|3.28|desktop-gnome||
-|gnome-tour|42.0|46.0|desktop-gnome||
-|gnome-usage|3.38.1|46.0|desktop-gnome||
-|gnome-user-docs|42.0|46.1|desktop-gnome||
-|gnome-user-share|3.34.0|43.0|desktop-gnome||
-|gnome-video-effects|0.4.3|0.6.0|desktop-gnome||
-|gnome-weather|42.0|46.0|desktop-gnome||
-|gnote|42.1|46.0|desktop-gnome||
-|gnu-efi|3.0.14|3.0.18|app-devel||
-|gnuplot|6.0.0|6.0.1|app-utils||
-|gnustep-base|1.28.0|1_30_0|runtime-gnustep||
-|gnustep-make|2.9.0|2_9_2|runtime-gnustep||
-|gnutls|3.8.4|3.8.6|runtime-cryptography||
-|gnutls+32|3.6.15|3.8.6|runtime-optenv32||
+|fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
+|feedbackd|0.2.1|0.4.0|desktop-gnome|Compliance mode enabled, was '0.4.0'|
+|feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
+|feeluown|4.1.1|4.1.5|app-multimedia|Compliance mode enabled, was '4.1.5'|
+|feeluown-bilibili|0.3.3|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
+|feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
+|feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
+|feeluown-ytmusic|0.3.4|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
+|ffcall|2.2|2.4|runtime-common|Compliance mode enabled, was '2.4'|
+|ffmpeg|4.4.4|7.0.1|app-multimedia|Compliance mode enabled, was '7.0.1'|
+|ffmpeg+32|4.2.5|7.0.1|runtime-optenv32|Compliance mode enabled, was '7.0.1'|
+|ffmpegthumbs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ffms2|2.40|5.0|app-multimedia|Compliance mode enabled, was '5.0'|
+|ffnvcodec|11.1.5.1|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
+|fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
+|fido2|0.9.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
+|file-roller|3.42.0|44.3|desktop-gnome|Compliance mode enabled, was '44.3'|
+|filelight|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|filelight-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
+|findlib|1.9.5|1.9.6|lang-ocaml|Compliance mode enabled, was '1.9.6'|
+|fio|3.35|3.37|app-utils|Compliance mode enabled, was '3.37'|
+|firewalld|2.0.0|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
+|flac|1.3.3|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
+|flac+32|1.3.3|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
+|flake8|7.0.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
+|flask|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
+|flask-login|0.4.1|0.6.3|lang-python|Compliance mode enabled, was '0.6.3'|
+|flask-mail|0.9.1|0.10.0|lang-python|Compliance mode enabled, was '0.10.0'|
+|flask-wtf|0.14|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
+|flat-remix-gtk-theme|20200718|20220627|desktop-themes|Compliance mode enabled, was '20220627'|
+|flat-remix-icon-theme|20191122|20240201|desktop-themes|Compliance mode enabled, was '20240201'|
+|flatbuffers|2.0.6|24.3.25|runtime-common|Compliance mode enabled, was '24.3.25'|
+|flatpak|1.14.6|1.14.8|app-admin|Compliance mode enabled, was '1.14.8'|
+|flent|1.3.2|2.1.1|app-network|Compliance mode enabled, was '2.1.1'|
+|flightgear|2020.3.13|2020.3.19|app-games|Compliance mode enabled, was '2020.3.19'|
+|flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
+|fltk|1.3.5|1.3.9|runtime-desktop|Compliance mode enabled, was '1.3.9'|
+|fluidsynth|2.0.5|2.3.5|app-multimedia|Compliance mode enabled, was '2.3.5'|
+|fluidsynth+32|1.1.6|2.3.5|runtime-optenv32|Compliance mode enabled, was '2.3.5'|
+|fmt|10.2.1|11.0.0|runtime-common|Compliance mode enabled, was '11.0.0'|
+|folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
+|font-awesome|6.5.1|6.5.2|desktop-fonts|Compliance mode enabled, was '6.5.2'|
+|font-manager|0.8.8|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'|
+|fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
+|fonttools|4.47.2|4.53.0|desktop-fonts|Compliance mode enabled, was '4.53.0'|
+|foolscap|0.13.2|23.11.0|lang-python|Compliance mode enabled, was '23.11.0'|
+|fortune-mod|3.6.1|3.22.0|app-games|Compliance mode enabled, was '3.22.0'|
+|fping|5.1|5.2|app-network|Compliance mode enabled, was '5.2'|
+|fprintd|1.94.2|1.94.3|app-admin|Compliance mode enabled, was '1.94.3'|
+|fractal|7.0|7|desktop-gnome|Compliance mode enabled, was '7'|
+|frameworkintegration|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
+|freeciv|2.6.5|3.1.1|app-games|Compliance mode enabled, was '3.1.1'|
+|freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
+|freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
+|freerdp|2.11.2|3.5.1|app-network|Compliance mode enabled, was '3.5.1'|
+|freetds|1.00.112|1.4.19|runtime-database|Compliance mode enabled, was '1.4.19'|
+|freetype|2.12.1|2.13.2|runtime-desktop|Compliance mode enabled, was '2.13.2'|
+|freetype+32|2.12.1|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
+|freexl|1.0.5|2.0.0|runtime-gis|Compliance mode enabled, was '2.0.0'|
+|frei0r-plugins|2.3.2|2.3.3|runtime-multimedia|Compliance mode enabled, was '2.3.3'|
+|frescobaldi|3.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
+|fribidi|1.0.14|1.0.15|app-scientific|Compliance mode enabled, was '1.0.15'|
+|fribidi+32|1.0.10|1.0.15|runtime-optenv32|Compliance mode enabled, was '1.0.15'|
+|fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
+|fuse-exfat|1.3.0|1.4.0|app-admin|Compliance mode enabled, was '1.4.0'|
+|fuse-overlayfs|1.13|1.14|app-admin|Compliance mode enabled, was '1.14'|
+|fuse-python|0.3.1|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
+|future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
+|futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
+|fvwm|2.6.9|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
+|fzf|0.46.1|0.53.0|app-utils|Compliance mode enabled, was '0.53.0'|
+|gajim|1.4.0|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
+|game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
+|gammaray|2.11.2|3.0.0|app-devel|Compliance mode enabled, was '3.0.0'|
+|gap|4.10.2|4.13.1|app-scientific|Compliance mode enabled, was '4.13.1'|
+|gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
+|gc|8.2.6|8.2.4|runtime-common|Compliance mode enabled, was '8.2.4'<br>Possible downgrade from the current version (8.2.6 -> 8.2.4)|
+|gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
+|gcc|13.2.0|14.1.0|core-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+32|13.2.0|14.1.0|runtime-optenv32|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-amd64|9.3.1|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-loongson3|13.2.0<br>+glibc2.37<br>+0|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-powerpc|9.3.1|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-ppc64|9.3.1|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-ppc64el|12.3.0|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+cross-riscv64|12.1.0|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+w64|9.3.1|14.1.0|runtime-optenvw64|Compliance mode enabled, was '14.1.0'|
+|gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
+|gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
+|gdal|3.8.4|3.9.1|runtime-gis|Compliance mode enabled, was '3.9.1'|
+|gdb+cross-amd64|8.2|14.2|app-devel|Compliance mode enabled, was '14.2'|
+|gdb+cross-arm64|12.1|14.2|app-devel|Compliance mode enabled, was '14.2'|
+|gdb+cross-mips64r6el|12.1|14.2|app-devel|Compliance mode enabled, was '14.2'|
+|gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
+|gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
+|gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
+|gdm|42.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
+|gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
+|geany|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
+|geany-plugins|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
+|geary|40.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gedit|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gedit-plugins|42.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|genpac|2.0.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
+|geoclue2|2.6.0|2.7.1|runtime-gis|Compliance mode enabled, was '2.7.1'|
+|geoipupdate|6.1.0|7.0.1|app-network|Compliance mode enabled, was '7.0.1'|
+|geos|3.7.3|3.12.2|runtime-gis|Compliance mode enabled, was '3.12.2'|
+|getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
+|gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
+|gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|ghc|9.4.8|9.10.1-release|lang-haskell|Compliance mode enabled, was '9.10.1-release'|
+|ghex|42.3|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|ghidra|11.0|11.1.1_build|app-devel|Compliance mode enabled, was '11.1.1_build'|
+|ghostscript|9.54.0|10.03.1|app-doc|Compliance mode enabled, was '10.03.1'|
+|ghostscript+32|9.27|10.03.1|runtime-optenv32|Compliance mode enabled, was '10.03.1'|
+|ghostwriter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|gi-docgen|2023.3|2024.1|app-doc|Compliance mode enabled, was '2024.1'|
+|giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
+|giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
+|giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
+|gifski|1.14.4|1.32.0|app-imaging|Compliance mode enabled, was '1.32.0'|
+|gimp|2.10.36|2.10.38|app-creativity|Compliance mode enabled, was '2_10_38'|
+|girara|0.4.4|0.4.3|runtime-desktop|Compliance mode enabled, was '0.4.3'<br>Possible downgrade from the current version (0.4.4 -> 0.4.3)|
+|git-archive-all|1.20.0|1.23.1|app-vcs|Compliance mode enabled, was '1.23.1'|
+|git-branchless|0.7.1|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'|
+|git-cliff|2.2.2|2.4.0|app-vcs|Compliance mode enabled, was '2.4.0'|
+|git-lfs|3.5.0|3.5.1|app-devel|Compliance mode enabled, was '3.5.1'|
+|gitdb|4.0.10|4.0.11|runtime-vcs|Compliance mode enabled, was '4.0.11'|
+|gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
+|gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
+|gjs|1.74.0|1.81.1|desktop-gnome|Compliance mode enabled, was '1.81.1'|
+|gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
+|glances|4.0.5|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
+|glib|2.80.0|2.80.3|runtime-common|Compliance mode enabled, was '2.80.3'|
+|glib+32|2.62.6|2.80.3|runtime-optenv32|Compliance mode enabled, was '2.80.3'|
+|glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
+|glibc|2.38|2.39|core-libs|Compliance mode enabled, was '2.39'|
+|glibc+32|2.38|2.39|runtime-optenv32|Compliance mode enabled, was '2.39'|
+|glibmm|2.66.2|2.80.0|desktop-gnome|Compliance mode enabled, was '2.80.0'|
+|glibmm-2.68|2.78.0|2.80.0|desktop-gnome|Compliance mode enabled, was '2.80.0'|
+|glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
+|glslang|13.1.1|14.3.0|app-imaging|Compliance mode enabled, was '14.3.0'|
+|glslang+32|7.11.3214|14.3.0|runtime-optenv32|Compliance mode enabled, was '14.3.0'|
+|glu+32|9.0.1|9.0.3|runtime-optenv32|Compliance mode enabled, was '9.0.3'|
+|gmic|3.2.6|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
+|gmime-3|3.2.7|3.2.15|desktop-gnome|Compliance mode enabled, was '3.2.15'|
+|gmpy2|2.1.5|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|gnome-applets|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|gnome-autoar|0.4.3|0.4.4|desktop-gnome|Compliance mode enabled, was '0.4.4'|
+|gnome-backgrounds|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-bluetooth|42.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-builder|42.1|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|gnome-calculator|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-characters|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-chess|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-clocks|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-connections|42.1.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-contacts|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-control-center|42.3|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-desktop|42.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|gnome-disk-utility|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-flashback|3.45.1|3.52.1|desktop-gnome|Compliance mode enabled, was '3.52.1'|
+|gnome-font-viewer|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-initial-setup|42.2|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-keyring|40.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-logs|3.36.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|gnome-mahjongg|3.38.3|3.40.1|desktop-gnome|Compliance mode enabled, was '3.40.1'|
+|gnome-maps|42.3|46.11|desktop-gnome|Compliance mode enabled, was '46.11'|
+|gnome-nibbles|3.38.2|4.0.4|desktop-gnome|Compliance mode enabled, was '4.0.4'|
+|gnome-online-accounts|3.44.0|3.51.0|desktop-gnome|Compliance mode enabled, was '3.51.0'|
+|gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|gnome-remote-desktop|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-session|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-settings-daemon|42.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-shell|42.4|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
+|gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
+|gnome-shell-extensions|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|gnome-software|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-sudoku|42.0|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-system-monitor|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
+|gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
+|gnome-tour|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-usage|3.38.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-user-docs|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-user-share|3.34.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
+|gnome-weather|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnote|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnu-efi|3.0.14|3.0.18|app-devel|Compliance mode enabled, was '3.0.18'|
+|gnuplot|6.0.0|6.0.1|app-utils|Compliance mode enabled, was '6.0.1'|
+|gnustep-base|1.28.0|1.30.0|runtime-gnustep|Compliance mode enabled, was '1_30_0'|
+|gnustep-make|2.9.0|2.9.2|runtime-gnustep|Compliance mode enabled, was '2_9_2'|
+|gnutls|3.8.4|3.8.6|runtime-cryptography|Compliance mode enabled, was '3.8.6'|
+|gnutls+32|3.6.15|3.8.6|runtime-optenv32|Compliance mode enabled, was '3.8.6'|
 |go|1.22.3|1.22.5|lang-golang||
-|gobject-introspection|1.80.0|1.80.1|app-devel||
-|goffice|0.10.48|0.10.57|runtime-productivity||
-|goldendict|1.5.0~rc2|1.5.0|app-i18n||
-|gom|0.4|0.5.1|runtime-database||
-|google-api-python-client|1.7.11|2.136.0|lang-python||
-|google-auth|1.6.3|2.31.0|lang-python||
-|google-auth-httplib2|0.0.4|0.2.0|lang-python||
-|gpac|2.2.1|2.4.0|app-multimedia||
-|gperftools|2.13|2.15|app-devel||
-|gpodder|3.10.17|3.11.4|app-multimedia||
-|gpsd|3.18.1|3.25|app-scientific||
-|gpsim|0.31.0|0.32.1|app-electronics||
-|gptfdisk|1.0.9|1.0.10|app-admin||
-|gradle|8.3|8.8.0|lang-java||
-|granatier|23.08.5|24.05.2|desktop-kde||
-|grantlee-editor|23.08.5|24.05.2|desktop-kde||
-|grantleetheme|23.08.5|24.05.2|desktop-kde||
-|graphene|1.10.2|1.10.8|runtime-imaging||
-|graphviz|10.0.1|12.0.0|app-doc||
-|greenlet|1.1.2|3.0.3|lang-python||
-|grep|3.8|3.11|app-utils||
-|greybird|3.22.12|3.23.3|desktop-themes||
-|grilo|0.3.15|0.3.16|desktop-gnome||
-|grilo-plugins|0.3.15|0.3.16|desktop-gnome||
-|gringo|5.4.1|5.7.1|app-devel||
-|groff|1.22.4|1.23.0|app-utils||
-|grpc|1.64.0|1.65.0|app-network||
-|grub-customizer|5.2.4|5.2.5|app-admin||
-|gsasl|1.8.1|2.2.1|runtime-admin||
-|gsettings-desktop-schemas|42.0|46.0|desktop-gnome||
-|gsl|2.5|2.8|runtime-scientific||
-|gsm|1.0.19|1.0.22|runtime-multimedia||
-|gsm+32|1.0.19|1.0.22|runtime-optenv32||
-|gsmartcontrol|1.1.3|1.1.4|app-admin||
-|gsoap|2.8.124|2.8.135|runtime-network||
-|gsound|1.0.2|1.0.3|desktop-gnome||
-|gspell|1.11.1|1.12.2|desktop-gnome||
-|gssdp|1.2.3|1.6.3|runtime-network||
-|gssproxy|0.8.2|0.9.2|app-network||
-|gst-libav-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gst-plugins-bad-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gst-plugins-base-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gst-plugins-good-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gst-plugins-ugly-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gstreamer|1.24.4|1.24.5|runtime-multimedia||
-|gstreamer-1-0+32|1.16.2|1.24.5|runtime-optenv32||
-|gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
-|gti|1.6.1|1.9.1|app-vcs||
-|gtk-2+32|2.24.32|2.24.33|runtime-optenv32||
-|gtk-4|4.14.2|4.14.4|desktop-gnome||
-|gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Possible downgrade from the current version (2.21.0 -> 2.20.2)|
-|gtk-layer-shell|0.8.1|0.8.2|runtime-desktop||
-|gtk-qt-engine|14.1.0|14.1.2|desktop-trinity||
-|gtk3-tqt-engine|14.1.0|14.1.2|desktop-trinity||
-|gtkmm-3|3.24.6|3.24.9|desktop-gnome||
-|gtksourceview-4|4.8.3|4.8.4|runtime-editors||
-|gtkspellcheck|4.0.5|5.0.3|lang-python||
-|gtkwave|3.3.119|3.3.120|app-electronics||
-|gtranslator|42.0|46.1|desktop-gnome||
-|gucharmap|15.1.3|15.1.5|desktop-gnome||
-|guile|3.0.4|3.0.10|app-devel||
-|gulp|4.0.0|5.0.0|lang-js||
-|gupnp|1.2.4|1.6.6|desktop-gnome||
-|gupnp-av|0.12.11|0.14.1|desktop-gnome||
-|gupnp-dlna|0.10.5|0.12.0|desktop-gnome||
-|gupnp-igd|0.2.5|1.6.0|desktop-gnome||
-|gvfs|1.50.2|1.55.1|desktop-gnome||
-|gwc|0.21<br>+19|0.22-06|app-multimedia|Compound version number '0.21+19'|
-|gwenhywfar|5.4.0|5.10.2|runtime-network||
-|gwenview|23.08.5|24.05.2|desktop-kde||
-|gwenview-trinity|14.1.0|14.1.2|desktop-trinity||
-|gzdoom|4.6.1|4.12.2|app-games||
-|hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
-|harfbuzz|8.4.0|9.0.0|runtime-desktop||
-|harfbuzz+32|2.6.7|9.0.0|runtime-optenv32||
-|haruna|0.12.3|1.1.2|desktop-kde||
-|harvid|0.8.3|0.9.1|app-multimedia||
-|hatchling|1.21.1|1.12.0|lang-python|Possible downgrade from the current version (1.21.1 -> 1.12.0)|
-|haveged|1.9.13|1.9.18|app-utils||
-|hddtemp|0.3.52|0.4.3|app-utils||
-|hdf5|1.10.5|1.14.4.3|runtime-scientific||
-|hdsentinel|0.17|400s|app-utils||
-|helm|3.15.0|3.15.2|app-containers||
-|help2man|1.48.1|1.49.3|app-doc||
-|herbstluftwm|0.7.2|0.9.5|desktop-wm||
-|hexchat|2.16.1|2.16.2|app-web||
-|hfsprogs|332.25|667.100.2|app-admin||
-|highlight|4.10|4.12|app-devel||
-|highway|1.1.0|1.2.0|runtime-common||
-|hitori|3.38.4|44.0|desktop-gnome||
-|hostapd|2.9|2.10|app-network||
-|hotdoc|0.13.7|0.17|app-doc||
-|hotspot|1.3.0|1.5.1|app-devel||
-|hplip|3.22.4|3.24.4|app-doc||
-|html2text|2020.1.16|2024.2.26|lang-python||
-|html5-parser|0.4.9|0.4.12|lang-python||
-|htslib|1.16|1.20|app-scientific||
-|httplib2|0.19.0|0.22.0|lang-python||
-|httrack|3.49.2|3.49.5|app-web||
-|hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
-|hugin|2022.0.0|2023.0.0|app-creativity||
-|hugo|0.127.0|0.128.1|app-web||
-|humanize|0.5.1|4.9.0|lang-python||
-|hunspell|1.7.0|1.7.2|app-i18n||
-|hwloc|2.10.0|2.11.0|app-admin||
-|hyper-h2|4.0.0|4.1.0|lang-python||
-|hyperframe|6.0.0|6.0.1|lang-python||
-|hyperlink|19.0.0|21.0.0|lang-python||
-|hypothesis-python|6.97.4|6.104.2|lang-python||
-|hysteria|2.4.0|2.5.0|app-network||
-|i2c-tools|4.1|4.3|app-utils||
-|i2pd|2.41.0|2.52.0|app-web||
-|i3status-rust|0.31.9|0.33.1|desktop-wm||
-|ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts||
-|ibus|1.5.25|1.5.30|app-i18n||
-|ibus-anthy|1.5.13|1.5.16|app-i18n||
-|ibus-chewing|1.6.1|2.0.0|app-i18n||
-|ibus-hangul|1.5.4|1.5.5|app-i18n||
-|ibus-libpinyin|1.12.0|1.15.7|app-i18n||
-|ibus-m17n|1.4.7|1.4.29|app-i18n||
-|ibus-qt|1.3.3|1.3.4|app-i18n||
-|ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|ibus-table|1.14.1|1.17.6|app-i18n||
-|icdiff|1.9.5|2.0.7|app-utils||
-|icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
-|icu|64.2|75-1|runtime-i18n||
-|icu+32|64.2|75-1|runtime-optenv32||
-|id3|0.80|0.81|app-utils||
-|ifaddr|0.1.7|0.2.0|lang-python||
-|iftop|1.0pre4|0.17|app-network|Possible downgrade from the current version (1.0pre4 -> 0.17)|
-|igraph|0.7.1|0.10.13|runtime-scientific||
-|igv|2.15.1|2.17.4|app-scientific||
-|iio-sensor-proxy|3.4|3.5|app-utils||
-|imagemagick|6.9.13<br>+7|6.9.13-12|app-utils|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.1<br>+32|7.1.1-34|app-utils|Compound version number '7.1.1+32'|
-|imagesize|1.1.0|1.4.1|lang-python||
-|imapsync|1.977|2.229|app-network||
-|imath|3.1.5|3.1.11|runtime-display||
-|img2pdf|0.4.0|0.5.1|app-doc||
-|imlib2|1.5.1|1.12.2|runtime-imaging||
-|imlib2+32|1.4.8|1.12.2|runtime-optenv32||
-|imwheel|1.0.0pre12|0.9.9|app-utils|Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
-|incidenceeditor|23.08.5|24.05.2|desktop-kde||
-|incremental|17.5.0|22.10.0|lang-python||
-|inetutils|2.4|2.5|app-utils||
-|inih|53|58|app-devel||
-|iniparse|0.4|0.5|lang-python||
-|iniparser|4.1|4.2.4|runtime-common||
-|inkscape|1.3.2|1_3_2|app-creativity||
-|intel-gmmlib|22.3.20|22.4.1|runtime-devices||
-|intel-media-driver|24.1.5|24.2.5|runtime-multimedia||
-|inxi|3.3.31<br>+2|3.3.31-2|app-utils|Compound version number '3.3.31+2'|
-|iodine|0.7.0|0.8.0|app-network||
-|iosevka-fonts|28.0.5|30.3.1|desktop-fonts||
-|iozone|3.492|3.506|app-admin||
-|ipcalc|0.41|1.0.3|app-network||
-|ipmitool|1.8.18|1_8_19|app-utils||
-|iproute2|6.8.0|6.9.0|app-network||
-|ipset|7.1|7.22|app-network||
-|ipt2socks|1.1.3|1.1.4|app-network||
-|iptables|1.8.8|1.8.10|app-network||
-|iptraf-ng|1.1.4|1.2.1|app-network||
-|ipy|0.83|1.01|lang-python||
-|ipython|7.28.0|8.26.0|lang-python||
-|irrlicht|1.8.4|1.8.5|runtime-games||
-|iso-codes|4.4|4.16.0|runtime-data||
-|isomd5sum|1.2.4|1.2.5|app-utils||
-|isort|4.3.21|5.13.2|lang-python||
-|ispc|1.22.0|1.24.0|app-devel||
-|itinerary|23.08.5|24.05.2|desktop-kde||
-|itsdangerous|1.1.0|2.2.0|lang-python||
-|iverilog|12.0|12_0|app-electronics||
-|iw|5.19|6.9|app-network||
-|iwd|1.20|2.18|app-network||
-|ixion|0.17.0|0.19.0|runtime-scientific||
-|j4-dmenu-desktop|2.17|3.0|app-utils||
-|jack|1.9.21|1.9.22|app-multimedia||
-|jasper|2.0.21|4.2.4|runtime-imaging||
-|jbig2dec|0.18|0.20|runtime-imaging||
-|jdcal|1.4|1.4.1|lang-python||
-|jedi|0.18.1|0.19.1|lang-python||
-|jeepney|0.6.0|0.8.0|lang-python||
-|jellyfish|0.6.0|1.0.4|lang-python||
-|jetring|0.29|0.31|app-admin||
-|jinja2|3.1.2|3.1.4|lang-python||
-|jmespath|0.10.0|1.0.1|lang-python||
-|jmol|14.30.0|16.2.17|app-scientific||
-|john|1.8.0|1.9.0|app-penetration||
-|josepy|1.13.0|1.14.0|lang-python||
-|json-c|0.16|0.17|runtime-common||
-|json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compound version number '0.13.1+20180305'|
-|json-glib|1.8.0|1.9.2|runtime-common||
-|jsonlines|1.2.0|4.0.0|lang-python||
-|jsonpointer|2.3|3.0.0|lang-python||
-|jsonrpc-glib|3.42.0|3.44.0|runtime-common||
-|jsonschema|3.2.0|0.0.1|lang-python|Possible downgrade from the current version (3.2.0 -> 0.0.1)|
-|juk|23.08.5|24.05.2|desktop-kde||
-|jupyter-client|5.2.4|8.6.2|lang-python||
-|jupyter-core|4.4.0|5.7.2|lang-python||
-|k3b|23.08.5|24.05.2|desktop-kde||
-|k3b-trinity|14.1.0|14.1.2|desktop-trinity||
-|k9copy-trinity|14.1.0|14.1.2|desktop-trinity||
-|kaccounts-integration|23.08.5|24.05.2|desktop-kde||
-|kaccounts-providers|23.08.5|24.05.2|desktop-kde||
-|kactivities|5.115.0|6.1.2|desktop-kde||
-|kactivities-stats|5.115.0|6.1.2|desktop-kde||
-|kactivitymanagerd|5.27.11|6.1.2|desktop-kde||
-|kaddressbook|23.08.5|24.05.2|desktop-kde||
-|kaffeine-trinity|14.1.0|14.1.2|desktop-trinity||
-|kajongg|23.08.5|24.05.2|desktop-kde||
-|kalarm|23.08.5|24.05.2|desktop-kde||
-|kalgebra|23.08.5|24.05.2|desktop-kde||
-|kalk|23.08.5|24.05.2|desktop-kde||
-|kalzium|23.08.5|24.05.2|desktop-kde||
-|kamera|23.08.5|24.05.2|desktop-kde||
-|kamoso|23.08.5|24.05.2|desktop-kde||
-|kanagram|23.08.5|24.05.2|desktop-kde||
-|kapidox|5.115.0|6.1.2|desktop-kde||
-|kapman|23.08.5|24.05.2|desktop-kde||
-|kapptemplate|23.08.5|24.05.2|desktop-kde||
-|karchive|5.115.0|6.1.2|desktop-kde||
-|kasablanca-trinity|14.1.0|14.1.2|desktop-trinity||
-|kasts|23.08.5|24.05.2|desktop-kde||
-|katapult-trinity|14.1.0|14.1.2|desktop-trinity||
-|kate|23.08.5|24.05.2|desktop-kde||
-|katomic|23.08.5|24.05.2|desktop-kde||
-|kauth|5.115.0|6.1.2|desktop-kde||
-|kbarcode-trinity|14.1.0|14.1.2|desktop-trinity||
-|kbd|2.5.1|2.6.4|app-utils||
-|kbfx-trinity|14.1.0|14.1.2|desktop-trinity||
-|kbibtex-trinity|14.1.0|14.1.2|desktop-trinity||
-|kbiff-trinity|14.1.0|14.1.2|desktop-trinity||
-|kblackbox|23.08.5|24.05.2|desktop-kde||
-|kblocks|23.08.5|24.05.2|desktop-kde||
-|kbookmarks|5.115.0|6.1.2|desktop-kde||
-|kbookreader-trinity|14.1.0|14.1.2|desktop-trinity||
-|kbounce|23.08.5|24.05.2|desktop-kde||
-|kbreakout|23.08.5|24.05.2|desktop-kde||
-|kbruch|23.08.5|24.05.2|desktop-kde||
-|kcachegrind|23.08.5|24.05.2|desktop-kde||
-|kcalc|23.08.5|24.05.2|desktop-kde||
-|kcalendarcore|5.115.0|6.1.2|desktop-kde||
-|kcalutils|23.08.5|24.05.2|desktop-kde||
-|kcharselect|23.08.5|24.05.2|desktop-kde||
-|kchmviewer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kclock|23.08.5|24.05.2|desktop-kde||
-|kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity||
-|kcmutils|5.115.0|6.1.2|desktop-kde||
-|kcodecs|5.115.0|6.1.2|desktop-kde||
-|kcolorchooser|23.08.5|24.05.2|desktop-kde||
-|kcolorpicker|0.2.0|0.3.1|desktop-kde||
-|kcompletion|5.115.0|6.1.2|desktop-kde||
-|kconfig|5.115.0|6.1.2|desktop-kde||
-|kconfigwidgets|5.115.0|6.1.2|desktop-kde||
-|kcontacts|5.115.0|6.1.2|desktop-kde||
-|kcoreaddons|5.115.0|6.1.2|desktop-kde||
-|kcptun|20240107|20240703|app-network||
-|kcpuload-trinity|14.1.0|14.1.2|desktop-trinity||
-|kcrash|5.115.0|6.1.2|desktop-kde||
-|kcron|23.08.5|24.05.2|desktop-kde||
-|kdav|5.115.0|6.1.2|desktop-kde||
-|kdbg-trinity|14.1.0|14.1.2|desktop-trinity||
-|kdbusaddons|5.115.0|6.1.2|desktop-kde||
-|kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity||
-|kddockwidgets|1.3.1|2.1.0|runtime-desktop||
-|kde-cli-tools|5.27.11|6.1.2|desktop-kde||
-|kde-dev-scripts|23.08.5|24.05.2|desktop-kde||
-|kde-dev-utils|23.08.5|24.05.2|desktop-kde||
-|kde-gtk-config|5.27.11|6.1.2|desktop-kde||
-|kde-inotify-survey|23.08.5|24.05.2|desktop-kde||
-|kdebugsettings|23.08.5|24.05.2|desktop-kde||
-|kdeclarative|5.115.0|6.1.2|desktop-kde||
-|kdeconnect|23.08.5|24.05.2|desktop-kde||
-|kdecoration|5.27.11|6.1.2|desktop-kde||
-|kded|5.115.0|6.1.2|desktop-kde||
-|kdeedu-data|23.08.5|24.05.2|desktop-kde||
-|kdegraphics-mobipocket|23.08.5|24.05.2|desktop-kde||
-|kdegraphics-thumbnailers|23.08.5|24.05.2|desktop-kde||
-|kdelibs4support|5.115.0|6.1.2|desktop-kde||
-|kdenetwork-filesharing|23.08.5|24.05.2|desktop-kde||
-|kdenlive|23.08.5|24.05.2|desktop-kde||
-|kdepim-addons|23.08.5|24.05.2|desktop-kde||
-|kdepim-runtime|23.08.5|24.05.2|desktop-kde||
-|kdeplasma-addons|5.27.11|6.1.2|desktop-kde||
-|kdesignerplugin|5.115.0|6.1.2|desktop-kde||
-|kdesu|5.115.0|6.1.2|desktop-kde||
-|kdev-php|23.08.5|24.05.2|desktop-kde||
-|kdev-python|23.08.5|24.05.2|desktop-kde||
-|kdevelop|23.08.5|24.05.2|desktop-kde||
-|kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde||
-|kdewebkit|5.115.0|6.1.2|desktop-kde||
-|kdf|23.08.5|24.05.2|desktop-kde||
-|kdiagram|2.8.0|3.0.1|desktop-kde||
-|kdialog|23.08.5|24.05.2|desktop-kde||
-|kdiamond|23.08.5|24.05.2|desktop-kde||
-|kdiff3-trinity|14.1.0|14.1.2|desktop-trinity||
-|kdirstat-trinity|14.1.0|14.1.2|desktop-trinity||
-|kdiskmark|2.3.0|3.1.4-standalone|desktop-kde||
-|kdnssd|5.115.0|6.1.2|desktop-kde||
-|kdoctools|5.115.0|6.1.2|desktop-kde||
-|kdpkg-trinity|14.1.0|14.1.2|desktop-trinity||
-|kdsoap|1.9.0|2.2.0|runtime-network||
-|keditbookmarks|23.08.5|24.05.2|desktop-kde||
-|keep-trinity|14.1.0|14.1.2|desktop-trinity||
-|keepass|2.46|2.57|app-utils||
-|keepass-plugin-agent|0.10.1|0.13.8|app-utils||
-|keepass-plugin-favicon|1.9.0|9.7.4|app-utils||
-|keepass-plugin-twofish|1.3|1.4|app-utils||
-|keepassxc|2.6.6|2.7.9|app-utils||
-|kemoticons|5.115.0|6.1.2|desktop-kde||
-|kernel-tools|6.9.7|5.19.17|app-admin|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
-|keximdb-trinity|14.1.0|14.1.2|desktop-trinity||
-|keyring|21.7.0|25.2.1|lang-python||
-|keysmith|23.08.5|24.05.2|desktop-kde||
-|kfilemetadata|5.115.0|6.1.2|desktop-kde||
-|kfind|23.08.5|24.05.2|desktop-kde||
-|kfloppy|23.04.3|24.05.2|desktop-kde||
-|kfourinline|23.08.5|24.05.2|desktop-kde||
-|kgamma|5.27.11|6.1.2|desktop-kde||
-|kgeography|23.08.5|24.05.2|desktop-kde||
-|kget|23.08.5|24.05.2|desktop-kde||
-|kglobalaccel|5.115.0|6.1.2|desktop-kde||
-|kgoldrunner|23.08.5|24.05.2|desktop-kde||
-|kgpg|23.08.5|24.05.2|desktop-kde||
-|kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity||
-|kguiaddons|5.115.0|6.1.2|desktop-kde||
-|khangman|23.08.5|24.05.2|desktop-kde||
-|khealthcertificate|22.11|24.05.2|desktop-kde||
-|khelpcenter|23.08.5|24.05.2|desktop-kde||
-|kholidays|5.115.0|6.1.2|desktop-kde||
-|khotkeys|5.27.11|6.1.2|desktop-kde||
-|khtml|5.115.0|6.1.2|desktop-kde||
-|ki18n|5.115.0|6.1.2|desktop-kde||
-|kicad|8.0.2|8.0.3|app-electronics||
-|kiconthemes|5.115.0|6.1.2|desktop-kde||
-|kid3|3.8.3|3.9.5|app-multimedia||
-|kidentitymanagement|23.08.5|24.05.2|desktop-kde||
-|kidletime|5.115.0|6.1.2|desktop-kde||
-|kig|23.08.5|24.05.2|desktop-kde||
-|kigo|23.08.5|24.05.2|desktop-kde||
-|kile-trinity|14.1.0|14.1.2|desktop-trinity||
-|killbots|23.08.5|24.05.2|desktop-kde||
-|kima-trinity|14.1.0|14.1.2|desktop-trinity||
-|kimageannotator|0.6.0|0.7.1|desktop-kde||
-|kimageformats|5.115.0|6.1.2|desktop-kde||
-|kimagemapeditor|23.08.5|24.05.2|desktop-kde||
-|kimap|23.08.5|24.05.2|desktop-kde||
-|kinfocenter|5.27.11|6.1.2|desktop-kde||
-|kinit|5.115.0|6.1.2|desktop-kde||
-|kio|5.115.0|6.1.2|desktop-kde||
-|kio-admin|23.08.5|24.05.2|desktop-kde||
-|kio-extras|23.08.5|24.05.2|desktop-kde||
-|kio-fuse|5.0.1|5.1.0|desktop-kde||
-|kio-gdrive|23.08.5|24.05.2|desktop-kde||
-|kio-zeroconf|23.08.5|24.05.2|desktop-kde||
-|kiosktool-trinity|14.1.0|14.1.2|desktop-trinity||
-|kipi-plugins|23.08.5|24.05.2|desktop-kde||
-|kirigami-addons|0.11.0|1.3.0|desktop-kde||
-|kirigami-gallery|23.08.5|24.05.2|desktop-kde||
-|kirigami2|5.115.0|6.1.2|desktop-kde||
-|kiriki|23.08.5|24.05.2|desktop-kde||
-|kitemmodels|5.115.0|6.1.2|desktop-kde||
-|kitemviews|5.115.0|6.1.2|desktop-kde||
-|kiten|23.08.5|24.05.2|desktop-kde||
-|kitinerary|23.08.5|24.05.2|desktop-kde||
-|kitty|0.26.4|0.35.2|app-utils||
-|kiwisolver|1.0.1|1.4.5|lang-python||
-|kjobwidgets|5.115.0|6.1.2|desktop-kde||
-|kjournald|23.08.5|24.05.2|desktop-kde||
-|kjs|5.115.0|6.1.2|desktop-kde||
-|kjsembed|5.115.0|6.1.2|desktop-kde||
-|kjumpingcube|23.08.5|24.05.2|desktop-kde||
-|kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity||
-|klamav-trinity|14.1.0|14.1.2|desktop-trinity||
-|klcddimmer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kldap|23.08.5|24.05.2|desktop-kde||
-|kleopatra|23.08.5|24.05.2|desktop-kde||
-|klettres|23.08.5|24.05.2|desktop-kde||
-|klickety|23.08.5|24.05.2|desktop-kde||
-|klines|23.08.5|24.05.2|desktop-kde||
-|kmag|23.08.5|24.05.2|desktop-kde||
-|kmahjongg|23.08.5|24.05.2|desktop-kde||
-|kmail|23.08.5|24.05.2|desktop-kde||
-|kmail-account-wizard|23.08.5|24.05.2|desktop-kde||
-|kmailtransport|23.08.5|24.05.2|desktop-kde||
-|kmbox|23.08.5|24.05.2|desktop-kde||
-|kmediaplayer|5.115.0|6.1.2|desktop-kde||
-|kmenuedit|5.27.11|6.1.2|desktop-kde||
-|kmime|23.08.5|24.05.2|desktop-kde||
-|kmines|23.08.5|24.05.2|desktop-kde||
-|kmix|23.08.5|24.05.2|desktop-kde||
-|kmod|31|32|app-admin||
-|kmousetool|23.08.5|24.05.2|desktop-kde||
-|kmouth|23.08.5|24.05.2|desktop-kde||
-|kmplayer-trinity|14.1.0|14.1.2|desktop-trinity||
-|kmplot|23.08.5|24.05.2|desktop-kde||
-|kmscon|8<br>+git20221110|8|app-utils|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
-|kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity||
-|kmymoney-trinity|14.1.0|14.1.2|desktop-trinity||
-|knavalbattle|23.08.5|24.05.2|desktop-kde||
-|knemo-trinity|14.1.0|14.1.2|desktop-trinity||
-|knetload-trinity|14.1.0|14.1.2|desktop-trinity||
-|knetstats-trinity|14.1.0|14.1.2|desktop-trinity||
-|knetwalk|23.08.5|24.05.2|desktop-kde||
-|knewstuff|5.115.0|6.1.2|desktop-kde||
-|knights|23.08.5|24.05.2|desktop-kde||
-|knights-trinity|14.1.0|14.1.2|desktop-trinity||
-|knmap-trinity|14.1.0|14.1.2|desktop-trinity||
-|knotes|23.08.5|24.05.2|desktop-kde||
-|knotifications|5.115.0|6.1.2|desktop-kde||
-|knotifyconfig|5.115.0|6.1.2|desktop-kde||
-|knowit-trinity|14.1.0|14.1.2|desktop-trinity||
-|knutclient-trinity|14.1.0|14.1.2|desktop-trinity||
-|kodi|20.3|21.0|app-multimedia||
-|koffice-trinity|14.1.0|14.1.2|desktop-trinity||
-|koko|23.08.5|24.05.2|desktop-kde||
-|kolf|23.08.5|24.05.2|desktop-kde||
-|kollision|23.08.5|24.05.2|desktop-kde||
-|kolourpaint|23.08.5|24.05.2|desktop-kde||
-|kompare|23.08.5|24.05.2|desktop-kde||
-|kompose-trinity|14.1.0|14.1.2|desktop-trinity||
-|kongress|23.08.5|24.05.2|desktop-kde||
-|konqueror|23.08.5|24.05.2|desktop-kde||
-|konquest|23.08.5|24.05.2|desktop-kde||
-|konsole|23.08.5|24.05.2|desktop-kde||
-|kontact|23.08.5|24.05.2|desktop-kde||
-|kontactinterface|23.08.5|24.05.2|desktop-kde||
-|kontrast|23.08.5|24.05.2|desktop-kde||
-|konversation|23.08.5|24.05.2|desktop-kde||
-|konversation-trinity|14.1.0|14.1.2|desktop-trinity||
-|kooldock-trinity|14.1.0|14.1.2|desktop-trinity||
-|kopeninghours|23.08.5|24.05.2|desktop-kde||
-|kopete|23.08.5|24.05.2|desktop-kde||
-|kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity||
-|korganizer|23.08.5|24.05.2|desktop-kde||
-|kosmindoormap|23.08.5|24.05.2|desktop-kde||
-|kpackage|5.115.0|6.1.2|desktop-kde||
-|kparts|5.115.0|6.1.2|desktop-kde||
-|kpat|23.08.5|24.05.2|desktop-kde||
-|kpeople|5.115.0|6.1.2|desktop-kde||
-|kpicosim-trinity|14.1.0|14.1.2|desktop-trinity||
-|kpilot-trinity|14.1.0|14.1.2|desktop-trinity||
-|kpimtextedit|23.08.5|24.05.2|desktop-kde||
-|kpipewire|5.27.11|6.1.2|desktop-kde||
-|kpkpass|23.08.5|24.05.2|desktop-kde||
-|kplotting|5.115.0|6.1.2|desktop-kde||
-|kpmcore|23.08.5|24.05.2|desktop-kde||
-|kpty|5.115.0|6.1.2|desktop-kde||
-|kpublictransport|23.08.5|24.05.2|desktop-kde||
-|kqtquickcharts|23.08.5|24.05.2|desktop-kde||
-|kquickcharts|5.115.0|6.1.2|desktop-kde||
-|kquickimageeditor|0.2.0|0.3.0|desktop-kde||
-|krb5|1.17.1|1.21.3-final|app-network||
-|krb5+32|1.17.1|1.21.3-final|runtime-optenv32||
-|krdc|23.08.5|24.05.2|desktop-kde||
-|krecipes-trinity|14.1.0|14.1.2|desktop-trinity||
-|krecorder|23.08.5|24.05.2|desktop-kde||
-|krename-trinity|14.1.0|14.1.2|desktop-trinity||
-|kreversi|23.08.5|24.05.2|desktop-kde||
-|krfb|23.08.5|24.05.2|desktop-kde||
-|krita|5.2.2|5.2.3|app-creativity||
-|kross|5.115.0|6.1.2|desktop-kde||
-|kruler|23.08.5|24.05.2|desktop-kde||
-|krunner|5.115.0|6.1.2|desktop-kde||
-|krusader|2.7.2|2.8.1|desktop-kde||
-|krusader-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksanecore|23.08.5|24.05.2|desktop-kde||
-|kscope-trinity|14.1.0|14.1.2|desktop-trinity||
-|kscreen|5.27.11|6.1.2|desktop-kde||
-|kscreenlocker|5.27.11|6.1.2|desktop-kde||
-|ksensors-trinity|14.1.0|14.1.2|desktop-trinity||
-|kservice|5.115.0|6.1.2|desktop-kde||
-|ksh93|2020.0.0|1.0.9|app-shells|Possible downgrade from the current version (2020.0.0 -> 1.0.9)|
-|kshisen|23.08.5|24.05.2|desktop-kde||
-|kshowmail-trinity|14.1.0|14.1.2|desktop-trinity||
-|kshutdown-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksirk|23.08.5|24.05.2|desktop-kde||
-|ksmtp|23.08.5|24.05.2|desktop-kde||
-|ksnakeduel|23.08.5|24.05.2|desktop-kde||
-|kspaceduel|23.08.5|24.05.2|desktop-kde||
-|ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksquares|23.08.5|24.05.2|desktop-kde||
-|ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksshaskpass|5.27.11|6.1.2|desktop-kde||
-|kstars|3.6.7|3.7.0|desktop-kde||
-|kstreamripper-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksudoku|23.08.5|24.05.2|desktop-kde||
-|ksystemlog|23.08.5|24.05.2|desktop-kde||
-|ksystemlog-trinity|14.1.0|14.1.2|desktop-trinity||
-|ksystemstats|5.27.11|6.1.2|desktop-kde||
-|kteatime|23.08.5|24.05.2|desktop-kde||
-|ktechlab-trinity|14.1.0|14.1.2|desktop-trinity||
-|ktextaddons|1.5.3|1.5.4|desktop-kde||
-|ktexteditor|5.115.0|6.1.2|desktop-kde||
-|ktextwidgets|5.115.0|6.1.2|desktop-kde||
-|ktimer|23.08.5|24.05.2|desktop-kde||
-|ktnef|23.08.5|24.05.2|desktop-kde||
-|ktoblzcheck|1.53|1.57|runtime-productivity||
-|ktorrent|23.08.5|24.05.2|desktop-kde||
-|ktorrent-trinity|14.1.0|14.1.2|desktop-trinity||
-|ktouch|23.08.5|24.05.2|desktop-kde||
-|ktrip|23.08.5|24.05.2|desktop-kde||
-|ktuberling|23.08.5|24.05.2|desktop-kde||
-|kturtle|23.08.5|24.05.2|desktop-kde||
-|kubo|0.26.0|0.10.0|app-network|Possible downgrade from the current version (0.26.0 -> 0.10.0)|
-|kubrick|23.08.5|24.05.2|desktop-kde||
-|kunitconversion|5.115.0|6.1.2|desktop-kde||
-|kvantum|1.0.10|1.1.2|desktop-kde||
-|kvirc|5.0.0|5.2.4|app-web||
-|kvkbd-trinity|14.1.0|14.1.2|desktop-trinity||
-|kvpnc-trinity|14.1.0|14.1.2|desktop-trinity||
-|kwallet|5.115.0|6.1.2|desktop-kde||
-|kwallet-pam|5.27.11|6.1.2|desktop-kde||
-|kwalletmanager|23.08.5|24.05.2|desktop-kde||
-|kwave|23.08.5|24.05.2|desktop-kde||
-|kwayland|5.115.0|6.1.2|desktop-kde||
-|kwayland-integration|5.27.11|6.1.2|desktop-kde||
-|kweather|23.08.5|24.05.2|desktop-kde||
-|kweathercore|0.7|0.8.0|desktop-kde||
-|kwidgetsaddons|5.115.0|6.1.2|desktop-kde||
-|kwin|5.27.11|6.1.2|desktop-kde||
-|kwindowsystem|5.115.0|6.1.2|desktop-kde||
-|kwordquiz|23.08.5|24.05.2|desktop-kde||
-|kwrited|5.27.11|6.1.2|desktop-kde||
-|kxmleditor-trinity|14.1.0|14.1.2|desktop-trinity||
-|kxmlgui|5.115.0|6.1.2|desktop-kde||
-|kxmlrpcclient|5.115.0|6.1.2|desktop-kde||
-|kyotocabinet|1.2.79|1.2.80|app-database||
-|lablgtk|2.18.11|3.1.5|lang-ocaml||
-|ladish|20200418|1.2|runtime-multimedia|Possible downgrade from the current version (20200418 -> 1.2)|
-|lash|0.6.0~rc2|0.5.4|runtime-multimedia|Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
-|layer-shell-qt|5.27.11|6.1.2|desktop-kde||
-|lazarus|3.2|3.4|lang-pascal||
-|lazy-object-proxy|1.7.1|1.10.0|lang-python||
-|lcms2|2.14|2.16|runtime-imaging||
-|lcms2+32|2.9|2.16|runtime-optenv32||
-|ldb|2.6.1|2.9.1|app-database||
-|leatherman|1.9.1|1.12.13|runtime-common||
-|less|643|661|app-utils||
-|level-zero|1.17.6|1.17.17|runtime-common||
-|levenshtein|0.12.0|0.25.1|lang-python||
-|lib3mf|2.2.0|2.3.1|runtime-imaging||
-|libaacs|0.11.0|0.11.1|runtime-multimedia||
-|libaal|1.0.7|24"|runtime-admin||
-|libadwaita|1.5.0|1.5.2|desktop-gnome||
-|libaio|0.3.111|0.3.113|runtime-common||
-|libaio+32|0.3.110|0.3.113|runtime-optenv32||
-|libantlr3c|3.4|4.13.1|runtime-common||
-|libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop|Compound version number '1.0.4+5'|
-|libapt-pkg-perl|0.1.36|0.1.40|lang-perl||
-|libart-lgpl|14.1.0|14.1.2|desktop-trinity||
-|libass|0.17.2|0.17.3|runtime-multimedia||
-|libass+32|0.15.1|0.17.3|runtime-optenv32||
-|libassuan|2.5.3|3.0.1|runtime-common||
-|libatomic-ops|7.8.0|7.8.2|runtime-common||
-|libavif|0.11.1|1.0.4|runtime-multimedia||
-|libblkio|1.3.0|1.5.0|runtime-common||
-|libblockdev|2.23|3.1.1|runtime-devices||
-|libbloom|1.6|2.0|runtime-common||
-|libbluray+32|1.2.1|1.3.4|runtime-optenv32||
-|libbpf|1.2.0|1.4.3|runtime-kernel||
-|libburn|1.5.2|1.5.6|runtime-devices||
-|libbytesize|2.1|2.10|runtime-common||
-|libc+wasi|20|22|runtime-wasi||
-|libcaldav|14.1.0|14.1.2|desktop-trinity||
-|libcap|2.69|2.70|runtime-common||
-|libcap+32|2.31|2.70|runtime-optenv32||
-|libcap-ng|0.7.11|0.8.5|runtime-common||
-|libcarddav|14.1.0|14.1.2|desktop-trinity||
-|libcbor|0.8.0|0.11.0|runtime-common||
-|libcdio+32|0.94|2.1.0|runtime-optenv32||
-|libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
-|libcdr|0.1.6|0.1.7|runtime-imaging||
-|libcgroup|2.0|3.1.0|app-admin||
-|libchamplain|0.12.20|0.12.21|desktop-gnome||
-|libchewing|0.5.1|0.8.4|runtime-i18n||
-|libclc|17.0.3|18.1.8|runtime-devices||
-|libcloudproviders|0.3.1|0.3.6|runtime-web||
-|libcmis|0.5.2|0.6.2|runtime-productivity||
-|libconfig|1.7.2|1.7.3|runtime-common||
-|libcork|1.0.0~rc3|0.15.0|runtime-common|Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
-|libcpuid|0.5.1|0.6.5|runtime-common||
-|libcuckoo|0.3|0.3.1|runtime-common||
-|libdatachannel|0.21.1|0.21.2|runtime-multimedia||
-|libde265|1.0.8|1.0.15|runtime-multimedia||
-|libdecor|0.1.1|0.2.2|runtime-desktop||
-|libdeflate|1.19|1.20|runtime-common||
-|libdiscid|0.6.2|0.6.4|runtime-multimedia||
-|libdispatch|5.6.1|5.9.2-RELEASE|runtime-common||
-|libdisplay-info|0.1.1|0.2.0|runtime-display||
-|libdmapsharing|3.9.13|3_9_13|runtime-multimedia||
-|libdnet|1.12|1.18.0|runtime-network||
-|libdrm|2.4.120|2.4.122|runtime-display||
-|libdrm+32|2.4.113|2.4.122|runtime-optenv32||
-|libdvdcss+32|1.4.2|1.4.3|runtime-optenv32||
-|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32||
-|libdvdread|6.1.1|6.1.3|runtime-multimedia||
-|libdvdread+32|5.0.3|6.1.3|runtime-optenv32||
-|libdwarf|20210305|0.10.1|runtime-common|Possible downgrade from the current version (20210305 -> 0.10.1)|
-|libe-book|0.1.2|0.1.3|runtime-doc||
-|libeconf|0.5.0|0.7.2|runtime-common||
-|libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compound version number '20191231+3.1'|
-|libepoxy+32|1.2|1.5.10|runtime-optenv32||
-|libepubgen|0.1.0|0.1.1|runtime-doc||
-|libertine-fonts|8.0.2|8.1.2|desktop-fonts||
-|libesmtp|1.0.6|1.1.0|runtime-network||
-|libetebase|0.5.4|0.5.6|runtime-cryptography||
-|libetonyek|0.1.9|0.1.10|runtime-productivity||
-|libevdev|1.11.0|1.13.2|runtime-devices||
-|libexif|0.6.22|0.6.24|runtime-imaging||
-|libexif+32|0.6.22|0.6.24|runtime-optenv32||
-|libfdk-aac|2.0.1|2.0.3|runtime-multimedia||
-|libffado|2.4.4|2.4.9|runtime-multimedia||
-|libffi|3.4.4|3.4.6|runtime-common||
-|libffi+32|3.4.2|3.4.6|runtime-optenv32||
-|libfido2|1.13.0|1.15.0|runtime-devices||
-|libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
-|libfm|1.3.0.2|1.3.2|desktop-lxde||
-|libfprint|1.94.4|1.94.7|runtime-devices||
-|libftdi|1.4|1.5|runtime-devices||
-|libgcrypt+32|1.9.1|1.11.0|runtime-optenv32||
-|libgcrypt-static|1.10.3|1.11.0|runtime-cryptography||
-|libgeotiff|1.5.1|1.7.3|runtime-gis||
-|libgig|4.4.0|4.4.1|runtime-multimedia||
-|libgit2|1.7.2|1.8.1|runtime-vcs||
-|libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
-|libglvnd+32|1.6.0|1.7.0|runtime-optenv32||
-|libgnome-games-support|1.8.2|2.0.0|desktop-gnome||
-|libgnt|2.14.0|2.14.3|runtime-common||
-|libgovirt|0.3.8|0.3.9|runtime-virtualization||
-|libgpg-error+32|1.41|1.50|runtime-optenv32||
-|libgphoto2|2.5.30|2.5.31|runtime-devices||
-|libgpiod|1.4.2|2.1.2|runtime-devices||
-|libgravatar|23.08.5|24.05.2|desktop-kde||
-|libgsf|1.14.47|1_14_52|desktop-gnome||
-|libgtop|2.38.0|2.41.3|desktop-gnome||
-|libguestfs|1.52.0|1.53.4|runtime-virtualization||
-|libgweather|4.1.0|4.4.2|desktop-gnome||
-|libgxps|0.2.5|0.3.2|runtime-doc||
-|libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
-|libidn|1.41|1.42|runtime-network||
-|libidn+32|1.33|1.42|runtime-optenv32||
-|libidn2|2.3.0|2.3.7|runtime-network||
-|libindi|2.0.5|2.0.8|runtime-scientific||
-|libinput|1.26.0|1.26.1|runtime-devices||
-|libintl-perl|1.29|1.33|lang-perl||
-|libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
-|libiscsi|1.18.0|1.20.0|runtime-network||
-|libisoburn|1.5.2|1.5.6|runtime-devices||
-|libjcat|0.1.8|0.2.1|runtime-common||
-|libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32||
-|libjxl|0.10.2|0.10.3|runtime-imaging||
-|libkcddb|23.08.5|24.05.2|desktop-kde||
-|libkcompactdisc|23.08.5|24.05.2|desktop-kde||
-|libkdcraw|23.08.5|24.05.2|desktop-kde||
-|libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity||
-|libkdegames|23.08.5|24.05.2|desktop-kde||
-|libkdepim|23.08.5|24.05.2|desktop-kde||
-|libkeduvocdocument|23.08.5|24.05.2|desktop-kde||
-|libkexiv2|23.08.5|24.05.2|desktop-kde||
-|libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity||
-|libkeyfinder|2.2.5|2.2.8|runtime-multimedia||
-|libkgapi|23.08.5|24.05.2|desktop-kde||
-|libkipi|23.08.5|24.05.2|desktop-kde||
-|libkipi-trinity|14.1.0|14.1.2|desktop-trinity||
-|libkkc|0.3.5<br>+git20210213|0.3.5|runtime-i18n|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
-|libkkc-data|0.2.7|0.3.5|runtime-i18n||
-|libkleo|23.08.5|24.05.2|desktop-kde||
-|libkmahjongg|23.08.5|24.05.2|desktop-kde||
-|libkolabxml|1.2.0|1.2.1|runtime-productivity||
-|libkomparediff2|23.08.5|24.05.2|desktop-kde||
-|libksane|23.08.5|24.05.2|desktop-kde||
-|libksba|1.6.6|1.6.7|runtime-cryptography||
-|libkscreen|5.27.11|6.1.2|desktop-kde||
-|libksieve|23.08.5|24.05.2|desktop-kde||
-|libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity||
-|libksysguard|5.27.11|6.1.2|desktop-kde||
-|libktorrent|23.08.5|24.05.2|desktop-kde||
-|liblangtag|0.6.3|0.6.7|runtime-i18n||
-|liblo|0.29|0.32|runtime-multimedia||
-|liblouis|3.12.0|3.30.0|runtime-a11y||
-|libltc|1.3.1|1.3.2|runtime-multimedia||
-|libluv|1.47.0<br>+0|1.48.0-2|lang-lua|Compound version number '1.47.0+0'|
-|libmanette|0.2.6|0.2.7|runtime-devices||
-|libmaxminddb|1.4.3|1.10.0|runtime-web||
-|libmediaart|1.9.4|1.9.6|runtime-multimedia||
-|libmediainfo|22.06|24.06|runtime-multimedia||
-|libmicrohttpd|0.9.71|1.0.1|runtime-web||
-|libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32||
-|libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia||
-|libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32||
-|libmspack|0.10.1alpha|0.11.0|runtime-common||
-|libmsym|0.2.3|0.2.4.2|runtime-scientific||
-|libmtp|1.1.17|1.1.21|runtime-devices||
-|libndp|1.7|1.9|runtime-network||
-|libnet|1.1.6|1.3|runtime-network||
-|libnfc|1.7.1|1.8.0|runtime-devices||
-|libnfnetlink|1.0.1|1.0.2|runtime-network||
-|libnfs|4.0.0|5.0.3|runtime-network||
-|libnfs-static|4.0.0|5.0.3|runtime-network||
-|libnice|0.1.17|0.1.22|runtime-network||
-|libnl+32|3.2.28|3.9.0|runtime-optenv32||
-|libnotify|0.7.9|0.8.3|runtime-desktop||
-|libnsl2|1.3.0|2.0.1|runtime-network||
-|libnspsl|0.1.6|0.1.7|runtime-web||
-|libodfgen|0.1.6|0.1.8|runtime-productivity||
-|libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
-|libogg|1.3.4|1.3.5|runtime-multimedia||
-|libogg+32|1.3.4|1.3.5|runtime-optenv32||
-|libopenraw|0.1.3|0.3.7|runtime-imaging||
-|liborcus|0.17.2|0.19.2|runtime-productivity||
-|libosinfo|1.10.0|1.11.0|runtime-common||
-|libosmgpsmap|1.1.0|1.2.0|runtime-gis||
-|libp11|0.4.10|0.4.12|runtime-cryptography||
-|libpano13|2.9.19|2.9.22|runtime-imaging||
-|libpcap+32|1.10.1|1.10.4|runtime-optenv32||
-|libpeas|1.36.0|2.0.3|desktop-gnome||
-|libphonenumber|8.13.38|8.13.40|runtime-i18n||
-|libpinyin|2.6.0|2.8.1|runtime-i18n||
-|libpipeline|1.5.3|1.5.7|runtime-common||
-|libplacebo|6.338.2|7.349.0|runtime-multimedia||
-|libplist|2.3.0|2.6.0|runtime-common||
-|libpng|1.6.42|1.6.43|runtime-imaging||
-|libpng+32|1.2.57|1.6.43|runtime-optenv32||
-|libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32||
-|libportal|0.6|0.7.1|runtime-desktop||
-|libpqxx|6.4.5|7.9.1|runtime-database||
-|libproxy|0.5.6|0.5.7|runtime-network||
-|libpwquality|1.4.2|1.4.5|runtime-cryptography||
-|libqaccessibilityclient|0.4.1|0.6.0|desktop-kde||
-|libqalculate|4.5.1|5.2.0.1|runtime-scientific||
-|libqmi|1.30.8|1.34.0|runtime-devices||
-|libqofono|0.98|0.123|runtime-network||
-|libqtxdg|3.6.0|4.0.0|runtime-desktop||
-|libquotient|0.8.1.2|0.8.2|runtime-web||
-|libraw|0.20.0|0.21.2|runtime-imaging||
-|librcc|0.2.12|0.2.13|runtime-i18n||
-|libreoffice|7.5.4.2|24.2.5.1|app-productivity||
-|librevenge|0.0.4|0.0.5|runtime-productivity||
-|librsvg|2.56.1|2.58.91|runtime-imaging||
-|librsvg+32|2.40.21|2.58.91|runtime-optenv32||
-|librtas|2.0.2|2.0.6|runtime-admin||
-|libsamplerate|0.1.9|0.2.2|runtime-multimedia||
-|libsass|3.6.4|3.6.6|runtime-common||
-|libsbsms|2.3.0|2.0.2|runtime-multimedia|Possible downgrade from the current version (2.3.0 -> 2.0.2)|
-|libsecret|0.20.4|0.21.4|runtime-desktop||
-|libshout|2.4.3|2.4.6|runtime-multimedia||
-|libshout+32|2.4.3|2.4.6|runtime-optenv32||
-|libshumate|1.2.1|1.2.2|desktop-gnome||
-|libsidplay|1.36.59|2.1.1|runtime-multimedia||
-|libsidplay+32|1.36.59|2.1.1|runtime-optenv32||
-|libsidplayfp|1.8.8|2.8.0|runtime-multimedia||
-|libsigc++|2.10.8|3.6.0|runtime-common||
-|libsigc++-3.0|3.4.0|3.6.0|runtime-common||
-|libsigsegv|2.12|2.14|runtime-common||
-|libslirp|4.6.1|4.8.0|runtime-emulation||
-|libsndfile|1.2.0|1.2.2|runtime-multimedia||
-|libsndfile+32|1.2.0|1.2.2|runtime-optenv32||
-|libsodium|1.0.18|1.0.20|runtime-cryptography||
-|libsoundio|1.1.0|2.0.1-7|runtime-multimedia||
-|libsoup|2.74.2|3.5.1|runtime-web||
-|libsoup-3|3.2.2|3.5.1|runtime-web||
-|libspatialite|5.0.1|5.1.0|runtime-gis||
-|libspectre|0.2.9|0.2.12|runtime-doc||
-|libspectre+32|0.2.9|0.2.12|runtime-optenv32||
-|libspiro|0.5.20150702|20221101|runtime-creativity||
-|libspnav|0.2.3|1.0|runtime-devices||
-|libssh|0.8.9|0.10.6|runtime-network||
-|libssh+32|0.8.9|0.10.6|runtime-optenv32||
-|libssh2|1.9.0|1.11.0|runtime-network||
-|libssh2+32|1.9.0|1.11.0|runtime-optenv32||
-|libstoragemgmt|1.7.3|1.10.0|runtime-admin||
-|libsysstat|0.4.4|1.0.0|runtime-admin||
-|libtasn1|4.15.0|4.19.0|runtime-cryptography||
-|libtasn1+32|4.15.0|4.19.0|runtime-optenv32||
-|libteam|1.31|1.32|app-network||
-|libthai|0.1.28|0.1.29|runtime-i18n||
-|libticables2|1.3.4|1.3.5|runtime-devices||
-|libticalcs2|1.1.8|1.1.9|runtime-devices||
-|libticonv|1.1.4|1.1.5|runtime-devices||
-|libtiff|4.4.0|4.6.0|runtime-imaging||
-|libtiff+32|4.0.10|4.6.0|runtime-optenv32||
-|libtifiles2|1.1.6|1.1.7|runtime-devices||
-|libtirpc|1.3.1|1.3.4|runtime-common||
-|libtommath|1.2.0|1.3.0|runtime-scientific||
-|libtool|2.4.7|2.5.0|app-devel||
-|libtool+32|2.4.6|2.5.0|runtime-optenv32||
-|libtracefs|1.6.4|1.8.0|runtime-admin||
-|libtsm|4.0.1|4.0.2|runtime-common||
-|libudfread|1.1.1|1.1.2|runtime-multimedia||
-|libuhd|4.5.0.0|4.7.0.0|runtime-ham||
-|libuninameslist|20190701|20240524|runtime-i18n||
-|libunistring|0.9.10|1.2|runtime-common||
-|libunwind|1.6.2|1.8.1|runtime-common||
-|libupnp|1.14.16|1.14.19|runtime-network||
-|libusb|1.0.23|1.0.27|runtime-devices||
-|libusb+32|1.0.23|1.0.27|runtime-optenv32||
-|libusb-compat|0.1.5|0.1.8|runtime-devices||
-|libusb-compat+32|0.1.5|0.1.8|runtime-optenv32||
-|libusbmuxd|2.0.2|2.1.0|runtime-devices||
-|libutf8proc|2.4.0|2.9.0|runtime-i18n||
-|libva+32|2.15.0|2.22.0|runtime-optenv32||
-|libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia||
-|libva-utils|2.21.0|2.22.0|app-utils||
-|libvdpau+32|1.1.1|1.5|runtime-optenv32||
-|libvirt|10.2.0|10.5.0|app-virtualization||
-|libvirt-python|10.1.0|10.5.0|runtime-virtualization||
-|libvisual|0.4.0|0.4.2|runtime-multimedia||
-|libvisual+32|0.4.0|0.4.2|runtime-optenv32||
-|libvncserver|0.9.13|0.9.14|runtime-network||
-|libvoikko|4.3.1|4.3.2|runtime-i18n||
-|libvpl|2.11.0|2023.4.0|runtime-multimedia||
-|libvpx|1.10.0|1.14.1|runtime-multimedia||
-|libvpx+32|1.9.0|1.14.1|runtime-optenv32||
-|libwacom|2.4.0|2.12.2|runtime-devices||
-|libwebp|1.3.1|1.4.0|runtime-imaging||
-|libwebp+32|0.4.3|1.4.0|runtime-optenv32||
-|libwebsockets|3.1.0|4.3.3|runtime-web||
-|libwm|20161006|1.3|runtime-display|Possible downgrade from the current version (20161006 -> 1.3)|
-|libwmf|0.2.8.4|0.2.13|runtime-imaging||
-|libwnck-3|40.1|43.0|runtime-desktop||
-|libwpd|0.10.2|0.10.3|runtime-productivity||
-|libwpe|1.12.2|1.16.0|runtime-web||
-|libwpg|0.3.3|0.3.4|runtime-productivity||
-|libwww-perl|6.33|6.77|lang-perl||
-|libx86|1.1|3.5|runtime-common||
-|libx86emu|3.1|3.5|runtime-common||
-|libxau+32|1.0.9|1.0.11|runtime-optenv32||
-|libxcb|1.16.1|1.17.0|runtime-display||
-|libxcb+32|1.13|1.17.0|runtime-optenv32||
-|libxdmcp+32|1.1.3|1.1.5|runtime-optenv32||
-|libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32||
-|libxml++|2.40.1|5.2.0|runtime-common||
-|libxml2|2.10.4|2.13.1|runtime-common||
-|libxml2+32|2.10.4|2.13.1|runtime-optenv32||
-|libxmlb|0.3.15|0.3.19|runtime-common||
-|libxnvctrl|545.23.06|550.54.14|runtime-display||
-|libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32||
-|libxslt|1.1.34|1.1.41|runtime-common||
-|libxslt+32|1.1.34|1.1.41|runtime-optenv32||
-|libzen|0.4.38|0.4.41|runtime-common||
-|libzip|1.5.2|1.10.1|runtime-common||
-|liferea|1.13.8|1.15.7|app-web||
-|light-locker|1.8.0|1.9.0|app-utils||
-|lightsoff|40.0.1|46.0|desktop-gnome||
-|lighttpd|1.4.55|1.4.76|app-network||
-|lilv|0.24.12|0.24.24|runtime-multimedia||
-|lilypond|2.23.0|2.25.4|app-multimedia||
-|limba|0.5.6|0_5_6|app-admin||
-|lincity-ng|2.9.0|2.0|app-games|Possible downgrade from the current version (2.9.0 -> 2.0)|
-|link-grammar|5.10.1|5.99.42|app-i18n||
-|linux+api|6.7.12|5.19.17|core-devel|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+api+32|6.7.12|5.19.17|runtime-optenv32|Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+kernel|6.9.7|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
-|linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.220|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.10.220)|
-|linux+kernel+rc|5.8.0|5.19.17|runtime-kernel||
-|linux+kernel+retro|5.10.132|5.10.220|runtime-kernel||
-|linux+kernel+retro+minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
+|gobject-introspection|1.80.0|1.80.1|app-devel|Compliance mode enabled, was '1.80.1'|
+|goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
+|goldendict|1.5.0~rc2|1.5.0|app-i18n|Compliance mode enabled, was '1.5.0'|
+|gom|0.4|0.5.1|runtime-database|Compliance mode enabled, was '0.5.1'|
+|google-api-python-client|1.7.11|2.136.0|lang-python|Compliance mode enabled, was '2.136.0'|
+|google-auth|1.6.3|2.31.0|lang-python|Compliance mode enabled, was '2.31.0'|
+|google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
+|gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
+|gpodder|3.10.17|3.11.4|app-multimedia|Compliance mode enabled, was '3.11.4'|
+|gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
+|gpsim|0.31.0|0.32.1|app-electronics|Compliance mode enabled, was '0.32.1'|
+|gptfdisk|1.0.9|1.0.10|app-admin|Compliance mode enabled, was '1.0.10'|
+|gradle|8.3|8.8.0|lang-java|Compliance mode enabled, was '8.8.0'|
+|granatier|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|grantleetheme|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
+|graphviz|10.0.1|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
+|greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
+|grep|3.8|3.11|app-utils|Compliance mode enabled, was '3.11'|
+|greybird|3.22.12|3.23.3|desktop-themes|Compliance mode enabled, was '3.23.3'|
+|grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
+|grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
+|gringo|5.4.1|5.7.1|app-devel|Compliance mode enabled, was '5.7.1'|
+|groff|1.22.4|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
+|grpc|1.64.0|1.65.0|app-network|Compliance mode enabled, was '1.65.0'|
+|grub-customizer|5.2.4|5.2.5|app-admin|Compliance mode enabled, was '5.2.5'|
+|gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
+|gsettings-desktop-schemas|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
+|gsm|1.0.19|1.0.22|runtime-multimedia|Compliance mode enabled, was '1.0.22'|
+|gsm+32|1.0.19|1.0.22|runtime-optenv32|Compliance mode enabled, was '1.0.22'|
+|gsmartcontrol|1.1.3|1.1.4|app-admin|Compliance mode enabled, was '1.1.4'|
+|gsoap|2.8.124|2.8.135|runtime-network|Compliance mode enabled, was '2.8.135'|
+|gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
+|gspell|1.11.1|1.12.2|desktop-gnome|Compliance mode enabled, was '1.12.2'|
+|gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
+|gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
+|gst-libav-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gst-plugins-bad-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gst-plugins-base-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gst-plugins-good-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gst-plugins-ugly-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gstreamer|1.24.4|1.24.5|runtime-multimedia|Compliance mode enabled, was '1.24.5'|
+|gstreamer-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compliance mode enabled, was '1.14.0'|
+|gti|1.6.1|1.9.1|app-vcs|Compliance mode enabled, was '1.9.1'|
+|gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
+|gtk-4|4.14.2|4.14.4|desktop-gnome|Compliance mode enabled, was '4.14.4'|
+|gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
+|gtk-layer-shell|0.8.1|0.8.2|runtime-desktop|Compliance mode enabled, was '0.8.2'|
+|gtk-qt-engine|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|gtk3-tqt-engine|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
+|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
+|gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
+|gtkwave|3.3.119|3.3.120|app-electronics|Compliance mode enabled, was '3.3.120'|
+|gtranslator|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gucharmap|15.1.3|15.1.5|desktop-gnome|Compliance mode enabled, was '15.1.5'|
+|guile|3.0.4|3.0.10|app-devel|Compliance mode enabled, was '3.0.10'|
+|gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
+|gupnp|1.2.4|1.6.6|desktop-gnome|Compliance mode enabled, was '1.6.6'|
+|gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
+|gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
+|gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
+|gvfs|1.50.2|1.55.1|desktop-gnome|Compliance mode enabled, was '1.55.1'|
+|gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
+|gwenhywfar|5.4.0|5.10.2|runtime-network|Compliance mode enabled, was '5.10.2'|
+|gwenview|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|gwenview-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|gzdoom|4.6.1|4.12.2|app-games|Compliance mode enabled, was '4.12.2'|
+|hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
+|harfbuzz|8.4.0|9.0.0|runtime-desktop|Compliance mode enabled, was '9.0.0'|
+|harfbuzz+32|2.6.7|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
+|haruna|0.12.3|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
+|harvid|0.8.3|0.9.1|app-multimedia|Compliance mode enabled, was '0.9.1'|
+|hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
+|haveged|1.9.13|1.9.18|app-utils|Compliance mode enabled, was '1.9.18'|
+|hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
+|hdf5|1.10.5|1.14.4.3|runtime-scientific|Compliance mode enabled, was '1.14.4.3'|
+|hdsentinel|0.17|400s|app-utils|Compliance mode enabled, was '400s'|
+|helm|3.15.0|3.15.2|app-containers|Compliance mode enabled, was '3.15.2'|
+|help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
+|herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
+|hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
+|hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
+|highlight|4.10|4.12|app-devel|Compliance mode enabled, was '4.12'|
+|highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
+|hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|hostapd|2.9|2.10|app-network|Compliance mode enabled, was '2.10'|
+|hotdoc|0.13.7|0.17|app-doc|Compliance mode enabled, was '0.17'|
+|hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
+|hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
+|htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
+|html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
+|html2text|2020.1.16|2024.2.26|lang-python|Compliance mode enabled, was '2024.2.26'|
+|html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
+|htslib|1.16|1.20|app-scientific|Compliance mode enabled, was '1.20'|
+|httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
+|httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
+|hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compliance mode enabled, was '2.14.2'|
+|hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
+|humanize|0.5.1|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
+|hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
+|hwloc|2.10.0|2.11.0|app-admin|Compliance mode enabled, was '2.11.0'|
+|hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
+|hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
+|hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
+|hypothesis-python|6.97.4|6.104.2|lang-python|Compliance mode enabled, was '6.104.2'|
+|hysteria|2.4.0|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
+|i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
+|i2pd|2.41.0|2.52.0|app-web|Compliance mode enabled, was '2.52.0'|
+|i3status-rust|0.31.9|0.33.1|desktop-wm|Compliance mode enabled, was '0.33.1'|
+|ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
+|ibus|1.5.25|1.5.30|app-i18n|Compliance mode enabled, was '1.5.30'|
+|ibus-anthy|1.5.13|1.5.16|app-i18n|Compliance mode enabled, was '1.5.16'|
+|ibus-chewing|1.6.1|2.0.0|app-i18n|Compliance mode enabled, was '2.0.0'|
+|ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
+|ibus-libpinyin|1.12.0|1.15.7|app-i18n|Compliance mode enabled, was '1.15.7'|
+|ibus-m17n|1.4.7|1.4.29|app-i18n|Compliance mode enabled, was '1.4.29'|
+|ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
+|ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
+|ibus-table|1.14.1|1.17.6|app-i18n|Compliance mode enabled, was '1.17.6'|
+|icdiff|1.9.5|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'|
+|icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Compliance mode enabled, was '1.2.26.orig'<br>Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
+|icu|64.2|75.1|runtime-i18n|Compliance mode enabled, was '75-1'|
+|icu+32|64.2|75.1|runtime-optenv32|Compliance mode enabled, was '75-1'|
+|id3|0.80|0.81|app-utils|Compliance mode enabled, was '0.81'|
+|ifaddr|0.1.7|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
+|igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
+|igv|2.15.1|2.17.4|app-scientific|Compliance mode enabled, was '2.17.4'|
+|iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
+|imagemagick|6.9.13<br>+7|6.9.13+12|app-utils|Compliance mode enabled, was '6.9.13-12'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+34|app-utils|Compliance mode enabled, was '7.1.1-34'|
+|imagesize|1.1.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
+|imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
+|imath|3.1.5|3.1.11|runtime-display|Compliance mode enabled, was '3.1.11'|
+|img2pdf|0.4.0|0.5.1|app-doc|Compliance mode enabled, was '0.5.1'|
+|imlib2|1.5.1|1.12.2|runtime-imaging|Compliance mode enabled, was '1.12.2'|
+|imlib2+32|1.4.8|1.12.2|runtime-optenv32|Compliance mode enabled, was '1.12.2'|
+|imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
+|incidenceeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|incremental|17.5.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
+|inetutils|2.4|2.5|app-utils|Compliance mode enabled, was '2.5'|
+|inih|53|58|app-devel|Compliance mode enabled, was '58'|
+|iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
+|iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
+|intel-gmmlib|22.3.20|22.4.1|runtime-devices|Compliance mode enabled, was '22.4.1'|
+|intel-media-driver|24.1.5|24.2.5|runtime-multimedia|Compliance mode enabled, was '24.2.5'|
+|iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
+|iosevka-fonts|28.0.5|30.3.1|desktop-fonts|Compliance mode enabled, was '30.3.1'|
+|iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
+|ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
+|ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
+|iproute2|6.8.0|6.9.0|app-network|Compliance mode enabled, was '6.9.0'|
+|ipset|7.1|7.22|app-network|Compliance mode enabled, was '7.22'|
+|ipt2socks|1.1.3|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
+|iptables|1.8.8|1.8.10|app-network|Compliance mode enabled, was '1.8.10'|
+|iptraf-ng|1.1.4|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
+|ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
+|ipython|7.28.0|8.26.0|lang-python|Compliance mode enabled, was '8.26.0'|
+|irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
+|iso-codes|4.4|4.16.0|runtime-data|Compliance mode enabled, was '4.16.0'|
+|isomd5sum|1.2.4|1.2.5|app-utils|Compliance mode enabled, was '1.2.5'|
+|isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
+|ispc|1.22.0|1.24.0|app-devel|Compliance mode enabled, was '1.24.0'|
+|itinerary|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
+|iwd|1.20|2.18|app-network|Compliance mode enabled, was '2.18'|
+|ixion|0.17.0|0.19.0|runtime-scientific|Compliance mode enabled, was '0.19.0'|
+|j4-dmenu-desktop|2.17|3.0|app-utils|Compliance mode enabled, was '3.0'|
+|jack|1.9.21|1.9.22|app-multimedia|Compliance mode enabled, was '1.9.22'|
+|jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
+|jbig2dec|0.18|0.20|runtime-imaging|Compliance mode enabled, was '0.20'|
+|jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
+|jedi|0.18.1|0.19.1|lang-python|Compliance mode enabled, was '0.19.1'|
+|jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
+|jellyfish|0.6.0|1.0.4|lang-python|Compliance mode enabled, was '1.0.4'|
+|jetring|0.29|0.31|app-admin|Compliance mode enabled, was '0.31'|
+|jinja2|3.1.2|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
+|jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
+|jmol|14.30.0|16.2.17|app-scientific|Compliance mode enabled, was '16.2.17'|
+|john|1.8.0|1.9.0|app-penetration|Compliance mode enabled, was '1.9.0'|
+|josepy|1.13.0|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
+|json-c|0.16|0.17|runtime-common|Compliance mode enabled, was '0.17'|
+|json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compliance mode enabled, was '0.17'|
+|json-glib|1.8.0|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
+|jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
+|jsonpointer|2.3|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|jsonrpc-glib|3.42.0|3.44.0|runtime-common|Compliance mode enabled, was '3.44.0'|
+|jsonschema|3.2.0|0.0.1|lang-python|Compliance mode enabled, was '0.0.1'<br>Possible downgrade from the current version (3.2.0 -> 0.0.1)|
+|juk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|jupyter-client|5.2.4|8.6.2|lang-python|Compliance mode enabled, was '8.6.2'|
+|jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
+|k3b|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|k3b-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|k9copy-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kaccounts-integration|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kaccounts-providers|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kactivities|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kactivities-stats|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kactivitymanagerd|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kaddressbook|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kaffeine-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kajongg|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kalarm|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kalgebra|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kalk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kalzium|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kamera|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kamoso|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kanagram|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kapidox|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kapman|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kapptemplate|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|karchive|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kasablanca-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kasts|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|katapult-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kate|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|katomic|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kauth|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kbarcode-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kbd|2.5.1|2.6.4|app-utils|Compliance mode enabled, was '2.6.4'|
+|kbfx-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kbibtex-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kbiff-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kblackbox|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kblocks|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kbookmarks|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kbookreader-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kbounce|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kbreakout|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kbruch|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcachegrind|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcalc|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcalendarcore|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcalutils|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcharselect|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kchmviewer-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kclock|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcmautostart-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kcmutils|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcodecs|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcolorchooser|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
+|kcompletion|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kconfig|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kconfigwidgets|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcontacts|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcoreaddons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcptun|20240107|20240703|app-network|Compliance mode enabled, was '20240703'|
+|kcpuload-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kcrash|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kcron|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdav|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdbg-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kdbusaddons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdbusnotification-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kddockwidgets|1.3.1|2.1.0|runtime-desktop|Compliance mode enabled, was '2.1.0'|
+|kde-cli-tools|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kde-dev-scripts|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kde-dev-utils|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kde-gtk-config|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kde-inotify-survey|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdebugsettings|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdeclarative|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdeconnect|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdecoration|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kded|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdeedu-data|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdegraphics-mobipocket|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdegraphics-thumbnailers|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdelibs4support|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdenetwork-filesharing|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdenlive|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdepim-addons|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdepim-runtime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdeplasma-addons|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdesignerplugin|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdesu|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdev-php|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdev-python|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdevelop|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde|Compliance mode enabled, was '2.2.2'|
+|kdewebkit|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
+|kdialog|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdiamond|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kdiff3-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kdirstat-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
+|kdnssd|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdoctools|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kdpkg-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
+|keditbookmarks|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|keep-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|keepass|2.46|2.57|app-utils|Compliance mode enabled, was '2.57'|
+|keepass-plugin-agent|0.10.1|0.13.8|app-utils|Compliance mode enabled, was '0.13.8'|
+|keepass-plugin-favicon|1.9.0|9.7.4|app-utils|Compliance mode enabled, was '9.7.4'|
+|keepass-plugin-twofish|1.3|1.4|app-utils|Compliance mode enabled, was '1.4'|
+|keepassxc|2.6.6|2.7.9|app-utils|Compliance mode enabled, was '2.7.9'|
+|kemoticons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kernel-tools|6.9.7|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|keximdb-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|keyring|21.7.0|25.2.1|lang-python|Compliance mode enabled, was '25.2.1'|
+|keysmith|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kfilemetadata|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kfind|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kfloppy|23.04.3|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kfourinline|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kgamma|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kgeography|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kget|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kglobalaccel|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kgoldrunner|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kgpg|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kgtk-qt3-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kguiaddons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|khangman|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|khealthcertificate|22.11|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|khelpcenter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kholidays|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|khotkeys|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|khtml|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|ki18n|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kicad|8.0.2|8.0.3|app-electronics|Compliance mode enabled, was '8.0.3'|
+|kiconthemes|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kid3|3.8.3|3.9.5|app-multimedia|Compliance mode enabled, was '3.9.5'|
+|kidentitymanagement|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kidletime|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kig|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kigo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kile-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|killbots|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kima-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kimageannotator|0.6.0|0.7.1|desktop-kde|Compliance mode enabled, was '0.7.1'|
+|kimageformats|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kimagemapeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kimap|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kinfocenter|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kinit|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kio|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kio-admin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kio-extras|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kio-fuse|5.0.1|5.1.0|desktop-kde|Compliance mode enabled, was '5.1.0'|
+|kio-gdrive|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kio-zeroconf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kiosktool-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kipi-plugins|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kirigami-addons|0.11.0|1.3.0|desktop-kde|Compliance mode enabled, was '1.3.0'|
+|kirigami-gallery|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kirigami2|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kiriki|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kitemmodels|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kitemviews|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kiten|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kitinerary|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kitty|0.26.4|0.35.2|app-utils|Compliance mode enabled, was '0.35.2'|
+|kiwisolver|1.0.1|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
+|kjobwidgets|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kjournald|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kjs|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kjsembed|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kjumpingcube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kkbswitch-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|klamav-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|klcddimmer-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kldap|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kleopatra|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|klettres|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|klickety|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|klines|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmag|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmahjongg|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmail|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmail-account-wizard|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmailtransport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmbox|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmediaplayer|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kmenuedit|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kmime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmines|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmix|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmod|31|32|app-admin|Compliance mode enabled, was '32'|
+|kmousetool|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmouth|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmplayer-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kmplot|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kmscon|8<br>+git20221110|8|app-utils|Compliance mode enabled, was '8'|
+|kmyfirewall-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kmymoney-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knavalbattle|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|knemo-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knetload-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knetstats-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knetwalk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|knewstuff|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|knights|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|knights-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knmap-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knotes|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|knotifications|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|knotifyconfig|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|knowit-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|knutclient-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kodi|20.3|21.0|app-multimedia|Compliance mode enabled, was '21.0'|
+|kodi-pvr-iptvsimple|19.2.2|21.8.4-omega|app-multimedia|Compliance mode enabled, was '21.8.4-Omega'|
+|koffice-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|koko|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kolf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kollision|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kolourpaint|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kompare|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kompose-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kongress|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|konqueror|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|konquest|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|konsole|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kontact|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kontactinterface|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kontrast|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|konversation|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|konversation-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kooldock-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kopeninghours|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kopete|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kopete-otr-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|korganizer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kosmindoormap|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kpackage|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kparts|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kpat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kpeople|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kpicosim-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kpilot-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kpimtextedit|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kpipewire|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kpkpass|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kplotting|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kpmcore|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kpty|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kpublictransport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kqtquickcharts|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kquickcharts|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kquickimageeditor|0.2.0|0.3.0|desktop-kde|Compliance mode enabled, was '0.3.0'|
+|krb5|1.17.1|1.21.3-final|app-network|Compliance mode enabled, was '1.21.3-final'|
+|krb5+32|1.17.1|1.21.3-final|runtime-optenv32|Compliance mode enabled, was '1.21.3-final'|
+|krdc|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|krecipes-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|krecorder|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|krename-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kreversi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|krfb|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|krita|5.2.2|5.2.3|app-creativity|Compliance mode enabled, was '5.2.3'|
+|kross|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kruler|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|krunner|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|krusader|2.7.2|2.8.1|desktop-kde|Compliance mode enabled, was '2.8.1'|
+|krusader-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksanecore|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kscope-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kscreen|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kscreenlocker|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|ksensors-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kservice|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|ksh93|2020.0.0|1.0.9|app-shells|Compliance mode enabled, was '1.0.9'<br>Possible downgrade from the current version (2020.0.0 -> 1.0.9)|
+|kshisen|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kshowmail-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kshutdown-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksirk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksmtp|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksnakeduel|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kspaceduel|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksquares|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksshaskpass|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kstars|3.6.7|3.7.0|desktop-kde|Compliance mode enabled, was '3.7.0'|
+|kstreamripper-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksudoku|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksystemlog|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ksystemlog-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ksystemstats|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kteatime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktechlab-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ktextaddons|1.5.3|1.5.4|desktop-kde|Compliance mode enabled, was '1.5.4'|
+|ktexteditor|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|ktextwidgets|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|ktimer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktnef|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktoblzcheck|1.53|1.57|runtime-productivity|Compliance mode enabled, was '1.57'|
+|ktorrent|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktorrent-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|ktouch|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktrip|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ktuberling|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kturtle|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kubo|0.26.0|0.10.0|app-network|Compliance mode enabled, was '0.10.0'<br>Possible downgrade from the current version (0.26.0 -> 0.10.0)|
+|kubrick|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kunitconversion|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kvantum|1.0.10|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
+|kvirc|5.0.0|5.2.4|app-web|Compliance mode enabled, was '5.2.4'|
+|kvkbd-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kvpnc-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kwallet|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwallet-pam|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwalletmanager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kwave|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kwayland|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwayland-integration|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kweather|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kweathercore|0.7|0.8.0|desktop-kde|Compliance mode enabled, was '0.8.0'|
+|kwidgetsaddons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwin|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwindowsystem|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kwordquiz|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kwrited|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kxmleditor-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|kxmlgui|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kxmlrpcclient|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
+|lablgtk|2.18.11|3.1.5|lang-ocaml|Compliance mode enabled, was '3.1.5'|
+|ladish|20200418|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (20200418 -> 1.2)|
+|lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
+|layer-shell-qt|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|lazarus|3.2|3.4|lang-pascal|Compliance mode enabled, was '3.4'|
+|lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
+|lcms2|2.14|2.16|runtime-imaging|Compliance mode enabled, was '2.16'|
+|lcms2+32|2.9|2.16|runtime-optenv32|Compliance mode enabled, was '2.16'|
+|ldb|2.6.1|2.9.1|app-database|Compliance mode enabled, was '2.9.1'|
+|leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
+|less|643|661|app-utils|Compliance mode enabled, was '661'|
+|level-zero|1.17.6|1.17.17|runtime-common|Compliance mode enabled, was '1.17.17'|
+|levenshtein|0.12.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
+|lib3mf|2.2.0|2.3.1|runtime-imaging|Compliance mode enabled, was '2.3.1'|
+|libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
+|libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
+|libadwaita|1.5.0|1.5.2|desktop-gnome|Compliance mode enabled, was '1.5.2'|
+|libaio|0.3.111|0.3.113|runtime-common|Compliance mode enabled, was '0.3.113'|
+|libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
+|libantlr3c|3.4|4.13.1|runtime-common|Compliance mode enabled, was '4.13.1'|
+|libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
+|libart-lgpl|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
+|libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
+|libassuan|2.5.3|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
+|libatomic-ops|7.8.0|7.8.2|runtime-common|Compliance mode enabled, was '7.8.2'|
+|libavif|0.11.1|1.0.4|runtime-multimedia|Compliance mode enabled, was '1.0.4'|
+|libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
+|libblockdev|2.23|3.1.1|runtime-devices|Compliance mode enabled, was '3.1.1'|
+|libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
+|libbluray+32|1.2.1|1.3.4|runtime-optenv32|Compliance mode enabled, was '1.3.4'|
+|libbpf|1.2.0|1.4.3|runtime-kernel|Compliance mode enabled, was '1.4.3'|
+|libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
+|libbytesize|2.1|2.10|runtime-common|Compliance mode enabled, was '2.10'|
+|libc+wasi|20|22|runtime-wasi|Compliance mode enabled, was '22'|
+|libcaldav|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libcap|2.69|2.70|runtime-common|Compliance mode enabled, was '2.70'|
+|libcap+32|2.31|2.70|runtime-optenv32|Compliance mode enabled, was '2.70'|
+|libcap-ng|0.7.11|0.8.5|runtime-common|Compliance mode enabled, was '0.8.5'|
+|libcarddav|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
+|libcdio+32|0.94|2.1.0|runtime-optenv32|Compliance mode enabled, was '2.1.0'|
+|libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compliance mode enabled, was '2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
+|libcdr|0.1.6|0.1.7|runtime-imaging|Compliance mode enabled, was '0.1.7'|
+|libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
+|libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
+|libchewing|0.5.1|0.8.4|runtime-i18n|Compliance mode enabled, was '0.8.4'|
+|libclc|17.0.3|18.1.8|runtime-devices|Compliance mode enabled, was '18.1.8'|
+|libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
+|libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
+|libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
+|libcork|1.0.0~rc3|0.15.0|runtime-common|Compliance mode enabled, was '0.15.0'<br>Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
+|libcpuid|0.5.1|0.6.5|runtime-common|Compliance mode enabled, was '0.6.5'|
+|libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
+|libdatachannel|0.21.1|0.21.2|runtime-multimedia|Compliance mode enabled, was '0.21.2'|
+|libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
+|libdecor|0.1.1|0.2.2|runtime-desktop|Compliance mode enabled, was '0.2.2'|
+|libdeflate|1.19|1.20|runtime-common|Compliance mode enabled, was '1.20'|
+|libdiscid|0.6.2|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
+|libdispatch|5.6.1|5.9.2-release|runtime-common|Compliance mode enabled, was '5.9.2-RELEASE'|
+|libdisplay-info|0.1.1|0.2.0|runtime-display|Compliance mode enabled, was '0.2.0'|
+|libdnet|1.12|1.18.0|runtime-network|Compliance mode enabled, was '1.18.0'|
+|libdrm|2.4.120|2.4.122|runtime-display|Compliance mode enabled, was '2.4.122'|
+|libdrm+32|2.4.113|2.4.122|runtime-optenv32|Compliance mode enabled, was '2.4.122'|
+|libdvdcss+32|1.4.2|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
+|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
+|libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
+|libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
+|libdwarf|20210305|0.10.1|runtime-common|Compliance mode enabled, was '0.10.1'<br>Possible downgrade from the current version (20210305 -> 0.10.1)|
+|libe-book|0.1.2|0.1.3|runtime-doc|Compliance mode enabled, was '0.1.3'|
+|libeconf|0.5.0|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
+|libedit|20191231<br>+3.1|20240517-3.1|runtime-common|Compliance mode enabled, was '20240517-3.1'|
+|libepoxy+32|1.2|1.5.10|runtime-optenv32|Compliance mode enabled, was '1.5.10'|
+|libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
+|libertine-fonts|8.0.2|8.1.2|desktop-fonts|Compliance mode enabled, was '8.1.2'|
+|libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
+|libetebase|0.5.4|0.5.6|runtime-cryptography|Compliance mode enabled, was '0.5.6'|
+|libetonyek|0.1.9|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
+|libevdev|1.11.0|1.13.2|runtime-devices|Compliance mode enabled, was '1.13.2'|
+|libexif|0.6.22|0.6.24|runtime-imaging|Compliance mode enabled, was '0.6.24'|
+|libexif+32|0.6.22|0.6.24|runtime-optenv32|Compliance mode enabled, was '0.6.24'|
+|libfdk-aac|2.0.1|2.0.3|runtime-multimedia|Compliance mode enabled, was '2.0.3'|
+|libffado|2.4.4|2.4.9|runtime-multimedia|Compliance mode enabled, was '2.4.9'|
+|libffi|3.4.4|3.4.6|runtime-common|Compliance mode enabled, was '3.4.6'|
+|libffi+32|3.4.2|3.4.6|runtime-optenv32|Compliance mode enabled, was '3.4.6'|
+|libfido2|1.13.0|1.15.0|runtime-devices|Compliance mode enabled, was '1.15.0'|
+|libfilezilla|0.45.0|0.38.1|runtime-web|Compliance mode enabled, was '0.38.1'<br>Possible downgrade from the current version (0.45.0 -> 0.38.1)|
+|libfm|1.3.0.2|1.3.2|desktop-lxde|Compliance mode enabled, was '1.3.2'|
+|libfprint|1.94.4|1.94.7|runtime-devices|Compliance mode enabled, was '1.94.7'|
+|libftdi|1.4|1.5|runtime-devices|Compliance mode enabled, was '1.5'|
+|libgcrypt+32|1.9.1|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
+|libgcrypt-static|1.10.3|1.11.0|runtime-cryptography|Compliance mode enabled, was '1.11.0'|
+|libgeotiff|1.5.1|1.7.3|runtime-gis|Compliance mode enabled, was '1.7.3'|
+|libgig|4.4.0|4.4.1|runtime-multimedia|Compliance mode enabled, was '4.4.1'|
+|libgit2|1.7.2|1.8.1|runtime-vcs|Compliance mode enabled, was '1.8.1'|
+|libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'<br>Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
+|libglvnd+32|1.6.0|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
+|libgnome-games-support|1.8.2|2.0.0|desktop-gnome|Compliance mode enabled, was '2.0.0'|
+|libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
+|libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
+|libgpg-error+32|1.41|1.50|runtime-optenv32|Compliance mode enabled, was '1.50'|
+|libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
+|libgpiod|1.4.2|2.1.2|runtime-devices|Compliance mode enabled, was '2.1.2'|
+|libgravatar|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libgsf|1.14.47|1.14.52|desktop-gnome|Compliance mode enabled, was '1_14_52'|
+|libgtop|2.38.0|2.41.3|desktop-gnome|Compliance mode enabled, was '2.41.3'|
+|libguestfs|1.52.0|1.53.4|runtime-virtualization|Compliance mode enabled, was '1.53.4'|
+|libgweather|4.1.0|4.4.2|desktop-gnome|Compliance mode enabled, was '4.4.2'|
+|libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
+|libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
+|libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
+|libidn+32|1.33|1.42|runtime-optenv32|Compliance mode enabled, was '1.42'|
+|libidn2|2.3.0|2.3.7|runtime-network|Compliance mode enabled, was '2.3.7'|
+|libindi|2.0.5|2.0.8|runtime-scientific|Compliance mode enabled, was '2.0.8'|
+|libinput|1.26.0|1.26.1|runtime-devices|Compliance mode enabled, was '1.26.1'|
+|libintl-perl|1.29|1.33|lang-perl|Compliance mode enabled, was '1.33'|
+|libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
+|libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
+|libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
+|libjcat|0.1.8|0.2.1|runtime-common|Compliance mode enabled, was '0.2.1'|
+|libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32|Compliance mode enabled, was '3.0.3'|
+|libjxl|0.10.2|0.10.3|runtime-imaging|Compliance mode enabled, was '0.10.3'|
+|libkcddb|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkcompactdisc|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkdcraw|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libkdegames|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkdepim|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkeduvocdocument|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkexiv2|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libkeyfinder|2.2.5|2.2.8|runtime-multimedia|Compliance mode enabled, was '2.2.8'|
+|libkgapi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkipi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkipi-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libkkc|0.3.5<br>+git20210213|0.3.5|runtime-i18n|Compliance mode enabled, was '0.3.5'|
+|libkkc-data|0.2.7|0.3.5|runtime-i18n|Compliance mode enabled, was '0.3.5'|
+|libkleo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkmahjongg|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkolabxml|1.2.0|1.2.1|runtime-productivity|Compliance mode enabled, was '1.2.1'|
+|libkomparediff2|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libksane|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libksba|1.6.6|1.6.7|runtime-cryptography|Compliance mode enabled, was '1.6.7'|
+|libkscreen|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|libksieve|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|libksysguard|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|libktorrent|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
+|liblo|0.29|0.32|runtime-multimedia|Compliance mode enabled, was '0.32'|
+|liblouis|3.12.0|3.30.0|runtime-a11y|Compliance mode enabled, was '3.30.0'|
+|libltc|1.3.1|1.3.2|runtime-multimedia|Compliance mode enabled, was '1.3.2'|
+|libluv|1.47.0<br>+0|1.48.0+2|lang-lua|Compliance mode enabled, was '1.48.0-2'|
+|libmanette|0.2.6|0.2.7|runtime-devices|Compliance mode enabled, was '0.2.7'|
+|libmaxminddb|1.4.3|1.10.0|runtime-web|Compliance mode enabled, was '1.10.0'|
+|libmediaart|1.9.4|1.9.6|runtime-multimedia|Compliance mode enabled, was '1.9.6'|
+|libmediainfo|22.06|24.06|runtime-multimedia|Compliance mode enabled, was '24.06'|
+|libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
+|libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32|Compliance mode enabled, was '3.3.11.1'|
+|libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia|Compliance mode enabled, was '0.8.9.0'|
+|libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32|Compliance mode enabled, was '0.8.9.0'|
+|libmpcdec|0.1~r495|0.1r495|runtime-multimedia|Compliance mode enabled, was '0.1~r495'|
+|libmspack|0.10.1alpha|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
+|libmsym|0.2.3|0.2.4.2|runtime-scientific|Compliance mode enabled, was '0.2.4.2'|
+|libmtp|1.1.17|1.1.21|runtime-devices|Compliance mode enabled, was '1.1.21'|
+|libndp|1.7|1.9|runtime-network|Compliance mode enabled, was '1.9'|
+|libnet|1.1.6|1.3|runtime-network|Compliance mode enabled, was '1.3'|
+|libnfc|1.7.1|1.8.0|runtime-devices|Compliance mode enabled, was '1.8.0'|
+|libnfnetlink|1.0.1|1.0.2|runtime-network|Compliance mode enabled, was '1.0.2'|
+|libnfs|4.0.0|5.0.3|runtime-network|Compliance mode enabled, was '5.0.3'|
+|libnfs-static|4.0.0|5.0.3|runtime-network|Compliance mode enabled, was '5.0.3'|
+|libnice|0.1.17|0.1.22|runtime-network|Compliance mode enabled, was '0.1.22'|
+|libnl+32|3.2.28|3.9.0|runtime-optenv32|Compliance mode enabled, was '3.9.0'|
+|libnotify|0.7.9|0.8.3|runtime-desktop|Compliance mode enabled, was '0.8.3'|
+|libnsl2|1.3.0|2.0.1|runtime-network|Compliance mode enabled, was '2.0.1'|
+|libnspsl|0.1.6|0.1.7|runtime-web|Compliance mode enabled, was '0.1.7'|
+|libodfgen|0.1.6|0.1.8|runtime-productivity|Compliance mode enabled, was '0.1.8'|
+|libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compliance mode enabled, was '1.30'|
+|libogg|1.3.4|1.3.5|runtime-multimedia|Compliance mode enabled, was '1.3.5'|
+|libogg+32|1.3.4|1.3.5|runtime-optenv32|Compliance mode enabled, was '1.3.5'|
+|libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
+|liborcus|0.17.2|0.19.2|runtime-productivity|Compliance mode enabled, was '0.19.2'|
+|libosinfo|1.10.0|1.11.0|runtime-common|Compliance mode enabled, was '1.11.0'|
+|libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
+|libp11|0.4.10|0.4.12|runtime-cryptography|Compliance mode enabled, was '0.4.12'|
+|libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
+|libpcap+32|1.10.1|1.10.4|runtime-optenv32|Compliance mode enabled, was '1.10.4'|
+|libpeas|1.36.0|2.0.3|desktop-gnome|Compliance mode enabled, was '2.0.3'|
+|libphonenumber|8.13.38|8.13.40|runtime-i18n|Compliance mode enabled, was '8.13.40'|
+|libpinyin|2.6.0|2.8.1|runtime-i18n|Compliance mode enabled, was '2.8.1'|
+|libpipeline|1.5.3|1.5.7|runtime-common|Compliance mode enabled, was '1.5.7'|
+|libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
+|libplist|2.3.0|2.6.0|runtime-common|Compliance mode enabled, was '2.6.0'|
+|libpng|1.6.42|1.6.43|runtime-imaging|Compliance mode enabled, was '1.6.43'|
+|libpng+32|1.2.57|1.6.43|runtime-optenv32|Compliance mode enabled, was '1.6.43'|
+|libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32|Compliance mode enabled, was '1.6.43'|
+|libportal|0.6|0.7.1|runtime-desktop|Compliance mode enabled, was '0.7.1'|
+|libpqxx|6.4.5|7.9.1|runtime-database|Compliance mode enabled, was '7.9.1'|
+|libproxy|0.5.6|0.5.7|runtime-network|Compliance mode enabled, was '0.5.7'|
+|libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
+|libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
+|libqalculate|4.5.1|5.2.0.1|runtime-scientific|Compliance mode enabled, was '5.2.0.1'|
+|libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
+|libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
+|libqtxdg|3.6.0|4.0.0|runtime-desktop|Compliance mode enabled, was '4.0.0'|
+|libquotient|0.8.1.2|0.8.2|runtime-web|Compliance mode enabled, was '0.8.2'|
+|libraw|0.20.0|0.21.2|runtime-imaging|Compliance mode enabled, was '0.21.2'|
+|librcc|0.2.12|0.2.13|runtime-i18n|Compliance mode enabled, was '0.2.13'|
+|libreoffice|7.5.4.2|24.2.5.1|app-productivity|Compliance mode enabled, was '24.2.5.1'|
+|librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
+|librsvg|2.56.1|2.58.91|runtime-imaging|Compliance mode enabled, was '2.58.91'|
+|librsvg+32|2.40.21|2.58.91|runtime-optenv32|Compliance mode enabled, was '2.58.91'|
+|librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
+|libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
+|libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
+|libsbsms|2.3.0|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (2.3.0 -> 2.0.2)|
+|libsecret|0.20.4|0.21.4|runtime-desktop|Compliance mode enabled, was '0.21.4'|
+|libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
+|libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
+|libshumate|1.2.1|1.2.2|desktop-gnome|Compliance mode enabled, was '1.2.2'|
+|libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
+|libsidplay+32|1.36.59|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
+|libsidplayfp|1.8.8|2.8.0|runtime-multimedia|Compliance mode enabled, was '2.8.0'|
+|libsigc++|2.10.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
+|libsigc++-3.0|3.4.0|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
+|libsigsegv|2.12|2.14|runtime-common|Compliance mode enabled, was '2.14'|
+|libslirp|4.6.1|4.8.0|runtime-emulation|Compliance mode enabled, was '4.8.0'|
+|libsndfile|1.2.0|1.2.2|runtime-multimedia|Compliance mode enabled, was '1.2.2'|
+|libsndfile+32|1.2.0|1.2.2|runtime-optenv32|Compliance mode enabled, was '1.2.2'|
+|libsodium|1.0.18|1.0.20|runtime-cryptography|Compliance mode enabled, was '1.0.20'|
+|libsoundio|1.1.0|2.0.1+7|runtime-multimedia|Compliance mode enabled, was '2.0.1-7'|
+|libsoup|2.74.2|3.5.1|runtime-web|Compliance mode enabled, was '3.5.1'|
+|libsoup-3|3.2.2|3.5.1|runtime-web|Compliance mode enabled, was '3.5.1'|
+|libspatialite|5.0.1|5.1.0|runtime-gis|Compliance mode enabled, was '5.1.0'|
+|libspectre|0.2.9|0.2.12|runtime-doc|Compliance mode enabled, was '0.2.12'|
+|libspectre+32|0.2.9|0.2.12|runtime-optenv32|Compliance mode enabled, was '0.2.12'|
+|libspiro|0.5.20150702|20221101|runtime-creativity|Compliance mode enabled, was '20221101'|
+|libspnav|0.2.3|1.0|runtime-devices|Compliance mode enabled, was '1.0'|
+|libssh|0.8.9|0.10.6|runtime-network|Compliance mode enabled, was '0.10.6'|
+|libssh+32|0.8.9|0.10.6|runtime-optenv32|Compliance mode enabled, was '0.10.6'|
+|libssh2|1.9.0|1.11.0|runtime-network|Compliance mode enabled, was '1.11.0'|
+|libssh2+32|1.9.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
+|libstoragemgmt|1.7.3|1.10.0|runtime-admin|Compliance mode enabled, was '1.10.0'|
+|libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
+|libtasn1|4.15.0|4.19.0|runtime-cryptography|Compliance mode enabled, was '4.19.0'|
+|libtasn1+32|4.15.0|4.19.0|runtime-optenv32|Compliance mode enabled, was '4.19.0'|
+|libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
+|libthai|0.1.28|0.1.29|runtime-i18n|Compliance mode enabled, was '0.1.29'|
+|libticables2|1.3.4|1.3.5|runtime-devices|Compliance mode enabled, was '1.3.5'|
+|libticalcs2|1.1.8|1.1.9|runtime-devices|Compliance mode enabled, was '1.1.9'|
+|libticonv|1.1.4|1.1.5|runtime-devices|Compliance mode enabled, was '1.1.5'|
+|libtiff|4.4.0|4.6.0|runtime-imaging|Compliance mode enabled, was '4.6.0'|
+|libtiff+32|4.0.10|4.6.0|runtime-optenv32|Compliance mode enabled, was '4.6.0'|
+|libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
+|libtirpc|1.3.1|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
+|libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
+|libtool|2.4.7|2.5.0|app-devel|Compliance mode enabled, was '2.5.0'|
+|libtool+32|2.4.6|2.5.0|runtime-optenv32|Compliance mode enabled, was '2.5.0'|
+|libtracefs|1.6.4|1.8.0|runtime-admin|Compliance mode enabled, was '1.8.0'|
+|libtsm|4.0.1|4.0.2|runtime-common|Compliance mode enabled, was '4.0.2'|
+|libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
+|libuhd|4.5.0.0|4.7.0.0|runtime-ham|Compliance mode enabled, was '4.7.0.0'|
+|libuninameslist|20190701|20240524|runtime-i18n|Compliance mode enabled, was '20240524'|
+|libunistring|0.9.10|1.2|runtime-common|Compliance mode enabled, was '1.2'|
+|libunwind|1.6.2|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
+|libupnp|1.14.16|1.14.19|runtime-network|Compliance mode enabled, was '1.14.19'|
+|libusb|1.0.23|1.0.27|runtime-devices|Compliance mode enabled, was '1.0.27'|
+|libusb+32|1.0.23|1.0.27|runtime-optenv32|Compliance mode enabled, was '1.0.27'|
+|libusb-compat|0.1.5|0.1.8|runtime-devices|Compliance mode enabled, was '0.1.8'|
+|libusb-compat+32|0.1.5|0.1.8|runtime-optenv32|Compliance mode enabled, was '0.1.8'|
+|libusbmuxd|2.0.2|2.1.0|runtime-devices|Compliance mode enabled, was '2.1.0'|
+|libutf8proc|2.4.0|2.9.0|runtime-i18n|Compliance mode enabled, was '2.9.0'|
+|libva+32|2.15.0|2.22.0|runtime-optenv32|Compliance mode enabled, was '2.22.0'|
+|libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia|Compliance mode enabled, was '0.7.4'|
+|libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
+|libvdpau+32|1.1.1|1.5|runtime-optenv32|Compliance mode enabled, was '1.5'|
+|libvirt|10.2.0|10.5.0|app-virtualization|Compliance mode enabled, was '10.5.0'|
+|libvirt-python|10.1.0|10.5.0|runtime-virtualization|Compliance mode enabled, was '10.5.0'|
+|libvisual|0.4.0|0.4.2|runtime-multimedia|Compliance mode enabled, was '0.4.2'|
+|libvisual+32|0.4.0|0.4.2|runtime-optenv32|Compliance mode enabled, was '0.4.2'|
+|libvncserver|0.9.13|0.9.14|runtime-network|Compliance mode enabled, was '0.9.14'|
+|libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
+|libvpl|2.11.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
+|libvpx|1.10.0|1.14.1|runtime-multimedia|Compliance mode enabled, was '1.14.1'|
+|libvpx+32|1.9.0|1.14.1|runtime-optenv32|Compliance mode enabled, was '1.14.1'|
+|libwacom|2.4.0|2.12.2|runtime-devices|Compliance mode enabled, was '2.12.2'|
+|libwebp|1.3.1|1.4.0|runtime-imaging|Compliance mode enabled, was '1.4.0'|
+|libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
+|libwebsockets|3.1.0|4.3.3|runtime-web|Compliance mode enabled, was '4.3.3'|
+|libwm|20161006|1.3|runtime-display|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20161006 -> 1.3)|
+|libwmf|0.2.8.4|0.2.13|runtime-imaging|Compliance mode enabled, was '0.2.13'|
+|libwnck-3|40.1|43.0|runtime-desktop|Compliance mode enabled, was '43.0'|
+|libwpd|0.10.2|0.10.3|runtime-productivity|Compliance mode enabled, was '0.10.3'|
+|libwpe|1.12.2|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
+|libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
+|libwww-perl|6.33|6.77|lang-perl|Compliance mode enabled, was '6.77'|
+|libx86|1.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
+|libx86emu|3.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
+|libxau+32|1.0.9|1.0.11|runtime-optenv32|Compliance mode enabled, was '1.0.11'|
+|libxcb|1.16.1|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
+|libxcb+32|1.13|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
+|libxdmcp+32|1.1.3|1.1.5|runtime-optenv32|Compliance mode enabled, was '1.1.5'|
+|libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
+|libxml++|2.40.1|5.2.0|runtime-common|Compliance mode enabled, was '5.2.0'|
+|libxml2|2.10.4|2.13.1|runtime-common|Compliance mode enabled, was '2.13.1'|
+|libxml2+32|2.10.4|2.13.1|runtime-optenv32|Compliance mode enabled, was '2.13.1'|
+|libxmlb|0.3.15|0.3.19|runtime-common|Compliance mode enabled, was '0.3.19'|
+|libxnvctrl|545.23.06|550.54.14|runtime-display|Compliance mode enabled, was '550.54.14'|
+|libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32|Compliance mode enabled, was '550.54.14'|
+|libxslt|1.1.34|1.1.41|runtime-common|Compliance mode enabled, was '1.1.41'|
+|libxslt+32|1.1.34|1.1.41|runtime-optenv32|Compliance mode enabled, was '1.1.41'|
+|libzen|0.4.38|0.4.41|runtime-common|Compliance mode enabled, was '0.4.41'|
+|libzip|1.5.2|1.10.1|runtime-common|Compliance mode enabled, was '1.10.1'|
+|liferea|1.13.8|1.15.7|app-web|Compliance mode enabled, was '1.15.7'|
+|light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
+|lightsoff|40.0.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|lighttpd|1.4.55|1.4.76|app-network|Compliance mode enabled, was '1.4.76'|
+|lilv|0.24.12|0.24.24|runtime-multimedia|Compliance mode enabled, was '0.24.24'|
+|lilypond|2.23.0|2.25.4|app-multimedia|Compliance mode enabled, was '2.25.4'|
+|lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
+|link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
+|linux+api|6.7.12|5.19.17|core-devel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
+|linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
+|linux+kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.5.11 -> 5.19.17)|
+|linux+kernel+lts|6.6.31|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (6.6.31 -> 5.10.220)|
+|linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
+|linux+kernel+retro|5.10.132|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'|
+|linux+kernel+retro+minimal|5.15.17|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (5.15.17 -> 5.10.220)|
 |linux-firmware|20240506|20240610|runtime-kernel||
-|linux-kernel|6.9.7|5.19.17|runtime-kernel|Possible downgrade from the current version (6.9.7 -> 5.19.17)|
-|linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.220|runtime-kernel||
-|linux-kernel-retro-minimal|5.15.17|5.10.220|runtime-kernel|Possible downgrade from the current version (5.15.17 -> 5.10.220)|
-|linuxsampler|2.3.0|2.3.1|runtime-multimedia||
-|lirc|0.9.4d|0.10.2|app-devices||
-|lksctp-tools|1.0.17|1.0.19|app-network||
-|lldpd|1.0.17|1.0.18|app-network||
-|llfuse|1.4.1|1.5.0|lang-python||
-|llvm|17.0.6|18.1.8|app-devel||
-|llvm+32|14.0.6|18.1.8|runtime-optenv32||
-|llvm-runtime+wasi|17.0.6|18.1.8|runtime-wasi||
-|lm-sensors|3.6.0|3-6-0|app-utils||
-|lmdb|0.9.31|0.9.33|app-database||
-|lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
-|log4cpp|1.1.3|1.1.4|runtime-common||
-|logrotate|3.21.0|3.22.0|app-admin||
-|loguru|0.5.3|0.7.2|lang-python||
-|lokalize|23.08.5|24.05.2|desktop-kde||
-|loudmouth|1.5.3|1.5.4|runtime-web||
-|lowdown|1.1.0|1_1_0|app-doc||
-|lpaq|8|9m|app-utils||
-|lpsolve|5.5.2.5|5.6.20|app-scientific||
-|lrs|071a|073|app-scientific||
-|lrzsz|0.12.21|0.12.21.orig|app-network|Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
-|lshw|02.19.2|02.20|app-utils||
-|lskat|23.08.5|24.05.2|desktop-kde||
-|lsof|4.98.0|4.99.3|app-utils||
-|ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
-|lttng-ust|2.13.5|2.13.8|runtime-common||
-|lua-expat|1.4.1|1.5.2|lang-lua||
-|lua-messagepack|0.5.1|0.5.4|lang-lua||
-|luafilesystem|1.7.0.2|1_8_0|lang-lua||
-|luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
-|luarocks|3.5.0|3.11.1|lang-lua||
-|lucene++|3.0.8|3.0.9|runtime-common||
-|lunzip|1.10|1.14|app-utils||
-|lutris|0.5.11|0.5.17|app-games||
-|lvm2|2.03.14|2.03.24|app-admin||
-|lxc|5.0.2|6.0.1|app-admin||
-|lxcfs|3.0.3|6.0.1|app-admin||
-|lxgwcleargothic-font|0.300.4|0.320|desktop-fonts||
-|lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts||
-|lxml|4.7.1|4.9.1|lang-python||
-|lxpanel|0.9.3|0.10.1|desktop-lxde||
-|lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt||
-|lxterminal|0.3.2|0.4.0|desktop-lxde||
-|lynx|2.9.0|2.9.2|app-web||
-|lzd|1.0|1.4|app-utils||
-|lzip|1.23|1.24.1|app-utils||
-|lziprecover|1.21|1.24|app-utils||
-|lzlib|1.11|1.14|runtime-common||
-|m17n-db|1.8.0|1.8.5|runtime-i18n||
-|m17n-lib|1.8.0|1.8.4|runtime-i18n||
+|linux-kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
+|linux-kernel-retro|5.10.132|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'|
+|linux-kernel-retro-minimal|5.15.17|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (5.15.17 -> 5.10.220)|
+|linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
+|lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
+|lksctp-tools|1.0.17|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
+|lldpd|1.0.17|1.0.18|app-network|Compliance mode enabled, was '1.0.18'|
+|llfuse|1.4.1|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
+|llvm|17.0.6|18.1.8|app-devel|Compliance mode enabled, was '18.1.8'|
+|llvm+32|14.0.6|18.1.8|runtime-optenv32|Compliance mode enabled, was '18.1.8'|
+|llvm-runtime+wasi|17.0.6|18.1.8|runtime-wasi|Compliance mode enabled, was '18.1.8'|
+|lmdb|0.9.31|0.9.33|app-database|Compliance mode enabled, was '0.9.33'|
+|lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
+|log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
+|logrotate|3.21.0|3.22.0|app-admin|Compliance mode enabled, was '3.22.0'|
+|loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
+|lokalize|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
+|lpaq|8|9m|app-utils|Compliance mode enabled, was '9m'|
+|lpsolve|5.5.2.5|5.6.20|app-scientific|Compliance mode enabled, was '5.6.20'|
+|lrs|071a|073|app-scientific|Compliance mode enabled, was '073'|
+|lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
+|lshw|02.19.2|02.20|app-utils|Compliance mode enabled, was '02.20'|
+|lskat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|lsof|4.98.0|4.99.3|app-utils|Compliance mode enabled, was '4.99.3'|
+|ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compliance mode enabled, was '0.7.3'|
+|lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
+|lua-expat|1.4.1|1.5.2|lang-lua|Compliance mode enabled, was '1.5.2'|
+|lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
+|luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
+|luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
+|luarocks|3.5.0|3.11.1|lang-lua|Compliance mode enabled, was '3.11.1'|
+|lucene++|3.0.8|3.0.9|runtime-common|Compliance mode enabled, was '3.0.9'|
+|lunzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
+|lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
+|lvm2|2.03.14|2.03.24|app-admin|Compliance mode enabled, was '2.03.24'|
+|lxc|5.0.2|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
+|lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
+|lxgwcleargothic-font|0.300.4|0.320|desktop-fonts|Compliance mode enabled, was '0.320'|
+|lxgwnewcleargothic-font|1.121|1.123.2|desktop-fonts|Compliance mode enabled, was '1.123.2'|
+|lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
+|lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
+|lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
+|lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
+|lynx|2.9.0|2.9.2|app-web|Compliance mode enabled, was '2.9.2'|
+|lzd|1.0|1.4|app-utils|Compliance mode enabled, was '1.4'|
+|lzip|1.23|1.24.1|app-utils|Compliance mode enabled, was '1.24.1'|
+|lziprecover|1.21|1.24|app-utils|Compliance mode enabled, was '1.24'|
+|lzlib|1.11|1.14|runtime-common|Compliance mode enabled, was '1.14'|
+|m17n-db|1.8.0|1.8.5|runtime-i18n|Compliance mode enabled, was '1.8.5'|
+|m17n-lib|1.8.0|1.8.4|runtime-i18n|Compliance mode enabled, was '1.8.4'|
 |m1n1|1.4.6|1.4.14|runtime-kernel||
-|m2crypto|0.38.0|0.41.0|lang-python||
-|m2r|0.2.1|0.3.1|app-doc||
-|m3u8|0.7.1|5.1.0|lang-python||
-|mac-fdisk|0.1|0.1.orig|app-admin|Possible downgrade from the current version (0.1 -> 0.1.orig)|
-|magic-wormhole|0.11.2|0.14.0|app-network||
-|mailcommon|23.08.5|24.05.2|desktop-kde||
-|mailimporter|23.08.5|24.05.2|desktop-kde||
-|maim|5.5.3|5.8.0|app-utils||
-|mako|1.1.4|1.3.5|lang-python||
-|malcontent|0.10.5|0.12.0|runtime-desktop||
-|man-db|2.11.1|2.12.1|app-utils||
+|m2crypto|0.38.0|0.41.0|lang-python|Compliance mode enabled, was '0.41.0'|
+|m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
+|m3u8|0.7.1|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
+|mac-fdisk|0.1|0.1.orig|app-admin|Compliance mode enabled, was '0.1.orig'<br>Possible downgrade from the current version (0.1 -> 0.1.orig)|
+|magic-wormhole|0.11.2|0.14.0|app-network|Compliance mode enabled, was '0.14.0'|
+|mailcommon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|mailimporter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
+|mako|1.1.4|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
+|malcontent|0.10.5|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
+|man-db|2.11.1|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |man-pages|6.05.01|6.9.1|runtime-data||
-|mangohud|0.7.0|0.7.2|app-utils||
-|mangohud+32|0.7.0|0.7.2|runtime-optenv32||
-|marble|23.08.5|24.05.2|desktop-kde||
-|mariadb|10.9.8|11.5.1|app-database||
-|markdown|3.3.4|3.6|lang-python||
-|markdownpart|23.08.5|24.05.2|desktop-kde||
-|markupsafe|2.1.1|2.1.5|lang-python||
-|marshmallow|3.20.2|3.21.3|lang-python||
-|mat2|0.13.0|0.6.1|app-utils|Possible downgrade from the current version (0.13.0 -> 0.6.1)|
-|mate-control-center|1.28.0|1.28.1|desktop-mate||
-|mate-panel|1.28.1|1.28.2|desktop-mate||
-|materialx|1.38.8|1.38.10|runtime-creativity||
-|mathemagics-trinity|14.1.0|14.1.2|desktop-trinity||
-|mathjax|2.7.5|3.2.2|lang-js||
-|matplotlib|3.8.0|3.9.1|lang-python||
-|maturin|1.4.0|1.6.0|lang-python||
-|mawk|1.3.4<br>+20190203|1.3.4-20240622|app-utils|Compound version number '1.3.4+20190203'|
-|maxima|5.46.0|5.47.0|app-scientific||
-|mbedtls|2.16.7|3.6.0|runtime-cryptography||
-|mbedtls+32|2.16.7|3.6.0|runtime-optenv32||
-|mbox-importer|23.08.5|24.05.2|desktop-kde||
-|mbpfan|2.2.1|2.4.0|app-admin||
-|mccabe|0.6.1|0.7.0|lang-python||
-|mcomix|1.2.1|3.1.0|app-utils||
-|mdadm|4.2|4.3|app-admin||
-|mdbook|0.4.14|0.4.40|app-doc||
-|mdds|2.0.2|2.1.1|runtime-productivity||
-|mechanize|0.4.5|0.4.10|lang-python||
-|mediainfo|22.06|24.06|app-multimedia||
-|meld|3.21.3|3.22.2|desktop-gnome||
-|melonds|0.9.2|0.9.5|app-games||
-|memcached|1.6.27|1.6.29|app-admin||
-|menumaker|0.99.12|0.99.14|app-utils||
-|mercurial|6.7.3|6.7.4|app-vcs||
-|merkuro|23.08.5|24.05.2|desktop-kde||
+|mangohud|0.7.0|0.7.2|app-utils|Compliance mode enabled, was '0.7.2'|
+|mangohud+32|0.7.0|0.7.2|runtime-optenv32|Compliance mode enabled, was '0.7.2'|
+|marble|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|mariadb|10.9.8|11.5.1|app-database|Compliance mode enabled, was '11.5.1'|
+|markdown|3.3.4|3.6|lang-python|Compliance mode enabled, was '3.6'|
+|markdownpart|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|markupsafe|2.1.1|2.1.5|lang-python|Compliance mode enabled, was '2.1.5'|
+|marshmallow|3.20.2|3.21.3|lang-python|Compliance mode enabled, was '3.21.3'|
+|mat2|0.13.0|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'<br>Possible downgrade from the current version (0.13.0 -> 0.6.1)|
+|mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
+|mate-panel|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
+|materialx|1.38.8|1.38.10|runtime-creativity|Compliance mode enabled, was '1.38.10'|
+|mathemagics-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
+|matplotlib|3.8.0|3.9.1|lang-python|Compliance mode enabled, was '3.9.1'|
+|maturin|1.4.0|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
+|mawk|1.3.4<br>+20190203|1.3.4+20240622|app-utils|Compliance mode enabled, was '1.3.4-20240622'|
+|maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
+|mbedtls|2.16.7|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
+|mbedtls+32|2.16.7|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
+|mbox-importer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|mbpfan|2.2.1|2.4.0|app-admin|Compliance mode enabled, was '2.4.0'|
+|mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
+|mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
+|mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
+|mdds|2.0.2|2.1.1|runtime-productivity|Compliance mode enabled, was '2.1.1'|
+|mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
+|mediainfo|22.06|24.06|app-multimedia|Compliance mode enabled, was '24.06'|
+|meld|3.21.3|3.22.2|desktop-gnome|Compliance mode enabled, was '3.22.2'|
+|melonds|0.9.2|0.9.5|app-games|Compliance mode enabled, was '0.9.5'|
+|memcached|1.6.27|1.6.29|app-admin|Compliance mode enabled, was '1.6.29'|
+|menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
+|mercurial|6.7.3|6.7.4|app-vcs|Compliance mode enabled, was '6.7.4'|
+|merkuro|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |mesa|24.0.7|24.1.3|runtime-display||
-|mesa+32|22.1.7|24.1.3|runtime-optenv32||
-|mesa-amber|21.3.9|24.1.3|runtime-display||
-|meson|1.4.0|1.4.1|app-devel||
-|messagelib|23.08.5|24.05.2|desktop-kde||
-|metacity|3.44.0|3.52.0|desktop-gnome||
-|metee|4.0.0|4.1.0|runtime-devices||
-|mgba|0.9.2|0.10.3|app-games||
-|microsoft-gsl|3.0.1|4.0.0|runtime-common||
-|mihomo|1.18.5|1.18.6|app-network||
-|milkytracker|1.02.00|1.04.00|app-multimedia||
-|milou|5.27.11|6.1.2|desktop-kde||
-|mimalloc|2.1.2|2.1.7|runtime-common||
-|mime-types|9|99|runtime-data||
+|mesa+32|22.1.7|24.1.3|runtime-optenv32|Compliance mode enabled, was '24.1.3'|
+|mesa-amber|21.3.9|24.1.3|runtime-display|Compliance mode enabled, was '24.1.3'|
+|meson|1.4.0|1.4.1|app-devel|Compliance mode enabled, was '1.4.1'|
+|messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|metee|4.0.0|4.1.0|runtime-devices|Compliance mode enabled, was '4.1.0'|
+|mgba|0.9.2|0.10.3|app-games|Compliance mode enabled, was '0.10.3'|
+|microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
+|mihomo|1.18.5|1.18.6|app-network|Compliance mode enabled, was '1.18.6'|
+|milkytracker|1.02.00|1.04.00|app-multimedia|Compliance mode enabled, was '1.04.00'|
+|milou|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
+|mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.8.0|app-games||
-|mingw+w64|8.0.2|12.0.0|runtime-optenvw64||
-|mini-portile|2.8.6|2.8.7|lang-ruby||
-|minicom|2.8|2.9|app-utils||
-|miniserve|0.26.0|0.27.1|app-web||
-|miniupnpc|2.1|2.2.8|app-network||
-|miniupnpd|2.3.5|2.3.7|app-network||
-|minizip|1.2.11|1.3.1|runtime-common||
-|minuet|23.08.5|24.05.2|desktop-kde||
-|mitmproxy|7.0.4|10.3.1|app-network||
-|mjpegtools|2.1.0|2.2.1|app-multimedia||
-|mjpegtools+32|2.1.0|2.2.1|runtime-optenv32||
-|mkvtoolnix|84.0|85.0|app-multimedia||
-|mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|app-web|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
-|mlt|7.22.0|7.24.0|runtime-multimedia||
-|mlterm|3.8.9|3.9.3|app-utils||
-|mock|2.0.0|5.1.0|lang-python||
-|modemmanager|1.18.12|1.22.0|app-network||
-|modemmanager-qt|5.115.0|6.1.2|desktop-kde||
-|mokutil|0.6.0|0.7.2|app-admin||
-|mold|2.32.0|2.32.1|app-devel||
-|monotonic|1.5|1.6|lang-python||
-|moodbar|1.2.1|1.3.0|app-multimedia||
-|more-itertools|4.3.0|10.3.0|lang-python||
-|most|5.0.0a|5.2.0|app-utils||
-|mouseemu|0.16|0.16.orig|app-utils|Possible downgrade from the current version (0.16 -> 0.16.orig)|
-|movit|1.6.3|1.7.1|runtime-multimedia||
-|mp3gain|1.6.2|1_6_2|app-multimedia||
-|mp4v2|4.1.3|2.1.3|app-multimedia|Possible downgrade from the current version (4.1.3 -> 2.1.3)|
-|mp4v2+32|2.0.0|2.1.3|runtime-optenv32||
-|mpg123|1.25.13|1.32.6|app-multimedia||
-|mpg123+32|1.25.13|1.32.6|runtime-optenv32||
-|mplayer|1.4|1.5|app-multimedia||
-|mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity||
-|mpmath|1.1.0|1.4.0a1|lang-python||
-|ms-sys|2.6.0|2.8.0|app-utils||
-|msgpack-c|6.0.0|6.0.2|runtime-common||
-|msgpack-c++|6.1.0|6.1.1|runtime-common||
-|msitools|0.101|0.103|app-devel||
-|msr-tools|20170320|1.3|app-utils|Possible downgrade from the current version (20170320 -> 1.3)|
-|mstflint|4.28.0<br>+1|4.28.0-1|app-admin|Compound version number '4.28.0+1'|
-|mtd-utils|2.1.5|2.2.0|app-admin||
-|mtdev|1.1.6|1.1.7|runtime-devices||
-|muffin|5.8.0|6.2.0|desktop-cinnamon||
-|mugshot|0.4.1|0.4.3|app-utils||
-|multipath-tools|0.9.3|0.9.9|app-admin||
-|munkres|1.0.12|release-1.1.4|lang-python||
-|muparser|2.2.6.1|2.3.4|runtime-common||
-|mupdf|1.24.3|1.24.5|app-doc||
-|musescore|4.3.0|4.3.2|app-creativity||
-|mutter|42.4|46.3.1|desktop-gnome||
-|mxml|3.2|4.0.3|runtime-common||
-|mycli|1.23.2|1.27.2|app-database||
-|mygpoclient|1.8|1.9|lang-python||
-|n2n|2.8|3.1.1|app-network||
-|nanomsg|1.1.5|1.2.1|app-network||
-|nas|1.9.4|1.9.5|app-multimedia||
-|nasm|2.16.01|2.16.03|app-devel||
-|nasm+32|2.12.01|2.16.03|runtime-optenv32||
-|nautilus|42.2|46.2|desktop-gnome||
-|nautilus-python|1.2.3|4.0.1|desktop-gnome||
-|nbd|3.24|3.26.1|app-network||
-|nbxmpp|3.1.0|5.0.1|lang-python||
-|ncbi-blast+|2.13.0|2.15.0+|app-scientific||
-|ncbi-vdb|3.0.2|3.1.1|app-scientific||
-|ncdu|1.16|2.4|app-utils||
-|ncompress|4.2.4.6|5.0|app-utils||
-|ncurses|6.4|6.5-20240629|runtime-common||
-|ncurses+32|6.4|6.5-20240629|runtime-optenv32||
-|ndctl|72|79|app-admin||
-|neatvnc|0.7.1|0.8.0|runtime-network||
-|nemo|5.8.3|6.2.2|desktop-cinnamon||
-|nemo-extensions|5.8.0|6.2.0|desktop-cinnamon||
-|neochat|23.08.5|24.05.2|desktop-kde||
-|neomutt|20200619|20240425|app-web||
-|neon+32|0.31.2|0.33.0|runtime-optenv32||
-|nestopia|1.51.0|1.52.1|app-games||
-|net-snmp|5.7.3|5.9.4|app-network||
-|netaddr|0.7.19|1.3.0|lang-python||
-|netcat|1.219|1.226|app-network||
-|netcdf|4.7.4|4.9.2|runtime-scientific||
-|netctl|1.23|1.25|app-network||
-|nethack|3.6.6|3.6.7_Released|app-games||
-|netifaces|0.10.9|0.11.0|lang-python||
-|netpbm|10.73.34|11.07.00|app-utils||
-|netsurf-buildsystem|1.9|1.10|app-devel||
-|nettle|3.7.2|3.10|runtime-cryptography||
-|nettle+32|3.7.2|3.10|runtime-optenv32||
-|networkmanager|1.40.6|1.48.2|app-network||
-|networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-l2tp|1.8.6|1.20.16|app-network||
-|networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.12.0|app-network||
-|networkmanager-pptp|1.2.10|1.2.12|app-network||
-|networkmanager-qt|5.115.0|6.1.2|desktop-kde||
-|networkmanager-strongswan|1.5.2|1.6.0|app-network||
-|networkmanager-vpnc|1.2.6|1.2.8|app-network||
-|networkx|2.8.5|3.3|lang-python||
-|newflasher|52|57|app-devices||
-|newt|0.52.23|0.52.24|runtime-common||
-|nfs-utils|2.6.2|2.6.4|app-utils||
-|nghttp2|1.58.0|1.62.1|runtime-web||
-|nghttp3|1.3.0|1.4.0|runtime-web||
-|ngspice|35|42|app-electronics||
-|ngtcp2|1.5.0|1.6.0|runtime-web||
-|nmap|7.93|7.95|app-network||
-|noip|2.1.9|3.0.0|app-network||
-|noise-suppression-for-voice|0.91|1.10|app-multimedia||
-|nomino|1.3.1|1.3.5|app-utils||
-|normaliz|3.6.3|3.10.3|app-scientific||
-|notmuch|0.34|0.38.3|app-web||
+|mingw+w64|8.0.2|12.0.0|runtime-optenvw64|Compliance mode enabled, was '12.0.0'|
+|mini-portile|2.8.6|2.8.7|lang-ruby|Compliance mode enabled, was '2.8.7'|
+|minicom|2.8|2.9|app-utils|Compliance mode enabled, was '2.9'|
+|miniserve|0.26.0|0.27.1|app-web|Compliance mode enabled, was '0.27.1'|
+|miniupnpc|2.1|2.2.8|app-network|Compliance mode enabled, was '2.2.8'|
+|miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
+|minizip|1.2.11|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
+|minuet|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|mitmproxy|7.0.4|10.3.1|app-network|Compliance mode enabled, was '10.3.1'|
+|mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
+|mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
+|mkvtoolnix|84.0|85.0|app-multimedia|Compliance mode enabled, was '85.0'|
+|mldonkey|3.1.7<br>+2<br>+git20210505|3.1.7.2|app-web|Compliance mode enabled, was '3-1-7-2'|
+|mlt|7.22.0|7.24.0|runtime-multimedia|Compliance mode enabled, was '7.24.0'|
+|mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
+|mock|2.0.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
+|modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
+|modemmanager-qt|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|mokutil|0.6.0|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
+|mold|2.32.0|2.32.1|app-devel|Compliance mode enabled, was '2.32.1'|
+|monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
+|moodbar|1.2.1|1.3.0|app-multimedia|Compliance mode enabled, was '1.3.0'|
+|more-itertools|4.3.0|10.3.0|lang-python|Compliance mode enabled, was '10.3.0'|
+|most|5.0.0a|5.2.0|app-utils|Compliance mode enabled, was '5.2.0'|
+|mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
+|movit|1.6.3|1.7.1|runtime-multimedia|Compliance mode enabled, was '1.7.1'|
+|mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
+|mpg123|1.25.13|1.32.6|app-multimedia|Compliance mode enabled, was '1.32.6'|
+|mpg123+32|1.25.13|1.32.6|runtime-optenv32|Compliance mode enabled, was '1.32.6'|
+|mplayer|1.4|1.5|app-multimedia|Compliance mode enabled, was '1.5'|
+|mplayerthumbs-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|mpmath|1.1.0|1.4.0~a1|lang-python|Compliance mode enabled, was '1.4.0a1'|
+|ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
+|msgpack-c|6.0.0|6.0.2|runtime-common|Compliance mode enabled, was '6.0.2'|
+|msgpack-c++|6.1.0|6.1.1|runtime-common|Compliance mode enabled, was '6.1.1'|
+|msitools|0.101|0.103|app-devel|Compliance mode enabled, was '0.103'|
+|msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
+|mtd-utils|2.1.5|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
+|mtdev|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
+|muffin|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|mugshot|0.4.1|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
+|multipath-tools|0.9.3|0.9.9|app-admin|Compliance mode enabled, was '0.9.9'|
+|munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
+|muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
+|mupdf|1.24.3|1.24.5|app-doc|Compliance mode enabled, was '1.24.5'|
+|musescore|4.3.0|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
+|mutter|42.4|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
+|mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
+|mycli|1.23.2|1.27.2|app-database|Compliance mode enabled, was '1.27.2'|
+|mygpoclient|1.8|1.9|lang-python|Compliance mode enabled, was '1.9'|
+|n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
+|nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
+|nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
+|nasm|2.16.01|2.16.03|app-devel|Compliance mode enabled, was '2.16.03'|
+|nasm+32|2.12.01|2.16.03|runtime-optenv32|Compliance mode enabled, was '2.16.03'|
+|nautilus|42.2|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
+|nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
+|nbxmpp|3.1.0|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
+|ncbi-blast+|2.13.0|2.15.0+|app-scientific|Compliance mode enabled, was '2.15.0+'|
+|ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
+|ncdu|1.16|2.4|app-utils|Compliance mode enabled, was '2.4'|
+|ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
+|ncurses|6.4|6.5+20240629|runtime-common|Compliance mode enabled, was '6.5-20240629'|
+|ncurses+32|6.4|6.5+20240629|runtime-optenv32|Compliance mode enabled, was '6.5-20240629'|
+|ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
+|neatvnc|0.7.1|0.8.0|runtime-network|Compliance mode enabled, was '0.8.0'|
+|nemo|5.8.3|6.2.2|desktop-cinnamon|Compliance mode enabled, was '6.2.2'|
+|nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|neochat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|neomutt|20200619|20240425|app-web|Compliance mode enabled, was '20240425'|
+|neon+32|0.31.2|0.33.0|runtime-optenv32|Compliance mode enabled, was '0.33.0'|
+|nestopia|1.51.0|1.52.1|app-games|Compliance mode enabled, was '1.52.1'|
+|net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
+|netaddr|0.7.19|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
+|netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
+|netcdf|4.7.4|4.9.2|runtime-scientific|Compliance mode enabled, was '4.9.2'|
+|netctl|1.23|1.25|app-network|Compliance mode enabled, was '1.25'|
+|nethack|3.6.6|3.6.7_released|app-games|Compliance mode enabled, was '3.6.7_Released'|
+|netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
+|netpbm|10.73.34|11.07.00|app-utils|Compliance mode enabled, was '11.07.00'|
+|netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
+|nettle|3.7.2|3.10|runtime-cryptography|Compliance mode enabled, was '3.10'|
+|nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
+|networkmanager|1.40.6|1.48.2|app-network|Compliance mode enabled, was '1.48.2'|
+|networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
+|networkmanager-l2tp|1.8.6|1.20.16|app-network|Compliance mode enabled, was '1.20.16'|
+|networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
+|networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
+|networkmanager-pptp|1.2.10|1.2.12|app-network|Compliance mode enabled, was '1.2.12'|
+|networkmanager-qt|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|networkmanager-strongswan|1.5.2|1.6.0|app-network|Compliance mode enabled, was '1.6.0'|
+|networkmanager-vpnc|1.2.6|1.2.8|app-network|Compliance mode enabled, was '1.2.8'|
+|networkx|2.8.5|3.3|lang-python|Compliance mode enabled, was '3.3'|
+|newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
+|newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
+|nfs-utils|2.6.2|2.6.4|app-utils|Compliance mode enabled, was '2.6.4'|
+|nghttp2|1.58.0|1.62.1|runtime-web|Compliance mode enabled, was '1.62.1'|
+|nghttp3|1.3.0|1.4.0|runtime-web|Compliance mode enabled, was '1.4.0'|
+|ngspice|35|42|app-electronics|Compliance mode enabled, was '42'|
+|ngtcp2|1.5.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
+|nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
+|noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
+|noise-suppression-for-voice|0.91|1.10|app-multimedia|Compliance mode enabled, was '1.10'|
+|nomino|1.3.1|1.3.5|app-utils|Compliance mode enabled, was '1.3.5'|
+|normaliz|3.6.3|3.10.3|app-scientific|Compliance mode enabled, was '3.10.3'|
+|notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
 |noto-fonts|24.1.1|24.7.1|desktop-fonts||
-|npth|1.6|1.7|runtime-common||
-|nsd|4.7.0|4_10_0_REL|app-network||
-|nsgenbind|0.8|0.9|app-devel||
-|nspr+32|4.24|4.35|runtime-optenv32||
-|nss|3.100|3.102|runtime-cryptography||
-|nss+32|3.78|3.102|runtime-optenv32||
-|nss-mdns|0.14.1|0.15.1|runtime-network||
-|nufraw|0.43<br>+3|0.42|runtime-imaging|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
-|nuget|4.9.4|6.6.1.2.bin|lang-dotnet||
-|numactl|2.0.14|2.0.18|app-admin||
-|numix-icon-theme|20190917|24.04.22|desktop-themes|Possible downgrade from the current version (20190917 -> 24.04.22)|
-|numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Possible downgrade from the current version (20160927 -> 24.04.22)|
-|numpy|1.26.4|2.0.0|lang-python||
-|nut|2.7.4|2.8.2|app-admin||
-|nvchecker|1.5|2.15.1|app-utils||
-|nvidia|550.54.14|555.58.02|runtime-display||
-|nvidia+32|0|555.58.02|runtime-optenv32||
-|ocaml|4.14.2|5.2.0|lang-ocaml||
-|ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml||
-|ocaml-csexp|1.5.1|1.5.2|lang-ocaml||
-|ocaml-graphics|5.1.0|5.1.2|lang-ocaml||
-|ocaml-num|1.3|1.5|lang-ocaml||
-|ocaml-pp|1.1.2|1.2.0|lang-ocaml||
-|ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml||
-|ocamlbuild|0.14.1|0.15.0|lang-ocaml||
-|ocrad|0.27|0.29|app-doc||
-|ocrmypdf|11.7.0|16.4.1|app-doc||
-|ocserv|1.1.2|1.3.0|app-network||
-|octave|9.1.0|9.2.0|app-scientific||
-|ofono|1.30|2.8|app-network||
-|okteta|0.26.9|0.26.15|desktop-kde||
-|okular|23.08.5|24.05.2|desktop-kde||
-|olefile|0.46|0.47|lang-python||
-|oma|1.3.21|1.12.13|app-admin||
-|onefetch|2.20.0|2.21.0|app-utils||
-|onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7617-240614-f930b3a|app-games||
-|opam|2.1.6|2.2.0|lang-ocaml||
-|open-iscsi|2.1.9|2.1.10|app-admin||
-|open-isns|0.101|0.102|app-admin||
-|open-rs|5.1.3|5.2.0|app-utils||
-|open-vm-tools|12.3.5|12.4.5|app-virtualization||
-|openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
-|opencascade|7.6.3|7.8.0|runtime-imaging||
-|opencl-clang|17.0.0|18.1.0|runtime-common||
-|opencolorio|2.1.2|2.3.2|runtime-imaging||
-|openconnect|8.10|9.12|app-network||
-|opencore-amr|0.1.5|0.1.6|runtime-multimedia||
-|opencore-amr+32|0.1.5|0.1.6|runtime-optenv32||
-|opencryptoki|3.21.0|3.23.0|runtime-cryptography||
-|opencsg|1.5.1|1.6.0|runtime-imaging||
-|opencv|4.9.0|4.10.0|runtime-scientific||
-|openexr|3.1.8|3.2.126|runtime-imaging||
-|openfortivpn|1.18.0|1.22.1|app-network||
-|openimagedenoise|1.4.3|2.3.0|runtime-imaging||
-|openimageio|2.4.17.0|2.5.13.0|runtime-imaging||
-|openixcard|1.0.1|1.1.8|app-devel||
-|openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compound version number '11.0.20.1+ga'|
-|openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compound version number '8u382+ga'|
-|openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compound version number '11.0.20+1'|
-|openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compound version number '8u202+ga'|
-|openjpeg-legacy|1.5.2|2.5.2|runtime-imaging||
-|openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32||
-|openldap|2.6.7|2_6_8|app-admin||
-|openldap+32|2.4.59|2_6_8|runtime-optenv32||
-|openmpi|4.1.6|5.0.3|app-scientific||
-|openmpt|0.6.4|0.7.8|app-multimedia||
-|openpgl|0.5.0|0.6.0|runtime-creativity||
-|openpyxl|2.6.0|3.1.5|lang-python||
-|openra|20210321|20231010|app-games||
-|openrazer|3.3.0|3.8.0|app-devices||
-|opensc|0.22.0|0.25.1|app-devices||
-|openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
-|openslide|3.4.1|4.0.0|runtime-imaging||
-|openssl+32|3.2.0|3.3.1|runtime-optenv32||
-|openssl-1.1|1.1.1w|3.3.1|runtime-cryptography||
-|openssl-1.1+32|1.1.1q|3.3.1|runtime-optenv32||
-|opensubdiv|3.6.0|3_6_0|runtime-creativity||
-|openswan|2.6.51.5|3.0.0|app-network||
-|opentimelineio|0.15|0.17.0|runtime-multimedia||
+|npth|1.6|1.7|runtime-common|Compliance mode enabled, was '1.7'|
+|nsd|4.7.0|4.10.0.rel|app-network|Compliance mode enabled, was '4_10_0_REL'|
+|nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
+|nspr+32|4.24|4.35|runtime-optenv32|Compliance mode enabled, was '4.35'|
+|nss|3.100|3.102|runtime-cryptography|Compliance mode enabled, was '3.102'|
+|nss+32|3.78|3.102|runtime-optenv32|Compliance mode enabled, was '3.102'|
+|nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
+|nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
+|nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
+|numactl|2.0.14|2.0.18|app-admin|Compliance mode enabled, was '2.0.18'|
+|numix-icon-theme|20190917|24.04.22|desktop-themes|Compliance mode enabled, was '24.04.22'<br>Possible downgrade from the current version (20190917 -> 24.04.22)|
+|numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Compliance mode enabled, was '24.04.22'<br>Possible downgrade from the current version (20160927 -> 24.04.22)|
+|numpy|1.26.4|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
+|nvchecker|1.5|2.15.1|app-utils|Compliance mode enabled, was '2.15.1'|
+|nvidia|550.54.14|555.58.02|runtime-display|Compliance mode enabled, was '555.58.02'|
+|nvidia+32|0|555.58.02|runtime-optenv32|Compliance mode enabled, was '555.58.02'|
+|ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
+|ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
+|ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
+|ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
+|ocaml-num|1.3|1.5|lang-ocaml|Compliance mode enabled, was '1.5'|
+|ocaml-pp|1.1.2|1.2.0|lang-ocaml|Compliance mode enabled, was '1.2.0'|
+|ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
+|ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
+|ocrad|0.27|0.29|app-doc|Compliance mode enabled, was '0.29'|
+|ocrmypdf|11.7.0|16.4.1|app-doc|Compliance mode enabled, was '16.4.1'|
+|ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
+|octave|9.1.0|9.2.0|app-scientific|Compliance mode enabled, was '9.2.0'|
+|ofono|1.30|2.8|app-network|Compliance mode enabled, was '2.8'|
+|okteta|0.26.9|0.26.15|desktop-kde|Compliance mode enabled, was '0.26.15'|
+|okular|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
+|oma|1.3.21|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|onefetch|2.20.0|2.21.0|app-utils|Compliance mode enabled, was '2.21.0'|
+|onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
+|oolite|1.90|1.91.0.7617-240614-f930b3a|app-games|Compliance mode enabled, was '1.91.0.7617-240614-f930b3a'|
+|opam|2.1.6|2.2.0|lang-ocaml|Compliance mode enabled, was '2.2.0'|
+|open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
+|open-isns|0.101|0.102|app-admin|Compliance mode enabled, was '0.102'|
+|open-rs|5.1.3|5.2.0|app-utils|Compliance mode enabled, was '5.2.0'|
+|open-vm-tools|12.3.5|12.4.5|app-virtualization|Compliance mode enabled, was '12.4.5'|
+|openblas|0.3.21<br>+git20221105|0.3.27|app-scientific|Compliance mode enabled, was '0.3.27'|
+|opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
+|opencl-clang|17.0.0|18.1.0|runtime-common|Compliance mode enabled, was '18.1.0'|
+|opencolorio|2.1.2|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
+|openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
+|opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
+|opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
+|opencryptoki|3.21.0|3.23.0|runtime-cryptography|Compliance mode enabled, was '3.23.0'|
+|opencsg|1.5.1|1.6.0|runtime-imaging|Compliance mode enabled, was '1.6.0'|
+|opencv|4.9.0|4.10.0|runtime-scientific|Compliance mode enabled, was '4.10.0'|
+|openexr|3.1.8|3.2.126|runtime-imaging|Compliance mode enabled, was '3.2.126'|
+|openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
+|openimagedenoise|1.4.3|2.3.0|runtime-imaging|Compliance mode enabled, was '2.3.0'|
+|openimageio|2.4.17.0|2.5.13.0|runtime-imaging|Compliance mode enabled, was '2.5.13.0'|
+|openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
+|openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compliance mode enabled, was '11.0.23+9'|
+|openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compliance mode enabled, was '8u412-b08'|
+|openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compliance mode enabled, was '11.0.23+9'|
+|openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compliance mode enabled, was '8u202-ga'|
+|openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
+|openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
+|openldap|2.6.7|2.6.8|app-admin|Compliance mode enabled, was '2_6_8'|
+|openldap+32|2.4.59|2.6.8|runtime-optenv32|Compliance mode enabled, was '2_6_8'|
+|openmpi|4.1.6|5.0.3|app-scientific|Compliance mode enabled, was '5.0.3'|
+|openmpt|0.6.4|0.7.8|app-multimedia|Compliance mode enabled, was '0.7.8'|
+|openpgl|0.5.0|0.6.0|runtime-creativity|Compliance mode enabled, was '0.6.0'|
+|openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
+|openra|20210321|20231010|app-games|Compliance mode enabled, was '20231010'|
+|openrazer|3.3.0|3.8.0|app-devices|Compliance mode enabled, was '3.8.0'|
+|opensc|0.22.0|0.25.1|app-devices|Compliance mode enabled, was '0.25.1'|
+|openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
+|openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
+|openssl+32|3.2.0|3.3.1|runtime-optenv32|Compliance mode enabled, was '3.3.1'|
+|openssl-1.1|1.1.1w|3.3.1|runtime-cryptography|Compliance mode enabled, was '3.3.1'|
+|openssl-1.1+32|1.1.1q|3.3.1|runtime-optenv32|Compliance mode enabled, was '3.3.1'|
+|openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
+|opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openttd|12.2|14.1|app-games||
-|openvpn|2.5.4|2.6.11|app-network||
-|openvswitch|3.0.3|3.3.1|app-network||
-|optipng|0.7.7|0.7.8|app-utils||
-|opus|1.3.1|1.5.2|runtime-multimedia||
-|opus+32|1.3.1|1.5.2|runtime-optenv32||
-|opusfile|0.11|0.12|runtime-multimedia||
-|orc|0.4.32|0.4.38|app-devel||
-|orc+32|0.4.32|0.4.38|runtime-optenv32||
-|orca|42.3|46.2|desktop-gnome||
-|os-prober|1.81|1.82|app-utils||
-|osinfo-db|20240523|20240701|app-admin||
-|osinfo-db-tools|1.10.0|1.11.0|app-admin||
-|osu-lazer|2024.523.0|2024.625.3|app-games||
-|oxygen|5.27.11|6.1.2|desktop-kde||
-|oxygen-icons|5.115.0|6.1.2|desktop-kde||
-|oxygen-sounds|5.25.3|6.1.2|desktop-kde||
-|p11-kit|0.25.3|0.25.4|runtime-cryptography||
-|p11-kit+32|0.23.18.1|0.25.4|runtime-optenv32||
-|packagekit|1.2.8|1.3.0|app-admin||
-|packagekit-qt|1.1.1|1.1.2|desktop-kde||
-|packaging|23.0|24.1|lang-python||
-|pacman|6.0.1|6.1.0|app-admin||
-|pahole|1.25|1.27|app-utils||
-|palapeli|23.08.5|24.05.2|desktop-kde||
-|pam-python|1.0.7|1.0.8|lang-python||
-|pam-wrapper|1.1.3|1.1.5|app-devel||
-|pamixer|1.4|1.6|app-multimedia||
-|pandas|2.1.2|2.2.2|lang-python||
-|pandoc|3.1.13|3.2.1|app-doc||
-|pango|1.52.2|1.54.0|runtime-desktop||
-|pango+32|1.44.7|1.54.0|runtime-optenv32||
-|pangomm|2.46.3|2.52.0|runtime-desktop||
-|pangomm-2.48|2.50.1|2.52.0|runtime-desktop||
-|paper-icon-theme|20180816|.1.5.0|desktop-themes|Possible downgrade from the current version (20180816 -> .1.5.0)|
-|paprefs|1.1|1.2|app-multimedia||
-|paq8o|9|10t|app-utils||
-|parallel|20191122|20240622|app-utils||
-|paramiko|2.10.3|3.4.0|lang-python||
-|pari|2.13.1|2.15.5|app-scientific||
-|parley|23.08.5|24.05.2|desktop-kde||
-|parsedatetime|2.4|2.6|lang-python||
-|parso|0.3.3|0.8.4|lang-python||
-|partclone|0.3.20|0.3.31|app-admin||
-|partimage|0.6.9|0.7.2|app-admin||
-|partitionmanager|23.08.5|24.05.2|desktop-kde||
-|pastel|0.2.0|0.2.1|lang-python||
-|pathlib2|2.3.5|2.3.7.post1|lang-python||
-|pathspec|0.11.0|0.12.1|lang-python||
-|patool|1.12|upstream/2.3.0|app-utils|Possible downgrade from the current version (1.12 -> upstream/2.3.0)|
-|pbr|5.6.0|6.0.0|lang-python||
-|pciutils|3.9.0|3.13.0|app-utils||
-|pcl|1.13.1|1.12|runtime-imaging|Possible downgrade from the current version (1.13.1 -> 1.12)|
-|pcp|6.0.1|6.2.2|app-utils||
-|pcre|8.44|8.45|runtime-common||
-|pcre+32|8.44|8.45|runtime-optenv32||
-|pcre-static|8.44|8.45|runtime-common||
-|pcre2|10.43|10.44|runtime-common||
-|pcsc-perl|1.4.14|1.4.16|lang-perl||
-|pcsclite|1.9.9|2.2.3|app-devices||
-|pcsx2|1.6.0<br>+git20210825|1.7.5955|app-games|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
-|pdfgrep|2.1.2|2.2.0|app-doc||
-|pdfminer|20191020|20231228|app-doc||
-|pdlzip|1.9|1.13|app-utils||
-|peewee|3.17.1|3.17.5|lang-python||
-|peg|0.1.18|0.1.20|app-devel||
-|pep517|0.12.0|0.13.1|lang-python||
-|perl|5.36.3|5.41.1|lang-perl||
-|perl+32|999|5.41.1|runtime-optenv32|Possible downgrade from the current version (999 -> 5.41.1)|
-|perl-alien-build|1.92|2.83|lang-perl||
-|perl-alien-libxml2|0.11|0.19|lang-perl||
-|perl-anyevent|7.14|7.17|lang-perl||
-|perl-anyevent-i3|0.17|0.19|lang-perl||
-|perl-app-cpanminus|1.7044|1.7047|lang-perl||
-|perl-archive-zip|1.64|1.68|lang-perl||
-|perl-authen-sasl|2.1401|2.1700|lang-perl||
-|perl-b-hooks-endofscope|0.24|0.28|lang-perl||
-|perl-cairo|1.106|1.109|lang-perl||
-|perl-canary-stability|2012|2013|lang-perl||
-|perl-cgi|4.47|4.66|lang-perl||
-|perl-class-data-inheritable|0.08|0.09|lang-perl||
-|perl-class-inspector|1.28|1.36|lang-perl||
-|perl-class-method-modifiers|2.12|2.15|lang-perl||
-|perl-class-singleton|1.5|1.6|lang-perl||
-|perl-common-sense|3.74|3.75|lang-perl||
-|perl-config-file|1.50|1.54|lang-perl||
-|perl-convert-asn1|0.27|0.34|lang-perl||
-|perl-crypt-openssl-guess|0.11|0.15|lang-perl||
-|perl-crypt-openssl-random|0.15|0.17|lang-perl||
-|perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
-|perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compound version number '2.167+02'|
-|perl-data-optlist|0.110|0.114|lang-perl||
-|perl-date-manip|6.82|6.95|lang-perl||
-|perl-datetime|1.52|1.65|lang-perl||
-|perl-datetime-format-strptime|1.77|1.79|lang-perl||
-|perl-datetime-locale|1.26|1.42|lang-perl||
-|perl-dbd-mysql|4.052|5.007|lang-perl||
-|perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compound version number '1.63+03'|
-|perl-dbi|1.642|1.643|lang-perl||
-|perl-devel-checklib|1.13|1.16|lang-perl||
-|perl-devel-stacktrace|2.04|2.05|lang-perl||
-|perl-devel-symdump|2.0604|2.18|lang-perl|Possible downgrade from the current version (2.0604 -> 2.18)|
-|perl-digest-hmac|1.03|1.04|lang-perl||
-|perl-email-abstract|3.008|3.010|lang-perl||
-|perl-email-address|1.912|1.913|lang-perl||
-|perl-email-date-format|1.005|1.008|lang-perl||
-|perl-email-mime|1.946|1.954|lang-perl||
-|perl-email-mime-contenttype|1.022|1.028|lang-perl||
-|perl-email-simple|2.216|2.218|lang-perl||
-|perl-error|0.17027|0.17029|lang-perl||
-|perl-ev|4.25|4.34|lang-perl||
-|perl-exception-class|1.44|1.45|lang-perl||
-|perl-extutils-config|0.008|0.009|lang-perl||
-|perl-extutils-depends|0.405|0.8001|lang-perl||
-|perl-extutils-helpers|0.026|0.027|lang-perl||
-|perl-extutils-installpaths|0.012|0.013|lang-perl||
-|perl-fcgi|0.78|0.82|lang-perl||
-|perl-file-basedir|0.08|0.09|lang-perl||
-|perl-file-copy-recursive|0.44|0.45|lang-perl||
-|perl-file-listing|6.04|6.16|lang-perl||
-|perl-file-mimeinfo|0.28<br>+03|0.35|lang-perl|Compound version number '0.28+03'|
-|perl-file-next|1.16|1.18|lang-perl||
-|perl-file-sharedir-install|0.13|0.14|lang-perl||
-|perl-file-which|1.23|1.27|lang-perl||
-|perl-finance-quote|1.49|1.5301|lang-perl||
-|perl-font-ttf|1.05|1.06|lang-perl||
-|perl-gd|2.71|2.83|lang-perl||
-|perl-glib|1.329|1.3294|lang-perl||
-|perl-glib-object-introspection|0.047|0.051|lang-perl||
-|perl-gnome2|1.047|1.048|lang-perl||
-|perl-gnome2-canvas|1.002|1.006|lang-perl||
-|perl-gnome2-vfs|1.083|1.084|lang-perl||
-|perl-gnome2-wnck|0.16|0.18|lang-perl||
-|perl-gtk2|1.2499|1.24993|lang-perl||
-|perl-gtk2-unique|0.05|0.07|lang-perl||
-|perl-html-form|6.03|6.11|lang-perl||
-|perl-html-parser|3.72|3.82|lang-perl||
-|perl-html-tagset|3.20|3.24|lang-perl||
-|perl-http-cookies|6.01|6.11|lang-perl||
-|perl-http-daemon|6.01|6.16|lang-perl||
-|perl-http-date|6.02|6.06|lang-perl||
-|perl-http-message|6.11|6.46|lang-perl||
-|perl-image-exiftool|12.50|12.87|lang-perl||
-|perl-io-socket-inet6|2.72|2.73|lang-perl||
-|perl-io-socket-ssl|2.062|2.086|lang-perl||
-|perl-io-tee|0.65|0.66|lang-perl||
-|perl-io-tty|1.13<br>+01|1.20|lang-perl|Compound version number '1.13+01'|
-|perl-ipc-run|20180523.0|20231003.0|lang-perl||
-|perl-ipc-system-simple|1.25|1.30|lang-perl||
-|perl-javascript-minifier-xs|0.11|0.15|lang-perl||
-|perl-json|2.90|4.10|lang-perl||
-|perl-json-parse|0.57|0.43|lang-perl|Possible downgrade from the current version (0.57 -> 0.43)|
-|perl-json-xs|4.0<br>+00|4.03|lang-perl|Compound version number '4.0+00'|
-|perl-list-moreutils|0.428|0.430|lang-perl||
-|perl-lwp-mediatypes|6.02|6.04|lang-perl||
-|perl-lwp-protocol-https|6.06|6.14|lang-perl||
-|perl-mail-dkim|0.40|1.20240619|lang-perl||
-|perl-mail-imapclient|3.42|3.43|lang-perl||
-|perl-mail-spf|2.9.0|3.20240617|lang-perl||
-|perl-mailtools|2.20|2.21|lang-perl||
-|perl-mime-charset|1.012.2|1.013.1|lang-perl||
-|perl-mime-lite|3.030|3.033|lang-perl||
-|perl-mime-tools|5.509|5.515|lang-perl||
-|perl-mime-types|2.17|2.26|lang-perl||
-|perl-module-build|0.4224|0.4234|lang-perl||
-|perl-module-build-tiny|0.039|0.048|lang-perl||
-|perl-module-find|0.13|0.16|lang-perl||
-|perl-module-scandeps|1.27|1.35|lang-perl||
-|perl-moo|2.005004|2.005005|lang-perl||
-|perl-mozilla-ca|20180117|20240313|lang-perl||
-|perl-mro-compat|0.13|0.15|lang-perl||
-|perl-net-dbus|1.1.0|1.2.0|lang-perl||
-|perl-net-dns|1.19<br>+02|1.45|lang-perl|Compound version number '1.19+02'|
-|perl-net-http|6.18|6.23|lang-perl||
-|perl-net-server|2.009|2.014|lang-perl||
-|perl-net-ssleay|1.85|1.94|lang-perl||
-|perl-package-stash|0.38|0.40|lang-perl||
-|perl-package-stash-xs|0.29|0.30|lang-perl||
-|perl-par|1.016|1.020|lang-perl||
-|perl-par-dist|0.52|0.53|lang-perl||
-|perl-par-packer|1.050|1.063|lang-perl||
-|perl-parallel-forkmanager|1.20|2.02|lang-perl||
-|perl-params-util|1.07|1.102|lang-perl||
-|perl-params-validationcompiler|0.30|0.31|lang-perl||
-|perl-path-tiny|0.108|0.146|lang-perl||
-|perl-pod-parser|1.63|1.67|lang-perl||
-|perl-proc-processtable|0.56|0.636|lang-perl||
-|perl-role-tiny|2.001004|2.002004|lang-perl||
-|perl-specio|0.46|0.48|lang-perl||
-|perl-string-util|1.31|1.34|lang-perl||
-|perl-sub-install|0.928|0.929|lang-perl||
-|perl-sub-quote|2.006006|2.006008|lang-perl||
-|perl-template-toolkit|2.27|3.102|lang-perl||
-|perl-term-progressbar|2.22|2.23|lang-perl||
-|perl-term-readkey|2.37|2.38|lang-perl||
-|perl-term-readline-gnu|1.36|1.46|lang-perl||
-|perl-test-deep|1.130|1.204|lang-perl||
-|perl-test-fatal|0.014|0.017|lang-perl||
-|perl-test-nowarnings|1.04|1.06|lang-perl||
-|perl-text-csv|1.99|2.04|lang-perl||
-|perl-text-csv-xs|1.38|1.55|lang-perl||
-|perl-text-template|1.59|1.61|lang-perl||
-|perl-timedate|2.30|2.33|lang-perl||
-|perl-tk|804.034|804.036|lang-perl||
-|perl-try-tiny|0.30|0.31|lang-perl||
-|perl-type-serialiser|1.0|1.01|lang-perl||
-|perl-uri|1.74|5.28|lang-perl||
-|perl-www-mechanize|1.91|2.18|lang-perl||
-|perl-x11-protocol-other|30|31|lang-perl||
-|perl-xml-libxslt|1.96|2.003000|lang-perl||
-|perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
-|perl-xml-parser|2.44|2.47|lang-perl||
-|perl-xml-parser+32|999|2.47|runtime-optenv32|Possible downgrade from the current version (999 -> 2.47)|
-|perl-xml-sax|1.00|1.02|lang-perl||
-|perl-xml-sax-expat|0.51|1.33|lang-perl||
-|perl-xml-xpath|1.44|1.48|lang-perl||
-|perl-yaml-libyaml|0.85|0.89|lang-perl||
-|perl-yaml-tiny|1.73|1.74|lang-perl||
-|perl4-corelibs|0.004|0.005|lang-perl||
-|pexpect|4.8.0|4.9.0|lang-python||
-|pgxnclient|1.3.1|1.3.2|app-database||
-|php|8.3.8|8.3.9|app-devel||
-|physfs|3.0.2|3.2.0|runtime-common||
-|picard|2.8.5|2.12|app-multimedia||
-|picmi|23.08.5|24.05.2|desktop-kde||
-|picocom|3.1|2023-04|app-utils||
-|pidgin|2.14.12|2.14.13|app-web||
-|pikepdf|2.8.0|9.0.0|app-doc||
-|piklab-trinity|14.1.0|14.1.2|desktop-trinity||
-|pillow|8.4.0|10.4.0|lang-python||
-|pim-data-exporter|23.08.5|24.05.2|desktop-kde||
-|pim-sieve-editor|23.08.5|24.05.2|desktop-kde||
-|pimcommon|23.08.5|24.05.2|desktop-kde||
-|pinentry|1.1.0|1.3.1|app-utils||
-|pip|22.3.1|24.1.1|lang-python||
-|pixman|0.43.0|0.43.4|runtime-display||
-|pixman+32|0.40.0|0.43.4|runtime-optenv32||
-|pkcs11-helper|1.29.0|1.30.0|runtime-cryptography||
-|pkginfo|1.5.0.1|1.11.1|lang-python||
-|pktstat|20160317|1.8.5|app-network|Possible downgrade from the current version (20160317 -> 1.8.5)|
-|plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.05.2|desktop-kde||
-|plasma-browser-integration|5.27.11|6.1.2|desktop-kde||
-|plasma-desktop|5.27.11|6.1.2|desktop-kde||
-|plasma-disks|5.27.11|6.1.2|desktop-kde||
-|plasma-firewall|5.27.11|6.1.2|desktop-kde||
-|plasma-framework|5.115.0|6.1.2|desktop-kde||
-|plasma-integration|5.27.11|6.1.2|desktop-kde||
-|plasma-mobile|5.27.5|6.1.2|desktop-kde||
-|plasma-nano|5.27.11|6.1.2|desktop-kde||
-|plasma-nm|5.27.11|6.1.2|desktop-kde||
-|plasma-pa|5.27.11|6.1.2|desktop-kde||
-|plasma-pk-updates|0.3.2|6.1.2|desktop-kde||
-|plasma-sdk|5.27.11|6.1.2|desktop-kde||
-|plasma-settings|22.06|24.02.0|desktop-kde||
-|plasma-systemmonitor|5.27.11|6.1.2|desktop-kde||
-|plasma-thunderbolt|5.27.11|6.1.2|desktop-kde||
-|plasma-vault|5.27.11|6.1.2|desktop-kde||
-|plasma-wayland-protocols|1.10.0|1.13.0|desktop-kde||
-|plasma-welcome|5.27.11|6.1.2|desktop-kde||
-|plasma-workspace|5.27.11|6.1.2|desktop-kde||
-|plasma-workspace-wallpapers|5.27.11|6.1.2|desktop-kde||
-|plasmatube|23.08.5|24.05.2|desktop-kde||
-|platformdirs|2.5.2|4.2.2|lang-python||
-|plymouth-kcm|5.27.11|6.1.2|desktop-kde||
-|pmac-utils|1.1.3|1.1.3.orig|app-admin|Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
-|pngquant|2.12.6|3.0.3|app-utils||
-|po-debconf|1.0.21|1.0.21+nmu1|app-admin|Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
-|po4a|0.63|0.73|app-i18n||
-|pocketsphinx|5~prealpha|0.8|app-utils|Possible downgrade from the current version (5~prealpha -> 0.8)|
-|podcastparser|0.6.5|0.6.10|lang-python||
+|openvpn|2.5.4|2.6.11|app-network|Compliance mode enabled, was '2.6.11'|
+|openvswitch|3.0.3|3.3.1|app-network|Compliance mode enabled, was '3.3.1'|
+|optipng|0.7.7|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
+|opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
+|opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
+|opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
+|orc|0.4.32|0.4.38|app-devel|Compliance mode enabled, was '0.4.38'|
+|orc+32|0.4.32|0.4.38|runtime-optenv32|Compliance mode enabled, was '0.4.38'|
+|orca|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
+|osinfo-db|20240523|20240701|app-admin|Compliance mode enabled, was '20240701'|
+|osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
+|osu-lazer|2024.523.0|2024.625.3|app-games|Compliance mode enabled, was '2024.625.3'|
+|oxygen|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|oxygen-icons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|oxygen-sounds|5.25.3|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|p11-kit|0.25.3|0.25.4|runtime-cryptography|Compliance mode enabled, was '0.25.4'|
+|p11-kit+32|0.23.18.1|0.25.4|runtime-optenv32|Compliance mode enabled, was '0.25.4'|
+|packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
+|packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
+|packaging|23.0|24.1|lang-python|Compliance mode enabled, was '24.1'|
+|pacman|6.0.1|6.1.0|app-admin|Compliance mode enabled, was '6.1.0'|
+|pahole|1.25|1.27|app-utils|Compliance mode enabled, was '1.27'|
+|palapeli|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
+|pam-wrapper|1.1.3|1.1.5|app-devel|Compliance mode enabled, was '1.1.5'|
+|pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
+|pandas|2.1.2|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
+|pandoc|3.1.13|3.2.1|app-doc|Compliance mode enabled, was '3.2.1'|
+|pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
+|pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
+|pangomm|2.46.3|2.52.0|runtime-desktop|Compliance mode enabled, was '2.52.0'|
+|pangomm-2.48|2.50.1|2.52.0|runtime-desktop|Compliance mode enabled, was '2.52.0'|
+|paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
+|paprefs|1.1|1.2|app-multimedia|Compliance mode enabled, was '1.2'|
+|paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
+|parallel|20191122|20240622|app-utils|Compliance mode enabled, was '20240622'|
+|paramiko|2.10.3|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
+|pari|2.13.1|2.15.5|app-scientific|Compliance mode enabled, was '2.15.5'|
+|parley|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
+|parso|0.3.3|0.8.4|lang-python|Compliance mode enabled, was '0.8.4'|
+|partclone|0.3.20|0.3.31|app-admin|Compliance mode enabled, was '0.3.31'|
+|partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
+|partitionmanager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
+|pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
+|pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
+|patool|1.12|upstream/2.3.0|app-utils|Compliance mode enabled, was 'upstream/2.3.0'<br>Possible downgrade from the current version (1.12 -> upstream/2.3.0)|
+|pbr|5.6.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
+|pciutils|3.9.0|3.13.0|app-utils|Compliance mode enabled, was '3.13.0'|
+|pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
+|pcp|6.0.1|6.2.2|app-utils|Compliance mode enabled, was '6.2.2'|
+|pcre|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
+|pcre+32|8.44|8.45|runtime-optenv32|Compliance mode enabled, was '8.45'|
+|pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
+|pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
+|pcsclite|1.9.9|2.2.3|app-devices|Compliance mode enabled, was '2.2.3'|
+|pcsx2|1.6.0<br>+git20210825|1.7.5955|app-games|Compliance mode enabled, was '1.7.5955'|
+|pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
+|pdfminer|20191020|20231228|app-doc|Compliance mode enabled, was '20231228'|
+|pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
+|peewee|3.17.1|3.17.5|lang-python|Compliance mode enabled, was '3.17.5'|
+|peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
+|pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
+|perl|5.36.3|5.41.1|lang-perl|Compliance mode enabled, was '5.41.1'|
+|perl+32|999|5.41.1|runtime-optenv32|Compliance mode enabled, was '5.41.1'<br>Possible downgrade from the current version (999 -> 5.41.1)|
+|perl-alien-build|1.92|2.83|lang-perl|Compliance mode enabled, was '2.83'|
+|perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
+|perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
+|perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
+|perl-app-cpanminus|1.7044|1.7047|lang-perl|Compliance mode enabled, was '1.7047'|
+|perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
+|perl-authen-sasl|2.1401|2.1700|lang-perl|Compliance mode enabled, was '2.1700'|
+|perl-b-hooks-endofscope|0.24|0.28|lang-perl|Compliance mode enabled, was '0.28'|
+|perl-cairo|1.106|1.109|lang-perl|Compliance mode enabled, was '1.109'|
+|perl-canary-stability|2012|2013|lang-perl|Compliance mode enabled, was '2013'|
+|perl-cgi|4.47|4.66|lang-perl|Compliance mode enabled, was '4.66'|
+|perl-class-data-inheritable|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
+|perl-class-inspector|1.28|1.36|lang-perl|Compliance mode enabled, was '1.36'|
+|perl-class-method-modifiers|2.12|2.15|lang-perl|Compliance mode enabled, was '2.15'|
+|perl-class-singleton|1.5|1.6|lang-perl|Compliance mode enabled, was '1.6'|
+|perl-common-sense|3.74|3.75|lang-perl|Compliance mode enabled, was '3.75'|
+|perl-config-file|1.50|1.54|lang-perl|Compliance mode enabled, was '1.54'|
+|perl-convert-asn1|0.27|0.34|lang-perl|Compliance mode enabled, was '0.34'|
+|perl-crypt-openssl-guess|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
+|perl-crypt-openssl-random|0.15|0.17|lang-perl|Compliance mode enabled, was '0.17'|
+|perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compliance mode enabled, was '0.72'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
+|perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compliance mode enabled, was '2.183'|
+|perl-data-optlist|0.110|0.114|lang-perl|Compliance mode enabled, was '0.114'|
+|perl-date-manip|6.82|6.95|lang-perl|Compliance mode enabled, was '6.95'|
+|perl-datetime|1.52|1.65|lang-perl|Compliance mode enabled, was '1.65'|
+|perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
+|perl-datetime-locale|1.26|1.42|lang-perl|Compliance mode enabled, was '1.42'|
+|perl-dbd-mysql|4.052|5.007|lang-perl|Compliance mode enabled, was '5.007'|
+|perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
+|perl-dbi|1.642|1.643|lang-perl|Compliance mode enabled, was '1.643'|
+|perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
+|perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
+|perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
+|perl-digest-hmac|1.03|1.04|lang-perl|Compliance mode enabled, was '1.04'|
+|perl-email-abstract|3.008|3.010|lang-perl|Compliance mode enabled, was '3.010'|
+|perl-email-address|1.912|1.913|lang-perl|Compliance mode enabled, was '1.913'|
+|perl-email-date-format|1.005|1.008|lang-perl|Compliance mode enabled, was '1.008'|
+|perl-email-mime|1.946|1.954|lang-perl|Compliance mode enabled, was '1.954'|
+|perl-email-mime-contenttype|1.022|1.028|lang-perl|Compliance mode enabled, was '1.028'|
+|perl-email-simple|2.216|2.218|lang-perl|Compliance mode enabled, was '2.218'|
+|perl-error|0.17027|0.17029|lang-perl|Compliance mode enabled, was '0.17029'|
+|perl-ev|4.25|4.34|lang-perl|Compliance mode enabled, was '4.34'|
+|perl-exception-class|1.44|1.45|lang-perl|Compliance mode enabled, was '1.45'|
+|perl-extutils-config|0.008|0.009|lang-perl|Compliance mode enabled, was '0.009'|
+|perl-extutils-depends|0.405|0.8001|lang-perl|Compliance mode enabled, was '0.8001'|
+|perl-extutils-helpers|0.026|0.027|lang-perl|Compliance mode enabled, was '0.027'|
+|perl-extutils-installpaths|0.012|0.013|lang-perl|Compliance mode enabled, was '0.013'|
+|perl-fcgi|0.78|0.82|lang-perl|Compliance mode enabled, was '0.82'|
+|perl-file-basedir|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
+|perl-file-copy-recursive|0.44|0.45|lang-perl|Compliance mode enabled, was '0.45'|
+|perl-file-listing|6.04|6.16|lang-perl|Compliance mode enabled, was '6.16'|
+|perl-file-mimeinfo|0.28<br>+03|0.35|lang-perl|Compliance mode enabled, was '0.35'|
+|perl-file-next|1.16|1.18|lang-perl|Compliance mode enabled, was '1.18'|
+|perl-file-sharedir-install|0.13|0.14|lang-perl|Compliance mode enabled, was '0.14'|
+|perl-file-which|1.23|1.27|lang-perl|Compliance mode enabled, was '1.27'|
+|perl-finance-quote|1.49|1.5301|lang-perl|Compliance mode enabled, was '1.5301'|
+|perl-font-ttf|1.05|1.06|lang-perl|Compliance mode enabled, was '1.06'|
+|perl-gd|2.71|2.83|lang-perl|Compliance mode enabled, was '2.83'|
+|perl-glib|1.329|1.3294|lang-perl|Compliance mode enabled, was '1.3294'|
+|perl-glib-object-introspection|0.047|0.051|lang-perl|Compliance mode enabled, was '0.051'|
+|perl-gnome2|1.047|1.048|lang-perl|Compliance mode enabled, was '1.048'|
+|perl-gnome2-canvas|1.002|1.006|lang-perl|Compliance mode enabled, was '1.006'|
+|perl-gnome2-vfs|1.083|1.084|lang-perl|Compliance mode enabled, was '1.084'|
+|perl-gnome2-wnck|0.16|0.18|lang-perl|Compliance mode enabled, was '0.18'|
+|perl-gtk2|1.2499|1.24993|lang-perl|Compliance mode enabled, was '1.24993'|
+|perl-gtk2-unique|0.05|0.07|lang-perl|Compliance mode enabled, was '0.07'|
+|perl-html-form|6.03|6.11|lang-perl|Compliance mode enabled, was '6.11'|
+|perl-html-parser|3.72|3.82|lang-perl|Compliance mode enabled, was '3.82'|
+|perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
+|perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
+|perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
+|perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
+|perl-http-message|6.11|6.46|lang-perl|Compliance mode enabled, was '6.46'|
+|perl-image-exiftool|12.50|12.87|lang-perl|Compliance mode enabled, was '12.87'|
+|perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
+|perl-io-socket-ssl|2.062|2.086|lang-perl|Compliance mode enabled, was '2.086'|
+|perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
+|perl-io-tty|1.13<br>+01|1.20|lang-perl|Compliance mode enabled, was '1.20'|
+|perl-ipc-run|20180523.0|20231003.0|lang-perl|Compliance mode enabled, was '20231003.0'|
+|perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
+|perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
+|perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
+|perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
+|perl-json-xs|4.0<br>+00|4.03|lang-perl|Compliance mode enabled, was '4.03'|
+|perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
+|perl-lwp-mediatypes|6.02|6.04|lang-perl|Compliance mode enabled, was '6.04'|
+|perl-lwp-protocol-https|6.06|6.14|lang-perl|Compliance mode enabled, was '6.14'|
+|perl-mail-dkim|0.40|1.20240619|lang-perl|Compliance mode enabled, was '1.20240619'|
+|perl-mail-imapclient|3.42|3.43|lang-perl|Compliance mode enabled, was '3.43'|
+|perl-mail-spf|2.9.0|3.20240617|lang-perl|Compliance mode enabled, was '3.20240617'|
+|perl-mailtools|2.20|2.21|lang-perl|Compliance mode enabled, was '2.21'|
+|perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
+|perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
+|perl-mime-tools|5.509|5.515|lang-perl|Compliance mode enabled, was '5.515'|
+|perl-mime-types|2.17|2.26|lang-perl|Compliance mode enabled, was '2.26'|
+|perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
+|perl-module-build-tiny|0.039|0.048|lang-perl|Compliance mode enabled, was '0.048'|
+|perl-module-find|0.13|0.16|lang-perl|Compliance mode enabled, was '0.16'|
+|perl-module-scandeps|1.27|1.35|lang-perl|Compliance mode enabled, was '1.35'|
+|perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
+|perl-mozilla-ca|20180117|20240313|lang-perl|Compliance mode enabled, was '20240313'|
+|perl-mro-compat|0.13|0.15|lang-perl|Compliance mode enabled, was '0.15'|
+|perl-net-dbus|1.1.0|1.2.0|lang-perl|Compliance mode enabled, was '1.2.0'|
+|perl-net-dns|1.19<br>+02|1.45|lang-perl|Compliance mode enabled, was '1.45'|
+|perl-net-http|6.18|6.23|lang-perl|Compliance mode enabled, was '6.23'|
+|perl-net-server|2.009|2.014|lang-perl|Compliance mode enabled, was '2.014'|
+|perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
+|perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
+|perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
+|perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
+|perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
+|perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
+|perl-parallel-forkmanager|1.20|2.02|lang-perl|Compliance mode enabled, was '2.02'|
+|perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
+|perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
+|perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
+|perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
+|perl-proc-processtable|0.56|0.636|lang-perl|Compliance mode enabled, was '0.636'|
+|perl-role-tiny|2.001004|2.002004|lang-perl|Compliance mode enabled, was '2.002004'|
+|perl-specio|0.46|0.48|lang-perl|Compliance mode enabled, was '0.48'|
+|perl-string-util|1.31|1.34|lang-perl|Compliance mode enabled, was '1.34'|
+|perl-sub-install|0.928|0.929|lang-perl|Compliance mode enabled, was '0.929'|
+|perl-sub-quote|2.006006|2.006008|lang-perl|Compliance mode enabled, was '2.006008'|
+|perl-template-toolkit|2.27|3.102|lang-perl|Compliance mode enabled, was '3.102'|
+|perl-term-progressbar|2.22|2.23|lang-perl|Compliance mode enabled, was '2.23'|
+|perl-term-readkey|2.37|2.38|lang-perl|Compliance mode enabled, was '2.38'|
+|perl-term-readline-gnu|1.36|1.46|lang-perl|Compliance mode enabled, was '1.46'|
+|perl-test-deep|1.130|1.204|lang-perl|Compliance mode enabled, was '1.204'|
+|perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
+|perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
+|perl-text-csv|1.99|2.04|lang-perl|Compliance mode enabled, was '2.04'|
+|perl-text-csv-xs|1.38|1.55|lang-perl|Compliance mode enabled, was '1.55'|
+|perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
+|perl-timedate|2.30|2.33|lang-perl|Compliance mode enabled, was '2.33'|
+|perl-tk|804.034|804.036|lang-perl|Compliance mode enabled, was '804.036'|
+|perl-try-tiny|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
+|perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
+|perl-uri|1.74|5.28|lang-perl|Compliance mode enabled, was '5.28'|
+|perl-www-mechanize|1.91|2.18|lang-perl|Compliance mode enabled, was '2.18'|
+|perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
+|perl-xml-libxslt|1.96|2.003000|lang-perl|Compliance mode enabled, was '2.003000'|
+|perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
+|perl-xml-parser|2.44|2.47|lang-perl|Compliance mode enabled, was '2.47'|
+|perl-xml-parser+32|999|2.47|runtime-optenv32|Compliance mode enabled, was '2.47'<br>Possible downgrade from the current version (999 -> 2.47)|
+|perl-xml-sax|1.00|1.02|lang-perl|Compliance mode enabled, was '1.02'|
+|perl-xml-sax-expat|0.51|1.33|lang-perl|Compliance mode enabled, was '1.33'|
+|perl-xml-xpath|1.44|1.48|lang-perl|Compliance mode enabled, was '1.48'|
+|perl-yaml-libyaml|0.85|0.89|lang-perl|Compliance mode enabled, was '0.89'|
+|perl-yaml-tiny|1.73|1.74|lang-perl|Compliance mode enabled, was '1.74'|
+|perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
+|pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
+|pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
+|php|8.3.8|8.3.9|app-devel|Compliance mode enabled, was '8.3.9'|
+|physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|picard|2.8.5|2.12|app-multimedia|Compliance mode enabled, was '2.12'|
+|picmi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|picocom|3.1|2023.04|app-utils|Compliance mode enabled, was '2023-04'|
+|pidgin|2.14.12|2.14.13|app-web|Compliance mode enabled, was '2.14.13'|
+|pikepdf|2.8.0|9.0.0|app-doc|Compliance mode enabled, was '9.0.0'|
+|piklab-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|pillow|8.4.0|10.4.0|lang-python|Compliance mode enabled, was '10.4.0'|
+|pim-data-exporter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|pim-sieve-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|pimcommon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
+|pip|22.3.1|24.1.1|lang-python|Compliance mode enabled, was '24.1.1'|
+|pixman|0.43.0|0.43.4|runtime-display|Compliance mode enabled, was '0.43.4'|
+|pixman+32|0.40.0|0.43.4|runtime-optenv32|Compliance mode enabled, was '0.43.4'|
+|pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
+|pkginfo|1.5.0.1|1.11.1|lang-python|Compliance mode enabled, was '1.11.1'|
+|pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
+|plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
+|plasma-angelfish|22.06|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|plasma-browser-integration|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-desktop|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-disks|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-firewall|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-framework|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-integration|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-mobile|5.27.5|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-nano|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-nm|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-pa|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-pk-updates|0.3.2|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-sdk|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-settings|22.06|24.02.0|desktop-kde|Compliance mode enabled, was '24.02.0'|
+|plasma-systemmonitor|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-thunderbolt|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-vault|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-wayland-protocols|1.10.0|1.13.0|desktop-kde|Compliance mode enabled, was '1.13.0'|
+|plasma-welcome|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-workspace|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasma-workspace-wallpapers|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|plasmatube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|platformdirs|2.5.2|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
+|plymouth-kcm|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
+|pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
+|po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
+|po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
+|pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
+|podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podman|5.1.0|5.1.1|app-containers||
-|podofo|0.9.6|0.10.3|runtime-doc||
-|poedit|3.4.1|3.4.4-oss|app-i18n||
-|poetry|1.6.1|1.8.3|lang-python||
-|poetry-core|1.7.0|1.9.0|lang-python||
-|polari|42.1|46.0|desktop-gnome||
-|polib|1.1.0|1.2.0|lang-python||
-|polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity||
-|polkit-kde-agent-1|5.27.11|6.1.2|desktop-kde||
-|polkit-qt-1|0.114.0|0.200.0|desktop-kde||
-|polkit-tqt|14.1.0|14.1.2|desktop-trinity||
-|polymake|3.3|4.12|app-scientific||
-|poppler|22.08.0|24.07.0|runtime-doc||
-|poppler+32|0.66.0|24.07.0|runtime-optenv32||
-|poppler-data|0.4.9|0.4.12|runtime-data||
-|popt|1.18|1.19|runtime-common||
-|popt+32|1.16|1.19|runtime-optenv32||
-|portaudio|19<br>+20140130|190600_20161030|runtime-multimedia|Compound version number '19+20140130'|
-|portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32|Compound version number '19+20140130'|
-|portmidi|2.0.4|236|runtime-multimedia||
-|postfix|3.7.3|3.9.0|app-web||
-|postgresql|13.15|17|app-database||
-|potracegui-trinity|14.1.0|14.1.2|desktop-trinity||
-|powerdevil|5.27.11|6.1.2|desktop-kde||
-|powershell|7.4.2|7.4.3|app-shells||
-|poxml|23.08.5|24.05.2|desktop-kde||
-|ppp|2.4.9|2.5.0|app-network||
-|precis-i18n|1.0.3|1.1.0|lang-python||
-|premake|5.0.0~beta1|4.3|app-utils|Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
-|presenterm|0.5.0|0.7.0|app-productivity||
-|prettytable|0.7.2|3.10.0|lang-python||
-|primus+32|20150328|0.2|runtime-optenv32|Possible downgrade from the current version (20150328 -> 0.2)|
-|print-manager|23.08.5|24.05.2|desktop-kde||
-|prison5|5.115.0|6.1.2|desktop-kde||
-|progress|0.16|0.17|app-utils||
-|proj|9.2.1|9.4.1|app-gis||
-|projectm|4.0.0|4.1.1|runtime-multimedia||
-|prompt-toolkit|2.0.8|3.0.47|lang-python||
-|proot|5.1.20171016|5.4.0|app-utils||
-|protobuf|25.2|27.2|runtime-common||
-|proxychains-ng+32|20161205|4.17|runtime-optenv32|Possible downgrade from the current version (20161205 -> 4.17)|
-|psmisc|23.6|23.7|app-utils||
-|pstate-frequency|3.11.0|3.15.1|app-admin||
-|pstoedit|3.75|4.01|app-doc||
-|psycopg2|2.8.6|2.9.9|lang-python||
-|ptex|2.3.2|2.4.3|runtime-creativity||
-|ptyprocess|0.6.0|0.7.0|lang-python||
-|pugixml|1.11.4|1.14|runtime-common||
-|pulseaudio+32|13.0|17.0|runtime-optenv32||
-|pulseaudio-qt|1.3|1.5.0|runtime-desktop||
-|pulsectl|20.5.1|24.4.0|lang-python||
-|puremagic|1.15|1.25|lang-python||
-|purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
-|purpose|5.115.0|6.1.2|desktop-kde||
-|pv|1.6.20|1.8.10|app-utils||
-|py-filelock|3.14.0|3.15.4|lang-python||
-|py-setproctitle|1.1.10|1.3.3|lang-python||
-|pyaaf2|1.6.0|1.7.1|lang-python||
-|pyacoustid|1.1.7|1.3.0|lang-python||
-|pyasn1|0.4.8|0.6.0|lang-python||
-|pyasn1-modules|0.2.8|0.4.0|lang-python||
-|pyatspi|2.38.2|2.46.1|lang-python||
-|pyaudio|0.2.11|0.2.14|lang-python||
-|pybind11|2.11.1|2.13.1|lang-python||
-|pycairo|1.18.2|1.26.1|lang-python||
-|pycodestyle|2.7.0|2.12.0|lang-python||
-|pycountry|18.12.8|24.6.1|lang-python||
-|pycparser|2.19|2.22|lang-python||
-|pycryptodome|3.7.3|3.20.0|lang-python||
-|pycryptodomex|3.9.9|3.20.0|lang-python||
-|pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
-|pycuda|2022.2.2|2024.1|lang-python||
-|pycups|1.9.74|2.0.4|lang-python||
-|pydantic|2.6.0|2.8.2|lang-python||
-|pydantic-core|2.16.1|2.20.1|lang-python||
-|pydot|1.4.1|2.0.0|lang-python||
-|pyelftools|0.30|0.31|lang-python||
-|pyenchant|2.0.0|3.2.2|lang-python||
-|pygame|2.5.2|2.6.0|lang-python||
-|pygccxml|2.1.0|2.5.0|lang-python||
-|pygit2|1.14.1|1.15.0|lang-python||
-|pyglet|1.3.2|2.0.15|lang-python||
-|pygments|2.10.0|2.18.0|lang-python||
-|pygobject-3|3.42.2|3.48.2|lang-python||
-|pygraphviz|1.5|1.13|lang-python||
-|pyhamcrest|2.0.3|2.1.0|lang-python||
-|pyicu|2.3.1|2.13.1|lang-python||
-|pyiso8601|0.1.13|2.1.0|lang-python||
-|pylast|3.0.0|5.3.0|lang-python||
-|pylev|1.3.0|1.4.0|lang-python||
-|pylibacl|0.5.4|0.7.0|lang-python||
-|pylint|2.14.4|3.2.5|lang-python||
-|pymarkups|3.0.0|4.0.0|lang-python||
-|pymediainfo|5.0.3|6.1.0|lang-python||
-|pymysql|0.9.3|1.1.1|lang-python||
-|pynacl|1.3.0|1.5.0|lang-python||
-|pynput|1.7.6|1.7.7|lang-python||
-|pyopengl|3.1.5|3.1.7|lang-python||
-|pyopenssl|23.1.1|24.1.0|lang-python||
-|pyotherside|1.5.9|1.6.1|lang-python||
-|pyparsing|2.4.7|3.1.2|lang-python||
-|pyparted|3.11.6|3.12.0|lang-python||
-|pypdf|4.0.1|4.2.0|lang-python||
-|pypdf2|1.26.0|4.2.0|lang-python||
-|pyperclip|1.8.2|1.9.0|lang-python||
-|pyperf|2.5.0|2.7.0|lang-python||
-|pypkgconfig|1.4.0|1.5.5|lang-python||
-|pypsutil|5.8.0|6.0.0|lang-python||
-|pyqt-builder|1.12.1|1.16.3|lang-python||
-|pyqt5|5.15.5|5.15.10|lang-python||
-|pyqt5-sip|12.9.0|12.13.0|lang-python||
-|pyqtwebengine|5.15.5|5.15.6|lang-python||
-|pyscard|1.9.9|2.0.10|lang-python||
-|pyscss|1.3.7|1.4.0|lang-python||
-|pyside2|5.15.14|5.15.2.1|lang-python|Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
-|pysmbc|1.0.22|1.0.25.1|lang-python||
-|pysocks|1.6.8|1.7.1|lang-python||
-|pysol-cards|0.14.2|0.16.0|lang-python||
-|pysol-sound-server|3.01|3.20|lang-python||
-|pysolfc|2.12.0|3.0.0|app-games||
-|pyte|0.8.0|0.8.2|lang-python||
-|python-2+32|999|2.7.18|runtime-optenv32|Possible downgrade from the current version (999 -> 2.7.18)|
-|python-3|3.10.13|3.12.4|lang-python||
-|python-augeas|1.0.3|1.1.0|lang-python||
-|python-build|0.8.0|1.2.1|lang-python||
-|python-cloudflare|2.8.15|3.0.1|lang-python||
-|python-cssselect|1.0.3|1.2.0|lang-python||
-|python-daemonize|2.5.0|3.8.0|lang-python||
-|python-dbusmock|0.22.0|0.31.1|lang-python||
-|python-djvulibre|0.8.6|0.8.8|lang-python||
-|python-graphviz|0.16|0.20.3|lang-python||
-|python-hglib|2.6.1|2.6.2|lang-python||
-|python-installer|0.5.1|0.7.0|lang-python||
-|python-kaitaistruct|0.9|0.10|lang-python||
-|python-ldap3|2.9|2.9.1|lang-python||
-|python-linux-procfs|0.7.1|0.7.3|lang-python||
-|python-lz4|2.1.6|4.3.3|lang-python||
-|python-markdown-math|0.6|0.8|lang-python||
-|python-msgpack|1.0.2|1.0.8|lang-python||
-|python-node-semver|0.8.0|0.9.0|lang-python||
-|python-openid|2.2.5|3.2|lang-python||
-|python-pam|1.8.4|2.0.2|lang-python||
-|python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
-|python-tabulate|0.8.3|0.9.0|lang-python||
-|python-xapp|2.0.1|2.4.2|lang-python||
-|python-xmp-toolkit|2.0.1|2.0.2|lang-python||
-|pythondialog|3.3.0|3.5.3|lang-python||
-|pytools|2019.1|2024.1.6|lang-python||
-|pyudev|0.24.1|0.24.3|lang-python||
-|pyusb|1.0.2|1.2.1|lang-python||
-|pyutil|3.3.0|3.3.6|lang-python||
-|pywbem|0.13.0|1.7.2|lang-python||
-|pyx|0.14.1|0.16|lang-python||
-|pyxattr|0.6.1|0.8.1|lang-python||
-|pyzmq|22.3.0|26.0.3|lang-python||
-|qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity||
-|qca|2.3.4|2.3.9|runtime-cryptography||
-|qcef|1.1.6|1.1.8|runtime-desktop||
-|qcustomplot|2.1.1|2.1.1.1|runtime-desktop||
-|qd|2.3.22|2.3.24|runtime-common||
-|qgnomeplatform|0.8.4|0.9.2|desktop-gnome||
-|qhull|7.2.0|8.0.2|app-scientific||
-|qjackctl|0.9.7|1.0.0|app-multimedia||
-|qmlkonsole|23.08.5|24.05.2|desktop-kde||
-|qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
-|qmmp|1.6.5|2.1.8|app-multimedia||
-|qownnotes|22.6.1|24.7.0|app-web||
-|qpdf|11.9.0|11.9.1|app-doc||
-|qqc2-desktop-style|5.115.0|6.1.2|desktop-kde||
-|qrencode|4.0.2|4.1.1|runtime-imaging||
-|qscintilla|2.13.1|2.14.1|runtime-common||
-|qsynth|0.5.6|1.0.0|app-multimedia||
+|podofo|0.9.6|0.10.3|runtime-doc|Compliance mode enabled, was '0.10.3'|
+|poedit|3.4.1|3.4.4-oss|app-i18n|Compliance mode enabled, was '3.4.4-oss'|
+|poetry|1.6.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
+|poetry-core|1.7.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
+|polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
+|polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|polkit-kde-agent-1|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
+|polkit-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
+|poppler|22.08.0|24.07.0|runtime-doc|Compliance mode enabled, was '24.07.0'|
+|poppler+32|0.66.0|24.07.0|runtime-optenv32|Compliance mode enabled, was '24.07.0'|
+|poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
+|popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
+|popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
+|portaudio|19<br>+20140130|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
+|portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
+|portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
+|postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
+|postgresql|13.15|17|app-database|Compliance mode enabled, was '17'|
+|potracegui-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|powerdevil|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|powershell|7.4.2|7.4.3|app-shells|Compliance mode enabled, was '7.4.3'|
+|poxml|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|ppp|2.4.9|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
+|precis-i18n|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
+|premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
+|presenterm|0.5.0|0.7.0|app-productivity|Compliance mode enabled, was '0.7.0'|
+|prettytable|0.7.2|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
+|primus+32|20150328|0.2|runtime-optenv32|Compliance mode enabled, was '0.2'<br>Possible downgrade from the current version (20150328 -> 0.2)|
+|print-manager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|prison5|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
+|proj|9.2.1|9.4.1|app-gis|Compliance mode enabled, was '9.4.1'|
+|projectm|4.0.0|4.1.1|runtime-multimedia|Compliance mode enabled, was '4.1.1'|
+|prompt-toolkit|2.0.8|3.0.47|lang-python|Compliance mode enabled, was '3.0.47'|
+|proot|5.1.20171016|5.4.0|app-utils|Compliance mode enabled, was '5.4.0'|
+|protobuf|25.2|27.2|runtime-common|Compliance mode enabled, was '27.2'|
+|proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
+|psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
+|pstate-frequency|3.11.0|3.15.1|app-admin|Compliance mode enabled, was '3.15.1'|
+|pstoedit|3.75|4.01|app-doc|Compliance mode enabled, was '4.01'|
+|psycopg2|2.8.6|2.9.9|lang-python|Compliance mode enabled, was '2.9.9'|
+|ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
+|ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|pugixml|1.11.4|1.14|runtime-common|Compliance mode enabled, was '1.14'|
+|pulseaudio+32|13.0|17.0|runtime-optenv32|Compliance mode enabled, was '17.0'|
+|pulseaudio-qt|1.3|1.5.0|runtime-desktop|Compliance mode enabled, was '1.5.0'|
+|pulsectl|20.5.1|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
+|puremagic|1.15|1.25|lang-python|Compliance mode enabled, was '1.25'|
+|purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compliance mode enabled, was '0.1.0'|
+|purpose|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|pv|1.6.20|1.8.10|app-utils|Compliance mode enabled, was '1.8.10'|
+|py-filelock|3.14.0|3.15.4|lang-python|Compliance mode enabled, was '3.15.4'|
+|py-setproctitle|1.1.10|1.3.3|lang-python|Compliance mode enabled, was '1.3.3'|
+|pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
+|pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
+|pyasn1|0.4.8|0.6.0|lang-python|Compliance mode enabled, was '0.6.0'|
+|pyasn1-modules|0.2.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
+|pyatspi|2.38.2|2.46.1|lang-python|Compliance mode enabled, was '2.46.1'|
+|pyaudio|0.2.11|0.2.14|lang-python|Compliance mode enabled, was '0.2.14'|
+|pybind11|2.11.1|2.13.1|lang-python|Compliance mode enabled, was '2.13.1'|
+|pycairo|1.18.2|1.26.1|lang-python|Compliance mode enabled, was '1.26.1'|
+|pycodestyle|2.7.0|2.12.0|lang-python|Compliance mode enabled, was '2.12.0'|
+|pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
+|pycparser|2.19|2.22|lang-python|Compliance mode enabled, was '2.22'|
+|pycryptodome|3.7.3|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
+|pycryptodomex|3.9.9|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
+|pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
+|pycuda|2022.2.2|2024.1|lang-python|Compliance mode enabled, was '2024.1'|
+|pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
+|pydantic|2.6.0|2.8.2|lang-python|Compliance mode enabled, was '2.8.2'|
+|pydantic-core|2.16.1|2.20.1|lang-python|Compliance mode enabled, was '2.20.1'|
+|pydot|1.4.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
+|pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
+|pygame|2.5.2|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
+|pygccxml|2.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
+|pygit2|1.14.1|1.15.0|lang-python|Compliance mode enabled, was '1.15.0'|
+|pyglet|1.3.2|2.0.15|lang-python|Compliance mode enabled, was '2.0.15'|
+|pygments|2.10.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
+|pygobject-3|3.42.2|3.48.2|lang-python|Compliance mode enabled, was '3.48.2'|
+|pygraphviz|1.5|1.13|lang-python|Compliance mode enabled, was '1.13'|
+|pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|pyicu|2.3.1|2.13.1|lang-python|Compliance mode enabled, was '2.13.1'|
+|pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|pylast|3.0.0|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
+|pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
+|pylibacl|0.5.4|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|pylint|2.14.4|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
+|pymarkups|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
+|pymediainfo|5.0.3|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
+|pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
+|pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
+|pynput|1.7.6|1.7.7|lang-python|Compliance mode enabled, was '1.7.7'|
+|pyopengl|3.1.5|3.1.7|lang-python|Compliance mode enabled, was '3.1.7'|
+|pyopenssl|23.1.1|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
+|pyotherside|1.5.9|1.6.1|lang-python|Compliance mode enabled, was '1.6.1'|
+|pyparsing|2.4.7|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
+|pyparted|3.11.6|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
+|pypdf|4.0.1|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
+|pypdf2|1.26.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
+|pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
+|pyperf|2.5.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
+|pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
+|pypsutil|5.8.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
+|pyqt-builder|1.12.1|1.16.3|lang-python|Compliance mode enabled, was '1.16.3'|
+|pyqt5|5.15.5|5.15.10|lang-python|Compliance mode enabled, was '5.15.10'|
+|pyqt5-sip|12.9.0|12.13.0|lang-python|Compliance mode enabled, was '12.13.0'|
+|pyqtwebengine|5.15.5|5.15.6|lang-python|Compliance mode enabled, was '5.15.6'|
+|pyscard|1.9.9|2.0.10|lang-python|Compliance mode enabled, was '2.0.10'|
+|pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
+|pyside2|5.15.14|5.15.2.1|lang-python|Compliance mode enabled, was '5.15.2.1'<br>Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
+|pysmbc|1.0.22|1.0.25.1|lang-python|Compliance mode enabled, was '1.0.25.1'|
+|pysocks|1.6.8|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
+|pysol-cards|0.14.2|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
+|pysol-sound-server|3.01|3.20|lang-python|Compliance mode enabled, was '3.20'|
+|pysolfc|2.12.0|3.0.0|app-games|Compliance mode enabled, was '3.0.0'|
+|pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
+|python-2+32|999|2.7.18|runtime-optenv32|Compliance mode enabled, was '2.7.18'<br>Possible downgrade from the current version (999 -> 2.7.18)|
+|python-3|3.10.13|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
+|python-augeas|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
+|python-build|0.8.0|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
+|python-cloudflare|2.8.15|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
+|python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
+|python-daemonize|2.5.0|3.8.0|lang-python|Compliance mode enabled, was '3.8.0'|
+|python-dbusmock|0.22.0|0.31.1|lang-python|Compliance mode enabled, was '0.31.1'|
+|python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
+|python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
+|python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
+|python-installer|0.5.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|python-kaitaistruct|0.9|0.10|lang-python|Compliance mode enabled, was '0.10'|
+|python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
+|python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
+|python-lz4|2.1.6|4.3.3|lang-python|Compliance mode enabled, was '4.3.3'|
+|python-markdown-math|0.6|0.8|lang-python|Compliance mode enabled, was '0.8'|
+|python-msgpack|1.0.2|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
+|python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
+|python-openid|2.2.5|3.2|lang-python|Compliance mode enabled, was '3.2'|
+|python-pam|1.8.4|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
+|python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compliance mode enabled, was '21.3.0'|
+|python-tabulate|0.8.3|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
+|python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
+|python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
+|pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
+|pytools|2019.1|2024.1.6|lang-python|Compliance mode enabled, was '2024.1.6'|
+|pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
+|pyusb|1.0.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
+|pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
+|pywbem|0.13.0|1.7.2|lang-python|Compliance mode enabled, was '1.7.2'|
+|pyx|0.14.1|0.16|lang-python|Compliance mode enabled, was '0.16'|
+|pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
+|pyzmq|22.3.0|26.0.3|lang-python|Compliance mode enabled, was '26.0.3'|
+|qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|qca|2.3.4|2.3.9|runtime-cryptography|Compliance mode enabled, was '2.3.9'|
+|qcef|1.1.6|1.1.8|runtime-desktop|Compliance mode enabled, was '1.1.8'|
+|qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
+|qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
+|qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
+|qhull|7.2.0|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'|
+|qjackctl|0.9.7|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
+|qmlkonsole|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
+|qmmp|1.6.5|2.1.8|app-multimedia|Compliance mode enabled, was '2.1.8'|
+|qownnotes|22.6.1|24.7.0|app-web|Compliance mode enabled, was '24.7.0'|
+|qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
+|qqc2-desktop-style|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
+|qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
+|qsynth|0.5.6|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
 |qt-5|5.15.13|5.15.14-lts-lgpl|runtime-desktop||
-|qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity||
-|qtermwidget|0.16.1|2.0.1|desktop-lxqt||
-|qtkeychain|0.13.2|0.14.3|runtime-desktop||
-|qtpy|2.1.0|2.4.1|lang-python||
-|qtractor|0.9.23|1.0.0|app-multimedia||
-|qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
-|quazip|0.9.1|1.4|runtime-common||
-|quickjs|2024.01.13|2024-01-13|lang-js||
-|qwt5|6.1.5|6.3.0|runtime-desktop||
-|qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|r|4.4.0|4.4.1|app-scientific||
-|ragel|6.10|7.0.4|app-devel||
-|random2|1.0.1|1.0.2|lang-python||
-|rapidfuzz|3.2.0|3.1.1|lang-python|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
-|rapidfuzz-cpp|2.0.0|3.0.5|runtime-common||
-|rarian|0.8.1|0.8.5|app-doc||
-|razergenie|0.9.0|1.1.0|app-devices||
-|razor-agents|2.85|2.152|app-network||
-|rb-inotify|0.10.1|0.11.1|lang-ruby||
-|rbw|1.11.0|1.11.1|app-utils||
-|rclone|1.65.2|1.67.0|app-web||
-|rcm|1.3.4|1.3.6|app-utils||
-|rdflib|6.2.0|7.0.0|lang-python||
-|rdiscount|2.2.0.2|2.2.7.3|lang-ruby||
-|rdma-core|51.0|52.0|app-admin||
+|qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
+|qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
+|qtpy|2.1.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
+|qtractor|0.9.23|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
+|qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
+|quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
+|qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
+|qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
+|r|4.4.0|4.4.1|app-scientific|Compliance mode enabled, was '4.4.1'|
+|ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
+|random2|1.0.1|1.0.2|lang-python|Compliance mode enabled, was '1.0.2'|
+|rapidfuzz|3.2.0|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'<br>Possible downgrade from the current version (3.2.0 -> 3.1.1)|
+|rapidfuzz-cpp|2.0.0|3.0.5|runtime-common|Compliance mode enabled, was '3.0.5'|
+|rarian|0.8.1|0.8.5|app-doc|Compliance mode enabled, was '0.8.5'|
+|razergenie|0.9.0|1.1.0|app-devices|Compliance mode enabled, was '1.1.0'|
+|razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
+|rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
+|rbw|1.11.0|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
+|rclone|1.65.2|1.67.0|app-web|Compliance mode enabled, was '1.67.0'|
+|rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
+|rdflib|6.2.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
+|rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
+|rdma-core|51.0|52.0|app-admin|Compliance mode enabled, was '52.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
-|re2c|1.3|3.1|runtime-common||
-|readline|8.2.1|8.2|runtime-common|Possible downgrade from the current version (8.2.1 -> 8.2)|
-|readline+32|8.2.1|8.2|runtime-optenv32|Possible downgrade from the current version (8.2.1 -> 8.2)|
-|realmd|0.17.1|0.16.3|app-network|Possible downgrade from the current version (0.17.1 -> 0.16.3)|
-|recode+32|3.6|3.7.14|runtime-optenv32||
-|recommonmark|20180907|0.7.1|lang-python|Possible downgrade from the current version (20180907 -> 0.7.1)|
-|redis|7.2.4|7.2.5|app-database||
-|redsocks2|0.67<br>+git20201229|0.1|app-network|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
-|regex|2019.02.21|2024.5.15|lang-python||
-|reiser4progs|1.2.2|1.2.2.|app-admin||
-|remmina|1.4.31|1.4.35|app-network||
-|renderdoc|1.16|1.33|app-devel||
-|repo|2.45|2.46|app-devel||
-|reportlab|3.5.50|4.2.2|lang-python||
-|reptyr|0.9.0|0.10.0|app-utils||
-|requests-cache|0.5.2|1.2.1|lang-python||
-|rest|0.8.1|0.9.1|runtime-web||
-|restic|0.16.4|0.16.5|app-utils||
-|retext|7.2.2|8.0.2|app-editors||
-|rexml|3.2.5|3.3.1|lang-ruby||
-|rfc3986|1.4.0|2.0.0|lang-python||
-|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
-|rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
-|rinutils|0.4.1|0.10.2|runtime-common||
-|rlvm|0.14<br>+git20220404|0.14|app-games|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
-|rlwrap|0.43|0.46.1|runtime-common||
-|rng-tools|6.16|6.17|app-utils||
-|robin-hood-hashing|3.11.4|3.11.5|runtime-common||
-|rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compound version number '3.15+final'|
-|rocm-bandwidth-test|6.0.2|6.1.2|runtime-rocm||
-|rocm-cmake|6.0.2|6.1.2|runtime-rocm||
-|rocm-llvm|6.0.2|6.1.2|runtime-rocm||
-|rocm-smi-lib|6.0.2|6.1.2|runtime-rocm||
-|rocminfo|6.0.2|6.1.2|runtime-rocm||
-|rocr-runtime|6.0.2|6.1.2|runtime-rocm||
-|rocs|23.08.5|24.05.2|desktop-kde||
-|roct-thunk-interface|6.0.0|6.1.2|runtime-rocm||
-|rosegarden|20.12|24.06|app-creativity||
-|rosegarden-trinity|14.1.0|14.1.2|desktop-trinity||
-|rpcsvc-proto|1.4.2|1.4.4|app-devel||
-|rpm|4.18.0|4.19.1.1-release|app-admin||
-|rrdtool|1.7.2|1.8.0|runtime-common||
-|rsa|4.0|4.9|lang-python||
-|rsync|3.2.7|3.3.0|app-network||
-|rt-tests|2.6|2.7|app-utils||
-|rtaudio|5.1.0|6.0.1|runtime-multimedia||
-|rtmidi|4.0.0|6.0.0|runtime-multimedia||
-|rtmpdump|20151223|2.3|app-network|Possible downgrade from the current version (20151223 -> 2.3)|
-|rtmpdump+32|20150114|2.3|runtime-optenv32|Possible downgrade from the current version (20150114 -> 2.3)|
-|rtslib-fb|2.1.75|2.1.76|app-admin||
-|rtv|1.27.0|1.27.1|app-web||
-|ruamel-yaml|0.17.19|0.18.6|lang-python||
-|ruamel-yaml-clib|0.2.6|0.2.8|lang-python||
-|rubberband|1.9.2|3.3.0|app-multimedia||
-|ruby|3.2.2|3.3.3|lang-ruby||
-|ruby-bundler|2.1.4|2.5.14|lang-ruby||
-|ruby-ffi|1.10.0|1.17.0|lang-ruby||
-|ruby-gettext|3.2.9|3.4.9|lang-ruby||
-|ruby-locale|2.1.3|2.1.4|lang-ruby||
-|ruby-native-package-installer|1.0.9|1.1.9|lang-ruby||
-|ruby-pg|1.1.4|1.5.6|lang-ruby||
-|ruby-pkg-config|1.4.4|1.5.6|lang-ruby||
-|runc|1.1.12|1.1.13|app-admin||
-|rustc-demangle|0.1.21|0.1.24|runtime-common||
-|rxvt-unicode|9.22|9.31|runtime-display||
-|rygel|0.40.4|0.43.0|desktop-gnome||
-|s-tui|1.1.3|1.1.6|app-utils||
-|s2tc|1.0<br>+git20210317|1.0|runtime-display|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
-|s2tc+32|20150112|1.0|runtime-optenv32|Possible downgrade from the current version (20150112 -> 1.0)|
-|s3transfer|0.5.0|0.10.2|lang-python||
-|samba|4.17.2|4.20.2|app-network||
-|samtools|1.16.1|1.20|app-scientific||
-|sane-backends|1.0.32|1.3.1|runtime-devices||
-|sanlock|3.8.5|3.9.2|app-admin||
-|sarasa-gothic-fonts|1.0.12|1.0.15|desktop-fonts||
-|sass-listen|4.0.0|3.9.0|lang-ruby|Possible downgrade from the current version (4.0.0 -> 3.9.0)|
-|sassc|3.6.1|3.6.2|app-devel||
-|sbc+32|1.3|2.0|runtime-optenv32||
-|sbcl|2.4.5|2.4.6|lang-lisp||
-|sbsigntool|0.9.4|0.9.5|app-admin||
-|sccache|0.3.3|0.8.1|app-devel||
-|scdoc|1.11.2|1.11.3|app-doc||
-|schema|0.7.5|0.7.7|lang-python||
-|scons|4.4.0|4.7.0|app-devel||
-|scour|0.37|0.38.2|app-utils||
-|scrcpy|2.4|2.5|app-devices||
-|screen|4.9.0|4.9.1|app-utils||
-|scribus|1.6.1|1.6.2|app-productivity||
-|scrot|1.10|1.11.1|app-utils||
-|scummvm|2.2.0|2.8.1|app-games||
-|sdcc|4.3.6|4.4.0|app-devel||
-|sddm-kcm|5.27.11|6.1.2|desktop-kde||
-|sdl-gfx|2.0.25|2.0.27|runtime-multimedia||
-|sdl-sound|1.0.3|2.0.2|runtime-multimedia||
-|sdl-sound+32|1.0.3|2.0.2|runtime-optenv32||
-|sdl-ttf|2.0.11|2.22.0|runtime-multimedia||
-|sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32||
-|sdl2|2.30.4|2.30.5|runtime-multimedia||
-|sdl2-image|2.0.5|2.8.2|runtime-multimedia||
-|sdl2-mixer|2.0.4|2.8.0|runtime-multimedia||
-|sdl2-net|2.0.1|2.2.0|runtime-multimedia||
-|sdl2-ttf|2.0.15|2.22.0|runtime-multimedia||
-|seahorse|42.0|43.0|desktop-gnome||
-|secretstorage|3.3.0|3.3.3|lang-python||
-|semver|2.8.1|3.0.2|lang-python||
-|sequoia-sq|0.36.0|0.37.0|app-cryptography||
-|ser2net|3.5|4.6.2|app-network||
-|serf|1.3.9|1.3.10|runtime-web||
-|service-identity|18.1.0|24.1.0|lang-python||
-|setuptools-python2|44.1.0|70.2.0|lang-python||
-|setuptools-python3|69.1.0|70.2.0|lang-python||
-|setuptools-scm|7.1.0|8.1.0|lang-python||
-|sfml|2.5.1|2.6.1|runtime-multimedia||
-|sg3-utils|1.47r915|1.48|app-admin||
-|shaderc|2023.7|2024.1|app-devel||
-|shadow|4.15.1|4.16.0|app-admin||
-|shapelib|1.5.0|1.6.0|runtime-imaging||
-|shared-color-targets|0.1.7|0_1_7|runtime-data||
-|shotcut|21.08.11|24.06.26|app-creativity||
-|shotwell|0.31.4|0.32.7|desktop-gnome||
-|showmethekey|1.12.0|1.13.1|app-utils||
-|shutter|0.94|0.99.2|app-utils||
-|siege|4.0.7|4.1.6|app-network||
-|signon|8.60|8.61|app-admin||
-|signon-kwallet-extension|23.08.5|24.05.2|desktop-kde||
-|signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
-|simgear|2020.3.13|2020.3.19|runtime-games||
-|simh|3.11<br>+1|3.12-2|app-emulation|Compound version number '3.11+1'|
-|simple-scan|42.1|46.0|desktop-gnome||
-|simplejson|3.16.0|3.19.2|lang-python||
-|simplescreenrecorder|0.4.3|0.4.4|app-multimedia||
-|sing-box|1.8.13|1.9.3|app-network||
-|singular|4.1.1|2024.06.03|app-scientific||
-|sip|6.3.1|6.8.5|lang-python||
-|skanlite|23.08.5|24.05.2|desktop-kde||
-|skanpage|23.08.5|24.05.2|desktop-kde||
-|skktools|1.3.4|1_3_4|app-i18n||
-|slick-greeter|2.0.4|2.0.5|desktop-displaymanagers||
-|slirp4netns|1.2.2|1.3.1|app-admin||
-|slock|1.4|1.5|app-utils||
-|slop|7.4|7.6|app-utils||
-|slurm|0.4.4|0.5.1|app-network||
-|smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity||
-|smartdns|35|46|app-network||
-|smartmontools|7.3|7.4|app-admin||
-|smb4k-trinity|14.1.0|14.1.2|desktop-trinity||
-|smmap|5.0.0|6.0.0|runtime-vcs||
-|smpeg|0.4.5|2_0_0|app-multimedia||
-|smpeg+32|0.4.5|2_0_0|runtime-optenv32||
-|smplayer|19.10.2|24.5.0|app-multimedia||
-|snapd|2.61.2|2.63|app-admin||
-|snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
-|snappy|1.1.8|1.2.1|runtime-common||
-|sniffio|1.3.0|1.3.1|lang-python||
-|snowball|2.1.0|2.2.0|runtime-common||
-|snowballstemmer|1.2.1|2.2.0|lang-python||
-|soci|4.0.1|4.0.3|runtime-database||
-|sof-firmware|2.2.3|2.8.1|runtime-kernel||
-|sof-tools|2.2.3|2.8.1|app-multimedia||
-|sofia-sip|1.12.11|1.13.17|runtime-web||
-|solaar|1.1.11|1.1.13|app-utils||
-|solid|5.115.0|6.1.2|desktop-kde||
-|sonic-visualiser|4.4|4.5.2|app-multimedia||
-|sonnet|5.115.0|6.1.2|desktop-kde||
-|sord|0.16.4|0.16.16|runtime-common||
-|sortedcontainers|2.3.0|2.4.0|lang-python||
-|sos|4.4|4.7.2|lang-python||
-|sound-juicer|3.38.0|3.40.0|desktop-gnome||
-|soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity||
-|soundtouch+32|1.9.2|2.3.3|runtime-optenv32||
-|soupsieve|1.8.0|2.5|lang-python||
-|sozu|0.15.2|1.0.2|app-web||
-|spamassassin|3.4.6|4.0.1|app-network||
-|spandsp|0.0.6|3.0.0|runtime-multimedia||
-|spectacle|22.12.3|24.05.2|desktop-kde||
-|speech-dispatcher|0.11.2|0.11.5|runtime-desktop||
-|speedometer|2.8|2.9|app-network||
-|speex|1.2.0|1.2.1|runtime-multimedia||
-|speex+32|1.2.0|1.2.1|runtime-optenv32||
-|spglib|1.16.2|2.4.0|runtime-scientific||
-|sphinx|7.0.1|7.3.7|app-doc||
-|sphinx-press-theme|0.8.0|0.9.1|app-doc||
-|sphinx-rtd-theme|1.0.0|2.0.0|app-doc||
-|sphinx-tabs|3.4.1|3.4.5|app-doc||
-|sphinxbase|5prealpha|0.8|app-doc|Possible downgrade from the current version (5prealpha -> 0.8)|
-|sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc||
-|sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc||
-|sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc||
-|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc||
-|sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc||
-|sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
-|spim|9.1.23|9.1.24|app-emulation||
-|spirv-headers|1.3.283.0|1.5.4.raytracing.fixed|runtime-display||
-|spirv-llvm-translator|17.0.0|18.1.2|app-devel||
-|spirv-tools|1.3.275.0|2024.3|runtime-display||
-|spread-sheet-widget|0.3|0.10|runtime-productivity||
-|sqlalchemy|1.2.18|2.0.31|lang-python||
-|sqlcipher|4.5.6|4.6.0|app-database||
-|sqlite|3.45.1|3.46.0|app-database||
-|sqlite+32|3.32.3|3.46.0|runtime-optenv32||
-|sqlite-fdw|2.1.0|2.4.0|app-database||
-|sqlitebrowser|3.12.1|83649a3-3357|app-database||
-|sqlparse|0.4.1|0.5.0|lang-python||
-|squashfs-tools|4.5|4.6.1|app-admin||
-|squashfuse|0.1.105|0.5.2|app-admin||
-|squid|5.7|6.10|app-web||
-|sra-tools|3.0.3|3.1.1|app-scientific||
-|sratom|0.6.4|0.6.16|runtime-common||
-|srecord|1.64|1.65.0|app-utils||
-|srtp+32|1.5.4|2.6.0|runtime-optenv32||
-|ss-tproxy|4.6.1|4.8|app-network||
-|sshfs|3.6.0|3.7.3|app-network||
-|sshpass|1.06|1.10|app-network||
-|sslh|1.19c|2.1.2|app-network||
-|stalonetray|0.8.4|0.8.5|desktop-wm||
-|stellarium|0.21.3|24.2|app-scientific||
-|step|23.08.5|24.05.2|desktop-kde||
-|stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
-|sticky|1.20|1.21|desktop-cinnamon||
-|stlink|1.7.0|1.8.0|app-devel||
-|stopit|0<br>+git20190827|1.1.2|lang-python|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
-|strace|6.5|6.9|app-devel||
-|streamlink|6.7.4|6.8.1|app-multimedia||
-|strongswan|5.9.4|5.9.14|app-network||
-|structlog|19.1.0|24.2.0|lang-python||
-|stubby|0.3.0|0.4.3|app-network||
-|stunnel|5.56|5.72|app-network||
-|subtitleripper|0.3.4|0.3|app-multimedia|Possible downgrade from the current version (0.3.4 -> 0.3)|
-|sudo|1.9.15p5|1_9_15p5|app-admin||
-|suitesparse|7.6.1|7.7.0|runtime-scientific||
-|sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.702.125729|app-multimedia||
-|sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|sushi|42.0|46.0|desktop-gnome||
-|svgpart|23.08.5|24.05.2|desktop-kde||
-|svt-av1|2.1.0|2.1.2|runtime-multimedia||
-|sweeper|23.08.5|24.05.2|desktop-kde||
-|swell-foop|41.1|46.0|desktop-gnome||
-|swig|4.1.1|4.2.1|app-devel||
-|sympy|1.12|1.12.1|lang-python||
-|synaptic|0.90.2|0.91.3|app-admin||
-|syncthing|1.27.3|1.27.9|app-network||
-|syncthing-gtk|0.9.4.4|0.9.4.5|app-network||
-|syndication|5.115.0|6.1.2|desktop-kde||
-|synergy|1.11.1|2.3.2|app-network||
-|syntax-highlighting|5.115.0|6.1.2|desktop-kde||
-|syslinux|6.04~pre1|6.03|app-admin|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
-|sysprof|3.44.0|46.0|desktop-gnome||
-|sysstat|12.7.5|12.7.6|app-utils||
-|system-config-printer|1.5.17|1.5.18|app-admin||
-|systemd|255.6|256|app-admin||
-|systemsettings|5.27.11|6.1.2|desktop-kde||
-|systemtap|4.4|5.1|app-utils||
-|sysv-ipc|1.0.1|1.1.0|lang-python||
-|taglib|1.11.1|2.0.1|runtime-multimedia||
-|taglib+32|1.11|2.0.1|runtime-optenv32||
-|tagparser|11.5.1|12.2.0|runtime-multimedia||
-|taisei|1.3.2|1.4.1|app-games||
-|tali|40.8|40.9|desktop-gnome||
-|talloc|2.3.4|2.4.2|runtime-common||
-|targetcli-fb|2.1.54|2.1.58|app-admin||
-|tarsnap|1.0.39|1.0.40|app-admin||
-|tastymenu-trinity|14.1.0|14.1.2|desktop-trinity||
-|tbb|2021.11.0|2021.13.0|runtime-common||
-|tbb+32|4.4u4|2021.13.0|runtime-optenv32||
-|tcl+32|8.6.10|8.6.14|runtime-optenv32||
-|tclap|1.2.2|1.2.5|runtime-common||
-|tcping|1.3.5|2.1.0|app-network||
-|tcsh|6.24.12|6.24.13|app-shells||
-|tde-common-cmake|14.1.0|14.1.2|desktop-trinity||
-|tde-i18n|14.1.0|14.1.2|desktop-trinity||
-|tde-style-baghira|14.1.0|14.1.2|desktop-trinity||
-|tde-style-domino|14.1.0|14.1.2|desktop-trinity||
-|tde-style-ia-ora|14.1.0|14.1.2|desktop-trinity||
-|tde-style-lipstik|14.1.0|14.1.2|desktop-trinity||
-|tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity||
-|tde-systemsettings|14.1.0|14.1.2|desktop-trinity||
-|tdeaccessibility|14.1.0|14.1.2|desktop-trinity||
-|tdeaddons|14.1.0|14.1.2|desktop-trinity||
-|tdeadmin|14.1.0|14.1.2|desktop-trinity||
-|tdeartwork|14.1.0|14.1.2|desktop-trinity||
-|tdebase|14.1.0|14.1.2|desktop-trinity||
-|tdebindings|14.1.0|14.1.2|desktop-trinity||
-|tdedocker|14.1.0|14.1.2|desktop-trinity||
-|tdeedu|14.1.0|14.1.2|desktop-trinity||
-|tdegames|14.1.0|14.1.2|desktop-trinity||
-|tdegraphics|14.1.0|14.1.2|desktop-trinity||
-|tdeio-appinfo|14.1.0|14.1.2|desktop-trinity||
-|tdeio-apt|14.1.0|14.1.2|desktop-trinity||
-|tdeio-ftps|14.1.0|14.1.2|desktop-trinity||
-|tdeio-locate|14.1.0|14.1.2|desktop-trinity||
-|tdeio-sword|14.1.0|14.1.2|desktop-trinity||
-|tdeio-umountwrapper|14.1.0|14.1.2|desktop-trinity||
-|tdelibs|14.1.0|14.1.2|desktop-trinity||
-|tdemultimedia|14.1.0|14.1.2|desktop-trinity||
-|tdenetwork|14.1.0|14.1.2|desktop-trinity||
-|tdenetworkmanager|14.1.0|14.1.2|desktop-trinity||
-|tdepacman|14.1.0|14.1.2|desktop-trinity||
-|tdepim|14.1.0|14.1.2|desktop-trinity||
-|tdepowersave|14.1.0|14.1.2|desktop-trinity||
-|tderadio|14.1.0|14.1.2|desktop-trinity||
-|tdesdk|14.1.0|14.1.2|desktop-trinity||
-|tdesudo|14.1.0|14.1.2|desktop-trinity||
-|tdesvn|14.1.0|14.1.2|desktop-trinity||
-|tdetoys|14.1.0|14.1.2|desktop-trinity||
-|tdeutils|14.1.0|14.1.2|desktop-trinity||
-|tdevelop|14.1.0|14.1.2|desktop-trinity||
-|tdewebdev|14.1.0|14.1.2|desktop-trinity||
-|tdmtheme|14.1.0|14.1.2|desktop-trinity||
-|tectonic|0.12.0|0.15.0|app-doc||
-|teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.2.2|app-web||
-|telepathy-accounts-signon|1.0|2.1|runtime-web||
-|telepathy-glib|0.24.1|0.24.2|runtime-web||
-|telepathy-idle|0.2.0|0.2.2|runtime-web||
-|telepathy-logger-qt|15.04.0|17.09.0|runtime-web||
-|tellico-trinity|14.1.0|14.1.2|desktop-trinity||
-|telly-skout|23.08.5|24.05.2|desktop-kde||
-|template-glib|3.28.0|3.36.2|desktop-gnome||
-|tepl|6.0.2|6.9.0|runtime-editors||
-|termcolor|1.1.0|2.4.0|lang-python||
-|terminaltables|3.1.0|3.1.10|lang-python||
-|terminator|2.1.1|2.1.4|desktop-gnome||
-|tesseract|5.3.4|5.2.1|app-utils|Possible downgrade from the current version (5.3.4 -> 5.2.1)|
-|tevent|0.13.0|0.16.1|runtime-common||
-|texlive|20220321|2024|app-doc|Possible downgrade from the current version (20220321 -> 2024)|
-|texmaker|5.1.2|5.1.4|app-doc||
-|texstudio|4.0.2|4.8.1|app-doc||
-|texworks|0.6.6|0.6.9|app-doc||
-|thedarkmod|2.09a|2.12|app-games||
-|thin-provisioning-tools|1.0.10|1.0.12|app-admin||
-|threadweaver|5.115.0|6.1.2|desktop-kde||
-|thunderbird|115.5.2|127.0|app-web||
-|tigervnc|1.12.0|1.13.1|app-network||
-|tikzplotlib|0.9.8|0.10.1|lang-python||
-|tilda|1.4.1|2.0.0|app-utils||
-|tilp|1.17|1.18|app-devices||
-|timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
-|tint2|16.7|17.0.2|desktop-wm||
-|tinycdb|0.78|0.81|app-database||
-|tinycss2|1.0.2|1.3.0|lang-python||
-|tinyproxy|1.11.1|1.11.2|app-network||
-|tk|8.6.10|8.6.14|lang-tcl||
-|tk+32|8.6.10|8.6.14|runtime-optenv32||
-|tl-expected|1.0.0|1.1.0|runtime-common||
-|tokodon|23.08.5|24.05.2|desktop-kde||
-|toml|0.10.1|0.10.2|lang-python||
-|tomlkit|0.7.0|0.12.5|lang-python||
-|toolbelt|0.9.1|1.0.0|lang-python||
-|topgrade|11.0.2|15.0.0|app-admin||
-|toposort|1.8|1.10|lang-python||
-|tork-trinity|14.1.0|14.1.2|desktop-trinity||
-|totem|42.0|43.0|desktop-gnome||
-|toxcore|0.2.18|0.2.19|app-web||
-|tpm-tools|1.3.9.1|1.3.9.2|app-admin||
-|tqca|14.1.0|14.1.2|desktop-trinity||
-|tqdm|4.62.3|4.66.4|lang-python||
-|tqt3|14.1.0|14.1.2|desktop-trinity||
-|tqtinterface|14.1.0|14.1.2|desktop-trinity||
-|trace-cmd|2.8.3|3.2|app-utils||
-|tracker-miners|3.3.1|3.7.3|desktop-gnome||
-|traitlets|5.0.5|5.14.3|lang-python||
-|transcode|1.1.7|1_1_7|app-multimedia||
-|translate-shell|0.9.7|0.9.7.1|app-i18n||
-|translate-toolkit|2.3.1|3.13.1|lang-python||
-|transmission|4.0.5|4.0.6|app-web||
-|transmission-remote-gtk|1.5.1|1.6.0|app-web||
-|trash-cli|0.17.1.14|0.24.5.26|app-utils||
-|tre|20161208|0.8.0|app-utils|Possible downgrade from the current version (20161208 -> 0.8.0)|
-|trio|0.24.0|0.25.1|lang-python||
-|trollius|2.1|2.2.1|lang-python||
-|trove-classifiers|2024.1.31|2024.7.2|lang-python||
-|tslib|1.21|1.23|runtime-devices||
-|ttf-misaki|2021.05.05|2021-05-05|desktop-fonts||
-|ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts||
-|ttf-vlgothic|20200720|20220612|desktop-fonts||
-|ttyd|1.6.3|1.7.7|app-utils||
-|tuned|2.19.0|2.23.0|app-admin||
-|twin-style-machbunt|14.1.0|14.1.2|desktop-trinity||
-|twisted|21.2.0|24.3.0|lang-python||
-|twm|1.0.11|1.0.12|desktop-wm||
-|twolame|0.3.13|0.4.0|app-multimedia||
-|twolame+32|0.3.13|0.4.0|runtime-optenv32||
-|txaio|18.8.1|23.1.1|lang-python||
-|txt2tags|3.7|3.9|app-doc||
-|txtorcon|19.1.0|23.11.0|lang-python||
-|typed-ast|1.4.3|1.5.5|lang-python||
-|typing-extensions|4.7.1|4.12.2|lang-python||
-|uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel|Compound version number '2023.07.02+3'|
-|uboot-tools|2022.10|2024.07|app-utils||
-|ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin||
-|uchardet|0.0.5|0.0.8|runtime-i18n||
-|ucx|1.15.0|1.17.0|runtime-scientific||
-|udiskie|2.2.0|2.5.3|app-utils||
-|udisks-2|2.8.4|2.10.1|app-admin||
-|udns|0.4|0.5|app-network||
-|ufw|0.36|0.36.2|app-network||
-|uget|2.2.3<br>+1|2.2.2|app-web|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
-|uhttpmock|0.5.3|0.11.0|runtime-web||
-|uim|1.8.8|1.8.9|app-i18n||
-|ujson|1.35|1.36|lang-python||
-|umbrello|23.08.5|24.05.2|desktop-kde||
-|uml-utilities|20070815.4|20070815.4.orig|app-utils|Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
-|un-fonts|1.0.2|1.0.2-080608|desktop-fonts||
-|unace|2.5|2.5.orig|app-utils|Possible downgrade from the current version (2.5 -> 2.5.orig)|
-|unar|1.10.1|1.10.8|app-utils||
+|re2c|1.3|3.1|runtime-common|Compliance mode enabled, was '3.1'|
+|readline|8.2.1|8.2|runtime-common|Compliance mode enabled, was '8.2'<br>Possible downgrade from the current version (8.2.1 -> 8.2)|
+|readline+32|8.2.1|8.2|runtime-optenv32|Compliance mode enabled, was '8.2'<br>Possible downgrade from the current version (8.2.1 -> 8.2)|
+|realmd|0.17.1|0.16.3|app-network|Compliance mode enabled, was '0.16.3'<br>Possible downgrade from the current version (0.17.1 -> 0.16.3)|
+|recode+32|3.6|3.7.14|runtime-optenv32|Compliance mode enabled, was '3.7.14'|
+|recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
+|redis|7.2.4|7.2.5|app-database|Compliance mode enabled, was '7.2.5'|
+|redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
+|regex|2019.02.21|2024.5.15|lang-python|Compliance mode enabled, was '2024.5.15'|
+|reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
+|remmina|1.4.31|1.4.35|app-network|Compliance mode enabled, was '1.4.35'|
+|renderdoc|1.16|1.33|app-devel|Compliance mode enabled, was '1.33'|
+|repo|2.45|2.46|app-devel|Compliance mode enabled, was '2.46'|
+|reportlab|3.5.50|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
+|reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
+|requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
+|rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
+|restic|0.16.4|0.16.5|app-utils|Compliance mode enabled, was '0.16.5'|
+|retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
+|rexml|3.2.5|3.3.1|lang-ruby|Compliance mode enabled, was '3.3.1'|
+|rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
+|rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
+|rinutils|0.4.1|0.10.2|runtime-common|Compliance mode enabled, was '0.10.2'|
+|rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
+|rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
+|rng-tools|6.16|6.17|app-utils|Compliance mode enabled, was '6.17'|
+|robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
+|rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
+|rocm-bandwidth-test|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocm-cmake|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocm-llvm|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocm-smi-lib|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocminfo|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocr-runtime|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|roct-thunk-interface|6.0.0|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rosegarden|20.12|24.06|app-creativity|Compliance mode enabled, was '24.06'|
+|rosegarden-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
+|rpm|4.18.0|4.19.1.1-release|app-admin|Compliance mode enabled, was '4.19.1.1-release'|
+|rrdtool|1.7.2|1.8.0|runtime-common|Compliance mode enabled, was '1.8.0'|
+|rsa|4.0|4.9|lang-python|Compliance mode enabled, was '4.9'|
+|rsync|3.2.7|3.3.0|app-network|Compliance mode enabled, was '3.3.0'|
+|rt-tests|2.6|2.7|app-utils|Compliance mode enabled, was '2.7'|
+|rtaudio|5.1.0|6.0.1|runtime-multimedia|Compliance mode enabled, was '6.0.1'|
+|rtmidi|4.0.0|6.0.0|runtime-multimedia|Compliance mode enabled, was '6.0.0'|
+|rtmpdump|20151223|2.3|app-network|Compliance mode enabled, was '2.3'<br>Possible downgrade from the current version (20151223 -> 2.3)|
+|rtmpdump+32|20150114|2.3|runtime-optenv32|Compliance mode enabled, was '2.3'<br>Possible downgrade from the current version (20150114 -> 2.3)|
+|rtslib-fb|2.1.75|2.1.76|app-admin|Compliance mode enabled, was '2.1.76'|
+|rtv|1.27.0|1.27.1|app-web|Compliance mode enabled, was '1.27.1'|
+|ruamel-yaml|0.17.19|0.18.6|lang-python|Compliance mode enabled, was '0.18.6'|
+|ruamel-yaml-clib|0.2.6|0.2.8|lang-python|Compliance mode enabled, was '0.2.8'|
+|rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
+|ruby|3.2.2|3.3.3|lang-ruby|Compliance mode enabled, was '3.3.3'|
+|ruby-bundler|2.1.4|2.5.14|lang-ruby|Compliance mode enabled, was '2.5.14'|
+|ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
+|ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
+|ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
+|ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
+|ruby-pg|1.1.4|1.5.6|lang-ruby|Compliance mode enabled, was '1.5.6'|
+|ruby-pkg-config|1.4.4|1.5.6|lang-ruby|Compliance mode enabled, was '1.5.6'|
+|runc|1.1.12|1.1.13|app-admin|Compliance mode enabled, was '1.1.13'|
+|rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
+|rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
+|rygel|0.40.4|0.43.0|desktop-gnome|Compliance mode enabled, was '0.43.0'|
+|s-tui|1.1.3|1.1.6|app-utils|Compliance mode enabled, was '1.1.6'|
+|s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
+|s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
+|s3transfer|0.5.0|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
+|samba|4.17.2|4.20.2|app-network|Compliance mode enabled, was '4.20.2'|
+|samtools|1.16.1|1.20|app-scientific|Compliance mode enabled, was '1.20'|
+|sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
+|sanlock|3.8.5|3.9.2|app-admin|Compliance mode enabled, was '3.9.2'|
+|sarasa-gothic-fonts|1.0.12|1.0.15|desktop-fonts|Compliance mode enabled, was '1.0.15'|
+|sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
+|sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
+|sbc+32|1.3|2.0|runtime-optenv32|Compliance mode enabled, was '2.0'|
+|sbcl|2.4.5|2.4.6|lang-lisp|Compliance mode enabled, was '2.4.6'|
+|sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
+|sccache|0.3.3|0.8.1|app-devel|Compliance mode enabled, was '0.8.1'|
+|scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
+|schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
+|scons|4.4.0|4.7.0|app-devel|Compliance mode enabled, was '4.7.0'|
+|scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
+|scrcpy|2.4|2.5|app-devices|Compliance mode enabled, was '2.5'|
+|screen|4.9.0|4.9.1|app-utils|Compliance mode enabled, was '4.9.1'|
+|scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
+|scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
+|scummvm|2.2.0|2.8.1|app-games|Compliance mode enabled, was '2.8.1'|
+|sdcc|4.3.6|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
+|sddm-kcm|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|sdl-gfx|2.0.25|2.0.27|runtime-multimedia|Compliance mode enabled, was '2.0.27'|
+|sdl-sound|1.0.3|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
+|sdl-sound+32|1.0.3|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
+|sdl-ttf|2.0.11|2.22.0|runtime-multimedia|Compliance mode enabled, was '2.22.0'|
+|sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32|Compliance mode enabled, was '2.22.0'|
+|sdl2|2.30.4|2.30.5|runtime-multimedia|Compliance mode enabled, was '2.30.5'|
+|sdl2-image|2.0.5|2.8.2|runtime-multimedia|Compliance mode enabled, was '2.8.2'|
+|sdl2-mixer|2.0.4|2.8.0|runtime-multimedia|Compliance mode enabled, was '2.8.0'|
+|sdl2-net|2.0.1|2.2.0|runtime-multimedia|Compliance mode enabled, was '2.2.0'|
+|sdl2-ttf|2.0.15|2.22.0|runtime-multimedia|Compliance mode enabled, was '2.22.0'|
+|seahorse|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|secretstorage|3.3.0|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
+|semver|2.8.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
+|sequoia-sq|0.36.0|0.37.0|app-cryptography|Compliance mode enabled, was '0.37.0'|
+|ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
+|serf|1.3.9|1.3.10|runtime-web|Compliance mode enabled, was '1.3.10'|
+|service-identity|18.1.0|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
+|setuptools-python2|44.1.0|70.2.0|lang-python|Compliance mode enabled, was '70.2.0'|
+|setuptools-python3|69.1.0|70.2.0|lang-python|Compliance mode enabled, was '70.2.0'|
+|setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
+|sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
+|sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
+|shaderc|2023.7|2024.1|app-devel|Compliance mode enabled, was '2024.1'|
+|shadow|4.15.1|4.16.0|app-admin|Compliance mode enabled, was '4.16.0'|
+|shapelib|1.5.0|1.6.0|runtime-imaging|Compliance mode enabled, was '1.6.0'|
+|shotcut|21.08.11|24.06.26|app-creativity|Compliance mode enabled, was '24.06.26'|
+|shotwell|0.31.4|0.32.7|desktop-gnome|Compliance mode enabled, was '0.32.7'|
+|showmethekey|1.12.0|1.13.1|app-utils|Compliance mode enabled, was '1.13.1'|
+|shutter|0.94|0.99.2|app-utils|Compliance mode enabled, was '0.99.2'|
+|siege|4.0.7|4.1.6|app-network|Compliance mode enabled, was '4.1.6'|
+|signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
+|signon-kwallet-extension|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compliance mode enabled, was '0.15'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
+|simgear|2020.3.13|2020.3.19|runtime-games|Compliance mode enabled, was '2020.3.19'|
+|simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
+|simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|simplejson|3.16.0|3.19.2|lang-python|Compliance mode enabled, was '3.19.2'|
+|simplescreenrecorder|0.4.3|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
+|sing-box|1.8.13|1.9.3|app-network|Compliance mode enabled, was '1.9.3'|
+|singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
+|sip|6.3.1|6.8.5|lang-python|Compliance mode enabled, was '6.8.5'|
+|skanlite|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|skanpage|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|slick-greeter|2.0.4|2.0.5|desktop-displaymanagers|Compliance mode enabled, was '2.0.5'|
+|slirp4netns|1.2.2|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
+|slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
+|slop|7.4|7.6|app-utils|Compliance mode enabled, was '7.6'|
+|slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
+|smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|smartdns|35|46|app-network|Compliance mode enabled, was '46'|
+|smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
+|smb4k-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
+|smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
+|smpeg+32|0.4.5|2.0.0|runtime-optenv32|Compliance mode enabled, was '2_0_0'|
+|smplayer|19.10.2|24.5.0|app-multimedia|Compliance mode enabled, was '24.5.0'|
+|snapd|2.61.2|2.63|app-admin|Compliance mode enabled, was '2.63'|
+|snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compliance mode enabled, was '0.1'|
+|snappy|1.1.8|1.2.1|runtime-common|Compliance mode enabled, was '1.2.1'|
+|sniffio|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
+|snowball|2.1.0|2.2.0|runtime-common|Compliance mode enabled, was '2.2.0'|
+|snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
+|sof-firmware|2.2.3|2.8.1|runtime-kernel|Compliance mode enabled, was '2.8.1'|
+|sof-tools|2.2.3|2.8.1|app-multimedia|Compliance mode enabled, was '2.8.1'|
+|sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
+|solaar|1.1.11|1.1.13|app-utils|Compliance mode enabled, was '1.1.13'|
+|solid|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|sonic-visualiser|4.4|4.5.2|app-multimedia|Compliance mode enabled, was '4.5.2'|
+|sonnet|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|sord|0.16.4|0.16.16|runtime-common|Compliance mode enabled, was '0.16.16'|
+|sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
+|sos|4.4|4.7.2|lang-python|Compliance mode enabled, was '4.7.2'|
+|sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
+|soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
+|soupsieve|1.8.0|2.5|lang-python|Compliance mode enabled, was '2.5'|
+|sozu|0.15.2|1.0.2|app-web|Compliance mode enabled, was '1.0.2'|
+|spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
+|spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
+|spectacle|22.12.3|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|speech-dispatcher|0.11.2|0.11.5|runtime-desktop|Compliance mode enabled, was '0.11.5'|
+|speedometer|2.8|2.9|app-network|Compliance mode enabled, was '2.9'|
+|speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
+|speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
+|spglib|1.16.2|2.4.0|runtime-scientific|Compliance mode enabled, was '2.4.0'|
+|sphinx|7.0.1|7.3.7|app-doc|Compliance mode enabled, was '7.3.7'|
+|sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
+|sphinx-rtd-theme|1.0.0|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
+|sphinx-tabs|3.4.1|3.4.5|app-doc|Compliance mode enabled, was '3.4.5'|
+|sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
+|sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc|Compliance mode enabled, was '1.0.8'|
+|sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc|Compliance mode enabled, was '1.0.6'|
+|sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc|Compliance mode enabled, was '2.0.5'|
+|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc|Compliance mode enabled, was '1.0.7'|
+|sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc|Compliance mode enabled, was '1.1.10'|
+|sphinxcontrib-websupport|1.2.4|1.2.7|app-doc|Compliance mode enabled, was '1.2.7'|
+|spim|9.1.23|9.1.24|app-emulation|Compliance mode enabled, was '9.1.24'|
+|spirv-headers|1.3.283.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
+|spirv-llvm-translator|17.0.0|18.1.2|app-devel|Compliance mode enabled, was '18.1.2'|
+|spirv-tools|1.3.275.0|2024.3|runtime-display|Compliance mode enabled, was '2024.3'|
+|spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
+|sqlalchemy|1.2.18|2.0.31|lang-python|Compliance mode enabled, was '2.0.31'|
+|sqlcipher|4.5.6|4.6.0|app-database|Compliance mode enabled, was '4.6.0'|
+|sqlite|3.45.1|3.46.0|app-database|Compliance mode enabled, was '3.46.0'|
+|sqlite+32|3.32.3|3.46.0|runtime-optenv32|Compliance mode enabled, was '3.46.0'|
+|sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
+|sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
+|sqlparse|0.4.1|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
+|squashfs-tools|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
+|squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
+|squid|5.7|6.10|app-web|Compliance mode enabled, was '6.10'|
+|sra-tools|3.0.3|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
+|sratom|0.6.4|0.6.16|runtime-common|Compliance mode enabled, was '0.6.16'|
+|srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
+|srtp+32|1.5.4|2.6.0|runtime-optenv32|Compliance mode enabled, was '2.6.0'|
+|ss-tproxy|4.6.1|4.8|app-network|Compliance mode enabled, was '4.8'|
+|sshfs|3.6.0|3.7.3|app-network|Compliance mode enabled, was '3.7.3'|
+|sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
+|sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
+|stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
+|stellarium|0.21.3|24.2|app-scientific|Compliance mode enabled, was '24.2'|
+|step|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compliance mode enabled, was '5.0.12'|
+|sticky|1.20|1.21|desktop-cinnamon|Compliance mode enabled, was '1.21'|
+|stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
+|stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
+|strace|6.5|6.9|app-devel|Compliance mode enabled, was '6.9'|
+|streamlink|6.7.4|6.8.1|app-multimedia|Compliance mode enabled, was '6.8.1'|
+|strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
+|structlog|19.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
+|stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
+|stunnel|5.56|5.72|app-network|Compliance mode enabled, was '5.72'|
+|subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
+|suitesparse|7.6.1|7.7.0|runtime-scientific|Compliance mode enabled, was '7.7.0'|
+|sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
+|sunshine|0.23.0|2024.702.125729|app-multimedia|Compliance mode enabled, was '2024.702.125729'|
+|sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
+|sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|svgpart|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|svt-av1|2.1.0|2.1.2|runtime-multimedia|Compliance mode enabled, was '2.1.2'|
+|sweeper|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
+|sympy|1.12|1.12.1|lang-python|Compliance mode enabled, was '1.12.1'|
+|synaptic|0.90.2|0.91.3|app-admin|Compliance mode enabled, was '0.91.3'|
+|syncthing|1.27.3|1.27.9|app-network|Compliance mode enabled, was '1.27.9'|
+|syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
+|syndication|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
+|syntax-highlighting|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
+|sysprof|3.44.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|sysstat|12.7.5|12.7.6|app-utils|Compliance mode enabled, was '12.7.6'|
+|system-config-printer|1.5.17|1.5.18|app-admin|Compliance mode enabled, was '1.5.18'|
+|systemd|255.6|256|app-admin|Compliance mode enabled, was '256'|
+|systemsettings|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
+|sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
+|taglib|1.11.1|2.0.1|runtime-multimedia|Compliance mode enabled, was '2.0.1'|
+|taglib+32|1.11|2.0.1|runtime-optenv32|Compliance mode enabled, was '2.0.1'|
+|tagparser|11.5.1|12.2.0|runtime-multimedia|Compliance mode enabled, was '12.2.0'|
+|taisei|1.3.2|1.4.1|app-games|Compliance mode enabled, was '1.4.1'|
+|tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
+|talloc|2.3.4|2.4.2|runtime-common|Compliance mode enabled, was '2.4.2'|
+|targetcli-fb|2.1.54|2.1.58|app-admin|Compliance mode enabled, was '2.1.58'|
+|tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
+|tastymenu-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tbb|2021.11.0|2021.13.0|runtime-common|Compliance mode enabled, was '2021.13.0'|
+|tbb+32|4.4u4|2021.13.0|runtime-optenv32|Compliance mode enabled, was '2021.13.0'|
+|tcl+32|8.6.10|8.6.14|runtime-optenv32|Compliance mode enabled, was '8.6.14'|
+|tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
+|tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
+|tcsh|6.24.12|6.24.13|app-shells|Compliance mode enabled, was '6.24.13'|
+|tde-common-cmake|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-i18n|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-style-baghira|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-style-domino|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-style-ia-ora|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-style-lipstik|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-style-qtcurve|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tde-systemsettings|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeaccessibility|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeaddons|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeadmin|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeartwork|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdebase|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdebindings|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdedocker|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeedu|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdegames|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdegraphics|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-appinfo|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-apt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-ftps|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-locate|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-sword|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeio-umountwrapper|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdelibs|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdemultimedia|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdenetwork|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdenetworkmanager|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdepacman|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdepim|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdepowersave|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tderadio|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdesdk|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdesudo|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdesvn|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdetoys|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdeutils|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdevelop|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdewebdev|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tdmtheme|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
+|teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
+|telegram-desktop|5.0.1|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
+|telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
+|telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
+|telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
+|telepathy-logger-qt|15.04.0|17.09.0|runtime-web|Compliance mode enabled, was '17.09.0'|
+|tellico-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|telly-skout|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|template-glib|3.28.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
+|tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
+|termcolor|1.1.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
+|terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
+|terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
+|tesseract|5.3.4|5.2.1|app-utils|Compliance mode enabled, was '5.2.1'<br>Possible downgrade from the current version (5.3.4 -> 5.2.1)|
+|tevent|0.13.0|0.16.1|runtime-common|Compliance mode enabled, was '0.16.1'|
+|texlive|20220321|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20220321 -> 2024)|
+|texmaker|5.1.2|5.1.4|app-doc|Compliance mode enabled, was '5.1.4'|
+|texstudio|4.0.2|4.8.1|app-doc|Compliance mode enabled, was '4.8.1'|
+|texworks|0.6.6|0.6.9|app-doc|Compliance mode enabled, was '0.6.9'|
+|thedarkmod|2.09a|2.12|app-games|Compliance mode enabled, was '2.12'|
+|thin-provisioning-tools|1.0.10|1.0.12|app-admin|Compliance mode enabled, was '1.0.12'|
+|threadweaver|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|thunderbird|115.5.2|127.0|app-web|Compliance mode enabled, was '127.0'|
+|tigervnc|1.12.0|1.13.1|app-network|Compliance mode enabled, was '1.13.1'|
+|tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
+|tilda|1.4.1|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'|
+|tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
+|timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
+|tint2|16.7|17.0.2|desktop-wm|Compliance mode enabled, was '17.0.2'|
+|tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
+|tinycss2|1.0.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
+|tinyproxy|1.11.1|1.11.2|app-network|Compliance mode enabled, was '1.11.2'|
+|tk|8.6.10|8.6.14|lang-tcl|Compliance mode enabled, was '8.6.14'|
+|tk+32|8.6.10|8.6.14|runtime-optenv32|Compliance mode enabled, was '8.6.14'|
+|tl-expected|1.0.0|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
+|tokodon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|toml|0.10.1|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
+|tomlkit|0.7.0|0.12.5|lang-python|Compliance mode enabled, was '0.12.5'|
+|toolbelt|0.9.1|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
+|topgrade|11.0.2|15.0.0|app-admin|Compliance mode enabled, was '15.0.0'|
+|toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
+|tork-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|totem|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
+|tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
+|tqca|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tqdm|4.62.3|4.66.4|lang-python|Compliance mode enabled, was '4.66.4'|
+|tqt3|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|tqtinterface|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|trace-cmd|2.8.3|3.2|app-utils|Compliance mode enabled, was '3.2'|
+|tracker-miners|3.3.1|3.7.3|desktop-gnome|Compliance mode enabled, was '3.7.3'|
+|traitlets|5.0.5|5.14.3|lang-python|Compliance mode enabled, was '5.14.3'|
+|translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
+|translate-toolkit|2.3.1|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
+|transmission|4.0.5|4.0.6|app-web|Compliance mode enabled, was '4.0.6'|
+|transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
+|trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
+|tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
+|trio|0.24.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
+|trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
+|trove-classifiers|2024.1.31|2024.7.2|lang-python|Compliance mode enabled, was '2024.7.2'|
+|tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
+|ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
+|ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
+|ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
+|tuned|2.19.0|2.23.0|app-admin|Compliance mode enabled, was '2.23.0'|
+|twin-style-machbunt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|twisted|21.2.0|24.3.0|lang-python|Compliance mode enabled, was '24.3.0'|
+|twm|1.0.11|1.0.12|desktop-wm|Compliance mode enabled, was '1.0.12'|
+|twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
+|twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
+|txaio|18.8.1|23.1.1|lang-python|Compliance mode enabled, was '23.1.1'|
+|txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
+|txtorcon|19.1.0|23.11.0|lang-python|Compliance mode enabled, was '23.11.0'|
+|typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
+|typing-extensions|4.7.1|4.12.2|lang-python|Compliance mode enabled, was '4.12.2'|
+|uboot-asahi|2023.07.02<br>+3|2024.04+1|runtime-kernel|Compliance mode enabled, was '2024.04-1'|
+|uboot-tools|2022.10|2024.07|app-utils|Compliance mode enabled, was '2024.07'|
+|ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
+|uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
+|ucx|1.15.0|1.17.0|runtime-scientific|Compliance mode enabled, was '1.17.0'|
+|udiskie|2.2.0|2.5.3|app-utils|Compliance mode enabled, was '2.5.3'|
+|udisks-2|2.8.4|2.10.1|app-admin|Compliance mode enabled, was '2.10.1'|
+|udns|0.4|0.5|app-network|Compliance mode enabled, was '0.5'|
+|ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
+|uget|2.2.3<br>+1|2.2.2|app-web|Compliance mode enabled, was '2.2.2'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
+|uhttpmock|0.5.3|0.11.0|runtime-web|Compliance mode enabled, was '0.11.0'|
+|uim|1.8.8|1.8.9|app-i18n|Compliance mode enabled, was '1.8.9'|
+|ujson|1.35|1.36|lang-python|Compliance mode enabled, was '1.36'|
+|umbrello|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|uml-utilities|20070815.4|20070815.4.orig|app-utils|Compliance mode enabled, was '20070815.4.orig'<br>Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
+|un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
+|unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
+|unar|1.10.1|1.10.8|app-utils|Compliance mode enabled, was '1.10.8'|
 |unbound|1.19.2|1.20.0|app-network||
-|uncrustify|0.78.1|0.79.0|app-devel||
-|unidecode|1.0.23|1.3.8|lang-python||
-|unixodbc|2.3.9|2.3.12|app-database||
-|unnamed-sdvx-clone|0.5.0|0.6.0|app-games||
-|unpaper|20190211|7.0.0|app-doc|Possible downgrade from the current version (20190211 -> 7.0.0)|
-|unrar|6.2.2|6.2.12|app-utils||
-|unrpyc|1.1.6|2.0.2|app-games||
-|unshield|1.4.3|1.5.1|app-utils||
-|upx|4.2.1|4.2.4|app-devel||
-|urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
-|uritemplate|3.0.1|4.1.1|lang-python||
-|urlgrabber|3.10.2|4.1.0|lang-python||
-|urllib3|2.2.1|2.2.2|lang-python||
-|urwid|2.1.2|2.6.15|lang-python||
-|usb-modeswitch|2.6.0|2.6.1|app-utils||
-|usbredir|0.8.0|0.14.0|runtime-devices||
-|utfcpp|3.2.1|4.0.5|runtime-common||
-|uthash|2.1.0|2.3.0|runtime-common||
-|util-linux|2.40.1|2.40.2|app-utils||
-|util-linux+32|2.29.2|2.40.2|runtime-optenv32||
-|util-macros+32|999|1.20.1|runtime-optenv32|Possible downgrade from the current version (999 -> 1.20.1)|
-|v4l-utils|1.22.1|1.26.1|app-multimedia||
-|v4l-utils+32|1.18.0|1.26.1|runtime-optenv32||
-|vala|0.56.16|0.56.17|app-devel||
-|vala-panel-appmenu|0.7.4|24.05|runtime-desktop||
-|valgrind|3.22.0|3.23.0|app-devel||
-|vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia||
-|vapoursynth|57|68|app-multimedia||
-|variety|0.7.1|0.8.12|app-utils||
-|vasm|1.9f|1.9.f|app-devel||
-|vba-m|2.1.8|2.1.9|app-games||
-|vc|1.4.4|1.4.5|app-devel||
-|vdpauinfo|1.0|1.5|app-utils||
-|verdict|1.4.1|1.4.2|runtime-scientific||
-|verilator|4.204|5.026|app-electronics||
-|versioningit|3.0.0|3.1.1|app-devel||
-|vgmstream|20191206|1879|runtime-multimedia|Possible downgrade from the current version (20191206 -> 1879)|
-|vice|3.5|3.8|app-emulation||
-|vicious|2.3.3|2.7.0|desktop-wm||
-|vid.stab|0.98b|1.1.1|runtime-multimedia||
-|vim|9.1.0446|9.1.0516|app-editors||
-|virglrenderer|0.10.4|1.0.1|app-virtualization||
-|virtualenv|20.25.0|20.26.3|lang-python||
-|virtualgl+32|2.5.2|3.1.1|runtime-optenv32||
-|vkd3d|1.9|1.12|runtime-display||
-|vkd3d+32|1.9|1.12|runtime-optenv32||
-|vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
-|vmpk|0.8.0|0.9.0|app-creativity||
-|vnstat|2.4|2.12|app-network||
-|volk|2.5.0|3.1.2|runtime-common||
-|vorbis-tools|1.4.0|1.4.2|app-multimedia||
-|vpnc|0.5.3r550|0.5.3|app-network||
-|vscode|1.90.2|1.91.0|app-editors||
-|vsftpd|3.0.3|3.0.5|app-network||
-|vte|0.68.0|0.76.3|runtime-desktop||
-|vtk|9.3.0|9.3.1|app-scientific||
-|vulkan-extensionlayer|1.3.283.0|1.3.289|runtime-display||
-|vulkan-headers|1.3.283.0|1.3.289|runtime-display||
-|vulkan-headers+32|1.3.283.0|1.3.289|runtime-optenv32||
-|vulkan-loader|1.3.283.0|1.3.289|runtime-display||
-|vulkan-loader+32|1.3.283.0|1.3.289|runtime-optenv32||
-|vulkan-tools|1.3.283.0|1.3.283|app-utils||
-|vulkan-tools+32|1.3.283.0|1.3.283|runtime-optenv32||
-|vulkan-utility-libraries|1.3.283.0|1.3.289|runtime-display||
-|vulkan-validationlayers|1.3.283.0|1.3.289|runtime-display||
-|warpinator|1.6.3|1.8.5|desktop-cinnamon||
-|warzone2100|4.1.3|4.5.0|app-games||
-|watchman|4.9.0|2024.07.01.00|app-utils||
-|wavpack|5.2.0|5.7.0|app-multimedia||
-|wavpack+32|5.2.0|5.7.0|runtime-optenv32||
-|wayland|1.22.0|1.23.0|runtime-display||
-|wcslib|6.4|8.3|runtime-scientific||
-|wcwidth|0.1.8|0.2.13|lang-python||
-|wdm|1.28|1.29|desktop-displaymanagers||
-|webencodings|0.5|0.5.1|lang-python||
-|webrtc-audio-processing|0.3|1.3|runtime-multimedia||
-|websocket-client|1.7.0|1.8.0|lang-python||
-|websockets|12.0|1.4.4|lang-python|Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.3.4|app-web||
-|weka|3.9.2|8.0.0|app-scientific||
-|werkzeug|1.0.1|3.0.3|lang-python||
-|wesnoth|1.16.10|1.19.1|app-games||
-|weston|13.0.0|13.0.3|runtime-display||
-|wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compound version number '20240203+110809+5046fc22'|
-|wheel|0.42.0|0.43.0|lang-python||
-|wheezy.template|3.1.0|3.2.2|lang-python||
-|wikipedia|1.4.0|1.4.5|lang-python||
-|wildmidi|0.4.3|0.4.6|app-multimedia||
-|wildmidi+32|0.4.3|0.4.6|runtime-optenv32||
-|windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
+|uncrustify|0.78.1|0.79.0|app-devel|Compliance mode enabled, was '0.79.0'|
+|unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
+|unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
+|unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
+|unpaper|20190211|7.0.0|app-doc|Compliance mode enabled, was '7.0.0'<br>Possible downgrade from the current version (20190211 -> 7.0.0)|
+|unrar|6.2.2|6.2.12|app-utils|Compliance mode enabled, was '6.2.12'|
+|unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
+|unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
+|upx|4.2.1|4.2.4|app-devel|Compliance mode enabled, was '4.2.4'|
+|urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
+|uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
+|urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
+|urllib3|2.2.1|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
+|urwid|2.1.2|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
+|usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
+|usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
+|utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
+|uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
+|util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
+|util-linux+32|2.29.2|2.40.2|runtime-optenv32|Compliance mode enabled, was '2.40.2'|
+|util-macros+32|999|1.20.1|runtime-optenv32|Compliance mode enabled, was '1.20.1'<br>Possible downgrade from the current version (999 -> 1.20.1)|
+|v4l-utils|1.22.1|1.26.1|app-multimedia|Compliance mode enabled, was '1.26.1'|
+|v4l-utils+32|1.18.0|1.26.1|runtime-optenv32|Compliance mode enabled, was '1.26.1'|
+|vala|0.56.16|0.56.17|app-devel|Compliance mode enabled, was '0.56.17'|
+|vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
+|valgrind|3.22.0|3.23.0|app-devel|Compliance mode enabled, was '3.23.0'|
+|vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
+|vapoursynth|57|68|app-multimedia|Compliance mode enabled, was '68'|
+|variety|0.7.1|0.8.12|app-utils|Compliance mode enabled, was '0.8.12'|
+|vasm|1.9f|1.9.f|app-devel|Compliance mode enabled, was '1.9.f'|
+|vba-m|2.1.8|2.1.9|app-games|Compliance mode enabled, was '2.1.9'|
+|vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
+|vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
+|verdict|1.4.1|1.4.2|runtime-scientific|Compliance mode enabled, was '1.4.2'|
+|verilator|4.204|5.026|app-electronics|Compliance mode enabled, was '5.026'|
+|versioningit|3.0.0|3.1.1|app-devel|Compliance mode enabled, was '3.1.1'|
+|vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
+|vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
+|vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
+|vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
+|vim|9.1.0446|9.1.0516|app-editors|Compliance mode enabled, was '9.1.0516'|
+|virglrenderer|0.10.4|1.0.1|app-virtualization|Compliance mode enabled, was '1.0.1'|
+|virtualenv|20.25.0|20.26.3|lang-python|Compliance mode enabled, was '20.26.3'|
+|virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
+|vkd3d|1.9|1.12|runtime-display|Compliance mode enabled, was '1.12'|
+|vkd3d+32|1.9|1.12|runtime-optenv32|Compliance mode enabled, was '1.12'|
+|vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
+|vmpk|0.8.0|0.9.0|app-creativity|Compliance mode enabled, was '0.9.0'|
+|vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
+|volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
+|vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
+|vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vscode|1.90.2|1.91.0|app-editors|Compliance mode enabled, was '1.91.0'|
+|vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
+|vte|0.68.0|0.76.3|runtime-desktop|Compliance mode enabled, was '0.76.3'|
+|vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
+|vulkan-extensionlayer|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
+|vulkan-headers|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
+|vulkan-headers+32|1.3.283.0|1.3.289|runtime-optenv32|Compliance mode enabled, was '1.3.289'|
+|vulkan-loader|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
+|vulkan-loader+32|1.3.283.0|1.3.289|runtime-optenv32|Compliance mode enabled, was '1.3.289'|
+|vulkan-tools|1.3.283.0|1.3.283|app-utils|Compliance mode enabled, was '1.3.283'|
+|vulkan-tools+32|1.3.283.0|1.3.283|runtime-optenv32|Compliance mode enabled, was '1.3.283'|
+|vulkan-utility-libraries|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
+|vulkan-validationlayers|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
+|warpinator|1.6.3|1.8.5|desktop-cinnamon|Compliance mode enabled, was '1.8.5'|
+|warzone2100|4.1.3|4.5.0|app-games|Compliance mode enabled, was '4.5.0'|
+|watchman|4.9.0|2024.07.01.00|app-utils|Compliance mode enabled, was '2024.07.01.00'|
+|wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
+|wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
+|wayland|1.22.0|1.23.0|runtime-display|Compliance mode enabled, was '1.23.0'|
+|wcslib|6.4|8.3|runtime-scientific|Compliance mode enabled, was '8.3'|
+|wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
+|wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
+|webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
+|webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
+|websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
+|websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
+|weechat|4.2.2|4.3.4|app-web|Compliance mode enabled, was '4.3.4'|
+|weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
+|werkzeug|1.0.1|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
+|wesnoth|1.16.10|1.19.1|app-games|Compliance mode enabled, was '1.19.1'|
+|weston|13.0.0|13.0.3|runtime-display|Compliance mode enabled, was '13.0.3'|
+|wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
+|wheel|0.42.0|0.43.0|lang-python|Compliance mode enabled, was '0.43.0'|
+|wheezy.template|3.1.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
+|wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
+|wildmidi|0.4.3|0.4.6|app-multimedia|Compliance mode enabled, was '0.4.6'|
+|wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
+|windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wine|9.9|9.12|app-emulation||
-|wireguard|1|0.0.20191219|app-network|Possible downgrade from the current version (1 -> 0.0.20191219)|
-|wireless-regdb|2024.05.08|2024.07.04|app-network||
-|wireless-tools|30.pre9|29|app-network|Possible downgrade from the current version (30.pre9 -> 29)|
-|wmutils|20170223|1.7|app-utils|Possible downgrade from the current version (20170223 -> 1.7)|
-|wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
-|wpebackend-fdo|1.12.1|1.14.2|runtime-web||
-|wqy-unibit|1.1.0|4.3.0|desktop-fonts||
-|wrapt|1.11.2|1.16.0|lang-python||
-|wrk|4.1.0|4.2.0|app-network||
-|wsproto|1.0.0|1.2.0|lang-python||
-|wtforms|2.2.1|3.1.2|lang-python||
-|wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32||
-|wxmaxima|22.05.0|24.05.0|app-scientific||
-|wxwidgets|3.2.4|3.2.5|runtime-desktop||
-|x11-proto+32|2019.2|2024.1|runtime-optenv32||
-|x264|0<br>+git20240305|3191|runtime-multimedia|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
-|x264+32|20160827.2245|3191|runtime-optenv32|Possible downgrade from the current version (20160827.2245 -> 3191)|
-|x265+32|2.2|3.6|runtime-optenv32||
-|xalan-c|1.12|1.12.0|app-doc||
-|xapian-core|1.4.18|1.4.25|runtime-common||
-|xapps|2.8.2|2.8.4|runtime-desktop||
-|xarchiver|0.5.4.15|0.5.4.23|app-utils||
-|xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-proto|1.16.0|1.17.0|runtime-display||
-|xcb-proto+32|1.14|1.17.0|runtime-optenv32||
-|xcffib|0.7.0|1.5.0|lang-python||
-|xclip|20191017|0.13|app-utils|Possible downgrade from the current version (20191017 -> 0.13)|
-|xcompmgr|1.1.8|1.1.9|desktop-wm||
-|xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop||
-|xdg-desktop-portal|1.16.0|1.18.4|app-admin||
-|xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome||
-|xdg-desktop-portal-kde|5.27.11|6.1.2|desktop-kde||
-|xdg-user-dirs|0.17|0.18|app-admin||
-|xdg-user-dirs-gtk|0.10|0.11|desktop-gnome||
-|xdg-utils|1.1.3|1.2.1|app-utils||
-|xerces-c|3.2.3|3.2.5|runtime-common||
-|xf86-input-elographics|1.4.3|1.4.4|runtime-display||
-|xf86-input-wacom|1.2.0|1.2.2|runtime-display||
-|xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
-|xf86-video-r128|6.12.1|6.9.7|runtime-display|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
-|xfe|1.46.1|1.46.2|app-utils||
-|xine-ui|0.99.12|0.99.14|app-multimedia||
-|xinetd|2.3.15|2.3.15.4|app-network||
-|xjadeo|0.8.13|0.8.14|app-multimedia||
-|xkeyboard-config|2.40|2.42|runtime-display||
-|xl2tpd|1.3.15|1.3.18|app-network||
-|xmlrpc-c|1.54.06|1.59.03|runtime-common||
-|xmlsec|1.2.36|1.3.4|runtime-common||
-|xournalpp|1.1.3|1.2.3|runtime-productivity||
-|xpra|5.0.8|6.0.1|app-network||
-|xray|1.8.4|1.8.16|app-network||
-|xray-plugin|1.8.11|1.8.15|app-network||
-|xreader|3.8.5|4.2.1|app-doc||
-|xscreensaver|6.08|6.09|app-utils||
-|xsd|4.1.0~alpha11|4.0.0|app-devel|Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
-|xsel|1.2.0|1.2.1|app-utils||
-|xsimd|10.0.0|13.0.0|runtime-common||
-|xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
-|xterm|390|392|app-utils||
-|xviewer|3.0.2|3.4.5|app-imaging||
-|xxhash|0.8.1|0.8.2|runtime-common||
-|xz+32|5.4.1|5.6.2|runtime-optenv32||
-|yad|14.0|14.1|app-utils||
-|yakuake|23.08.5|24.05.2|desktop-kde||
-|yakuake-trinity|14.1.0|14.1.2|desktop-trinity||
-|yaml-cpp|0.6.3|0.8.0|runtime-common||
-|yara|4.5.0|4.5.1|app-utils||
-|yard|0.9.26|0.9.36|app-doc||
-|yaspin|1.2.0|3.0.2|lang-python||
-|yaz|5.34.0|5.34.1|runtime-web||
-|yelp|42.1|42.2|desktop-gnome||
-|yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compound version number '0.4.8+2'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.41|0.42|app-electronics||
-|you-get|0.4.1700|0.4.1710|app-multimedia||
-|yt-dlp|2024.05.27|2024.07.02|app-multimedia||
-|ytmusicapi|1.7.2|1.7.4|lang-python||
-|yubico-pam|2.26|2.27|app-devices||
-|yubico-piv-tool|2.3.1|2.5.2|app-devices||
-|yubikey-manager|4.0.1|5.5.1|app-devices||
-|yubikey-manager-qt|1.2.1|1.2.6|app-devices||
-|yubioath-desktop|5.1.0|7.0.1|app-devices||
-|yuzu|1582|1732|app-games||
-|zanshin|23.08.5|24.05.2|desktop-kde||
-|zarith|1.9.1|1.13|lang-ocaml||
-|zbar|0.23.90|0.23.93|app-utils||
-|zeal|0.7.0|0.7.1|app-doc||
-|zenity|3.42.1|4.0.1|desktop-gnome||
-|zeroconf|0.28.6|0.132.2|lang-python||
-|zerotier-one|1.12.2|1.14.0|app-network||
-|zfec|1.5.3|1.5.7.4|lang-python||
-|zig|0.12.0|0.13.0|lang-ziglang||
-|zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia||
-|zita-resampler|1.8.0|1.11.2|runtime-multimedia||
-|zlib-static|1.2.12|1.3.1|runtime-common||
-|zmusic|1.1.8|1.1.13|app-games||
-|znc|1.8.2|1.9.1|app-web||
-|zola|0.18.0|0.19.1|app-web||
-|zope-component|4.4.1|6.0|lang-python||
-|zope-event|4.3.0|5.0|lang-python||
-|zope-interface|5.4.0|6.4.post2|lang-python||
-|zotero|6.0.26|6.0.37|app-productivity||
-|zshdb|1.1.3|1.1.4|app-shells||
-|zutils|1.7|1.13|app-utils||
-|zvbi|0.2.35|0.2.42|runtime-multimedia||
-|zxing-cpp|1.4.0|2.2.1|app-utils||
-|zxtune|5053|5061|app-multimedia||
-|zyn-fusion|3.0.5|3.0.6|app-multimedia||
-|zziplib|0.13.75|0.13.77|runtime-common||
+|wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
+|wireless-regdb|2024.05.08|2024.07.04|app-network|Compliance mode enabled, was '2024.07.04'|
+|wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
+|wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
+|wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Compliance mode enabled, was '5.7.0-stable'<br>Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
+|wpebackend-fdo|1.12.1|1.14.2|runtime-web|Compliance mode enabled, was '1.14.2'|
+|wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
+|wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
+|wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
+|wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
+|wtforms|2.2.1|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
+|wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32|Compliance mode enabled, was '3.2.5'|
+|wxmaxima|22.05.0|24.05.0|app-scientific|Compliance mode enabled, was '24.05.0'|
+|wxwidgets|3.2.4|3.2.5|runtime-desktop|Compliance mode enabled, was '3.2.5'|
+|x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
+|x264|0<br>+git20240305|3191|runtime-multimedia|Compliance mode enabled, was '3191'|
+|x264+32|20160827.2245|3191|runtime-optenv32|Compliance mode enabled, was '3191'<br>Possible downgrade from the current version (20160827.2245 -> 3191)|
+|x265+32|2.2|3.6|runtime-optenv32|Compliance mode enabled, was '3.6'|
+|xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
+|xapian-core|1.4.18|1.4.25|runtime-common|Compliance mode enabled, was '1.4.25'|
+|xapps|2.8.2|2.8.4|runtime-desktop|Compliance mode enabled, was '2.8.4'|
+|xarchiver|0.5.4.15|0.5.4.23|app-utils|Compliance mode enabled, was '0.5.4.23'|
+|xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
+|xcb-proto|1.16.0|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
+|xcb-proto+32|1.14|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
+|xcffib|0.7.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
+|xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
+|xcompmgr|1.1.8|1.1.9|desktop-wm|Compliance mode enabled, was '1.1.9'|
+|xdg-dbus-proxy|0.1.2|0.1.5|runtime-desktop|Compliance mode enabled, was '0.1.5'|
+|xdg-desktop-portal|1.16.0|1.18.4|app-admin|Compliance mode enabled, was '1.18.4'|
+|xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|xdg-desktop-portal-kde|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
+|xdg-user-dirs|0.17|0.18|app-admin|Compliance mode enabled, was '0.18'|
+|xdg-user-dirs-gtk|0.10|0.11|desktop-gnome|Compliance mode enabled, was '0.11'|
+|xdg-utils|1.1.3|1.2.1|app-utils|Compliance mode enabled, was '1.2.1'|
+|xerces-c|3.2.3|3.2.5|runtime-common|Compliance mode enabled, was '3.2.5'|
+|xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
+|xf86-input-wacom|1.2.0|1.2.2|runtime-display|Compliance mode enabled, was '1.2.2'|
+|xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
+|xf86-video-r128|6.12.1|6.9.7|runtime-display|Compliance mode enabled, was '6.9.7'<br>Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
+|xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
+|xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
+|xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
+|xkeyboard-config|2.40|2.42|runtime-display|Compliance mode enabled, was '2.42'|
+|xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
+|xmlrpc-c|1.54.06|1.59.03|runtime-common|Compliance mode enabled, was '1.59.03'|
+|xmlsec|1.2.36|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
+|xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
+|xpra|5.0.8|6.0.1|app-network|Compliance mode enabled, was '6.0.1'|
+|xray|1.8.4|1.8.16|app-network|Compliance mode enabled, was '1.8.16'|
+|xray-plugin|1.8.11|1.8.15|app-network|Compliance mode enabled, was '1.8.15'|
+|xreader|3.8.5|4.2.1|app-doc|Compliance mode enabled, was '4.2.1'|
+|xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
+|xsd|4.1.0~alpha11|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'<br>Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
+|xsel|1.2.0|1.2.1|app-utils|Compliance mode enabled, was '1.2.1'|
+|xsimd|10.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
+|xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
+|xterm|390|392|app-utils|Compliance mode enabled, was '392'|
+|xviewer|3.0.2|3.4.5|app-imaging|Compliance mode enabled, was '3.4.5'|
+|xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
+|xz+32|5.4.1|5.6.2|runtime-optenv32|Compliance mode enabled, was '5.6.2'|
+|yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
+|yakuake|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|yakuake-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
+|yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
+|yara|4.5.0|4.5.1|app-utils|Compliance mode enabled, was '4.5.1'|
+|yard|0.9.26|0.9.36|app-doc|Compliance mode enabled, was '0.9.36'|
+|yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
+|yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
+|yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
+|yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
+|yosys|0.41|0.42|app-electronics|Compliance mode enabled, was '0.42'|
+|you-get|0.4.1700|0.4.1710|app-multimedia|Compliance mode enabled, was '0.4.1710'|
+|yt-dlp|2024.05.27|2024.07.02|app-multimedia|Compliance mode enabled, was '2024.07.02'|
+|ytmusicapi|1.7.2|1.7.4|lang-python|Compliance mode enabled, was '1.7.4'|
+|yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
+|yubico-piv-tool|2.3.1|2.5.2|app-devices|Compliance mode enabled, was '2.5.2'|
+|yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
+|yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
+|yubioath-desktop|5.1.0|7.0.1|app-devices|Compliance mode enabled, was '7.0.1'|
+|yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
+|zanshin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|zarith|1.9.1|1.13|lang-ocaml|Compliance mode enabled, was '1.13'|
+|zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
+|zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
+|zenity|3.42.1|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
+|zeroconf|0.28.6|0.132.2|lang-python|Compliance mode enabled, was '0.132.2'|
+|zerotier-one|1.12.2|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
+|zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
+|zig|0.12.1|0.13.0|lang-ziglang|Compliance mode enabled, was '0.13.0'|
+|zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
+|zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
+|zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
+|zmusic|1.1.8|1.1.13|app-games|Compliance mode enabled, was '1.1.13'|
+|znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
+|zola|0.18.0|0.19.1|app-web|Compliance mode enabled, was '0.19.1'|
+|zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
+|zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
+|zope-interface|5.4.0|6.4.post2|lang-python|Compliance mode enabled, was '6.4.post2'|
+|zotero|6.0.26|6.0.37|app-productivity|Compliance mode enabled, was '6.0.37'|
+|zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
+|zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
+|zvbi|0.2.35|0.2.42|runtime-multimedia|Compliance mode enabled, was '0.2.42'|
+|zxing-cpp|1.4.0|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
+|zxtune|5053|5061|app-multimedia|Compliance mode enabled, was '5061'|
+|zyn-fusion|3.0.5|3.0.6|app-multimedia|Compliance mode enabled, was '3.0.6'|
+|zziplib|0.13.75|0.13.77|runtime-common|Compliance mode enabled, was '0.13.77'|
