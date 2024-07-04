@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720066609?label=Updated)
+![Relative date](https://img.shields.io/date/1720070060?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1259,7 +1259,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfido2|1.13.0|1.15.0|runtime-devices||
 |libfilezilla|0.45.0|0.38.1|runtime-web|Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde||
-|libfprint|1.94.4|1.94.7|runtime-devices||
 |libftdi|1.4|1.5|runtime-devices||
 |libgcrypt+32|1.9.1|1.11.0|runtime-optenv32||
 |libgcrypt-static|1.10.3|1.11.0|runtime-cryptography||
@@ -1967,7 +1966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|lang-perl||
 |perl-mail-dkim|0.40|1.20240619|lang-perl||
 |perl-mail-imapclient|3.42|3.43|lang-perl||
-|perl-mail-spf|2.9.0|3.20240617|lang-perl||
 |perl-mailtools|2.20|2.21|lang-perl||
 |perl-mime-charset|1.012.2|1.013.1|lang-perl||
 |perl-mime-lite|3.030|3.033|lang-perl||
@@ -2471,8 +2469,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc||
 |spim|9.1.23|9.1.24|app-emulation||
 |spirv-headers|1.3.283.0|1.5.4.raytracing.fixed|runtime-display||
-|spirv-llvm-translator|17.0.0|18.1.1|app-devel||
-|spirv-tools|1.3.275.0|2024.1|runtime-display||
+|spirv-llvm-translator|17.0.0|18.1.2|app-devel||
+|spirv-tools|1.3.275.0|2024.3|runtime-display||
 |spread-sheet-widget|0.3|0.10|runtime-productivity||
 |sqlalchemy|1.2.18|2.0.31|lang-python||
 |sqlcipher|4.5.6|4.6.0|app-database||
@@ -2509,7 +2507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|app-admin||
 |suitesparse|7.6.1|7.7.0|runtime-scientific||
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.621.193854|app-multimedia||
+|sunshine|0.23.0|2024.702.125729|app-multimedia||
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |superslicer|2.5.59.12|2.5.60.0|app-creativity||
 |sushi|42.0|46.0|desktop-gnome||
