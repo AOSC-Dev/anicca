@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720109515?label=Updated)
+![Relative date](https://img.shields.io/date/1720113143?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -254,7 +254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|lang-python|Compliance mode enabled, was '5.0.8'|
 |configparser|3.7.3|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
-|conky|1.10.8|1.21.3|app-utils|Compliance mode enabled, was '1.21.3'|
+|conky|1.10.8|1.21.4|app-utils|Compliance mode enabled, was '1.21.4'|
 |conmon|2.1.10|2.1.12|app-admin|Compliance mode enabled, was '2.1.12'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
@@ -717,6 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compliance mode enabled, was '2.14.2'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
+|hugo|0.127.0|0.128.1|app-web|Compliance mode enabled, was '0.128.1'|
 |humanize|0.5.1|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwloc|2.10.0|2.11.0|app-admin|Compliance mode enabled, was '2.11.0'|
@@ -1445,13 +1446,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32|Compliance mode enabled, was '1.1.5'|
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
 |libxml++|2.40.1|5.2.0|runtime-common|Compliance mode enabled, was '5.2.0'|
-|libxml2|2.10.4|2.13.1|runtime-common|Compliance mode enabled, was '2.13.1'|
-|libxml2+32|2.10.4|2.13.1|runtime-optenv32|Compliance mode enabled, was '2.13.1'|
+|libxml2|2.10.4|2.13.2|runtime-common|Compliance mode enabled, was '2.13.2'|
+|libxml2+32|2.10.4|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
 |libxmlb|0.3.15|0.3.19|runtime-common|Compliance mode enabled, was '0.3.19'|
 |libxnvctrl|545.23.06|550.54.14|runtime-display|Compliance mode enabled, was '550.54.14'|
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32|Compliance mode enabled, was '550.54.14'|
-|libxslt|1.1.34|1.1.41|runtime-common|Compliance mode enabled, was '1.1.41'|
-|libxslt+32|1.1.34|1.1.41|runtime-optenv32|Compliance mode enabled, was '1.1.41'|
+|libxslt|1.1.34|1.1.42|runtime-common|Compliance mode enabled, was '1.1.42'|
+|libxslt+32|1.1.34|1.1.42|runtime-optenv32|Compliance mode enabled, was '1.1.42'|
 |libzen|0.4.38|0.4.41|runtime-common|Compliance mode enabled, was '0.4.41'|
 |libzip|1.5.2|1.10.1|runtime-common|Compliance mode enabled, was '1.10.1'|
 |liferea|1.13.8|1.15.7|app-web|Compliance mode enabled, was '1.15.7'|
