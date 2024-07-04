@@ -46,7 +46,7 @@ jobs:
           cargo build --release
       
       - name: Generate `pkgsupdate.json`
-        run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
+        run: ./aosc-findupdate/target/release/aosc-findupdate -c --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
 
       - name: Generate `anicca-data.json`
         run: python ./scripts/convert-data.py -o anicca-data.json
