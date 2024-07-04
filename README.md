@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720062938?label=Updated)
+![Relative date](https://img.shields.io/date/1720066609?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2153,7 +2153,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptopp|0.7.1|0.5.29|lang-python|Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1|lang-python||
 |pycups|1.9.74|2.0.4|lang-python||
-|pydantic|2.6.0|2.8.1|lang-python||
+|pydantic|2.6.0|2.8.2|lang-python||
 |pydantic-core|2.16.1|2.20.1|lang-python||
 |pydot|1.4.1|2.0.0|lang-python||
 |pyelftools|0.30|0.31|lang-python||
@@ -2396,7 +2396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadow|4.15.1|4.16.0|app-admin||
 |shapelib|1.5.0|1.6.0|runtime-imaging||
 |shared-color-targets|0.1.7|0_1_7|runtime-data||
-|shotcut|21.08.11|24.06.02|app-creativity||
+|shotcut|21.08.11|24.06.26|app-creativity||
 |shotwell|0.31.4|0.32.7|desktop-gnome||
 |showmethekey|1.12.0|1.13.1|app-utils||
 |shutter|0.94|0.99.2|app-utils||
