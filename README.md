@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720131211?label=Updated)
+![Relative date](https://img.shields.io/date/1720134807?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -298,7 +298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |ddnet|18.3|18.3.1|app-games|Compliance mode enabled, was '18.3.1'|
-|debianutils|5.7|5.19|app-utils|Compliance mode enabled, was '5.19'|
+|debianutils|5.7|5.20|app-utils|Compliance mode enabled, was '5.20'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
@@ -718,14 +718,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hub|2.14.2<br>+git20230617|2.14.2|app-vcs|Compliance mode enabled, was '2.14.2'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
-|hugo|0.127.0|0.128.1|app-web|Compliance mode enabled, was '0.128.1'|
+|hugo|0.127.0|0.128.2|app-web|Compliance mode enabled, was '0.128.2'|
 |humanize|0.5.1|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
-|hwloc|2.10.0|2.11.0|app-admin|Compliance mode enabled, was '2.11.0'|
+|hwdata|0.383|0.384|runtime-data|Compliance mode enabled, was '0.384'|
+|hwloc|2.10.0|2.11.1|app-admin|Compliance mode enabled, was '2.11.1'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.104.3|lang-python|Compliance mode enabled, was '6.104.3'|
+|hypothesis-python|6.97.4|6.105.0|lang-python|Compliance mode enabled, was '6.105.0'|
 |hysteria|2.4.0|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.52.0|app-web|Compliance mode enabled, was '2.52.0'|
