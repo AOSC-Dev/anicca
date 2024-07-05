@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720160272?label=Updated)
+![Relative date](https://img.shields.io/date/1720163648?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1714,7 +1714,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes|Compliance mode enabled, was '24.04.22'<br>Possible downgrade from the current version (20160927 -> 24.04.22)|
 |numpy|1.26.4|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
-|nvchecker|1.5|2.15.1|app-utils|Compliance mode enabled, was '2.15.1'|
 |nvidia|550.54.14|555.58.02|runtime-display|Compliance mode enabled, was '555.58.02'|
 |nvidia+32|0|555.58.02|runtime-optenv32|Compliance mode enabled, was '555.58.02'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
@@ -2160,7 +2159,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt-builder|1.12.1|1.16.3|lang-python|Compliance mode enabled, was '1.16.3'|
 |pyqt5|5.15.5|5.15.10|lang-python|Compliance mode enabled, was '5.15.10'|
 |pyqt5-sip|12.9.0|12.13.0|lang-python|Compliance mode enabled, was '12.13.0'|
-|pyqtwebengine|5.15.5|5.15.6|lang-python|Compliance mode enabled, was '5.15.6'|
 |pyscard|1.9.9|2.0.10|lang-python|Compliance mode enabled, was '2.0.10'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.2.1|lang-python|Compliance mode enabled, was '5.15.2.1'<br>Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
