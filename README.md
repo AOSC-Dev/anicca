@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720213958?label=Updated)
+![Relative date](https://img.shields.io/date/1720217639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -61,6 +61,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
+|aoscbootstrap|0.5.0|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |apicula|0.9.1|0.12|app-electronics|Compliance mode enabled, was '0.12'|
 |apparmor|3.0.8|3.1.7|app-admin|Compliance mode enabled, was '3.1.7'|
 |appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
@@ -146,7 +147,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.2.8|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |botan|1.10.17|3.4.0|runtime-cryptography|Compliance mode enabled, was '3.4.0'|
 |botan-2|2.12.1|3.4.0|runtime-cryptography|Compliance mode enabled, was '3.4.0'|
-|boto3|1.20.26|1.34.139|lang-python|Compliance mode enabled, was '1.34.139'|
+|boto3|1.20.26|1.34.140|lang-python|Compliance mode enabled, was '1.34.140'|
 |botocore|1.34.133|1.34.140|lang-python|Compliance mode enabled, was '1.34.140'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compliance mode enabled, was '51.11'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
