@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720182116?label=Updated)
+![Relative date](https://img.shields.io/date/1720185407?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1751,7 +1751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
 |opencryptoki|3.21.0|3.23.0|runtime-cryptography|Compliance mode enabled, was '3.23.0'|
 |opencsg|1.5.1|1.6.0|runtime-imaging|Compliance mode enabled, was '1.6.0'|
-|opencv|4.9.0|4.10.0-kleidicv|runtime-scientific|Compliance mode enabled, was '4.10.0-kleidicv'|
+|opencv|4.9.0|4.10.0|runtime-scientific|Compliance mode enabled, was '4.10.0'|
 |openexr|3.1.8|3.2.126|runtime-imaging|Compliance mode enabled, was '3.2.126'|
 |openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
 |openimagedenoise|1.4.3|2.3.0|runtime-imaging|Compliance mode enabled, was '2.3.0'|
@@ -2068,7 +2068,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19<br>+20140130|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
-|portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |postgresql|13.15|17|app-database|Compliance mode enabled, was '17'|
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
