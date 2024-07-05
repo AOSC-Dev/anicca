@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720203492?label=Updated)
+![Relative date](https://img.shields.io/date/1720206734?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -324,7 +324,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker-compose|2.27.1|2.28.1|app-containers|Compliance mode enabled, was '2.28.1'|
 |docutils|0.20.1|0.21.2|lang-python|Compliance mode enabled, was '0.21.2'|
 |dolphin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |dolphin-emu|5.0<br>+git20211101|2407|app-games|Compliance mode enabled, was '2407'|
@@ -2679,7 +2678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
 |valgrind|3.22.0|3.23.0|app-devel|Compliance mode enabled, was '3.23.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
-|vapoursynth|57|68|app-multimedia|Compliance mode enabled, was '68'|
+|vapoursynth|57|69|app-multimedia|Compliance mode enabled, was '69'|
 |variety|0.7.1|0.8.12|app-utils|Compliance mode enabled, was '0.8.12'|
 |vasm|1.9f|1.9.f|app-devel|Compliance mode enabled, was '1.9.f'|
 |vba-m|2.1.8|2.1.9|app-games|Compliance mode enabled, was '2.1.9'|
