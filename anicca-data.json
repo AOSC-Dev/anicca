@@ -1532,6 +1532,7 @@
 ["tepl","6.0.2","6.9.0","runtime-editors",1663210241,["Compliance mode enabled, was '6.9.0'"]],
 ["sequoia-sq","0.36.0","0.37.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.37.0'"]],
 ["easy-rsa","3.0.8","3.2.0","app-cryptography",1600708496,["Compliance mode enabled, was '3.2.0'"]],
+["gnupg","2.4.5","2.5.0","app-cryptography",1716443662,["Compliance mode enabled, was '2.5.0'"]],
 ["lazarus","3.2","3.4","lang-pascal",1711727725,["Compliance mode enabled, was '3.4'"]],
 ["zig","0.12.1","0.13.0","lang-ziglang",1720106704,["Compliance mode enabled, was '0.13.0'"]],
 ["kdepim-addons","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
