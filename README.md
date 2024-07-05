@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720167387?label=Updated)
+![Relative date](https://img.shields.io/date/1720170924?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -448,7 +448,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flightgear|2020.3.13|2020.3.19|app-games|Compliance mode enabled, was '2020.3.19'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
 |fltk|1.3.5|1.3.9|runtime-desktop|Compliance mode enabled, was '1.3.9'|
-|fluidsynth|2.0.5|2.3.5|app-multimedia|Compliance mode enabled, was '2.3.5'|
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32|Compliance mode enabled, was '2.3.5'|
 |fmt|10.2.1|11.0.0|runtime-common|Compliance mode enabled, was '11.0.0'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
@@ -1470,15 +1469,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (6.6.31 -> 5.10.220)|
+|linux+kernel+lts|6.6.31|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (6.6.31 -> 5.10.221)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
-|linux+kernel+retro|5.10.132|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'|
-|linux+kernel+retro+minimal|5.15.17|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (5.15.17 -> 5.10.220)|
+|linux+kernel+retro|5.10.132|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'|
+|linux+kernel+retro+minimal|5.15.17|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (5.15.17 -> 5.10.221)|
 |linux-firmware|20240506|20240610|runtime-kernel||
 |linux-kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'|
-|linux-kernel-retro-minimal|5.15.17|5.10.220|runtime-kernel|Compliance mode enabled, was '5.10.220'<br>Possible downgrade from the current version (5.15.17 -> 5.10.220)|
+|linux-kernel-retro|5.10.132|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'|
+|linux-kernel-retro-minimal|5.15.17|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (5.15.17 -> 5.10.221)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
@@ -1796,8 +1795,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |oxygen-icons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |oxygen-sounds|5.25.3|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
-|p11-kit|0.25.3|0.25.4|runtime-cryptography|Compliance mode enabled, was '0.25.4'|
-|p11-kit+32|0.23.18.1|0.25.4|runtime-optenv32|Compliance mode enabled, was '0.25.4'|
+|p11-kit|0.25.3|0.25.5|runtime-cryptography|Compliance mode enabled, was '0.25.5'|
+|p11-kit+32|0.23.18.1|0.25.5|runtime-optenv32|Compliance mode enabled, was '0.25.5'|
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
 |packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
 |packaging|23.0|24.1|lang-python|Compliance mode enabled, was '24.1'|
