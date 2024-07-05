@@ -2686,7 +2686,7 @@
 ["lxcfs","3.0.3","6.0.1","app-admin",1549304004,["Compliance mode enabled, was '6.0.1'"]],
 ["mac-fdisk","0.1","0.1.orig","app-admin",1610962799,["Compliance mode enabled, was '0.1.orig'","Possible downgrade from the current version (0.1 -> 0.1.orig)"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Compliance mode enabled, was '6.03'","Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
-["deploykit-gui","0.6.2","test-ci","app-admin",1719387123,["Compliance mode enabled, was 'test-ci'","Versions not comparable: `0.6.2` and `test-ci`"]],
+["deploykit-gui","0.6.2","0.7.0","app-admin",1719387123,["Compliance mode enabled, was '0.7.0'"]],
 ["flatpak","1.14.6","1.14.8","app-admin",1713504759,["Compliance mode enabled, was '1.14.8'"]],
 ["udisks-2","2.8.4","2.10.1","app-admin",1565150292,["Compliance mode enabled, was '2.10.1'"]],
 ["callaudiod","0.1.4","0.1.10","app-admin",1663210244,["Compliance mode enabled, was '0.1.10'"]],
