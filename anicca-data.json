@@ -2677,7 +2677,6 @@
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
 ["iozone","3.492","3.506","app-admin",1641887332,["Compliance mode enabled, was '3.506'"]],
 ["signon","8.60","8.61","app-admin",1537365905,["Compliance mode enabled, was '8.61'"]],
-["snapper","0.11.0","0.11.1","app-admin",1715684834,["Compliance mode enabled, was '0.11.1'"]],
 ["cockpit-machines","284.1","315","app-admin",1678351353,["Compliance mode enabled, was '315'"]],
 ["gptfdisk","1.0.9","1.0.10","app-admin",1673935786,["Compliance mode enabled, was '1.0.10'"]],
 ["appstream","0.16.0","1.0.3","app-admin",1678601022,["Compliance mode enabled, was '1.0.3'"]],
