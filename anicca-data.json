@@ -2634,7 +2634,7 @@
 ["libspiro","0.5.20150702","20221101","runtime-creativity",1469877577,["Compliance mode enabled, was '20221101'"]],
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["openpgl","0.5.0","0.6.0","runtime-creativity",1691207555,["Compliance mode enabled, was '0.6.0'"]],
-["materialx","1.38.8","1.38.10","runtime-creativity",1710216829,["Compliance mode enabled, was '1.38.10'"]],
+["materialx","1.38.8","1.39.0","runtime-creativity",1710216829,["Compliance mode enabled, was '1.39.0'"]],
 ["rocm-cmake","6.0.2","6.1.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.1.2'"]],
 ["rocminfo","6.0.2","6.1.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.1.2'"]],
 ["roct-thunk-interface","6.0.0","6.1.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.1.2'"]],

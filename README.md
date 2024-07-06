@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720282420?label=Updated)
+![Relative date](https://img.shields.io/date/1720285843?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1551,7 +1551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mat2|0.13.0|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'<br>Possible downgrade from the current version (0.13.0 -> 0.6.1)|
 |mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-panel|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
-|materialx|1.38.8|1.38.10|runtime-creativity|Compliance mode enabled, was '1.38.10'|
+|materialx|1.38.8|1.39.0|runtime-creativity|Compliance mode enabled, was '1.39.0'|
 |mathemagics-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.9.1|lang-python|Compliance mode enabled, was '3.9.1'|
