@@ -638,7 +638,6 @@
 ["libaal","1.0.7","24\"","runtime-admin",1678601027,["Compliance mode enabled, was '24\"'"]],
 ["libsysstat","0.4.4","1.0.0","runtime-admin",1610261237,["Compliance mode enabled, was '1.0.0'"]],
 ["ding-libs","0.6.1","0.6.2","runtime-admin",1512004438,["Compliance mode enabled, was '0.6.2'"]],
-["librtas","2.0.2","2.0.6","runtime-admin",1530073120,["Compliance mode enabled, was '2.0.6'"]],
 ["dbus-glib","0.110","0.112","runtime-admin",1522267404,["Compliance mode enabled, was '0.112'"]],
 ["asahi-common","20231113","20231113-aosc","runtime-admin",1699904618,["Compliance mode enabled, was '20231113-aosc'","Possible downgrade from the current version (20231113 -> 20231113-aosc)"]],
 ["libstoragemgmt","1.7.3","1.10.0","runtime-admin",1550547634,["Compliance mode enabled, was '1.10.0'"]],
