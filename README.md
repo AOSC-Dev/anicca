@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720289719?label=Updated)
+![Relative date](https://img.shields.io/date/1720293075?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1658,7 +1658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses+32|6.4|6.5+20240629|runtime-optenv32|Compliance mode enabled, was '6.5-20240629'|
 |ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
 |neatvnc|0.7.1|0.8.0|runtime-network|Compliance mode enabled, was '0.8.0'|
-|nemo|5.8.3|6.2.2|desktop-cinnamon|Compliance mode enabled, was '6.2.2'|
+|nemo|5.8.3|6.2.3|desktop-cinnamon|Compliance mode enabled, was '6.2.3'|
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |neochat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |neomutt|20200619|20240425|app-web|Compliance mode enabled, was '20240425'|
@@ -1841,7 +1841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20191020|20240706|app-doc|Compliance mode enabled, was '20240706'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
-|peewee|3.17.1|3.17.5|lang-python|Compliance mode enabled, was '3.17.5'|
+|peewee|3.17.1|3.17.6|lang-python|Compliance mode enabled, was '3.17.6'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |perl|5.36.3|5.41.1|lang-perl|Compliance mode enabled, was '5.41.1'|
