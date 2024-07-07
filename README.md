@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720340175?label=Updated)
+![Relative date](https://img.shields.io/date/1720343714?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -104,6 +104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |audiveris|5.1.0|5.3.1|app-doc|Compliance mode enabled, was '5.3.1'|
 |autobahn|19.2.1|23.6.2|lang-python|Compliance mode enabled, was '23.6.2'|
+|autobuild4|4.3.3|4.3.5|app-devel|Compliance mode enabled, was '4.3.5'|
 |automake|1.16i|1.16.5|app-devel|Compliance mode enabled, was '1.16.5'|
 |automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
 |avahi-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
@@ -2128,7 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
 |pygccxml|2.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
-|pygit2|1.14.1|1.15.0|lang-python|Compliance mode enabled, was '1.15.0'|
+|pygit2|1.14.1|1.15.1|lang-python|Compliance mode enabled, was '1.15.1'|
 |pyglet|1.3.2|2.0.15|lang-python|Compliance mode enabled, was '2.0.15'|
 |pygments|2.10.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
 |pygobject-3|3.42.2|3.48.2|lang-python|Compliance mode enabled, was '3.48.2'|
