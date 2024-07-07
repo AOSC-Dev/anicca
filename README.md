@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720329296?label=Updated)
+![Relative date](https://img.shields.io/date/1720333039?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -278,7 +278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20240630.0|app-devel|Compliance mode enabled, was '6.1.20240630.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20240630.0)|
+|ctags|20191203|6.1.20240707.0|app-devel|Compliance mode enabled, was '6.1.20240707.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20240707.0)|
 |cups|2.4.7|2.4.10|app-admin|Compliance mode enabled, was '2.4.10'|
 |cups+32|2.3.3|2.4.10|runtime-optenv32|Compliance mode enabled, was '2.4.10'|
 |curl+32|8.6.0|8.8.0|runtime-optenv32|Compliance mode enabled, was '8.8.0'|
@@ -2689,7 +2689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0446|9.1.0531|app-editors|Compliance mode enabled, was '9.1.0531'|
+|vim|9.1.0446|9.1.0538|app-editors|Compliance mode enabled, was '9.1.0538'|
 |virglrenderer|0.10.4|1.0.1|app-virtualization|Compliance mode enabled, was '1.0.1'|
 |virtualenv|20.25.0|20.26.3|lang-python|Compliance mode enabled, was '20.26.3'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
