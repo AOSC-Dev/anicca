@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720318010?label=Updated)
+![Relative date](https://img.shields.io/date/1720322095?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2331,7 +2331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scons|4.4.0|4.7.0|app-devel|Compliance mode enabled, was '4.7.0'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
-|scrcpy|2.4|2.5|app-devices|Compliance mode enabled, was '2.5'|
+|scrcpy|2.4|2.5-install-release|app-devices|Compliance mode enabled, was '2.5-install-release'|
 |screen|4.9.0|4.9.1|app-utils|Compliance mode enabled, was '4.9.1'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
@@ -2460,6 +2460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
 |stellarium|0.21.3|24.2|app-scientific|Compliance mode enabled, was '24.2'|
+|stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compliance mode enabled, was '5.0.12'|
 |sticky|1.20|1.21|desktop-cinnamon|Compliance mode enabled, was '1.21'|
