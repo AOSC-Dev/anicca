@@ -2329,7 +2329,7 @@
 ["pyopengl","3.1.5","3.1.7","lang-python",1581796622,["Compliance mode enabled, was '3.1.7'"]],
 ["backports","0","1.1","lang-python",1549919968,["Compliance mode enabled, was '1.1'"]],
 ["prompt-toolkit","2.0.8","3.0.47","lang-python",1549919969,["Compliance mode enabled, was '3.0.47'"]],
-["hypothesis-python","6.97.4","6.105.0","lang-python",1706859511,["Compliance mode enabled, was '6.105.0'"]],
+["hypothesis-python","6.97.4","6.105.1","lang-python",1706859511,["Compliance mode enabled, was '6.105.1'"]],
 ["pycryptopp","0.7.1","0.5.29","lang-python",1473089332,["Compliance mode enabled, was '0.5.29'","Possible downgrade from the current version (0.7.1 -> 0.5.29)"]],
 ["gtkspellcheck","4.0.5","5.0.3","lang-python",1495855632,["Compliance mode enabled, was '5.0.3'"]],
 ["uritemplate","3.0.1","4.1.1","lang-python",1581796622,["Compliance mode enabled, was '4.1.1'"]],
