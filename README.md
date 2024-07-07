@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720368854?label=Updated)
+![Relative date](https://img.shields.io/date/1720372312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -504,9 +504,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.9.1|runtime-gis|Compliance mode enabled, was '3.9.1'|
-|gdb+cross-amd64|8.2|14.2|app-devel|Compliance mode enabled, was '14.2'|
-|gdb+cross-arm64|12.1|14.2|app-devel|Compliance mode enabled, was '14.2'|
-|gdb+cross-mips64r6el|12.1|14.2|app-devel|Compliance mode enabled, was '14.2'|
+|gdb|14.2|15.1|app-devel|Compliance mode enabled, was '15.1'|
+|gdb+cross-amd64|8.2|15.1|app-devel|Compliance mode enabled, was '15.1'|
+|gdb+cross-arm64|12.1|15.1|app-devel|Compliance mode enabled, was '15.1'|
+|gdb+cross-mips64r6el|12.1|15.1|app-devel|Compliance mode enabled, was '15.1'|
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
