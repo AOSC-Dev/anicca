@@ -2441,7 +2441,7 @@
 ["libidn","1.41","1.42","runtime-network",1701855899,["Compliance mode enabled, was '1.42'"]],
 ["libqofono","0.98","0.123","runtime-network",1678950872,["Compliance mode enabled, was '0.123'"]],
 ["libidn2","2.3.0","2.3.7","runtime-network",1579575873,["Compliance mode enabled, was '2.3.7'"]],
-["c-ares","1.28.1","1.32.0","runtime-network",1711895979,["Compliance mode enabled, was '1.32.0'"]],
+["c-ares","1.28.1","1.32.1","runtime-network",1711895979,["Compliance mode enabled, was '1.32.1'"]],
 ["dpdk","22.11.1","24.03","runtime-network",1696572712,["Compliance mode enabled, was '24.03'"]],
 ["kdsoap","1.9.0","2.2.0","runtime-network",1590739029,["Compliance mode enabled, was '2.2.0'"]],
 ["nss-mdns","0.14.1","0.15.1","runtime-network",1531682290,["Compliance mode enabled, was '0.15.1'"]],
