@@ -2791,7 +2791,7 @@
 ["miniserve","0.26.0","0.27.1","app-web",1705559527,["Compliance mode enabled, was '0.27.1'"]],
 ["qownnotes","22.6.1","24.7.0","app-web",1659588927,["Compliance mode enabled, was '24.7.0'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
-["telegram-desktop","5.0.1","5.2.2","app-web",1717158128,["Compliance mode enabled, was '5.2.2'"]],
+["telegram-desktop","5.0.1","5.2.3","app-web",1717158128,["Compliance mode enabled, was '5.2.3'"]],
 ["hexchat","2.16.1","2.16.2","app-web",1655338775,["Compliance mode enabled, was '2.16.2'"]],
 ["i2pd","2.41.0","2.52.0","app-web",1647420912,["Compliance mode enabled, was '2.52.0'"]],
 ["mldonkey","3.1.7+2+git20210505","3.1.7.2","app-web",1634534087,["Compliance mode enabled, was '3-1-7-2'"]],
