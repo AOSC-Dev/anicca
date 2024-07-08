@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720412192?label=Updated)
+![Relative date](https://img.shields.io/date/1720415799?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2047,6 +2047,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
+|pnpm|9.4.0|9.5.0|lang-js|Compliance mode enabled, was '9.5.0'|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
@@ -2836,7 +2837,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zig|0.12.1|0.13.0|lang-ziglang|Compliance mode enabled, was '0.13.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
-|zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
 |zmusic|1.1.8|1.1.13|app-games|Compliance mode enabled, was '1.1.13'|
 |znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
 |zola|0.18.0|0.19.1|app-web|Compliance mode enabled, was '0.19.1'|
