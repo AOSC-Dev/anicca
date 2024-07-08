@@ -2095,7 +2095,7 @@
 ["websocket-client","1.7.0","1.8.0","lang-python",1708685051,["Compliance mode enabled, was '1.8.0'"]],
 ["poetry-core","1.7.0","1.9.0","lang-python",1629690194,["Compliance mode enabled, was '1.9.0'"]],
 ["pip","22.3.1","24.1.2","lang-python",1673935862,["Compliance mode enabled, was '24.1.2'"]],
-["humanize","0.5.1","4.9.0","lang-python",1499692896,["Compliance mode enabled, was '4.9.0'"]],
+["humanize","0.5.1","4.10.0","lang-python",1499692896,["Compliance mode enabled, was '4.10.0'"]],
 ["pymediainfo","5.0.3","6.1.0","lang-python",1614351126,["Compliance mode enabled, was '6.1.0'"]],
 ["docutils","0.20.1","0.21.2","lang-python",1700548607,["Compliance mode enabled, was '0.21.2'"]],
 ["pynput","1.7.6","1.7.7","lang-python",1658966837,["Compliance mode enabled, was '1.7.7'"]],
