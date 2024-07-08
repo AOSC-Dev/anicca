@@ -966,7 +966,7 @@
 ["perl-alien-build","1.92","2.83","lang-perl",1573869527,["Compliance mode enabled, was '2.83'"]],
 ["perl-module-find","0.13","0.16","lang-perl",1488651588,["Compliance mode enabled, was '0.16'"]],
 ["perl-package-stash-xs","0.29","0.30","lang-perl",1678950872,["Compliance mode enabled, was '0.30'"]],
-["perl-io-socket-ssl","2.062","2.086","lang-perl",1551145090,["Compliance mode enabled, was '2.086'"]],
+["perl-io-socket-ssl","2.062","2.087","lang-perl",1551145090,["Compliance mode enabled, was '2.087'"]],
 ["perl-digest-hmac","1.03","1.04","lang-perl",1678950872,["Compliance mode enabled, was '1.04'"]],
 ["perl-mro-compat","0.13","0.15","lang-perl",1596485704,["Compliance mode enabled, was '0.15'"]],
 ["perl-json-parse","0.57","0.43","lang-perl",1596482997,["Compliance mode enabled, was '0.43'","Possible downgrade from the current version (0.57 -> 0.43)"]],
