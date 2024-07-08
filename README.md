@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720462598?label=Updated)
+![Relative date](https://img.shields.io/date/1720465925?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1699,6 +1699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|42|app-electronics|Compliance mode enabled, was '42'|
 |ngtcp2|1.5.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
+|nodejs|20.15.0|20.15.1|lang-js|Compliance mode enabled, was '20.15.1'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |noise-suppression-for-voice|0.91|1.10|app-multimedia|Compliance mode enabled, was '1.10'|
 |nomino|1.3.1|1.3.5|app-utils|Compliance mode enabled, was '1.3.5'|
@@ -2796,7 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|runtime-common|Compliance mode enabled, was '1.59.03'|
 |xmlsec|1.2.36|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
-|xpra|5.0.8|6.0.1|app-network|Compliance mode enabled, was '6.0.1'|
+|xpra|5.0.8|6.0.2|app-network|Compliance mode enabled, was '6.0.2'|
 |xray|1.8.4|1.8.16|app-network|Compliance mode enabled, was '1.8.16'|
 |xray-plugin|1.8.11|1.8.15|app-network|Compliance mode enabled, was '1.8.15'|
 |xreader|3.8.5|4.2.1|app-doc|Compliance mode enabled, was '4.2.1'|
