@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720473220?label=Updated)
+![Relative date](https://img.shields.io/date/1720476792?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -147,8 +147,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.2.8|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
-|boto3|1.20.26|1.34.140|lang-python|Compliance mode enabled, was '1.34.140'|
-|botocore|1.34.133|1.34.140|lang-python|Compliance mode enabled, was '1.34.140'|
+|boto3|1.20.26|1.34.141|lang-python|Compliance mode enabled, was '1.34.141'|
+|botocore|1.34.133|1.34.141|lang-python|Compliance mode enabled, was '1.34.141'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils|Compliance mode enabled, was '51.11'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
 |bovo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -291,6 +291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|lang-python|Compliance mode enabled, was '2.0.8'|
 |cython-0.29|0.29.36|3.0.10|lang-python|Compliance mode enabled, was '3.0.10'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
+|damo|2.4.1|2.4.2|app-admin|Compliance mode enabled, was '2.4.2'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dar|2.7.13|2.7.15|app-utils|Compliance mode enabled, was '2.7.15'|
 |darkradiant|3.8.0|3.9.0|app-games|Compliance mode enabled, was '3.9.0'|
@@ -317,6 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|desktop-kde|Compliance mode enabled, was '8.3.0'|
 |digikam-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|discord|0.0.58|0.0.59|app-web|Compliance mode enabled, was '0.0.59'|
 |discover|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
 |distorm|3.5.1|3.5.2b|app-devel|Compliance mode enabled, was '3.5.2b'|
@@ -793,7 +795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |itinerary|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
-|iwd|1.20|2.18|app-network|Compliance mode enabled, was '2.18'|
+|iwd|1.20|2.19|app-network|Compliance mode enabled, was '2.19'|
 |ixion|0.17.0|0.19.0|runtime-scientific|Compliance mode enabled, was '0.19.0'|
 |j4-dmenu-desktop|2.17|3.0|app-utils|Compliance mode enabled, was '3.0'|
 |jack|1.9.21|1.9.22|app-multimedia|Compliance mode enabled, was '1.9.22'|
