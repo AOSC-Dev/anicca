@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720465925?label=Updated)
+![Relative date](https://img.shields.io/date/1720469796?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -192,7 +192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
-|cdemu-daemon|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
+|cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
 |cdrdao|1.2.4|1.2.5|app-multimedia|Compliance mode enabled, was '1.2.5'|
 |celluloid|0.18|0.27|app-multimedia|Compliance mode enabled, was '0.27'|
 |cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
@@ -1309,6 +1309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmediainfo|22.06|24.06|runtime-multimedia|Compliance mode enabled, was '24.06'|
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
 |libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32|Compliance mode enabled, was '3.3.11.1'|
+|libmirage|3.2.7|3.2.8|runtime-multimedia|Compliance mode enabled, was '3.2.8'|
 |libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia|Compliance mode enabled, was '0.8.9.0'|
 |libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32|Compliance mode enabled, was '0.8.9.0'|
 |libmpcdec|0.1~r495|0.1r495|runtime-multimedia|Compliance mode enabled, was '0.1~r495'|
