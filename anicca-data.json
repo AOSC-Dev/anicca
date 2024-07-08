@@ -471,6 +471,7 @@
 ["gnu-efi","3.0.14","3.0.18","app-devel",1645432747,["Compliance mode enabled, was '3.0.18'"]],
 ["ctags","20191203","6.1.20240707.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20240707.0'","Possible downgrade from the current version (20191203 -> 6.1.20240707.0)"]],
 ["ghidra","11.0","11.1.1_build","app-devel",1703485239,["Compliance mode enabled, was '11.1.1_build'"]],
+["abbs-update-checksum","0.1.0","0.2.0","app-devel",1718332611,["Compliance mode enabled, was '0.2.0'"]],
 ["avrdude","6.3","7.3","app-devel",1678950872,["Compliance mode enabled, was '7.3'"]],
 ["scons","4.4.0","4.7.0","app-devel",1674452376,["Compliance mode enabled, was '4.7.0'"]],
 ["repo","2.45","2.46","app-devel",1717055917,["Compliance mode enabled, was '2.46'"]],
