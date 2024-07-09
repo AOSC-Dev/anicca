@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720516522?label=Updated)
+![Relative date](https://img.shields.io/date/1720520048?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -22,7 +22,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.002|2.002r|desktop-fonts|Compliance mode enabled, was '2.002R'<br>Possible downgrade from the current version (2.002 -> 2.002r)|
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
-|adwaita-icon-theme|46.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compliance mode enabled, was '3.2.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
@@ -1283,6 +1282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdcraw-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |libkdegames|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |libkdepim|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|libkeduvocdocument|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |libkexiv2|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |libkexiv2-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |libkeyfinder|2.2.5|2.2.8|runtime-multimedia|Compliance mode enabled, was '2.2.8'|
