@@ -542,7 +542,7 @@
 ["coin","4.0.0+git20220828","4.0.0","runtime-imaging",1674446327,["Compliance mode enabled, was '4.0.0'"]],
 ["lcms2","2.14","2.16","runtime-imaging",1678600956,["Compliance mode enabled, was '2.16'"]],
 ["imlib2","1.5.1","1.12.2","runtime-imaging",1537714700,["Compliance mode enabled, was '1.12.2'"]],
-["exiv2","0.27.5","0.28.2","runtime-imaging",1598916208,["Compliance mode enabled, was '0.28.2'"]],
+["exiv2","0.27.5","0.28.3","runtime-imaging",1598916208,["Compliance mode enabled, was '0.28.3'"]],
 ["libutf8proc","2.4.0","2.9.0","runtime-i18n",1570304206,["Compliance mode enabled, was '2.9.0'"]],
 ["libkkc-data","0.2.7","0.3.5","runtime-i18n",1678950872,["Compliance mode enabled, was '0.3.5'"]],
 ["libpinyin","2.6.0","2.8.1","runtime-i18n",1570596159,["Compliance mode enabled, was '2.8.1'"]],
