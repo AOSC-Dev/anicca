@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720502194?label=Updated)
+![Relative date](https://img.shields.io/date/1720505852?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -53,6 +53,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.12|app-multimedia|Compliance mode enabled, was '1.2.12'|
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
+|analitza|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |angelfish|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.17.1|app-admin|Compliance mode enabled, was '2.17.1'|
@@ -627,7 +628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goldendict|1.5.0~rc2|1.5.0|app-i18n|Compliance mode enabled, was '1.5.0'|
 |gom|0.4|0.5.1|runtime-database|Compliance mode enabled, was '0.5.1'|
 |google-api-python-client|1.7.11|2.136.0|lang-python|Compliance mode enabled, was '2.136.0'|
-|google-auth|1.6.3|2.31.0|lang-python|Compliance mode enabled, was '2.31.0'|
+|google-auth|1.6.3|2.32.0|lang-python|Compliance mode enabled, was '2.32.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
