@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720494986?label=Updated)
+![Relative date](https://img.shields.io/date/1720498529?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -471,7 +471,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|2.6.5|3.1.2|app-games|Compliance mode enabled, was '3.1.2'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|freerdp|2.11.2|3.6.2|app-network|Compliance mode enabled, was '3.6.2'|
+|freerdp|2.11.2|3.6.3|app-network|Compliance mode enabled, was '3.6.3'|
 |freetds|1.00.112|1.4.19|runtime-database|Compliance mode enabled, was '1.4.19'|
 |freetype|2.12.1|2.13.2|runtime-desktop|Compliance mode enabled, was '2.13.2'|
 |freetype+32|2.12.1|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
@@ -480,6 +480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
 |fribidi|1.0.14|1.0.15|app-scientific|Compliance mode enabled, was '1.0.15'|
 |fribidi+32|1.0.10|1.0.15|runtime-optenv32|Compliance mode enabled, was '1.0.15'|
+|frp|0.58.1|0.59.0|app-network|Compliance mode enabled, was '0.59.0'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-exfat|1.3.0|1.4.0|app-admin|Compliance mode enabled, was '1.4.0'|
 |fuse-overlayfs|1.13|1.14|app-admin|Compliance mode enabled, was '1.14'|
@@ -487,7 +488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fvwm|2.6.9|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
-|fzf|0.46.1|0.53.0|app-utils|Compliance mode enabled, was '0.53.0'|
+|fzf|0.46.1|0.54.0|app-utils|Compliance mode enabled, was '0.54.0'|
 |gajim|1.4.0|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.0.0|app-devel|Compliance mode enabled, was '3.0.0'|
