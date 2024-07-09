@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720520048?label=Updated)
+![Relative date](https://img.shields.io/date/1720523633?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1167,7 +1167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |less|643|661|app-utils|Compliance mode enabled, was '661'|
 |level-zero|1.17.6|1.17.17|runtime-common|Compliance mode enabled, was '1.17.17'|
 |levenshtein|0.12.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
-|lib3mf|2.2.0|2.3.1|runtime-imaging|Compliance mode enabled, was '2.3.1'|
+|lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
 |libadwaita|1.5.0|1.5.2|desktop-gnome|Compliance mode enabled, was '1.5.2'|
@@ -1200,7 +1200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|runtime-imaging|Compliance mode enabled, was '0.1.7'|
 |libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
-|libchewing|0.5.1|0.8.4|runtime-i18n|Compliance mode enabled, was '0.8.4'|
+|libchewing|0.5.1|0.8.5|runtime-i18n|Compliance mode enabled, was '0.8.5'|
 |libclc|17.0.3|18.1.8|runtime-devices|Compliance mode enabled, was '18.1.8'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
