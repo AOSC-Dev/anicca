@@ -2839,6 +2839,7 @@
 ["lynx","2.9.0","2.9.2","app-web",1709968621,["Compliance mode enabled, was '2.9.2'"]],
 ["hugo","0.127.0","0.128.2","app-web",1718606489,["Compliance mode enabled, was '0.128.2'"]],
 ["transmission","4.0.5","4.0.6","app-web",1704877978,["Compliance mode enabled, was '4.0.6'"]],
+["httpie","3.2.2","3.2.3","app-web",1709968724,["Compliance mode enabled, was '3.2.3'"]],
 ["certbot-dns-cloudflare","2.10.0","2.11.0","app-web",1716728302,["Compliance mode enabled, was '2.11.0'"]],
 ["ruby-bundler","2.1.4","2.5.15","lang-ruby",1616134410,["Compliance mode enabled, was '2.5.15'"]],
 ["ruby-ffi","1.10.0","1.17.0","lang-ruby",1551289460,["Compliance mode enabled, was '1.17.0'"]],
