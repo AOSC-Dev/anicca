@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720631583?label=Updated)
+![Relative date](https://img.shields.io/date/1720635597?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2731,7 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
 |vulkan-validationlayers|1.3.283.0|1.3.289|runtime-display|Compliance mode enabled, was '1.3.289'|
 |warpinator|1.6.3|1.8.5|desktop-cinnamon|Compliance mode enabled, was '1.8.5'|
-|warzone2100|4.1.3|4.5.0|app-games|Compliance mode enabled, was '4.5.0'|
+|warzone2100|4.1.3|4.5.1|app-games|Compliance mode enabled, was '4.5.1'|
 |watchman|4.9.0|2024.07.08.00|app-utils|Compliance mode enabled, was '2024.07.08.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
@@ -2759,8 +2759,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-regdb|2024.05.08|2024.07.04|app-network|Compliance mode enabled, was '2024.07.04'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
+|wireshark|4.2.5|4.2.6|app-network|Compliance mode enabled, was '4.2.6'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
-|wolfssl|5.7.0|5.7.0-stable|runtime-cryptography|Compliance mode enabled, was '5.7.0-stable'<br>Possible downgrade from the current version (5.7.0 -> 5.7.0-stable)|
+|wolfssl|5.7.0|5.7.2-stable|runtime-cryptography|Compliance mode enabled, was '5.7.2-stable'|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web|Compliance mode enabled, was '1.14.2'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
