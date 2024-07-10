@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720609977?label=Updated)
+![Relative date](https://img.shields.io/date/1720614206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -588,6 +588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-desktop|42.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |gnome-disk-utility|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome|Compliance mode enabled, was '3.52.1'|
+|gnome-font-viewer|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-initial-setup|42.2|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
 |gnome-keyring|40.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
@@ -668,7 +669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
 |gstreamer|1.24.4|1.24.5|runtime-multimedia|Compliance mode enabled, was '1.24.5'|
-|gstreamer-1-0+32|1.16.2|1.24.5|runtime-optenv32|Compliance mode enabled, was '1.24.5'|
+|gstreamer-1-0+32|1.16.2|1.24.5|groups|Compliance mode enabled, was '1.24.5'|
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel|Compliance mode enabled, was '1.14.0'|
 |gti|1.6.1|1.9.1|app-vcs|Compliance mode enabled, was '1.9.1'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
@@ -1362,7 +1363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|runtime-web|Compliance mode enabled, was '0.8.2'|
 |libraw|0.20.0|0.21.2|runtime-imaging|Compliance mode enabled, was '0.21.2'|
 |librcc|0.2.12|0.2.13|runtime-i18n|Compliance mode enabled, was '0.2.13'|
-|libreoffice|7.5.4.2|24.8.0.1|app-productivity|Compliance mode enabled, was '24.8.0.1'|
+|libreoffice|7.5.4.2|24.8.0.1|groups|Compliance mode enabled, was '24.8.0.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librsvg|2.56.1|2.58.91|runtime-imaging|Compliance mode enabled, was '2.58.91'|
 |librsvg+32|2.40.21|2.58.91|runtime-optenv32|Compliance mode enabled, was '2.58.91'|
@@ -1768,7 +1769,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|2.5.13.0|runtime-imaging|Compliance mode enabled, was '2.5.13.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|lang-java|Compliance mode enabled, was '11.0.23+9'|
-|openjdk-8|8u382<br>+ga|8u412-b08|lang-java|Compliance mode enabled, was '8u412-b08'|
+|openjdk-8|8u382<br>+ga|8u412-b08|groups|Compliance mode enabled, was '8u412-b08'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|lang-java|Compliance mode enabled, was '11.0.23+9'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compliance mode enabled, was '8u202-ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
@@ -2072,7 +2073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polkit-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
-|poppler|22.08.0|24.07.0|runtime-doc|Compliance mode enabled, was '24.07.0'|
+|poppler|22.08.0|24.07.0|groups|Compliance mode enabled, was '24.07.0'|
 |poppler+32|0.66.0|24.07.0|runtime-optenv32|Compliance mode enabled, was '24.07.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
