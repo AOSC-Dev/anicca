@@ -2815,7 +2815,7 @@
 ["telegram-desktop","5.0.1","5.2.3","app-web",1717158128,["Compliance mode enabled, was '5.2.3'"]],
 ["neomutt","20200619","20240425","app-web",1595109147,["Compliance mode enabled, was '20240425'"]],
 ["pidgin","2.14.12","2.14.13","app-web",1678601022,["Compliance mode enabled, was '2.14.13'"]],
-["dropbox","148.4.4519","202.4.5551","app-web",1655338775,["Compliance mode enabled, was '202.4.5551'"]],
+["dropbox","148.4.4519","203.4.4857","app-web",1655338775,["Compliance mode enabled, was '203.4.4857'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
 ["chromium","126.0.6478.114","126.0.6478.126","app-web",1719100001,["Compliance mode enabled, was '126.0.6478.126'"]],
