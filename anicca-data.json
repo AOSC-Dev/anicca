@@ -2619,7 +2619,7 @@
 ["sof-tools","2.2.3","2.8.1","app-multimedia",1673935824,["Compliance mode enabled, was '2.8.1'"]],
 ["wildmidi","0.4.3","0.4.6","app-multimedia",1549919967,["Compliance mode enabled, was '0.4.6'"]],
 ["wavpack","5.2.0","5.7.0","app-multimedia",1576672295,["Compliance mode enabled, was '5.7.0'"]],
-["yt-dlp","2024.05.27","2024.07.07","app-multimedia",1716888333,["Compliance mode enabled, was '2024.07.07'"]],
+["yt-dlp","2024.05.27","2024.07.09","app-multimedia",1716888333,["Compliance mode enabled, was '2024.07.09'"]],
 ["milkytracker","1.02.00","1.04.00","app-multimedia",1522011105,["Compliance mode enabled, was '1.04.00'"]],
 ["gpac","2.2.1","2.4.0","app-multimedia",1707279983,["Compliance mode enabled, was '2.4.0'"]],
 ["smpeg","0.4.5","2.0.0","app-multimedia",1678950872,["Compliance mode enabled, was '2_0_0'"]],
