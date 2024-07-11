@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720700611?label=Updated)
+![Relative date](https://img.shields.io/date/1720703939?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2063,7 +2063,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|podman|5.1.0|5.1.1|app-containers||
+|podman|5.1.0|5.1.2|app-containers||
 |podofo|0.9.6|0.10.3|runtime-doc|Compliance mode enabled, was '0.10.3'|
 |poedit|3.4.1|3.4.4-oss|app-i18n|Compliance mode enabled, was '3.4.4-oss'|
 |poetry|1.6.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
