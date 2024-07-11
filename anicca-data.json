@@ -2804,6 +2804,7 @@
 ["vice","3.5","3.8","app-emulation",1617969757,["Compliance mode enabled, was '3.8'"]],
 ["spim","9.1.23","9.1.24","app-emulation",1650696645,["Compliance mode enabled, was '9.1.24'"]],
 ["wine","9.9","9.12","app-emulation",1716210137,[]],
+["squid","5.7","6.10","app-web",1669533924,["Compliance mode enabled, was '6.10'"]],
 ["rclone","1.65.2","1.67.0","app-web",1712458054,["Compliance mode enabled, was '1.67.0'"]],
 ["dovecot","2.3.10.1","2.3.21","app-web",1590689607,["Compliance mode enabled, was '2.3.21'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
