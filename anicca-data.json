@@ -1,6 +1,5 @@
 [
 ["syncthing","1.27.3","1.27.9","app-network",1712458054,["Compliance mode enabled, was '1.27.9'"]],
-["lldpd","1.0.17","1.0.18","app-network",1692528695,["Compliance mode enabled, was '1.0.18'"]],
 ["openswan","2.6.51.5","3.0.0","app-network",1585799570,["Compliance mode enabled, was '3.0.0'"]],
 ["iproute2","6.8.0","6.9.0","app-network",1713434142,["Compliance mode enabled, was '6.9.0'"]],
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
@@ -495,6 +494,7 @@
 ["kongress","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
 ["akonadi-import-wizard","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
 ["kio-gdrive","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
+["kdialog","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
 ["merkuro","23.08.5","24.05.2","desktop-kde",1714377107,["Compliance mode enabled, was '24.05.2'"]],
 ["kiconthemes","5.115.0","6.1.2","desktop-kde",1714377107,["Compliance mode enabled, was '6.1.2'"]],
 ["kxmlgui","5.115.0","6.1.2","desktop-kde",1714377107,["Compliance mode enabled, was '6.1.2'"]],
