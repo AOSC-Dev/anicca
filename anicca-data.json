@@ -1178,6 +1178,7 @@
 ["castxml","0.6.7","0.6.8","app-devel",1720102263,["Compliance mode enabled, was '0.6.8'"]],
 ["sdcc","4.3.6","4.4.0","app-devel",1705649446,["Compliance mode enabled, was '4.4.0'"]],
 ["extra-cmake-modules","5.115.0","6.1.2","app-devel",1714377107,["Compliance mode enabled, was '6.1.2'"]],
+["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
 ["gperftools","2.13","2.15","app-devel",1696572712,["Compliance mode enabled, was '2.15'"]],
 ["dtc","1.6.0","1.7.0","app-devel",1601267869,["Compliance mode enabled, was '1.7.0'"]],
 ["gcc+cross-amd64","9.3.1","14.1.0","app-devel",1604822126,["Compliance mode enabled, was '14.1.0'"]],
