@@ -1328,6 +1328,7 @@
 ["openssl-1.1+32","1.1.1q","3.3.1","runtime-optenv32",1698249840,["Compliance mode enabled, was '3.3.1'"]],
 ["s2tc+32","20150112","1.0","runtime-optenv32",1446409563,["Compliance mode enabled, was '1.0'","Possible downgrade from the current version (20150112 -> 1.0)"]],
 ["librsvg+32","2.40.21","2.58.91","runtime-optenv32",1600624175,["Compliance mode enabled, was '2.58.91'"]],
+["readline+32","8.2.1","8.2","runtime-optenv32",1716037929,["Compliance mode enabled, was '8.2'","Possible downgrade from the current version (8.2.1 -> 8.2)"]],
 ["libtasn1+32","4.15.0","4.19.0","runtime-optenv32",1575786388,["Compliance mode enabled, was '4.19.0'"]],
 ["fluidsynth+32","1.1.6","2.3.5","runtime-optenv32",1463151022,["Compliance mode enabled, was '2.3.5'"]],
 ["libxdmcp+32","1.1.3","1.1.5","runtime-optenv32",1446418163,["Compliance mode enabled, was '1.1.5'"]],
