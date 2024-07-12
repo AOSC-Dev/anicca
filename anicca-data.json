@@ -54,6 +54,7 @@
 ["vsftpd","3.0.3","3.0.5","app-network",1696572712,["Compliance mode enabled, was '3.0.5'"]],
 ["smartdns","35","46","app-network",1640828077,["Compliance mode enabled, was '46'"]],
 ["miniupnpd","2.3.5","2.3.7","app-network",1710565425,["Compliance mode enabled, was '2.3.7'"]],
+["lighttpd","1.4.55","1.4.76","app-network",1600577920,["Compliance mode enabled, was '1.4.76'"]],
 ["fping","5.1","5.2","app-network",1711266244,["Compliance mode enabled, was '5.2'"]],
 ["vpnc","0.5.3r550","0.5.3","app-network",1678950872,["Compliance mode enabled, was '0.5.3'"]],
 ["ppp","2.4.9","2.5.0","app-network",1611382057,["Compliance mode enabled, was '2.5.0'"]],
