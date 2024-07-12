@@ -2314,6 +2314,7 @@
 ["pyzmq","22.3.0","26.0.3","lang-python",1637636761,["Compliance mode enabled, was '26.0.3'"]],
 ["pyiso8601","0.1.13","2.1.0","lang-python",1604819537,["Compliance mode enabled, was '2.1.0'"]],
 ["sos","4.4","4.7.2","lang-python",1678351353,["Compliance mode enabled, was '4.7.2'"]],
+["numpy","1.26.4","2.0.0","lang-python",1716538095,["Compliance mode enabled, was '2.0.0'"]],
 ["calver","2022.06.26","2022.6.26","lang-python",1708256695,["Compliance mode enabled, was '2022.6.26'"]],
 ["python-cloudflare","2.8.15","3.0.1","lang-python",1615174551,["Compliance mode enabled, was '3.0.1'"]],
 ["iniparse","0.4","0.5","lang-python",1678950872,["Compliance mode enabled, was '0.5'"]],
