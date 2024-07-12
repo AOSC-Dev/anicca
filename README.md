@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720797318?label=Updated)
+![Relative date](https://img.shields.io/date/1720800959?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -34,6 +34,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-calendar|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |akonadi-calendar-tools|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |akonadi-contacts|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|akonadi-import-wizard|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |akonadi-mime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |akonadi-notes|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |akonadi-search|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -373,6 +374,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|app-utils|Compliance mode enabled, was '0.191'|
 |elfutils+32|0.166|0.191|runtime-optenv32|Compliance mode enabled, was '0.191'|
 |elisa|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|embree|4.3.1|4.3.2|app-imaging|Compliance mode enabled, was '4.3.2'|
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant-2|2.3.1|2.8.1|app-i18n|Compliance mode enabled, was '2.8.1'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
