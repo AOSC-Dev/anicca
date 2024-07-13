@@ -1093,7 +1093,6 @@
 ["flint","2.5.2","3.1.2","runtime-scientific",1456091383,["Compliance mode enabled, was '3.1.2'"]],
 ["cgal","5.2","5.6.1","runtime-scientific",1614161662,["Compliance mode enabled, was '5.6.1'"]],
 ["igraph","0.7.1","0.10.13","runtime-scientific",1488405238,["Compliance mode enabled, was '0.10.13'"]],
-["ixion","0.17.0","0.19.0","runtime-scientific",1650696758,["Compliance mode enabled, was '0.19.0'"]],
 ["libmsym","0.2.3","0.2.4.2","runtime-scientific",1540624790,["Compliance mode enabled, was '0.2.4.2'"]],
 ["inih","53","58","app-devel",1620461774,["Compliance mode enabled, was '58'"]],
 ["vasm","1.9f","1.9.f","app-devel",1710150622,["Compliance mode enabled, was '1.9.f'"]],
