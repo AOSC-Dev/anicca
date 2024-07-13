@@ -2565,7 +2565,6 @@
 ["mjpegtools","2.1.0","2.2.1","app-multimedia",1678950872,["Compliance mode enabled, was '2.2.1'"]],
 ["feeluown","4.1.1","4.1.5","app-multimedia",1710216003,["Compliance mode enabled, was '4.1.5'"]],
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
-["pipewire","1.2.0","1.2.1","app-multimedia",1719538276,["Compliance mode enabled, was '1.2.1'"]],
 ["faac","1.29.9.2","1.30","app-multimedia",1530178630,["Compliance mode enabled, was '1.30'"]],
 ["simplescreenrecorder","0.4.3","0.4.4","app-multimedia",1636606052,["Compliance mode enabled, was '0.4.4'"]],
 ["gwc","0.21+19","0.22+06","app-multimedia",1499677281,["Compliance mode enabled, was '0.22-06'"]],
