@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720851521?label=Updated)
+![Relative date](https://img.shields.io/date/1720854783?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -384,7 +384,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |epiphany|42.4|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |epub2txt|0.1.4<br>+git20200105|0.1.6|app-doc|Compliance mode enabled, was '0.1.6'|
 |et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
-|ethtool|6.0|6.9|app-network|Compliance mode enabled, was '6.9'|
 |etl|1.2.2|1.5.1|runtime-common|Compliance mode enabled, was '1.5.1'|
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1960,6 +1959,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build-tiny|0.039|0.048|lang-perl|Compliance mode enabled, was '0.048'|
 |perl-module-find|0.13|0.16|lang-perl|Compliance mode enabled, was '0.16'|
 |perl-module-scandeps|1.27|1.35|lang-perl|Compliance mode enabled, was '1.35'|
+|perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
 |perl-mozilla-ca|20180117|20240313|lang-perl|Compliance mode enabled, was '20240313'|
 |perl-mro-compat|0.13|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-net-dbus|1.1.0|1.2.0|lang-perl|Compliance mode enabled, was '1.2.0'|
@@ -2512,6 +2512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemd|255.6|256|app-admin|Compliance mode enabled, was '256'|
 |systemsettings|5.27.11|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
+|sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |taglib|1.11.1|2.0.1|runtime-multimedia|Compliance mode enabled, was '2.0.1'|
 |taglib+32|1.11|2.0.1|runtime-optenv32|Compliance mode enabled, was '2.0.1'|
 |tagparser|11.5.1|12.2.0|runtime-multimedia|Compliance mode enabled, was '12.2.0'|
