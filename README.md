@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720945154?label=Updated)
+![Relative date](https://img.shields.io/date/1720948617?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2854,6 +2854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
 |zmusic|1.1.8|1.1.13|app-games|Compliance mode enabled, was '1.1.13'|
 |znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
+|zola|0.18.0|0.19.1|app-web|Compliance mode enabled, was '0.19.1'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|6.4.post2|lang-python|Compliance mode enabled, was '6.4.post2'|
