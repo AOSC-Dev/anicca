@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1720918596?label=Updated)
+![Relative date](https://img.shields.io/date/1720923038?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -859,7 +859,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbiff-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |kblackbox|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kblocks|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kbookmarks|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |kbookreader-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |kbounce|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kbreakout|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1199,7 +1198,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio+32|0.94|2.1.0|runtime-optenv32|Compliance mode enabled, was '2.1.0'|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices|Compliance mode enabled, was '2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
 |libcdr|0.1.6|0.1.7|runtime-imaging|Compliance mode enabled, was '0.1.7'|
-|libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
 |libchewing|0.5.1|0.8.5|runtime-i18n|Compliance mode enabled, was '0.8.5'|
 |libclc|17.0.3|18.1.8|runtime-devices|Compliance mode enabled, was '18.1.8'|
@@ -2491,7 +2489,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suitesparse|7.6.1|7.7.0|runtime-scientific|Compliance mode enabled, was '7.7.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.707.161755|app-multimedia|Compliance mode enabled, was '2024.707.161755'|
-|sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |svt-av1|2.1.0|2.1.2|runtime-multimedia|Compliance mode enabled, was '2.1.2'|
