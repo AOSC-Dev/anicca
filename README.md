@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721049519?label=Updated)
+![Relative date](https://img.shields.io/date/1721052781?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -164,7 +164,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
-|c-ares|1.28.1|1.32.1|runtime-network|Compliance mode enabled, was '1.32.1'|
+|c-ares|1.28.1|1.32.2|runtime-network|Compliance mode enabled, was '1.32.2'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
 |cachecontrol|0.12.6|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |cachetools|3.1.0|5.3.3|lang-python|Compliance mode enabled, was '5.3.3'|
