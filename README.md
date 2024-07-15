@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721041889?label=Updated)
+![Relative date](https://img.shields.io/date/1721046167?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1156,7 +1156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.38.0|1.39.0|lang-dlang|Compliance mode enabled, was '1.39.0'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |less|643|661|app-utils|Compliance mode enabled, was '661'|
-|level-zero|1.17.6|1.17.17|runtime-common|Compliance mode enabled, was '1.17.17'|
+|level-zero|1.17.6|1.17.19|runtime-common|Compliance mode enabled, was '1.17.19'|
 |levenshtein|0.12.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -1171,12 +1171,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
 |libassuan|2.5.3|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |libatomic-ops|7.8.0|7.8.2|runtime-common|Compliance mode enabled, was '7.8.2'|
-|libavif|0.11.1|1.0.4|runtime-multimedia|Compliance mode enabled, was '1.0.4'|
+|libavif|0.11.1|1.1.0|runtime-multimedia|Compliance mode enabled, was '1.1.0'|
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libblockdev|2.23|3.1.1|runtime-devices|Compliance mode enabled, was '3.1.1'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32|Compliance mode enabled, was '1.3.4'|
-|libbpf|1.2.0|1.4.3|runtime-kernel|Compliance mode enabled, was '1.4.3'|
+|libbpf|1.2.0|1.4.5|runtime-kernel|Compliance mode enabled, was '1.4.5'|
 |libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libbytesize|2.1|2.10|runtime-common|Compliance mode enabled, was '2.10'|
 |libc+wasi|20|22|runtime-wasi|Compliance mode enabled, was '22'|
@@ -1255,6 +1255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.2|desktop-gnome|Compliance mode enabled, was '4.4.2'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
+|libheif|1.17.6|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
 |libidn+32|1.33|1.42|runtime-optenv32|Compliance mode enabled, was '1.42'|
 |libidn2|2.3.0|2.3.7|runtime-network|Compliance mode enabled, was '2.3.7'|
@@ -2426,7 +2427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
-|sphinx|7.0.1|7.4.0|app-doc|Compliance mode enabled, was '7.4.0'|
+|sphinx|7.0.1|7.4.2|app-doc|Compliance mode enabled, was '7.4.2'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinx-tabs|3.4.1|3.4.5|app-doc|Compliance mode enabled, was '3.4.5'|
