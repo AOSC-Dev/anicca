@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721081645?label=Updated)
+![Relative date](https://img.shields.io/date/1721085236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2132,7 +2132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.8.2|lang-python|Compliance mode enabled, was '2.8.2'|
 |pydantic-core|2.16.1|2.20.1|lang-python|Compliance mode enabled, was '2.20.1'|
-|pydot|1.4.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|pydot|1.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
@@ -2160,7 +2160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparsing|2.4.7|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |pyparted|3.11.6|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
 |pypdf|4.0.1|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
-|pypdf2|1.26.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
+|pypdf2|1.26.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |pyperf|2.5.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
