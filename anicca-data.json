@@ -2555,6 +2555,7 @@
 ["mpg123","1.25.13","1.32.6","app-multimedia",1577608369,["Compliance mode enabled, was '1.32.6'"]],
 ["bluez-alsa","4.1.1","4.2.0","app-multimedia",1716478770,["Compliance mode enabled, was '4.2.0'"]],
 ["gpodder","3.10.17","3.11.4","app-multimedia",1606380094,["Compliance mode enabled, was '3.11.4'"]],
+["obs-studio","30.1.2","30.2.0","app-multimedia",1716603501,["Compliance mode enabled, was '30.2.0'"]],
 ["cdemu-client","3.2.4","3.2.5","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.5'"]],
 ["lilypond","2.23.0","2.25.4","app-multimedia",1620461823,["Compliance mode enabled, was '2.25.4'"]],
 ["mjpegtools","2.1.0","2.2.1","app-multimedia",1678950872,["Compliance mode enabled, was '2.2.1'"]],
