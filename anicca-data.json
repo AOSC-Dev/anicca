@@ -1045,7 +1045,7 @@
 ["adobe-source-code-pro","2.042","2.042-u/1.062-i/1.026-vf","desktop-fonts",1706083317,["Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'","Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)"]],
 ["adobe-source-han-sans","2.004","2.004r","desktop-fonts",1619721201,["Compliance mode enabled, was '2.004R'","Possible downgrade from the current version (2.004 -> 2.004r)"]],
 ["wqy-unibit","1.1.0","4.3.0","desktop-fonts",1678950872,["Compliance mode enabled, was '4.3.0'"]],
-["lxgwcleargothic-font","0.300.4","0.321","desktop-fonts",1715870557,["Compliance mode enabled, was '0.321'"]],
+["lxgwcleargothic-font","0.300.4","0.321.1","desktop-fonts",1715870557,["Compliance mode enabled, was '0.321.1'"]],
 ["adobe-source-sans","3.052","3.052r","desktop-fonts",1706083317,["Compliance mode enabled, was '3.052R'","Possible downgrade from the current version (3.052 -> 3.052r)"]],
 ["ttf-vlgothic","20200720","20220612","desktop-fonts",1629606314,["Compliance mode enabled, was '20220612'"]],
 ["iosevka-fonts","28.0.5","30.3.2","desktop-fonts",1706083317,["Compliance mode enabled, was '30.3.2'"]],
