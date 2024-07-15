@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721024408?label=Updated)
+![Relative date](https://img.shields.io/date/1721027604?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -252,7 +252,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|lang-python|Compliance mode enabled, was '5.0.8'|
 |configparser|3.7.3|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
-|conky|1.21.3|1.21.4|app-utils|Compliance mode enabled, was '1.21.4'|
 |conmon|2.1.10|2.1.12|app-admin|Compliance mode enabled, was '2.1.12'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
@@ -303,7 +302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|deno|1.44.1|1.44.4|lang-js|Compliance mode enabled, was '1.44.4'|
+|deno|1.44.1|1.45.2|lang-js|Compliance mode enabled, was '1.45.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -379,7 +378,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution|3.44.4|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
 |evolution-data-server|3.44.4|3.52.3|desktop-gnome|Compliance mode enabled, was '3.52.3'|
 |evolution-ews|3.42.0|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
-|evtest|1.34|1.35|app-utils|Compliance mode enabled, was '1.35'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exim|4.97.1|4.98|app-web|Compliance mode enabled, was '4.98'|
 |exiv2|0.27.5|0.28.3|runtime-imaging|Compliance mode enabled, was '0.28.3'|
@@ -807,7 +805,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |jupyter-client|5.2.4|8.6.2|lang-python|Compliance mode enabled, was '8.6.2'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
-|just|1.29.1|1.30.1|app-devel|Compliance mode enabled, was '1.30.1'|
 |k3b|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |k3b-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |k9copy-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
@@ -2813,7 +2810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.42|app-electronics|Compliance mode enabled, was '0.42'|
 |you-get|0.4.1700|0.4.1710|app-multimedia|Compliance mode enabled, was '0.4.1710'|
-|yt-dlp|2024.05.27|2024.07.09|app-multimedia|Compliance mode enabled, was '2024.07.09'|
 |ytmusicapi|1.7.2|1.7.4|lang-python|Compliance mode enabled, was '1.7.4'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.5.2|app-devices|Compliance mode enabled, was '2.5.2'|
