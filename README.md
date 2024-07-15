@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721074494?label=Updated)
+![Relative date](https://img.shields.io/date/1721078090?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1380,8 +1380,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32|Compliance mode enabled, was '1.2.2'|
 |libsodium|1.0.18|1.0.20|runtime-cryptography|Compliance mode enabled, was '1.0.20'|
 |libsoundio|1.1.0|2.0.1+7|runtime-multimedia|Compliance mode enabled, was '2.0.1-7'|
-|libsoup|2.74.2|3.5.1|runtime-web|Compliance mode enabled, was '3.5.1'|
-|libsoup-3|3.2.2|3.5.1|runtime-web|Compliance mode enabled, was '3.5.1'|
+|libsoup|2.74.2|3.5.2|runtime-web|Compliance mode enabled, was '3.5.2'|
+|libsoup-3|3.2.2|3.5.2|runtime-web|Compliance mode enabled, was '3.5.2'|
 |libspatialite|5.0.1|5.1.0|runtime-gis|Compliance mode enabled, was '5.1.0'|
 |libspectre|0.2.9|0.2.12|runtime-doc|Compliance mode enabled, was '0.2.12'|
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32|Compliance mode enabled, was '0.2.12'|
@@ -1828,7 +1828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.4|lang-python|Compliance mode enabled, was '0.8.4'|
-|partclone|0.3.20|0.3.31|app-admin|Compliance mode enabled, was '0.3.31'|
+|partclone|0.3.20|0.3.32|app-admin|Compliance mode enabled, was '0.3.32'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
@@ -1844,7 +1844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.2.3|app-devices|Compliance mode enabled, was '2.2.3'|
-|pcsx2|1.6.0<br>+git20210825|1.7.5973|app-games|Compliance mode enabled, was '1.7.5973'|
+|pcsx2|1.6.0<br>+git20210825|2.0.3|app-games|Compliance mode enabled, was '2.0.3'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20191020|20240706|app-doc|Compliance mode enabled, was '20240706'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
@@ -2454,7 +2454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32|Compliance mode enabled, was '3.46.0'|
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
-|sqlparse|0.4.1|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
+|sqlparse|0.4.1|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
 |squashfs-tools|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
 |squid|5.7|6.10|app-web|Compliance mode enabled, was '6.10'|
