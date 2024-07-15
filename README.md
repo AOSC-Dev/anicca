@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721038552?label=Updated)
+![Relative date](https://img.shields.io/date/1721041889?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -643,7 +643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grpc|1.64.0|1.65.0|app-network|Compliance mode enabled, was '1.65.0'|
 |grub-customizer|5.2.4|5.2.5|app-admin|Compliance mode enabled, was '5.2.5'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
-|gsettings-desktop-schemas|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gsettings-desktop-schemas|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
 |gsm|1.0.19|1.0.22|runtime-multimedia|Compliance mode enabled, was '1.0.22'|
 |gsm+32|1.0.19|1.0.22|runtime-optenv32|Compliance mode enabled, was '1.0.22'|
@@ -871,7 +871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |kcontacts|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |kcoreaddons|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
-|kcptun|20240107|20240706|app-network|Compliance mode enabled, was '20240706'|
+|kcptun|20240107|20240713|app-network|Compliance mode enabled, was '20240713'|
 |kcpuload-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |kcrash|5.115.0|6.1.2|desktop-kde|Compliance mode enabled, was '6.1.2'|
 |kcron|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
