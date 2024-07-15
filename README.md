@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721056593?label=Updated)
+![Relative date](https://img.shields.io/date/1721060249?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1566,6 +1566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |mbpfan|2.2.1|2.4.0|app-admin|Compliance mode enabled, was '2.4.0'|
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|mcfly|0.9.0|0.9.1|app-utils|Compliance mode enabled, was '0.9.1'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
 |mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
@@ -1581,7 +1582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa|24.0.7|24.1.3|runtime-display||
 |mesa+32|22.1.7|24.1.3|runtime-optenv32|Compliance mode enabled, was '24.1.3'|
 |mesa-amber|21.3.9|24.1.3|runtime-display|Compliance mode enabled, was '24.1.3'|
-|meson|1.4.0|1.4.1|app-devel|Compliance mode enabled, was '1.4.1'|
+|meson|1.4.0|1.5.0|app-devel|Compliance mode enabled, was '1.5.0'|
 |messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |metee|4.0.0|4.1.0|runtime-devices|Compliance mode enabled, was '4.1.0'|
