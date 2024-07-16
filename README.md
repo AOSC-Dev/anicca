@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721121307?label=Updated)
+![Relative date](https://img.shields.io/date/1721124715?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -127,7 +127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |bash|5.2.26|5.2.21|app-shells|Compliance mode enabled, was '5.2.21'<br>Possible downgrade from the current version (5.2.26 -> 5.2.21)|
 |basket-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
-|bcachefs-tools|1.9.2|1.9.3|app-admin|Compliance mode enabled, was '1.9.3'|
 |bcrypt|3.1.7|4.1.3|lang-python|Compliance mode enabled, was '4.1.3'|
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
@@ -415,7 +414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.0.1|runtime-optenv32|Compliance mode enabled, was '7.0.1'|
 |ffmpegthumbs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |ffms2|2.40|5.0|app-multimedia|Compliance mode enabled, was '5.0'|
-|ffnvcodec|11.1.5.1|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
+|ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
 |fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
 |fido2|0.9.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
 |file-roller|3.42.0|44.3|desktop-gnome|Compliance mode enabled, was '44.3'|
@@ -461,7 +460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|2.11.2|3.6.3|app-network|Compliance mode enabled, was '3.6.3'|
-|freetds|1.00.112|1.4.19|runtime-database|Compliance mode enabled, was '1.4.19'|
+|freetds|1.00.112|1.4.20|runtime-database|Compliance mode enabled, was '1.4.20'|
 |freetype|2.12.1|2.13.2|runtime-desktop|Compliance mode enabled, was '2.13.2'|
 |freetype+32|2.12.1|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
 |freexl|1.0.5|2.0.0|runtime-gis|Compliance mode enabled, was '2.0.0'|
@@ -1155,7 +1154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
 |libadwaita|1.5.0|1.5.2|desktop-gnome|Compliance mode enabled, was '1.5.2'|
-|libaio|0.3.111|0.3.113|runtime-common|Compliance mode enabled, was '0.3.113'|
 |libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
 |libantlr3c|3.4|4.13.1|runtime-common|Compliance mode enabled, was '4.13.1'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
@@ -1713,7 +1711,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.15.1|app-utils|Compliance mode enabled, was '2.15.1'|
 |nvidia|550.54.14|555.58.02|runtime-display|Compliance mode enabled, was '555.58.02'|
 |nvidia+32|0|555.58.02|runtime-optenv32|Compliance mode enabled, was '555.58.02'|
-|obs-studio|30.1.2|30.2.0|app-multimedia|Compliance mode enabled, was '30.2.0'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2794,8 +2791,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
 |xpra|5.0.8|6.0.2|app-network|Compliance mode enabled, was '6.0.2'|
-|xray|1.8.4|1.8.16|app-network|Compliance mode enabled, was '1.8.16'|
-|xray-plugin|1.8.11|1.8.15|app-network|Compliance mode enabled, was '1.8.15'|
+|xray|1.8.4|1.8.18|app-network|Compliance mode enabled, was '1.8.18'|
+|xray-plugin|1.8.11|1.8.17|app-network|Compliance mode enabled, was '1.8.17'|
 |xreader|3.8.5|4.2.1|app-doc|Compliance mode enabled, was '4.2.1'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'<br>Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
@@ -2804,7 +2801,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|393|app-utils|Compliance mode enabled, was '393'|
 |xviewer|3.0.2|3.4.5|app-imaging|Compliance mode enabled, was '3.4.5'|
-|xwayland|24.1.0|24.1.1|runtime-display|Compliance mode enabled, was '24.1.1'|
 |xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
 |xz+32|5.4.1|5.6.2|runtime-optenv32|Compliance mode enabled, was '5.6.2'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
@@ -2817,8 +2813,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.41|0.42|app-electronics|Compliance mode enabled, was '0.42'|
-|you-get|0.4.1700|0.4.1710|app-multimedia|Compliance mode enabled, was '0.4.1710'|
+|yosys|0.41|0.43|app-electronics|Compliance mode enabled, was '0.43'|
+|you-get|0.4.1700|0.4.1718|app-multimedia|Compliance mode enabled, was '0.4.1718'|
 |ytmusicapi|1.7.2|1.7.5|lang-python|Compliance mode enabled, was '1.7.5'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.5.2|app-devices|Compliance mode enabled, was '2.5.2'|
@@ -2827,7 +2823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubioath-desktop|5.1.0|7.0.1|app-devices|Compliance mode enabled, was '7.0.1'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
 |zanshin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|zarith|1.9.1|1.13|lang-ocaml|Compliance mode enabled, was '1.13'|
+|zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
