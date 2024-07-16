@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721160783?label=Updated)
+![Relative date](https://img.shields.io/date/1721164403?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -346,7 +346,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dovecot|2.3.10.1|2.3.21|app-web|Compliance mode enabled, was '2.3.21'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|22.11.1|24.03|runtime-network|Compliance mode enabled, was '24.03'|
-|dracut-ng|102|103|app-admin|Compliance mode enabled, was '103'|
 |dragon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |drkonqi|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |dropbox|202.4.5551|203.4.4857|app-web|Compliance mode enabled, was '203.4.4857'|
@@ -412,7 +411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
-|fend|1.4.9|1.5.0|app-utils|Compliance mode enabled, was '1.5.0'|
 |ffcall|2.2|2.4|runtime-common|Compliance mode enabled, was '2.4'|
 |ffmpeg|4.4.4|7.0.1|app-multimedia|Compliance mode enabled, was '7.0.1'|
 |ffmpeg+32|4.2.5|7.0.1|runtime-optenv32|Compliance mode enabled, was '7.0.1'|
@@ -2420,7 +2418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
-|sphinx|7.0.1|7.4.4|app-doc|Compliance mode enabled, was '7.4.4'|
+|sphinx|7.0.1|7.4.5|app-doc|Compliance mode enabled, was '7.4.5'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinx-tabs|3.4.1|3.4.5|app-doc|Compliance mode enabled, was '3.4.5'|
