@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721164403?label=Updated)
+![Relative date](https://img.shields.io/date/1721168050?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -215,7 +215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chinadns-ng|2024.05.12|2024.07.16|app-web|Compliance mode enabled, was '2024.07.16'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
-|chromium|126.0.6478.114|126.0.6478.126|app-web|Compliance mode enabled, was '126.0.6478.126'|
+|chromium|126.0.6478.114|126.0.6478.182|app-web|Compliance mode enabled, was '126.0.6478.182'|
 |cifs-utils|6.10|7.0|app-network|Compliance mode enabled, was '7.0'|
 |cinnamon|5.8.3|6.2.4|desktop-cinnamon|Compliance mode enabled, was '6.2.4'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -581,7 +581,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |gnome-mahjongg|3.38.3|3.40.1|desktop-gnome|Compliance mode enabled, was '3.40.1'|
 |gnome-maps|42.3|46.11|desktop-gnome|Compliance mode enabled, was '46.11'|
-|gnome-nibbles|3.38.2|4.0.4|desktop-gnome|Compliance mode enabled, was '4.0.4'|
 |gnome-online-accounts|3.44.0|3.51.0|desktop-gnome|Compliance mode enabled, was '3.51.0'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
@@ -618,6 +617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.137.0|lang-python|Compliance mode enabled, was '2.137.0'|
 |google-auth|1.6.3|2.32.0|lang-python|Compliance mode enabled, was '2.32.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|126.0.6478.126|126.0.6478.182|app-web|Compliance mode enabled, was '126.0.6478.182'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
 |gpodder|3.10.17|3.11.4|app-multimedia|Compliance mode enabled, was '3.11.4'|
@@ -1684,6 +1684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
 |newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
 |nfs-utils|2.6.2|2.6.4|app-utils|Compliance mode enabled, was '2.6.4'|
+|nftables|1.0.9|1.1.0|app-network|Compliance mode enabled, was '1.1.0'|
 |nghttp2|1.58.0|1.62.1|runtime-web|Compliance mode enabled, was '1.62.1'|
 |nghttp3|1.3.0|1.4.0|runtime-web|Compliance mode enabled, was '1.4.0'|
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
