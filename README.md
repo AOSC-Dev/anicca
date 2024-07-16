@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721157195?label=Updated)
+![Relative date](https://img.shields.io/date/1721160783?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -141,6 +141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |blinker|1.4|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |bluedevil|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
+|bluez|5.76|5.77|app-devices|Compliance mode enabled, was '5.77'|
 |bluez-alsa|4.1.1|4.2.0|app-multimedia|Compliance mode enabled, was '4.2.0'|
 |bluez-qt|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |bomber|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -300,6 +301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
+|delve|1.22.1|1.23.0|lang-golang|Compliance mode enabled, was '1.23.0'|
 |deno|1.44.1|1.45.2|lang-js|Compliance mode enabled, was '1.45.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -942,7 +944,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |khtml|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |ki18n|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
-|kicad|8.0.2|8.0.3|app-electronics|Compliance mode enabled, was '8.0.3'|
+|kicad|8.0.2|8.0.4|app-electronics|Compliance mode enabled, was '8.0.4'|
 |kiconthemes|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kid3|3.8.3|3.9.5|app-multimedia|Compliance mode enabled, was '3.9.5'|
 |kidentitymanagement|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
