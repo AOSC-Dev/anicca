@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721247216?label=Updated)
+![Relative date](https://img.shields.io/date/1721250799?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1107,7 +1107,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |ktouch|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |ktrip|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|ktuberling|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kturtle|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kubo|0.26.0|0.10.0|app-network|Compliance mode enabled, was '0.10.0'<br>Possible downgrade from the current version (0.26.0 -> 0.10.0)|
 |kubrick|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -2175,7 +2174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2024.1.9|lang-python|Compliance mode enabled, was '2024.1.9'|
+|pytools|2019.1|2024.1.10|lang-python|Compliance mode enabled, was '2024.1.10'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
@@ -2726,7 +2725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9|9.13|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
-|wireshark|4.2.5|4.2.6|app-network|Compliance mode enabled, was '4.2.6'|
+|wireshark|4.2.5|4.3.0|app-network|Compliance mode enabled, was '4.3.0'|
 |wlroots|0.17.4|0.18.0|runtime-display|Compliance mode enabled, was '0.18.0'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.2-stable|runtime-cryptography|Compliance mode enabled, was '5.7.2-stable'|
