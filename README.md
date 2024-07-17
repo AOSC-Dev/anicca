@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721183973?label=Updated)
+![Relative date](https://img.shields.io/date/1721186146?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -87,7 +87,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.6|8.0.7|app-devel|Compliance mode enabled, was '8.0.7'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
-|ast-grep|0.24.1|0.25.1|app-devel|Compliance mode enabled, was '0.25.1'|
 |astroid|2.12.2|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |astyle|3.5|3.5.2|app-devel|Compliance mode enabled, was '3.5.2'|
@@ -746,6 +745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ifaddr|0.1.7|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
+|igsc|0.8.16|0.8.18|runtime-devices|Compliance mode enabled, was '0.8.18'|
 |igv|2.15.1|2.17.4|app-scientific|Compliance mode enabled, was '2.17.4'|
 |iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
 |imagemagick|6.9.13<br>+7|6.9.13+13|app-utils|Compliance mode enabled, was '6.9.13-13'|
@@ -1559,7 +1559,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |mbpfan|2.2.1|2.4.0|app-admin|Compliance mode enabled, was '2.4.0'|
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|mcfly|0.9.0|0.9.1|app-utils|Compliance mode enabled, was '0.9.1'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
 |mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
@@ -1638,7 +1637,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mycli|1.23.2|1.27.2|app-database|Compliance mode enabled, was '1.27.2'|
 |mygpoclient|1.8|1.9|lang-python|Compliance mode enabled, was '1.9'|
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
-|nano|8.0|8.1|app-editors||
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
 |nasm|2.16.01|2.16.03|app-devel|Compliance mode enabled, was '2.16.03'|
