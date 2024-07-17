@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721233023?label=Updated)
+![Relative date](https://img.shields.io/date/1721236289?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -69,7 +69,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.7.14|app-admin|Compliance mode enabled, was '2.7.14'|
 |aqbanking|6.2.2|6.5.4|runtime-productivity|Compliance mode enabled, was '6.5.4'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
-|archlinux-keyring|20240609|20240709|app-admin|Compliance mode enabled, was '20240709'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
 |argyllcms|3.1.0|3.2.0|app-imaging|Compliance mode enabled, was '3.2.0'|
@@ -292,7 +291,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
-|debconf|1.5.86|1.5.87|app-admin|Compliance mode enabled, was '1.5.87'|
 |debianutils|5.7|5.20|app-utils|Compliance mode enabled, was '5.20'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
@@ -1719,7 +1717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde|Compliance mode enabled, was '0.26.15'|
 |okular|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.3.23|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.3.24|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.20.0|2.21.0|app-utils|Compliance mode enabled, was '2.21.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7618-240708-dd937d8|app-games|Compliance mode enabled, was '1.91.0.7618-240708-dd937d8'|
