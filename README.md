@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721200420?label=Updated)
+![Relative date](https://img.shields.io/date/1721204265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1384,7 +1384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.10.6|runtime-optenv32|Compliance mode enabled, was '0.10.6'|
 |libssh2|1.9.0|1.11.0|runtime-network|Compliance mode enabled, was '1.11.0'|
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
-|libstoragemgmt|1.7.3|1.10.0|runtime-admin|Compliance mode enabled, was '1.10.0'|
+|libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
 |libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
 |libtasn1|4.15.0|4.19.0|runtime-cryptography|Compliance mode enabled, was '4.19.0'|
 |libtasn1+32|4.15.0|4.19.0|runtime-optenv32|Compliance mode enabled, was '4.19.0'|
@@ -1580,6 +1580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.0.0|4.1.0|runtime-devices|Compliance mode enabled, was '4.1.0'|
 |mgba|0.9.2|0.10.3|app-games|Compliance mode enabled, was '0.10.3'|
 |microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
+|midori|9.0|11.3.3|app-web|Compliance mode enabled, was '11.3.3'|
 |milkytracker|1.02.00|1.04.00|app-multimedia|Compliance mode enabled, was '1.04.00'|
 |milou|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
