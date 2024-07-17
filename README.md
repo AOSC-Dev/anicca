@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721186146?label=Updated)
+![Relative date](https://img.shields.io/date/1721189737?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -345,6 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dovecot|2.3.10.1|2.3.21|app-web|Compliance mode enabled, was '2.3.21'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|22.11.1|24.03|runtime-network|Compliance mode enabled, was '24.03'|
+|dpkg|1.22.6|1.22.7|app-admin|Compliance mode enabled, was '1.22.7'|
 |dragon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |drkonqi|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |dropbox|202.4.5551|203.4.4857|app-web|Compliance mode enabled, was '203.4.4857'|
@@ -769,7 +770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
-|iproute2|6.8.0|6.9.0|app-network|Compliance mode enabled, was '6.9.0'|
+|iproute2|6.8.0|6.10.0|app-network|Compliance mode enabled, was '6.10.0'|
 |ipset|7.1|7.22|app-network|Compliance mode enabled, was '7.22'|
 |ipt2socks|1.1.3|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |iptables|1.8.8|1.8.10|app-network|Compliance mode enabled, was '1.8.10'|
