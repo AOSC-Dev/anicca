@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721229395?label=Updated)
+![Relative date](https://img.shields.io/date/1721233023?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -89,7 +89,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
 |astroid|2.12.2|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
-|astyle|3.5|3.5.2|app-devel|Compliance mode enabled, was '3.5.2'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |at-spi2-core|2.52.0|2.53.0|desktop-gnome|Compliance mode enabled, was '2.53.0'|
 |at-spi2-core+32|2.26.3|2.53.0|runtime-optenv32|Compliance mode enabled, was '2.53.0'|
@@ -1562,9 +1561,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8|app-vcs|Compliance mode enabled, was '6.8'|
 |merkuro|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|mesa|24.0.7|24.1.3|runtime-display||
-|mesa+32|22.1.7|24.1.3|runtime-optenv32|Compliance mode enabled, was '24.1.3'|
-|mesa-amber|21.3.9|24.1.3|runtime-display|Compliance mode enabled, was '24.1.3'|
+|mesa|24.0.7|24.1.4|runtime-display||
+|mesa+32|22.1.7|24.1.4|runtime-optenv32|Compliance mode enabled, was '24.1.4'|
+|mesa-amber|21.3.9|24.1.4|runtime-display|Compliance mode enabled, was '24.1.4'|
 |meson|1.4.0|1.5.0|app-devel|Compliance mode enabled, was '1.5.0'|
 |messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
@@ -1637,7 +1636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |nbxmpp|3.1.0|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
-|ncbi-blast+|2.13.0|2.15.0+|app-scientific|Compliance mode enabled, was '2.15.0+'|
+|ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.4|app-utils|Compliance mode enabled, was '2.4'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
