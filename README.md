@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721254470?label=Updated)
+![Relative date](https://img.shields.io/date/1721258044?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2336,8 +2336,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |serf|1.3.9|1.3.10|runtime-web|Compliance mode enabled, was '1.3.10'|
 |service-identity|18.1.0|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
-|setuptools-python2|44.1.0|70.3.0|lang-python|Compliance mode enabled, was '70.3.0'|
-|setuptools-python3|69.1.0|70.3.0|lang-python|Compliance mode enabled, was '70.3.0'|
+|setuptools-python2|44.1.0|71.0.0|lang-python|Compliance mode enabled, was '71.0.0'|
+|setuptools-python3|69.1.0|71.0.0|lang-python|Compliance mode enabled, was '71.0.0'|
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
@@ -2396,7 +2396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundkonverter-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
 |soupsieve|1.8.0|2.5|lang-python|Compliance mode enabled, was '2.5'|
-|sozu|0.15.2|1.0.2|app-web|Compliance mode enabled, was '1.0.2'|
+|sozu|0.15.2|1.0.3|app-web|Compliance mode enabled, was '1.0.3'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spectacle|22.12.3|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
