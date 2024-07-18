@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721286761?label=Updated)
+![Relative date](https://img.shields.io/date/1721290595?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -212,6 +212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |chromium|126.0.6478.114|126.0.6478.182|app-web|Compliance mode enabled, was '126.0.6478.182'|
+|ciel|3.2.6|3.2.7|app-devel|Compliance mode enabled, was '3.2.7'|
 |cifs-utils|6.10|7.0|app-network|Compliance mode enabled, was '7.0'|
 |cinnamon|5.8.3|6.2.4|desktop-cinnamon|Compliance mode enabled, was '6.2.4'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -253,7 +254,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containers-common|0.59.0|1.0.1|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
-|corefreq|20170301|1.97.2-x86_64|app-utils|Compliance mode enabled, was '1.97.2-x86_64'<br>Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
 |cpp-utilities|5.20.0|5.25.0|runtime-common|Compliance mode enabled, was '5.25.0'|
 |cppcheck|2.8|2.14.0|app-devel|Compliance mode enabled, was '2.14.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
@@ -339,7 +339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dovecot|2.3.10.1|2.3.21|app-web|Compliance mode enabled, was '2.3.21'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|22.11.1|24.03|runtime-network|Compliance mode enabled, was '24.03'|
-|dpkg|1.22.6|1.22.7|app-admin|Compliance mode enabled, was '1.22.7'|
 |dragon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |drkonqi|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |dropbox|202.4.5551|203.4.4857|app-web|Compliance mode enabled, was '203.4.4857'|
@@ -351,7 +350,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
 |dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
-|e2fsprogs|1.47.0|1.47.1|app-admin|Compliance mode enabled, was '1.47.1'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
@@ -1714,7 +1712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde|Compliance mode enabled, was '0.26.15'|
 |okular|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.3.25|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.3.26|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.20.0|2.21.0|app-utils|Compliance mode enabled, was '2.21.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7618-240708-dd937d8|app-games|Compliance mode enabled, was '1.91.0.7618-240708-dd937d8'|
@@ -2023,7 +2021,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
-|pnpm|9.4.0|9.5.0|lang-js|Compliance mode enabled, was '9.5.0'|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
