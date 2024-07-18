@@ -2241,7 +2241,6 @@
 ["pam-python","1.0.7","1.0.8","lang-python",1594193185,["Compliance mode enabled, was '1.0.8'"]],
 ["trollius","2.1","2.2.1","lang-python",1551199939,["Compliance mode enabled, was '2.2.1'"]],
 ["wheel","0.42.0","0.43.0","lang-python",1708762785,["Compliance mode enabled, was '0.43.0'"]],
-["jsonpointer","2.3","3.0.0","lang-python",1678351353,["Compliance mode enabled, was '3.0.0'"]],
 ["cssselect2","0.6.0","0.7.0","lang-python",1658966837,["Compliance mode enabled, was '0.7.0'"]],
 ["docutils","0.20.1","0.21.2","lang-python",1700548607,["Compliance mode enabled, was '0.21.2'"]],
 ["terminaltables","3.1.0","3.1.10","lang-python",1678950872,["Compliance mode enabled, was '3.1.10'"]],

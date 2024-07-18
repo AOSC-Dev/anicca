@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721319336?label=Updated)
+![Relative date](https://img.shields.io/date/1721322868?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -797,7 +797,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compliance mode enabled, was '0.17'|
 |json-glib|1.8.0|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
-|jsonpointer|2.3|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |jsonrpc-glib|3.42.0|3.44.0|runtime-common|Compliance mode enabled, was '3.44.0'|
 |jsonschema|3.2.0|0.0.1|lang-python|Compliance mode enabled, was '0.0.1'<br>Possible downgrade from the current version (3.2.0 -> 0.0.1)|
 |juk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
