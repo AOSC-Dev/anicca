@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721283424?label=Updated)
+![Relative date](https://img.shields.io/date/1721286761?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -80,6 +80,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |asahi-common|20231113|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20231113 -> 20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
+|asciidoc|10.2.0|10.2.1|app-doc|Compliance mode enabled, was '10.2.1'|
 |asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
@@ -792,6 +793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |josepy|1.13.0|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |json-c|0.16|0.17|runtime-common|Compliance mode enabled, was '0.17'|
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compliance mode enabled, was '0.17'|
+|json-glib|1.8.0|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |jsonpointer|2.3|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |jsonrpc-glib|3.42.0|3.44.0|runtime-common|Compliance mode enabled, was '3.44.0'|
@@ -2680,7 +2682,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.91.0.24190|1.91.1.24193|app-editors|Compliance mode enabled, was '1.91.1.24193'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.3|runtime-desktop|Compliance mode enabled, was '0.76.3'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
