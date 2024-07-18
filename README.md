@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721301129?label=Updated)
+![Relative date](https://img.shields.io/date/1721305350?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1454,15 +1454,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.5.11 -> 5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (6.6.31 -> 5.10.221)|
+|linux+kernel+lts|6.6.31|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (6.6.31 -> 5.10.222)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
-|linux+kernel+retro|5.10.204|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'|
-|linux+kernel+retro+minimal|5.15.17|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (5.15.17 -> 5.10.221)|
+|linux+kernel+retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
+|linux+kernel+retro+minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
 |linux-firmware|20240506|20240709|runtime-kernel||
 |linux-kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'|
-|linux-kernel-retro-minimal|5.15.17|5.10.221|runtime-kernel|Compliance mode enabled, was '5.10.221'<br>Possible downgrade from the current version (5.15.17 -> 5.10.221)|
+|linux-kernel-retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
+|linux-kernel-retro-minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
