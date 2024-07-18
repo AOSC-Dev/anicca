@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721272543?label=Updated)
+![Relative date](https://img.shields.io/date/1721276155?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -312,7 +312,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distro|1.6.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |django|5.0.3|5.0.7|lang-python|Compliance mode enabled, was '5.0.7'|
 |dlib|19.20.0|19.24.4|lang-python|Compliance mode enabled, was '19.24.4'|
-|dns2tcp|1.1.1|1.1.2|app-web|Compliance mode enabled, was '1.1.2'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -2713,7 +2712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.3.4|app-web|Compliance mode enabled, was '4.3.4'|
+|weechat|4.2.2|4.3.5|app-web|Compliance mode enabled, was '4.3.5'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|1.0.1|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |wesnoth|1.16.10|1.19.1|app-games|Compliance mode enabled, was '1.19.1'|
@@ -2777,7 +2776,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
 |xpra|5.0.8|6.0.2|app-network|Compliance mode enabled, was '6.0.2'|
-|xray|1.8.4|1.8.18|app-network|Compliance mode enabled, was '1.8.18'|
+|xray|1.8.4|1.8.19|app-network|Compliance mode enabled, was '1.8.19'|
 |xray-plugin|1.8.11|1.8.17|app-network|Compliance mode enabled, was '1.8.17'|
 |xreader|3.8.5|4.2.1|app-doc|Compliance mode enabled, was '4.2.1'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
