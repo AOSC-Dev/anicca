@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721329899?label=Updated)
+![Relative date](https://img.shields.io/date/1721333638?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2743,7 +2743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x264+32|20160827.2245|3191|runtime-optenv32|Compliance mode enabled, was '3191'<br>Possible downgrade from the current version (20160827.2245 -> 3191)|
 |x265+32|2.2|3.6|runtime-optenv32|Compliance mode enabled, was '3.6'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
-|xapian-core|1.4.18|1.4.25|runtime-common|Compliance mode enabled, was '1.4.25'|
+|xapian-core|1.4.18|1.4.26|runtime-common|Compliance mode enabled, was '1.4.26'|
 |xapps|2.8.2|2.8.4|runtime-desktop|Compliance mode enabled, was '2.8.4'|
 |xarchiver|0.5.4.15|0.5.4.23|app-utils|Compliance mode enabled, was '0.5.4.23'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
