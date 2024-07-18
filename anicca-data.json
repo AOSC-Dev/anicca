@@ -1174,6 +1174,7 @@
 ["gperftools","2.13","2.15","app-devel",1696572712,["Compliance mode enabled, was '2.15'"]],
 ["gcc+cross-amd64","9.3.1","14.1.0","app-devel",1604822126,["Compliance mode enabled, was '14.1.0'"]],
 ["sccache","0.3.3","0.8.1","app-devel",1680558295,["Compliance mode enabled, was '0.8.1'"]],
+["gh","2.52.0","2.53.0","app-devel",1719323994,["Compliance mode enabled, was '2.53.0'"]],
 ["mold","2.32.0","2.32.1","app-devel",1718243439,["Compliance mode enabled, was '2.32.1'"]],
 ["spirv-llvm-translator","18.1.0","18.1.2","app-devel",1721226526,["Compliance mode enabled, was '18.1.2'"]],
 ["gcc+cross-loongson3","13.2.0+glibc2.37+0","14.1.0","app-devel",1671941046,["Compliance mode enabled, was '14.1.0'"]],
