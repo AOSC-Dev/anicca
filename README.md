@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721366128?label=Updated)
+![Relative date](https://img.shields.io/date/1721369880?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -43,12 +43,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |allegro|5.2.6.0|5.2.9.1|runtime-games|Compliance mode enabled, was '5.2.9.1'|
 |allegro+32|4.4.2|5.2.9.1|runtime-optenv32|Compliance mode enabled, was '5.2.9.1'|
 |alligator|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|alsa-lib|1.2.6.1|1.2.12|runtime-multimedia|Compliance mode enabled, was '1.2.12'|
 |alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
-|alsa-plugins|1.2.7.1|1.2.12|runtime-multimedia|Compliance mode enabled, was '1.2.12'|
 |alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
-|alsa-ucm-conf-asahi|4|5|runtime-multimedia|Compliance mode enabled, was '5'|
-|alsa-utils|1.2.8|1.2.12|app-multimedia|Compliance mode enabled, was '1.2.12'|
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |analitza|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -354,7 +350,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
-|egl-wayland|1.1.13|1.1.14|runtime-display|Compliance mode enabled, was '1.1.14'|
 |elfutils+32|0.166|0.191|runtime-optenv32|Compliance mode enabled, was '0.191'|
 |elisa|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |embree|4.3.1|4.3.2|app-imaging|Compliance mode enabled, was '4.3.2'|
@@ -1645,7 +1640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses+32|6.4|6.5+20240713|runtime-optenv32|Compliance mode enabled, was '6.5-20240713'|
 |ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
 |neatvnc|0.7.1|0.8.0|runtime-network|Compliance mode enabled, was '0.8.0'|
-|nemo|5.8.3|6.2.3|desktop-cinnamon|Compliance mode enabled, was '6.2.3'|
+|nemo|5.8.3|6.2.4|desktop-cinnamon|Compliance mode enabled, was '6.2.4'|
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |neochat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |neomutt|20200619|20240425|app-web|Compliance mode enabled, was '20240425'|
@@ -2050,6 +2045,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19<br>+20140130|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
+|postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |postgresql|13.15|17|app-database|Compliance mode enabled, was '17'|
 |potracegui-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |powerdevil|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
@@ -2379,8 +2375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowball|2.1.0|2.2.0|runtime-common|Compliance mode enabled, was '2.2.0'|
 |snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
-|sof-firmware|2.2.3|2024.03|runtime-kernel|Compliance mode enabled, was '2024.03'|
-|sof-tools|2.2.3|2024.03|app-multimedia|Compliance mode enabled, was '2024.03'|
+|sof-tools|2.8.1|2024.03|app-multimedia|Compliance mode enabled, was '2024.03'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solaar|1.1.11|1.1.13|app-utils|Compliance mode enabled, was '1.1.13'|
 |solid|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
