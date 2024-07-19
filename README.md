@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721398530?label=Updated)
+![Relative date](https://img.shields.io/date/1721402130?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -243,7 +243,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
-|containers-common|0.59.0|0.59.2|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.97.2-x86_64|app-utils|Compliance mode enabled, was '1.97.2-x86_64'<br>Possible downgrade from the current version (20170301 -> 1.97.2-x86_64)|
 |cpp-utilities|5.20.0|5.25.0|runtime-common|Compliance mode enabled, was '5.25.0'|
@@ -457,7 +456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fvwm|2.6.9|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |fzf|0.46.1|0.54.0|app-utils|Compliance mode enabled, was '0.54.0'|
-|gajim|1.4.0|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
+|gajim|1.4.0|1.9.2|app-web|Compliance mode enabled, was '1.9.2'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.0.0|app-devel|Compliance mode enabled, was '3.0.0'|
 |gap|4.10.2|4.13.1|app-scientific|Compliance mode enabled, was '4.13.1'|
@@ -608,7 +607,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
 |graphviz|10.0.1|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
-|grep|3.8|3.11|app-utils|Compliance mode enabled, was '3.11'|
 |greybird|3.22.12|3.23.3|desktop-themes|Compliance mode enabled, was '3.23.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
@@ -893,7 +891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|app-utils|Compliance mode enabled, was '1.4'|
 |keepassxc|2.6.6|2.7.9|app-utils|Compliance mode enabled, was '2.7.9'|
 |kemoticons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
-|kernel-tools|6.9.7|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|kernel-tools|6.10.0|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.0 -> 5.19.17)|
 |kexec-tools|2.0.28|2.0.29|app-admin|Compliance mode enabled, was '2.0.29'|
 |keximdb-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |keyring|21.7.0|25.2.1|lang-python|Compliance mode enabled, was '25.2.1'|
@@ -990,6 +988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knetwalk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |knewstuff|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |knights|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|knights-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |knmap-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |knotes|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |knotifications|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
@@ -1435,14 +1434,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
 |linux+api|6.7.12|5.19.17|core-devel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|linux+kernel|6.10.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.0 -> 5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.5.11 -> 5.19.17)|
 |linux+kernel+lts|6.6.31|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (6.6.31 -> 5.10.222)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
 |linux+kernel+retro+minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
 |linux-firmware|20240506|20240709|runtime-kernel||
-|linux-kernel|6.9.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.9.7 -> 5.19.17)|
+|linux-kernel|6.10.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.0 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
 |linux-kernel-retro-minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
