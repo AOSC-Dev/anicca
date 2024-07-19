@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721384009?label=Updated)
+![Relative date](https://img.shields.io/date/1721387524?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1301,7 +1301,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs-static|4.0.0|5.0.3|runtime-network|Compliance mode enabled, was '5.0.3'|
 |libnftnl|1.2.6|1.2.7|runtime-network|Compliance mode enabled, was '1.2.7'|
 |libnice|0.1.17|0.1.22|runtime-network|Compliance mode enabled, was '0.1.22'|
-|libnl+32|3.2.28|3.9.0|runtime-optenv32|Compliance mode enabled, was '3.9.0'|
+|libnl|3.9.0|3.10.0|runtime-network|Compliance mode enabled, was '3.10.0'|
+|libnl+32|3.2.28|3.10.0|runtime-optenv32|Compliance mode enabled, was '3.10.0'|
 |libnotify|0.7.9|0.8.3|runtime-desktop|Compliance mode enabled, was '0.8.3'|
 |libnsl2|1.3.0|2.0.1|runtime-network|Compliance mode enabled, was '2.0.1'|
 |libnspsl|0.1.6|0.1.7|runtime-web|Compliance mode enabled, was '0.1.7'|
