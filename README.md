@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721380400?label=Updated)
+![Relative date](https://img.shields.io/date/1721384009?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1814,7 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.2.3|app-devices|Compliance mode enabled, was '2.2.3'|
-|pcsx2|1.6.0<br>+git20210825|2.0.3|app-games|Compliance mode enabled, was '2.0.3'|
+|pcsx2|1.6.0<br>+git20210825|2.1.14|app-games|Compliance mode enabled, was '2.1.14'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20191020|20240706|app-doc|Compliance mode enabled, was '20240706'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
@@ -2129,10 +2129,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pypsutil|5.8.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |pyqt-builder|1.12.1|1.16.4|lang-python|Compliance mode enabled, was '1.16.4'|
-|pyqt5|5.15.5|5.15.10|lang-python|Compliance mode enabled, was '5.15.10'|
+|pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
 |pyqt5-sip|12.9.0|12.15.0|lang-python|Compliance mode enabled, was '12.15.0'|
+|pyqt6|6.7.0|6.7.1|lang-python|Compliance mode enabled, was '6.7.1'|
 |pyqt6-sip|13.6.0|13.8.0|lang-python|Compliance mode enabled, was '13.8.0'|
-|pyqtwebengine|5.15.5|5.15.6|lang-python|Compliance mode enabled, was '5.15.6'|
+|pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyscard|1.9.9|2.0.10|lang-python|Compliance mode enabled, was '2.0.10'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.2.1|lang-python|Compliance mode enabled, was '5.15.2.1'<br>Possible downgrade from the current version (5.15.14 -> 5.15.2.1)|
@@ -2458,7 +2459,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sweeper|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
-|sympy|1.12|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
+|sympy|1.12|1.13.1|lang-python|Compliance mode enabled, was '1.13.1'|
 |synaptic|0.90.2|0.91.3|app-admin|Compliance mode enabled, was '0.91.3'|
 |syncthing|1.27.3|1.27.9|app-network|Compliance mode enabled, was '1.27.9'|
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
