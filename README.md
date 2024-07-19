@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721377002?label=Updated)
+![Relative date](https://img.shields.io/date/1721380400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -168,7 +168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|calibre|7.10.0|7.14.0|app-doc|Compliance mode enabled, was '7.14.0'|
+|calibre|7.10.0|7.15.0|app-doc|Compliance mode enabled, was '7.15.0'|
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
 |calindori|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -598,7 +598,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2.9.2|runtime-gnustep|Compliance mode enabled, was '2_9_2'|
 |gnutls|3.8.4|3.8.6|runtime-cryptography|Compliance mode enabled, was '3.8.6'|
 |gnutls+32|3.6.15|3.8.6|runtime-optenv32|Compliance mode enabled, was '3.8.6'|
-|go|1.22.3|1.22.5|lang-golang||
 |gobject-introspection|1.80.0|1.80.1|app-devel|Compliance mode enabled, was '1.80.1'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |goldendict|1.5.0~rc2|1.5.0|app-i18n|Compliance mode enabled, was '1.5.0'|
@@ -1743,7 +1742,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |openldap|2.6.7|2.6.8|app-admin|Compliance mode enabled, was '2_6_8'|
 |openldap+32|2.4.59|2.6.8|runtime-optenv32|Compliance mode enabled, was '2_6_8'|
-|openmpi|4.1.6|5.0.3|app-scientific|Compliance mode enabled, was '5.0.3'|
+|openmpi|4.1.6|5.0.4|app-scientific|Compliance mode enabled, was '5.0.4'|
 |openmpt|0.6.4|0.7.8|app-multimedia|Compliance mode enabled, was '0.7.8'|
 |openpgl|0.5.0|0.6.0|runtime-creativity|Compliance mode enabled, was '0.6.0'|
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
@@ -1769,6 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
+|osu-lazer|2024.625.3|2024.718.0|app-games|Compliance mode enabled, was '2024.718.0'|
 |oxygen|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |oxygen-icons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |oxygen-sounds|5.25.3|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
