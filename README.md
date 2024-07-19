@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721369880?label=Updated)
+![Relative date](https://img.shields.io/date/1721373283?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -382,7 +382,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
 |faad2+32|2.10.0|2.11.1|runtime-optenv32|Compliance mode enabled, was '2.11.1'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
-|fakeroot|1.34|1.35.1|app-utils|Compliance mode enabled, was '1.35.1'|
 |falkon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
@@ -660,7 +659,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtkwave|3.3.119|3.3.120|app-electronics|Compliance mode enabled, was '3.3.120'|
 |gtranslator|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
-|gucharmap|15.1.3|15.1.5|desktop-gnome|Compliance mode enabled, was '15.1.5'|
 |gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
 |gupnp|1.2.4|1.6.6|desktop-gnome|Compliance mode enabled, was '1.6.6'|
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
@@ -2799,7 +2797,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
-|zed|0.143.7|0.144.3|app-editors|Compliance mode enabled, was '0.144.3'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.132.2|lang-python|Compliance mode enabled, was '0.132.2'|
 |zerotier-one|1.12.2|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
