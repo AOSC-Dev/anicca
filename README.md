@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721423520?label=Updated)
+![Relative date](https://img.shields.io/date/1721427346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -598,14 +598,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpodder|3.10.17|3.11.4|app-multimedia|Compliance mode enabled, was '3.11.4'|
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |gpsim|0.31.0|0.32.1|app-electronics|Compliance mode enabled, was '0.32.1'|
-|gptfdisk|1.0.9|1.0.10|app-admin|Compliance mode enabled, was '1.0.10'|
 |gradle|8.3|8.9.0|lang-java|Compliance mode enabled, was '8.9.0'|
 |graftcp|0.7.2|0.7.3|app-network|Compliance mode enabled, was '0.7.3'|
 |granatier|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantleetheme|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
-|graphviz|10.0.1|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |greybird|3.22.12|3.23.3|desktop-themes|Compliance mode enabled, was '3.23.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
@@ -1490,7 +1488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzip|1.23|1.24.1|app-utils|Compliance mode enabled, was '1.24.1'|
 |lziprecover|1.21|1.24|app-utils|Compliance mode enabled, was '1.24'|
 |lzlib|1.11|1.14|runtime-common|Compliance mode enabled, was '1.14'|
-|m17n-db|1.8.0|1.8.5|runtime-i18n|Compliance mode enabled, was '1.8.5'|
+|m17n-db|1.8.0|1.8.6|runtime-i18n|Compliance mode enabled, was '1.8.6'|
 |m17n-lib|1.8.0|1.8.4|runtime-i18n|Compliance mode enabled, was '1.8.4'|
 |m1n1|1.4.6|1.4.14|runtime-kernel||
 |m2crypto|0.38.0|0.41.0|lang-python|Compliance mode enabled, was '0.41.0'|
@@ -1744,7 +1742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openvpn|2.5.4|2.6.12|app-network|Compliance mode enabled, was '2.6.12'|
 |openvswitch|3.0.3|3.3.1|app-network|Compliance mode enabled, was '3.3.1'|
 |optipng|0.7.7|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
-|opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
 |orc|0.4.32|0.4.39|app-devel|Compliance mode enabled, was '0.4.39'|
