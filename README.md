@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721387524?label=Updated)
+![Relative date](https://img.shields.io/date/1721391750?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -627,7 +627,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gringo|5.4.1|5.7.1|app-devel|Compliance mode enabled, was '5.7.1'|
 |groff|1.22.4|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |grpc|1.64.0|1.65.1|app-network|Compliance mode enabled, was '1.65.1'|
-|grub-customizer|5.2.4|5.2.5|app-admin|Compliance mode enabled, was '5.2.5'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
@@ -1764,8 +1763,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
-|orc|0.4.32|0.4.38|app-devel|Compliance mode enabled, was '0.4.38'|
-|orc+32|0.4.32|0.4.38|runtime-optenv32|Compliance mode enabled, was '0.4.38'|
+|orc|0.4.32|0.4.39|app-devel|Compliance mode enabled, was '0.4.39'|
+|orc+32|0.4.32|0.4.39|runtime-optenv32|Compliance mode enabled, was '0.4.39'|
 |orca|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
