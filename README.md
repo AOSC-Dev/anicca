@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721440938?label=Updated)
+![Relative date](https://img.shields.io/date/1721442704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1098,6 +1098,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwave|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kwayland|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwayland-integration|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
+|kweather|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kweathercore|0.7|0.8.0|desktop-kde|Compliance mode enabled, was '0.8.0'|
 |kwidgetsaddons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwin|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
