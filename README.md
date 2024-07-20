@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721502611?label=Updated)
+![Relative date](https://img.shields.io/date/1721506379?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -95,6 +95,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audiotube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |audiveris|5.1.0|5.3.1|app-doc|Compliance mode enabled, was '5.3.1'|
+|augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|23.6.2|lang-python|Compliance mode enabled, was '23.6.2'|
 |automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
@@ -650,7 +651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.10|4.12|app-devel|Compliance mode enabled, was '4.12'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hostapd|2.9|2.10|app-network|Compliance mode enabled, was '2.10'|
+|hostapd|2.9|2.11|app-network|Compliance mode enabled, was '2.11'|
 |hotdoc|0.13.7|0.17|app-doc|Compliance mode enabled, was '0.17'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
