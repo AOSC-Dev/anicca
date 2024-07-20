@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721478090?label=Updated)
+![Relative date](https://img.shields.io/date/1721481278?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1347,7 +1347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspnav|0.2.3|1.0|runtime-devices|Compliance mode enabled, was '1.0'|
 |libssh|0.8.9|0.10.6|runtime-network|Compliance mode enabled, was '0.10.6'|
 |libssh+32|0.8.9|0.10.6|runtime-optenv32|Compliance mode enabled, was '0.10.6'|
-|libssh2|1.9.0|1.11.0|runtime-network|Compliance mode enabled, was '1.11.0'|
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
 |libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
@@ -2384,8 +2383,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|app-doc|Compliance mode enabled, was '1.0.8'|
 |sphinxcontrib-devhelp|1.0.2|1.0.6|app-doc|Compliance mode enabled, was '1.0.6'|
-|sphinxcontrib-htmlhelp|2.0.0|2.0.5|app-doc|Compliance mode enabled, was '2.0.5'|
-|sphinxcontrib-qthelp|1.0.3|1.0.7|app-doc|Compliance mode enabled, was '1.0.7'|
+|sphinxcontrib-htmlhelp|2.0.0|2.0.6|app-doc|Compliance mode enabled, was '2.0.6'|
+|sphinxcontrib-qthelp|1.0.3|1.0.8|app-doc|Compliance mode enabled, was '1.0.8'|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|app-doc|Compliance mode enabled, was '1.1.10'|
 |sphinxcontrib-websupport|1.2.4|1.2.7|app-doc|Compliance mode enabled, was '1.2.7'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
@@ -2640,7 +2639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |verdict|1.4.1|1.4.2|runtime-scientific|Compliance mode enabled, was '1.4.2'|
 |verilator|4.204|5.026|app-electronics|Compliance mode enabled, was '5.026'|
-|versioningit|3.0.0|3.1.1|app-devel|Compliance mode enabled, was '3.1.1'|
+|versioningit|3.0.0|3.1.2|app-devel|Compliance mode enabled, was '3.1.2'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
