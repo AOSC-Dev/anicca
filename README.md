@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721488311?label=Updated)
+![Relative date](https://img.shields.io/date/1721492065?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -273,7 +273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
-|delve|1.22.1|1.23.0|lang-golang|Compliance mode enabled, was '1.23.0'|
 |deno|1.44.1|1.45.2|lang-js|Compliance mode enabled, was '1.45.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -492,7 +491,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
-|gifski|1.14.4|1.32.0|app-imaging|Compliance mode enabled, was '1.32.0'|
 |git-archive-all|1.20.0|1.23.1|app-vcs|Compliance mode enabled, was '1.23.1'|
 |git-branchless|0.7.1|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'|
 |git-cliff|2.2.2|2.4.0|app-vcs|Compliance mode enabled, was '2.4.0'|
@@ -1873,7 +1871,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |picocom|3.1|2023.04|app-utils|Compliance mode enabled, was '2023-04'|
-|pidgin|2.14.12|2.14.13|app-web|Compliance mode enabled, was '2.14.13'|
 |pikepdf|2.8.0|9.0.0|app-doc|Compliance mode enabled, was '9.0.0'|
 |pillow|8.4.0|10.4.0|lang-python|Compliance mode enabled, was '10.4.0'|
 |pim-data-exporter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -2304,7 +2301,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|runtime-optenv32|Compliance mode enabled, was '3.46.0'|
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
-|sqlmap|1.8.6|1.8.7|app-penetration|Compliance mode enabled, was '1.8.7'|
 |sqlparse|0.4.1|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
 |squashfs-tools|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
@@ -2496,7 +2492,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |verdict|1.4.1|1.4.2|runtime-scientific|Compliance mode enabled, was '1.4.2'|
-|verilator|4.204|5.026|app-electronics|Compliance mode enabled, was '5.026'|
 |versioningit|3.0.0|3.1.2|app-devel|Compliance mode enabled, was '3.1.2'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
