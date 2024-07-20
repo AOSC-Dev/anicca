@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721492065?label=Updated)
+![Relative date](https://img.shields.io/date/1721495527?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -275,6 +275,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.45.2|lang-js|Compliance mode enabled, was '1.45.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|deploykit-backend|0.6.3|0.6.4|app-admin|Compliance mode enabled, was '0.6.4'|
+|deploykit-gui|0.7.3|0.7.4|app-admin|Compliance mode enabled, was '0.7.4'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -2029,6 +2031,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|lang-python|Compliance mode enabled, was '3.20'|
 |pysolfc|2.12.0|3.0.0|app-games|Compliance mode enabled, was '3.0.0'|
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
+|pytest|8.2.2|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |python-2+32|999|2.7.18|runtime-optenv32|Compliance mode enabled, was '2.7.18'<br>Possible downgrade from the current version (999 -> 2.7.18)|
 |python-3|3.10.13|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
 |python-augeas|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -2278,7 +2281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
-|sphinx|7.0.1|7.4.6|app-doc|Compliance mode enabled, was '7.4.6'|
+|sphinx|7.0.1|7.4.7|app-doc|Compliance mode enabled, was '7.4.7'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinx-tabs|3.4.1|3.4.5|app-doc|Compliance mode enabled, was '3.4.5'|
