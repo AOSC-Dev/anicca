@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721506379?label=Updated)
+![Relative date](https://img.shields.io/date/1721509922?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1221,7 +1221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|runtime-optenv32|Compliance mode enabled, was '1.6.43'|
 |libportal|0.6|0.7.1|runtime-desktop|Compliance mode enabled, was '0.7.1'|
 |libpqxx|6.4.5|7.9.1|runtime-database|Compliance mode enabled, was '7.9.1'|
-|libproxy|0.5.6|0.5.7|runtime-network|Compliance mode enabled, was '0.5.7'|
+|libproxy|0.5.6|0.5.8|runtime-network|Compliance mode enabled, was '0.5.8'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |libqalculate|4.5.1|5.2.0.1|runtime-scientific|Compliance mode enabled, was '5.2.0.1'|
@@ -1661,6 +1661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
+|ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
 |osu-lazer|2024.625.3|2024.718.0|app-games|Compliance mode enabled, was '2024.718.0'|
 |oxygen|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |oxygen-icons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
