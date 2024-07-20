@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721449211?label=Updated)
+![Relative date](https://img.shields.io/date/1721452382?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -125,7 +125,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
-|benchmark|1.8.2|1.8.4|runtime-common|Compliance mode enabled, was '1.8.4'|
+|benchmark|1.8.2|1.8.5|runtime-common|Compliance mode enabled, was '1.8.5'|
 |bibletime-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
 |bind|9.18.24|9.16.33|app-network|Compliance mode enabled, was '9.16.33'<br>Possible downgrade from the current version (9.18.24 -> 9.16.33)|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
@@ -146,6 +146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bovo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|bpftrace|0.21.1|0.21.2|app-admin|Compliance mode enabled, was '0.21.2'|
 |breeze|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |breeze-grub|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |breeze-gtk|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
