@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721436673?label=Updated)
+![Relative date](https://img.shields.io/date/1721440938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -9,7 +9,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity|Compliance mode enabled, was '14.1.2'|
-|abyss|2.1.5|2.3.7|app-scientific|Compliance mode enabled, was '2.3.7'|
+|abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
 |accerciser|3.40.0|3.42.0|desktop-gnome|Compliance mode enabled, was '3.42.0'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.2.0|3.7.0|app-utils|Compliance mode enabled, was '3.7.0'|
@@ -1098,7 +1098,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwave|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kwayland|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwayland-integration|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
-|kweather|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kweathercore|0.7|0.8.0|desktop-kde|Compliance mode enabled, was '0.8.0'|
 |kwidgetsaddons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwin|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
@@ -1627,6 +1626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neon+32|0.31.2|0.33.0|runtime-optenv32|Compliance mode enabled, was '0.33.0'|
 |nestopia|1.51.0|1.52.1|app-games|Compliance mode enabled, was '1.52.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
+|netaddr|0.7.19|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
 |netcdf|4.7.4|4.9.2|runtime-scientific|Compliance mode enabled, was '4.9.2'|
 |netctl|1.23|1.25|app-network|Compliance mode enabled, was '1.25'|
