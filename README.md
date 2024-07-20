@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721495527?label=Updated)
+![Relative date](https://img.shields.io/date/1721499358?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -246,7 +246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.12|1.15|app-admin|Compliance mode enabled, was '1.15'|
 |cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
-|cryptography|40.0.0|42.0.8|lang-python|Compliance mode enabled, was '42.0.8'|
+|cryptography|40.0.0|43.0.0|lang-python|Compliance mode enabled, was '43.0.0'|
 |cryptsetup|2.7.0|2.7.3|app-admin|Compliance mode enabled, was '2.7.3'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
@@ -321,7 +321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim|3.2.0|3.3.1|app-imaging|Compliance mode enabled, was '3.3.1'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dsview|1.3.1|1.3.2|app-electronics|Compliance mode enabled, was '1.3.2'|
-|dub|1.37.0|1.38.1|lang-dlang|Compliance mode enabled, was '1.38.1'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
 |dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
@@ -696,7 +695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ifaddr|0.1.7|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
-|igsc|0.8.16|0.8.20|runtime-devices|Compliance mode enabled, was '0.8.20'|
+|igsc|0.8.16|0.9.0|runtime-devices|Compliance mode enabled, was '0.9.0'|
 |igv|2.15.1|2.17.4|app-scientific|Compliance mode enabled, was '2.17.4'|
 |iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
 |imagemagick|6.9.13<br>+7|6.9.13+13|app-utils|Compliance mode enabled, was '6.9.13-13'|
@@ -716,7 +715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.20|22.4.1|runtime-devices|Compliance mode enabled, was '22.4.1'|
 |intel-media-driver|24.1.5|24.2.5|runtime-multimedia|Compliance mode enabled, was '24.2.5'|
 |iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
-|iosevka-fonts|28.0.5|30.3.2|desktop-fonts|Compliance mode enabled, was '30.3.2'|
+|iosevka-fonts|28.0.5|30.3.3|desktop-fonts|Compliance mode enabled, was '30.3.3'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
