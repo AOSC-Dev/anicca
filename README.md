@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721596391?label=Updated)
+![Relative date](https://img.shields.io/date/1721600037?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -57,6 +57,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apicula|0.9.1|0.12|app-electronics|Compliance mode enabled, was '0.12'|
 |apparmor|3.0.8|3.1.7|app-admin|Compliance mode enabled, was '3.1.7'|
 |appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
+|appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apr|1.6.5|1.7.4|runtime-common|Compliance mode enabled, was '1.7.4'|
 |apsw|3.30.1|3.46.0.1|lang-python|Compliance mode enabled, was '3.46.0.1'|
 |apt|2.6.1|2.7.14|app-admin|Compliance mode enabled, was '2.7.14'|
@@ -734,6 +735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.17|app-scientific|Compliance mode enabled, was '16.2.17'|
 |john|1.8.0|1.9.0|app-penetration|Compliance mode enabled, was '1.9.0'|
 |josepy|1.13.0|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
+|json-c|0.16|0.17|runtime-common|Compliance mode enabled, was '0.17'|
 |json-c+32|0.13.1<br>+20180305|0.17|runtime-optenv32|Compliance mode enabled, was '0.17'|
 |json-glib|1.8.0|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
@@ -2609,6 +2611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.43|app-electronics|Compliance mode enabled, was '0.43'|
 |ytmusicapi|1.7.2|1.7.5|lang-python|Compliance mode enabled, was '1.7.5'|
+|yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.5.2|app-devices|Compliance mode enabled, was '2.5.2'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
