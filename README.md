@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721523408?label=Updated)
+![Relative date](https://img.shields.io/date/1721527683?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -282,6 +282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20230430|lang-python|Compliance mode enabled, was '20230430'|
+|difftastic|0.58.0|0.59.0|app-utils|Compliance mode enabled, was '0.59.0'|
 |digikam|7.9.0|8.4.0|desktop-kde|Compliance mode enabled, was '8.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |discover|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
@@ -456,6 +457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-ppc64|9.3.1|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
 |gcc+cross-ppc64el|12.3.0|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
 |gcc+cross-riscv64|12.1.0|14.1.0|app-devel|Compliance mode enabled, was '14.1.0'|
+|gcc+w64|9.3.1|14.1.0|runtime-optenvw64|Compliance mode enabled, was '14.1.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.9.1|runtime-gis|Compliance mode enabled, was '3.9.1'|
@@ -492,7 +494,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |git-archive-all|1.20.0|1.23.1|app-vcs|Compliance mode enabled, was '1.23.1'|
 |git-branchless|0.7.1|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'|
-|git-cliff|2.2.2|2.4.0|app-vcs|Compliance mode enabled, was '2.4.0'|
 |git-lfs|3.5.0|3.5.1|app-devel|Compliance mode enabled, was '3.5.1'|
 |gitdb|4.0.10|4.0.11|runtime-vcs|Compliance mode enabled, was '4.0.11'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
