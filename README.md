@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721585730?label=Updated)
+![Relative date](https://img.shields.io/date/1721589142?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -475,7 +475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit-plugins|42.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |genpac|2.0.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
 |geoclue2|2.6.0|2.7.1|runtime-gis|Compliance mode enabled, was '2.7.1'|
-|geoipupdate|6.1.0|7.0.1|app-network|Compliance mode enabled, was '7.0.1'|
 |geos|3.7.3|3.12.2|runtime-gis|Compliance mode enabled, was '3.12.2'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
@@ -490,10 +489,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
-|git-archive-all|1.20.0|1.23.1|app-vcs|Compliance mode enabled, was '1.23.1'|
-|git-branchless|0.7.1|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'|
 |git-lfs|3.5.0|3.5.1|app-devel|Compliance mode enabled, was '3.5.1'|
-|gitdb|4.0.10|4.0.11|runtime-vcs|Compliance mode enabled, was '4.0.11'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
 |gjs|1.74.0|1.81.1|desktop-gnome|Compliance mode enabled, was '1.81.1'|
@@ -587,7 +583,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greybird|3.22.12|3.23.3|desktop-themes|Compliance mode enabled, was '3.23.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
-|gringo|5.4.1|5.7.1|app-devel|Compliance mode enabled, was '5.7.1'|
 |groff|1.22.4|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |grpc|1.64.0|1.65.1|app-network|Compliance mode enabled, was '1.65.1'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
