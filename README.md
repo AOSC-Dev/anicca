@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721574871?label=Updated)
+![Relative date](https://img.shields.io/date/1721578629?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1134,7 +1134,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn+32|1.33|1.42|runtime-optenv32|Compliance mode enabled, was '1.42'|
 |libidn2|2.3.0|2.3.7|runtime-network|Compliance mode enabled, was '2.3.7'|
 |libindi|2.0.5|2.0.8|runtime-scientific|Compliance mode enabled, was '2.0.8'|
-|libinput|1.26.0|1.26.1|runtime-devices|Compliance mode enabled, was '1.26.1'|
 |libintl-perl|1.29|1.33|lang-perl|Compliance mode enabled, was '1.33'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
 |libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
@@ -1238,7 +1237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
 |libshumate|1.2.1|1.2.2|desktop-gnome|Compliance mode enabled, was '1.2.2'|
-|libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
 |libsidplayfp|1.8.8|2.8.0|runtime-multimedia|Compliance mode enabled, was '2.8.0'|
 |libsigc++|2.10.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
