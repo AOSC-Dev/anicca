@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721527683?label=Updated)
+![Relative date](https://img.shields.io/date/1721531733?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -275,8 +275,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
 |deno|1.44.1|1.45.2|lang-js|Compliance mode enabled, was '1.45.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deploykit-backend|0.6.3|0.6.4|app-admin|Compliance mode enabled, was '0.6.4'|
-|deploykit-gui|0.7.3|0.7.4|app-admin|Compliance mode enabled, was '0.7.4'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -430,7 +428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype+32|2.12.1|2.13.2|runtime-optenv32|Compliance mode enabled, was '2.13.2'|
 |freexl|1.0.5|2.0.0|runtime-gis|Compliance mode enabled, was '2.0.0'|
 |frei0r-plugins|2.3.2|2.3.3|runtime-multimedia|Compliance mode enabled, was '2.3.3'|
-|frescobaldi|3.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
 |fribidi|1.0.14|1.0.15|app-scientific|Compliance mode enabled, was '1.0.15'|
 |fribidi+32|1.0.10|1.0.15|runtime-optenv32|Compliance mode enabled, was '1.0.15'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
@@ -1600,7 +1597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|desktop-kde|Compliance mode enabled, was '0.26.15'|
 |okular|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.3.28|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.3.29|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.20.0|2.21.0|app-utils|Compliance mode enabled, was '2.21.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7618-240708-dd937d8|app-games|Compliance mode enabled, was '1.91.0.7618-240708-dd937d8'|
