@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721589142?label=Updated)
+![Relative date](https://img.shields.io/date/1721592990?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -574,7 +574,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |gpsim|0.31.0|0.32.1|app-electronics|Compliance mode enabled, was '0.32.1'|
 |gradle|8.3|8.9.0|lang-java|Compliance mode enabled, was '8.9.0'|
-|graftcp|0.7.2|0.7.3|app-network|Compliance mode enabled, was '0.7.3'|
 |granatier|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantleetheme|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -583,7 +582,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greybird|3.22.12|3.23.3|desktop-themes|Compliance mode enabled, was '3.23.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
-|groff|1.22.4|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |grpc|1.64.0|1.65.1|app-network|Compliance mode enabled, was '1.65.1'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
