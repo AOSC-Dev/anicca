@@ -2359,7 +2359,6 @@
 ["v4l-utils","1.22.1","1.28.0","app-multimedia",1657655180,["Compliance mode enabled, was '1.28.0'"]],
 ["ffms2","2.40","5.0","app-multimedia",1716349343,["Compliance mode enabled, was '5.0'"]],
 ["mpg123","1.25.13","1.32.6","app-multimedia",1577608369,["Compliance mode enabled, was '1.32.6'"]],
-["bluez-alsa","4.1.1","4.2.0","app-multimedia",1716478770,["Compliance mode enabled, was '4.2.0'"]],
 ["gpodder","3.10.17","3.11.4","app-multimedia",1606380094,["Compliance mode enabled, was '3.11.4'"]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
 ["cdemu-client","3.2.4","3.2.5","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.5'"]],
