@@ -268,7 +268,6 @@
 ["gnome-control-center","42.3","46.3","desktop-gnome",1663210242,["Compliance mode enabled, was '46.3'"]],
 ["gnome-online-accounts","3.44.0","3.51.0","desktop-gnome",1663210241,["Compliance mode enabled, was '3.51.0'"]],
 ["xfburn","0.7.0","0.7.1","desktop-xfce",1706025816,["Compliance mode enabled, was '0.7.1'"]],
-["gnupg","2.4.5","2.5.0","app-cryptography",1716443662,["Compliance mode enabled, was '2.5.0'"]],
 ["sequoia-sq","0.36.0","0.37.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.37.0'"]],
 ["dotnet-runtime-deps-6.0","6.0.0","6.0.32","lang-dotnet",1678950872,["Compliance mode enabled, was '6.0.32'"]],
 ["dotnet-apphost-pack-6.0","6.0.30","6.0.32","lang-dotnet",1716597653,["Compliance mode enabled, was '6.0.32'"]],
