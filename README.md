@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721651057?label=Updated)
+![Relative date](https://img.shields.io/date/1721654238?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -9,7 +9,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
-|acbs|20240720|20240717.1|app-devel|Compliance mode enabled, was '20240717.1'<br>Possible downgrade from the current version (20240720 -> 20240717.1)|
+|acbs|20240720|20240721|app-devel|Compliance mode enabled, was '20240721'|
 |accerciser|3.40.0|3.42.0|desktop-gnome|Compliance mode enabled, was '3.42.0'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.2.0|3.7.0|app-utils|Compliance mode enabled, was '3.7.0'|
@@ -79,7 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.6|8.0.7|app-devel|Compliance mode enabled, was '8.0.7'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
-|astroid|2.12.2|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
+|astroid|2.12.2|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |at-spi2-core|2.52.0|2.53.0|desktop-gnome|Compliance mode enabled, was '2.53.0'|
@@ -99,6 +99,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiveris|5.1.0|5.3.1|app-doc|Compliance mode enabled, was '5.3.1'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|23.6.2|lang-python|Compliance mode enabled, was '23.6.2'|
+|autobuild4|4.3.7|4.3.8|app-devel|Compliance mode enabled, was '4.3.8'|
 |automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
 |avr-binutils|2.37|2.42|app-devel|Compliance mode enabled, was '2.42'|
@@ -122,6 +123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.8.5|runtime-common|Compliance mode enabled, was '1.8.5'|
+|bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
 |bind|9.18.24|9.16.33|app-network|Compliance mode enabled, was '9.16.33'<br>Possible downgrade from the current version (9.18.24 -> 9.16.33)|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |blender|4.0.2|4.2.0|app-creativity|Compliance mode enabled, was '4.2.0'|
@@ -150,6 +152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
+|bulky|3.3|3.4|desktop-cinnamon|Compliance mode enabled, was '3.4'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
 |c-ares|1.28.1|1.32.2|runtime-network|Compliance mode enabled, was '1.32.2'|
@@ -1408,7 +1411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mariadb|10.9.8|11.5.1|app-database|Compliance mode enabled, was '11.5.1'|
 |markdown|3.3.4|3.6|lang-python|Compliance mode enabled, was '3.6'|
 |markdownpart|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|markupsafe|2.1.1|2.1.5|lang-python|Compliance mode enabled, was '2.1.5'|
 |marshmallow|3.20.2|3.21.3|lang-python|Compliance mode enabled, was '3.21.3'|
 |mat2|0.13.0|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'<br>Possible downgrade from the current version (0.13.0 -> 0.6.1)|
 |mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
