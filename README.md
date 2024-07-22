@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721686379?label=Updated)
+![Relative date](https://img.shields.io/date/1721690027?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1345,6 +1345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+lts|6.6.31|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (6.6.31 -> 5.10.222)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
+|linux+kernel+retro+minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
 |linux-firmware|20240506|20240709|runtime-kernel||
 |linux-kernel|6.10.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.0 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
@@ -1908,6 +1909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
+|pnpm|9.5.0|9.6.0|lang-js|Compliance mode enabled, was '9.6.0'|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
