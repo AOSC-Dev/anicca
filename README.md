@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721643246?label=Updated)
+![Relative date](https://img.shields.io/date/1721646778?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -92,6 +92,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
+|audacity|3.6.0|3.6.1|app-creativity|Compliance mode enabled, was '3.6.1'|
 |audiocd-kio|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audiotube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
