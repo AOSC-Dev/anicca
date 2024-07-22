@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721682774?label=Updated)
+![Relative date](https://img.shields.io/date/1721686379?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1345,7 +1345,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+lts|6.6.31|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (6.6.31 -> 5.10.222)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'|
-|linux+kernel+retro+minimal|5.15.17|5.10.222|runtime-kernel|Compliance mode enabled, was '5.10.222'<br>Possible downgrade from the current version (5.15.17 -> 5.10.222)|
 |linux-firmware|20240506|20240709|runtime-kernel||
 |linux-kernel|6.10.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.0 -> 5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.31 -> 5.19.17)|
@@ -1704,15 +1703,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.2.3|app-devices|Compliance mode enabled, was '2.2.3'|
-|pcsx2|1.6.0<br>+git20210825|2.1.14|app-games|Compliance mode enabled, was '2.1.14'|
+|pcsx2|1.6.0<br>+git20210825|2.1.24|app-games|Compliance mode enabled, was '2.1.24'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20191020|20240706|app-doc|Compliance mode enabled, was '20240706'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peewee|3.17.1|3.17.6|lang-python|Compliance mode enabled, was '3.17.6'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
-|perl|5.36.3|5.41.1|lang-perl|Compliance mode enabled, was '5.41.1'|
-|perl+32|999|5.41.1|runtime-optenv32|Compliance mode enabled, was '5.41.1'<br>Possible downgrade from the current version (999 -> 5.41.1)|
+|perl|5.36.3|5.41.2|lang-perl|Compliance mode enabled, was '5.41.2'|
+|perl+32|999|5.41.2|runtime-optenv32|Compliance mode enabled, was '5.41.2'<br>Possible downgrade from the current version (999 -> 5.41.2)|
 |perl-alien-build|1.92|2.83|lang-perl|Compliance mode enabled, was '2.83'|
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
@@ -2136,6 +2135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-bandwidth-test|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rocm-cmake|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rocm-llvm|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
+|rocm-smi-lib|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rocminfo|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rocr-runtime|6.0.2|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rocs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
