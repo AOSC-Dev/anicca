@@ -1474,6 +1474,7 @@
 ["perl-mail-imapclient","3.42","3.43","lang-perl",1678950872,["Compliance mode enabled, was '3.43'"]],
 ["perl-type-serialiser","1.0","1.01","lang-perl",1678950872,["Compliance mode enabled, was '1.01'"]],
 ["perl-alien-libxml2","0.11","0.19","lang-perl",1573869560,["Compliance mode enabled, was '0.19'"]],
+["perl-devel-checklib","1.13","1.16","lang-perl",1530196415,["Compliance mode enabled, was '1.16'"]],
 ["perl-glib-object-introspection","0.047","0.051","lang-perl",1550814485,["Compliance mode enabled, was '0.051'"]],
 ["perl4-corelibs","0.004","0.005","lang-perl",1531879555,["Compliance mode enabled, was '0.005'"]],
 ["perl-lwp-protocol-https","6.06","6.14","lang-perl",1678950872,["Compliance mode enabled, was '6.14'"]],
