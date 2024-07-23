@@ -2359,7 +2359,7 @@
 ["pyparsing","2.4.7","3.1.2","lang-python",1523459971,["Compliance mode enabled, was '3.1.2'"]],
 ["typed-ast","1.4.3","1.5.5","lang-python",1637636761,["Compliance mode enabled, was '1.5.5'"]],
 ["ujson","1.35","1.36","lang-python",1477781007,["Compliance mode enabled, was '1.36'"]],
-["pycuda","2022.2.2","2024.1","lang-python",1700797896,["Compliance mode enabled, was '2024.1'"]],
+["pycuda","2022.2.2","2024.1.1","lang-python",1700797896,["Compliance mode enabled, was '2024.1.1'"]],
 ["v4l-utils","1.22.1","1.28.1","app-multimedia",1657655180,["Compliance mode enabled, was '1.28.1'"]],
 ["ffms2","2.40","5.0","app-multimedia",1716349343,["Compliance mode enabled, was '5.0'"]],
 ["mpg123","1.25.13","1.32.6","app-multimedia",1577608369,["Compliance mode enabled, was '1.32.6'"]],

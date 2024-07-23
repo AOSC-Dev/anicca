@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721769328?label=Updated)
+![Relative date](https://img.shields.io/date/1721772874?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1978,7 +1978,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptodome|3.7.3|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptodomex|3.9.9|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
-|pycuda|2022.2.2|2024.1|lang-python|Compliance mode enabled, was '2024.1'|
+|pycuda|2022.2.2|2024.1.1|lang-python|Compliance mode enabled, was '2024.1.1'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.8.2|lang-python|Compliance mode enabled, was '2.8.2'|
 |pydantic-core|2.16.1|2.20.1|lang-python|Compliance mode enabled, was '2.20.1'|
