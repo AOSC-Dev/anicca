@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721758601?label=Updated)
+![Relative date](https://img.shields.io/date/1721761922?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -182,6 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |castxml|0.6.7|0.6.8|app-devel|Compliance mode enabled, was '0.6.8'|
 |catatonit|0.1.7|0.2.0|app-admin|Compliance mode enabled, was '0.2.0'|
 |catch2|2.13.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
+|ccache|4.10.1|4.10.2|app-devel|Compliance mode enabled, was '4.10.2'|
 |cchardet|2.1.7|2.2.0~a2|lang-python|Compliance mode enabled, was '2.2.0a2'|
 |ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
@@ -2415,7 +2416,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
-|trinity-default-settings|2023.07.1r|2024.04.1|runtime-data|Compliance mode enabled, was '2024.04.1'|
 |trio|0.24.0|0.26.0|lang-python|Compliance mode enabled, was '0.26.0'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2024.7.2|lang-python|Compliance mode enabled, was '2024.7.2'|
