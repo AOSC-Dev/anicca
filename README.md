@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721722736?label=Updated)
+![Relative date](https://img.shields.io/date/1721726041?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1591,7 +1591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
 |ocrad|0.27|0.29|app-doc|Compliance mode enabled, was '0.29'|
-|ocrmypdf|11.7.0|16.4.1|app-doc|Compliance mode enabled, was '16.4.1'|
+|ocrmypdf|11.7.0|16.4.2|app-doc|Compliance mode enabled, was '16.4.2'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.1.0|9.2.0|app-scientific|Compliance mode enabled, was '9.2.0'|
 |ofono|1.30|2.9|app-network|Compliance mode enabled, was '2.9'|
@@ -1669,7 +1669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pahole|1.25|1.27|app-utils|Compliance mode enabled, was '1.27'|
 |palapeli|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
-|pam-wrapper|1.1.3|1.1.5|app-devel|Compliance mode enabled, was '1.1.5'|
+|pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
 |pandoc|3.1.13|3.2.1|app-doc|Compliance mode enabled, was '3.2.1'|
@@ -2388,7 +2388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.0.13|app-admin|Compliance mode enabled, was '1.0.13'|
 |threadweaver|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |thunderbird|115.5.2|127.0|app-web|Compliance mode enabled, was '127.0'|
-|tigervnc|1.12.0|1.13.1|app-network|Compliance mode enabled, was '1.13.1'|
+|tigervnc|1.12.0|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilda|1.4.1|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
