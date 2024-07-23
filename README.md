@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721711666?label=Updated)
+![Relative date](https://img.shields.io/date/1721715442?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -79,6 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.6|8.0.7|app-devel|Compliance mode enabled, was '8.0.7'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
+|ast-grep|0.25.2|0.25.3|app-devel|Compliance mode enabled, was '0.25.3'|
 |astroid|2.12.2|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
@@ -693,6 +694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igsc|0.8.16|0.9.2|runtime-devices|Compliance mode enabled, was '0.9.2'|
 |igv|2.15.1|2.17.4|app-scientific|Compliance mode enabled, was '2.17.4'|
 |iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
+|imagemagick|6.9.13<br>+7|6.9.13+13|app-utils|Compliance mode enabled, was '6.9.13-13'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+35|app-utils|Compliance mode enabled, was '7.1.1-35'|
 |imagesize|1.1.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
@@ -2307,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sratom|0.6.4|0.6.16|runtime-common|Compliance mode enabled, was '0.6.16'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
 |srtp+32|1.5.4|2.6.0|runtime-optenv32|Compliance mode enabled, was '2.6.0'|
-|ss-tproxy|4.6.1|4.8.1|app-network|Compliance mode enabled, was '4.8.1'|
+|ss-tproxy|4.6.1|4.8.2|app-network|Compliance mode enabled, was '4.8.2'|
 |sshfs|3.6.0|3.7.3|app-network|Compliance mode enabled, was '3.7.3'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
@@ -2316,11 +2318,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |stepmania|5.0.12<br>+git20221114|5.0.12|app-games|Compliance mode enabled, was '5.0.12'|
-|sticky|1.20|1.21|desktop-cinnamon|Compliance mode enabled, was '1.21'|
+|sticky|1.20|1.22|desktop-cinnamon|Compliance mode enabled, was '1.22'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
-|strawberry|1.0.23|1.1.0|app-multimedia|Compliance mode enabled, was '1.1.0'|
+|strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
 |streamlink|6.7.4|6.8.3|app-multimedia|Compliance mode enabled, was '6.8.3'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
