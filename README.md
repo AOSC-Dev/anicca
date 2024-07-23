@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721733360?label=Updated)
+![Relative date](https://img.shields.io/date/1721737336?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2596,15 +2596,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
 |xpra|5.0.8|6.1|app-network|Compliance mode enabled, was '6.1'|
-|xray|1.8.4|1.8.19|app-network|Compliance mode enabled, was '1.8.19'|
+|xray|1.8.4|1.8.21|app-network|Compliance mode enabled, was '1.8.21'|
 |xray-plugin|1.8.11|1.8.17|app-network|Compliance mode enabled, was '1.8.17'|
-|xreader|3.8.5|4.2.1|app-doc|Compliance mode enabled, was '4.2.1'|
+|xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'<br>Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsimd|10.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|393|app-utils|Compliance mode enabled, was '393'|
-|xviewer|3.0.2|3.4.5|app-imaging|Compliance mode enabled, was '3.4.5'|
+|xviewer|3.0.2|3.4.6|app-imaging|Compliance mode enabled, was '3.4.6'|
 |xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
 |xz+32|5.4.1|5.6.2|runtime-optenv32|Compliance mode enabled, was '5.6.2'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
