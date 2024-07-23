@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721740607?label=Updated)
+![Relative date](https://img.shields.io/date/1721744079?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -372,7 +372,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
 |fastfetch|2.18.1|2.19.0|app-utils|Compliance mode enabled, was '2.19.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
-|fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n|Compliance mode enabled, was '2.29.5374.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
@@ -579,7 +578,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
 |gpodder|3.10.17|3.11.4|app-multimedia|Compliance mode enabled, was '3.11.4'|
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
-|gpsim|0.31.0|0.32.1|app-electronics|Compliance mode enabled, was '0.32.1'|
 |gradle|8.3|8.9.0|lang-java|Compliance mode enabled, was '8.9.0'|
 |granatier|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1920,7 +1918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-kde-agent-1|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
-|poppler|22.08.0|24.07.0|runtime-doc|Compliance mode enabled, was '24.07.0'|
+|poppler|22.08.0|24.07.0|groups|Compliance mode enabled, was '24.07.0'|
 |poppler+32|0.66.0|24.07.0|runtime-optenv32|Compliance mode enabled, was '24.07.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
