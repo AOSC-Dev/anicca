@@ -1,12 +1,23 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721747617?label=Updated)
+![Relative date](https://img.shields.io/date/1721751400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
+|apicula|0.9.1|0.12|app-electronics|Compliance mode enabled, was '0.12'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
 |aspnetcore-runtime-8.0|8.0.6|8.0.7|app-devel|Compliance mode enabled, was '8.0.7'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
+|bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
+|buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
+|celluloid|0.18|0.27|app-multimedia|Compliance mode enabled, was '0.27'|
+|chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
+|clash-verge-rev|1.7.2|1.7.5|app-network|Compliance mode enabled, was '1.7.5'|
+|cloc|1.84|2.00|app-utils|Compliance mode enabled, was '2.00'|
+|collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
+|colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
+|dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
+|ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.32|lang-dotnet|Compliance mode enabled, was '6.0.32'|
 |dotnet-host|8.0.6|8.0.7|lang-dotnet|Compliance mode enabled, was '8.0.7'|
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
@@ -21,10 +32,135 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-sdk-8.0|8.0.302|8.0.303|app-devel|Compliance mode enabled, was '8.0.303'|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.32|lang-dotnet|Compliance mode enabled, was '6.0.32'|
 |dotnet-templates-6.0|6.0.422|6.0.424|app-devel|Compliance mode enabled, was '6.0.424'|
-|gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
-|gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
-|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
+|dsview|1.3.1|1.3.2|app-electronics|Compliance mode enabled, was '1.3.2'|
+|editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
+|exceptiongroup|1.2.1|1.2.2|lang-python|Compliance mode enabled, was '1.2.2'|
+|eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
+|feeluown-bilibili|0.3.3|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
+|feeluown-ytmusic|0.3.4|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
+|flask-wtf|0.14|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
+|fltk|1.3.5|1.3.9|runtime-desktop|Compliance mode enabled, was '1.3.9'|
+|fluidsynth|2.0.5|2.3.5|app-multimedia|Compliance mode enabled, was '2.3.5'|
+|freerdp|2.11.2|3.6.3|app-network|Compliance mode enabled, was '3.6.3'|
+|gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
+|gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
+|genpac|2.0.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
+|gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
+|gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
+|gtkwave|3.3.119|3.3.120|app-electronics|Compliance mode enabled, was '3.3.120'|
+|harvid|0.8.3|0.9.1|app-multimedia|Compliance mode enabled, was '0.9.1'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
+|hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
+|ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
+|ibus-libpinyin|1.12.0|1.15.7|app-i18n|Compliance mode enabled, was '1.15.7'|
+|icu|74.2|75.1|runtime-i18n|Compliance mode enabled, was '75-1'|
+|iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
+|iproute2|6.8.0|6.10.0|app-network|Compliance mode enabled, was '6.10.0'|
+|ipset|7.1|7.22|app-network|Compliance mode enabled, was '7.22'|
+|iptraf-ng|1.1.4|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
+|ipython|7.28.0|8.26.0|lang-python|Compliance mode enabled, was '8.26.0'|
+|iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
+|jinja2|3.1.2|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
+|jsonschema|3.2.0|0.0.1|lang-python|Compliance mode enabled, was '0.0.1'<br>Possible downgrade from the current version (3.2.0 -> 0.0.1)|
+|kicad|8.0.2|8.0.4|app-electronics|Compliance mode enabled, was '8.0.4'|
+|kiwisolver|1.0.1|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
+|kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
+|ldb|2.6.1|2.9.1|app-database|Compliance mode enabled, was '2.9.1'|
+|libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
+|libchewing|0.5.1|0.8.5|runtime-i18n|Compliance mode enabled, was '0.8.5'|
+|libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
+|libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
+|libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
+|libkkc|0.3.5<br>+git20210213|0.3.5|runtime-i18n|Compliance mode enabled, was '0.3.5'|
+|libkkc-data|0.2.7|0.3.5|runtime-i18n|Compliance mode enabled, was '0.3.5'|
+|liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
 |libmpcdec|0.1~r495|0.1r495|runtime-multimedia|Compliance mode enabled, was '0.1~r495'|
+|libphonenumber|8.13.38|8.13.40|runtime-i18n|Compliance mode enabled, was '8.13.40'|
+|libpinyin|2.6.0|2.8.1|runtime-i18n|Compliance mode enabled, was '2.8.1'|
+|librcc|0.2.12|0.2.13|runtime-i18n|Compliance mode enabled, was '0.2.13'|
+|librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
+|libsecret|0.20.4|0.21.4|runtime-desktop|Compliance mode enabled, was '0.21.4'|
+|libspectre|0.2.9|0.2.12|runtime-doc|Compliance mode enabled, was '0.2.12'|
+|libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
+|libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
+|libthai|0.1.28|0.1.29|runtime-i18n|Compliance mode enabled, was '0.1.29'|
+|libtracefs|1.6.4|1.8.0|runtime-admin|Compliance mode enabled, was '1.8.0'|
+|libuninameslist|20190701|20240524|runtime-i18n|Compliance mode enabled, was '20240524'|
+|libutf8proc|2.4.0|2.9.0|runtime-i18n|Compliance mode enabled, was '2.9.0'|
+|libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
+|lldpd|1.0.17|1.0.18|app-network|Compliance mode enabled, was '1.0.18'|
+|llfuse|1.4.1|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
+|lmdb|0.9.31|0.9.33|app-database|Compliance mode enabled, was '0.9.33'|
+|m17n-db|1.8.0|1.8.6|runtime-i18n|Compliance mode enabled, was '1.8.6'|
+|m17n-lib|1.8.0|1.8.4|runtime-i18n|Compliance mode enabled, was '1.8.4'|
+|mariadb|10.9.8|11.5.1|app-database|Compliance mode enabled, was '11.5.1'|
+|mercurial|6.7.3|6.8|app-vcs|Compliance mode enabled, was '6.8'|
+|milkytracker|1.02.00|1.04.00|app-multimedia|Compliance mode enabled, was '1.04.00'|
+|mitmproxy|7.0.4|10.3.1|app-network|Compliance mode enabled, was '10.3.1'|
+|mkvtoolnix|84.0|86.0|app-multimedia|Compliance mode enabled, was '86.0'|
+|mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mplayer|1.4|1.5|app-multimedia|Compliance mode enabled, was '1.5'|
+|mycli|1.23.2|1.27.2|app-database|Compliance mode enabled, was '1.27.2'|
+|nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
+|nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
+|networkmanager-strongswan|1.5.2|1.6.0|app-network|Compliance mode enabled, was '1.6.0'|
+|ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
+|openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
+|openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compliance mode enabled, was '8u202-ga'|
+|openmpt|0.6.4|0.7.9|app-multimedia|Compliance mode enabled, was '0.7.9'|
+|openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
+|openvpn|2.5.4|2.6.12|app-network|Compliance mode enabled, was '2.6.12'|
+|pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
+|pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
+|pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
+|poppler|22.08.0|24.07.0|groups|Compliance mode enabled, was '24.07.0'|
+|postgresql|13.15|17|app-database|Compliance mode enabled, was '17'|
+|pydantic|2.6.0|2.8.2|lang-python|Compliance mode enabled, was '2.8.2'|
+|pygments|2.10.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
+|pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
+|pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
+|python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
+|python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
+|qjackctl|0.9.7|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
+|qmmp|1.6.5|2.1.8|app-multimedia|Compliance mode enabled, was '2.1.8'|
+|qsynth|0.5.6|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
+|qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
+|redis|7.2.4|7.2.5|app-database|Compliance mode enabled, was '7.2.5'|
+|redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
+|remmina|1.4.31|1.4.35|app-network|Compliance mode enabled, was '1.4.35'|
+|rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
+|rtmpdump|20151223|2.3|app-network|Compliance mode enabled, was '2.3'<br>Possible downgrade from the current version (20151223 -> 2.3)|
+|ruamel-yaml|0.17.19|0.18.6|lang-python|Compliance mode enabled, was '0.18.6'|
+|simplejson|3.16.0|3.19.2|lang-python|Compliance mode enabled, was '3.19.2'|
+|smplayer|19.10.2|24.5.0|app-multimedia|Compliance mode enabled, was '24.5.0'|
+|sof-tools|2.8.1|2024.06|app-multimedia|Compliance mode enabled, was '2024.06'|
 |spim|9.1.23|9.1.24|app-emulation|Compliance mode enabled, was '9.1.24'|
+|sqlcipher|4.5.6|4.6.0|app-database|Compliance mode enabled, was '4.6.0'|
+|sqlite|3.45.1|3.46.0|app-database|Compliance mode enabled, was '3.46.0'|
+|sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
+|sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
+|sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
+|streamlink|6.7.4|6.8.3|app-multimedia|Compliance mode enabled, was '6.8.3'|
+|subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
+|sunshine|0.23.0|2024.719.161459|app-multimedia|Compliance mode enabled, was '2024.719.161459'|
+|syncthing|1.27.3|1.27.9|app-network|Compliance mode enabled, was '1.27.9'|
+|tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
+|twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
+|txaio|18.8.1|23.1.1|lang-python|Compliance mode enabled, was '23.1.1'|
+|uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
+|ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
+|unbound|1.19.2|1.20.0|app-network||
+|unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
+|vapoursynth|57|69|app-multimedia|Compliance mode enabled, was '69'|
+|vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
+|vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
+|wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
+|wildmidi|0.4.3|0.4.6|app-multimedia|Compliance mode enabled, was '0.4.6'|
+|wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
+|xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
+|xray|1.8.4|1.8.21|app-network|Compliance mode enabled, was '1.8.21'|
+|yosys|0.41|0.43|app-electronics|Compliance mode enabled, was '0.43'|
+|zerotier-one|1.12.2|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
+|zxtune|5053|5061|app-multimedia|Compliance mode enabled, was '5061'|
+|zyn-fusion|3.0.5|3.0.6|app-multimedia|Compliance mode enabled, was '3.0.6'|
