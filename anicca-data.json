@@ -842,7 +842,6 @@
 ["libvncserver","0.9.13","0.9.14","runtime-network",1598554084,["Compliance mode enabled, was '0.9.14'"]],
 ["libofono-qt","0.54+git20190116","1.30","runtime-network",1678950872,["Compliance mode enabled, was '1.30'"]],
 ["c-ares","1.28.1","1.32.2","runtime-network",1711895979,["Compliance mode enabled, was '1.32.2'"]],
-["libnl","3.9.0","3.10.0","runtime-network",1716597518,["Compliance mode enabled, was '3.10.0'"]],
 ["libnfs","4.0.0","5.0.3","runtime-network",1550458535,["Compliance mode enabled, was '5.0.3'"]],
 ["libdnet","1.12","1.18.0","runtime-network",1488077516,["Compliance mode enabled, was '1.18.0'"]],
 ["libnftnl","1.2.6","1.2.7","runtime-network",1608367947,["Compliance mode enabled, was '1.2.7'"]],
