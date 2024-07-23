@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721737336?label=Updated)
+![Relative date](https://img.shields.io/date/1721740607?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -397,7 +397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.5|1.9.6|lang-ocaml|Compliance mode enabled, was '1.9.6'|
 |fio|3.35|3.37|app-utils|Compliance mode enabled, was '3.37'|
-|firefox|127.0.2|128.0|app-web|Compliance mode enabled, was '128.0'|
+|firefox|127.0.2|128.0.2|app-web|Compliance mode enabled, was '128.0.2'|
 |firewalld|2.0.0|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flac|1.3.3|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |flac+32|1.3.3|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
@@ -886,7 +886,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-gdrive|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kio-zeroconf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kipi-plugins|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kirigami-addons|0.11.0|1.3.0|desktop-kde|Compliance mode enabled, was '1.3.0'|
+|kirigami-addons|0.11.0|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |kirigami-gallery|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kirigami2|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kiriki|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1920,7 +1920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-kde-agent-1|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
-|poppler|22.08.0|24.07.0|groups|Compliance mode enabled, was '24.07.0'|
+|poppler|22.08.0|24.07.0|runtime-doc|Compliance mode enabled, was '24.07.0'|
 |poppler+32|0.66.0|24.07.0|runtime-optenv32|Compliance mode enabled, was '24.07.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
