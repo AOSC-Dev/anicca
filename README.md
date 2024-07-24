@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721852035?label=Updated)
+![Relative date](https://img.shields.io/date/1721855681?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -140,8 +140,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.2.8|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
-|boto3|1.20.26|1.34.147|lang-python|Compliance mode enabled, was '1.34.147'|
-|botocore|1.34.133|1.34.147|lang-python|Compliance mode enabled, was '1.34.147'|
+|boto3|1.20.26|1.34.148|lang-python|Compliance mode enabled, was '1.34.148'|
+|botocore|1.34.133|1.34.148|lang-python|Compliance mode enabled, was '1.34.148'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bovo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1272,7 +1272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtool|2.4.7|2.5.0|app-devel|Compliance mode enabled, was '2.5.0'|
 |libtool+32|2.4.6|2.5.0|runtime-optenv32|Compliance mode enabled, was '2.5.0'|
-|libtracefs|1.6.4|1.8.0|runtime-admin|Compliance mode enabled, was '1.8.0'|
+|libtracefs|1.6.4|1.8.1|runtime-admin|Compliance mode enabled, was '1.8.1'|
 |libtsm|4.0.1|4.0.2|runtime-common|Compliance mode enabled, was '4.0.2'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.7.0.0|runtime-ham|Compliance mode enabled, was '4.7.0.0'|
