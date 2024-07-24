@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721823750?label=Updated)
+![Relative date](https://img.shields.io/date/1721827091?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1273,7 +1273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff|4.4.0|4.6.0|runtime-imaging|Compliance mode enabled, was '4.6.0'|
 |libtiff+32|4.0.10|4.6.0|runtime-optenv32|Compliance mode enabled, was '4.6.0'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
-|libtirpc|1.3.1|1.3.4|runtime-common|Compliance mode enabled, was '1.3.4'|
+|libtirpc|1.3.1|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtool|2.4.7|2.5.0|app-devel|Compliance mode enabled, was '2.5.0'|
 |libtool+32|2.4.6|2.5.0|runtime-optenv32|Compliance mode enabled, was '2.5.0'|
@@ -1521,7 +1521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbxmpp|3.1.0|5.0.2|lang-python|Compliance mode enabled, was '5.0.2'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
-|ncdu|1.16|2.4|app-utils|Compliance mode enabled, was '2.4'|
+|ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20240720|runtime-common|Compliance mode enabled, was '6.5-20240720'|
 |ncurses+32|6.4|6.5+20240720|runtime-optenv32|Compliance mode enabled, was '6.5-20240720'|
@@ -1532,6 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neochat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |neomutt|20200619|20240425|app-web|Compliance mode enabled, was '20240425'|
 |neon+32|0.31.2|0.33.0|runtime-optenv32|Compliance mode enabled, was '0.33.0'|
+|neovim|0.10.0|0.10.1|app-editors|Compliance mode enabled, was '0.10.1'|
 |nestopia|1.51.0|1.52.1|app-games|Compliance mode enabled, was '1.52.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
@@ -1562,6 +1563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
 |ngtcp2|1.5.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
+|nodejs|20.15.1|20.16.0|lang-js|Compliance mode enabled, was '20.16.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nomino|1.3.1|1.3.5|app-utils|Compliance mode enabled, was '1.3.5'|
 |normaliz|3.6.3|3.10.3|app-scientific|Compliance mode enabled, was '3.10.3'|
@@ -1922,7 +1924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-kde-agent-1|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
-|poppler|22.08.0|24.07.0|groups|Compliance mode enabled, was '24.07.0'|
+|poppler|22.08.0|24.07.0|runtime-doc|Compliance mode enabled, was '24.07.0'|
 |poppler+32|0.66.0|24.07.0|runtime-optenv32|Compliance mode enabled, was '24.07.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
