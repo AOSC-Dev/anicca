@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721845020?label=Updated)
+![Relative date](https://img.shields.io/date/1721848283?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -383,11 +383,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |feedbackd|0.2.1|0.4.0|desktop-gnome|Compliance mode enabled, was '0.4.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
-|feeluown|4.1.1|4.1.5|app-multimedia|Compliance mode enabled, was '4.1.5'|
+|feeluown|4.1.1|4.1.6|app-multimedia|Compliance mode enabled, was '4.1.6'|
 |feeluown-bilibili|0.3.3|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
-|feeluown-ytmusic|0.3.4|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
+|feeluown-ytmusic|0.3.4|0.4.3|app-multimedia|Compliance mode enabled, was '0.4.3'|
 |ffcall|2.2|2.4|runtime-common|Compliance mode enabled, was '2.4'|
 |ffmpeg|4.4.4|7.0.1|app-multimedia|Compliance mode enabled, was '7.0.1'|
 |ffmpeg+32|4.2.5|7.0.1|runtime-optenv32|Compliance mode enabled, was '7.0.1'|
@@ -1659,6 +1659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |oxygen-icons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |oxygen-sounds|5.25.3|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
+|p-vector|0.3.8|0.4.0|app-admin|Compliance mode enabled, was '0.4.0'|
 |p11-kit|0.25.3|0.25.5|runtime-cryptography|Compliance mode enabled, was '0.25.5'|
 |p11-kit+32|0.23.18.1|0.25.5|runtime-optenv32|Compliance mode enabled, was '0.25.5'|
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
@@ -1931,6 +1932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |postgresql|13.15|17|app-database|Compliance mode enabled, was '17'|
 |powerdevil|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
+|powershell|7.4.3|7.4.4|app-shells|Compliance mode enabled, was '7.4.4'|
 |poxml|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |ppp|2.4.9|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |precis-i18n|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -1950,6 +1952,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.11.0|3.15.1|app-admin|Compliance mode enabled, was '3.15.1'|
 |pstoedit|3.75|4.01|app-doc|Compliance mode enabled, was '4.01'|
+|psutils|3.3.2|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
 |psycopg2|2.8.6|2.9.9|lang-python|Compliance mode enabled, was '2.9.9'|
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
