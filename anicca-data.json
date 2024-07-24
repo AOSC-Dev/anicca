@@ -1717,6 +1717,7 @@
 ["apt","2.6.1","2.7.14","app-admin",1698115058,["Compliance mode enabled, was '2.7.14'"]],
 ["kexec-tools","2.0.28","2.0.29","app-admin",1706083576,["Compliance mode enabled, was '2.0.29'"]],
 ["lvm2","2.03.14","2.03.25","app-admin",1641887332,["Compliance mode enabled, was '2.03.25'"]],
+["jenkins","2.468","2.469","app-admin",1721531773,["Compliance mode enabled, was '2.469'"]],
 ["po-debconf","1.0.21","1.0.21+nmu1","app-admin",1707021266,["Compliance mode enabled, was '1.0.21+nmu1'","Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)"]],
 ["sanlock","3.8.5","3.9.2","app-admin",1694574450,["Compliance mode enabled, was '3.9.2'"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
