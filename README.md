@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721819565?label=Updated)
+![Relative date](https://img.shields.io/date/1721823750?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1087,6 +1087,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdrm|2.4.120|2.4.122|runtime-display|Compliance mode enabled, was '2.4.122'|
 |libdrm+32|2.4.113|2.4.122|runtime-optenv32|Compliance mode enabled, was '2.4.122'|
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
+|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.10.1|runtime-common|Compliance mode enabled, was '0.10.1'<br>Possible downgrade from the current version (20210305 -> 0.10.1)|
