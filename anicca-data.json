@@ -849,7 +849,6 @@
 ["deno","1.44.1","1.45.3","lang-js",1718853150,["Compliance mode enabled, was '1.45.3'"]],
 ["mathjax","2.7.5","3.2.2","lang-js",1537942111,["Compliance mode enabled, was '3.2.2'"]],
 ["gulp","4.0.0","5.0.0","lang-js",1551419309,["Compliance mode enabled, was '5.0.0'"]],
-["nodejs","20.15.1","20.16.0","lang-js",1720957342,["Compliance mode enabled, was '20.16.0'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
 ["rlwrap","0.43","0.46.1","runtime-common",1488669442,["Compliance mode enabled, was '0.46.1'"]],
 ["popt","1.18","1.19","runtime-common",1600846258,["Compliance mode enabled, was '1.19'"]],
