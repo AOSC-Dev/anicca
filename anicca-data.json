@@ -2521,7 +2521,6 @@
 ["unshield","1.4.3","1.5.1","app-utils",1549919971,["Compliance mode enabled, was '1.5.1'"]],
 ["chntpw","1.1","140201","app-utils",1678950872,["Compliance mode enabled, was '140201'"]],
 ["yad","14.0","14.1","app-utils",1719122607,["Compliance mode enabled, was '14.1'"]],
-["fatattr","1.0.1","1.0.1.orig","app-utils",1510976563,["Compliance mode enabled, was '1.0.1.orig'","Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)"]],
 ["ipmitool","1.8.18","1.8.19","app-utils",1488653406,["Compliance mode enabled, was '1_8_19'"]],
 ["ms-sys","2.6.0","2.8.0","app-utils",1570596349,["Compliance mode enabled, was '2.8.0'"]],
 ["tilda","1.4.1","2.0.0","app-utils",1522263907,["Compliance mode enabled, was '2.0.0'"]],
