@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721827091?label=Updated)
+![Relative date](https://img.shields.io/date/1721830507?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1585,6 +1585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.15.1|app-utils|Compliance mode enabled, was '2.15.1'|
 |nvidia|555.58.02|560.28.03|runtime-display|Compliance mode enabled, was '560.28.03'|
 |nvidia+32|0|560.28.03|runtime-optenv32|Compliance mode enabled, was '560.28.03'|
+|obs-studio|30.2.0|30.2.2|app-multimedia|Compliance mode enabled, was '30.2.2'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2553,7 +2554,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireshark|4.2.5|4.3.0|app-network|Compliance mode enabled, was '4.3.0'|
 |wlroots|0.17.4|0.18.0|runtime-display|Compliance mode enabled, was '0.18.0'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
-|wolfssl|5.7.0|5.7.2-stable|runtime-cryptography|Compliance mode enabled, was '5.7.2-stable'|
 |wpebackend-fdo|1.12.1|1.14.2|runtime-web|Compliance mode enabled, was '1.14.2'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
