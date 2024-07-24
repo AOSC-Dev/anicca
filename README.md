@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721834105?label=Updated)
+![Relative date](https://img.shields.io/date/1721837840?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1701,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.2.3|app-devices|Compliance mode enabled, was '2.2.3'|
-|pcsx2|1.6.0<br>+git20210825|2.1.24|app-games|Compliance mode enabled, was '2.1.24'|
+|pcsx2|1.6.0<br>+git20210825|2.1.26|app-games|Compliance mode enabled, was '2.1.26'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20191020|20240706|app-doc|Compliance mode enabled, was '20240706'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
@@ -2255,6 +2255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
 |sof-tools|2.8.1|2024.06|app-multimedia|Compliance mode enabled, was '2024.06'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
+|solaar|1.1.11|1.1.13|app-utils|Compliance mode enabled, was '1.1.13'|
 |solid|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |sonic-visualiser|4.4|4.5.2|app-multimedia|Compliance mode enabled, was '4.5.2'|
 |sonnet|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
@@ -2628,6 +2629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.132.2|lang-python|Compliance mode enabled, was '0.132.2'|
+|zerotier-one|1.12.2|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
