@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721816131?label=Updated)
+![Relative date](https://img.shields.io/date/1721819565?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -158,7 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bulky|3.3|3.4|desktop-cinnamon|Compliance mode enabled, was '3.4'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
-|c-ares|1.28.1|1.32.2|runtime-network|Compliance mode enabled, was '1.32.2'|
+|c-ares|1.28.1|1.32.3|runtime-network|Compliance mode enabled, was '1.32.3'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
 |cachecontrol|0.12.6|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |cachetools|3.1.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
@@ -1087,7 +1087,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdrm|2.4.120|2.4.122|runtime-display|Compliance mode enabled, was '2.4.122'|
 |libdrm+32|2.4.113|2.4.122|runtime-optenv32|Compliance mode enabled, was '2.4.122'|
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
-|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.10.1|runtime-common|Compliance mode enabled, was '0.10.1'<br>Possible downgrade from the current version (20210305 -> 0.10.1)|
@@ -1386,7 +1385,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.25|app-admin|Compliance mode enabled, was '2.03.25'|
 |lxc|5.0.2|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
 |lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
-|lxgwcleargothic-font|0.300.4|0.322|desktop-fonts|Compliance mode enabled, was '0.322'|
+|lxgwcleargothic-font|0.300.4|0.324|desktop-fonts|Compliance mode enabled, was '0.324'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
