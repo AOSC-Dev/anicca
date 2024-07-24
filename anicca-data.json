@@ -199,7 +199,6 @@
 ["nautilus","42.2","46.2","desktop-gnome",1716298204,["Compliance mode enabled, was '46.2'"]],
 ["atkmm","2.28.0","2.36.3","desktop-gnome",1631428417,["Compliance mode enabled, was '2.36.3'"]],
 ["gnome-packagekit","3.32.0","43.0","desktop-gnome",1571163275,["Compliance mode enabled, was '43.0'"]],
-["gtkmm-3","3.24.6","3.24.9","desktop-gnome",1663210250,["Compliance mode enabled, was '3.24.9'"]],
 ["gnome-mahjongg","3.38.3","3.40.1","desktop-gnome",1607975455,["Compliance mode enabled, was '3.40.1'"]],
 ["gnome-characters","42.0","46.0","desktop-gnome",1663210242,["Compliance mode enabled, was '46.0'"]],
 ["budgie-screensaver","5.0.2","5.1.0","desktop-gnome",1663210249,["Compliance mode enabled, was '5.1.0'"]],
