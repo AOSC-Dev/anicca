@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721942047?label=Updated)
+![Relative date](https://img.shields.io/date/1721945615?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -140,8 +140,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.2.8|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
-|boto3|1.20.26|1.34.148|lang-python|Compliance mode enabled, was '1.34.148'|
-|botocore|1.34.133|1.34.148|lang-python|Compliance mode enabled, was '1.34.148'|
+|boto3|1.20.26|1.34.149|lang-python|Compliance mode enabled, was '1.34.149'|
+|botocore|1.34.133|1.34.149|lang-python|Compliance mode enabled, was '1.34.149'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bovo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
