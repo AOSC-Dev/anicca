@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721938494?label=Updated)
+![Relative date](https://img.shields.io/date/1721942047?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -703,7 +703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|incremental|17.5.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
+|incremental|17.5.0|24.7.0|lang-python|Compliance mode enabled, was '24.7.0'|
 |inetutils|2.4|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
@@ -1451,7 +1451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meson|1.4.0|1.5.0|app-devel|Compliance mode enabled, was '1.5.0'|
 |messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
-|metee|4.0.0|4.1.0|runtime-devices|Compliance mode enabled, was '4.1.0'|
+|metee|4.0.0|4.2.0|runtime-devices|Compliance mode enabled, was '4.2.0'|
 |mgba|0.9.2|0.10.3|app-games|Compliance mode enabled, was '0.10.3'|
 |microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
 |midori|9.0|11.3.3|app-web|Compliance mode enabled, was '11.3.3'|
@@ -1468,7 +1468,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minizip|1.2.11|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
 |minuet|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|mitmproxy|7.0.4|10.3.1|app-network|Compliance mode enabled, was '10.3.1'|
+|mitmproxy|7.0.4|10.4.0|app-network|Compliance mode enabled, was '10.4.0'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|84.0|86.0|app-multimedia|Compliance mode enabled, was '86.0'|
@@ -1544,7 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle|3.7.2|3.10|runtime-cryptography|Compliance mode enabled, was '3.10'|
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
-|networkmanager|1.40.6|1.48.4|app-network|Compliance mode enabled, was '1.48.4'|
+|networkmanager|1.40.6|1.48.6|app-network|Compliance mode enabled, was '1.48.6'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network|Compliance mode enabled, was '1.20.16'|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
