@@ -492,7 +492,7 @@
 ["libuninameslist","20190701","20240524","runtime-i18n",1569908859,["Compliance mode enabled, was '20240524'"]],
 ["libutf8proc","2.4.0","2.9.0","runtime-i18n",1570304206,["Compliance mode enabled, was '2.9.0'"]],
 ["m17n-lib","1.8.0","1.8.4","runtime-i18n",1528819191,["Compliance mode enabled, was '1.8.4'"]],
-["libphonenumber","8.13.38","8.13.40","runtime-i18n",1721223235,["Compliance mode enabled, was '8.13.40'"]],
+["libphonenumber","8.13.38","8.13.41","runtime-i18n",1721223235,["Compliance mode enabled, was '8.13.41'"]],
 ["icu","74.2","75.1","runtime-i18n",1563174820,["Compliance mode enabled, was '75-1'"]],
 ["libvoikko","4.3.1","4.3.2","runtime-i18n",1633153816,["Compliance mode enabled, was '4.3.2'"]],
 ["libpinyin","2.6.0","2.8.1","runtime-i18n",1570596159,["Compliance mode enabled, was '2.8.1'"]],
