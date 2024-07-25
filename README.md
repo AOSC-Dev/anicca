@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721868700?label=Updated)
+![Relative date](https://img.shields.io/date/1721873045?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -98,7 +98,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audiotube|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |audiveris|5.1.0|5.3.1|app-doc|Compliance mode enabled, was '5.3.1'|
-|augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|23.6.2|lang-python|Compliance mode enabled, was '23.6.2'|
 |automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
@@ -207,6 +206,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |chromium|126.0.6478.182|127.0.6533.72|app-web|Compliance mode enabled, was '127.0.6533.72'|
+|ciel|3.3.0|3.2.8|app-devel|Compliance mode enabled, was '3.2.8'<br>Possible downgrade from the current version (3.3.0 -> 3.2.8)|
 |cifs-utils|6.10|7.0|app-network|Compliance mode enabled, was '7.0'|
 |cinnamon|5.8.3|6.2.7|desktop-cinnamon|Compliance mode enabled, was '6.2.7'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -517,7 +517,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|runtime-optenv32|Compliance mode enabled, was '9.0.3'|
 |gmic|3.2.6|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
 |gmime-3|3.2.7|3.2.15|desktop-gnome|Compliance mode enabled, was '3.2.15'|
-|gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gnome-applets|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |gnome-autoar|0.4.3|0.4.4|desktop-gnome|Compliance mode enabled, was '0.4.4'|
 |gnome-backgrounds|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -640,7 +639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |helix|24.03|24.07|app-editors|Compliance mode enabled, was '24.07'|
 |helm|3.15.0|3.15.3|app-containers|Compliance mode enabled, was '3.15.3'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
-|herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |highlight|4.10|4.12|app-devel|Compliance mode enabled, was '4.12'|
@@ -1659,7 +1657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |oxygen-icons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |oxygen-sounds|5.25.3|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
-|p-vector|0.3.8|0.4.0|app-admin|Compliance mode enabled, was '0.4.0'|
+|p-vector|0.4.1|0.4.0|app-admin|Compliance mode enabled, was '0.4.0'<br>Possible downgrade from the current version (0.4.1 -> 0.4.0)|
 |p11-kit|0.25.3|0.25.5|runtime-cryptography|Compliance mode enabled, was '0.25.5'|
 |p11-kit+32|0.23.18.1|0.25.5|runtime-optenv32|Compliance mode enabled, was '0.25.5'|
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
@@ -1739,7 +1737,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
 |perl-datetime-locale|1.26|1.42|lang-perl|Compliance mode enabled, was '1.42'|
 |perl-dbd-mysql|4.052|5.007|lang-perl|Compliance mode enabled, was '5.007'|
-|perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
 |perl-dbi|1.642|1.643|lang-perl|Compliance mode enabled, was '1.643'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
