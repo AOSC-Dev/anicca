@@ -786,6 +786,7 @@
 ["libticonv","1.1.4","1.1.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.5'"]],
 ["libtifiles2","1.1.6","1.1.7","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.7'"]],
 ["igsc","0.8.16","0.9.3","runtime-devices",1626297323,["Compliance mode enabled, was '0.9.3'"]],
+["libcamera","0.3.0","0.3.1","runtime-devices",1717462359,["Compliance mode enabled, was '0.3.1'"]],
 ["metee","4.0.0","4.1.0","runtime-devices",1626297313,["Compliance mode enabled, was '4.1.0'"]],
 ["libblockdev","2.23","3.1.1","runtime-devices",1573334578,["Compliance mode enabled, was '3.1.1'"]],
 ["libburn","1.5.2","1.5.6","runtime-devices",1577446771,["Compliance mode enabled, was '1.5.6'"]],
