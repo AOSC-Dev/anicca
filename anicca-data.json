@@ -2097,7 +2097,6 @@
 ["pymediainfo","5.0.3","6.1.0","lang-python",1614351126,["Compliance mode enabled, was '6.1.0'"]],
 ["beaker","1.11.0","1.13.0","lang-python",1614161777,["Compliance mode enabled, was '1.13.0'"]],
 ["alabaster","0.7.12","0.7.16","lang-python",1549919968,["Compliance mode enabled, was '0.7.16'"]],
-["pyparted","3.11.6","3.12.0","lang-python",1600671246,["Compliance mode enabled, was '3.12.0'"]],
 ["pyqt-builder","1.12.1","1.16.4","lang-python",1637636760,["Compliance mode enabled, was '1.16.4'"]],
 ["pyparsing","2.4.7","3.1.2","lang-python",1523459971,["Compliance mode enabled, was '3.1.2'"]],
 ["pyzmq","22.3.0","26.0.3","lang-python",1637636761,["Compliance mode enabled, was '26.0.3'"]],
