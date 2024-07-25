@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721924211?label=Updated)
+![Relative date](https://img.shields.io/date/1721927581?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -611,9 +611,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer|1.24.4|1.24.5|runtime-multimedia|Compliance mode enabled, was '1.24.5'|
 |gstreamer-1-0+32|1.16.2|1.24.5|groups|Compliance mode enabled, was '1.24.5'|
 |gtest|1.10.0<br>+git20210513|1.15.0|app-devel|Compliance mode enabled, was '1.15.0'|
+|gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
 |gtk-4|4.14.2|4.14.4|desktop-gnome|Compliance mode enabled, was '4.14.4'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|runtime-desktop|Compliance mode enabled, was '0.8.2'|
+|gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
+|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtkwave|3.3.119|3.3.120|app-electronics|Compliance mode enabled, was '3.3.120'|
 |gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
@@ -827,7 +830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdev-php|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kdev-python|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kdevelop|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kdevelop-pg-qt|2.2.1|2.2.2|desktop-kde|Compliance mode enabled, was '2.2.2'|
+|kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kdf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
@@ -1271,8 +1274,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |libtirpc|1.3.1|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
-|libtool|2.4.7|2.5.0|app-devel|Compliance mode enabled, was '2.5.0'|
-|libtool+32|2.4.6|2.5.0|runtime-optenv32|Compliance mode enabled, was '2.5.0'|
+|libtool|2.4.7|2.5.1|app-devel|Compliance mode enabled, was '2.5.1'|
+|libtool+32|2.4.6|2.5.1|runtime-optenv32|Compliance mode enabled, was '2.5.1'|
 |libtracefs|1.6.4|1.8.1|runtime-admin|Compliance mode enabled, was '1.8.1'|
 |libtsm|4.0.1|4.0.2|runtime-common|Compliance mode enabled, was '4.0.2'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
@@ -1674,8 +1677,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pandoc|3.1.13|3.2.1|app-doc|Compliance mode enabled, was '3.2.1'|
 |pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
 |pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
-|pangomm|2.46.3|2.52.0|runtime-desktop|Compliance mode enabled, was '2.52.0'|
-|pangomm-2.48|2.50.1|2.52.0|runtime-desktop|Compliance mode enabled, was '2.52.0'|
+|pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
+|pangomm-2.48|2.50.1|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paprefs|1.1|1.2|app-multimedia|Compliance mode enabled, was '1.2'|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
