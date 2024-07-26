@@ -680,6 +680,7 @@
 ["ser2net","3.5","4.6.2","app-network",1528905473,["Compliance mode enabled, was '4.6.2'"]],
 ["iptables","1.8.8","1.8.10","app-network",1674452376,["Compliance mode enabled, was '1.8.10'"]],
 ["siege","4.0.7","4.1.6","app-network",1600577920,["Compliance mode enabled, was '4.1.6'"]],
+["rpcbind","1.2.6","1.2.7","app-network",1716301828,["Compliance mode enabled, was '1.2.7'"]],
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
 ["crda","3.18","4.15","app-network",1678950872,["Compliance mode enabled, was '4.15'"]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
