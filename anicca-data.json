@@ -756,7 +756,7 @@
 ["nss","3.102","3.102.1","runtime-cryptography",1721811147,["Compliance mode enabled, was '3.102.1'"]],
 ["libp11","0.4.10","0.4.12","runtime-cryptography",1565150269,["Compliance mode enabled, was '0.4.12'"]],
 ["libksba","1.6.6","1.6.7","runtime-cryptography",1709461519,["Compliance mode enabled, was '1.6.7'"]],
-["cracklib","2.9.8","2.10.0","runtime-cryptography",1663359145,["Compliance mode enabled, was '2.10.0'"]],
+["cracklib","2.9.8","2.10.1","runtime-cryptography",1663359145,["Compliance mode enabled, was '2.10.1'"]],
 ["mbedtls","2.16.7","3.6.0","runtime-cryptography",1582091000,["Compliance mode enabled, was '3.6.0'"]],
 ["libgcrypt-static","1.10.3","1.11.0","runtime-cryptography",1714237903,["Compliance mode enabled, was '1.11.0'"]],
 ["qca","2.3.4","2.3.9","runtime-cryptography",1650696645,["Compliance mode enabled, was '2.3.9'"]],
