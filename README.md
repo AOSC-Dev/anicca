@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721967453?label=Updated)
+![Relative date](https://img.shields.io/date/1721970977?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -279,6 +279,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |debianutils|5.7|5.20|app-utils|Compliance mode enabled, was '5.20'|
+|debootstrap|1.0.136|1.0.137|app-utils|Compliance mode enabled, was '1.0.137'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deluge|2.1.1|2.0.5|app-web|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.1 -> 2.0.5)|
@@ -399,7 +400,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.5|1.9.6|lang-ocaml|Compliance mode enabled, was '1.9.6'|
 |fio|3.35|3.37|app-utils|Compliance mode enabled, was '3.37'|
-|firefox|128.0|128.0.2|app-web|Compliance mode enabled, was '128.0.2'|
+|firefox|128.0|128.0.3|app-web|Compliance mode enabled, was '128.0.3'|
 |firewalld|2.2.0|2.2.1|app-network|Compliance mode enabled, was '2.2.1'|
 |flac|1.3.3|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |flac+32|1.3.3|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
@@ -1222,7 +1223,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
 |libqtxdg|3.6.0|4.0.0|runtime-desktop|Compliance mode enabled, was '4.0.0'|
-|libquotient|0.8.1.2|0.8.2|runtime-web|Compliance mode enabled, was '0.8.2'|
 |libraw|0.20.0|0.21.2|runtime-imaging|Compliance mode enabled, was '0.21.2'|
 |librcc|0.2.12|0.2.13|runtime-i18n|Compliance mode enabled, was '0.2.13'|
 |libreoffice|24.2.3.2|24.8.0.1|groups|Compliance mode enabled, was '24.8.0.1'|
@@ -2265,7 +2265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |solid|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |sonic-visualiser|4.4|4.5.2|app-multimedia|Compliance mode enabled, was '4.5.2'|
 |sonnet|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
-|sord|0.16.4|0.16.16|runtime-common|Compliance mode enabled, was '0.16.16'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |sos|4.4|4.7.2|lang-python|Compliance mode enabled, was '4.7.2'|
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
