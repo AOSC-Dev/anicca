@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721981825?label=Updated)
+![Relative date](https://img.shields.io/date/1721985331?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1015,7 +1015,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwayland-integration|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |kweather|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kweathercore|0.7|0.8.0|desktop-kde|Compliance mode enabled, was '0.8.0'|
+|kweathercore|0.7|24.07.80|desktop-kde|Compliance mode enabled, was '24.07.80'|
 |kwidgetsaddons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kwin|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |kwindowsystem|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
@@ -2269,7 +2269,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
 |soupsieve|1.8.0|2.5|lang-python|Compliance mode enabled, was '2.5'|
-|sozu|0.15.2|1.0.3|app-web|Compliance mode enabled, was '1.0.3'|
+|sozu|0.15.2|1.0.4|app-web|Compliance mode enabled, was '1.0.4'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spectacle|22.12.3|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
