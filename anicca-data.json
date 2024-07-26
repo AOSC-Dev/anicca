@@ -813,7 +813,7 @@
 ["zed","0.144.4","0.145.1","app-editors",1721521652,["Compliance mode enabled, was '0.145.1'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
 ["neovim","0.10.0","0.10.1","app-editors",1716196935,["Compliance mode enabled, was '0.10.1'"]],
-["vim","9.1.0446","9.1.0610","app-editors",1716881164,["Compliance mode enabled, was '9.1.0610'"]],
+["vim","9.1.0446","9.1.0618","app-editors",1716881164,["Compliance mode enabled, was '9.1.0618'"]],
 ["wdm","1.28","1.29","desktop-displaymanagers",1678604371,["Compliance mode enabled, was '1.29'"]],
 ["slick-greeter","2.0.4","2.0.6","desktop-displaymanagers",1719323633,["Compliance mode enabled, was '2.0.6'"]],
 ["lightdm-settings","2.0.4","2.0.5","desktop-displaymanagers",1719277648,["Compliance mode enabled, was '2.0.5'"]],
