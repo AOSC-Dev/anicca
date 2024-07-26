@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1721974734?label=Updated)
+![Relative date](https://img.shields.io/date/1721978028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -412,7 +412,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-wtf|0.14|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |flat-remix-icon-theme|20191122|20240201|desktop-themes|Compliance mode enabled, was '20240201'|
 |flatbuffers|2.0.6|24.3.25|runtime-common|Compliance mode enabled, was '24.3.25'|
-|flatpak-builder|1.4.3|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
 |flent|1.3.2|2.1.1|app-network|Compliance mode enabled, was '2.1.1'|
 |flightgear|2020.3.13|2020.3.19|app-games|Compliance mode enabled, was '2020.3.19'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
@@ -2145,6 +2144,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |roct-thunk-interface|6.0.0|6.1.2|runtime-rocm|Compliance mode enabled, was '6.1.2'|
 |rosegarden|20.12|24.06|app-creativity|Compliance mode enabled, was '24.06'|
+|roxterm|3.15.0|3.15.1|app-utils|Compliance mode enabled, was '3.15.1'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
 |rpm|4.18.0|4.19.1.1-release|app-admin|Compliance mode enabled, was '4.19.1.1-release'|
 |rrdtool|1.7.2|1.8.0|runtime-common|Compliance mode enabled, was '1.8.0'|
