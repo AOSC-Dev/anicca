@@ -1747,7 +1747,7 @@
 ["sccache","0.3.3","0.8.1","app-devel",1680558295,["Compliance mode enabled, was '0.8.1'"]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,["Compliance mode enabled, was '1.10'"]],
 ["spirv-llvm-translator","18.1.0","18.1.2","app-devel",1721226526,["Compliance mode enabled, was '18.1.2'"]],
-["meson","1.4.0","1.5.0","app-devel",1713533343,["Compliance mode enabled, was '1.5.0'"]],
+["meson","1.4.0","1.5.1","app-devel",1713533343,["Compliance mode enabled, was '1.5.1'"]],
 ["ltrace","0.7.3+git20151111","0.7.3","app-devel",1620461825,["Compliance mode enabled, was '0.7.3'"]],
 ["vasm","1.9f","1.9.f","app-devel",1710150622,["Compliance mode enabled, was '1.9.f'"]],
 ["dotnet-sdk-8.0","8.0.302","8.0.303","app-devel",1718761138,["Compliance mode enabled, was '8.0.303'"]],

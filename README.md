@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722083044?label=Updated)
+![Relative date](https://img.shields.io/date/1722086112?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1448,7 +1448,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa|24.1.3|24.1.4|runtime-display||
 |mesa+32|22.1.7|24.1.4|runtime-optenv32|Compliance mode enabled, was '24.1.4'|
 |mesa-amber|21.3.9|24.1.4|runtime-display|Compliance mode enabled, was '24.1.4'|
-|meson|1.4.0|1.5.0|app-devel|Compliance mode enabled, was '1.5.0'|
+|meson|1.4.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |metee|4.0.0|4.2.0|runtime-devices|Compliance mode enabled, was '4.2.0'|
