@@ -2123,7 +2123,7 @@
 ["toml","0.10.1","0.10.2","lang-python",1603832583,["Compliance mode enabled, was '0.10.2'"]],
 ["pyasn1","0.4.8","0.6.0","lang-python",1581796621,["Compliance mode enabled, was '0.6.0'"]],
 ["lxml","4.7.1","4.9.1","lang-python",1644263470,["Compliance mode enabled, was '4.9.1'"]],
-["incremental","17.5.0","24.7.0","lang-python",1530718722,["Compliance mode enabled, was '24.7.0'"]],
+["incremental","17.5.0","24.7.1","lang-python",1530718722,["Compliance mode enabled, was '24.7.1'"]],
 ["boto3","1.20.26","1.34.149","lang-python",1616123331,["Compliance mode enabled, was '1.34.149'"]],
 ["cairocffi","1.0.2","1.7.1","lang-python",1551159549,["Compliance mode enabled, was '1.7.1'"]],
 ["prettytable","0.7.2","3.10.2","lang-python",1678950872,["Compliance mode enabled, was '3.10.2'"]],
