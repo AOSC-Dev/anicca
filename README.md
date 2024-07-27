@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722060985?label=Updated)
+![Relative date](https://img.shields.io/date/1722064451?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -712,8 +712,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.20|22.4.1|runtime-devices|Compliance mode enabled, was '22.4.1'|
 |intel-graphics-compiler|1.0.16900.23|1.0.17193.4|app-devel|Compliance mode enabled, was '1.0.17193.4'|
 |intel-media-driver|24.1.5|24.3.0|runtime-multimedia|Compliance mode enabled, was '24.3.0'|
+|intel-one-mono|1.3.0|1.4.0|desktop-fonts|Compliance mode enabled, was '1.4.0'|
 |iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
-|iosevka-fonts|28.0.5|30.3.3|desktop-fonts|Compliance mode enabled, was '30.3.3'|
+|iosevka-fonts|28.0.5|31.0.0|desktop-fonts|Compliance mode enabled, was '31.0.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -1623,7 +1624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|2.5.13.1|runtime-imaging|Compliance mode enabled, was '2.5.13.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.20.1<br>+ga|11.0.24+8|lang-java|Compliance mode enabled, was '11.0.24+8'|
-|openjdk-8|8u382<br>+ga|8u422-b05|groups|Compliance mode enabled, was '8u422-b05'|
+|openjdk-8|8u382<br>+ga|8u422-b05.1|groups|Compliance mode enabled, was '8u422-b05.1'|
 |openjfx-11|11.0.20<br>+1|11.0.24+8|lang-java|Compliance mode enabled, was '11.0.24+8'|
 |openjfx-8|8u202<br>+ga|8u202-ga|lang-java|Compliance mode enabled, was '8u202-ga'|
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
