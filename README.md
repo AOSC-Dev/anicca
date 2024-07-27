@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722050274?label=Updated)
+![Relative date](https://img.shields.io/date/1722053777?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -577,7 +577,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gobject-introspection|1.80.0|1.80.1|app-devel|Compliance mode enabled, was '1.80.1'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.2|runtime-database|Compliance mode enabled, was '0.5.2'|
-|google-api-python-client|1.7.11|2.137.0|lang-python|Compliance mode enabled, was '2.137.0'|
+|google-api-python-client|1.7.11|2.138.0|lang-python|Compliance mode enabled, was '2.138.0'|
 |google-auth|1.6.3|2.32.0|lang-python|Compliance mode enabled, was '2.32.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
@@ -592,7 +592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
-|grpc|1.64.0|1.65.1|app-network|Compliance mode enabled, was '1.65.1'|
+|grpc|1.64.0|1.65.2|app-network|Compliance mode enabled, was '1.65.2'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
