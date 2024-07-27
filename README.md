@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722078732?label=Updated)
+![Relative date](https://img.shields.io/date/1722083044?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1386,10 +1386,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.25|app-admin|Compliance mode enabled, was '2.03.25'|
 |lxc|5.0.2|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
 |lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
-|lxgwcleargothic-font|0.300.4|0.325|desktop-fonts|Compliance mode enabled, was '0.325'|
+|lxgwcleargothic-font|0.300.4|0.327|desktop-fonts|Compliance mode enabled, was '0.327'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
+|lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
 |lynx|2.9.0|2.9.2|app-web|Compliance mode enabled, was '2.9.2'|
 |lyx|2.4.0|2.4.1|app-doc|Compliance mode enabled, was '2.4.1'|
 |lzd|1.0|1.4|app-utils|Compliance mode enabled, was '1.4'|
@@ -2187,7 +2188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc+32|1.3|2.0|runtime-optenv32|Compliance mode enabled, was '2.0'|
-|sbcl|2.4.5|2.4.6|lang-lisp|Compliance mode enabled, was '2.4.6'|
+|sbcl|2.4.5|2.4.7|lang-lisp|Compliance mode enabled, was '2.4.7'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |sccache|0.3.3|0.8.1|app-devel|Compliance mode enabled, was '0.8.1'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
