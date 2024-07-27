@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722071713?label=Updated)
+![Relative date](https://img.shields.io/date/1722075224?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -90,6 +90,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomicwrites|1.3.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|atop|2.10.0|2.11.0|app-utils|Compliance mode enabled, was '2.11.0'|
 |attica5|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
@@ -1208,7 +1209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32|Compliance mode enabled, was '1.10.4'|
 |libpeas|1.36.0|2.0.3|desktop-gnome|Compliance mode enabled, was '2.0.3'|
-|libphonenumber|8.13.38|8.13.41|runtime-i18n|Compliance mode enabled, was '8.13.41'|
+|libphonenumber|8.13.38|8.13.42|runtime-i18n|Compliance mode enabled, was '8.13.42'|
 |libpinyin|2.6.0|2.8.1|runtime-i18n|Compliance mode enabled, was '2.8.1'|
 |libpipeline|1.5.3|1.5.7|runtime-common|Compliance mode enabled, was '1.5.7'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
@@ -2319,6 +2320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
+|starship|1.19.0|1.20.1|app-utils|Compliance mode enabled, was '1.20.1'|
 |stellarium|0.21.3|24.2|app-scientific|Compliance mode enabled, was '24.2'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
