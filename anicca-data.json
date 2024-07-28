@@ -1721,7 +1721,6 @@
 ["genwan-font","1.501","2.000","desktop-fonts",1597907280,["Compliance mode enabled, was '2.000'"]],
 ["adobe-source-han-sans","2.004","2.004r","desktop-fonts",1619721201,["Compliance mode enabled, was '2.004R'","Possible downgrade from the current version (2.004 -> 2.004r)"]],
 ["font-awesome","6.5.1","6.6.0","desktop-fonts",1706083317,["Compliance mode enabled, was '6.6.0'"]],
-["fonttools","4.47.2","4.53.1","desktop-fonts",1706083317,["Compliance mode enabled, was '4.53.1'"]],
 ["lxgwcleargothic-font","0.300.4","0.327","desktop-fonts",1715870557,["Compliance mode enabled, was '0.327'"]],
 ["noto-fonts","24.1.1","24.7.1","desktop-fonts",1706083317,[]],
 ["adobe-source-sans","3.052","3.052r","desktop-fonts",1706083317,["Compliance mode enabled, was '3.052R'","Possible downgrade from the current version (3.052 -> 3.052r)"]],
