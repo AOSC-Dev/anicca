@@ -266,7 +266,7 @@
 ["perl-canary-stability","2012","2013","lang-perl",1530196415,["Compliance mode enabled, was '2013'"]],
 ["perl-par-packer","1.050","1.063","lang-perl",1678950872,["Compliance mode enabled, was '1.063'"]],
 ["perl-b-hooks-endofscope","0.24","0.28","lang-perl",1596485702,["Compliance mode enabled, was '0.28'"]],
-["perl-datetime-locale","1.26","1.42","lang-perl",1596485702,["Compliance mode enabled, was '1.42'"]],
+["perl-datetime-locale","1.26","1.43","lang-perl",1596485702,["Compliance mode enabled, was '1.43'"]],
 ["perl-mro-compat","0.13","0.15","lang-perl",1596485704,["Compliance mode enabled, was '0.15'"]],
 ["perl-dbd-sqlite","1.63+03","1.74","lang-perl",1550814485,["Compliance mode enabled, was '1.74'"]],
 ["perl-app-cpanminus","1.7044","1.7047","lang-perl",1678950872,["Compliance mode enabled, was '1.7047'"]],
