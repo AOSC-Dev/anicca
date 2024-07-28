@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722176036?label=Updated)
+![Relative date](https://img.shields.io/date/1722179585?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -625,7 +625,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
 |gvfs|1.50.2|1.55.1|desktop-gnome|Compliance mode enabled, was '1.55.1'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
-|gwenhywfar|5.4.0|5.10.2|runtime-network|Compliance mode enabled, was '5.10.2'|
 |gwenview|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |gzdoom|4.6.1|4.12.2|app-games|Compliance mode enabled, was '4.12.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
@@ -1029,7 +1028,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lablgtk|2.18.11|3.1.5|lang-ocaml|Compliance mode enabled, was '3.1.5'|
 |lact|0.5.4|0.5.5|app-admin|Compliance mode enabled, was '0.5.5'|
 |ladish|20200418|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (20200418 -> 1.2)|
-|lasem|0.5.1|0.5.2|runtime-productivity|Compliance mode enabled, was '0.5.2'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |layer-shell-qt|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |lazarus|3.2|3.4|lang-pascal|Compliance mode enabled, was '3.4'|
