@@ -332,7 +332,7 @@
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
 ["udisks-2","2.8.4","2.10.1","app-admin",1565150292,["Compliance mode enabled, was '2.10.1'"]],
 ["mac-fdisk","0.1","0.1.orig","app-admin",1610962799,["Compliance mode enabled, was '0.1.orig'","Possible downgrade from the current version (0.1 -> 0.1.orig)"]],
-["deploykit-gui","0.7.4","0.7.6","app-admin",1721531418,["Compliance mode enabled, was '0.7.6'"]],
+["deploykit-gui","0.7.4","0.7.7","app-admin",1721531418,["Compliance mode enabled, was '0.7.7'"]],
 ["lxc","5.0.2","6.0.1","app-admin",1700548607,["Compliance mode enabled, was '6.0.1'"]],
 ["b43-firmware-installer","20160210","019","app-admin",1678950872,["Compliance mode enabled, was '019'","Possible downgrade from the current version (20160210 -> 019)"]],
 ["sanlock","3.8.5","3.9.2","app-admin",1694574450,["Compliance mode enabled, was '3.9.2'"]],
