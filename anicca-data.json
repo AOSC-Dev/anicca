@@ -693,7 +693,6 @@
 ["xpra","5.0.8","6.1","app-network",1714466456,["Compliance mode enabled, was '6.1'"]],
 ["ipt2socks","1.1.3","1.1.4","app-network",1611985904,["Compliance mode enabled, was '1.1.4'"]],
 ["ofono","1.30","2.9","app-network",1574948529,["Compliance mode enabled, was '2.9'"]],
-["lighttpd","1.4.55","1.4.76","app-network",1600577920,["Compliance mode enabled, was '1.4.76'"]],
 ["grpc","1.64.0","1.65.2","app-network",1717130892,["Compliance mode enabled, was '1.65.2'"]],
 ["udns","0.5","0.6","app-network",1721195636,["Compliance mode enabled, was '0.6'"]],
 ["networkmanager-openvpn","1.8.12","1.12.0","app-network",1584387426,["Compliance mode enabled, was '1.12.0'"]],
