@@ -140,7 +140,6 @@
 ["cldr-emoji-annotation","37.0+13.0+0+2","37.0_13.0_0_2","app-i18n",1633153817,["Compliance mode enabled, was '37.0_13.0_0_2'"]],
 ["ibus-uniemoji","0.6.0","0.7.0","app-i18n",1479402122,["Compliance mode enabled, was '0.7.0'"]],
 ["ibus-chewing","1.6.1","2.0.0","app-i18n",1508565305,["Compliance mode enabled, was '2.0.0'"]],
-["rime-cantonese","2023.06.15+git20230912","2023.06.15","app-i18n",1701762496,["Compliance mode enabled, was '2023.06.15'"]],
 ["po4a","0.63","0.73","app-i18n",1633153813,["Compliance mode enabled, was '0.73'"]],
 ["fcitx5-pinyin-zhwiki","0.2.3","0.2.5","app-i18n",1633153817,[]],
 ["link-grammar","5.10.1","5.99.42","app-i18n",1633153817,["Compliance mode enabled, was '5.99.42'"]],
