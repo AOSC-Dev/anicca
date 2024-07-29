@@ -1342,6 +1342,7 @@
 ["acl","2.3.1","2.3.2","app-utils",1641882995,["Compliance mode enabled, was '2.3.2'"]],
 ["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
 ["lsof","4.98.0","4.99.3","app-utils",1681367930,["Compliance mode enabled, was '4.99.3'"]],
+["collectl","4.3.1","4.3.8","app-utils",1566073133,["Compliance mode enabled, was '4.3.8'"]],
 ["ms-sys","2.6.0","2.8.0","app-utils",1570596349,["Compliance mode enabled, was '2.8.0'"]],
 ["debianutils","5.7","5.20","app-utils",1673935786,["Compliance mode enabled, was '5.20'"]],
 ["aosc-media-writer","0.3.4","5.0.9","app-utils",1712408945,["Compliance mode enabled, was '5.0.9'"]],
