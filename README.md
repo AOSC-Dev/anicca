@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722223003?label=Updated)
+![Relative date](https://img.shields.io/date/1722226614?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1563,6 +1563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4.10.0.rel|app-network|Compliance mode enabled, was '4_10_0_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr+32|4.24|4.35|runtime-optenv32|Compliance mode enabled, was '4.35'|
+|nss|3.102|3.102.1|runtime-cryptography|Compliance mode enabled, was '3.102.1'|
 |nss+32|3.78|3.102.1|runtime-optenv32|Compliance mode enabled, was '3.102.1'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
@@ -2569,6 +2570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapian-core|1.4.18|1.4.26|runtime-common|Compliance mode enabled, was '1.4.26'|
 |xapps|2.8.2|2.8.5|runtime-desktop|Compliance mode enabled, was '2.8.5'|
 |xarchiver|0.5.4.15|0.5.4.23|app-utils|Compliance mode enabled, was '0.5.4.23'|
+|xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
 |xcb-proto|1.16.0|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
 |xcffib|0.7.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
@@ -2588,7 +2590,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfburn|0.7.0|0.7.1|desktop-xfce|Compliance mode enabled, was '0.7.1'|
 |xfce4-screenshooter|1.10.6|1.11.0|desktop-xfce|Compliance mode enabled, was '1.11.0'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
-|xfsprogs|6.8.0|6.9.0|app-admin|Compliance mode enabled, was '6.9.0'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
