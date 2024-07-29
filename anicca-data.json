@@ -8,7 +8,6 @@
 ["miniserve","0.26.0","0.27.1","app-web",1705559527,["Compliance mode enabled, was '0.27.1'"]],
 ["qownnotes","22.6.1","24.7.3","app-web",1659588927,["Compliance mode enabled, was '24.7.3'"]],
 ["telegram-desktop","5.2.3","5.2.4","app-web",1721220406,["Compliance mode enabled, was '5.2.4'"]],
-["lynx","2.9.0","2.9.2","app-web",1709968621,["Compliance mode enabled, was '2.9.2'"]],
 ["mldonkey","3.1.7+2+git20210505","3.1.7.2","app-web",1634534087,["Compliance mode enabled, was '3-1-7-2'"]],
 ["notmuch","0.34","0.38.3","app-web",1637636760,["Compliance mode enabled, was '0.38.3'"]],
 ["znc","1.8.2","1.9.1","app-web",1721223235,["Compliance mode enabled, was '1.9.1'"]],
