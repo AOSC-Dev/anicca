@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722230220?label=Updated)
+![Relative date](https://img.shields.io/date/1722233938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -415,7 +415,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32|Compliance mode enabled, was '2.3.5'|
 |fmt|10.2.1|11.0.2|runtime-common|Compliance mode enabled, was '11.0.2'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
-|font-awesome|6.5.1|6.6.0|desktop-fonts|Compliance mode enabled, was '6.6.0'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |foolscap|0.13.2|23.11.0|lang-python|Compliance mode enabled, was '23.11.0'|
 |fortune-mod|3.6.1|3.22.0|app-games|Compliance mode enabled, was '3.22.0'|
@@ -697,7 +696,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.20|22.4.1|runtime-devices|Compliance mode enabled, was '22.4.1'|
 |intel-graphics-compiler|1.0.16900.23|1.0.17193.4|app-devel|Compliance mode enabled, was '1.0.17193.4'|
 |intel-media-driver|24.1.5|24.3.0|runtime-multimedia|Compliance mode enabled, was '24.3.0'|
-|intel-one-mono|1.3.0|1.4.0|desktop-fonts|Compliance mode enabled, was '1.4.0'|
 |iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
 |iosevka-fonts|28.0.5|31.0.0|desktop-fonts|Compliance mode enabled, was '31.0.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
@@ -1424,7 +1422,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8|app-vcs|Compliance mode enabled, was '6.8'|
 |merkuro|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|mesa|24.1.3|24.1.4|runtime-display||
 |mesa+32|22.1.7|24.1.4|runtime-optenv32|Compliance mode enabled, was '24.1.4'|
 |mesa-amber|21.3.9|24.1.4|runtime-display|Compliance mode enabled, was '24.1.4'|
 |meson|1.4.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
@@ -1639,7 +1636,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
-|osu-lazer|2024.718.1|2024.727.0|app-games|Compliance mode enabled, was '2024.727.0'|
 |oxygen|5.27.11|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
 |oxygen-icons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |oxygen-sounds|5.25.3|6.1.3|desktop-kde|Compliance mode enabled, was '6.1.3'|
