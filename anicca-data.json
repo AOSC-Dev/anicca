@@ -21,7 +21,6 @@
 ["kvirc","5.0.0","5.2.4","app-web",1554223928,["Compliance mode enabled, was '5.2.4'"]],
 ["httrack","3.49.2","3.49.5","app-web",1495802694,["Compliance mode enabled, was '3.49.5'"]],
 ["certbot-apache","2.10.0","2.11.0","app-web",1716728517,["Compliance mode enabled, was '2.11.0'"]],
-["rclone","1.65.2","1.67.0","app-web",1712458054,["Compliance mode enabled, was '1.67.0'"]],
 ["gajim","1.4.0","1.9.2","app-web",1655338775,["Compliance mode enabled, was '1.9.2'"]],
 ["chinadns-ng","2024.07.16","2024.07.21","app-web",1721316608,["Compliance mode enabled, was '2024.07.21'"]],
 ["midori","9.0","11.3.3","app-web",1569636491,["Compliance mode enabled, was '11.3.3'"]],
