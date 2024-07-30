@@ -60,7 +60,7 @@ async function getUpdateDate() {
   document.getElementById("update-time").innerText =
     "Updated " +
     (-timePassedMin < 60
-      ? rtf.format(timePassedMin, "minute")
+      ? rtf.format(parseInt(timePassedMin), "minute")
       : rtf.format(parseInt(timePassedMin / 60), "hour"));
 }
 
