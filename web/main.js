@@ -55,10 +55,13 @@ async function getUpdateDate() {
   const data = await fetch(dataUrl).then((response) => response.json());
   const updateTimestamp = Date.parse(data.commit.commit.author.date);
 
+  const timePassedMin = (updateTimestamp - Date.now()) / 60000;
   const rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
   document.getElementById("update-time").innerText =
     "Updated " +
-    rtf.format(parseInt((updateTimestamp - Date.now()) / 60000), "minute");
+    (-timePassedMin < 60
+      ? rtf.format(timePassedMin, "minute")
+      : rtf.format(parseInt(timePassedMin / 60), "hour"));
 }
 
 renderDataTable();
