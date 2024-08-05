@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1722856986?label=Updated)
+![Relative date](https://img.shields.io/date/1722863653?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -601,7 +601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsmartcontrol|1.1.3|1.1.4|app-admin|Compliance mode enabled, was '1.1.4'|
 |gsoap|2.8.124|2.8.135|runtime-network|Compliance mode enabled, was '2.8.135'|
 |gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
-|gspell|1.11.1|1.12.2|desktop-gnome|Compliance mode enabled, was '1.12.2'|
+|gspell|1.11.1|1.13.1|desktop-gnome|Compliance mode enabled, was '1.13.1'|
 |gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gst-libav-1-0+32|1.16.2|1.24.6|runtime-optenv32|Compliance mode enabled, was '1.24.6'|
@@ -1288,6 +1288,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia|Compliance mode enabled, was '0.7.4'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvdpau+32|1.1.1|1.5|runtime-optenv32|Compliance mode enabled, was '1.5'|
+|libvirt|10.5.0|10.6.0|app-virtualization|Compliance mode enabled, was '10.6.0'|
+|libvirt-python|10.5.0|10.6.0|runtime-virtualization|Compliance mode enabled, was '10.6.0'|
 |libvisual|0.4.0|0.4.2|runtime-multimedia|Compliance mode enabled, was '0.4.2'|
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32|Compliance mode enabled, was '0.4.2'|
 |libvncserver|0.9.13|0.9.14|runtime-network|Compliance mode enabled, was '0.9.14'|
@@ -2499,7 +2501,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.290.0|runtime-optenv32|Compliance mode enabled, was '1.3.290.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscode|1.91.1|1.92.0|app-editors|Compliance mode enabled, was '1.92.0'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.3|runtime-desktop|Compliance mode enabled, was '0.76.3'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
