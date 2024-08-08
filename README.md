@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723119298?label=Updated)
+![Relative date](https://img.shields.io/date/1723122909?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -192,6 +192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
 |cchardet|2.1.7|2.2.0~a2|lang-python|Compliance mode enabled, was '2.2.0a2'|
 |ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
+|cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
@@ -240,9 +241,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmake|3.30.1|3.30.2|app-devel|Compliance mode enabled, was '3.30.2'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|321|app-admin|Compliance mode enabled, was '321'|
-|cockpit-machines|284.1|316|app-admin|Compliance mode enabled, was '316'|
-|cockpit-podman|63|91|app-admin|Compliance mode enabled, was '91'|
+|cockpit|286.1|322|app-admin|Compliance mode enabled, was '322'|
+|cockpit-machines|284.1|317|app-admin|Compliance mode enabled, was '317'|
+|cockpit-podman|63|92|app-admin|Compliance mode enabled, was '92'|
 |coin|4.0.0<br>+git20220828|4.0.2|runtime-imaging|Compliance mode enabled, was '4.0.2'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
@@ -355,7 +356,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eog|42.3|45.4|desktop-gnome|Compliance mode enabled, was '45.4'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
-|et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |etl|1.2.2|1.5.2|runtime-common|Compliance mode enabled, was '1.5.2'|
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1227,8 +1227,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32|Compliance mode enabled, was '0.2.12'|
 |libspiro|0.5.20150702|20221101|runtime-creativity|Compliance mode enabled, was '20221101'|
 |libspnav|0.2.3|1.0|runtime-devices|Compliance mode enabled, was '1.0'|
-|libssh|0.8.9|0.10.6|runtime-network|Compliance mode enabled, was '0.10.6'|
-|libssh+32|0.8.9|0.10.6|runtime-optenv32|Compliance mode enabled, was '0.10.6'|
+|libssh|0.8.9|0.11.0|runtime-network|Compliance mode enabled, was '0.11.0'|
+|libssh+32|0.8.9|0.11.0|runtime-optenv32|Compliance mode enabled, was '0.11.0'|
 |libssh2|1.9.0|1.11.0|runtime-network|Compliance mode enabled, was '1.11.0'|
 |libssh2+32|1.9.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
@@ -2001,7 +2001,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-msgpack|1.0.2|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-openid|2.2.5|3.2|lang-python|Compliance mode enabled, was '3.2'|
-|python-pam|1.8.4|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compliance mode enabled, was '21.3.0'|
 |python-tabulate|0.8.3|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
