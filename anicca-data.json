@@ -2455,7 +2455,7 @@
 ["pycodestyle","2.7.0","2.12.1","lang-python",1619939108,["Compliance mode enabled, was '2.12.1'"]],
 ["apicula","0.9.1","0.12","app-electronics",1700797896,["Compliance mode enabled, was '0.12'"]],
 ["ngspice","35","43","app-electronics",1624316725,["Compliance mode enabled, was '43'"]],
-["yosys","0.41","0.43","app-electronics",1717056114,["Compliance mode enabled, was '0.43'"]],
+["yosys","0.41","0.44","app-electronics",1717056114,["Compliance mode enabled, was '0.44'"]],
 ["openjdk-11","11.0.20.1+ga","11.0.24+8","lang-java",1697240554,["Compliance mode enabled, was '11.0.24+8'"]],
 ["openjdk-8","8u382+ga","8u422-b05.1","groups",1697240554,["Compliance mode enabled, was '8u422-b05.1'"]],
 ["openjfx-8","8u202+ga","8u202-ga","lang-java",1697240554,["Compliance mode enabled, was '8u202-ga'"]],
