@@ -382,6 +382,7 @@
 ["perl","5.36.3","5.41.2","lang-perl",1706998720,["Compliance mode enabled, was '5.41.2'"]],
 ["perl-file-next","1.16","1.18","lang-perl",1488649548,["Compliance mode enabled, was '1.18'"]],
 ["perl-yaml-libyaml","0.85","0.89","lang-perl",1678351353,["Compliance mode enabled, was '0.89'"]],
+["perl-regexp-common","2017060201","2024080801","lang-perl",1530196414,["Compliance mode enabled, was '2024080801'"]],
 ["perl-io-socket-ssl","2.062","2.088","lang-perl",1551145090,["Compliance mode enabled, was '2.088'"]],
 ["perl-json-parse","0.57","0.43","lang-perl",1596482997,["Compliance mode enabled, was '0.43'","Possible downgrade from the current version (0.57 -> 0.43)"]],
 ["perl-anyevent-i3","0.17","0.19","lang-perl",1530196415,["Compliance mode enabled, was '0.19'"]],
