@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723122909?label=Updated)
+![Relative date](https://img.shields.io/date/1723126028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -251,20 +251,22 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.8|lang-python|Compliance mode enabled, was '5.0.8'|
-|configparser|3.7.3|3.12.4|lang-python|Compliance mode enabled, was '3.12.4'|
+|configparser|3.7.3|3.12.5|lang-python|Compliance mode enabled, was '3.12.5'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |conky|1.21.4|1.21.6|app-utils|Compliance mode enabled, was '1.21.6'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containers-common|0.59.2|0.60.0|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
-|corefreq|20170301|1.98.0|app-utils|Compliance mode enabled, was '1.98.0'<br>Possible downgrade from the current version (20170301 -> 1.98.0)|
-|cpp-utilities|5.20.0|5.25.0|runtime-common|Compliance mode enabled, was '5.25.0'|
+|corefreq|20170301|1.98.1|app-utils|Compliance mode enabled, was '1.98.1'<br>Possible downgrade from the current version (20170301 -> 1.98.1)|
+|cowsay|3.7.0|3.8.1|app-utils|Compliance mode enabled, was '3.8.1'|
+|cpp-utilities|5.20.0|5.26.0|runtime-common|Compliance mode enabled, was '5.26.0'|
 |cppcheck|2.8|2.14.0|app-devel|Compliance mode enabled, was '2.14.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
 |cracklib|2.9.8|2.10.2|runtime-cryptography|Compliance mode enabled, was '2.10.2'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
+|crun|1.15|1.16|app-admin|Compliance mode enabled, was '1.16'|
 |cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|43.0.0|lang-python|Compliance mode enabled, was '43.0.0'|
@@ -356,6 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eog|42.3|45.4|desktop-gnome|Compliance mode enabled, was '45.4'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |etl|1.2.2|1.5.2|runtime-common|Compliance mode enabled, was '1.5.2'|
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -2001,6 +2004,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-msgpack|1.0.2|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-openid|2.2.5|3.2|lang-python|Compliance mode enabled, was '3.2'|
+|python-pam|1.8.4|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compliance mode enabled, was '21.3.0'|
 |python-tabulate|0.8.3|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
