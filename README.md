@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723154975?label=Updated)
+![Relative date](https://img.shields.io/date/1723158574?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1823,7 +1823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |picocom|3.1|2024.07|app-utils|Compliance mode enabled, was '2024-07'|
-|pikepdf|8.15.1|9.1.0|app-doc|Compliance mode enabled, was '9.1.0'|
+|pikepdf|8.15.1|9.1.1|app-doc|Compliance mode enabled, was '9.1.1'|
 |pim-data-exporter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pim-sieve-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pimcommon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -2592,8 +2592,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
 |zanshin|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
-|zathura-pdf-poppler|0.3.3|0.3.2|app-doc|Compliance mode enabled, was '0.3.2'<br>Possible downgrade from the current version (0.3.3 -> 0.3.2)|
-|zathura-ps|0.2.8|0.2.7|app-doc|Compliance mode enabled, was '0.2.7'<br>Possible downgrade from the current version (0.2.8 -> 0.2.7)|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
 |zed|0.146.5|0.147.2|app-editors|Compliance mode enabled, was '0.147.2'|
