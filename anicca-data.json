@@ -2211,7 +2211,7 @@
 ["beaker","1.11.0","1.13.0","lang-python",1614161777,["Compliance mode enabled, was '1.13.0'"]],
 ["pathlib2","2.3.5","2.3.7.post1","lang-python",1581796621,["Compliance mode enabled, was '2.3.7.post1'"]],
 ["urwid","2.1.2","2.6.15","lang-python",1618998184,["Compliance mode enabled, was '2.6.15'"]],
-["babel","2.9.1","2.15.0","lang-python",1631170545,["Compliance mode enabled, was '2.15.0'"]],
+["babel","2.9.1","2.16.0","lang-python",1631170545,["Compliance mode enabled, was '2.16.0'"]],
 ["dlib","19.20.0","19.24.5","lang-python",1594184391,["Compliance mode enabled, was '19.24.5'"]],
 ["zope-component","4.4.1","6.0","lang-python",1530283385,["Compliance mode enabled, was '6.0'"]],
 ["pypdf2","1.26.0","4.3.1","lang-python",1514069704,["Compliance mode enabled, was '4.3.1'"]],
