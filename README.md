@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723223246?label=Updated)
+![Relative date](https://img.shields.io/date/1723227118?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -992,7 +992,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kwayland-integration|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kweather|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kweathercore|0.7|24.07.80|desktop-kde|Compliance mode enabled, was '24.07.80'|
+|kweathercore|0.7|24.07.90|desktop-kde|Compliance mode enabled, was '24.07.90'|
 |kwidgetsaddons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kwin|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kwindowsystem|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -2382,6 +2382,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio|0.24.0|0.26.2|lang-python|Compliance mode enabled, was '0.26.2'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2024.7.2|lang-python|Compliance mode enabled, was '2024.7.2'|
+|tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
