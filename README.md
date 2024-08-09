@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723173050?label=Updated)
+![Relative date](https://img.shields.io/date/1723176696?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1102,7 +1102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.2|desktop-gnome|Compliance mode enabled, was '4.4.2'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
-|libheif|1.17.6|1.18.1|runtime-imaging|Compliance mode enabled, was '1.18.1'|
+|libheif|1.17.6|1.18.2|runtime-imaging|Compliance mode enabled, was '1.18.2'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
 |libidn+32|1.33|1.42|runtime-optenv32|Compliance mode enabled, was '1.42'|
 |libidn2|2.3.0|2.3.7|runtime-network|Compliance mode enabled, was '2.3.7'|
@@ -1197,7 +1197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
 |libqtxdg|3.6.0|4.0.0|runtime-desktop|Compliance mode enabled, was '4.0.0'|
 |libraw|0.20.0|0.21.2|runtime-imaging|Compliance mode enabled, was '0.21.2'|
-|libreoffice|24.2.3.2|24.8.0.2|app-productivity|Compliance mode enabled, was '24.8.0.2'|
+|libreoffice|24.2.3.2|24.8.0.3|app-productivity|Compliance mode enabled, was '24.8.0.3'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librsvg|2.56.1|2.58.93|runtime-imaging|Compliance mode enabled, was '2.58.93'|
 |librsvg+32|2.40.21|2.58.93|runtime-optenv32|Compliance mode enabled, was '2.58.93'|
