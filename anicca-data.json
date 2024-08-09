@@ -1552,7 +1552,6 @@
 ["tk","8.6.10","8.6.14","lang-tcl",1575787403,["Compliance mode enabled, was '8.6.14'"]],
 ["kdsoap","1.9.0","2.2.0","runtime-network",1590739029,["Compliance mode enabled, was '2.2.0'"]],
 ["libesmtp","1.0.6","1.1.0","runtime-network",1678950872,["Compliance mode enabled, was '1.1.0'"]],
-["libipset","1.1.1+git20150311","1.1.1","runtime-network",1657654316,["Compliance mode enabled, was '1.1.1'"]],
 ["libndp","1.7","1.9","runtime-network",1531411178,["Compliance mode enabled, was '1.9'"]],
 ["libupnp","1.14.16","1.14.19","runtime-network",1682062129,["Compliance mode enabled, was '1.14.19'"]],
 ["libnsl2","1.3.0","2.0.1","runtime-network",1607157927,["Compliance mode enabled, was '2.0.1'"]],
