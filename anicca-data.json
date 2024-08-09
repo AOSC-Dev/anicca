@@ -1934,6 +1934,7 @@
 ["avr-gcc","10.3.1+git20210510","14.2.0","app-devel",1634066043,["Compliance mode enabled, was '14.2.0'"]],
 ["inih","53","58","app-devel",1620461774,["Compliance mode enabled, was '58'"]],
 ["valgrind","3.22.0","3.23.0","app-devel",1710357083,["Compliance mode enabled, was '3.23.0'"]],
+["astyle","3.5.2","3.6","app-devel",1721232448,["Compliance mode enabled, was '3.6'"]],
 ["cgns","4.2.0","4.4.0","app-devel",1639826391,["Compliance mode enabled, was '4.4.0'"]],
 ["vala","0.56.16","0.56.17","app-devel",1710809322,["Compliance mode enabled, was '0.56.17'"]],
 ["clazy","1.11","1.12","app-devel",1678601014,["Compliance mode enabled, was '1.12'"]],
