@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723168982?label=Updated)
+![Relative date](https://img.shields.io/date/1723171096?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -521,6 +521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-bluetooth|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-builder|42.1|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-calculator|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-characters|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-chess|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -720,7 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.1|lang-python|Compliance mode enabled, was '0.19.1'|
 |jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |jellyfish|1.0.4|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
-|jenkins|2.468|2.470|app-admin|Compliance mode enabled, was '2.470'|
+|jenkins|2.468|2.471|app-admin|Compliance mode enabled, was '2.471'|
 |jetring|0.29|0.31|app-admin|Compliance mode enabled, was '0.31'|
 |jinja2|3.1.2|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
@@ -782,7 +783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kcontacts|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kcoreaddons|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
-|kcptun|20240107|20240730|app-network|Compliance mode enabled, was '20240730'|
+|kcptun|20240107|20240807|app-network|Compliance mode enabled, was '20240807'|
 |kcrash|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |kcron|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kdav|5.115.0|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
