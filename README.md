@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723163721?label=Updated)
+![Relative date](https://img.shields.io/date/1723168982?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -521,7 +521,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-bluetooth|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-builder|42.1|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
-|gnome-calculator|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-characters|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-chess|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -656,7 +655,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.110.1|lang-python|Compliance mode enabled, was '6.110.1'|
-|hysteria|2.4.0|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -1376,8 +1374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.10.5|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
 |man-db|2.11.1|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |man-pages|6.05.01|6.9.1|runtime-data||
-|mangohud|0.7.0|0.7.2|app-utils|Compliance mode enabled, was '0.7.2'|
-|mangohud+32|0.7.0|0.7.2|runtime-optenv32|Compliance mode enabled, was '0.7.2'|
 |marble|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |mariadb|10.9.8|11.5.1|app-database|Compliance mode enabled, was '11.5.1'|
 |markdown|3.3.4|3.6|lang-python|Compliance mode enabled, was '3.6'|
