@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723298710?label=Updated)
+![Relative date](https://img.shields.io/date/1723302378?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -10,7 +10,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
-|acbs|20240808|20240810|app-devel|Compliance mode enabled, was '20240810'|
+|acbs|20240810.1|20240810|app-devel|Compliance mode enabled, was '20240810'<br>Possible downgrade from the current version (20240810.1 -> 20240810)|
 |accerciser|3.40.0|3.42.0|desktop-gnome|Compliance mode enabled, was '3.42.0'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
@@ -102,6 +102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|4.0.1|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
+|autobuild4|4.3.20|4.3.19|app-devel|Compliance mode enabled, was '4.3.19'<br>Possible downgrade from the current version (4.3.20 -> 4.3.19)|
 |automat|20.2.0|22.10.0|lang-python|Compliance mode enabled, was '22.10.0'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
 |avr-binutils|2.37|2.43|app-devel|Compliance mode enabled, was '2.43'|
@@ -299,6 +300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|1.44.1|1.45.5|lang-js|Compliance mode enabled, was '1.45.5'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|dex|0.9.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
