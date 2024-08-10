@@ -2199,7 +2199,7 @@
 ["pyenchant","2.0.0","3.2.2","lang-python",1530553512,["Compliance mode enabled, was '3.2.2'"]],
 ["sip","6.8.3","6.8.6","lang-python",1721223235,["Compliance mode enabled, was '6.8.6'"]],
 ["networkx","2.8.5","3.3","lang-python",1663210209,["Compliance mode enabled, was '3.3'"]],
-["aiohttp","3.7.4.post0","3.10.2","lang-python",1623132070,["Compliance mode enabled, was '3.10.2'"]],
+["aiohttp","3.7.4.post0","3.10.3","lang-python",1623132070,["Compliance mode enabled, was '3.10.3'"]],
 ["constantly","15.1.0","23.10.4","lang-python",1678950872,["Compliance mode enabled, was '23.10.4'"]],
 ["pandas","2.1.2","2.2.2","lang-python",1700797896,["Compliance mode enabled, was '2.2.2'"]],
 ["wikipedia","1.4.0","1.4.5","lang-python",1456099934,["Compliance mode enabled, was '1.4.5'"]],
