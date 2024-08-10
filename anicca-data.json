@@ -1115,7 +1115,6 @@
 ["mtdev","1.1.6","1.1.7","runtime-devices",1582091094,["Compliance mode enabled, was '1.1.7'"]],
 ["libevdev","1.11.0","1.13.2","runtime-devices",1568844267,["Compliance mode enabled, was '1.13.2'"]],
 ["metee","4.0.0","4.2.0","runtime-devices",1626297313,["Compliance mode enabled, was '4.2.0'"]],
-["libmanette","0.2.6","0.2.7","runtime-devices",1619939091,["Compliance mode enabled, was '0.2.7'"]],
 ["libusbmuxd","2.0.2","2.1.0","runtime-devices",1599275655,["Compliance mode enabled, was '2.1.0'"]],
 ["libgphoto2","2.5.30","2.5.31","runtime-devices",1465262592,["Compliance mode enabled, was '2.5.31'"]],
 ["intel-gmmlib","22.3.20","22.4.1","runtime-devices",1712420542,["Compliance mode enabled, was '22.4.1'"]],
