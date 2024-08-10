@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723324113?label=Updated)
+![Relative date](https://img.shields.io/date/1723327530?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -698,11 +698,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-compute-runtime|24.22.29735.20|24.26.30049.6|runtime-scientific|Compliance mode enabled, was '24.26.30049.6'|
-|intel-gmmlib|22.3.20|22.4.1|runtime-devices|Compliance mode enabled, was '22.4.1'|
+|intel-gmmlib|22.3.20|22.5.0|runtime-devices|Compliance mode enabled, was '22.5.0'|
 |intel-media-driver|24.1.5|24.3.1|runtime-multimedia|Compliance mode enabled, was '24.3.1'|
 |intel-oneapi-basekit|2024.2.0|2024.2.1|app-devel|Compliance mode enabled, was '2024.2.1'|
 |iodine|0.7.0|0.8.0|app-network|Compliance mode enabled, was '0.8.0'|
-|iosevka-fonts|28.0.5|31.1.0|desktop-fonts|Compliance mode enabled, was '31.1.0'|
+|iosevka-fonts|28.0.5|31.2.0|desktop-fonts|Compliance mode enabled, was '31.2.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
