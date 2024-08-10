@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723257421?label=Updated)
+![Relative date](https://img.shields.io/date/1723259488?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2332,6 +2332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telly-skout|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |template-glib|3.28.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
+|termcolor|1.1.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tesseract|5.3.4|5.2.1|app-utils|Compliance mode enabled, was '5.2.1'<br>Possible downgrade from the current version (5.3.4 -> 5.2.1)|
@@ -2451,7 +2452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0446|9.1.0664|app-editors|Compliance mode enabled, was '9.1.0664'|
+|vim|9.1.0446|9.1.0666|app-editors|Compliance mode enabled, was '9.1.0666'|
 |virglrenderer|0.10.4|1.0.1|app-virtualization|Compliance mode enabled, was '1.0.1'|
 |virtualenv|20.25.0|20.26.3|lang-python|Compliance mode enabled, was '20.26.3'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
