@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723284415?label=Updated)
+![Relative date](https://img.shields.io/date/1723288046?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -340,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drumstick|2.0.0|2.9.0|app-creativity|Compliance mode enabled, was '2.9.0'|
 |dssim|3.2.0|3.3.1|app-imaging|Compliance mode enabled, was '3.3.1'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
+|dua|2.29.0|2.29.1|app-utils|Compliance mode enabled, was '2.29.1'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
 |dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
@@ -2109,7 +2110,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
 |ruby|3.2.2|3.3.4|lang-ruby|Compliance mode enabled, was '3.3.4'|
 |ruby-bundler|2.1.4|2.5.17|lang-ruby|Compliance mode enabled, was '2.5.17'|
-|ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
@@ -2609,4 +2609,4 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zvbi|0.2.35|0.2.42|runtime-multimedia|Compliance mode enabled, was '0.2.42'|
 |zxing-cpp|1.4.0|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
 |zxtune|5053|5071|app-multimedia|Compliance mode enabled, was '5071'|
-|zziplib|0.13.75|0.13.77|runtime-common|Compliance mode enabled, was '0.13.77'|
+|zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
