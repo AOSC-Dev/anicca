@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723302378?label=Updated)
+![Relative date](https://img.shields.io/date/1723306376?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -343,7 +343,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drumstick|2.0.0|2.9.0|app-creativity|Compliance mode enabled, was '2.9.0'|
 |dssim|3.2.0|3.3.1|app-imaging|Compliance mode enabled, was '3.3.1'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
-|dua|2.29.0|2.29.1|app-utils|Compliance mode enabled, was '2.29.1'|
+|dua|2.29.0|2.29.2|app-utils|Compliance mode enabled, was '2.29.2'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
 |dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
@@ -351,6 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
+|egl-wayland|1.1.14|1.1.15|runtime-display|Compliance mode enabled, was '1.1.15'|
 |elfutils+32|0.166|0.191|runtime-optenv32|Compliance mode enabled, was '0.191'|
 |elisa|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |embree|4.3.1|4.3.3|app-imaging|Compliance mode enabled, was '4.3.3'|
@@ -2389,7 +2390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
 |tuned|2.19.0|2.24.0|app-admin|Compliance mode enabled, was '2.24.0'|
-|twisted|21.2.0|24.3.0|lang-python|Compliance mode enabled, was '24.3.0'|
+|twisted|21.2.0|24.7.0|lang-python|Compliance mode enabled, was '24.7.0'|
 |twm|1.0.11|1.0.12|desktop-wm|Compliance mode enabled, was '1.0.12'|
 |twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
