@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723320543?label=Updated)
+![Relative date](https://img.shields.io/date/1723324113?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -626,6 +626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gvfs|1.50.2|1.55.90|desktop-gnome|Compliance mode enabled, was '1.55.90'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|handbrake|1.8.1|1.8.2|app-multimedia|Compliance mode enabled, was '1.8.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|9.0.0|runtime-desktop|Compliance mode enabled, was '9.0.0'|
 |harfbuzz+32|2.6.7|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
@@ -1470,8 +1471,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20240727|runtime-common|Compliance mode enabled, was '6.5-20240727'|
-|ncurses+32|6.4|6.5+20240727|runtime-optenv32|Compliance mode enabled, was '6.5-20240727'|
+|ncurses|6.4|6.5+20240810|runtime-common|Compliance mode enabled, was '6.5-20240810'|
+|ncurses+32|6.4|6.5+20240810|runtime-optenv32|Compliance mode enabled, was '6.5-20240810'|
 |ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
