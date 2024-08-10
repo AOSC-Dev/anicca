@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723270292?label=Updated)
+![Relative date](https://img.shields.io/date/1723273550?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -216,7 +216,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |chromium|126.0.6478.182|127.0.6533.99|app-web|Compliance mode enabled, was '127.0.6533.99'|
-|ciel|3.3.0|3.3.1|app-devel|Compliance mode enabled, was '3.3.1'|
 |cifs-utils|6.10|7.0|app-network|Compliance mode enabled, was '7.0'|
 |cinnamon|5.8.3|6.2.9|desktop-cinnamon|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -1147,7 +1146,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmediaart|1.9.4|1.9.6|runtime-multimedia|Compliance mode enabled, was '1.9.6'|
 |libmediainfo|22.06|24.06|runtime-multimedia|Compliance mode enabled, was '24.06'|
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
-|libmikmod+32|3.3.7|3.3.11.1|runtime-optenv32|Compliance mode enabled, was '3.3.11.1'|
 |libmirage|3.2.7|3.2.8|runtime-multimedia|Compliance mode enabled, was '3.2.8'|
 |libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia|Compliance mode enabled, was '0.8.9.0'|
 |libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32|Compliance mode enabled, was '0.8.9.0'|
@@ -1398,7 +1396,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |mediainfo|22.06|24.06|app-multimedia|Compliance mode enabled, was '24.06'|
-|melonds|0.9.2|0.9.5|app-games|Compliance mode enabled, was '0.9.5'|
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1889,7 +1886,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.8.0|app-productivity|Compliance mode enabled, was '0.8.0'|
 |prettytable|0.7.2|3.10.2|lang-python|Compliance mode enabled, was '3.10.2'|
-|primus+32|20150328|0.2|runtime-optenv32|Compliance mode enabled, was '0.2'<br>Possible downgrade from the current version (20150328 -> 0.2)|
 |print-manager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |prison5|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
