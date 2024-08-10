@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723263124?label=Updated)
+![Relative date](https://img.shields.io/date/1723266483?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -380,7 +380,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
-|fastfetch|2.20.0|2.21.0|app-utils|Compliance mode enabled, was '2.21.0'|
+|fastfetch|2.20.0|2.21.1|app-utils|Compliance mode enabled, was '2.21.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -394,6 +394,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.3|app-multimedia|Compliance mode enabled, was '0.4.3'|
+|fend|1.5.0|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |ffmpeg|4.4.4|7.0.2|app-multimedia|Compliance mode enabled, was '7.0.2'|
 |ffmpeg+32|4.2.5|7.0.2|runtime-optenv32|Compliance mode enabled, was '7.0.2'|
 |ffmpegthumbs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1300,6 +1301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|runtime-common|Compliance mode enabled, was '1.10.1'|
 |liferea|1.13.8|1.15.7|app-web|Compliance mode enabled, was '1.15.7'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
+|lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightdm-settings|2.0.4|2.0.5|desktop-displaymanagers|Compliance mode enabled, was '2.0.5'|
 |lightsoff|40.0.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |lilv|0.24.12|0.24.24|runtime-multimedia|Compliance mode enabled, was '0.24.24'|
