@@ -285,6 +285,7 @@
 ["vim","9.1.0446","9.1.0666","app-editors",1716881164,["Compliance mode enabled, was '9.1.0666'"]],
 ["zed","0.146.5","0.147.2","app-editors",1723091125,["Compliance mode enabled, was '0.147.2'"]],
 ["neovim","0.10.0","0.10.1","app-editors",1716196935,["Compliance mode enabled, was '0.10.1'"]],
+["vscode","1.92.0","1.92.1","app-editors",1722859790,["Compliance mode enabled, was '1.92.1'"]],
 ["netavark","1.11.0","1.12.1","runtime-containers",1718204311,["Compliance mode enabled, was '1.12.1'"]],
 ["containers-common","0.59.2","0.60.0","runtime-containers",1721399191,[]],
 ["qtractor","0.9.23","1.1.1","app-multimedia",1630350073,["Compliance mode enabled, was '1.1.1'"]],
