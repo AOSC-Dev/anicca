@@ -2287,7 +2287,6 @@
 ["click","7.1.2","8.1.7","lang-python",1607768363,["Compliance mode enabled, was '8.1.7'"]],
 ["pymarkups","3.0.0","4.0.0","lang-python",1530553511,["Compliance mode enabled, was '4.0.0'"]],
 ["ruamel-yaml-clib","0.2.6","0.2.8","lang-python",1637636761,["Compliance mode enabled, was '0.2.8'"]],
-["termcolor","1.1.0","2.4.0","lang-python",1678950872,["Compliance mode enabled, was '2.4.0'"]],
 ["lxml","4.7.1","4.9.1","lang-python",1644263470,["Compliance mode enabled, was '4.9.1'"]],
 ["typed-ast","1.4.3","1.5.5","lang-python",1637636761,["Compliance mode enabled, was '1.5.5'"]],
 ["colorama","0.4.3","0.4.6","lang-python",1581796620,["Compliance mode enabled, was '0.4.6'"]],
