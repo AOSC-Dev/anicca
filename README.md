@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723403168?label=Updated)
+![Relative date](https://img.shields.io/date/1723406993?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -411,7 +411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.4.0|app-admin|Compliance mode enabled, was '1.4.0'|
 |flask|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
-|flask-login|0.4.1|0.6.3|lang-python|Compliance mode enabled, was '0.6.3'|
 |flask-mail|0.9.1|0.10.0|lang-python|Compliance mode enabled, was '0.10.0'|
 |flask-wtf|0.14|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |flat-remix-icon-theme|20191122|20240201|desktop-themes|Compliance mode enabled, was '20240201'|
@@ -1628,7 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paprefs|1.1|1.2|app-multimedia|Compliance mode enabled, was '1.2'|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |parallel|20191122|20240722|app-utils|Compliance mode enabled, was '20240722'|
-|paramiko|2.10.3|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
+|paramiko|2.10.3|3.4.1|lang-python|Compliance mode enabled, was '3.4.1'|
 |pari|2.13.1|2.15.5|app-scientific|Compliance mode enabled, was '2.15.5'|
 |parley|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
