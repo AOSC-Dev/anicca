@@ -1740,6 +1740,7 @@
 ["microsoft-gsl","3.0.1","4.0.0","runtime-common",1588470467,["Compliance mode enabled, was '4.0.0'"]],
 ["libtsm","4.0.1","4.0.2","runtime-common",1490988773,["Compliance mode enabled, was '4.0.2'"]],
 ["libsigc++-3.0","3.4.0","3.6.0","runtime-common",1673673157,["Compliance mode enabled, was '3.6.0'"]],
+["libconfig","1.7.2","1.7.3","runtime-common",1531411177,["Compliance mode enabled, was '1.7.3'"]],
 ["tevent","0.13.0","0.16.1","runtime-common",1673495967,["Compliance mode enabled, was '0.16.1'"]],
 ["libbytesize","2.1","2.10","runtime-common",1569907996,["Compliance mode enabled, was '2.10'"]],
 ["xapian-core","1.4.18","1.4.26","runtime-common",1637636760,["Compliance mode enabled, was '1.4.26'"]],
