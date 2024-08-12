@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723468572?label=Updated)
+![Relative date](https://img.shields.io/date/1723471923?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1504,7 +1504,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.5|app-utils|Compliance mode enabled, was '1.3.5'|
 |normaliz|3.6.3|3.10.3|app-scientific|Compliance mode enabled, was '3.10.3'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
-|noto-fonts|24.7.1|24.8.1|desktop-fonts||
 |npth|1.6|1.7|runtime-common|Compliance mode enabled, was '1.7'|
 |nsd|4.7.0|4.10.1.rel|app-network|Compliance mode enabled, was '4_10_1_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
@@ -2013,7 +2012,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|1.0.1|app-multimedia|Compliance mode enabled, was '1.0.1'|
 |qmlkonsole|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
-|qmmp|1.6.5|2.1.8|app-multimedia|Compliance mode enabled, was '2.1.8'|
+|qmmp|1.6.5|2.1.9|app-multimedia|Compliance mode enabled, was '2.1.9'|
 |qownnotes|22.6.1|24.8.4|app-web|Compliance mode enabled, was '24.8.4'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -2263,7 +2262,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
 |strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
-|streamlink|6.7.4|6.8.3|app-multimedia|Compliance mode enabled, was '6.8.3'|
+|streamlink|6.7.4|6.9.0|app-multimedia|Compliance mode enabled, was '6.9.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
