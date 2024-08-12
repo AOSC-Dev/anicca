@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723417572?label=Updated)
+![Relative date](https://img.shields.io/date/1723422999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -79,7 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.32|app-devel|Compliance mode enabled, was '6.0.32'|
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
 |ast-grep|0.25.2|0.26.1|app-devel|Compliance mode enabled, was '0.26.1'|
-|astroid|2.12.2|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
+|astroid|2.12.2|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |astyle|3.5.2|3.6|app-devel|Compliance mode enabled, was '3.6'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
@@ -581,6 +581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantleetheme|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
+|graphviz|12.0.0|12.1.0|app-doc|Compliance mode enabled, was '12.1.0'|
 |greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
