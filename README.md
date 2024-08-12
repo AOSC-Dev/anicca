@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723443291?label=Updated)
+![Relative date](https://img.shields.io/date/1723446705?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -855,6 +855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kigo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |killbots|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kimageannotator|0.6.0|0.7.1|desktop-kde|Compliance mode enabled, was '0.7.1'|
+|kimageformats|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kimagemapeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kimap|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kinfocenter|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -1903,7 +1904,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |pugixml|1.11.4|1.14|runtime-common|Compliance mode enabled, was '1.14'|
-|pulseaudio+32|13.0|17.0|runtime-optenv32|Compliance mode enabled, was '17.0'|
 |pulseaudio-qt|1.3|1.5.0|runtime-desktop|Compliance mode enabled, was '1.5.0'|
 |pulsectl|20.5.1|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |puremagic|1.15|1.27|lang-python|Compliance mode enabled, was '1.27'|
@@ -2369,7 +2369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker-miners|3.3.1|3.7.3|desktop-gnome|Compliance mode enabled, was '3.7.3'|
 |traitlets|5.0.5|5.14.3|lang-python|Compliance mode enabled, was '5.14.3'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
-|translate-toolkit|2.3.1|3.13.3|lang-python|Compliance mode enabled, was '3.13.3'|
 |transmission|4.0.5|4.0.6|app-web|Compliance mode enabled, was '4.0.6'|
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
