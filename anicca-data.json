@@ -1935,7 +1935,6 @@
 ["vala","0.56.16","0.56.17","app-devel",1710809322,["Compliance mode enabled, was '0.56.17'"]],
 ["clazy","1.11","1.12","app-devel",1678601014,["Compliance mode enabled, was '1.12'"]],
 ["upx","4.2.1","4.2.4","app-devel",1700646641,["Compliance mode enabled, was '4.2.4'"]],
-["intel-oneapi-basekit","2024.2.0","2024.2.1","app-devel",1719775445,["Compliance mode enabled, was '2024.2.1'"]],
 ["nsgenbind","0.8","0.9","app-devel",1591894752,["Compliance mode enabled, was '0.9'"]],
 ["versioningit","3.0.0","3.1.2","app-devel",1708685051,["Compliance mode enabled, was '3.1.2'"]],
 ["uncrustify","0.78.1","0.79.0","app-devel",1704791250,["Compliance mode enabled, was '0.79.0'"]],
