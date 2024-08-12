@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723493409?label=Updated)
+![Relative date](https://img.shields.io/date/1723496884?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1307,7 +1307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-retro-minimal|5.15.17|5.10.223|runtime-kernel|Compliance mode enabled, was '5.10.223'<br>Possible downgrade from the current version (5.15.17 -> 5.10.223)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
-|lksctp-tools|1.0.17|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
+|lksctp-tools|1.0.17|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |lldpd|1.0.17|1.0.18|app-network|Compliance mode enabled, was '1.0.18'|
 |llfuse|1.4.1|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
 |llvm+32|14.0.6|18.1.8|runtime-optenv32|Compliance mode enabled, was '18.1.8'|
@@ -1983,7 +1983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2024.1.12|lang-python|Compliance mode enabled, was '2024.1.12'|
+|pytools|2019.1|2024.1.13|lang-python|Compliance mode enabled, was '2024.1.13'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
