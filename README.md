@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723439421?label=Updated)
+![Relative date](https://img.shields.io/date/1723443291?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -621,7 +621,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gvfs|1.50.2|1.55.90|desktop-gnome|Compliance mode enabled, was '1.55.90'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|handbrake|1.8.1|1.8.2|app-multimedia|Compliance mode enabled, was '1.8.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|9.0.0|runtime-desktop|Compliance mode enabled, was '9.0.0'|
 |harfbuzz+32|2.6.7|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
@@ -693,7 +692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
-|intel-compute-runtime|24.22.29735.20|24.26.30049.6|runtime-scientific|Compliance mode enabled, was '24.26.30049.6'|
 |intel-gmmlib|22.3.20|22.5.0|runtime-devices|Compliance mode enabled, was '22.5.0'|
 |intel-media-driver|24.1.5|24.3.1|runtime-multimedia|Compliance mode enabled, was '24.3.1'|
 |intel-oneapi-basekit|2024.2.0|2024.2.1|app-devel|Compliance mode enabled, was '2024.2.1'|
@@ -857,7 +855,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kigo|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |killbots|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kimageannotator|0.6.0|0.7.1|desktop-kde|Compliance mode enabled, was '0.7.1'|
-|kimageformats|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kimagemapeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kimap|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kinfocenter|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -1392,7 +1389,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbedtls+32|2.16.7|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |mbox-importer|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|mcfly|0.9.1|0.9.2|app-utils|Compliance mode enabled, was '0.9.2'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
 |mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
@@ -2503,7 +2499,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi|0.4.3|0.4.6|app-multimedia|Compliance mode enabled, was '0.4.6'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|9.14|9.15|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wireshark|4.2.5|4.3.1|app-network|Compliance mode enabled, was '4.3.1'|
