@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723543850?label=Updated)
+![Relative date](https://img.shields.io/date/1723547203?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1795,6 +1795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |php|8.3.8|8.3.10|app-devel|Compliance mode enabled, was '8.3.10'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|picard|2.12|2.12.1|app-multimedia|Compliance mode enabled, was '2.12.1'|
 |picmi|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |picocom|3.1|2024.07|app-utils|Compliance mode enabled, was '2024-07'|
 |pikepdf|8.15.1|9.1.1|app-doc|Compliance mode enabled, was '9.1.1'|
@@ -2225,8 +2226,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
 |sqlalchemy|1.2.18|2.0.32|lang-python|Compliance mode enabled, was '2.0.32'|
 |sqlcipher|4.5.6|4.6.0|app-database|Compliance mode enabled, was '4.6.0'|
-|sqlite|3.45.1|3.46.0|app-database|Compliance mode enabled, was '3.46.0'|
-|sqlite+32|3.32.3|3.46.0|runtime-optenv32|Compliance mode enabled, was '3.46.0'|
+|sqlite|3.45.1|3.46.1|app-database|Compliance mode enabled, was '3.46.1'|
+|sqlite+32|3.32.3|3.46.1|runtime-optenv32|Compliance mode enabled, was '3.46.1'|
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlparse|0.4.1|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
