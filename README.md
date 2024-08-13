@@ -1,9 +1,10 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723565435?label=Updated)
+![Relative date](https://img.shields.io/date/1723568758?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
+|7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.9.0|1.12.1|app-admin|Compliance mode enabled, was '1.12.1'|
@@ -2140,8 +2141,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |serf|1.3.9|1.3.10|runtime-web|Compliance mode enabled, was '1.3.10'|
 |service-identity|18.1.0|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
-|setuptools-python2|44.1.0|72.1.0|lang-python|Compliance mode enabled, was '72.1.0'|
-|setuptools-python3|69.1.0|72.1.0|lang-python|Compliance mode enabled, was '72.1.0'|
+|setuptools-python2|44.1.0|72.2.0|lang-python|Compliance mode enabled, was '72.2.0'|
+|setuptools-python3|69.1.0|72.2.0|lang-python|Compliance mode enabled, was '72.2.0'|
 |setuptools-rust|1.9.0|1.10.1|lang-python|Compliance mode enabled, was '1.10.1'|
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
