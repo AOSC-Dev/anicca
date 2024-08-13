@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723536822?label=Updated)
+![Relative date](https://img.shields.io/date/1723540361?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1261,7 +1261,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
 |libwm|20161006|1.3|runtime-display|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20161006 -> 1.3)|
 |libwmf|0.2.8.4|0.2.13|runtime-imaging|Compliance mode enabled, was '0.2.13'|
-|libwnck-3|40.1|43.0|runtime-desktop|Compliance mode enabled, was '43.0'|
 |libwpd|0.10.2|0.10.3|runtime-productivity|Compliance mode enabled, was '0.10.3'|
 |libwpe|1.12.2|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
@@ -2463,6 +2462,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
+|webkit2gtk|2.44.2|2.44.3|runtime-web|Compliance mode enabled, was '2.44.3'|
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
@@ -2568,7 +2568,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeroconf|0.28.6|0.132.2|lang-python|Compliance mode enabled, was '0.132.2'|
 |zerotier-one|1.12.2|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
-|zfs|2.2.4|2.2.5|app-admin|Compliance mode enabled, was '2.2.5'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
