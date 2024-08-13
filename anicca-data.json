@@ -1506,6 +1506,7 @@
 ["pango","1.52.2","1.54.0","runtime-desktop",1714961745,["Compliance mode enabled, was '1.54.0'"]],
 ["gtk-layer-shell","0.8.1","0.8.2","runtime-desktop",1706025816,["Compliance mode enabled, was '0.8.2'"]],
 ["vala-panel-appmenu","0.7.4","24.05","runtime-desktop",1600321917,["Compliance mode enabled, was '24.05'"]],
+["libwnck-3","40.1","43.0","runtime-desktop",1663210242,["Compliance mode enabled, was '43.0'"]],
 ["signon-ui","0.17+17.10.20170606","0.15","runtime-desktop",1519860230,["Compliance mode enabled, was '0.15'","Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)"]],
 ["qtstyleplugins","5.0.0+git20170311","5.0.0","runtime-desktop",1513090354,["Compliance mode enabled, was '5.0.0'"]],
 ["libsecret","0.20.4","0.21.4","runtime-desktop",1607975452,["Compliance mode enabled, was '0.21.4'"]],
