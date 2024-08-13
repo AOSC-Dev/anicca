@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723514705?label=Updated)
+![Relative date](https://img.shields.io/date/1723518721?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -277,6 +277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.10|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
+|damo|2.4.4|2.4.7|app-admin|Compliance mode enabled, was '2.4.7'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
@@ -1366,7 +1367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-panel|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |materialx|1.38.8|1.39.0|runtime-creativity|Compliance mode enabled, was '1.39.0'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
-|matplotlib|3.8.0|3.9.1.post1|lang-python|Compliance mode enabled, was '3.9.1.post1'|
+|matplotlib|3.8.0|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
 |mawk|1.3.4<br>+20190203|1.3.4+20240622|app-utils|Compliance mode enabled, was '1.3.4-20240622'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
@@ -2044,7 +2045,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.31|1.4.35|app-network|Compliance mode enabled, was '1.4.35'|
 |renderdoc|1.16|1.34|app-devel|Compliance mode enabled, was '1.34'|
-|repo|2.45|2.46|app-devel|Compliance mode enabled, was '2.46'|
 |reportlab|3.5.50|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
