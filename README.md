@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723568758?label=Updated)
+![Relative date](https://img.shields.io/date/1723572734?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -885,7 +885,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmime|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmines|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmix|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kmod|31|32|app-admin|Compliance mode enabled, was '32'|
+|kmod|31|33|app-admin|Compliance mode enabled, was '33'|
 |kmousetool|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmouth|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmplot|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1163,7 +1163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libp11|0.4.10|0.4.12|runtime-cryptography|Compliance mode enabled, was '0.4.12'|
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32|Compliance mode enabled, was '1.10.4'|
-|libpeas|1.36.0|2.0.3|desktop-gnome|Compliance mode enabled, was '2.0.3'|
+|libpeas|1.36.0|2.0.4|desktop-gnome|Compliance mode enabled, was '2.0.4'|
 |libphonenumber|8.13.38|8.13.43|runtime-i18n|Compliance mode enabled, was '8.13.43'|
 |libpinyin|2.6.0|2.8.1|runtime-i18n|Compliance mode enabled, was '2.8.1'|
 |libpipeline|1.5.3|1.5.7|runtime-common|Compliance mode enabled, was '1.5.7'|
