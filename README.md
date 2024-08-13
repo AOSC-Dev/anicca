@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723525906?label=Updated)
+![Relative date](https://img.shields.io/date/1723529674?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -513,6 +513,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-bluetooth|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-builder|42.1|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|gnome-calculator|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-characters|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-chess|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -1416,7 +1417,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
 |mpg123|1.25.13|1.32.7|app-multimedia|Compliance mode enabled, was '1.32.7'|
 |mpg123+32|1.25.13|1.32.7|runtime-optenv32|Compliance mode enabled, was '1.32.7'|
-|mplayer|1.4|1.5|app-multimedia|Compliance mode enabled, was '1.5'|
 |mpmath|1.1.0|1.4.0~a1|lang-python|Compliance mode enabled, was '1.4.0a1'|
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
