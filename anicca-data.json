@@ -2031,7 +2031,6 @@
 ["ostree","2024.6","2024.7","app-admin",1716563583,["Compliance mode enabled, was '2024.7'"]],
 ["nvme-cli","2.9.1","2.10.2","app-admin",1716563643,["Compliance mode enabled, was '2.10.2'"]],
 ["squashfuse","0.1.105","0.5.2","app-admin",1663359141,["Compliance mode enabled, was '0.5.2'"]],
-["damo","2.4.4","2.4.7","app-admin",1721832161,["Compliance mode enabled, was '2.4.7'"]],
 ["sbsigntool","0.9.4","0.9.5","app-admin",1600106563,["Compliance mode enabled, was '0.9.5'"]],
 ["libheif","1.17.6","1.18.2","runtime-imaging",1714466456,["Compliance mode enabled, was '1.18.2'"]],
 ["librsvg","2.56.1","2.58.93","runtime-imaging",1703838956,["Compliance mode enabled, was '2.58.93'"]],
