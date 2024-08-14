@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723662377?label=Updated)
+![Relative date](https://img.shields.io/date/1723666294?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -143,8 +143,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|runtime-optenv32|Compliance mode enabled, was '1.85.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.34.160|lang-python|Compliance mode enabled, was '1.34.160'|
-|botocore|1.34.133|1.34.160|lang-python|Compliance mode enabled, was '1.34.160'|
+|boto3|1.20.26|1.34.161|lang-python|Compliance mode enabled, was '1.34.161'|
+|botocore|1.34.133|1.34.161|lang-python|Compliance mode enabled, was '1.34.161'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -168,6 +168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo+32|1.14.12|1.18.0|runtime-optenv32|Compliance mode enabled, was '1.18.0'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
+|cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |calibre|7.10.0|7.16.0|app-doc|Compliance mode enabled, was '7.16.0'|
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
