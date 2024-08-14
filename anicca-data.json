@@ -1127,6 +1127,7 @@
 ["editorconfig-core-c","0.12.6","0.12.9","runtime-editors",1711896030,["Compliance mode enabled, was '0.12.9'"]],
 ["gtksourceview-4","4.8.3","4.8.4","runtime-editors",1663210241,["Compliance mode enabled, was '4.8.4'"]],
 ["tepl","6.0.2","6.9.0","runtime-editors",1721223235,["Compliance mode enabled, was '6.9.0'"]],
+["docker-compose","2.29.1","2.29.2","app-containers",1722325391,["Compliance mode enabled, was '2.29.2'"]],
 ["docker","27.1.1","27.1.2","app-containers",1721977925,[]],
 ["buildah","1.37.0","1.37.1","app-containers",1722937796,["Compliance mode enabled, was '1.37.1'"]],
 ["helm","3.15.0","3.15.3","app-containers",1716211003,["Compliance mode enabled, was '3.15.3'"]],
