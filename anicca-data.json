@@ -1853,6 +1853,7 @@
 ["miniserve","0.26.0","0.27.1","app-web",1705559527,["Compliance mode enabled, was '0.27.1'"]],
 ["sozu","0.15.2","1.0.4","app-web",1696572712,["Compliance mode enabled, was '1.0.4'"]],
 ["qownnotes","22.6.1","24.8.4","app-web",1659588927,["Compliance mode enabled, was '24.8.4'"]],
+["hugo","0.131.0","0.132.1","app-web",1723474419,["Compliance mode enabled, was '0.132.1'"]],
 ["toxcore","0.2.18","0.2.19","app-web",1655338775,["Compliance mode enabled, was '0.2.19'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
 ["cairosvg","2.5.2","2.7.1","app-imaging",1658966837,["Compliance mode enabled, was '2.7.1'"]],
