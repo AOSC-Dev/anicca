@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723659086?label=Updated)
+![Relative date](https://img.shields.io/date/1723662377?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -168,7 +168,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo+32|1.14.12|1.18.0|runtime-optenv32|Compliance mode enabled, was '1.18.0'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
-|cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |calibre|7.10.0|7.16.0|app-doc|Compliance mode enabled, was '7.16.0'|
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
@@ -1159,7 +1158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.1|1.10.4|runtime-optenv32|Compliance mode enabled, was '1.10.4'|
 |libpeas|1.36.0|2.0.4|desktop-gnome|Compliance mode enabled, was '2.0.4'|
 |libphonenumber|8.13.38|8.13.43|runtime-i18n|Compliance mode enabled, was '8.13.43'|
-|libpinyin|2.6.0|2.8.1|runtime-i18n|Compliance mode enabled, was '2.8.1'|
+|libpinyin|2.6.0|2.9.91|runtime-i18n|Compliance mode enabled, was '2.9.91'|
 |libpipeline|1.5.3|1.5.7|runtime-common|Compliance mode enabled, was '1.5.7'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libplist|2.3.0|2.6.0|runtime-common|Compliance mode enabled, was '2.6.0'|
@@ -1375,8 +1374,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|mesa+32|22.1.7|24.1.5|runtime-optenv32|Compliance mode enabled, was '24.1.5'|
-|mesa-amber|21.3.9|24.1.5|runtime-display|Compliance mode enabled, was '24.1.5'|
+|mesa|24.1.5|24.2.0|runtime-display||
+|mesa+32|22.1.7|24.2.0|runtime-optenv32|Compliance mode enabled, was '24.2.0'|
+|mesa-amber|21.3.9|24.2.0|runtime-display|Compliance mode enabled, was '24.2.0'|
 |messagelib|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |metee|4.0.0|4.2.0|runtime-devices|Compliance mode enabled, was '4.2.0'|
