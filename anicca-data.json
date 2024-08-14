@@ -1947,7 +1947,6 @@
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
 ["systemd","256.4","256","app-admin",1722152558,["Compliance mode enabled, was '256'","Possible downgrade from the current version (256.4 -> 256)"]],
 ["lxcfs","3.0.3","6.0.1","app-admin",1549304004,["Compliance mode enabled, was '6.0.1'"]],
-["exfatprogs","1.2.4","1.2.5","app-admin",1718804482,["Compliance mode enabled, was '1.2.5'"]],
 ["reiser4progs","1.2.2","1.2.2.","app-admin",1678601027,["Compliance mode enabled, was '1.2.2.'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["targetcli-fb","2.1.54","2.1.58","app-admin",1641887332,["Compliance mode enabled, was '2.1.58'"]],
