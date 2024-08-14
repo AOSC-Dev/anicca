@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723666294?label=Updated)
+![Relative date](https://img.shields.io/date/1723669664?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -1317,7 +1317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lshw|02.19.2|02.20|app-utils|Compliance mode enabled, was '02.20'|
 |lskat|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |lsof|4.98.0|4.99.3|app-utils|Compliance mode enabled, was '4.99.3'|
-|ltrace|0.7.3<br>+git20151111|0.7.3|app-devel|Compliance mode enabled, was '0.7.3'|
+|ltrace|0.7.3<br>+git20151111|0.7.3+git20240814|app-devel|Compliance mode enabled, was '0.7.3+git20240814'|
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
@@ -1327,7 +1327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
 |lvm2|2.03.14|2.03.25|app-admin|Compliance mode enabled, was '2.03.25'|
 |lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
-|lxgwcleargothic-font|0.300.4|0.327|desktop-fonts|Compliance mode enabled, was '0.327'|
+|lxgwcleargothic-font|0.300.4|0.328|desktop-fonts|Compliance mode enabled, was '0.328'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
@@ -1350,7 +1350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |man-db|2.11.1|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |man-pages|6.05.01|6.9.1|runtime-data||
 |marble|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|mariadb|10.9.8|11.5.1|app-database|Compliance mode enabled, was '11.5.1'|
+|mariadb|10.9.8|11.6.1|app-database|Compliance mode enabled, was '11.6.1'|
 |markdown|3.3.4|3.6|lang-python|Compliance mode enabled, was '3.6'|
 |markdownpart|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |markupsafe|2.1.1|2.1.5|lang-python|Compliance mode enabled, was '2.1.5'|
