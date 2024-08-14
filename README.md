@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723637786?label=Updated)
+![Relative date](https://img.shields.io/date/1723641410?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -130,8 +130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
 |bind|9.18.28|9.16.33|app-network|Compliance mode enabled, was '9.16.33'<br>Possible downgrade from the current version (9.18.28 -> 9.16.33)|
 |binutils+32|2.42|2.43|runtime-optenv32|Compliance mode enabled, was '2.43'|
-|binutils+cross-powerpc|2.42|2.43|app-devel|Compliance mode enabled, was '2.43'|
-|binutils+cross-ppc64|2.42|2.43|app-devel|Compliance mode enabled, was '2.43'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |blender|4.0.2|4.2.0|app-creativity|Compliance mode enabled, was '4.2.0'|
 |blinken|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -448,21 +446,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc|13.2.0|14.2.0|core-devel|Compliance mode enabled, was '14.2.0'|
 |gcc+32|13.2.0|14.2.0|runtime-optenv32|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-amd64|9.3.1|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-loongson3|13.2.0<br>+glibc2.37<br>+0|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-powerpc|9.3.1|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-ppc64|9.3.1|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-ppc64el|12.3.0|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
-|gcc+cross-riscv64|12.1.0|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
+|gcc+cross|13.2.0<br>+glibc2.38<br>+6|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.9.1|runtime-gis|Compliance mode enabled, was '3.9.1'|
-|gdb+cross-amd64|8.2|15.1|app-devel|Compliance mode enabled, was '15.1'|
-|gdb+cross-arm64|12.1|15.1|app-devel|Compliance mode enabled, was '15.1'|
-|gdb+cross-mips64r6el|12.1|15.1|app-devel|Compliance mode enabled, was '15.1'|
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
@@ -675,6 +662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+36|app-utils|Compliance mode enabled, was '7.1.1-36'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
+|imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -2050,6 +2038,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |restic|0.16.4|0.17.0|app-utils|Compliance mode enabled, was '0.17.0'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
 |rexml|3.2.5|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
+|rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
