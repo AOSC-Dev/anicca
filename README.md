@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723644620?label=Updated)
+![Relative date](https://img.shields.io/date/1723648312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -326,6 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-templates-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
+|dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|22.11.1|24.07|runtime-network|Compliance mode enabled, was '24.07'|
@@ -380,7 +381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-moegirl|20240709|20240809|app-i18n|Compliance mode enabled, was '20240809'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
-|feedbackd|0.2.1|0.4.0|desktop-gnome|Compliance mode enabled, was '0.4.0'|
+|feedbackd|0.2.1|0.4.1|desktop-gnome|Compliance mode enabled, was '0.4.1'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.1|4.1.6|app-multimedia|Compliance mode enabled, was '4.1.6'|
 |feeluown-bilibili|0.3.3|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
@@ -699,7 +700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.1|lang-python|Compliance mode enabled, was '0.19.1'|
 |jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |jellyfish|1.0.4|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
-|jenkins|2.468|2.471|app-admin|Compliance mode enabled, was '2.471'|
+|jenkins|2.468|2.472|app-admin|Compliance mode enabled, was '2.472'|
 |jetring|0.29|0.31|app-admin|Compliance mode enabled, was '0.31'|
 |jinja2|3.1.2|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
@@ -1474,6 +1475,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nftables|1.0.9|1.1.0|app-network|Compliance mode enabled, was '1.1.0'|
 |nghttp2|1.58.0|1.62.1|runtime-web|Compliance mode enabled, was '1.62.1'|
 |nghttp3|1.3.0|1.4.0|runtime-web|Compliance mode enabled, was '1.4.0'|
+|nginx|1.27.0|1.27.1|app-web|Compliance mode enabled, was '1.27.1'|
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
 |ngtcp2|1.5.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
 |nlopt|2.7.1|2.8.0|runtime-scientific|Compliance mode enabled, was '2.8.0'|
