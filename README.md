@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723648312?label=Updated)
+![Relative date](https://img.shields.io/date/1723651921?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -2149,7 +2149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simgear|2020.3.13|2020.3.19|runtime-games|Compliance mode enabled, was '2020.3.19'|
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
-|simplejson|3.16.0|3.19.2|lang-python|Compliance mode enabled, was '3.19.2'|
+|simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
 |sing-box|1.8.13|1.9.3|app-network|Compliance mode enabled, was '1.9.3'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
