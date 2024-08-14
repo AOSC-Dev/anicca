@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723633550?label=Updated)
+![Relative date](https://img.shields.io/date/1723637786?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -569,6 +569,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
+|gradle|8.9.0|8.10.0|lang-java|Compliance mode enabled, was '8.10.0'|
 |graftcp|0.7.3|0.7.4|app-network|Compliance mode enabled, was '0.7.4'|
 |granatier|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |grantlee-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -674,7 +675,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+36|app-utils|Compliance mode enabled, was '7.1.1-36'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
-|imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1613,7 +1613,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partclone|0.3.20|0.3.32|app-admin|Compliance mode enabled, was '0.3.32'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|passt|2024_07_26.57a21d2|2024_08_06.ee36266|app-network||
+|passt|2024_07_26.57a21d2|2024_08_14.61c0b0d|app-network||
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
 |patch-ng|1.17.4|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
@@ -2050,7 +2050,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |restic|0.16.4|0.17.0|app-utils|Compliance mode enabled, was '0.17.0'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
 |rexml|3.2.5|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
-|rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
