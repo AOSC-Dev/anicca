@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723605094?label=Updated)
+![Relative date](https://img.shields.io/date/1723608675?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -439,7 +439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fvwm|2.6.9|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
-|fwupd|1.9.22|1.9.23|app-admin|Compliance mode enabled, was '1.9.23'|
 |fzf|0.54.1|0.54.3|app-utils|Compliance mode enabled, was '0.54.3'|
 |gajim|1.4.0|1.9.3|app-web|Compliance mode enabled, was '1.9.3'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
@@ -2013,7 +2012,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|0.5.6|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
 |qt-5|5.15.13|5.15.14-lts-lgpl|runtime-desktop||
-|qtcreator|14.0.0|14.0.1|app-devel|Compliance mode enabled, was '14.0.1'|
 |qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
 |qtpy|2.1.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
@@ -2229,7 +2227,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
 |sqlalchemy|1.2.18|2.0.32|lang-python|Compliance mode enabled, was '2.0.32'|
 |sqlcipher|4.5.6|4.6.0|app-database|Compliance mode enabled, was '4.6.0'|
-|sqlite|3.45.1|3.46.1|app-database|Compliance mode enabled, was '3.46.1'|
 |sqlite+32|3.32.3|3.46.1|runtime-optenv32|Compliance mode enabled, was '3.46.1'|
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
