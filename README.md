@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723608675?label=Updated)
+![Relative date](https://img.shields.io/date/1723612325?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -263,7 +263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
 |cracklib|2.9.8|2.10.2|runtime-cryptography|Compliance mode enabled, was '2.10.2'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
-|crun|1.15|1.16|app-admin|Compliance mode enabled, was '1.16'|
+|crun|1.15|1.16.1|app-admin|Compliance mode enabled, was '1.16.1'|
 |cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|43.0.0|lang-python|Compliance mode enabled, was '43.0.0'|
