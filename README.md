@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723727625?label=Updated)
+![Relative date](https://img.shields.io/date/1723730833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -156,6 +156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |breeze-plymouth|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
+|btrfs-progs|6.10|6.10.1|app-admin|Compliance mode enabled, was '6.10.1'|
 |bubblewrap|0.9.0|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildah|1.37.0|1.37.1|app-containers|Compliance mode enabled, was '1.37.1'|
@@ -2295,7 +2296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdb|1.4.10|1.4.12|app-database|Compliance mode enabled, was '1.4.12'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.2.3|5.3.2|app-web|Compliance mode enabled, was '5.3.2'|
+|telegram-desktop|5.2.3|5.4.0|app-web|Compliance mode enabled, was '5.4.0'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2312,6 +2313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |texstudio|4.0.2|4.8.1|app-doc|Compliance mode enabled, was '4.8.1'|
 |texworks|0.6.6|0.6.9|app-doc|Compliance mode enabled, was '0.6.9'|
 |thedarkmod|2.09a|2.12|app-games|Compliance mode enabled, was '2.12'|
+|thermald|2.5.7|2.5.8|app-admin|Compliance mode enabled, was '2.5.8'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
