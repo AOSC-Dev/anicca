@@ -1971,7 +1971,7 @@
 ["bottom","0.9.6","0.10.2","app-admin",1704768393,["Compliance mode enabled, was '0.10.2'"]],
 ["topgrade","11.0.2","15.0.0","app-admin",1683301918,["Compliance mode enabled, was '15.0.0'"]],
 ["apparmor","3.0.8","4.0.2","app-admin",1677834439,["Compliance mode enabled, was '4.0.2'"]],
-["oma","1.4.3","1.12.13","app-admin",1723426647,["Compliance mode enabled, was '1.12.13'"]],
+["oma","1.5.2","1.12.13","app-admin",1723720156,["Compliance mode enabled, was '1.12.13'"]],
 ["cockpit-podman","63","92","app-admin",1678351353,["Compliance mode enabled, was '92'"]],
 ["jetring","0.29","0.31","app-admin",1600920748,["Compliance mode enabled, was '0.31'"]],
 ["mtd-utils","2.1.5","2.2.0","app-admin",1673935786,["Compliance mode enabled, was '2.2.0'"]],
