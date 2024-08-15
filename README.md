@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723713003?label=Updated)
+![Relative date](https://img.shields.io/date/1723716734?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -156,6 +156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |breeze-plymouth|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
+|bubblewrap|0.9.0|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildah|1.37.0|1.37.1|app-containers|Compliance mode enabled, was '1.37.1'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -2381,7 +2382,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
 |unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils|Compliance mode enabled, was '1.10.8'|
-|unbound|1.19.2|1.20.0|app-network||
+|unbound|1.19.2|1.21.0|app-network||
 |uncrustify|0.78.1|0.79.0|app-devel|Compliance mode enabled, was '0.79.0'|
 |unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
