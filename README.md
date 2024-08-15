@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723730833?label=Updated)
+![Relative date](https://img.shields.io/date/1723734482?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -128,7 +128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.8.5|runtime-common|Compliance mode enabled, was '1.8.5'|
 |bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
-|bind|9.18.28|9.16.33|app-network|Compliance mode enabled, was '9.16.33'<br>Possible downgrade from the current version (9.18.28 -> 9.16.33)|
 |binutils+32|2.42|2.43|runtime-optenv32|Compliance mode enabled, was '2.43'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |blender|4.0.2|4.2.0|app-creativity|Compliance mode enabled, was '4.2.0'|
@@ -157,7 +156,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |btrfs-progs|6.10|6.10.1|app-admin|Compliance mode enabled, was '6.10.1'|
-|bubblewrap|0.9.0|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildah|1.37.0|1.37.1|app-containers|Compliance mode enabled, was '1.37.1'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -413,7 +411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-wtf|0.14|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |flat-remix-icon-theme|20191122|20240201|desktop-themes|Compliance mode enabled, was '20240201'|
 |flatbuffers|2.0.6|24.3.25|runtime-common|Compliance mode enabled, was '24.3.25'|
-|flatpak|1.14.8|1.14.10|app-admin|Compliance mode enabled, was '1.14.10'|
 |flent|1.3.2|2.1.1|app-network|Compliance mode enabled, was '2.1.1'|
 |flightgear|2020.3.13|2020.3.19|app-games|Compliance mode enabled, was '2020.3.19'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
@@ -1313,7 +1310,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |lokalize|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
-|lpaq|8|9m|app-utils|Compliance mode enabled, was '9m'|
 |lpsolve|5.5.2.5|5.6.20|app-scientific|Compliance mode enabled, was '5.6.20'|
 |lrs|071a|073|app-scientific|Compliance mode enabled, was '073'|
 |lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
@@ -1838,7 +1834,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|podman|5.2.0|5.2.1|app-containers||
 |poedit|3.4.1|3.4.4-oss|app-i18n|Compliance mode enabled, was '3.4.4-oss'|
 |poetry|1.6.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
 |poetry-core|1.7.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
