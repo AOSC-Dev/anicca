@@ -2371,6 +2371,7 @@
 ["pyqt5","5.15.5","5.15.11","lang-python",1637636760,["Compliance mode enabled, was '5.15.11'"]],
 ["random2","1.0.1","1.0.2","lang-python",1535557283,["Compliance mode enabled, was '1.0.2'"]],
 ["urllib3","2.2.1","2.2.2","lang-python",1714209798,["Compliance mode enabled, was '2.2.2'"]],
+["uritemplate","3.0.1","4.1.1","lang-python",1581796622,["Compliance mode enabled, was '4.1.1'"]],
 ["calver","2022.06.26","2022.6.26","lang-python",1708256695,["Compliance mode enabled, was '2022.6.26'"]],
 ["cock","0.6.0","0.11.0","lang-python",1607768363,["Compliance mode enabled, was '0.11.0'"]],
 ["fastimport","0.9.8","0.9.14","lang-python",1530718721,["Compliance mode enabled, was '0.9.14'"]],
