@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723748711?label=Updated)
+![Relative date](https://img.shields.io/date/1723752654?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -395,6 +395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.0.2|runtime-optenv32|Compliance mode enabled, was '7.0.2'|
 |ffmpegthumbs|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |ffms2|2.40|5.0|app-multimedia|Compliance mode enabled, was '5.0'|
+|ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
 |fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
 |fido2|0.9.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
 |file-roller|3.42.0|44.3|desktop-gnome|Compliance mode enabled, was '44.3'|
@@ -597,6 +598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-4|4.14.0|4.15.0|desktop-gnome|Compliance mode enabled, was '4.15.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
+|gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
 |gupnp|1.2.4|1.6.6|desktop-gnome|Compliance mode enabled, was '1.6.6'|
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
@@ -1040,7 +1042,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
-|libdwarf|20210305|0.10.1|runtime-common|Compliance mode enabled, was '0.10.1'<br>Possible downgrade from the current version (20210305 -> 0.10.1)|
+|libdwarf|20210305|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'<br>Possible downgrade from the current version (20210305 -> 0.11.0)|
 |libeconf|0.5.0|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |libedit|20191231<br>+3.1|20240808-3.1|runtime-common|Compliance mode enabled, was '20240808-3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32|Compliance mode enabled, was '1.5.10'|
@@ -2390,7 +2392,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |upx|4.2.1|4.2.4|app-devel|Compliance mode enabled, was '4.2.4'|
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
-|uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |urllib3|2.2.1|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
 |urwid|2.1.2|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
