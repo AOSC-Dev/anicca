@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723705794?label=Updated)
+![Relative date](https://img.shields.io/date/1723709539?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -547,8 +547,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnu-efi|3.0.14|3.0.18|app-devel|Compliance mode enabled, was '3.0.18'|
 |gnustep-base|1.28.0|1.30.0|runtime-gnustep|Compliance mode enabled, was '1_30_0'|
 |gnustep-make|2.9.0|2.9.2|runtime-gnustep|Compliance mode enabled, was '2_9_2'|
-|gnutls|3.8.4|3.8.6|runtime-cryptography|Compliance mode enabled, was '3.8.6'|
-|gnutls+32|3.6.15|3.8.6|runtime-optenv32|Compliance mode enabled, was '3.8.6'|
+|gnutls|3.8.4|3.8.7|runtime-cryptography|Compliance mode enabled, was '3.8.7'|
+|gnutls+32|3.6.15|3.8.7|runtime-optenv32|Compliance mode enabled, was '3.8.7'|
 |go|1.22.5|1.23.0|lang-golang||
 |gobject-introspection|1.80.0|1.80.1|app-devel|Compliance mode enabled, was '1.80.1'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
