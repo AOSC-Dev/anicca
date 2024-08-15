@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723756003?label=Updated)
+![Relative date](https://img.shields.io/date/1723759683?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -87,7 +87,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |at-spi2-core+32|2.26.3|2.53.1|runtime-optenv32|Compliance mode enabled, was '2.53.1'|
 |atk+32|2.26.1|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
-|atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomicwrites|1.3.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |atop|2.10.0|2.11.0|app-utils|Compliance mode enabled, was '2.11.0'|
@@ -109,7 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|7.3|app-devel|Compliance mode enabled, was '7.3'|
 |ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop|Compliance mode enabled, was '24.5.0'|
-|b2sdk|1.14.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
+|b2sdk|1.14.0|2.5.1|lang-python|Compliance mode enabled, was '2.5.1'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compliance mode enabled, was '019'|
 |babel|2.9.1|2.16.0|lang-python|Compliance mode enabled, was '2.16.0'|
@@ -142,8 +141,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|runtime-optenv32|Compliance mode enabled, was '1.85.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.34.161|lang-python|Compliance mode enabled, was '1.34.161'|
-|botocore|1.34.133|1.34.161|lang-python|Compliance mode enabled, was '1.34.161'|
+|boto3|1.20.26|1.34.162|lang-python|Compliance mode enabled, was '1.34.162'|
+|botocore|1.34.133|1.34.162|lang-python|Compliance mode enabled, was '1.34.162'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -179,7 +178,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp4|4.14<br>+1|5.2+1|lang-ocaml|Compliance mode enabled, was '5.2+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-c|0.10.2|0.10.3|lang-rust|Compliance mode enabled, was '0.10.3'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
@@ -373,6 +371,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
 |faad2+32|2.10.0|2.11.1|runtime-optenv32|Compliance mode enabled, was '2.11.1'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
+|fakeroot|1.35.1|1.36|app-utils|Compliance mode enabled, was '1.36'|
 |falkon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
@@ -2274,7 +2273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |system-config-printer|1.5.17|1.5.18|app-admin|Compliance mode enabled, was '1.5.18'|
 |systemd|256.4|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (256.4 -> 256)|
 |systemsettings|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
-|systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |taglib|1.11.1|2.0.1|runtime-multimedia|Compliance mode enabled, was '2.0.1'|
 |taglib+32|1.11|2.0.1|runtime-optenv32|Compliance mode enabled, was '2.0.1'|
@@ -2544,6 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yard|0.9.26|0.9.36|app-doc|Compliance mode enabled, was '0.9.36'|
 |yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
+|yazi|0.3.0|0.3.1|app-utils|Compliance mode enabled, was '0.3.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|
