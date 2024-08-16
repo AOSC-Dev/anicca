@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723842345?label=Updated)
+![Relative date](https://img.shields.io/date/1723845961?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -348,6 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant-2|2.3.1|2.8.2|app-i18n|Compliance mode enabled, was '2.8.2'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|engrampa|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
 |eog|42.3|45.4|desktop-gnome|Compliance mode enabled, was '45.4'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
@@ -1566,7 +1567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvpn|2.5.4|2.6.12|app-network|Compliance mode enabled, was '2.6.12'|
-|openvswitch|3.0.3|3.3.1|app-network|Compliance mode enabled, was '3.3.1'|
+|openvswitch|3.0.3|3.4.0|app-network|Compliance mode enabled, was '3.4.0'|
 |optipng|0.7.7|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
@@ -2437,6 +2438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
+|vulkan-extensionlayer|1.3.283.0|1.3.292|runtime-display|Compliance mode enabled, was '1.3.292'|
 |vulkan-headers|1.3.283.0|1.3.292|runtime-display|Compliance mode enabled, was '1.3.292'|
 |vulkan-headers+32|1.3.283.0|1.3.292|runtime-optenv32|Compliance mode enabled, was '1.3.292'|
 |vulkan-loader|1.3.283.0|1.3.292|runtime-display|Compliance mode enabled, was '1.3.292'|
