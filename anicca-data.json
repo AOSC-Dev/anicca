@@ -405,7 +405,7 @@
 ["perl-email-mime","1.946","1.954","lang-perl",1530196415,["Compliance mode enabled, was '1.954'"]],
 ["perl-extutils-helpers","0.026","0.027","lang-perl",1678950872,["Compliance mode enabled, was '0.027'"]],
 ["perl-ev","4.25","4.34","lang-perl",1550814485,["Compliance mode enabled, was '4.34'"]],
-["perl-extutils-config","0.008","0.009","lang-perl",1678950872,["Compliance mode enabled, was '0.009'"]],
+["perl-extutils-config","0.008","0.010","lang-perl",1678950872,["Compliance mode enabled, was '0.010'"]],
 ["perl-exception-class","1.44","1.45","lang-perl",1596485703,["Compliance mode enabled, was '1.45'"]],
 ["perl-file-basedir","0.08","0.09","lang-perl",1530196415,["Compliance mode enabled, was '0.09'"]],
 ["perl-convert-asn1","0.27","0.34","lang-perl",1678950872,["Compliance mode enabled, was '0.34'"]],
