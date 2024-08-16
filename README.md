@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723763467?label=Updated)
+![Relative date](https://img.shields.io/date/1723768492?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -643,7 +643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.111.0|lang-python|Compliance mode enabled, was '6.111.0'|
+|hypothesis-python|6.97.4|6.111.1|lang-python|Compliance mode enabled, was '6.111.1'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -2378,6 +2378,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uim|1.8.8|1.8.9|app-i18n|Compliance mode enabled, was '1.8.9'|
 |ujson|1.35|1.36|lang-python|Compliance mode enabled, was '1.36'|
 |umbrello|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|uml-utilities|20070815.4|20070815.4.orig|app-utils|Compliance mode enabled, was '20070815.4.orig'<br>Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
 |unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unar|1.10.1|1.10.8|app-utils|Compliance mode enabled, was '1.10.8'|
@@ -2491,6 +2492,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x264+32|20160827.2245|3191|runtime-optenv32|Compliance mode enabled, was '3191'<br>Possible downgrade from the current version (20160827.2245 -> 3191)|
 |x265+32|2.2|3.6|runtime-optenv32|Compliance mode enabled, was '3.6'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
+|xapian-core|1.4.18|1.4.26|runtime-common|Compliance mode enabled, was '1.4.26'|
 |xapps|2.8.2|2.8.5|runtime-desktop|Compliance mode enabled, was '2.8.5'|
 |xarchiver|0.5.4.15|0.5.4.23|app-utils|Compliance mode enabled, was '0.5.4.23'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
