@@ -1607,7 +1607,7 @@
 ["fcitx5-mozc","2.29.5160.102+fcitx5+git20230919","2.30.5544.102","app-i18n",1696160477,["Compliance mode enabled, was '2.30.5544.102'"]],
 ["link-grammar","5.10.1","5.99.42","app-i18n",1633153817,["Compliance mode enabled, was '5.99.42'"]],
 ["ibus-table","1.14.1","1.17.6","app-i18n",1633153814,["Compliance mode enabled, was '1.17.6'"]],
-["enchant-2","2.3.1","2.8.1","app-i18n",1633153816,["Compliance mode enabled, was '2.8.1'"]],
+["enchant-2","2.3.1","2.8.2","app-i18n",1633153816,["Compliance mode enabled, was '2.8.2'"]],
 ["ibus-hangul","1.5.4","1.5.5","app-i18n",1600214325,["Compliance mode enabled, was '1.5.5'"]],
 ["ibus","1.5.25","1.5.30","app-i18n",1633153813,["Compliance mode enabled, was '1.5.30'"]],
 ["ibus-m17n","1.4.7","1.4.31","app-i18n",1633153814,["Compliance mode enabled, was '1.4.31'"]],
