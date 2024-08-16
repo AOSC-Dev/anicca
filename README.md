@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723773769?label=Updated)
+![Relative date](https://img.shields.io/date/1723775726?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.07|24.08|app-utils|Compliance mode enabled, was '24.08'|
@@ -2435,6 +2435,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.290.0|runtime-optenv32|Compliance mode enabled, was '1.3.290.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vscode|1.92.1|1.92.2|app-editors|Compliance mode enabled, was '1.92.2'|
+|vscodium|1.92.1.24225|1.92.2.24228|app-editors|Compliance mode enabled, was '1.92.2.24228'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
@@ -2545,7 +2547,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yard|0.9.26|0.9.36|app-doc|Compliance mode enabled, was '0.9.36'|
 |yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
-|yazi|0.3.0|0.3.1|app-utils|Compliance mode enabled, was '0.3.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|
