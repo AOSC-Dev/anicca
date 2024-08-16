@@ -344,7 +344,7 @@
 ["faad2","2.10.0","2.11.1","app-multimedia",1527648781,["Compliance mode enabled, was '2.11.1'"]],
 ["mediainfo","22.06","24.06","app-multimedia",1663359142,["Compliance mode enabled, was '24.06'"]],
 ["sndio","1.9.0","1.10.0","app-multimedia",1693486148,["Compliance mode enabled, was '1.10.0'"]],
-["kodi-pvr-iptvsimple","19.2.2","22.0.0-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.0.0-Piers'"]],
+["kodi-pvr-iptvsimple","19.2.2","22.1.0-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.1.0-Piers'"]],
 ["perl-module-build-tiny","0.039","0.048","lang-perl",1678950872,["Compliance mode enabled, was '0.048'"]],
 ["perl-params-util","1.07","1.102","lang-perl",1678950872,["Compliance mode enabled, was '1.102'"]],
 ["perl-finance-quote","1.49","1.5301","lang-perl",1596485703,["Compliance mode enabled, was '1.5301'"]],

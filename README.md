@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723810537?label=Updated)
+![Relative date](https://img.shields.io/date/1723814052?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -889,7 +889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifications|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |knotifyconfig|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kodi|20.3|21.0|app-multimedia|Compliance mode enabled, was '21.0'|
-|kodi-pvr-iptvsimple|19.2.2|22.0.0-piers|app-multimedia|Compliance mode enabled, was '22.0.0-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.1.0-piers|app-multimedia|Compliance mode enabled, was '22.1.0-Piers'|
 |koko|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kolf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kollision|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
