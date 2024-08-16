@@ -1317,6 +1317,7 @@
 ["un-fonts","1.0.2","1.0.2+080608","desktop-fonts",1678950872,["Compliance mode enabled, was '1.0.2-080608'"]],
 ["ttf-vlgothic","20200720","20220612","desktop-fonts",1629606314,["Compliance mode enabled, was '20220612'"]],
 ["lxgwcleargothic-font","0.300.4","0.328","desktop-fonts",1715870557,["Compliance mode enabled, was '0.328'"]],
+["lxgwnewcleargothic-font","1.124","1.200","desktop-fonts",1721018383,["Compliance mode enabled, was '1.200'"]],
 ["ibm-plex-fonts","6.4.0","6.4.2","desktop-fonts",1715870430,["Compliance mode enabled, was '6.4.2'"]],
 ["genryu-font","1.501","2.000","desktop-fonts",1597907078,["Compliance mode enabled, was '2.000'"]],
 ["zvm","0.7.4","6.0.0","lang-ziglang",1723629411,["Compliance mode enabled, was '6.0.0'"]],
