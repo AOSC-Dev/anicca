@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723845961?label=Updated)
+![Relative date](https://img.shields.io/date/1723849840?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1578,6 +1578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |os-prober|1.81|1.82|app-utils|Compliance mode enabled, was '1.82'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
+|osu-lazer|2024.731.0|2024.817.0|app-games|Compliance mode enabled, was '2024.817.0'|
 |oxygen|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |oxygen-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |oxygen-sounds|5.25.3|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -1626,7 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.1.90|app-games|Compliance mode enabled, was '2.1.90'|
+|pcsx2|1.6.0<br>+git20210825|2.1.93|app-games|Compliance mode enabled, was '2.1.93'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peewee|3.17.1|3.17.6|lang-python|Compliance mode enabled, was '3.17.6'|
@@ -1795,7 +1796,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |picocom|3.1|2024.07|app-utils|Compliance mode enabled, was '2024-07'|
 |pikepdf|8.15.1|9.1.1|app-doc|Compliance mode enabled, was '9.1.1'|
 |pim-data-exporter|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|pim-sieve-editor|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pimcommon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
 |pip|22.3.1|24.2|lang-python|Compliance mode enabled, was '24.2'|
