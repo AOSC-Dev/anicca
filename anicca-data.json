@@ -505,6 +505,7 @@
 ["lazarus","3.2","3.4","lang-pascal",1711727725,["Compliance mode enabled, was '3.4'"]],
 ["cbindgen","0.26.0","0.27.0","lang-rust",1700197547,["Compliance mode enabled, was '0.27.0'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
+["rust-bindgen","0.69.4","0.70.0","lang-rust",1721277711,["Compliance mode enabled, was '0.70.0'"]],
 ["cargo-c","0.10.2","0.10.3","lang-rust",1720034717,["Compliance mode enabled, was '0.10.3'"]],
 ["gnustep-base","1.28.0","1.30.0","runtime-gnustep",1721223235,["Compliance mode enabled, was '1_30_0'"]],
 ["gnustep-make","2.9.0","2.9.2","runtime-gnustep",1631430385,["Compliance mode enabled, was '2_9_2'"]],
