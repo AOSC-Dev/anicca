@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1723892682?label=Updated)
+![Relative date](https://img.shields.io/date/1723896812?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -889,7 +889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotes|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |knotifications|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |knotifyconfig|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
-|kodi|20.3|21.0|app-multimedia|Compliance mode enabled, was '21.0'|
+|kodi|20.3|21.1|app-multimedia|Compliance mode enabled, was '21.1'|
 |kodi-pvr-iptvsimple|19.2.2|22.1.0-piers|app-multimedia|Compliance mode enabled, was '22.1.0-Piers'|
 |koko|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kolf|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1506,7 +1506,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|560.31.02|runtime-optenv32|Compliance mode enabled, was '560.31.02'|
 |nvm|0.39.7|0.40.0|lang-js|Compliance mode enabled, was '0.40.0'|
 |nvme-cli|2.9.1|2.10.2|app-admin|Compliance mode enabled, was '2.10.2'|
-|obs-studio|30.2.2|30.2.3|app-multimedia|Compliance mode enabled, was '30.2.3'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
