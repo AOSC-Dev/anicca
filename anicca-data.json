@@ -2464,7 +2464,6 @@
 ["networkmanager-l2tp","1.8.6","1.20.16","app-network",1528905474,["Compliance mode enabled, was '1.20.16'"]],
 ["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["chisel","1.9.1","1.10.0","app-network",1712458054,["Compliance mode enabled, was '1.10.0'"]],
-["redsocks2","0.67+git20201229","0.1","app-network",1629863094,["Compliance mode enabled, was '0.1'","Possible downgrade from the current version (0.67+git20201229 -> 0.1)"]],
 ["ss-tproxy","4.6.1","4.8.3","app-network",1611985904,["Compliance mode enabled, was '4.8.3'"]],
 ["vpnc","0.5.3r550","0.5.3","app-network",1678950872,["Compliance mode enabled, was '0.5.3'"]],
 ["iptables","1.8.8","1.8.10","app-network",1674452376,["Compliance mode enabled, was '1.8.10'"]],
