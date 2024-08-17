@@ -371,7 +371,6 @@
 ["perl-cgi","4.47","4.66","lang-perl",1678950872,["Compliance mode enabled, was '4.66'"]],
 ["perl-text-csv-xs","1.38","1.56","lang-perl",1551145658,["Compliance mode enabled, was '1.56'"]],
 ["perl-moo","2.005004","2.005005","lang-perl",1631079140,["Compliance mode enabled, was '2.005005'"]],
-["perl-html-form","6.03","6.11","lang-perl",1486229171,["Compliance mode enabled, was '6.11'"]],
 ["perl-error","0.17027","0.17029","lang-perl",1550814485,["Compliance mode enabled, was '0.17029'"]],
 ["perl","5.36.3","5.41.2","lang-perl",1706998720,["Compliance mode enabled, was '5.41.2'"]],
 ["perl-file-next","1.16","1.18","lang-perl",1488649548,["Compliance mode enabled, was '1.18'"]],
