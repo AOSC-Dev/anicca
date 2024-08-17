@@ -2079,6 +2079,7 @@
 ["pyiso8601","0.1.13","2.1.0","lang-python",1604819537,["Compliance mode enabled, was '2.1.0'"]],
 ["regex","2019.02.21","2024.7.24","lang-python",1551200854,["Compliance mode enabled, was '2024.7.24'"]],
 ["kiwisolver","1.0.1","1.4.5","lang-python",1550436152,["Compliance mode enabled, was '1.4.5'"]],
+["configobj","5.0.6","5.0.8","lang-python",1678950872,["Compliance mode enabled, was '5.0.8'"]],
 ["acme","2.10.0","2.11.0","lang-python",1717566614,["Compliance mode enabled, was '2.11.0'"]],
 ["tikzplotlib","0.9.8","0.10.1","lang-python",1614653546,["Compliance mode enabled, was '0.10.1'"]],
 ["diff-match-patch","20200713","20230430","lang-python",1572507782,["Compliance mode enabled, was '20230430'"]],
