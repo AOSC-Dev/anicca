@@ -1893,7 +1893,6 @@
 ["asio","1.18.1","1.31.0","app-devel",1614161782,["Compliance mode enabled, was '1.31.0'"]],
 ["geany","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
 ["autobuild4","4.3.21","4.3.22","app-devel",1723366361,["Compliance mode enabled, was '4.3.22'"]],
-["libtool","2.4.7","2.5.1","app-devel",1678950872,["Compliance mode enabled, was '2.5.1'"]],
 ["vc","1.4.4","1.4.5","app-devel",1704959753,["Compliance mode enabled, was '1.4.5'"]],
 ["msitools","0.101","0.103","app-devel",1619939228,["Compliance mode enabled, was '0.103'"]],
 ["gobject-introspection","1.80.0","1.80.1","app-devel",1711178014,["Compliance mode enabled, was '1.80.1'"]],
