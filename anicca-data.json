@@ -1038,7 +1038,6 @@
 ["qpdf","11.9.0","11.9.1","app-doc",1712074122,["Compliance mode enabled, was '11.9.1'"]],
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
 ["scdoc","1.11.2","1.11.3","app-doc",1641132477,["Compliance mode enabled, was '1.11.3'"]],
-["pikepdf","8.15.1","9.1.1","app-doc",1722488599,["Compliance mode enabled, was '9.1.1'"]],
 ["unpaper","20190211","7.0.0","app-doc",1570597052,["Compliance mode enabled, was '7.0.0'","Possible downgrade from the current version (20190211 -> 7.0.0)"]],
 ["xalan-c","1.12","1.12.0","app-doc",1721223235,["Compliance mode enabled, was '1.12.0'"]],
 ["lyx","2.4.0","2.4.1","app-doc",1718013264,["Compliance mode enabled, was '2.4.1'"]],
