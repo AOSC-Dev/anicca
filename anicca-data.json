@@ -1848,6 +1848,7 @@
 ["i2pd","2.41.0","2.53.1","app-web",1647420912,["Compliance mode enabled, was '2.53.1'"]],
 ["transmission","4.0.5","4.0.6","app-web",1704877978,["Compliance mode enabled, was '4.0.6'"]],
 ["firefox","128.0.3","129.0.1","app-web",1722615886,["Compliance mode enabled, was '129.0.1'"]],
+["qbittorrent","4.6.5","4.6.6","app-web",1718068150,["Compliance mode enabled, was '4.6.6'"]],
 ["postfix","3.7.3","3.9.0","app-web",1721223235,["Compliance mode enabled, was '3.9.0'"]],
 ["midori","9.0","11.3.3","app-web",1569636491,["Compliance mode enabled, was '11.3.3'"]],
 ["certbot-nginx","2.10.0","2.11.0","app-web",1716728325,["Compliance mode enabled, was '2.11.0'"]],
