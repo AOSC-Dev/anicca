@@ -355,6 +355,7 @@
 ["perl-extutils-depends","0.405","0.8001","lang-perl",1457398905,["Compliance mode enabled, was '0.8001'"]],
 ["perl-io-tee","0.65","0.66","lang-perl",1590975699,["Compliance mode enabled, was '0.66'"]],
 ["pcsc-perl","1.4.14","1.4.16","lang-perl",1449274835,["Compliance mode enabled, was '1.4.16'"]],
+["perl-module-build","0.4224","0.4234","lang-perl",1530196414,["Compliance mode enabled, was '0.4234'"]],
 ["perl-try-tiny","0.30","0.32","lang-perl",1530196414,["Compliance mode enabled, was '0.32'"]],
 ["perl-io-socket-inet6","2.72","2.73","lang-perl",1678950872,["Compliance mode enabled, was '2.73'"]],
 ["perl-ipc-run","20180523.0","20231003.0","lang-perl",1530196414,["Compliance mode enabled, was '20231003.0'"]],
