@@ -1918,7 +1918,6 @@
 ["clazy","1.11","1.12","app-devel",1678601014,["Compliance mode enabled, was '1.12'"]],
 ["upx","4.2.1","4.2.4","app-devel",1700646641,["Compliance mode enabled, was '4.2.4'"]],
 ["nsgenbind","0.8","0.9","app-devel",1591894752,["Compliance mode enabled, was '0.9'"]],
-["versioningit","3.0.0","3.1.2","app-devel",1708685051,["Compliance mode enabled, was '3.1.2'"]],
 ["uncrustify","0.78.1","0.79.0","app-devel",1704791250,["Compliance mode enabled, was '0.79.0'"]],
 ["ragel","6.10","7.0.4","app-devel",1528559921,["Compliance mode enabled, was '7.0.4'"]],
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
