@@ -1215,7 +1215,6 @@
 ["gupnp-dlna","0.10.5","0.12.0","desktop-gnome",1466916541,["Compliance mode enabled, was '0.12.0'"]],
 ["gnome-backgrounds","42.0","46.0","desktop-gnome",1663210242,["Compliance mode enabled, was '46.0'"]],
 ["gmime-3","3.2.7","3.2.15","desktop-gnome",1607975452,["Compliance mode enabled, was '3.2.15'"]],
-["gtkmm-4","4.14.0","4.15.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.15.0'"]],
 ["fractal","8.0","8","desktop-gnome",1722754023,["Compliance mode enabled, was '8'"]],
 ["tali","40.8","40.9","desktop-gnome",1663210244,["Compliance mode enabled, was '40.9'"]],
 ["gnome-session","42.0","46.0","desktop-gnome",1663210241,["Compliance mode enabled, was '46.0'"]],
