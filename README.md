@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724051604?label=Updated)
+![Relative date](https://img.shields.io/date/1724055154?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -880,7 +880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmousetool|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmouth|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kmplot|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
-|kmscon|8<br>+git20221110|8|app-utils|Compliance mode enabled, was '8'|
+|kmscon|9.0.0|8|app-utils|Compliance mode enabled, was '8'<br>Possible downgrade from the current version (9.0.0 -> 8)|
 |knavalbattle|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |knetwalk|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |knewstuff|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -1223,7 +1223,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtool|2.4.7|2.5.1|app-devel|Compliance mode enabled, was '2.5.1'|
 |libtool+32|2.4.6|2.5.1|runtime-optenv32|Compliance mode enabled, was '2.5.1'|
 |libtracefs|1.6.4|1.8.1|runtime-admin|Compliance mode enabled, was '1.8.1'|
-|libtsm|4.0.1|4.0.2|runtime-common|Compliance mode enabled, was '4.0.2'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.7.0.0|runtime-ham|Compliance mode enabled, was '4.7.0.0'|
 |libuninameslist|20190701|20240524|runtime-i18n|Compliance mode enabled, was '20240524'|
