@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724271025?label=Updated)
+![Relative date](https://img.shields.io/date/1724274576?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -148,8 +148,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.2|lang-python|Compliance mode enabled, was '1.35.2'|
-|botocore|1.34.133|1.35.2|lang-python|Compliance mode enabled, was '1.35.2'|
+|boto3|1.20.26|1.35.3|lang-python|Compliance mode enabled, was '1.35.3'|
+|botocore|1.34.133|1.35.3|lang-python|Compliance mode enabled, was '1.35.3'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
-|buildah|1.37.0|1.37.1|app-containers|Compliance mode enabled, was '1.37.1'|
+|buildah|1.37.0|1.37.2|app-containers|Compliance mode enabled, was '1.37.2'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
@@ -216,6 +216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chisel|1.9.1|1.10.0|app-network|Compliance mode enabled, was '1.10.0'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
+|chromium|127.0.6533.119|128.0.6613.84|app-web|Compliance mode enabled, was '128.0.6613.84'|
 |cinnamon|5.8.3|6.2.9|desktop-cinnamon|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -226,7 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.2.2|desktop-cinnamon|Compliance mode enabled, was '6.2.2'|
 |cjs|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |clamav|1.3.1|1.4.0|app-admin|Compliance mode enabled, was '1.4.0'|
-|clash-verge-rev|1.7.2|1.7.6|app-network|Compliance mode enabled, was '1.7.6'|
+|clash-verge-rev|1.7.2|1.7.7|app-network|Compliance mode enabled, was '1.7.7'|
 |clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compliance mode enabled, was '37.0_13.0_0_2'|
 |cleo|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
@@ -259,7 +260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containers-common|0.59.2|0.60.2|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.2|app-utils|Compliance mode enabled, was '1.98.2'<br>Possible downgrade from the current version (20170301 -> 1.98.2)|
-|cowsay|3.7.0|3.8.2|app-utils|Compliance mode enabled, was '3.8.2'|
+|cowsay|3.7.0|3.8.3|app-utils|Compliance mode enabled, was '3.8.3'|
 |cpp-utilities|5.20.0|5.26.0|runtime-common|Compliance mode enabled, was '5.26.0'|
 |cppcheck|2.8|2.14.0|app-devel|Compliance mode enabled, was '2.14.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
@@ -301,6 +302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dex|0.9.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
+|dhcpcd|10.0.8|10.0.10|app-network|Compliance mode enabled, was '10.0.10'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20230430|lang-python|Compliance mode enabled, was '20230430'|
@@ -2474,7 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weechat|4.2.2|4.3.6|app-web|Compliance mode enabled, was '4.3.6'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
-|werkzeug|1.0.1|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
+|werkzeug|1.0.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |wesnoth|1.16.10|1.19.2|app-games|Compliance mode enabled, was '1.19.2'|
 |weston|13.0.0|13.0.3|runtime-display|Compliance mode enabled, was '13.0.3'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
