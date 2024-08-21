@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724242539?label=Updated)
+![Relative date](https://img.shields.io/date/1724246138?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -340,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpkg|1.22.7|1.22.11|app-admin|Compliance mode enabled, was '1.22.11'|
 |dragon|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |drkonqi|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
+|dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dtc|1.7.0|1.7.1|app-devel|Compliance mode enabled, was '1.7.1'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
@@ -818,7 +819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kemoticons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kernel-tools|6.10.5|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.5 -> 5.19.17)|
 |kexec-tools|2.0.28|2.0.29|app-admin|Compliance mode enabled, was '2.0.29'|
-|keyring|21.7.0|25.3.0|lang-python|Compliance mode enabled, was '25.3.0'|
 |keysmith|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kfilemetadata|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kfind|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
