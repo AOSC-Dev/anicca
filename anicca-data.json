@@ -1353,7 +1353,7 @@
 ["zutils","1.7","1.13","app-utils",1527856914,["Compliance mode enabled, was '1.13'"]],
 ["iio-sensor-proxy","3.4","3.5","app-utils",1690619454,["Compliance mode enabled, was '3.5'"]],
 ["imwheel","1.0.0pre12","0.9.9","app-utils",1593460044,["Compliance mode enabled, was '0.9.9'","Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)"]],
-["parallel","20191122","20240722","app-utils",1575785811,["Compliance mode enabled, was '20240722'"]],
+["parallel","20191122","20240822","app-utils",1575785811,["Compliance mode enabled, was '20240822'"]],
 ["pciutils","3.9.0","3.13.0","app-utils",1674452224,["Compliance mode enabled, was '3.13.0'"]],
 ["agrep","4.17","4.17.orig","app-utils",1511126779,["Compliance mode enabled, was '4.17.orig'","Possible downgrade from the current version (4.17 -> 4.17.orig)"]],
 ["hddtemp","0.3.52","0.4.3","app-utils",1678950872,["Compliance mode enabled, was '0.4.3'"]],
