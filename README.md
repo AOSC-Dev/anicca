@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724213640?label=Updated)
+![Relative date](https://img.shields.io/date/1724217006?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -861,6 +861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-gallery|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kirigami2|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kiriki|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
+|kitemmodels|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kitemviews|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kiten|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |kitinerary|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
@@ -1391,6 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.0.0|4.2.0|runtime-devices|Compliance mode enabled, was '4.2.0'|
 |microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
 |midori|9.0|11.3.3|app-web|Compliance mode enabled, was '11.3.3'|
+|milou|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.9.0|app-games||
@@ -1863,6 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postgresql|13.16|17|app-database|Compliance mode enabled, was '17'|
 |powerdevil|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |powershell|7.4.3|7.4.4|app-shells|Compliance mode enabled, was '7.4.4'|
+|poxml|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |ppp|2.4.9|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |precis-i18n|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
