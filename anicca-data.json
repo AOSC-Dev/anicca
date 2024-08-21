@@ -22,7 +22,7 @@
 ["boinc","8.0.4","8.0.2","app-scientific",1723071522,["Compliance mode enabled, was '8.0.2'","Possible downgrade from the current version (8.0.4 -> 8.0.2)"]],
 ["normaliz","3.6.3","3.10.3","app-scientific",1535869754,["Compliance mode enabled, was '3.10.3'"]],
 ["maxima","5.46.0","5.47.0","app-scientific",1660378282,["Compliance mode enabled, was '5.47.0'"]],
-["wxmaxima","22.05.0","24.05.0","app-scientific",1660378282,["Compliance mode enabled, was '24.05.0'"]],
+["wxmaxima","22.05.0","24.08.0","app-scientific",1660378282,["Compliance mode enabled, was '24.08.0'"]],
 ["polymake","3.3","4.12","app-scientific",1551335260,["Compliance mode enabled, was '4.12'"]],
 ["singular","4.1.1","2024.06.03","app-scientific",1531831895,["Compliance mode enabled, was '2024.06.03'"]],
 ["stellarsolver","2.5","2.6","app-scientific",1706625158,["Compliance mode enabled, was '2.6'"]],
