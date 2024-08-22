@@ -2441,7 +2441,7 @@
 ["apache-maven","3.9.8","3.9.9","lang-java",1718629776,["Compliance mode enabled, was '3.9.9'"]],
 ["openjfx-11","11.0.20+1","11.0.18","lang-java",1697240554,["Compliance mode enabled, was '11.0.18'","Possible downgrade from the current version (11.0.20+1 -> 11.0.18)"]],
 ["ruby-native-package-installer","1.0.9","1.1.9","lang-ruby",1577021892,["Compliance mode enabled, was '1.1.9'"]],
-["rexml","3.2.5","3.3.5","lang-ruby",1647512216,["Compliance mode enabled, was '3.3.5'"]],
+["rexml","3.2.5","3.3.6","lang-ruby",1647512216,["Compliance mode enabled, was '3.3.6'"]],
 ["ruby-ffi","1.10.0","1.17.0","lang-ruby",1551289460,["Compliance mode enabled, was '1.17.0'"]],
 ["ruby-pkg-config","1.4.4","1.5.6","lang-ruby",1701374600,["Compliance mode enabled, was '1.5.6'"]],
 ["ruby-gettext","3.2.9","3.4.9","lang-ruby",1521950906,["Compliance mode enabled, was '3.4.9'"]],
