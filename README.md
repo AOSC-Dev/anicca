@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724281872?label=Updated)
+![Relative date](https://img.shields.io/date/1724286981?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -398,7 +398,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.1|4.1.7|app-multimedia|Compliance mode enabled, was '4.1.7'|
 |feeluown-bilibili|0.3.3|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
-|feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
 |ffmpeg|4.4.4|7.0.2|app-multimedia|Compliance mode enabled, was '7.0.2'|
@@ -451,6 +450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fvwm|2.6.9|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
+|fwupd|1.9.23|1.9.24|app-admin|Compliance mode enabled, was '1.9.24'|
 |fzf|0.54.1|0.54.3|app-utils|Compliance mode enabled, was '0.54.3'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
@@ -2448,7 +2448,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
 |volk-meta-loader|1.3.283.0|1.3.290.0|runtime-display|Compliance mode enabled, was '1.3.290.0'|
 |volk-meta-loader+32|1.3.283.0|1.3.290.0|runtime-optenv32|Compliance mode enabled, was '1.3.290.0'|
-|vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
