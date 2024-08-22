@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724286981?label=Updated)
+![Relative date](https://img.shields.io/date/1724292211?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -398,6 +398,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.1|4.1.7|app-multimedia|Compliance mode enabled, was '4.1.7'|
 |feeluown-bilibili|0.3.3|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
+|feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
 |ffmpeg|4.4.4|7.0.2|app-multimedia|Compliance mode enabled, was '7.0.2'|
@@ -1851,6 +1852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.2.1|5.2.2|app-containers||
 |poedit|3.4.1|3.4.4-oss|app-i18n|Compliance mode enabled, was '3.4.4-oss'|
 |poetry|1.6.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
 |poetry-core|1.7.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
@@ -1969,7 +1971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pytest|8.2.2|8.3.2|lang-python|Compliance mode enabled, was '8.3.2'|
 |python-2+32|999|2.7.18|runtime-optenv32|Compliance mode enabled, was '2.7.18'<br>Possible downgrade from the current version (999 -> 2.7.18)|
 |python-3|3.10.13|3.12.5|lang-python|Compliance mode enabled, was '3.12.5'|
-|python-augeas|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
+|python-augeas|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-build|0.8.0|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |python-cloudflare|2.8.15|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
@@ -2448,6 +2450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
 |volk-meta-loader|1.3.283.0|1.3.290.0|runtime-display|Compliance mode enabled, was '1.3.290.0'|
 |volk-meta-loader+32|1.3.283.0|1.3.290.0|runtime-optenv32|Compliance mode enabled, was '1.3.290.0'|
+|vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
