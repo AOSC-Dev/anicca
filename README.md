@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724292211?label=Updated)
+![Relative date](https://img.shields.io/date/1724294379?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -76,7 +76,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.31.0|app-devel|Compliance mode enabled, was '1.31.0'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
-|aspnetcore-runtime-8.0|8.0.6|8.0.8|app-devel|Compliance mode enabled, was '8.0.8'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
 |assimp|5.4.0|5.4.2|runtime-multimedia|Compliance mode enabled, was '5.4.2'|
 |ast-grep|0.26.1|0.26.2|app-devel|Compliance mode enabled, was '0.26.2'|
@@ -308,6 +307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |diff-match-patch|20200713|20230430|lang-python|Compliance mode enabled, was '20230430'|
 |digikam|7.9.0|8.4.0|desktop-kde|Compliance mode enabled, was '8.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
 |distorm|3.5.1|3.5.2b|app-devel|Compliance mode enabled, was '3.5.2b'|
@@ -322,17 +322,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-plugins|23.08.5|24.05.2|desktop-kde|Compliance mode enabled, was '24.05.2'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
-|dotnet-host|8.0.6|8.0.8|lang-dotnet|Compliance mode enabled, was '8.0.8'|
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
 |dotnet-hostfxr-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet|Compliance mode enabled, was '2.1.30'|
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet|Compliance mode enabled, was '3.1.32'|
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
 |dotnet-runtime-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
-|dotnet-runtime-8.0|8.0.6|8.0.8|lang-dotnet|Compliance mode enabled, was '8.0.8'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-sdk-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
-|dotnet-sdk-8.0|8.0.302|8.0.400|app-devel|Compliance mode enabled, was '8.0.400'|
+|dotnet-sdk-8.0|8.0.401|8.0.400|app-devel|Compliance mode enabled, was '8.0.400'<br>Possible downgrade from the current version (8.0.401 -> 8.0.400)|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-templates-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
@@ -2387,7 +2385,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.17.0|runtime-scientific|Compliance mode enabled, was '1.17.0'|
-|udiskie|2.2.0|2.5.3|app-utils|Compliance mode enabled, was '2.5.3'|
 |udns|0.5|0.6|app-network|Compliance mode enabled, was '0.6'|
 |ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
 |uget|2.2.3<br>+1|2.2.2|app-web|Compliance mode enabled, was '2.2.2'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
