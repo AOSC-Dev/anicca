@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724422047?label=Updated)
+![Relative date](https://img.shields.io/date/1724425935?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1337,7 +1337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lucene++|3.0.8|3.0.9|runtime-common|Compliance mode enabled, was '3.0.9'|
 |lunzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
-|lvm2|2.03.14|2.03.25|app-admin|Compliance mode enabled, was '2.03.25'|
+|lvm2|2.03.14|2.03.26|app-admin|Compliance mode enabled, was '2.03.26'|
 |lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
 |lxgwcleargothic-font|0.300.4|0.328|desktop-fonts|Compliance mode enabled, was '0.328'|
 |lxgwnewcleargothic-font|1.124|1.200|desktop-fonts|Compliance mode enabled, was '1.200'|
@@ -2596,5 +2596,5 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |zvbi|0.2.35|0.2.42|runtime-multimedia|Compliance mode enabled, was '0.2.42'|
 |zvm|0.7.4|6.0.0|lang-ziglang|Compliance mode enabled, was '6.0.0'|
-|zxtune|5053|5071|app-multimedia|Compliance mode enabled, was '5071'|
+|zxtune|5053|5072|app-multimedia|Compliance mode enabled, was '5072'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
