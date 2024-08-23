@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724436700?label=Updated)
+![Relative date](https://img.shields.io/date/1724439991?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1680,7 +1680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-locale|1.26|1.43|lang-perl|Compliance mode enabled, was '1.43'|
 |perl-dbd-mysql|4.052|5.008|lang-perl|Compliance mode enabled, was '5.008'|
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
-|perl-dbi|1.642|1.643|lang-perl|Compliance mode enabled, was '1.643'|
+|perl-dbi|1.642|1.644|lang-perl|Compliance mode enabled, was '1.644'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
@@ -1917,7 +1917,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pybind11|2.11.1|2.13.5|lang-python|Compliance mode enabled, was '2.13.5'|
 |pycairo|1.18.2|1.26.1|lang-python|Compliance mode enabled, was '1.26.1'|
 |pycodestyle|2.7.0|2.12.1|lang-python|Compliance mode enabled, was '2.12.1'|
-|pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
 |pycryptodome|3.7.3|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptodomex|3.9.9|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
