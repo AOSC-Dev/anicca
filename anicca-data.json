@@ -1047,7 +1047,7 @@
 ["unpaper","20190211","7.0.0","app-doc",1570597052,["Compliance mode enabled, was '7.0.0'","Possible downgrade from the current version (20190211 -> 7.0.0)"]],
 ["xalan-c","1.12","1.12.0","app-doc",1721223235,["Compliance mode enabled, was '1.12.0'"]],
 ["lyx","2.4.0","2.4.1","app-doc",1718013264,["Compliance mode enabled, was '2.4.1'"]],
-["calibre","7.10.0","7.16.0","app-doc",1721223235,["Compliance mode enabled, was '7.16.0'"]],
+["calibre","7.10.0","7.17.0","app-doc",1721223235,["Compliance mode enabled, was '7.17.0'"]],
 ["ghostscript","9.54.0","10.03.1","app-doc",1631166650,["Compliance mode enabled, was '10.03.1'"]],
 ["sphinx-rtd-theme","1.0.0","2.0.0","app-doc",1637877096,["Compliance mode enabled, was '2.0.0'"]],
 ["rarian","0.8.1","0.8.5","app-doc",1678950872,["Compliance mode enabled, was '0.8.5'"]],
