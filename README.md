@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724443870?label=Updated)
+![Relative date](https://img.shields.io/date/1724447168?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -147,8 +147,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.4|lang-python|Compliance mode enabled, was '1.35.4'|
-|botocore|1.34.133|1.35.4|lang-python|Compliance mode enabled, was '1.35.4'|
+|boto3|1.20.26|1.35.5|lang-python|Compliance mode enabled, was '1.35.5'|
+|botocore|1.34.133|1.35.5|lang-python|Compliance mode enabled, was '1.35.5'|
 |bottle|0.12.18|0.12.25|lang-python|Compliance mode enabled, was '0.12.25'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1810,7 +1810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |picard|2.12|2.12.1|app-multimedia|Compliance mode enabled, was '2.12.1'|
 |picmi|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |picocom|3.1|2024.07|app-utils|Compliance mode enabled, was '2024-07'|
-|pikepdf|8.15.1|9.1.2|app-doc|Compliance mode enabled, was '9.1.2'|
+|pikepdf|8.15.1|9.2.0|app-doc|Compliance mode enabled, was '9.2.0'|
 |pim-data-exporter|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |pim-sieve-editor|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |pimcommon|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
@@ -2557,6 +2557,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|393|app-utils|Compliance mode enabled, was '393'|
 |xviewer|3.0.2|3.4.6|app-imaging|Compliance mode enabled, was '3.4.6'|
+|xwayland|24.1.1|24.1.2|runtime-display|Compliance mode enabled, was '24.1.2'|
 |xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
 |xz+32|5.4.1|5.6.2|runtime-optenv32|Compliance mode enabled, was '5.6.2'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
