@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724447168?label=Updated)
+![Relative date](https://img.shields.io/date/1724450915?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -474,8 +474,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geary|44.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gedit|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gedit-plugins|42.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|genryu-font|1.501|2.000|desktop-fonts|Compliance mode enabled, was '2.000'|
-|genyo-font|1.501|2.000|desktop-fonts|Compliance mode enabled, was '2.000'|
+|genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
+|genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
+|genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.7.1|runtime-gis|Compliance mode enabled, was '2.7.1'|
 |geos|3.7.3|3.12.2|runtime-gis|Compliance mode enabled, was '3.12.2'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
@@ -2279,6 +2280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
+|svt-av1|2.2.0|2.2.1|runtime-multimedia|Compliance mode enabled, was '2.2.1'|
 |sweeper|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
