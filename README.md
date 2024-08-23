@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724425935?label=Updated)
+![Relative date](https://img.shields.io/date/1724429612?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -165,7 +165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.3|app-utils|Compliance mode enabled, was '0.33.3'|
-|c-ares|1.28.1|1.33.0|runtime-network|Compliance mode enabled, was '1.33.0'|
+|c-ares|1.28.1|1.33.1|runtime-network|Compliance mode enabled, was '1.33.1'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
 |cachecontrol|0.12.6|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
@@ -235,14 +235,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|1.84|2.02|app-utils|Compliance mode enabled, was '2.02'|
-|cloudflared|2024.7.1|2024.8.2|app-network|Compliance mode enabled, was '2024.8.2'|
+|cloudflared|2024.7.1|2024.8.3|app-network|Compliance mode enabled, was '2024.8.3'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |cmake|3.30.1|3.30.2|app-devel|Compliance mode enabled, was '3.30.2'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|286.1|323|app-admin|Compliance mode enabled, was '323'|
 |cockpit-machines|284.1|318|app-admin|Compliance mode enabled, was '318'|
-|cockpit-podman|63|92|app-admin|Compliance mode enabled, was '92'|
+|cockpit-podman|63|93|app-admin|Compliance mode enabled, was '93'|
 |code-server|4.91.1|4.92.2|app-utils|Compliance mode enabled, was '4.92.2'|
 |coin|4.0.0<br>+git20220828|4.0.2|runtime-imaging|Compliance mode enabled, was '4.0.2'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
