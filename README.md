@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724382716?label=Updated)
+![Relative date](https://img.shields.io/date/1724386325?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1272,6 +1272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpe|1.12.2|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.77|lang-perl|Compliance mode enabled, was '6.77'|
+|libx86|1.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
 |libx86emu|3.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
 |libxau+32|1.0.9|1.0.11|runtime-optenv32|Compliance mode enabled, was '1.0.11'|
 |libxcb|1.16.1|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
@@ -1648,6 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-build|1.92|2.83|lang-perl|Compliance mode enabled, was '2.83'|
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
+|perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-app-cpanminus|1.7044|1.7047|lang-perl|Compliance mode enabled, was '1.7047'|
 |perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
 |perl-authen-sasl|2.1401|2.1700|lang-perl|Compliance mode enabled, was '2.1700'|
@@ -2295,6 +2297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|runtime-multimedia|Compliance mode enabled, was '2.0.1'|
 |taglib+32|1.11|2.0.1|runtime-optenv32|Compliance mode enabled, was '2.0.1'|
 |tagparser|11.5.1|12.2.0|runtime-multimedia|Compliance mode enabled, was '12.2.0'|
+|tailscale|1.70.0|1.72.1|app-network|Compliance mode enabled, was '1.72.1'|
 |taisei|1.3.2|1.4.1|app-games|Compliance mode enabled, was '1.4.1'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.3.4|2.4.2|runtime-common|Compliance mode enabled, was '2.4.2'|
@@ -2309,7 +2312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdb|1.4.10|1.4.12|app-database|Compliance mode enabled, was '1.4.12'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.2.3|5.4.0|app-web|Compliance mode enabled, was '5.4.0'|
+|telegram-desktop|5.2.3|5.4.1|app-web|Compliance mode enabled, was '5.4.1'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
