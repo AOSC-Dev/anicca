@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724400874?label=Updated)
+![Relative date](https://img.shields.io/date/1724404281?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -390,6 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-moegirl|20240709|20240809|app-i18n|Compliance mode enabled, was '20240809'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
+|fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
 |feedbackd|0.2.1|0.4.1|desktop-gnome|Compliance mode enabled, was '0.4.1'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.1|4.1.7|app-multimedia|Compliance mode enabled, was '4.1.7'|
@@ -1870,6 +1871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |postgresql|13.16|17|app-database|Compliance mode enabled, was '17'|
+|powerdevil|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |powershell|7.4.3|7.4.5|app-shells|Compliance mode enabled, was '7.4.5'|
 |poxml|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ppp|2.4.9|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
@@ -2565,6 +2567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|
+|you-get|0.4.1718|0.4.1730|app-multimedia|Compliance mode enabled, was '0.4.1730'|
 |ytmusicapi|1.7.2|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.6.0|app-devices|Compliance mode enabled, was '2.6.0'|
@@ -2576,6 +2579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
+|zed|0.148.1|0.149.5|app-editors|Compliance mode enabled, was '0.149.5'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.132.2|lang-python|Compliance mode enabled, was '0.132.2'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
