@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724407901?label=Updated)
+![Relative date](https://img.shields.io/date/1724411170?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -105,7 +105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |automat|20.2.0|24.8.1|lang-python|Compliance mode enabled, was '24.8.1'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
 |avr-binutils|2.37|2.43.1|app-devel|Compliance mode enabled, was '2.43.1'|
-|avr-gcc|10.3.1<br>+git20210510|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|7.3|app-devel|Compliance mode enabled, was '7.3'|
 |ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop|Compliance mode enabled, was '24.5.0'|
@@ -1836,6 +1835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-settings|22.06|24.02.0|desktop-kde|Compliance mode enabled, was '24.02.0'|
 |plasma-systemmonitor|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |plasma-thunderbolt|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
+|plasma-vault|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |plasma-wayland-protocols|1.10.0|1.13.0|desktop-kde|Compliance mode enabled, was '1.13.0'|
 |plasma-welcome|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |plasma-workspace|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
