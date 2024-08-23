@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724439991?label=Updated)
+![Relative date](https://img.shields.io/date/1724443870?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -349,7 +349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |editorconfig-core-c|0.12.6|0.12.9|runtime-editors|Compliance mode enabled, was '0.12.9'|
-|egl-wayland|1.1.14|1.1.15|runtime-display|Compliance mode enabled, was '1.1.15'|
+|egl-wayland|1.1.14|1.1.16|runtime-display|Compliance mode enabled, was '1.1.16'|
 |elfutils+32|0.166|0.191|runtime-optenv32|Compliance mode enabled, was '0.191'|
 |elisa|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |embree|4.3.1|4.3.3|app-imaging|Compliance mode enabled, was '4.3.3'|
@@ -1917,6 +1917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pybind11|2.11.1|2.13.5|lang-python|Compliance mode enabled, was '2.13.5'|
 |pycairo|1.18.2|1.26.1|lang-python|Compliance mode enabled, was '1.26.1'|
 |pycodestyle|2.7.0|2.12.1|lang-python|Compliance mode enabled, was '2.12.1'|
+|pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
 |pycryptodome|3.7.3|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptodomex|3.9.9|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
@@ -2556,7 +2557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|393|app-utils|Compliance mode enabled, was '393'|
 |xviewer|3.0.2|3.4.6|app-imaging|Compliance mode enabled, was '3.4.6'|
-|xwayland|24.1.1|24.1.2|runtime-display|Compliance mode enabled, was '24.1.2'|
 |xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
 |xz+32|5.4.1|5.6.2|runtime-optenv32|Compliance mode enabled, was '5.6.2'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
