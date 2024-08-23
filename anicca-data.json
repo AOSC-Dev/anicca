@@ -1880,7 +1880,7 @@
 ["vasm","1.9f","1.9.f","app-devel",1710150622,["Compliance mode enabled, was '1.9.f'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
 ["bcc","0.30.0","0.31.0","app-devel",1715740238,["Compliance mode enabled, was '0.31.0'"]],
-["ctags","20191203","6.1.20240811.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20240811.0'","Possible downgrade from the current version (20191203 -> 6.1.20240811.0)"]],
+["ctags","20191203","6.1.20240818.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20240818.0'","Possible downgrade from the current version (20191203 -> 6.1.20240818.0)"]],
 ["sunxi-tools","1.4.2+git20220729","1.4.2","app-devel",1669531930,["Compliance mode enabled, was '1.4.2'"]],
 ["extra-cmake-modules","5.115.0","6.5.0","app-devel",1714377107,["Compliance mode enabled, was '6.5.0'"]],
 ["capstone","5.0.1","5.0","app-devel",1712501970,["Compliance mode enabled, was '5.0'","Possible downgrade from the current version (5.0.1 -> 5.0)"]],
