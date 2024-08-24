@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724526352?label=Updated)
+![Relative date](https://img.shields.io/date/1724530029?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2278,11 +2278,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
 |suitesparse|7.6.1|7.8.1|runtime-scientific|Compliance mode enabled, was '7.8.1'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.823.20306|app-multimedia|Compliance mode enabled, was '2024.823.20306'|
+|sunshine|0.23.0|2024.823.131748|app-multimedia|Compliance mode enabled, was '2024.823.131748'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |svt-av1|2.2.0|2.2.1|runtime-multimedia|Compliance mode enabled, was '2.2.1'|
+|swaylock|1.7.2|1.8.0|app-utils|Compliance mode enabled, was '1.8.0'|
 |sweeper|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
@@ -2577,7 +2578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|
 |you-get|0.4.1718|0.4.1730|app-multimedia|Compliance mode enabled, was '0.4.1730'|
-|ytmusicapi|1.7.2|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
+|ytmusicapi|1.7.2|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.6.0|app-devices|Compliance mode enabled, was '2.6.0'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
