@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724459655?label=Updated)
+![Relative date](https://img.shields.io/date/1724464874?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1539,7 +1539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.16|desktop-kde|Compliance mode enabled, was '0.26.16'|
 |okular|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.6.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.7.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7620-240821-6161d11|app-games|Compliance mode enabled, was '1.91.0.7620-240821-6161d11'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
@@ -2296,7 +2296,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysstat|12.7.5|12.7.6|app-utils|Compliance mode enabled, was '12.7.6'|
 |system-config-printer|1.5.17|1.5.18|app-admin|Compliance mode enabled, was '1.5.18'|
 |systemd|256.4|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (256.4 -> 256)|
-|systemd-boot-friend|0.27.1|0.27.2|app-admin|Compliance mode enabled, was '0.27.2'|
 |systemsettings|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
