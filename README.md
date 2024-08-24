@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724533549?label=Updated)
+![Relative date](https://img.shields.io/date/1724537152?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -139,6 +139,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |blinker|1.4|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |bluedevil|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
+|blueprint-compiler|0.12.0|0.14.0|app-devel|Compliance mode enabled, was '0.14.0'|
 |bluez-alsa|4.1.1|4.3.0|app-multimedia|Compliance mode enabled, was '4.3.0'|
 |bluez-qt|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |boinc|8.0.4|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'<br>Possible downgrade from the current version (8.0.4 -> 8.0.2)|
@@ -2292,7 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
 |syndication|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
-|synfig|1.5.1|1.5.2|app-creativity|Compliance mode enabled, was '1.5.2'|
+|synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -2302,8 +2303,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemsettings|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
-|taglib|1.11.1|2.0.1|runtime-multimedia|Compliance mode enabled, was '2.0.1'|
-|taglib+32|1.11|2.0.1|runtime-optenv32|Compliance mode enabled, was '2.0.1'|
+|taglib|1.11.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
+|taglib+32|1.11|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.2.0|runtime-multimedia|Compliance mode enabled, was '12.2.0'|
 |tailscale|1.70.0|1.72.1|app-network|Compliance mode enabled, was '1.72.1'|
 |taisei|1.3.2|1.4.1|app-games|Compliance mode enabled, was '1.4.1'|
