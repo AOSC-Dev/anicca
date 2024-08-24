@@ -1311,6 +1311,7 @@
 ["virglrenderer","0.10.4","1.0.1","app-virtualization",1693486148,["Compliance mode enabled, was '1.0.1'"]],
 ["libvirt","10.5.0","10.6.0","app-virtualization",1722229097,["Compliance mode enabled, was '10.6.0'"]],
 ["qemu","9.0.1","9.0.2","app-virtualization",1719369254,["Compliance mode enabled, was '9.0.2'"]],
+["libgovirt","0.3.8","0.3.9","runtime-virtualization",1619939227,["Compliance mode enabled, was '0.3.9'"]],
 ["libguestfs","1.52.0","1.53.6","runtime-virtualization",1715073538,["Compliance mode enabled, was '1.53.6'"]],
 ["libvirt-python","10.5.0","10.6.0","runtime-virtualization",1722229372,["Compliance mode enabled, was '10.6.0'"]],
 ["proj","9.2.1","9.4.1","app-gis",1703753294,["Compliance mode enabled, was '9.4.1'"]],
