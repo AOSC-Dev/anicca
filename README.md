@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724483110?label=Updated)
+![Relative date](https://img.shields.io/date/1724487146?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -960,7 +960,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kspaceduel|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksquares|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksshaskpass|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
-|kstars|3.6.7|3.7.0|desktop-kde|Compliance mode enabled, was '3.7.0'|
+|kstars|3.6.7|3.7.2|desktop-kde|Compliance mode enabled, was '3.7.2'|
 |ksudoku|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksystemlog|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksystemstats|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -1539,7 +1539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.16|desktop-kde|Compliance mode enabled, was '0.26.16'|
 |okular|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.7.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.7.1|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7620-240821-6161d11|app-games|Compliance mode enabled, was '1.91.0.7620-240821-6161d11'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
@@ -1782,7 +1782,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readkey|2.37|2.38|lang-perl|Compliance mode enabled, was '2.38'|
 |perl-term-readline-gnu|1.36|1.46|lang-perl|Compliance mode enabled, was '1.46'|
 |perl-test-deep|1.130|1.204|lang-perl|Compliance mode enabled, was '1.204'|
-|perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-text-csv|1.99|2.04|lang-perl|Compliance mode enabled, was '2.04'|
 |perl-text-csv-xs|1.38|1.56|lang-perl|Compliance mode enabled, was '1.56'|
