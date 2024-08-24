@@ -2425,7 +2425,7 @@
 ["ipy","0.83","1.01","lang-python",1469779218,["Compliance mode enabled, was '1.01'"]],
 ["flake8","7.0.0","7.1.1","lang-python",1718100850,["Compliance mode enabled, was '7.1.1'"]],
 ["openpyxl","2.6.0","3.1.5","lang-python",1551164090,["Compliance mode enabled, was '3.1.5'"]],
-["pipx","1.6.0","1.7.0","lang-python",1723258058,["Compliance mode enabled, was '1.7.0'"]],
+["pipx","1.6.0","1.7.1","lang-python",1723258058,["Compliance mode enabled, was '1.7.1'"]],
 ["jedi","0.18.1","0.19.1","lang-python",1626504939,["Compliance mode enabled, was '0.19.1'"]],
 ["xcffib","0.7.0","1.5.0","lang-python",1551288643,["Compliance mode enabled, was '1.5.0'"]],
 ["rsa","4.0","4.9","lang-python",1549987770,["Compliance mode enabled, was '4.9'"]],
