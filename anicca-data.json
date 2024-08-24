@@ -1416,7 +1416,7 @@
 ["goverlay","1.1.1","1.2","app-utils",1716460706,["Compliance mode enabled, was '1.2'"]],
 ["pv","1.6.20","1.8.13","app-utils",1674452224,["Compliance mode enabled, was '1.8.13'"]],
 ["sysstat","12.7.5","12.7.6","app-utils",1712551160,["Compliance mode enabled, was '12.7.6'"]],
-["kitty","0.35.2","0.36.0","app-utils",1723474512,["Compliance mode enabled, was '0.36.0'"]],
+["kitty","0.35.2","0.36.1","app-utils",1723474512,["Compliance mode enabled, was '0.36.1'"]],
 ["zbar","0.23.90","0.23.93","app-utils",1551388660,["Compliance mode enabled, was '0.23.93'"]],
 ["aosc-media-writer","0.3.4","5.0.9","app-utils",1712408945,["Compliance mode enabled, was '5.0.9'"]],
 ["cowsay","3.7.0","3.8.3","app-utils",1718471470,["Compliance mode enabled, was '3.8.3'"]],
