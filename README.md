@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724487146?label=Updated)
+![Relative date](https://img.shields.io/date/1724490343?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1495,10 +1495,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.7.1|app-utils|Compliance mode enabled, was '2.7.1'|
 |nftables|1.0.9|1.1.0|app-network|Compliance mode enabled, was '1.1.0'|
 |nghttp2|1.58.0|1.62.1|runtime-web|Compliance mode enabled, was '1.62.1'|
-|nghttp3|1.3.0|1.4.0|runtime-web|Compliance mode enabled, was '1.4.0'|
+|nghttp3|1.3.0|1.5.0|runtime-web|Compliance mode enabled, was '1.5.0'|
 |nginx|1.27.0|1.27.1|app-web|Compliance mode enabled, was '1.27.1'|
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
-|ngtcp2|1.5.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
+|ngtcp2|1.5.0|1.7.0|runtime-web|Compliance mode enabled, was '1.7.0'|
 |nlopt|2.7.1|2.8.0|runtime-scientific|Compliance mode enabled, was '2.8.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nodejs|20.16.0|20.17.0|lang-js|Compliance mode enabled, was '20.17.0'|
@@ -1782,6 +1782,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readkey|2.37|2.38|lang-perl|Compliance mode enabled, was '2.38'|
 |perl-term-readline-gnu|1.36|1.46|lang-perl|Compliance mode enabled, was '1.46'|
 |perl-test-deep|1.130|1.204|lang-perl|Compliance mode enabled, was '1.204'|
+|perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-text-csv|1.99|2.04|lang-perl|Compliance mode enabled, was '2.04'|
 |perl-text-csv-xs|1.38|1.56|lang-perl|Compliance mode enabled, was '1.56'|
