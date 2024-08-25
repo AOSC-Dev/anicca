@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724576818?label=Updated)
+![Relative date](https://img.shields.io/date/1724580617?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -379,7 +379,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.28|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
-|faad2|2.10.0|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
 |faad2+32|2.10.0|2.11.1|runtime-optenv32|Compliance mode enabled, was '2.11.1'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
 |fakeroot|1.35.1|1.36|app-utils|Compliance mode enabled, was '1.36'|
@@ -701,7 +700,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |iptables|1.8.8|1.8.10|app-network|Compliance mode enabled, was '1.8.10'|
 |iptraf-ng|1.1.4|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
-|ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
 |ipython|7.28.0|8.26.0|lang-python|Compliance mode enabled, was '8.26.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.16.0|runtime-data|Compliance mode enabled, was '4.16.0'|
@@ -792,7 +790,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-gtk-config|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kde-inotify-survey|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdebugsettings|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|kdeclarative|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kdeconnect|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdecoration|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kded|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -2429,7 +2426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
 |util-linux+32|2.29.2|2.40.2|runtime-optenv32|Compliance mode enabled, was '2.40.2'|
 |util-macros+32|999|1.20.1|runtime-optenv32|Compliance mode enabled, was '1.20.1'<br>Possible downgrade from the current version (999 -> 1.20.1)|
-|v2ray|5.16.1|5.17.1|app-network|Compliance mode enabled, was '5.17.1'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |vala|0.56.16|0.56.17|app-devel|Compliance mode enabled, was '0.56.17'|
