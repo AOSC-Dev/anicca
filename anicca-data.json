@@ -1991,6 +1991,7 @@
 ["apparmor","3.0.8","4.0.2","app-admin",1677834439,["Compliance mode enabled, was '4.0.2'"]],
 ["oma","1.7.1","1.12.13","app-admin",1724486848,["Compliance mode enabled, was '1.12.13'"]],
 ["cockpit-podman","63","93","app-admin",1678351353,["Compliance mode enabled, was '93'"]],
+["coreboot-utils","24.05","24.08","app-admin",1717411724,["Compliance mode enabled, was '24.08'"]],
 ["jetring","0.29","0.31","app-admin",1600920748,["Compliance mode enabled, was '0.31'"]],
 ["mtd-utils","2.1.5","2.2.0","app-admin",1673935786,["Compliance mode enabled, was '2.2.0'"]],
 ["rdma-core","51.0","53.0","app-admin",1716563534,["Compliance mode enabled, was '53.0'"]],
