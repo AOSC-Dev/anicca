@@ -2301,7 +2301,7 @@
 ["bottle","0.12.18","0.12.25","lang-python",1581796620,["Compliance mode enabled, was '0.12.25'"]],
 ["trove-classifiers","2024.1.31","2024.7.2","lang-python",1708256695,["Compliance mode enabled, was '2024.7.2'"]],
 ["sqlalchemy","1.2.18","2.0.32","lang-python",1562660778,["Compliance mode enabled, was '2.0.32'"]],
-["pyparsing","2.4.7","3.1.3","lang-python",1523459971,["Compliance mode enabled, was '3.1.3'"]],
+["pyparsing","2.4.7","3.1.4","lang-python",1523459971,["Compliance mode enabled, was '3.1.4'"]],
 ["pypdf","4.0.1","4.3.1","lang-python",1707299111,["Compliance mode enabled, was '4.3.1'"]],
 ["python-djvulibre","0.8.6","0.8.8","lang-python",1620461828,["Compliance mode enabled, was '0.8.8'"]],
 ["cachetools","3.1.0","5.5.0","lang-python",1549988067,["Compliance mode enabled, was '5.5.0'"]],
