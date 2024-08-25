@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724619935?label=Updated)
+![Relative date](https://img.shields.io/date/1724623675?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1415,7 +1415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3.2.1|app-web|Compliance mode enabled, was '3-2-1'|
-|mlt|7.22.0|7.24.0|runtime-multimedia|Compliance mode enabled, was '7.24.0'|
+|mlt|7.22.0|7.26.0|runtime-multimedia|Compliance mode enabled, was '7.26.0'|
 |mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
 |mock|2.0.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
 |modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
