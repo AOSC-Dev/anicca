@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724602071?label=Updated)
+![Relative date](https://img.shields.io/date/1724605533?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -780,7 +780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcontacts|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcoreaddons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
-|kcptun|20240107|20240807|app-network|Compliance mode enabled, was '20240807'|
+|kcptun|20240107|20240825|app-network|Compliance mode enabled, was '20240825'|
 |kcrash|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcron|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdav|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -908,7 +908,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifications|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |knotifyconfig|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kodi|20.3|21.1|app-multimedia|Compliance mode enabled, was '21.1'|
-|kodi-pvr-iptvsimple|19.2.2|22.1.0-piers|app-multimedia|Compliance mode enabled, was '22.1.0-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.1.1-piers|app-multimedia|Compliance mode enabled, was '22.1.1-Piers'|
 |koko|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kolf|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kollision|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
