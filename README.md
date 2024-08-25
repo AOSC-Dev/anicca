@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724546320?label=Updated)
+![Relative date](https://img.shields.io/date/1724551677?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -655,7 +655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.111.1|lang-python|Compliance mode enabled, was '6.111.1'|
+|hypothesis-python|6.97.4|6.111.2|lang-python|Compliance mode enabled, was '6.111.2'|
 |hysteria|2.5.0|2.5.1|app-network|Compliance mode enabled, was '2.5.1'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
@@ -1458,8 +1458,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20240817|runtime-common|Compliance mode enabled, was '6.5-20240817'|
-|ncurses+32|6.4|6.5+20240817|runtime-optenv32|Compliance mode enabled, was '6.5-20240817'|
+|ncurses|6.4|6.5+20240824|runtime-common|Compliance mode enabled, was '6.5-20240824'|
+|ncurses+32|6.4|6.5+20240824|runtime-optenv32|Compliance mode enabled, was '6.5-20240824'|
 |ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
