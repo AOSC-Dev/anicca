@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724667161?label=Updated)
+![Relative date](https://img.shields.io/date/1724670402?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -21,7 +21,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
-|aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compliance mode enabled, was '3.2.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
@@ -2283,6 +2282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |svt-av1|2.2.0|2.2.1|runtime-multimedia|Compliance mode enabled, was '2.2.1'|
+|sway-audio-idle-inhibit|0.1.1<br>+git20240820|0.1.1|app-utils|Compliance mode enabled, was '0.1.1'|
 |sweeper|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
@@ -2542,6 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-notifyd|0.9.4|0.9.6|desktop-xfce|Compliance mode enabled, was '0.9.6'|
 |xfce4-screenshooter|1.10.6|1.11.1|desktop-xfce|Compliance mode enabled, was '1.11.1'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
+|xfsprogs|6.9.0|6.10.0|app-admin|Compliance mode enabled, was '6.10.0'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
