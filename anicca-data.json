@@ -331,7 +331,6 @@
 ["gpac","2.2.1","2.4.0","app-multimedia",1707279983,["Compliance mode enabled, was '2.4.0'"]],
 ["gwc","0.21+19","0.22+06","app-multimedia",1499677281,["Compliance mode enabled, was '0.22-06'"]],
 ["xine-ui","0.99.12","0.99.14","app-multimedia",1582665366,["Compliance mode enabled, was '0.99.14'"]],
-["you-get","0.4.1718","0.4.1730","app-multimedia",1721313108,["Compliance mode enabled, was '0.4.1730'"]],
 ["mjpegtools","2.1.0","2.2.1","app-multimedia",1678950872,["Compliance mode enabled, was '2.2.1'"]],
 ["yesplaymusic","0.4.8+2","0.2.1","app-multimedia",1719324646,["Compliance mode enabled, was '0.2.1'","Possible downgrade from the current version (0.4.8+2 -> 0.2.1)"]],
 ["qsynth","0.5.6","1.0.0","app-multimedia",1549919945,["Compliance mode enabled, was '1.0.0'"]],
