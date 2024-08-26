@@ -1954,7 +1954,7 @@
 ["xsd","4.1.0~alpha11","4.0.0","app-devel",1614161812,["Compliance mode enabled, was '4.0.0'","Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
 ["php","8.3.8","8.3.10","app-devel",1721223235,["Compliance mode enabled, was '8.3.10'"]],
-["ast-grep","0.26.1","0.26.2","app-devel",1723454554,["Compliance mode enabled, was '0.26.2'"]],
+["ast-grep","0.26.1","0.26.3","app-devel",1723454554,["Compliance mode enabled, was '0.26.3'"]],
 ["partclone","0.3.20","0.3.32","app-admin",1660376240,["Compliance mode enabled, was '0.3.32'"]],
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
 ["systemd","256.4","256","app-admin",1722152558,["Compliance mode enabled, was '256'","Possible downgrade from the current version (256.4 -> 256)"]],
