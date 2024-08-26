@@ -2507,7 +2507,7 @@
 ["ufw","0.36","0.36.2","app-network",1550814485,["Compliance mode enabled, was '0.36.2'"]],
 ["xinetd","2.3.15","2.3.15.4","app-network",1678950872,["Compliance mode enabled, was '2.3.15.4'"]],
 ["modemmanager","1.18.12","1.22.0","app-network",1673935875,["Compliance mode enabled, was '1.22.0'"]],
-["xpra","5.0.8","6.1.1","app-network",1714466456,["Compliance mode enabled, was '6.1.1'"]],
+["xpra","5.0.8","6.1.2","app-network",1714466456,["Compliance mode enabled, was '6.1.2'"]],
 ["dante","1.4.2","1.4.3","app-network",1510974704,["Compliance mode enabled, was '1.4.3'"]],
 ["unbound","1.19.2","1.21.0","app-network",1709998421,[]],
 ["imapsync","1.977","2.229","app-network",1591076944,["Compliance mode enabled, was '2.229'"]],
