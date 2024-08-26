@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724706377?label=Updated)
+![Relative date](https://img.shields.io/date/1724710306?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -630,7 +630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |helm|3.15.0|3.15.4|app-containers|Compliance mode enabled, was '3.15.4'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
-|hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |highlight|4.12|4.13|app-devel|Compliance mode enabled, was '4.13'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
@@ -787,7 +786,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-cli-tools|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kde-dev-scripts|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kde-dev-utils|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|kde-gtk-config|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kde-inotify-survey|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdebugsettings|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdeclarative|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
