@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724670402?label=Updated)
+![Relative date](https://img.shields.io/date/1724674617?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -21,6 +21,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
+|aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compliance mode enabled, was '3.2.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
@@ -496,8 +497,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gjs|1.74.0|1.81.2|desktop-gnome|Compliance mode enabled, was '1.81.2'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.1.2.1|app-admin|Compliance mode enabled, was '4.1.2.1'|
-|glib|2.80.0|2.80.4|runtime-common|Compliance mode enabled, was '2.80.4'|
-|glib+32|2.62.6|2.80.4|runtime-optenv32|Compliance mode enabled, was '2.80.4'|
+|glib|2.80.0|2.82.0|runtime-common|Compliance mode enabled, was '2.82.0'|
+|glib+32|2.62.6|2.82.0|runtime-optenv32|Compliance mode enabled, was '2.82.0'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
 |glibc|2.38|2.40|core-libs|Compliance mode enabled, was '2.40'|
 |glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
@@ -1479,7 +1480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle|3.7.2|3.10|runtime-cryptography|Compliance mode enabled, was '3.10'|
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
-|networkmanager|1.40.6|1.48.8|app-network|Compliance mode enabled, was '1.48.8'|
+|networkmanager|1.40.6|1.48.10|app-network|Compliance mode enabled, was '1.48.10'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-l2tp|1.8.6|1.20.16|app-network|Compliance mode enabled, was '1.20.16'|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
@@ -2120,7 +2121,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samba|4.17.2|4.20.4|app-network|Compliance mode enabled, was '4.20.4'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.4|app-admin|Compliance mode enabled, was '3.9.4'|
-|sarasa-gothic-fonts|1.0.12|1.0.19|desktop-fonts|Compliance mode enabled, was '1.0.19'|
+|sarasa-gothic-fonts|1.0.12|1.0.20|desktop-fonts|Compliance mode enabled, was '1.0.20'|
 |sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc+32|1.3|2.0|runtime-optenv32|Compliance mode enabled, was '2.0'|
