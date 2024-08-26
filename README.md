@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724632668?label=Updated)
+![Relative date](https://img.shields.io/date/1724637790?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -963,7 +963,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kspaceduel|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksquares|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksshaskpass|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
-|kstars|3.6.7|3.7.2|desktop-kde|Compliance mode enabled, was '3.7.2'|
 |ksudoku|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksystemlog|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |ksystemstats|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -1543,7 +1542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |oma|1.7.1|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
-|oolite|1.90|1.91.0.7620-240821-6161d11|app-games|Compliance mode enabled, was '1.91.0.7620-240821-6161d11'|
+|oolite|1.90|1.91.0.7623-240824-ee8bc5c|app-games|Compliance mode enabled, was '1.91.0.7623-240824-ee8bc5c'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
 |open-isns|0.101|0.102|app-admin|Compliance mode enabled, was '0.102'|
@@ -2050,7 +2049,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
 |rdma-core|51.0|53.0|app-admin|Compliance mode enabled, was '53.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
-|re2c|1.3|3.1|runtime-common|Compliance mode enabled, was '3.1'|
 |readline|8.2.1|8.2.13|runtime-common|Compliance mode enabled, was '8.2.13'|
 |readline+32|8.2.1|8.2.13|runtime-optenv32|Compliance mode enabled, was '8.2.13'|
 |realmd|0.17.1|0.16.3|app-network|Compliance mode enabled, was '0.16.3'<br>Possible downgrade from the current version (0.17.1 -> 0.16.3)|
