@@ -1696,7 +1696,7 @@
 ["mesa-amber","21.3.9","24.2.0","runtime-display",1678950872,["Compliance mode enabled, was '24.2.0'"]],
 ["xwayland","24.1.1","24.1.2","runtime-display",1721121495,["Compliance mode enabled, was '24.1.2'"]],
 ["physfs","3.0.2","3.2.0","runtime-common",1565150272,["Compliance mode enabled, was '3.2.0'"]],
-["apr","1.6.5","1.7.4","runtime-common",1537051039,["Compliance mode enabled, was '1.7.4'"]],
+["apr","1.6.5","1.7.5","runtime-common",1537051039,["Compliance mode enabled, was '1.7.5'"]],
 ["mimalloc","2.1.2","2.1.7","runtime-common",1702485248,["Compliance mode enabled, was '2.1.7'"]],
 ["libassuan","2.5.3","3.0.1","runtime-common",1565150266,["Compliance mode enabled, was '3.0.1'"]],
 ["robin-hood-hashing","3.11.4","3.11.5","runtime-common",1641887627,["Compliance mode enabled, was '3.11.5'"]],
