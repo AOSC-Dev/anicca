@@ -2287,7 +2287,7 @@
 ["lxml","4.7.1","4.9.1","lang-python",1644263470,["Compliance mode enabled, was '4.9.1'"]],
 ["typed-ast","1.4.3","1.5.5","lang-python",1637636761,["Compliance mode enabled, was '1.5.5'"]],
 ["colorama","0.4.3","0.4.6","lang-python",1581796620,["Compliance mode enabled, was '0.4.6'"]],
-["zeroconf","0.28.6","0.132.2","lang-python",1605077701,["Compliance mode enabled, was '0.132.2'"]],
+["zeroconf","0.28.6","0.133.0","lang-python",1605077701,["Compliance mode enabled, was '0.133.0'"]],
 ["pyperf","2.5.0","2.7.0","lang-python",1678351353,["Compliance mode enabled, was '2.7.0'"]],
 ["mock","2.0.0","5.1.0","lang-python",1472818590,["Compliance mode enabled, was '5.1.0'"]],
 ["mccabe","0.6.1","0.7.0","lang-python",1530718723,["Compliance mode enabled, was '0.7.0'"]],
