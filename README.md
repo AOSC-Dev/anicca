@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724728338?label=Updated)
+![Relative date](https://img.shields.io/date/1724732012?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1743,9 +1743,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
 |perl-lwp-mediatypes|6.02|6.04|lang-perl|Compliance mode enabled, was '6.04'|
 |perl-lwp-protocol-https|6.06|6.14|lang-perl|Compliance mode enabled, was '6.14'|
-|perl-mail-dkim|0.40|1.20240619|lang-perl|Compliance mode enabled, was '1.20240619'|
+|perl-mail-dkim|0.40|1.20240827|lang-perl|Compliance mode enabled, was '1.20240827'|
 |perl-mail-imapclient|3.42|3.43|lang-perl|Compliance mode enabled, was '3.43'|
-|perl-mail-spf|2.9.0|3.20240617|lang-perl|Compliance mode enabled, was '3.20240617'|
+|perl-mail-spf|2.9.0|3.20240827|lang-perl|Compliance mode enabled, was '3.20240827'|
 |perl-mailtools|2.20|2.21|lang-perl|Compliance mode enabled, was '2.21'|
 |perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
 |perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
