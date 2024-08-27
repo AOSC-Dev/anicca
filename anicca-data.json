@@ -1304,7 +1304,6 @@
 ["at-spi2-core","2.52.0","2.53.1","desktop-gnome",1711610718,["Compliance mode enabled, was '2.53.1'"]],
 ["gnome-connections","42.1.2","46.0","desktop-gnome",1663210243,["Compliance mode enabled, was '46.0'"]],
 ["gnome-maps","42.3","46.11","desktop-gnome",1663210243,["Compliance mode enabled, was '46.11'"]],
-["gnome-video-effects","0.4.3","0.6.0","desktop-gnome",1486746011,["Compliance mode enabled, was '0.6.0'"]],
 ["gexiv2","0.14.0","0.14.3","desktop-gnome",1663210210,["Compliance mode enabled, was '0.14.3'"]],
 ["zenity","3.42.1","4.0.2","desktop-gnome",1663210251,["Compliance mode enabled, was '4.0.2'"]],
 ["devhelp","41.2","43.0","desktop-gnome",1663210241,["Compliance mode enabled, was '43.0'"]],
