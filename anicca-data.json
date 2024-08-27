@@ -1289,7 +1289,6 @@
 ["metacity","3.44.0","3.52.0","desktop-gnome",1663210243,["Compliance mode enabled, was '3.52.0'"]],
 ["libgnome-games-support","1.8.2","2.0.0","desktop-gnome",1663210249,["Compliance mode enabled, was '2.0.0'"]],
 ["gnome-nibbles","3.38.2","4.0.4","desktop-gnome",1607975455,["Compliance mode enabled, was '4.0.4'"]],
-["gksu","2.0.2","2.0.12","desktop-gnome",1678950872,["Compliance mode enabled, was '2.0.12'"]],
 ["amtk","5.5.1","5.6.1","desktop-gnome",1663210209,["Compliance mode enabled, was '5.6.1'"]],
 ["libpeas","1.36.0","2.0.4","desktop-gnome",1718805355,["Compliance mode enabled, was '2.0.4'"]],
 ["gnome-control-center","42.3","46.4","desktop-gnome",1663210242,["Compliance mode enabled, was '46.4'"]],
