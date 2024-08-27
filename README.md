@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724792792?label=Updated)
+![Relative date](https://img.shields.io/date/1724796447?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1048,7 +1048,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Compliance mode enabled, was '0.15.0'<br>Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
-|libcpuid|0.5.1|0.6.5|runtime-common|Compliance mode enabled, was '0.6.5'|
+|libcpuid|0.5.1|0.7.0|runtime-common|Compliance mode enabled, was '0.7.0'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
 |libdecor|0.1.1|0.2.2|runtime-desktop|Compliance mode enabled, was '0.2.2'|
@@ -1799,6 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
 |perl-timedate|2.30|2.33|lang-perl|Compliance mode enabled, was '2.33'|
 |perl-tk|804.034|804.036|lang-perl|Compliance mode enabled, was '804.036'|
+|perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|1.74|5.28|lang-perl|Compliance mode enabled, was '5.28'|
 |perl-www-mechanize|1.91|2.18|lang-perl|Compliance mode enabled, was '2.18'|
@@ -2159,8 +2160,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |serf|1.3.9|1.3.10|runtime-web|Compliance mode enabled, was '1.3.10'|
 |service-identity|18.1.0|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
-|setuptools-python2|44.1.0|73.0.1|lang-python|Compliance mode enabled, was '73.0.1'|
-|setuptools-python3|69.1.0|73.0.1|lang-python|Compliance mode enabled, was '73.0.1'|
+|setuptools-python2|44.1.0|74.0.0|lang-python|Compliance mode enabled, was '74.0.0'|
+|setuptools-python3|69.1.0|74.0.0|lang-python|Compliance mode enabled, was '74.0.0'|
 |setuptools-rust|1.9.0|1.10.1|lang-python|Compliance mode enabled, was '1.10.1'|
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
@@ -2603,7 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
-|zope-interface|5.4.0|7.0.2|lang-python|Compliance mode enabled, was '7.0.2'|
+|zope-interface|5.4.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
 |zotero|6.0.26|7.0.2|app-productivity|Compliance mode enabled, was '7.0.2'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.22.0|0.23.0|lang-python|Compliance mode enabled, was '0.23.0'|
