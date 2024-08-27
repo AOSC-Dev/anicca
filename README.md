@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724713828?label=Updated)
+![Relative date](https://img.shields.io/date/1724718942?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -691,7 +691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gmmlib|22.3.20|22.5.0|runtime-devices|Compliance mode enabled, was '22.5.0'|
-|intel-media-driver|24.1.5|24.3.1|runtime-multimedia|Compliance mode enabled, was '24.3.1'|
+|intel-media-driver|24.1.5|24.3.2|runtime-multimedia|Compliance mode enabled, was '24.3.2'|
 |iosevka-fonts|28.0.5|31.4.0|desktop-fonts|Compliance mode enabled, was '31.4.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -2599,7 +2599,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.0.2|lang-python|Compliance mode enabled, was '7.0.2'|
-|zotero|6.0.26|7.0.0|app-productivity|Compliance mode enabled, was '7.0.0'|
+|zotero|6.0.26|7.0.2|app-productivity|Compliance mode enabled, was '7.0.2'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.22.0|0.23.0|lang-python|Compliance mode enabled, was '0.23.0'|
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
