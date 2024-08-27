@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724764574?label=Updated)
+![Relative date](https://img.shields.io/date/1724767782?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -503,8 +503,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
 |glibc|2.38|2.40|core-libs|Compliance mode enabled, was '2.40'|
 |glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
-|glibmm|2.66.2|2.80.0|desktop-gnome|Compliance mode enabled, was '2.80.0'|
-|glibmm-2.68|2.78.0|2.80.0|desktop-gnome|Compliance mode enabled, was '2.80.0'|
+|glibmm|2.66.2|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
+|glibmm-2.68|2.78.0|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |glslang|13.1.1|14.3.0|app-imaging|Compliance mode enabled, was '14.3.0'|
 |glslang+32|7.11.3214|14.3.0|runtime-optenv32|Compliance mode enabled, was '14.3.0'|
@@ -554,6 +554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-usage|3.38.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-user-docs|42.0|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
 |gnome-user-share|3.34.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnote|42.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnu-efi|3.0.14|3.0.18|app-devel|Compliance mode enabled, was '3.0.18'|
@@ -645,6 +646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |httpie|3.2.2|3.2.3|app-web|Compliance mode enabled, was '3.2.3'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
+|httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
 |hugo|0.131.0|0.133.0|app-web|Compliance mode enabled, was '0.133.0'|
@@ -1180,7 +1182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.36.0|2.0.4|desktop-gnome|Compliance mode enabled, was '2.0.4'|
 |libphonenumber|8.13.38|8.13.43|runtime-i18n|Compliance mode enabled, was '8.13.43'|
 |libpinyin|2.6.0|2.9.91|runtime-i18n|Compliance mode enabled, was '2.9.91'|
-|libpipeline|1.5.3|1.5.7|runtime-common|Compliance mode enabled, was '1.5.7'|
+|libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libplist|2.3.0|2.6.0|runtime-common|Compliance mode enabled, was '2.6.0'|
 |libpng+32|1.2.57|1.6.43|runtime-optenv32|Compliance mode enabled, was '1.6.43'|
@@ -1639,6 +1641,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|upstream/2.3.0|app-utils|Compliance mode enabled, was 'upstream/2.3.0'<br>Possible downgrade from the current version (1.12 -> upstream/2.3.0)|
+|pbr|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pciutils|3.9.0|3.13.0|app-utils|Compliance mode enabled, was '3.13.0'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.3.0|app-utils|Compliance mode enabled, was '6.3.0'|
