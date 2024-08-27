@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724775049?label=Updated)
+![Relative date](https://img.shields.io/date/1724778374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -579,7 +579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grantlee-editor|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |grantleetheme|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
-|graphicsmagick|1.3.43|1.3.44|app-utils|Compliance mode enabled, was '1.3.44'|
+|graphicsmagick|1.3.43|1.3.45|app-utils|Compliance mode enabled, was '1.3.45'|
 |graphviz|12.0.0|12.1.0|app-doc|Compliance mode enabled, was '12.1.0'|
 |greenlet|1.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
@@ -637,7 +637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.13|app-devel|Compliance mode enabled, was '4.13'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hotdoc|0.13.7|0.17|app-doc|Compliance mode enabled, was '0.17'|
+|hotdoc|0.13.7|0.17.1|app-doc|Compliance mode enabled, was '0.17.1'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
@@ -1817,7 +1817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |php|8.3.8|8.3.10|app-devel|Compliance mode enabled, was '8.3.10'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
-|picard|2.12|2.12.1|app-multimedia|Compliance mode enabled, was '2.12.1'|
+|picard|2.12|2.12.2|app-multimedia|Compliance mode enabled, was '2.12.2'|
 |picmi|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |pikepdf|8.15.1|9.2.0|app-doc|Compliance mode enabled, was '9.2.0'|
 |pim-data-exporter|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
