@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724854197?label=Updated)
+![Relative date](https://img.shields.io/date/1724857864?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -318,7 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|27.1.1|27.1.2|app-containers||
+|docker|27.1.1|27.2.0|app-containers||
 |docker-compose|2.29.1|2.29.2|app-containers|Compliance mode enabled, was '2.29.2'|
 |dolphin|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |dolphin-plugins|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
@@ -1444,7 +1444,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtdev|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |muffin|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |mugshot|0.4.1|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
-|multipath-tools|0.9.3|0.9.9|app-admin|Compliance mode enabled, was '0.9.9'|
+|multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
 |mutter|42.4|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
@@ -1772,7 +1772,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
 |perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
-|perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
 |perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
 |perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
@@ -1814,7 +1813,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
-|php|8.3.8|8.3.10|app-devel|Compliance mode enabled, was '8.3.10'|
+|php|8.3.8|8.3.11|app-devel|Compliance mode enabled, was '8.3.11'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.2|app-multimedia|Compliance mode enabled, was '2.12.2'|
 |picmi|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
