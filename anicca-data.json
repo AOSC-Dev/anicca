@@ -1470,6 +1470,7 @@
 ["tre","20161208","0.8.0","app-utils",1482382343,["Compliance mode enabled, was '0.8.0'","Possible downgrade from the current version (20161208 -> 0.8.0)"]],
 ["inetutils","2.4","2.5","app-utils",1674452376,["Compliance mode enabled, was '2.5'"]],
 ["mc","4.8.31","4.8.32","app-utils",1710339733,["Compliance mode enabled, was '4.8.32'"]],
+["paq8o","9","10t","app-utils",1470117122,["Compliance mode enabled, was '10t'"]],
 ["chntpw","1.1","140201","app-utils",1678950872,["Compliance mode enabled, was '140201'"]],
 ["duplicity","3.0.1","3.0.2","app-utils",1721146687,["Compliance mode enabled, was '3.0.2'"]],
 ["menumaker","0.99.12","0.99.14","app-utils",1600708565,["Compliance mode enabled, was '0.99.14'"]],
