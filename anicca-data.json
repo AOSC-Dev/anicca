@@ -1233,7 +1233,6 @@
 ["gnome-session","42.0","46.0","desktop-gnome",1663210241,["Compliance mode enabled, was '46.0'"]],
 ["gnome-weather","42.0","46.0","desktop-gnome",1663210243,["Compliance mode enabled, was '46.0'"]],
 ["gdm","42.0","46.2","desktop-gnome",1663210241,["Compliance mode enabled, was '46.2'"]],
-["gnome-chess","42.1","46.0","desktop-gnome",1663210248,["Compliance mode enabled, was '46.0'"]],
 ["gnome-mahjongg","3.38.3","3.40.1","desktop-gnome",1607975455,["Compliance mode enabled, was '3.40.1'"]],
 ["libshumate","1.2.1","1.2.3","desktop-gnome",1714961745,["Compliance mode enabled, was '1.2.3'"]],
 ["evolution-data-server","3.44.4","3.52.4","desktop-gnome",1721223235,["Compliance mode enabled, was '3.52.4'"]],
