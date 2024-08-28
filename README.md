@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724818434?label=Updated)
+![Relative date](https://img.shields.io/date/1724821796?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2579,6 +2579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yard|0.9.26|0.9.36|app-doc|Compliance mode enabled, was '0.9.36'|
 |yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
+|yazi|0.3.1|0.3.2|app-utils|Compliance mode enabled, was '0.3.2'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|

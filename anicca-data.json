@@ -1354,6 +1354,7 @@
 ["trace-cmd","2.8.3","3.3","app-utils",1569639925,["Compliance mode enabled, was '3.3'"]],
 ["id3","0.80","0.81","app-utils",1469775383,["Compliance mode enabled, was '0.81'"]],
 ["debianutils","5.7","5.20","app-utils",1673935786,["Compliance mode enabled, was '5.20'"]],
+["yazi","0.3.1","0.3.2","app-utils",1723775289,["Compliance mode enabled, was '0.3.2'"]],
 ["i2c-tools","4.1","4.3","app-utils",1551380864,["Compliance mode enabled, was '4.3'"]],
 ["uboot-tools","2022.10","2024.07","app-utils",1666597495,["Compliance mode enabled, was '2024.07'"]],
 ["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
