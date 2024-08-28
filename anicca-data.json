@@ -451,6 +451,7 @@
 ["perl-gnome2","1.047","1.048","lang-perl",1530196414,["Compliance mode enabled, was '1.048'"]],
 ["perl-text-template","1.59","1.61","lang-perl",1596485705,["Compliance mode enabled, was '1.61'"]],
 ["perl-alien-build","1.92","2.83","lang-perl",1573869527,["Compliance mode enabled, was '2.83'"]],
+["perl-parallel-forkmanager","1.20","2.03","lang-perl",1539781539,["Compliance mode enabled, was '2.03'"]],
 ["perl-net-http","6.18","6.23","lang-perl",1530196414,["Compliance mode enabled, was '6.23'"]],
 ["perl-datetime","1.52","1.65","lang-perl",1596485703,["Compliance mode enabled, was '1.65'"]],
 ["perl-module-scandeps","1.27","1.35","lang-perl",1551145117,["Compliance mode enabled, was '1.35'"]],
