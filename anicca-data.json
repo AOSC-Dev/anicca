@@ -147,7 +147,6 @@
 ["mjpegtools+32","2.1.0","2.2.1","runtime-optenv32",1461476052,["Compliance mode enabled, was '2.2.1'"]],
 ["krb5+32","1.17.1","1.21.3-final","runtime-optenv32",1577021181,["Compliance mode enabled, was '1.21.3-final'"]],
 ["dbus-glib+32","0.108","0.112","runtime-optenv32",1461533585,["Compliance mode enabled, was '0.112'"]],
-["gtk-2+32","2.24.32","2.24.33","runtime-optenv32",1535726433,["Compliance mode enabled, was '2.24.33'"]],
 ["freetype+32","2.12.1","2.13.3","runtime-optenv32",1663359141,["Compliance mode enabled, was '2.13.3'"]],
 ["s2tc+32","20150112","1.0","runtime-optenv32",1446409563,["Compliance mode enabled, was '1.0'","Possible downgrade from the current version (20150112 -> 1.0)"]],
 ["perl-xml-parser+32","999","2.47","runtime-optenv32",1678950872,["Compliance mode enabled, was '2.47'","Possible downgrade from the current version (999 -> 2.47)"]],
