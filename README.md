@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724919201?label=Updated)
+![Relative date](https://img.shields.io/date/1724922682?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1394,8 +1394,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|mesa+32|22.1.7|24.2.0|runtime-optenv32|Compliance mode enabled, was '24.2.0'|
-|mesa-amber|21.3.9|24.2.0|runtime-display|Compliance mode enabled, was '24.2.0'|
+|mesa|24.2.0|24.2.1|runtime-display||
+|mesa+32|22.1.7|24.2.1|runtime-optenv32|Compliance mode enabled, was '24.2.1'|
+|mesa-amber|21.3.9|24.2.1|runtime-display|Compliance mode enabled, was '24.2.1'|
 |messagelib|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |metee|4.0.0|4.2.0|runtime-devices|Compliance mode enabled, was '4.2.0'|
@@ -2130,7 +2131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scons|4.4.0|4.8.0|app-devel|Compliance mode enabled, was '4.8.0'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
 |scrcpy|2.4|2.6.1-install-release|app-devices|Compliance mode enabled, was '2.6.1-install-release'|
-|screen|4.9.0|4.9.1|app-utils|Compliance mode enabled, was '4.9.1'|
+|screen|4.9.0|5.0.0|app-utils|Compliance mode enabled, was '5.0.0'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
 |scummvm|2.2.0|2.8.1|app-games|Compliance mode enabled, was '2.8.1'|
