@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1724908227?label=Updated)
+![Relative date](https://img.shields.io/date/1724912007?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -257,7 +257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conky|1.21.4|1.21.6|app-utils|Compliance mode enabled, was '1.21.6'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
-|containerd|1.7.20|1.7.21|app-containers|Compliance mode enabled, was '1.7.21'|
 |containers-common|0.59.2|0.60.2|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |coreboot-utils|24.05|24.08|app-admin|Compliance mode enabled, was '24.08'|
@@ -678,7 +677,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
 |igsc|0.8.16|0.9.3|runtime-devices|Compliance mode enabled, was '0.9.3'|
-|iio-sensor-proxy|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
 |imagemagick|6.9.13<br>+14|6.9.13+15|app-utils|Compliance mode enabled, was '6.9.13-15'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+37|app-utils|Compliance mode enabled, was '7.1.1-37'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
@@ -1441,7 +1439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mstflint|4.28.0<br>+1|4.29.0+1|app-admin|Compliance mode enabled, was '4.29.0-1'|
 |mtd-utils|2.1.5|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
-|mtdev|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |muffin|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |mugshot|0.4.1|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
