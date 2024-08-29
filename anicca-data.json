@@ -1764,7 +1764,6 @@
 ["tevent","0.13.0","0.16.1","runtime-common",1673495967,["Compliance mode enabled, was '0.16.1'"]],
 ["libbytesize","2.1","2.11","runtime-common",1569907996,["Compliance mode enabled, was '2.11'"]],
 ["xapian-core","1.4.18","1.4.26","runtime-common",1637636760,["Compliance mode enabled, was '1.4.26'"]],
-["rustc-demangle","0.1.21","0.1.24","runtime-common",1631400099,["Compliance mode enabled, was '0.1.24'"]],
 ["tl-expected","1.0.0","1.1.0","runtime-common",1581486077,["Compliance mode enabled, was '1.1.0'"]],
 ["catch2","2.13.8","3.7.0","runtime-common",1645499841,["Compliance mode enabled, was '3.7.0'"]],
 ["xsimd","10.0.0","13.0.0","runtime-common",1678601022,["Compliance mode enabled, was '13.0.0'"]],
