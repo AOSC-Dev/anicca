@@ -2029,7 +2029,6 @@
 ["upower","1.90.4","1.90.5","app-admin",1718682246,["Compliance mode enabled, was '1.90.5'"]],
 ["libcgroup","2.0","3.1.0","app-admin",1641887332,["Compliance mode enabled, was '3.1.0'"]],
 ["cryptsetup","2.7.0","2.7.4","app-admin",1709504085,["Compliance mode enabled, was '2.7.4'"]],
-["crun","1.15","1.16.1","app-admin",1722938415,["Compliance mode enabled, was '1.16.1'"]],
 ["xdg-desktop-portal","1.16.0","1.18.4","app-admin",1713504759,["Compliance mode enabled, was '1.18.4'"]],
 ["squashfs-tools","4.5","4.6.1","app-admin",1634630855,["Compliance mode enabled, was '4.6.1'"]],
 ["openldap","2.6.7","2.6.8","app-admin",1712930384,["Compliance mode enabled, was '2_6_8'"]],
