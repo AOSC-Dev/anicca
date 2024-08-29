@@ -2582,7 +2582,7 @@
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
 ["ppp","2.4.9","2.5.0","app-network",1611382057,["Compliance mode enabled, was '2.5.0'"]],
 ["synergy","1.11.1","2.3.2","app-network",1585097716,["Compliance mode enabled, was '2.3.2'"]],
-["bind","9.20.0","9.21.0","app-network",1723733902,["Compliance mode enabled, was '9.21.0'"]],
+["bind","9.20.0","9.20.1","app-network",1723733902,["Compliance mode enabled, was '9.20.1'"]],
 ["udns","0.5","0.6","app-network",1721195636,["Compliance mode enabled, was '0.6'"]],
 ["wireshark","4.2.5","4.4.0","app-network",1716954706,["Compliance mode enabled, was '4.4.0'"]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
