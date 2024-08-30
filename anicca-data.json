@@ -1988,7 +1988,7 @@
 ["topgrade","11.0.2","15.0.0","app-admin",1683301918,["Compliance mode enabled, was '15.0.0'"]],
 ["thermald","2.5.7","2.5.8","app-admin",1716726890,["Compliance mode enabled, was '2.5.8'"]],
 ["apparmor","3.0.8","4.0.2","app-admin",1677834439,["Compliance mode enabled, was '4.0.2'"]],
-["oma","1.8.0","1.12.13","app-admin",1724845054,["Compliance mode enabled, was '1.12.13'"]],
+["oma","1.8.1","1.12.13","app-admin",1725009543,["Compliance mode enabled, was '1.12.13'"]],
 ["cockpit-podman","63","93","app-admin",1678351353,["Compliance mode enabled, was '93'"]],
 ["coreboot-utils","24.05","24.08","app-admin",1717411724,["Compliance mode enabled, was '24.08'"]],
 ["jetring","0.29","0.31","app-admin",1600920748,["Compliance mode enabled, was '0.31'"]],
