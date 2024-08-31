@@ -1949,7 +1949,6 @@
 ["ltrace","0.7.3+git20151111","0.7.3+git20240814","app-devel",1620461825,["Compliance mode enabled, was '0.7.3+git20240814'"]],
 ["git-lfs","3.5.0","3.5.1","app-devel",1712458054,["Compliance mode enabled, was '3.5.1'"]],
 ["xsd","4.1.0~alpha11","4.0.0","app-devel",1614161812,["Compliance mode enabled, was '4.0.0'","Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)"]],
-["just","1.34.0","1.35.0","app-devel",1722774289,["Compliance mode enabled, was '1.35.0'"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
 ["php","8.3.8","8.3.11","app-devel",1721223235,["Compliance mode enabled, was '8.3.11'"]],
 ["ast-grep","0.26.1","0.26.3","app-devel",1723454554,["Compliance mode enabled, was '0.26.3'"]],
