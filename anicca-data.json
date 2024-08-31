@@ -2582,7 +2582,6 @@
 ["synergy","1.11.1","2.3.2","app-network",1585097716,["Compliance mode enabled, was '2.3.2'"]],
 ["bind","9.20.0","9.20.1","app-network",1723733902,["Compliance mode enabled, was '9.20.1'"]],
 ["udns","0.5","0.6","app-network",1721195636,["Compliance mode enabled, was '0.6'"]],
-["wireshark","4.2.5","4.4.0","app-network",1716954706,["Compliance mode enabled, was '4.4.0'"]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["networkmanager-pptp","1.2.10","1.2.12","app-network",1663359145,["Compliance mode enabled, was '1.2.12'"]],
 ["remmina","1.4.31","1.4.35","app-network",1692596487,["Compliance mode enabled, was '1.4.35'"]],
