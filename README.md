@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725110003?label=Updated)
+![Relative date](https://img.shields.io/date/1725113205?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -638,7 +638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
-|html2text|2020.1.16|2024.2.26|lang-python|Compliance mode enabled, was '2024.2.26'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |httpie|3.2.2|3.2.3|app-web|Compliance mode enabled, was '3.2.3'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
@@ -654,7 +653,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.111.2|lang-python|Compliance mode enabled, was '6.111.2'|
-|hysteria|2.5.0|2.5.1|app-network|Compliance mode enabled, was '2.5.1'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -1052,8 +1050,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdispatch|5.6.1|5.9.2-release|runtime-common|Compliance mode enabled, was '5.9.2-RELEASE'|
 |libdisplay-info|0.1.1|0.2.0|runtime-display|Compliance mode enabled, was '0.2.0'|
 |libdnet|1.12|1.18.0|runtime-network|Compliance mode enabled, was '1.18.0'|
-|libdrm|2.4.122|2.4.123|runtime-display|Compliance mode enabled, was '2.4.123'|
-|libdrm+32|2.4.122|2.4.123|runtime-optenv32|Compliance mode enabled, was '2.4.123'|
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
