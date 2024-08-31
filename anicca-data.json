@@ -1600,7 +1600,6 @@
 ["fvwm","2.6.9","2.7.0","desktop-wm",1655473809,["Compliance mode enabled, was '2.7.0'"]],
 ["xcompmgr","1.1.8","1.1.9","desktop-wm",1565983209,["Compliance mode enabled, was '1.1.9'"]],
 ["po4a","0.63","0.73","app-i18n",1633153813,["Compliance mode enabled, was '0.73'"]],
-["fcitx5-pinyin-moegirl","20240709","20240809","app-i18n",1718263393,["Compliance mode enabled, was '20240809'"]],
 ["rime-emoji","13.0+git20230826","15.0","app-i18n",1701762496,["Compliance mode enabled, was '15.0'"]],
 ["ibus-chewing","1.6.1","2.1.1","app-i18n",1508565305,["Compliance mode enabled, was '2.1.1'"]],
 ["fcitx5-pinyin-zhwiki","0.2.3","0.2.5","app-i18n",1633153817,[]],
