@@ -1805,7 +1805,7 @@
 ["abseil-cpp","20240116.2","20240722.0","runtime-common",1717130892,["Compliance mode enabled, was '20240722.0'"]],
 ["libmspack","0.10.1alpha","0.11.0","runtime-common",1616134410,["Compliance mode enabled, was '0.11.0'"]],
 ["libcap-ng","0.7.11","0.8.5","runtime-common",1600321916,["Compliance mode enabled, was '0.8.5'"]],
-["json-glib","1.8.0","1.9.2","runtime-common",1718636947,["Compliance mode enabled, was '1.9.2'"]],
+["json-glib","1.8.0","1.10.0","runtime-common",1718636947,["Compliance mode enabled, was '1.10.0'"]],
 ["iniparser","4.1","4.2.4","runtime-common",1531513132,["Compliance mode enabled, was '4.2.4'"]],
 ["editline","1.16.1","1.17.1","runtime-common",1568432964,["Compliance mode enabled, was '1.17.1'"]],
 ["qscintilla","2.13.1","2.14.1","runtime-common",1637636759,["Compliance mode enabled, was '2.14.1'"]],
