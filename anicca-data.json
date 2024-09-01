@@ -2489,6 +2489,7 @@
 ["ethtool","6.9","6.10","app-network",1720853795,["Compliance mode enabled, was '6.10'"]],
 ["bandwhich","0.22.2","0.23.0","app-network",1718762025,["Compliance mode enabled, was '0.23.0'"]],
 ["rtmpdump","20151223","2.3","app-network",1696572712,["Compliance mode enabled, was '2.3'","Possible downgrade from the current version (20151223 -> 2.3)"]],
+["tcpdump","4.99.4","4.99.5","app-network",1709902196,["Compliance mode enabled, was '4.99.5'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["sshpass","1.06","1.10","app-network",1552787668,["Compliance mode enabled, was '1.10'"]],
 ["n2n","2.8","3.1.1","app-network",1599374645,["Compliance mode enabled, was '3.1.1'"]],
