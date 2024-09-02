@@ -462,7 +462,6 @@
 ["perl-lwp-mediatypes","6.02","6.04","lang-perl",1678950872,["Compliance mode enabled, was '6.04'"]],
 ["perl-xml-sax-expat","0.51","1.33","lang-perl",1678950872,["Compliance mode enabled, was '1.33'"]],
 ["perl-module-find","0.13","0.16","lang-perl",1488651588,["Compliance mode enabled, was '0.16'"]],
-["perl-tk","804.034","804.036","lang-perl",1530196414,["Compliance mode enabled, was '804.036'"]],
 ["perl-mime-tools","5.509","5.515","lang-perl",1530196414,["Compliance mode enabled, was '5.515'"]],
 ["perl-mail-spf","2.9.0","3.20240827","lang-perl",1678950872,["Compliance mode enabled, was '3.20240827'"]],
 ["perl-gtk2","1.2499","1.24993","lang-perl",1475814244,["Compliance mode enabled, was '1.24993'"]],
