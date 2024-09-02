@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725242992?label=Updated)
+![Relative date](https://img.shields.io/date/1725246808?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -428,7 +428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |foolscap|0.13.2|23.11.0|lang-python|Compliance mode enabled, was '23.11.0'|
-|forgejo|8.0.1|8.0.2|app-web|Compliance mode enabled, was '8.0.2'|
 |fping|5.1|5.2|app-network|Compliance mode enabled, was '5.2'|
 |fractal|8.0|8|desktop-gnome|Compliance mode enabled, was '8'|
 |frameworkintegration|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -1088,7 +1087,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgpiod|1.4.2|2.1.3|runtime-devices|Compliance mode enabled, was '2.1.3'|
 |libgravatar|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |libgsf|1.14.47|1.14.52|desktop-gnome|Compliance mode enabled, was '1_14_52'|
-|libgtop|2.38.0|2.41.3|desktop-gnome|Compliance mode enabled, was '2.41.3'|
 |libguestfs|1.52.0|1.53.6|runtime-virtualization|Compliance mode enabled, was '1.53.6'|
 |libgweather|4.1.0|4.4.2|desktop-gnome|Compliance mode enabled, was '4.4.2'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
@@ -1388,7 +1386,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|mesa|24.2.0|24.2.1|runtime-display||
 |mesa+32|22.1.7|24.2.1|runtime-optenv32|Compliance mode enabled, was '24.2.1'|
 |mesa-amber|21.3.9|24.2.1|runtime-display|Compliance mode enabled, was '24.2.1'|
 |messagelib|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
