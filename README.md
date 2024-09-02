@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725314942?label=Updated)
+![Relative date](https://img.shields.io/date/1725318549?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1701,6 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
 |perl-dbi|1.642|1.644|lang-perl|Compliance mode enabled, was '1.644'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
+|perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
 |perl-digest-hmac|1.03|1.04|lang-perl|Compliance mode enabled, was '1.04'|
 |perl-email-abstract|3.008|3.010|lang-perl|Compliance mode enabled, was '3.010'|
@@ -2130,6 +2131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
 |samba|4.17.2|4.21.0|app-network|Compliance mode enabled, was '4.21.0'|
+|sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.4|app-admin|Compliance mode enabled, was '3.9.4'|
 |sarasa-gothic-fonts|1.0.12|1.0.20|desktop-fonts|Compliance mode enabled, was '1.0.20'|
 |sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
