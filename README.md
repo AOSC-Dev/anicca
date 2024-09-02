@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725237634?label=Updated)
+![Relative date](https://img.shields.io/date/1725242992?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1785,6 +1785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-csv-xs|1.38|1.56|lang-perl|Compliance mode enabled, was '1.56'|
 |perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
 |perl-timedate|2.30|2.33|lang-perl|Compliance mode enabled, was '2.33'|
+|perl-tk|804.034|804.036|lang-perl|Compliance mode enabled, was '804.036'|
 |perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|1.74|5.28|lang-perl|Compliance mode enabled, was '5.28'|
