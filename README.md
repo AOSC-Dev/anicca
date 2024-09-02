@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725275073?label=Updated)
+![Relative date](https://img.shields.io/date/1725279385?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1267,8 +1267,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia|Compliance mode enabled, was '0.7.4'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvdpau+32|1.1.1|1.5|runtime-optenv32|Compliance mode enabled, was '1.5'|
-|libvirt|10.5.0|10.6.0|app-virtualization|Compliance mode enabled, was '10.6.0'|
-|libvirt-python|10.5.0|10.6.0|runtime-virtualization|Compliance mode enabled, was '10.6.0'|
+|libvirt|10.5.0|10.7.0|app-virtualization|Compliance mode enabled, was '10.7.0'|
+|libvirt-python|10.5.0|10.7.0|runtime-virtualization|Compliance mode enabled, was '10.7.0'|
 |libvisual|0.4.0|0.4.2|runtime-multimedia|Compliance mode enabled, was '0.4.2'|
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32|Compliance mode enabled, was '0.4.2'|
 |libvncserver|0.9.13|0.9.14|runtime-network|Compliance mode enabled, was '0.9.14'|
@@ -2126,7 +2126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
-|samba|4.17.2|4.20.4|app-network|Compliance mode enabled, was '4.20.4'|
+|samba|4.17.2|4.21.0|app-network|Compliance mode enabled, was '4.21.0'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.4|app-admin|Compliance mode enabled, was '3.9.4'|
 |sarasa-gothic-fonts|1.0.12|1.0.20|desktop-fonts|Compliance mode enabled, was '1.0.20'|
