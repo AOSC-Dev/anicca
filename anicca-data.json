@@ -1862,6 +1862,7 @@
 ["znc","1.8.2","1.9.1","app-web",1721223235,["Compliance mode enabled, was '1.9.1'"]],
 ["certbot-apache","2.10.0","2.11.0","app-web",1716728517,["Compliance mode enabled, was '2.11.0'"]],
 ["liferea","1.13.8","1.15.7","app-web",1655338775,["Compliance mode enabled, was '1.15.7'"]],
+["google-chrome","128.0.6613.113","128.0.6613.119","app-web",1724942464,["Compliance mode enabled, was '128.0.6613.119'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
 ["httpie","3.2.2","3.2.3","app-web",1709968724,["Compliance mode enabled, was '3.2.3'"]],
 ["certbot-dns-cloudflare","2.10.0","2.11.0","app-web",1716728302,["Compliance mode enabled, was '2.11.0'"]],
