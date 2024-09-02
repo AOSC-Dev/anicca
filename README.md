@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725271932?label=Updated)
+![Relative date](https://img.shields.io/date/1725275073?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -785,7 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcontacts|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcoreaddons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
-|kcptun|20240107|20240825|app-network|Compliance mode enabled, was '20240825'|
+|kcptun|20240107|20240831|app-network|Compliance mode enabled, was '20240831'|
 |kcrash|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kcron|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kdav|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
@@ -1256,6 +1256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libunistring|0.9.10|1.2|runtime-common|Compliance mode enabled, was '1.2'|
 |libunwind|1.6.2|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |libupnp|1.14.16|1.14.19|runtime-network|Compliance mode enabled, was '1.14.19'|
+|liburcu|0.14.0|0.14.1|runtime-common|Compliance mode enabled, was '0.14.1'|
 |liburing|2.6|2.7|runtime-common|Compliance mode enabled, was '2.7'|
 |libusb|1.0.23|1.0.27|runtime-devices|Compliance mode enabled, was '1.0.27'|
 |libusb+32|1.0.23|1.0.27|runtime-optenv32|Compliance mode enabled, was '1.0.27'|
@@ -2463,8 +2464,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.0.1|app-virtualization|Compliance mode enabled, was '1.0.1'|
 |virtualenv|20.25.0|20.26.3|lang-python|Compliance mode enabled, was '20.26.3'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
-|vkd3d|1.9|1.12|runtime-display|Compliance mode enabled, was '1.12'|
-|vkd3d+32|1.9|1.12|runtime-optenv32|Compliance mode enabled, was '1.12'|
+|vkd3d|1.9|1.13|runtime-display|Compliance mode enabled, was '1.13'|
+|vkd3d+32|1.9|1.13|runtime-optenv32|Compliance mode enabled, was '1.13'|
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
 |vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
@@ -2502,7 +2503,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|1.0.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |wesnoth|1.16.10|1.19.3|app-games|Compliance mode enabled, was '1.19.3'|
-|weston|13.0.0|13.0.3|runtime-display|Compliance mode enabled, was '13.0.3'|
+|weston|13.0.0|13.0.95|runtime-display|Compliance mode enabled, was '13.0.95'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.42.0|0.44.0|lang-python|Compliance mode enabled, was '0.44.0'|
 |wheezy.template|3.1.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
@@ -2581,6 +2582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |yara|4.5.0|4.5.1|app-utils|Compliance mode enabled, was '4.5.1'|
 |yard|0.9.26|0.9.36|app-doc|Compliance mode enabled, was '0.9.36'|
+|yarl|1.9.4|1.9.7|lang-python|Compliance mode enabled, was '1.9.7'|
 |yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
