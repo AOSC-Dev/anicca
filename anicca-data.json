@@ -1799,6 +1799,7 @@
 ["fmt","10.2.1","11.0.2","runtime-common",1715758898,["Compliance mode enabled, was '11.0.2'"]],
 ["jsonrpc-glib","3.42.0","3.44.1","runtime-common",1663210242,["Compliance mode enabled, was '3.44.1'"]],
 ["augeas","1.12.0","1.14.1","runtime-common",1570563528,["Compliance mode enabled, was '1.14.1'"]],
+["ffcall","2.4","2.5","runtime-common",1722580416,["Compliance mode enabled, was '2.5'"]],
 ["ncurses","6.4","6.5+20240831","runtime-common",1677713717,["Compliance mode enabled, was '6.5-20240831'"]],
 ["onig","6.9.5+rev1","6.9.9","runtime-common",1600321917,["Compliance mode enabled, was '6.9.9'"]],
 ["snowball","2.1.0","2.2.0","runtime-common",1631428514,["Compliance mode enabled, was '2.2.0'"]],
