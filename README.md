@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725354658?label=Updated)
+![Relative date](https://img.shields.io/date/1725358218?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -55,7 +55,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
-|aoscbootstrap|0.6.0|0.7.0|app-utils|Compliance mode enabled, was '0.7.0'|
 |apache-ant|1.10.14|1.10.15|lang-java|Compliance mode enabled, was '1.10.15'|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apicula|0.9.1|0.13|app-electronics|Compliance mode enabled, was '0.13'|
@@ -1445,7 +1444,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.28.0<br>+1|4.29.0+1|app-admin|Compliance mode enabled, was '4.29.0-1'|
 |mtd-utils|2.1.5|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
 |muffin|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
-|mugshot|0.4.1|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
@@ -2284,6 +2282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
 |stunnel|5.56|5.72|app-network|Compliance mode enabled, was '5.72'|
 |subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
+|sudo|1.9.16|1.9.15p5|app-admin|Compliance mode enabled, was '1_9_15p5'<br>Possible downgrade from the current version (1.9.16 -> 1.9.15p5)|
 |suitesparse|7.6.1|7.8.1|runtime-scientific|Compliance mode enabled, was '7.8.1'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.826.132723|app-multimedia|Compliance mode enabled, was '2024.826.132723'|
