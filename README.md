@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725347438?label=Updated)
+![Relative date](https://img.shields.io/date/1725351162?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -657,7 +657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugo|0.131.0|0.133.1|app-web|Compliance mode enabled, was '0.133.1'|
 |humanize|0.5.1|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
-|hwdata|0.384|0.385|runtime-data|Compliance mode enabled, was '0.385'|
+|hwdata|0.384|0.386|runtime-data|Compliance mode enabled, was '0.386'|
 |hwloc|2.10.0|2.11.1|app-admin|Compliance mode enabled, was '2.11.1'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
@@ -2109,7 +2109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|lang-python|Compliance mode enabled, was '0.18.6'|
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python|Compliance mode enabled, was '0.2.8'|
 |rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
-|ruby|3.2.2|3.3.4|lang-ruby|Compliance mode enabled, was '3.3.4'|
+|ruby|3.2.2|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
 |ruby-bundler|2.1.4|2.5.18|lang-ruby|Compliance mode enabled, was '2.5.18'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
