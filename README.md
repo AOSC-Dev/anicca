@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725358218?label=Updated)
+![Relative date](https://img.shields.io/date/1725361766?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -278,7 +278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|43.0.0|lang-python|Compliance mode enabled, was '43.0.0'|
-|cryptsetup|2.7.0|2.7.4|app-admin|Compliance mode enabled, was '2.7.4'|
+|cryptsetup|2.7.0|2.7.5|app-admin|Compliance mode enabled, was '2.7.5'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
@@ -1017,7 +1017,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.38.0|1.39.0|lang-dlang|Compliance mode enabled, was '1.39.0'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |less|643|661|app-utils|Compliance mode enabled, was '661'|
-|level-zero|1.17.39|1.17.28|runtime-common|Compliance mode enabled, was '1.17.28'<br>Possible downgrade from the current version (1.17.39 -> 1.17.28)|
 |levenshtein|0.12.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -1691,7 +1690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-locale|1.26|1.43|lang-perl|Compliance mode enabled, was '1.43'|
 |perl-dbd-mysql|4.052|5.008|lang-perl|Compliance mode enabled, was '5.008'|
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
-|perl-dbi|1.642|1.644|lang-perl|Compliance mode enabled, was '1.644'|
+|perl-dbi|1.642|1.645|lang-perl|Compliance mode enabled, was '1.645'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
