@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725365819?label=Updated)
+![Relative date](https://img.shields.io/date/1725369499?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -485,7 +485,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
-|geoclue2|2.6.0|2.7.1|runtime-gis|Compliance mode enabled, was '2.7.1'|
+|geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
 |geos|3.7.3|3.12.2|runtime-gis|Compliance mode enabled, was '3.12.2'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
@@ -1225,7 +1225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspatialite|5.0.1|5.1.0|runtime-gis|Compliance mode enabled, was '5.1.0'|
 |libspectre|0.2.9|0.2.12|runtime-doc|Compliance mode enabled, was '0.2.12'|
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32|Compliance mode enabled, was '0.2.12'|
-|libspiro|0.5.20150702|20221101|runtime-creativity|Compliance mode enabled, was '20221101'|
+|libspiro|0.5.20150702|20240902|runtime-creativity|Compliance mode enabled, was '20240902'|
 |libspnav|0.2.3|1.0|runtime-devices|Compliance mode enabled, was '1.0'|
 |libssh|0.8.9|0.11.1|runtime-network|Compliance mode enabled, was '0.11.1'|
 |libssh+32|0.8.9|0.11.1|runtime-optenv32|Compliance mode enabled, was '0.11.1'|
@@ -1274,7 +1274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
 |libvpx|1.10.0|1.14.1|runtime-multimedia|Compliance mode enabled, was '1.14.1'|
 |libvpx+32|1.9.0|1.14.1|runtime-optenv32|Compliance mode enabled, was '1.14.1'|
-|libwacom|2.4.0|2.12.2|runtime-devices|Compliance mode enabled, was '2.12.2'|
+|libwacom|2.4.0|2.13.0|runtime-devices|Compliance mode enabled, was '2.13.0'|
 |libwebp|1.3.1|1.4.0|runtime-imaging|Compliance mode enabled, was '1.4.0'|
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
 |libwm|20161006|1.3|runtime-display|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20161006 -> 1.3)|
