@@ -1820,7 +1820,7 @@
 ["jmespath","0.10.0","1.0.1","lang-python",1616123331,["Compliance mode enabled, was '1.0.1'"]],
 ["pyxattr","0.6.1","0.8.1","lang-python",1535864515,["Compliance mode enabled, was '0.8.1'"]],
 ["python-cssselect","1.0.3","1.2.0","lang-python",1530292643,["Compliance mode enabled, was '1.2.0'"]],
-["yarl","1.9.4","1.9.8","lang-python",1718719163,["Compliance mode enabled, was '1.9.8'"]],
+["yarl","1.9.4","1.9.9","lang-python",1718719163,["Compliance mode enabled, was '1.9.9'"]],
 ["m2crypto","0.38.0","0.42.0","lang-python",1629690194,["Compliance mode enabled, was '0.42.0'"]],
 ["cli-helpers","1.1.0","2.3.1","lang-python",1551501525,["Compliance mode enabled, was '2.3.1'"]],
 ["pyqt-builder","1.12.1","1.16.4","lang-python",1637636760,["Compliance mode enabled, was '1.16.4'"]],
