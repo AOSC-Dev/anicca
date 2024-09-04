@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725455965?label=Updated)
+![Relative date](https://img.shields.io/date/1725459013?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2531,7 +2531,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |wtforms|2.2.1|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32|Compliance mode enabled, was '3.2.5'|
-|wxmaxima|22.05.0|24.08.0|app-scientific|Compliance mode enabled, was '24.08.0'|
 |wxwidgets|3.2.4|3.2.5|runtime-desktop|Compliance mode enabled, was '3.2.5'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
 |x264|0<br>+git20240305|3191|runtime-multimedia|Compliance mode enabled, was '3191'|
@@ -2574,7 +2573,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
 |xpra|5.0.8|6.1.2|app-network|Compliance mode enabled, was '6.1.2'|
-|xray|1.8.4|1.8.23|app-network|Compliance mode enabled, was '1.8.23'|
+|xray|1.8.4|1.8.24|app-network|Compliance mode enabled, was '1.8.24'|
+|xray-plugin|1.8.17|1.8.24|app-network|Compliance mode enabled, was '1.8.24'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
 |xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
@@ -2596,7 +2596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.41|0.44|app-electronics|Compliance mode enabled, was '0.44'|
+|yosys|0.41|0.45|app-electronics|Compliance mode enabled, was '0.45'|
 |ytmusicapi|1.7.2|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.6.0|app-devices|Compliance mode enabled, was '2.6.0'|
