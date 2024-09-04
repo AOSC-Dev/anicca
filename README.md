@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725459013?label=Updated)
+![Relative date](https://img.shields.io/date/1725462606?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1411,7 +1411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
 |midori|9.0|11.3.3|app-web|Compliance mode enabled, was '11.3.3'|
 |mihomo|1.18.7|1.18.8|app-network|Compliance mode enabled, was '1.18.8'|
-|milou|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.9.0|app-games||
@@ -2531,6 +2530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |wtforms|2.2.1|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |wxgtk-3+32|3.0.4|3.2.5|runtime-optenv32|Compliance mode enabled, was '3.2.5'|
+|wxmaxima|22.05.0|24.08.0|app-scientific|Compliance mode enabled, was '24.08.0'|
 |wxwidgets|3.2.4|3.2.5|runtime-desktop|Compliance mode enabled, was '3.2.5'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
 |x264|0<br>+git20240305|3191|runtime-multimedia|Compliance mode enabled, was '3191'|
