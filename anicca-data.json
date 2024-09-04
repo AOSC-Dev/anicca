@@ -311,7 +311,6 @@
 ["wildmidi","0.4.3","0.4.6","app-multimedia",1549919967,["Compliance mode enabled, was '0.4.6'"]],
 ["cdrdao","1.2.4","1.2.5","app-multimedia",1678950872,["Compliance mode enabled, was '1.2.5'"]],
 ["cdemu-daemon","3.2.4","3.2.7","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.7'"]],
-["jack","1.9.21","1.9.22","app-multimedia",1657440254,["Compliance mode enabled, was '1.9.22'"]],
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
 ["openmpt","0.6.4","0.7.9","app-multimedia",1722221884,["Compliance mode enabled, was '0.7.9'"]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
