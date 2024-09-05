@@ -1,12 +1,12 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725559877?label=Updated)
+![Relative date](https://img.shields.io/date/1725563183?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
-|aardvark-dns|1.9.0|1.12.1|app-admin|Compliance mode enabled, was '1.12.1'|
+|aardvark-dns|1.9.0|1.12.2|app-admin|Compliance mode enabled, was '1.12.2'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
@@ -2354,7 +2354,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
-|thunderbird|128.1.0esr|129.0|app-web|Compliance mode enabled, was '129.0'|
+|thunderbird|128.1.0esr|130.0|app-web|Compliance mode enabled, was '130.0'|
 |tigervnc|1.12.0|1.14.0|app-network|Compliance mode enabled, was '1.14.0'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilda|1.4.1|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'|
@@ -2517,6 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
+|wireplumber|0.5.5|0.5.6|app-multimedia|Compliance mode enabled, was '0.5.6'|
 |wlroots|0.17.4|0.18.0|runtime-display|Compliance mode enabled, was '0.18.0'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.2-stable|runtime-cryptography|Compliance mode enabled, was '5.7.2-stable'|
