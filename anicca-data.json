@@ -2174,6 +2174,7 @@
 ["cdemu-daemon","3.2.4","3.2.7","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.7'"]],
 ["gpac","2.2.1","2.4.0","app-multimedia",1707279983,["Compliance mode enabled, was '2.4.0'"]],
 ["wavpack","5.2.0","5.7.0","app-multimedia",1576672295,["Compliance mode enabled, was '5.7.0'"]],
+["paprefs","1.1","1.2","app-multimedia",1550643991,["Compliance mode enabled, was '1.2'"]],
 ["feeluown-ytmusic","0.3.4","0.4.4","app-multimedia",1708762785,["Compliance mode enabled, was '0.4.4'"]],
 ["feeluown-netease","1.0.1","1.0.3","app-multimedia",1710216003,["Compliance mode enabled, was '1.0.3'"]],
 ["sonic-visualiser","4.4","5.0","app-multimedia",1641879076,["Compliance mode enabled, was '5.0'"]],
