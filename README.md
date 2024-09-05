@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725502130?label=Updated)
+![Relative date](https://img.shields.io/date/1725505888?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -300,7 +300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debianutils|5.7|5.20|app-utils|Compliance mode enabled, was '5.20'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
-|deno|1.44.1|1.46.2|lang-js|Compliance mode enabled, was '1.46.2'|
+|deno|1.44.1|1.46.3|lang-js|Compliance mode enabled, was '1.46.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dex|0.9.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'|
@@ -1668,6 +1668,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-build|1.92|2.83|lang-perl|Compliance mode enabled, was '2.83'|
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
+|perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-app-cpanminus|1.7044|1.7047|lang-perl|Compliance mode enabled, was '1.7047'|
 |perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
 |perl-authen-sasl|2.1401|2.1700|lang-perl|Compliance mode enabled, was '2.1700'|
@@ -2141,7 +2142,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
 |scons|4.4.0|4.8.1|app-devel|Compliance mode enabled, was '4.8.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
-|scrcpy|2.4|2.6.1-install-release|app-devices|Compliance mode enabled, was '2.6.1-install-release'|
+|scrcpy|2.4|2.6.1|app-devices|Compliance mode enabled, was '2.6.1'|
 |screen|4.9.0|5.0.0|app-utils|Compliance mode enabled, was '5.0.0'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
@@ -2279,7 +2280,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
 |strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
 |streamlink|6.7.4|6.9.0|app-multimedia|Compliance mode enabled, was '6.9.0'|
-|stress-ng|0.18.02|0.18.03|app-benchmarks|Compliance mode enabled, was '0.18.03'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
@@ -2586,7 +2586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |yara|4.5.0|4.5.1|app-utils|Compliance mode enabled, was '4.5.1'|
 |yard|0.9.26|0.9.37|app-doc|Compliance mode enabled, was '0.9.37'|
-|yarl|1.9.4|1.9.9|lang-python|Compliance mode enabled, was '1.9.9'|
+|yarl|1.9.4|1.9.10|lang-python|Compliance mode enabled, was '1.9.10'|
 |yaspin|1.2.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |yaz|5.34.0|5.34.1|runtime-web|Compliance mode enabled, was '5.34.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
