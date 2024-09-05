@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725567072?label=Updated)
+![Relative date](https://img.shields.io/date/1725570390?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -83,7 +83,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ast-grep|0.26.1|0.26.3|app-devel|Compliance mode enabled, was '0.26.3'|
 |astroid|2.12.2|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
-|astyle|3.5.2|3.6|app-devel|Compliance mode enabled, was '3.6'|
+|astyle|3.5.2|3.6.1|app-devel|Compliance mode enabled, was '3.6.1'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |at-spi2-core|2.52.0|2.53.1|desktop-gnome|Compliance mode enabled, was '2.53.1'|
 |at-spi2-core+32|2.26.3|2.53.1|runtime-optenv32|Compliance mode enabled, was '2.53.1'|
@@ -638,7 +638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
-|highlight|4.12|4.13|app-devel|Compliance mode enabled, was '4.13'|
+|highlight|4.12|4.14|app-devel|Compliance mode enabled, was '4.14'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hivex|1.3.23|1.3.24|app-admin|Compliance mode enabled, was '1.3.24'|
@@ -661,7 +661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.111.2|lang-python|Compliance mode enabled, was '6.111.2'|
+|hypothesis-python|6.97.4|6.112.0|lang-python|Compliance mode enabled, was '6.112.0'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -2406,6 +2406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |typing-extensions|4.7.1|4.12.2|lang-python|Compliance mode enabled, was '4.12.2'|
+|tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
 |uboot-asahi|2023.07.02<br>+3|2024.07+1|runtime-kernel|Compliance mode enabled, was '2024.07-1'|
 |uboot-tools|2022.10|2024.07|app-utils|Compliance mode enabled, was '2024.07'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
