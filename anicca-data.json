@@ -984,7 +984,6 @@
 ["graftcp","0.7.3","0.7.4","app-network",1721592220,["Compliance mode enabled, was '0.7.4'"]],
 ["slurm","0.4.4","0.5.1","app-network",1600577920,["Compliance mode enabled, was '0.5.1'"]],
 ["networkmanager-pptp","1.2.10","1.2.12","app-network",1663359145,["Compliance mode enabled, was '1.2.12'"]],
-["xray-plugin","1.8.17","1.8.24","app-network",1721807833,["Compliance mode enabled, was '1.8.24'"]],
 ["unbound","1.19.2","1.21.0","app-network",1709998421,[]],
 ["razor-agents","2.85","2.152","app-network",1678950872,["Compliance mode enabled, was '2.152'"]],
 ["synergy","1.11.1","2.3.2","app-network",1585097716,["Compliance mode enabled, was '2.3.2'"]],
