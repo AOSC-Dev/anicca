@@ -827,7 +827,7 @@
 ["lxcfs","3.0.3","6.0.1","app-admin",1549304004,["Compliance mode enabled, was '6.0.1'"]],
 ["cryptsetup","2.7.0","2.7.5","app-admin",1709504085,["Compliance mode enabled, was '2.7.5'"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
-["jenkins","2.468","2.474","app-admin",1721531773,["Compliance mode enabled, was '2.474'"]],
+["jenkins","2.468","2.475","app-admin",1721531773,["Compliance mode enabled, was '2.475'"]],
 ["clamav","1.3.1","1.4.1","app-admin",1721093795,["Compliance mode enabled, was '1.4.1'"]],
 ["catatonit","0.1.7","0.2.0","app-admin",1678521202,["Compliance mode enabled, was '0.2.0'"]],
 ["squashfs-tools","4.5","4.6.1","app-admin",1634630855,["Compliance mode enabled, was '4.6.1'"]],
