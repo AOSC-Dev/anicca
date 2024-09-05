@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725520198?label=Updated)
+![Relative date](https://img.shields.io/date/1725523983?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -406,7 +406,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
-|feishin|0.7.3|0.8.1|app-multimedia|Compliance mode enabled, was '0.8.1'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|4.4.4|7.0.2|app-multimedia|Compliance mode enabled, was '7.0.2'|
 |ffmpeg+32|4.2.5|7.0.2|runtime-optenv32|Compliance mode enabled, was '7.0.2'|
@@ -1614,7 +1613,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |oxygen-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |oxygen-sounds|5.25.3|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
-|p-vector|0.5.0|0.6.0|app-admin|Compliance mode enabled, was '0.6.0'|
 |p11-kit|0.25.3|0.25.5|runtime-cryptography|Compliance mode enabled, was '0.25.5'|
 |p11-kit+32|0.23.18.1|0.25.5|runtime-optenv32|Compliance mode enabled, was '0.25.5'|
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
@@ -2191,7 +2189,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
-|sing-box|1.8.13|1.9.4|app-network|Compliance mode enabled, was '1.9.4'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.8.6|lang-python|Compliance mode enabled, was '6.8.6'|
 |skanlite|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
