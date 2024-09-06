@@ -2584,7 +2584,7 @@
 ["chinadns-ng","2024.07.16","2024.07.21","app-web",1721316608,["Compliance mode enabled, was '2024.07.21'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
 ["hugo","0.131.0","0.134.0","app-web",1723474419,["Compliance mode enabled, was '0.134.0'"]],
-["telegram-desktop","5.2.3","5.4.5","app-web",1721220406,["Compliance mode enabled, was '5.4.5'"]],
+["telegram-desktop","5.2.3","5.4.6","app-web",1721220406,["Compliance mode enabled, was '5.4.6'"]],
 ["firefox","128.0.3","130.0","app-web",1722615886,["Compliance mode enabled, was '130.0'"]],
 ["certbot-nginx","2.10.0","2.11.0","app-web",1716728325,["Compliance mode enabled, was '2.11.0'"]],
 ["certbot-dns-cloudflare","2.10.0","2.11.0","app-web",1716728302,["Compliance mode enabled, was '2.11.0'"]],
