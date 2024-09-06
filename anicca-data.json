@@ -2382,7 +2382,7 @@
 ["perl-html-parser","3.72","3.83","lang-perl",1457328459,["Compliance mode enabled, was '3.83'"]],
 ["perl-io-socket-ssl","2.062","2.089","lang-perl",1551145090,["Compliance mode enabled, was '2.089'"]],
 ["perl-http-cookies","6.01","6.11","lang-perl",1678950872,["Compliance mode enabled, was '6.11'"]],
-["perl-yaml-libyaml","0.85","0.89","lang-perl",1678351353,["Compliance mode enabled, was '0.89'"]],
+["perl-yaml-libyaml","0.85","0.901.0","lang-perl",1678351353,["Compliance mode enabled, was '0.901.0'"]],
 ["perl-class-data-inheritable","0.08","0.09","lang-perl",1596485702,["Compliance mode enabled, was '0.09'"]],
 ["perl-file-sharedir-install","0.13","0.14","lang-perl",1596485998,["Compliance mode enabled, was '0.14'"]],
 ["perl-ipc-system-simple","1.25","1.30","lang-perl",1678950872,["Compliance mode enabled, was '1.30'"]],
