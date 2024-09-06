@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725635379?label=Updated)
+![Relative date](https://img.shields.io/date/1725639065?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1642,7 +1642,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partclone|0.3.20|0.3.32|app-admin|Compliance mode enabled, was '0.3.32'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|passt|2024_07_26.57a21d2|2024_08_21.1d6142f|app-network||
+|passt|2024_07_26.57a21d2|2024_09_06.6b38f07|app-network||
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
 |patch-ng|1.17.4|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
@@ -2282,7 +2282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
 |strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
-|streamlink|6.7.4|6.9.0|app-multimedia|Compliance mode enabled, was '6.9.0'|
+|streamlink|6.7.4|6.10.0|app-multimedia|Compliance mode enabled, was '6.10.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
@@ -2604,6 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
+|zed|0.150.4|0.151.2|app-editors|Compliance mode enabled, was '0.151.2'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.133.0|lang-python|Compliance mode enabled, was '0.133.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
