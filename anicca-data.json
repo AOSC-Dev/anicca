@@ -1418,6 +1418,7 @@
 ["verilator","5.026","5.028","app-electronics",1721488325,["Compliance mode enabled, was '5.028'"]],
 ["yosys","0.41","0.45","app-electronics",1717056114,["Compliance mode enabled, was '0.45'"]],
 ["apicula","0.9.1","0.13","app-electronics",1700797896,["Compliance mode enabled, was '0.13'"]],
+["kicad","8.0.4","8.0.5","app-electronics",1722823595,["Compliance mode enabled, was '8.0.5'"]],
 ["cargo-audit","0.20.0","0.20.1","lang-rust",1720105850,["Compliance mode enabled, was '0.20.1'"]],
 ["rust-bindgen","0.69.4","0.70.1","lang-rust",1721277711,["Compliance mode enabled, was '0.70.1'"]],
 ["cargo-c","0.10.2","0.10.3","lang-rust",1720034717,["Compliance mode enabled, was '0.10.3'"]],
