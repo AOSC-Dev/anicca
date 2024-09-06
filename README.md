@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725642414?label=Updated)
+![Relative date](https://img.shields.io/date/1725646352?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1950,6 +1950,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygit2|1.14.1|1.15.1|lang-python|Compliance mode enabled, was '1.15.1'|
 |pyglet|1.3.2|2.0.17|lang-python|Compliance mode enabled, was '2.0.17'|
 |pygments|2.10.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
+|pygobject-3|3.48.2|3.49.0|lang-python|Compliance mode enabled, was '3.49.0'|
 |pygraphviz|1.5|1.13|lang-python|Compliance mode enabled, was '1.13'|
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
@@ -2122,7 +2123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
-|ruby-pg|1.1.4|1.5.7|lang-ruby|Compliance mode enabled, was '1.5.7'|
+|ruby-pg|1.1.4|1.5.8|lang-ruby|Compliance mode enabled, was '1.5.8'|
 |ruby-pkg-config|1.4.4|1.5.6|lang-ruby|Compliance mode enabled, was '1.5.6'|
 |runc|1.1.12|1.1.14|app-admin|Compliance mode enabled, was '1.1.14'|
 |rust-bindgen|0.69.4|0.70.1|lang-rust|Compliance mode enabled, was '0.70.1'|
@@ -2609,7 +2610,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.133.0|lang-python|Compliance mode enabled, was '0.133.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
-|zfs|2.2.6|2.2.5|app-admin|Compliance mode enabled, was '2.2.5'<br>Possible downgrade from the current version (2.2.6 -> 2.2.5)|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
