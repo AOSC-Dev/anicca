@@ -2416,7 +2416,7 @@
 ["perl-devel-symdump","2.0604","2.18","lang-perl",1536763357,["Compliance mode enabled, was '2.18'","Possible downgrade from the current version (2.0604 -> 2.18)"]],
 ["pcsc-perl","1.4.14","1.4.16","lang-perl",1449274835,["Compliance mode enabled, was '1.4.16'"]],
 ["perl-extutils-helpers","0.026","0.028","lang-perl",1678950872,["Compliance mode enabled, was '0.028'"]],
-["perl-module-build-tiny","0.039","0.050","lang-perl",1678950872,["Compliance mode enabled, was '0.050'"]],
+["perl-module-build-tiny","0.039","0.051","lang-perl",1678950872,["Compliance mode enabled, was '0.051'"]],
 ["perl-gnome2","1.047","1.048","lang-perl",1530196414,["Compliance mode enabled, was '1.048'"]],
 ["perl-regexp-common","2017060201","2024080801","lang-perl",1530196414,["Compliance mode enabled, was '2024080801'"]],
 ["perl-mozilla-ca","20180117","20240730","lang-perl",1522294837,["Compliance mode enabled, was '20240730'"]],
