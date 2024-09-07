@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725725408?label=Updated)
+![Relative date](https://img.shields.io/date/1725728821?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -656,10 +656,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
-|hugo|0.131.0|0.134.0|app-web|Compliance mode enabled, was '0.134.0'|
+|hugo|0.131.0|0.134.1|app-web|Compliance mode enabled, was '0.134.1'|
 |humanize|0.5.1|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
-|hwdata|0.384|0.386|runtime-data|Compliance mode enabled, was '0.386'|
+|hwdata|0.384|0.387|runtime-data|Compliance mode enabled, was '0.387'|
 |hwloc|2.10.0|2.11.1|app-admin|Compliance mode enabled, was '2.11.1'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
@@ -699,7 +699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |intel-media-driver|24.1.5|24.3.3|runtime-multimedia|Compliance mode enabled, was '24.3.3'|
-|iosevka-fonts|28.0.5|31.5.0|desktop-fonts|Compliance mode enabled, was '31.5.0'|
+|iosevka-fonts|28.0.5|31.6.0|desktop-fonts|Compliance mode enabled, was '31.6.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
