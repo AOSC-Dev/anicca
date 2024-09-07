@@ -1796,7 +1796,7 @@
 ["urwid","2.1.2","2.6.15","lang-python",1618998184,["Compliance mode enabled, was '2.6.15'"]],
 ["attrs","23.2.0","24.2.0","lang-python",1718936001,["Compliance mode enabled, was '24.2.0'"]],
 ["pybind11","2.11.1","2.13.5","lang-python",1696572712,["Compliance mode enabled, was '2.13.5'"]],
-["pydantic-core","2.16.1","2.23.2","lang-python",1708762785,["Compliance mode enabled, was '2.23.2'"]],
+["pydantic-core","2.16.1","2.23.3","lang-python",1708762785,["Compliance mode enabled, was '2.23.3'"]],
 ["setuptools-python3","69.1.0","74.1.2","lang-python",1708685051,["Compliance mode enabled, was '74.1.2'"]],
 ["pandas","2.1.2","2.2.2","lang-python",1700797896,["Compliance mode enabled, was '2.2.2'"]],
 ["rich","13.7.1","13.8.0","lang-python",1722488599,["Compliance mode enabled, was '13.8.0'"]],
