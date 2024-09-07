@@ -1,12 +1,13 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725732761?label=Updated)
+![Relative date](https://img.shields.io/date/1725735976?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.9.0|1.12.2|app-admin|Compliance mode enabled, was '1.12.2'|
+|aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
 |acbs|20240815|20240907|app-devel|Compliance mode enabled, was '20240907'|
@@ -1557,7 +1558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.16|desktop-kde|Compliance mode enabled, was '0.26.16'|
 |okular|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.9.2|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.9.3|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7625-240902-181c4f3|app-games|Compliance mode enabled, was '1.91.0.7625-240902-181c4f3'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
@@ -1701,6 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|lang-perl|Compliance mode enabled, was '1.65'|
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
 |perl-datetime-locale|1.26|1.43|lang-perl|Compliance mode enabled, was '1.43'|
+|perl-datetime-timezone|2.62|2.63|lang-perl|Compliance mode enabled, was '2.63'|
 |perl-dbd-mysql|4.052|5.008|lang-perl|Compliance mode enabled, was '5.008'|
 |perl-dbd-sqlite|1.63<br>+03|1.74|lang-perl|Compliance mode enabled, was '1.74'|
 |perl-dbi|1.642|1.645|lang-perl|Compliance mode enabled, was '1.645'|
@@ -1927,7 +1929,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compliance mode enabled, was '0.1.0'|
 |purpose|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |pv|1.6.20|1.8.13|app-utils|Compliance mode enabled, was '1.8.13'|
-|py-filelock|3.14.0|3.15.4|lang-python|Compliance mode enabled, was '3.15.4'|
+|py-filelock|3.14.0|3.16.0|lang-python|Compliance mode enabled, was '3.16.0'|
 |py-setproctitle|1.1.10|1.3.3|lang-python|Compliance mode enabled, was '1.3.3'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
@@ -2350,6 +2352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tevent|0.13.0|0.16.1|runtime-common|Compliance mode enabled, was '0.16.1'|
+|texinfo|7.1|7.1.1|app-utils|Compliance mode enabled, was '7.1.1'|
 |texlive|20240312|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20240312 -> 2024)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
 |texstudio|4.0.2|4.8.2|app-doc|Compliance mode enabled, was '4.8.2'|
@@ -2473,7 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vim|9.1.0707|9.1.0718|app-editors|Compliance mode enabled, was '9.1.0718'|
 |virglrenderer|0.10.4|1.0.1|app-virtualization|Compliance mode enabled, was '1.0.1'|
-|virtualenv|20.25.0|20.26.3|lang-python|Compliance mode enabled, was '20.26.3'|
+|virtualenv|20.25.0|20.26.4|lang-python|Compliance mode enabled, was '20.26.4'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
 |vkd3d|1.9|1.13|runtime-display|Compliance mode enabled, was '1.13'|
 |vkd3d+32|1.9|1.13|runtime-optenv32|Compliance mode enabled, was '1.13'|
