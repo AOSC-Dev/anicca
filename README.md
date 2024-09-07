@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725669371?label=Updated)
+![Relative date](https://img.shields.io/date/1725674710?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -10,6 +10,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
+|acbs|20240815|20240907|app-devel|Compliance mode enabled, was '20240907'|
 |accerciser|3.40.0|3.44.1|desktop-gnome|Compliance mode enabled, was '3.44.1'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
@@ -134,6 +135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils|2.43|2.43.1|app-devel|Compliance mode enabled, was '2.43.1'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
+|bitwarden|2024.8.1|2024.8.2|app-utils|Compliance mode enabled, was '2024.8.2'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.1|app-utils|Compliance mode enabled, was '4.6.1'|
 |blender|4.0.2|4.2.1|app-creativity|Compliance mode enabled, was '4.2.1'|
@@ -189,7 +191,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.20.0|0.20.1|lang-rust|Compliance mode enabled, was '0.20.1'|
-|cargo-c|0.10.2|0.10.3|lang-rust|Compliance mode enabled, was '0.10.3'|
+|cargo-c|0.10.2|0.10.4|lang-rust|Compliance mode enabled, was '0.10.4'|
+|cargo-release|0.25.10|0.25.11|lang-rust|Compliance mode enabled, was '0.25.11'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |catatonit|0.1.7|0.2.0|app-admin|Compliance mode enabled, was '0.2.0'|
 |catch2|2.13.8|3.7.0|runtime-common|Compliance mode enabled, was '3.7.0'|
@@ -239,7 +242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|1.84|2.02|app-utils|Compliance mode enabled, was '2.02'|
-|cloud-init|24.2|24.3|app-admin|Compliance mode enabled, was '24.3'|
+|cloud-init|24.2|24.3.1|app-admin|Compliance mode enabled, was '24.3.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |cmake|3.30.1|3.30.3|app-devel|Compliance mode enabled, was '3.30.3'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
