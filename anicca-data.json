@@ -751,7 +751,7 @@
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
 ["mtd-utils","2.1.5","2.2.0","app-admin",1673935786,["Compliance mode enabled, was '2.2.0'"]],
 ["intel-gpu-tools","1.28","1.29","app-admin",1699859032,["Compliance mode enabled, was '1.29'"]],
-["oma","1.9.0","1.12.13","app-admin",1725631840,["Compliance mode enabled, was '1.12.13'"]],
+["oma","1.9.1","1.12.13","app-admin",1725686683,["Compliance mode enabled, was '1.12.13'"]],
 ["sbsigntool","0.9.4","0.9.5","app-admin",1600106563,["Compliance mode enabled, was '0.9.5'"]],
 ["targetcli-fb","2.1.54","2.1.58","app-admin",1641887332,["Compliance mode enabled, was '2.1.58'"]],
 ["kmod","31","33","app-admin",1703924648,["Compliance mode enabled, was '33'"]],
