@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725682344?label=Updated)
+![Relative date](https://img.shields.io/date/1725685705?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -612,7 +612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer-1-0+32|1.16.2|1.24.7|groups|Compliance mode enabled, was '1.24.7'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
-|gtk-4|4.14.2|4.14.6|desktop-gnome|Compliance mode enabled, was '4.14.6'|
+|gtk-4|4.14.2|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|runtime-desktop|Compliance mode enabled, was '0.8.2'|
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
@@ -727,7 +727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.31|app-admin|Compliance mode enabled, was '0.31'|
 |jinja2|3.1.2|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
-|jmol|14.30.0|16.2.25|app-scientific|Compliance mode enabled, was '16.2.25'|
+|jmol|14.30.0|16.2.27|app-scientific|Compliance mode enabled, was '16.2.27'|
 |john|1.8.0|1.9.0|app-penetration|Compliance mode enabled, was '1.9.0'|
 |josepy|1.13.0|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |json-c|0.16|0.17|runtime-common|Compliance mode enabled, was '0.17'|
