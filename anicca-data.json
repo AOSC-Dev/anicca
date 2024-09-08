@@ -685,7 +685,7 @@
 ["sunxi-tools","1.4.2+git20220729","1.4.2","app-devel",1669531930,["Compliance mode enabled, was '1.4.2'"]],
 ["git-lfs","3.5.0","3.5.1","app-devel",1712458054,["Compliance mode enabled, was '3.5.1'"]],
 ["asio","1.18.1","1.31.0","app-devel",1614161782,["Compliance mode enabled, was '1.31.0'"]],
-["ctags","20191203","6.1.20240901.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20240901.0'","Possible downgrade from the current version (20191203 -> 6.1.20240901.0)"]],
+["ctags","20191203","6.1.20240908.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20240908.0'","Possible downgrade from the current version (20191203 -> 6.1.20240908.0)"]],
 ["msitools","0.101","0.103","app-devel",1619939228,["Compliance mode enabled, was '0.103'"]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,["Compliance mode enabled, was '1.10'"]],
 ["php","8.3.8","8.3.11","app-devel",1721223235,["Compliance mode enabled, was '8.3.11'"]],
