@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725833179?label=Updated)
+![Relative date](https://img.shields.io/date/1725837134?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2490,8 +2490,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
 |vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
-|volk-meta-loader|1.3.283.0|1.3.290.0|runtime-display|Compliance mode enabled, was '1.3.290.0'|
-|volk-meta-loader+32|1.3.283.0|1.3.290.0|runtime-optenv32|Compliance mode enabled, was '1.3.290.0'|
+|volk-meta-loader|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
+|volk-meta-loader+32|1.3.283.0|1.3.295|runtime-optenv32|Compliance mode enabled, was '1.3.295'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.92.2|1.93.0|app-editors|Compliance mode enabled, was '1.93.0'|
@@ -2521,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.4.1|app-web|Compliance mode enabled, was '4.4.1'|
+|weechat|4.2.2|4.4.2|app-web|Compliance mode enabled, was '4.4.2'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|1.0.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |wesnoth|1.16.10|1.19.3|app-games|Compliance mode enabled, was '1.19.3'|
