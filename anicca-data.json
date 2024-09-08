@@ -1959,6 +1959,7 @@
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1637636761,["Compliance mode enabled, was '21.3.0'"]],
 ["yaspin","1.2.0","3.0.2","lang-python",1609312655,["Compliance mode enabled, was '3.0.2'"]],
 ["pycryptodomex","3.9.9","3.20.0","lang-python",1609312655,["Compliance mode enabled, was '3.20.0'"]],
+["cachetools","3.1.0","5.5.0","lang-python",1549988067,["Compliance mode enabled, was '5.5.0'"]],
 ["flask","1.1.2","3.0.3","lang-python",1600671246,["Compliance mode enabled, was '3.0.3'"]],
 ["keystoneauth1","5.7.0","5.8.0","lang-python",1724639794,["Compliance mode enabled, was '5.8.0'"]],
 ["zope-component","4.4.1","6.0","lang-python",1530283385,["Compliance mode enabled, was '6.0'"]],
