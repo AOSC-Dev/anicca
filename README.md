@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725807952?label=Updated)
+![Relative date](https://img.shields.io/date/1725811951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -81,7 +81,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.26.1|0.27.0|app-devel|Compliance mode enabled, was '0.27.0'|
+|ast-grep|0.26.1|0.27.1|app-devel|Compliance mode enabled, was '0.27.1'|
 |astroid|2.12.2|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |astyle|3.5.2|3.6.1|app-devel|Compliance mode enabled, was '3.6.1'|
@@ -1874,7 +1874,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |plasma-workspace-wallpapers|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |plasmatube|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
-|platformdirs|2.5.2|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
+|platformdirs|2.5.2|4.3.2|lang-python|Compliance mode enabled, was '4.3.2'|
 |plymouth-kcm|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
@@ -2296,6 +2296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
 |strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
 |streamlink|6.7.4|6.10.0|app-multimedia|Compliance mode enabled, was '6.10.0'|
+|stress-ng|0.18.03|0.18.04|app-benchmarks|Compliance mode enabled, was '0.18.04'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|

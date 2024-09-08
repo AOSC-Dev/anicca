@@ -1,4 +1,5 @@
 [
+["stress-ng","0.18.03","0.18.04","app-benchmarks",1725502841,["Compliance mode enabled, was '0.18.04'"]],
 ["buildbot-benchmark","20240327","20230227","app-benchmarks",1718812670,["Compliance mode enabled, was '20230227'","Possible downgrade from the current version (20240327 -> 20230227)"]],
 ["vkmark","2017.08+git20230412","2017.08","app-benchmarks",1711507517,["Compliance mode enabled, was '2017.08'"]],
 ["libupnp","1.14.16","1.14.19","runtime-network",1682062129,["Compliance mode enabled, was '1.14.19'"]],
@@ -660,7 +661,7 @@
 ["hotspot","1.3.0","1.5.1","app-devel",1623906362,["Compliance mode enabled, was '1.5.1'"]],
 ["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
 ["geany-plugins","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
-["ast-grep","0.26.1","0.27.0","app-devel",1723454554,["Compliance mode enabled, was '0.27.0'"]],
+["ast-grep","0.26.1","0.27.1","app-devel",1723454554,["Compliance mode enabled, was '0.27.1'"]],
 ["stlink","1.7.0","1.8.0","app-devel",1704334928,["Compliance mode enabled, was '1.8.0'"]],
 ["cppcheck","2.8","2.15.0","app-devel",1661664823,["Compliance mode enabled, was '2.15.0'"]],
 ["libtool","2.4.7","2.5.2","app-devel",1678950872,["Compliance mode enabled, was '2.5.2'"]],
@@ -1756,7 +1757,7 @@
 ["markdown","3.3.4","3.7","lang-python",1619939089,["Compliance mode enabled, was '3.7'"]],
 ["pyte","0.8.0","0.8.2","lang-python",1530292808,["Compliance mode enabled, was '0.8.2'"]],
 ["olefile","0.46","0.47","lang-python",1539867919,["Compliance mode enabled, was '0.47'"]],
-["platformdirs","2.5.2","4.3.1","lang-python",1658217673,["Compliance mode enabled, was '4.3.1'"]],
+["platformdirs","2.5.2","4.3.2","lang-python",1658217673,["Compliance mode enabled, was '4.3.2'"]],
 ["cffi","1.15.0","1.17.1","lang-python",1645500210,["Compliance mode enabled, was '1.17.1'"]],
 ["argparse-manpage","4.5","4.6","lang-python",1707299111,["Compliance mode enabled, was '4.6'"]],
 ["translate-toolkit","2.3.1","3.13.3","lang-python",1549919969,["Compliance mode enabled, was '3.13.3'"]],
