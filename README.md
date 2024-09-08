@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725768676?label=Updated)
+![Relative date](https://img.shields.io/date/1725772266?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1618,7 +1618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.3.0|lang-python|Compliance mode enabled, was '7.3.0'|
 |ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
-|osu-lazer|2024.817.0|2024.906.0|app-games|Compliance mode enabled, was '2024.906.0'|
+|osu-lazer|2024.817.0|2024.906.2|app-games|Compliance mode enabled, was '2024.906.2'|
 |oxygen|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |oxygen-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |oxygen-sounds|5.25.3|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
@@ -2619,7 +2619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
 |zed|0.150.4|0.151.2|app-editors|Compliance mode enabled, was '0.151.2'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
-|zeroconf|0.28.6|0.133.0|lang-python|Compliance mode enabled, was '0.133.0'|
+|zeroconf|0.28.6|0.134.0|lang-python|Compliance mode enabled, was '0.134.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
