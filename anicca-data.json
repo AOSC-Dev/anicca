@@ -745,6 +745,7 @@
 ["osinfo-db-tools","1.10.0","1.11.0","app-admin",1694574450,["Compliance mode enabled, was '1.11.0'"]],
 ["pacman","6.0.1","7.0.0","app-admin",1641887332,["Compliance mode enabled, was '7.0.0'"]],
 ["partclone","0.3.20","0.3.32","app-admin",1660376240,["Compliance mode enabled, was '0.3.32'"]],
+["apparmor","3.0.8","4.0.2","app-admin",1677834439,["Compliance mode enabled, was '4.0.2'"]],
 ["open-iscsi","2.1.9","2.1.10","app-admin",1716443426,["Compliance mode enabled, was '2.1.10'"]],
 ["damo","2.4.7","2.4.9","app-admin",1724095000,["Compliance mode enabled, was '2.4.9'"]],
 ["power-profiles-daemon","0.21","0.22","app-admin",1715831466,["Compliance mode enabled, was '0.22'"]],
