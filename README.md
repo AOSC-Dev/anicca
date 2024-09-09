@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725884237?label=Updated)
+![Relative date](https://img.shields.io/date/1725887982?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1324,7 +1324,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.225|runtime-kernel|Compliance mode enabled, was '5.10.225'|
 |linux+kernel+retro+minimal|5.15.17|5.10.225|runtime-kernel|Compliance mode enabled, was '5.10.225'<br>Possible downgrade from the current version (5.15.17 -> 5.10.225)|
-|linux-firmware|20240506|20240811|runtime-kernel||
+|linux-firmware|20240506|20240909|runtime-kernel||
 |linux-kernel|6.10.8|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.8 -> 5.19.17)|
 |linux-kernel-lts|6.6.49|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.49 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.225|runtime-kernel|Compliance mode enabled, was '5.10.225'|
@@ -2511,7 +2511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
-|webkit2gtk|2.44.2|2.44.3|runtime-web|Compliance mode enabled, was '2.44.3'|
+|webkit2gtk|2.44.2|2.44.4|runtime-web|Compliance mode enabled, was '2.44.4'|
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
