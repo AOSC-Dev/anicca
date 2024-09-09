@@ -1891,7 +1891,7 @@
 ["ipython","7.28.0","8.27.0","lang-python",1637636760,["Compliance mode enabled, was '8.27.0'"]],
 ["editables","0.3","0.5","lang-python",1676525877,["Compliance mode enabled, was '0.5'"]],
 ["python-tabulate","0.8.3","0.9.0","lang-python",1551501524,["Compliance mode enabled, was '0.9.0'"]],
-["pydantic","2.6.0","2.9.0","lang-python",1708762785,["Compliance mode enabled, was '2.9.0'"]],
+["pydantic","2.6.0","2.9.1","lang-python",1708762785,["Compliance mode enabled, was '2.9.1'"]],
 ["websockets","12.0","1.4.4","lang-python",1714209798,["Compliance mode enabled, was '1.4.4'","Possible downgrade from the current version (12.0 -> 1.4.4)"]],
 ["hatchling","1.21.1","1.12.0","lang-python",1708256695,["Compliance mode enabled, was '1.12.0'","Possible downgrade from the current version (1.21.1 -> 1.12.0)"]],
 ["peewee","3.17.1","3.17.6","lang-python",1708669266,["Compliance mode enabled, was '3.17.6'"]],
