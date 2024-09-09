@@ -2034,7 +2034,7 @@
 ["gdmd","0.1.0+git20230214","script-0.1.0","lang-dlang",1716196956,["Compliance mode enabled, was 'script-0.1.0'","Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)"]],
 ["libslirp","4.6.1","4.8.0","runtime-emulation",1641193532,["Compliance mode enabled, was '4.8.0'"]],
 ["skopeo","1.16.0","1.16.1","app-containers",1722951922,["Compliance mode enabled, was '1.16.1'"]],
-["docker","27.1.1","27.2.0","app-containers",1721977925,[]],
+["docker","27.1.1","27.2.1","app-containers",1721977925,[]],
 ["buildah","1.37.0","1.37.2","app-containers",1722937796,["Compliance mode enabled, was '1.37.2'"]],
 ["helm","3.15.0","3.15.4","app-containers",1716211003,["Compliance mode enabled, was '3.15.4'"]],
 ["docker-compose","2.29.1","2.29.2","app-containers",1722325391,["Compliance mode enabled, was '2.29.2'"]],
