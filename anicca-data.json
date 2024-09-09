@@ -2544,6 +2544,7 @@
 ["lxgwfasmartgothic-font","1.200","1.201","desktop-fonts",1724894694,["Compliance mode enabled, was '1.201'"]],
 ["ttf-tibetan-machine-unicode","1.901b","1.901","desktop-fonts",1629606314,["Compliance mode enabled, was '1.901'"]],
 ["lxgwneoxihei-font","1.200","1.203","desktop-fonts",1724894694,["Compliance mode enabled, was '1.203'"]],
+["iosevka-fonts","31.6.0","31.6.1","desktop-fonts",1725877690,["Compliance mode enabled, was '31.6.1'"]],
 ["genryu-font","1.501","2.100","desktop-fonts",1597907078,["Compliance mode enabled, was '2.100'"]],
 ["adobe-source-serif","4.005","4.005r","desktop-fonts",1706083317,["Compliance mode enabled, was '4.005R'","Possible downgrade from the current version (4.005 -> 4.005r)"]],
 ["adobe-source-sans","3.052","3.052r","desktop-fonts",1706083317,["Compliance mode enabled, was '3.052R'","Possible downgrade from the current version (3.052 -> 3.052r)"]],
