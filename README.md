@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725908737?label=Updated)
+![Relative date](https://img.shields.io/date/1725912656?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -675,7 +675,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-chewing|1.6.1|2.1.1|app-i18n|Compliance mode enabled, was '2.1.1'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
 |ibus-libpinyin|1.12.0|1.15.8|app-i18n|Compliance mode enabled, was '1.15.8'|
-|ibus-m17n|1.4.7|1.4.31|app-i18n|Compliance mode enabled, was '1.4.31'|
+|ibus-m17n|1.4.7|1.4.32|app-i18n|Compliance mode enabled, was '1.4.32'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.7|app-i18n|Compliance mode enabled, was '1.17.7'|
@@ -690,6 +690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+38|app-utils|Compliance mode enabled, was '7.1.1-38'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
+|imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
@@ -1561,7 +1562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrmypdf|16.4.3|16.5.0|app-doc|Compliance mode enabled, was '16.5.0'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |ofono|1.30|2.10|app-network|Compliance mode enabled, was '2.10'|
-|okteta|0.26.9|0.26.16|desktop-kde|Compliance mode enabled, was '0.26.16'|
+|okteta|0.26.9|0.26.17|desktop-kde|Compliance mode enabled, was '0.26.17'|
 |okular|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |oma|1.9.5|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
@@ -1990,7 +1991,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt6|6.7.0|6.7.1|lang-python|Compliance mode enabled, was '6.7.1'|
 |pyqt6-sip|13.6.0|13.8.0|lang-python|Compliance mode enabled, was '13.8.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
-|pyscard|1.9.9|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|pyscard|1.9.9|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.15|lang-python|Compliance mode enabled, was '5.15.15'|
 |pysmbc|1.0.22|1.0.25.1|lang-python|Compliance mode enabled, was '1.0.25.1'|
