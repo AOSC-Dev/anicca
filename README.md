@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725837134?label=Updated)
+![Relative date](https://img.shields.io/date/1725842321?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2293,6 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sticky|1.20|1.22|desktop-cinnamon|Compliance mode enabled, was '1.22'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
+|stow|2.4.0|2.4.1|app-admin|Compliance mode enabled, was '2.4.1'|
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
 |strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
 |streamlink|6.7.4|6.10.0|app-multimedia|Compliance mode enabled, was '6.10.0'|
@@ -2588,7 +2589,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
 |xpra|5.0.8|6.1.2|app-network|Compliance mode enabled, was '6.1.2'|
-|xray|1.8.4|1.8.24|app-network|Compliance mode enabled, was '1.8.24'|
+|xray|1.8.4|24.9.7|app-network|Compliance mode enabled, was '24.9.7'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
 |xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
@@ -2620,7 +2621,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zanshin|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
-|zeal|0.7.0|0.7.1|app-doc|Compliance mode enabled, was '0.7.1'|
+|zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.150.4|0.151.2|app-editors|Compliance mode enabled, was '0.151.2'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.134.0|lang-python|Compliance mode enabled, was '0.134.0'|
