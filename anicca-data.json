@@ -1,5 +1,4 @@
 [
-["stress-ng","0.18.03","0.18.04","app-benchmarks",1725502841,["Compliance mode enabled, was '0.18.04'"]],
 ["buildbot-benchmark","20240327","20230227","app-benchmarks",1718812670,["Compliance mode enabled, was '20230227'","Possible downgrade from the current version (20240327 -> 20230227)"]],
 ["vkmark","2017.08+git20230412","2017.08","app-benchmarks",1711507517,["Compliance mode enabled, was '2017.08'"]],
 ["libupnp","1.14.16","1.14.19","runtime-network",1682062129,["Compliance mode enabled, was '1.14.19'"]],
