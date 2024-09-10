@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725970655?label=Updated)
+![Relative date](https://img.shields.io/date/1725974370?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -619,7 +619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|runtime-desktop|Compliance mode enabled, was '0.8.2'|
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
-|gtkmm-4|4.14.0|4.15.1|desktop-gnome|Compliance mode enabled, was '4.15.1'|
+|gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
@@ -1878,7 +1878,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|app-utils|Compliance mode enabled, was '3.0.3'|
-|pnpm|9.7.0|9.9.0|lang-js|Compliance mode enabled, was '9.9.0'|
+|pnpm|9.7.0|9.10.0|lang-js|Compliance mode enabled, was '9.10.0'|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
