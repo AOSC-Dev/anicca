@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725948902?label=Updated)
+![Relative date](https://img.shields.io/date/1725952314?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -941,7 +941,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpipewire|5.27.11|6.1.4|desktop-kde|Compliance mode enabled, was '6.1.4'|
 |kpkpass|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kplotting|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
-|kpmcore|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kpty|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kpublictransport|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kqtquickcharts|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
@@ -1491,7 +1490,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netavark|1.11.0|1.12.2|runtime-containers|Compliance mode enabled, was '1.12.2'|
 |netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
 |netcdf|4.7.4|4.9.2|runtime-scientific|Compliance mode enabled, was '4.9.2'|
-|netctl|1.23|1.25|app-network|Compliance mode enabled, was '1.25'|
+|netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
 |netease-cloud-music-gtk|2.4.0|2.4.1|app-multimedia|Compliance mode enabled, was '2.4.1'|
 |nethack|3.6.6|3.6.7_released|app-games|Compliance mode enabled, was '3.6.7_Released'|
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
