@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726006218?label=Updated)
+![Relative date](https://img.shields.io/date/1726009823?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -220,7 +220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chisel|1.9.1|1.10.0|app-network|Compliance mode enabled, was '1.10.0'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
-|chromium|127.0.6533.119|128.0.6613.119|app-web|Compliance mode enabled, was '128.0.6613.119'|
+|chromium|127.0.6533.119|128.0.6613.137|app-web|Compliance mode enabled, was '128.0.6613.137'|
 |chrony|4.5|4.6|app-admin|Compliance mode enabled, was '4.6'|
 |cinnamon|5.8.3|6.2.9|groups|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -580,6 +580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.144.0|lang-python|Compliance mode enabled, was '2.144.0'|
 |google-auth|1.6.3|2.34.0|lang-python|Compliance mode enabled, was '2.34.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|128.0.6613.119|128.0.6613.137|app-web|Compliance mode enabled, was '128.0.6613.137'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15|app-devel|Compliance mode enabled, was '2.15'|
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
