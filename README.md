@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725977515?label=Updated)
+![Relative date](https://img.shields.io/date/1725981100?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -598,6 +598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
+|gsm|1.0.19|1.0.22|runtime-multimedia|Compliance mode enabled, was '1.0.22'|
 |gsm+32|1.0.19|1.0.22|runtime-optenv32|Compliance mode enabled, was '1.0.22'|
 |gsmartcontrol|1.1.3|1.1.4|app-admin|Compliance mode enabled, was '1.1.4'|
 |gsoap|2.8.124|2.8.135|runtime-network|Compliance mode enabled, was '2.8.135'|
@@ -1762,7 +1763,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
-|perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compliance mode enabled, was '4.03'|
 |perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
 |perl-lwp-mediatypes|6.02|6.04|lang-perl|Compliance mode enabled, was '6.04'|
