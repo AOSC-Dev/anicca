@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725941624?label=Updated)
+![Relative date](https://img.shields.io/date/1725945163?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1053,6 +1053,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
+|libcork|1.0.0~rc3|0.15.0|runtime-common|Compliance mode enabled, was '0.15.0'<br>Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.7.0|runtime-common|Compliance mode enabled, was '0.7.0'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
@@ -1211,6 +1212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
+|libsbsms|2.3.0|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (2.3.0 -> 2.0.2)|
 |libsecret|0.20.4|0.21.4|runtime-desktop|Compliance mode enabled, was '0.21.4'|
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
@@ -1421,6 +1423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minetest|5.7.0|5.9.0|app-games||
 |mini-portile|2.8.6|2.8.7|lang-ruby|Compliance mode enabled, was '2.8.7'|
 |minicom|2.8|2.9|app-utils|Compliance mode enabled, was '2.9'|
+|minikube|1.33.1|1.34.0|app-containers|Compliance mode enabled, was '1.34.0'|
 |miniserve|0.26.0|0.27.1|app-web|Compliance mode enabled, was '0.27.1'|
 |miniupnpc|2.1|2.2.8|app-network|Compliance mode enabled, was '2.2.8'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
