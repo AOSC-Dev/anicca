@@ -1,6 +1,5 @@
 [
 ["buildbot-benchmark","20240327","20230227","app-benchmarks",1718812670,["Compliance mode enabled, was '20230227'","Possible downgrade from the current version (20240327 -> 20230227)"]],
-["vkmark","2017.08+git20230412","2017.08","app-benchmarks",1711507517,["Compliance mode enabled, was '2017.08'"]],
 ["libupnp","1.14.16","1.14.19","runtime-network",1682062129,["Compliance mode enabled, was '1.14.19'"]],
 ["libvncserver","0.9.13","0.9.14","runtime-network",1598554084,["Compliance mode enabled, was '0.9.14'"]],
 ["libidn2","2.3.0","2.3.7","runtime-network",1579575873,["Compliance mode enabled, was '2.3.7'"]],
@@ -2024,6 +2023,7 @@
 ["spdx-licenses","3.24.0","3.25.0","runtime-data",1716726934,["Compliance mode enabled, was '3.25.0'"]],
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
+["intel-ucode","20240813","20240910","runtime-data",1723699345,["Compliance mode enabled, was '20240910'"]],
 ["trinity-default-settings","2023.07.1r","2024.09.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.09.0'"]],
 ["tzdata","2024a","2024b","runtime-data",1716696236,["Compliance mode enabled, was '2024b'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
