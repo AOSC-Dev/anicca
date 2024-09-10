@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1725981100?label=Updated)
+![Relative date](https://img.shields.io/date/1725984680?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -988,7 +988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktuberling|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kturtle|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kubectl|1.30.3|1.31.0|app-containers|Compliance mode enabled, was '1.31.0'|
-|kubo|0.26.0|0.10.0|app-network|Compliance mode enabled, was '0.10.0'<br>Possible downgrade from the current version (0.26.0 -> 0.10.0)|
+|kubo|0.26.0|0.29.0|app-network|Compliance mode enabled, was '0.29.0'|
 |kubrick|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |kunitconversion|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kvantum|1.0.10|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
@@ -1763,6 +1763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
+|perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compliance mode enabled, was '4.03'|
 |perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
 |perl-lwp-mediatypes|6.02|6.04|lang-perl|Compliance mode enabled, was '6.04'|
