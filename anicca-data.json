@@ -2300,6 +2300,7 @@
 ["libvoikko","4.3.1","4.3.2","runtime-i18n",1633153816,["Compliance mode enabled, was '4.3.2'"]],
 ["libhangul","0.1.0+git20210406","0.1.0","runtime-i18n",1633153815,["Compliance mode enabled, was '0.1.0'"]],
 ["john","1.8.0","1.9.0","app-penetration",1678950872,["Compliance mode enabled, was '1.9.0'"]],
+["sqlmap","1.8.8","1.8.9","app-penetration",1723092772,["Compliance mode enabled, was '1.8.9'"]],
 ["libportal","0.6","0.8.1","runtime-desktop",1663210210,["Compliance mode enabled, was '0.8.1'"]],
 ["ayatana-indicator-messages","0.8.2","24.5.0","runtime-desktop",1619939107,["Compliance mode enabled, was '24.5.0'"]],
 ["libqtxdg","3.6.0","4.0.0","runtime-desktop",1610261237,["Compliance mode enabled, was '4.0.0'"]],
