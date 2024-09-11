@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726071085?label=Updated)
+![Relative date](https://img.shields.io/date/1726074394?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -307,8 +307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |deno|1.44.1|1.46.3|lang-js|Compliance mode enabled, was '1.46.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deploykit-backend|0.6.6|0.6.5|app-admin|Compliance mode enabled, was '0.6.5'<br>Possible downgrade from the current version (0.6.6 -> 0.6.5)|
-|deploykit-gui|0.8.2|0.8.1|app-admin|Compliance mode enabled, was '0.8.1'<br>Possible downgrade from the current version (0.8.2 -> 0.8.1)|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |dex|0.9.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -321,7 +319,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
 |django|5.0.3|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
-|dkcli|0.3.3|0.3.2|app-admin|Compliance mode enabled, was '0.3.2'<br>Possible downgrade from the current version (0.3.3 -> 0.3.2)|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
