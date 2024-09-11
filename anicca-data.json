@@ -689,7 +689,7 @@
 ["aspnetcore-runtime-6.0","6.0.30","6.0.33","app-devel",1716597653,["Compliance mode enabled, was '6.0.33'"]],
 ["geany","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
-["astyle","3.5.2","3.6.1","app-devel",1721232448,["Compliance mode enabled, was '3.6.1'"]],
+["astyle","3.5.2","3.6.2","app-devel",1721232448,["Compliance mode enabled, was '3.6.2'"]],
 ["avr-gcc","10.3.1+git20210510","14.2.0","app-devel",1634066043,["Compliance mode enabled, was '14.2.0'"]],
 ["scons","4.4.0","4.8.1","app-devel",1674452376,["Compliance mode enabled, was '4.8.1'"]],
 ["ltrace","0.7.3+git20151111","0.7.3+git20240814","app-devel",1620461825,["Compliance mode enabled, was '0.7.3+git20240814'"]],
