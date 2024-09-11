@@ -2027,7 +2027,7 @@
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
 ["intel-ucode","20240813","20240910","runtime-data",1723699345,["Compliance mode enabled, was '20240910'"]],
-["trinity-default-settings","2023.07.1r","2024.09.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.09.0'"]],
+["trinity-default-settings","2023.07.1r","2024.09.1","runtime-data",1721223931,["Compliance mode enabled, was '2024.09.1'"]],
 ["tzdata","2024a","2024b","runtime-data",1716696236,["Compliance mode enabled, was '2024b'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
 ["man-pages","6.05.01","6.9.1","runtime-data",1707465833,[]],
