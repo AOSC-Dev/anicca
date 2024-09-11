@@ -1774,7 +1774,7 @@
 ["charset-normalizer","2.0.9","3.3.2","lang-python",1640872407,["Compliance mode enabled, was '3.3.2'"]],
 ["patch-ng","1.17.4","1.18.0","lang-python",1631079144,["Compliance mode enabled, was '1.18.0'"]],
 ["jdcal","1.4","1.4.1","lang-python",1530718723,["Compliance mode enabled, was '1.4.1'"]],
-["google-api-python-client","1.7.11","2.144.0","lang-python",1581796621,["Compliance mode enabled, was '2.144.0'"]],
+["google-api-python-client","1.7.11","2.145.0","lang-python",1581796621,["Compliance mode enabled, was '2.145.0'"]],
 ["pylint","2.14.4","3.2.7","lang-python",1658217673,["Compliance mode enabled, was '3.2.7'"]],
 ["hyperframe","6.0.0","6.0.1","lang-python",1618998184,["Compliance mode enabled, was '6.0.1'"]],
 ["twisted","21.2.0","24.7.0","lang-python",1616134410,["Compliance mode enabled, was '24.7.0'"]],
