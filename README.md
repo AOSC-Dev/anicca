@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726063786?label=Updated)
+![Relative date](https://img.shields.io/date/1726067443?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -264,6 +264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
+|containerd|1.7.21|1.7.22|app-containers|Compliance mode enabled, was '1.7.22'|
 |containers-common|0.59.2|0.60.2|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.3|app-utils|Compliance mode enabled, was '1.98.3'<br>Possible downgrade from the current version (20170301 -> 1.98.3)|
@@ -274,6 +275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
 |cracklib|2.9.8|2.10.2|runtime-cryptography|Compliance mode enabled, was '2.10.2'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
+|crun|1.16.1|1.17|app-admin|Compliance mode enabled, was '1.17'|
 |cryfs|0.10.2|0.11.4|app-admin|Compliance mode enabled, was '0.11.4'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|43.0.1|lang-python|Compliance mode enabled, was '43.0.1'|
