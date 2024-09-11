@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726074394?label=Updated)
+![Relative date](https://img.shields.io/date/1726078362?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -261,6 +261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.8|lang-python|Compliance mode enabled, was '5.0.8'|
 |configparser|3.7.3|3.12.6|lang-python|Compliance mode enabled, was '3.12.6'|
+|configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
@@ -722,7 +723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |itinerary|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
 |itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
-|iwd|1.20|2.21|app-network|Compliance mode enabled, was '2.21'|
+|iwd|1.20|2.22|app-network|Compliance mode enabled, was '2.22'|
 |j4-dmenu-desktop|2.17|3.1|app-utils|Compliance mode enabled, was '3.1'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
 |jbig2dec|0.18|0.20|runtime-imaging|Compliance mode enabled, was '0.20'|
@@ -2563,6 +2564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
 |xcb-proto|1.16.0|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
+|xcb-util-cursor|0.1.4|0.1.5|runtime-display|Compliance mode enabled, was '0.1.5'|
 |xcffib|0.7.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.9|desktop-wm|Compliance mode enabled, was '1.1.9'|
