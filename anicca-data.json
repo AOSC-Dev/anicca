@@ -1025,6 +1025,7 @@
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["netctl","1.23","1.29","app-network",1601189022,["Compliance mode enabled, was '1.29'"]],
 ["xrdp","0.10.0","0.10.1","app-network",1715427345,["Compliance mode enabled, was '0.10.1'"]],
+["cloudflared","2024.8.3","2024.9.1","app-network",1725484925,["Compliance mode enabled, was '2024.9.1'"]],
 ["filezilla","3.66.4","3.60.2","app-network",1706855338,["Compliance mode enabled, was '3.60.2'","Possible downgrade from the current version (3.66.4 -> 3.60.2)"]],
 ["imapsync","1.977","2.229","app-network",1591076944,["Compliance mode enabled, was '2.229'"]],
 ["openvswitch","3.0.3","3.4.0","app-network",1577974572,["Compliance mode enabled, was '3.4.0'"]],
