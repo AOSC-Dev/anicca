@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726028018?label=Updated)
+![Relative date](https://img.shields.io/date/1726031420?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1303,6 +1303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcb+32|1.13|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32|Compliance mode enabled, was '1.1.5'|
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
+|libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.13.3|runtime-common|Compliance mode enabled, was '2.13.3'|
 |libxml2+32|2.10.4|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |libxmlb|0.3.15|0.3.19|runtime-common|Compliance mode enabled, was '0.3.19'|
@@ -2620,6 +2621,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubioath-desktop|5.1.0|7.0.1|app-devices|Compliance mode enabled, was '7.0.1'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
 |zanshin|23.08.5|24.08.0|desktop-kde|Compliance mode enabled, was '24.08.0'|
+|zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.150.4|0.151.2|app-editors|Compliance mode enabled, was '0.151.2'|
