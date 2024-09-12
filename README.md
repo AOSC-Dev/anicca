@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726153890?label=Updated)
+![Relative date](https://img.shields.io/date/1726157480?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -131,7 +131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
-|bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
 |bind|9.20.0|9.20.1|app-network|Compliance mode enabled, was '9.20.1'|
 |binutils|2.43|2.43.1|app-devel|Compliance mode enabled, was '2.43.1'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
@@ -320,6 +319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
 |django|5.0.3|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
+|dkcli|0.4.0|0.3.3|app-admin|Compliance mode enabled, was '0.3.3'<br>Possible downgrade from the current version (0.4.0 -> 0.3.3)|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -368,6 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |engrampa|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
+|eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
 |et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -533,7 +534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-calculator|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-characters|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
-|gnome-chess|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-chess|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-clocks|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-connections|42.1.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-contacts|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -827,6 +828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kdf|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
+|kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdiamond|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
@@ -1326,13 +1328,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.10.9|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.9 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
-|linux+kernel+lts|6.6.49|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'<br>Possible downgrade from the current version (6.6.49 -> 5.10.226)|
+|linux+kernel+lts|6.6.50|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'<br>Possible downgrade from the current version (6.6.50 -> 5.10.226)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'|
 |linux+kernel+retro+minimal|5.15.17|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'<br>Possible downgrade from the current version (5.15.17 -> 5.10.226)|
 |linux-firmware|20240506|20240909|runtime-kernel||
 |linux-kernel|6.10.9|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.9 -> 5.19.17)|
-|linux-kernel-lts|6.6.49|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.49 -> 5.19.17)|
+|linux-kernel-lts|6.6.50|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.50 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'|
 |linux-kernel-retro-minimal|5.15.17|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'<br>Possible downgrade from the current version (5.15.17 -> 5.10.226)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
@@ -1924,7 +1926,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.2|runtime-multimedia|Compliance mode enabled, was '4.1.2'|
 |prompt-toolkit|2.0.8|3.0.47|lang-python|Compliance mode enabled, was '3.0.47'|
 |proot|5.1.20171016|5.4.0|app-utils|Compliance mode enabled, was '5.4.0'|
-|protobuf|25.2|28.0|runtime-common|Compliance mode enabled, was '28.0'|
+|protobuf|25.2|28.1|runtime-common|Compliance mode enabled, was '28.1'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.11.0|3.15.2|app-admin|Compliance mode enabled, was '3.15.2'|
