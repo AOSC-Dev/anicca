@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726143388?label=Updated)
+![Relative date](https://img.shields.io/date/1726147072?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1484,6 +1484,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
+|ncmpc|0.49|0.50|app-multimedia|Compliance mode enabled, was '0.50'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20240831|runtime-common|Compliance mode enabled, was '6.5-20240831'|
 |ncurses+32|6.4|6.5+20240831|runtime-optenv32|Compliance mode enabled, was '6.5-20240831'|
@@ -1628,6 +1629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.3.0|lang-python|Compliance mode enabled, was '7.3.0'|
 |ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
+|osu-lazer|2024.906.2|2024.911.0|app-games|Compliance mode enabled, was '2024.911.0'|
 |oxygen|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |oxygen-icons|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |oxygen-sounds|5.25.3|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
@@ -1967,7 +1969,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygit2|1.14.1|1.15.1|lang-python|Compliance mode enabled, was '1.15.1'|
 |pyglet|1.3.2|2.0.17|lang-python|Compliance mode enabled, was '2.0.17'|
 |pygments|2.10.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
-|pygobject-3|3.48.2|3.49.0|lang-python|Compliance mode enabled, was '3.49.0'|
+|pygobject-3|3.48.2|3.50.0|lang-python|Compliance mode enabled, was '3.50.0'|
 |pygraphviz|1.5|1.13|lang-python|Compliance mode enabled, was '1.13'|
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
