@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726117852?label=Updated)
+![Relative date](https://img.shields.io/date/1726121648?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -387,7 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |expat+32|2.6.2|2.6.3|runtime-optenv32|Compliance mode enabled, was '2.6.3'|
 |extra-cmake-modules|5.115.0|6.5.0|app-devel|Compliance mode enabled, was '6.5.0'|
 |eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
-|eza|0.19.0|0.19.2|app-utils|Compliance mode enabled, was '0.19.2'|
+|eza|0.19.0|0.19.3|app-utils|Compliance mode enabled, was '0.19.3'|
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.28|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
 |faad2|2.10.0|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
@@ -707,7 +707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.5.1|22.5.2|runtime-devices|Compliance mode enabled, was '22.5.2'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |intel-media-driver|24.1.5|24.3.3|runtime-multimedia|Compliance mode enabled, was '24.3.3'|
-|intel-ucode|20240813|20240910|runtime-data|Compliance mode enabled, was '20240910'|
 |iosevka-fonts|31.6.0|31.6.1|desktop-fonts|Compliance mode enabled, was '31.6.1'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
