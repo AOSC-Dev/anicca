@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726179051?label=Updated)
+![Relative date](https://img.shields.io/date/1726182716?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1499,6 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neovim|0.10.0|0.10.1|app-editors|Compliance mode enabled, was '0.10.1'|
 |nestopia|1.51.0|1.52.1|app-games|Compliance mode enabled, was '1.52.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
+|netavark|1.11.0|1.12.2|runtime-containers|Compliance mode enabled, was '1.12.2'|
 |netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
 |netcdf|4.7.4|4.9.2|runtime-scientific|Compliance mode enabled, was '4.9.2'|
 |netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
@@ -2308,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.10|app-devel|Compliance mode enabled, was '6.10'|
-|strawberry|1.0.23|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
+|strawberry|1.0.23|1.1.2|app-multimedia|Compliance mode enabled, was '1.1.2'|
 |streamlink|6.7.4|6.10.0|app-multimedia|Compliance mode enabled, was '6.10.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
@@ -2317,7 +2318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
 |suitesparse|7.6.1|7.8.2|runtime-scientific|Compliance mode enabled, was '7.8.2'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.910.123325|app-multimedia|Compliance mode enabled, was '2024.910.123325'|
+|sunshine|0.23.0|2024.911.215654|app-multimedia|Compliance mode enabled, was '2024.911.215654'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2418,7 +2419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2024.09.1|runtime-data|Compliance mode enabled, was '2024.09.1'|
 |trio|0.24.0|0.26.2|lang-python|Compliance mode enabled, was '0.26.2'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
-|trove-classifiers|2024.1.31|2024.7.2|lang-python|Compliance mode enabled, was '2024.7.2'|
+|trove-classifiers|2024.1.31|2024.9.12|lang-python|Compliance mode enabled, was '2024.9.12'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
