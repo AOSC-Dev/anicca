@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726150254?label=Updated)
+![Relative date](https://img.shields.io/date/1726153890?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -368,7 +368,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |engrampa|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
-|eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
 |et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -828,7 +827,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
 |kdf|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdiamond|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
@@ -1892,6 +1890,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5-oss|app-i18n|Compliance mode enabled, was '3.5-oss'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
@@ -2625,7 +2624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.41|0.45|app-electronics|Compliance mode enabled, was '0.45'|
 |ytmusicapi|1.7.2|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
-|yubico-piv-tool|2.3.1|2.6.0|app-devices|Compliance mode enabled, was '2.6.0'|
+|yubico-piv-tool|2.3.1|2.6.1|app-devices|Compliance mode enabled, was '2.6.1'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
 |yubioath-desktop|5.1.0|7.0.1|app-devices|Compliance mode enabled, was '7.0.1'|
