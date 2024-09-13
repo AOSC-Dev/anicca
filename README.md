@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726215188?label=Updated)
+![Relative date](https://img.shields.io/date/1726218657?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1935,7 +1935,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |pugixml|1.11.4|1.14|runtime-common|Compliance mode enabled, was '1.14'|
-|pulseaudio+32|13.0|17.0|runtime-optenv32|Compliance mode enabled, was '17.0'|
 |pulseaudio-qt|1.3|1.6.0|runtime-desktop|Compliance mode enabled, was '1.6.0'|
 |pulsectl|20.5.1|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |puremagic|1.15|1.27|lang-python|Compliance mode enabled, was '1.27'|
@@ -2367,7 +2366,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |template-glib|3.28.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |termcolor|1.1.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
-|terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tevent|0.13.0|0.16.1|runtime-common|Compliance mode enabled, was '0.16.1'|
 |texinfo|7.1|7.1.1|app-utils|Compliance mode enabled, was '7.1.1'|
