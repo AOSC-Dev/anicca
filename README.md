@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726233537?label=Updated)
+![Relative date](https://img.shields.io/date/1726236616?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -322,7 +322,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
 |django|5.0.3|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
-|dkcli|0.4.0|0.3.3|app-admin|Compliance mode enabled, was '0.3.3'<br>Possible downgrade from the current version (0.4.0 -> 0.3.3)|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -1279,6 +1278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb-compat|0.1.5|0.1.8|runtime-devices|Compliance mode enabled, was '0.1.8'|
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32|Compliance mode enabled, was '0.1.8'|
 |libusbmuxd|2.0.2|2.1.0|runtime-devices|Compliance mode enabled, was '2.1.0'|
+|libva+32|2.15.0|2.22.0|runtime-optenv32|Compliance mode enabled, was '2.22.0'|
 |libva-nvidia-driver|0.0.12|0.7.4|runtime-multimedia|Compliance mode enabled, was '0.7.4'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvdpau+32|1.1.1|1.5|runtime-optenv32|Compliance mode enabled, was '1.5'|
