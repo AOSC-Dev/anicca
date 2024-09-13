@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726261649?label=Updated)
+![Relative date](https://img.shields.io/date/1726265389?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -646,7 +646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.4.3|runtime-scientific|Compliance mode enabled, was '1.14.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
-|helm|3.15.0|3.16.0|app-containers|Compliance mode enabled, was '3.16.0'|
+|helm|3.15.0|3.16.1|app-containers|Compliance mode enabled, was '3.16.1'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
@@ -661,6 +661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
+|htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |httpie|3.2.2|3.2.3|app-web|Compliance mode enabled, was '3.2.3'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
@@ -1306,6 +1307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxau+32|1.0.9|1.0.11|runtime-optenv32|Compliance mode enabled, was '1.0.11'|
 |libxcb|1.16.1|1.17.0|runtime-display|Compliance mode enabled, was '1.17.0'|
 |libxcb+32|1.13|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
+|libxdmcp+32|1.1.3|1.1.5|runtime-optenv32|Compliance mode enabled, was '1.1.5'|
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.13.3|runtime-common|Compliance mode enabled, was '2.13.3'|
