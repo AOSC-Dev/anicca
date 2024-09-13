@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726200718?label=Updated)
+![Relative date](https://img.shields.io/date/1726204336?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -9,7 +9,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.12.2|app-admin|Compliance mode enabled, was '1.12.2'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
-|abyss|2.1.5|2.3.8|app-scientific|Compliance mode enabled, was '2.3.8'|
+|abyss|2.1.5|2.3.9|app-scientific|Compliance mode enabled, was '2.3.9'|
 |acbs|20240815|20240907|app-devel|Compliance mode enabled, was '20240907'|
 |accerciser|3.40.0|3.44.1|desktop-gnome|Compliance mode enabled, was '3.44.1'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
@@ -607,7 +607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsmartcontrol|1.1.3|1.1.4|app-admin|Compliance mode enabled, was '1.1.4'|
 |gsoap|2.8.124|2.8.135|runtime-network|Compliance mode enabled, was '2.8.135'|
 |gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
-|gspell|1.11.1|1.13.2|desktop-gnome|Compliance mode enabled, was '1.13.2'|
+|gspell|1.11.1|1.14.0|desktop-gnome|Compliance mode enabled, was '1.14.0'|
 |gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gst-libav-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
