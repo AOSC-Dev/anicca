@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726193367?label=Updated)
+![Relative date](https://img.shields.io/date/1726197101?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -397,7 +397,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fakeroot|1.35.1|1.36|app-utils|Compliance mode enabled, was '1.36'|
 |falkon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
-|fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
 |fastfetch|2.22.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
@@ -2505,8 +2504,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.295|runtime-optenv32|Compliance mode enabled, was '1.3.295'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscode|1.92.2|1.93.0|app-editors|Compliance mode enabled, was '1.93.0'|
-|vscodium|1.92.2.24228|1.93.0.24253|app-editors|Compliance mode enabled, was '1.93.0.24253'|
+|vscode|1.92.2|1.93.1|app-editors|Compliance mode enabled, was '1.93.1'|
+|vscodium|1.92.2.24228|1.93.1.24256|app-editors|Compliance mode enabled, was '1.93.1.24256'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
@@ -2521,7 +2520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
-|warzone2100|4.1.3|4.5.2|app-games|Compliance mode enabled, was '4.5.2'|
+|warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
 |watchman|4.9.0|2024.09.09.00|app-utils|Compliance mode enabled, was '2024.09.09.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
@@ -2647,6 +2646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
 |zotero|6.0.26|7.0.3|app-productivity|Compliance mode enabled, was '7.0.3'|
+|zoxide|0.9.4|0.9.5|app-utils|Compliance mode enabled, was '0.9.5'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.22.0|0.23.0|lang-python|Compliance mode enabled, was '0.23.0'|
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
