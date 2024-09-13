@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726182716?label=Updated)
+![Relative date](https://img.shields.io/date/1726187858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -709,7 +709,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.5.1|22.5.2|runtime-devices|Compliance mode enabled, was '22.5.2'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |intel-media-driver|24.1.5|24.3.3|runtime-multimedia|Compliance mode enabled, was '24.3.3'|
-|iosevka-fonts|31.6.0|31.6.1|desktop-fonts|Compliance mode enabled, was '31.6.1'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -1485,7 +1484,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
-|ncmpc|0.49|0.50|app-multimedia|Compliance mode enabled, was '0.50'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20240831|runtime-common|Compliance mode enabled, was '6.5-20240831'|
 |ncurses+32|6.4|6.5+20240831|runtime-optenv32|Compliance mode enabled, was '6.5-20240831'|
@@ -1646,7 +1644,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
-|pandoc|3.1.13|3.4|app-doc|Compliance mode enabled, was '3.4'|
 |pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
 |pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
 |pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
@@ -2323,7 +2320,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |svt-av1|2.2.0|2.2.1|runtime-multimedia|Compliance mode enabled, was '2.2.1'|
-|sway-audio-idle-inhibit|0.1.2|0.1.1|app-utils|Compliance mode enabled, was '0.1.1'<br>Possible downgrade from the current version (0.1.2 -> 0.1.1)|
 |sweeper|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
@@ -2345,6 +2341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
 |taglib+32|1.11|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.3.0|runtime-multimedia|Compliance mode enabled, was '12.3.0'|
+|tailscale|1.72.1|1.74.0|app-network|Compliance mode enabled, was '1.74.0'|
 |taisei|1.3.2|1.4.1|app-games|Compliance mode enabled, was '1.4.1'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.3.4|2.4.2|runtime-common|Compliance mode enabled, was '2.4.2'|
@@ -2360,7 +2357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdb|1.4.10|1.4.12|app-database|Compliance mode enabled, was '1.4.12'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.2.3|5.5.3|app-web|Compliance mode enabled, was '5.5.3'|
+|telegram-desktop|5.2.3|5.5.4|app-web|Compliance mode enabled, was '5.5.4'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
