@@ -1929,7 +1929,7 @@
 ["autobahn","19.2.1","24.4.2","lang-python",1550981442,["Compliance mode enabled, was '24.4.2'"]],
 ["fasteners","0.18","0.19","lang-python",1537069622,["Compliance mode enabled, was '0.19'"]],
 ["llfuse","1.4.1","1.5.1","lang-python",1637636759,["Compliance mode enabled, was '1.5.1'"]],
-["hypothesis-python","6.97.4","6.112.0","lang-python",1706859511,["Compliance mode enabled, was '6.112.0'"]],
+["hypothesis-python","6.97.4","6.112.1","lang-python",1706859511,["Compliance mode enabled, was '6.112.1'"]],
 ["gmpy2","2.1.5","2.2.1","lang-python",1713946296,["Compliance mode enabled, was '2.2.1'"]],
 ["pycryptodome","3.7.3","3.20.0","lang-python",1550134266,["Compliance mode enabled, was '3.20.0'"]],
 ["pysol-sound-server","3.01","3.20","lang-python",1678950872,["Compliance mode enabled, was '3.20'"]],
