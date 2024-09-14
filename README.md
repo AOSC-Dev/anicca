@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726290727?label=Updated)
+![Relative date](https://img.shields.io/date/1726294318?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1447,7 +1447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|86.0|87.0|app-multimedia|Compliance mode enabled, was '87.0'|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3.2.1|app-web|Compliance mode enabled, was '3-2-1'|
-|mlt|7.22.0|7.26.0|runtime-multimedia|Compliance mode enabled, was '7.26.0'|
+|mlt|7.22.0|7.28.0|runtime-multimedia|Compliance mode enabled, was '7.28.0'|
 |mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
 |mock|2.0.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
 |modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
@@ -1910,6 +1910,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19<br>+20140130|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
+|portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |postgresql|13.16|17|app-database|Compliance mode enabled, was '17'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
@@ -2061,6 +2062,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
+|qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|0.5.6|1.0.1|app-multimedia|Compliance mode enabled, was '1.0.1'|
 |qt-5|5.15.13|5.15.15-lts-lgpl|runtime-desktop||
 |qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
