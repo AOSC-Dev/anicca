@@ -1239,7 +1239,7 @@
 ["gnome-shell-extensions","42.3","46.2","desktop-gnome",1663210243,["Compliance mode enabled, was '46.2'"]],
 ["libgnome-games-support","1.8.2","2.0.0","desktop-gnome",1663210249,["Compliance mode enabled, was '2.0.0'"]],
 ["swell-foop","41.1","46.0","desktop-gnome",1663210244,["Compliance mode enabled, was '46.0'"]],
-["gedit-plugins","42.1","47.1","desktop-gnome",1663210241,["Compliance mode enabled, was '47.1'"]],
+["gedit-plugins","42.1","48.0","desktop-gnome",1663210241,["Compliance mode enabled, was '48.0'"]],
 ["gnome-clocks","42.0","46.0","desktop-gnome",1663210242,["Compliance mode enabled, was '46.0'"]],
 ["gcab","1.1","1.6","desktop-gnome",1521089352,["Compliance mode enabled, was '1.6'"]],
 ["gspell","1.11.1","1.14.0","desktop-gnome",1721223235,["Compliance mode enabled, was '1.14.0'"]],
