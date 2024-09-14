@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726344629?label=Updated)
+![Relative date](https://img.shields.io/date/1726347954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -27,7 +27,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
 |aiohttp|3.7.4.post0|3.10.5|lang-python|Compliance mode enabled, was '3.10.5'|
-|aisleriot|3.22.24|3.22.33|desktop-gnome|Compliance mode enabled, was '3.22.33'|
+|aisleriot|3.22.24|3.22.34|desktop-gnome|Compliance mode enabled, was '3.22.34'|
 |akonadi|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |akonadi-calendar|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |akonadi-calendar-tools|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -184,7 +184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
 |calindori|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
-|calls|46.0|46.3|desktop-gnome|Compliance mode enabled, was '46.3'|
+|calls|46.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |calver|2022.06.26|2022.6.26|lang-python|Compliance mode enabled, was '2022.6.26'|
 |camlp4|4.14<br>+1|5.2+1|lang-ocaml|Compliance mode enabled, was '5.2+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
@@ -2364,7 +2364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdb|1.4.10|1.4.12|app-database|Compliance mode enabled, was '1.4.12'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.2.3|5.5.4|app-web|Compliance mode enabled, was '5.5.4'|
+|telegram-desktop|5.2.3|5.5.5|app-web|Compliance mode enabled, was '5.5.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
