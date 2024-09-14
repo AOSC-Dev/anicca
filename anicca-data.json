@@ -2602,7 +2602,7 @@
 ["toxcore","0.2.18","0.2.19","app-web",1655338775,["Compliance mode enabled, was '0.2.19'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
 ["kvirc","5.0.0","5.2.4","app-web",1554223928,["Compliance mode enabled, was '5.2.4'"]],
-["qownnotes","22.6.1","24.9.5","app-web",1659588927,["Compliance mode enabled, was '24.9.5'"]],
+["qownnotes","22.6.1","24.9.6","app-web",1659588927,["Compliance mode enabled, was '24.9.6'"]],
 ["certbot-apache","2.10.0","2.11.0","app-web",1716728517,["Compliance mode enabled, was '2.11.0'"]],
 ["dovecot","2.3.21","2.3.21.1","app-web",1723046029,["Compliance mode enabled, was '2.3.21.1'"]],
 ["miniserve","0.26.0","0.28.0","app-web",1705559527,["Compliance mode enabled, was '0.28.0'"]],
