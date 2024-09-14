@@ -1114,7 +1114,7 @@
 ["msbuild","16.6+xamarinxplat.2020.04.29.14.43","16.10.1+xamarinxplat.2021.05.26.14.00","extra-mono",1594100500,["Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'"]],
 ["qtermwidget","0.16.1","2.0.1","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.0.1'"]],
 ["lxqt-build-tools","0.8.0","2.0.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.0.0'"]],
-["shotcut","21.08.11","24.08.29","app-creativity",1630127735,["Compliance mode enabled, was '24.08.29'"]],
+["shotcut","21.08.11","24.09.13","app-creativity",1630127735,["Compliance mode enabled, was '24.09.13'"]],
 ["musescore","4.3.2","4.4.1","app-creativity",1723091081,["Compliance mode enabled, was '4.4.1'"]],
 ["lmms","1.2.2+git20240508","1.2.2","app-creativity",1725420791,["Compliance mode enabled, was '1.2.2'"]],
 ["drumstick","2.9.0","2.9.1","app-creativity",1725420791,["Compliance mode enabled, was '2.9.1'"]],
