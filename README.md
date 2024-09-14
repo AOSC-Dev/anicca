@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726283604?label=Updated)
+![Relative date](https://img.shields.io/date/1726287196?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1199,7 +1199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
-|libpeas|1.36.0|2.0.4|desktop-gnome|Compliance mode enabled, was '2.0.4'|
+|libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
 |libphonenumber|8.13.38|8.13.45|runtime-i18n|Compliance mode enabled, was '8.13.45'|
 |libpinyin|2.6.0|2.9.91|runtime-i18n|Compliance mode enabled, was '2.9.91'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
@@ -1371,9 +1371,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
 |lvm2|2.03.14|2.03.26|app-admin|Compliance mode enabled, was '2.03.26'|
 |lxcfs|3.0.3|6.0.1|app-admin|Compliance mode enabled, was '6.0.1'|
-|lxgwcleargothic-font|0.300.4|0.332|desktop-fonts|Compliance mode enabled, was '0.332'|
+|lxgwcleargothic-font|0.300.4|0.333|desktop-fonts|Compliance mode enabled, was '0.333'|
 |lxgwfasmartgothic-font|1.200|1.201|desktop-fonts|Compliance mode enabled, was '1.201'|
-|lxgwneoxihei-font|1.200|1.204|desktop-fonts|Compliance mode enabled, was '1.204'|
+|lxgwneoxihei-font|1.200|1.205|desktop-fonts|Compliance mode enabled, was '1.205'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
@@ -1386,7 +1386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
 |m3u8|0.7.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |mac-fdisk|0.1|0.1.orig|app-admin|Compliance mode enabled, was '0.1.orig'<br>Possible downgrade from the current version (0.1 -> 0.1.orig)|
-|macchina|6.1.8|6.2.0|app-utils|Compliance mode enabled, was '6.2.0'|
+|macchina|6.1.8|6.2.1|app-utils|Compliance mode enabled, was '6.2.1'|
 |magic-wormhole|0.11.2|0.15.0|app-network|Compliance mode enabled, was '0.15.0'|
 |mailcommon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |mailimporter|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2336,7 +2336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
-|sysprof|3.44.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|sysprof|3.44.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |sysstat|12.7.5|12.7.6|app-utils|Compliance mode enabled, was '12.7.6'|
 |system-config-printer|1.5.17|1.5.18|app-admin|Compliance mode enabled, was '1.5.18'|
 |systemd|256.4|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (256.4 -> 256)|
