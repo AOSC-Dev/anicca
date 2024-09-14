@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726347954?label=Updated)
+![Relative date](https://img.shields.io/date/1726351600?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -87,8 +87,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astrometry.net|0.94|0.95|app-scientific|Compliance mode enabled, was '0.95'|
 |astyle|3.5.2|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
-|at-spi2-core|2.52.0|2.53.1|desktop-gnome|Compliance mode enabled, was '2.53.1'|
-|at-spi2-core+32|2.26.3|2.53.1|runtime-optenv32|Compliance mode enabled, was '2.53.1'|
+|at-spi2-core|2.52.0|2.54.0|desktop-gnome|Compliance mode enabled, was '2.54.0'|
+|at-spi2-core+32|2.26.3|2.54.0|runtime-optenv32|Compliance mode enabled, was '2.54.0'|
 |atk+32|2.26.1|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
@@ -551,10 +551,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-mahjongg|3.38.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-maps|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.51.3|desktop-gnome|Compliance mode enabled, was '3.51.3'|
+|gnome-online-accounts|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
-|gnome-remote-desktop|42.4|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
+|gnome-remote-desktop|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-session|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-settings-daemon|42.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-shell|42.4|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
@@ -627,7 +627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
-|gucharmap|15.1.5|16.0.0|desktop-gnome|Compliance mode enabled, was '16.0.0'|
+|gucharmap|15.1.5|16.0.1|desktop-gnome|Compliance mode enabled, was '16.0.1'|
 |gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
 |gupnp|1.2.4|1.6.6|desktop-gnome|Compliance mode enabled, was '1.6.6'|
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
@@ -1476,7 +1476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
 |mupdf|1.24.8|1.24.9|app-doc|Compliance mode enabled, was '1.24.9'|
 |musescore|4.3.2|4.4.1|app-creativity|Compliance mode enabled, was '4.4.1'|
-|mutter|42.4|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
+|mutter|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
 |mycli|1.23.2|1.27.2|app-database|Compliance mode enabled, was '1.27.2'|
 |mygpoclient|1.8|1.9|lang-python|Compliance mode enabled, was '1.9'|
@@ -2514,7 +2514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.76.4|runtime-desktop|Compliance mode enabled, was '0.76.4'|
+|vte|0.68.0|0.78.0|runtime-desktop|Compliance mode enabled, was '0.78.0'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
 |vulkan-extensionlayer|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
 |vulkan-headers|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
