@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726355247?label=Updated)
+![Relative date](https://img.shields.io/date/1726360919?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -355,6 +355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dtc|1.7.0|1.7.1|app-devel|Compliance mode enabled, was '1.7.1'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
+|dulwich|0.21.6|0.22.1|runtime-vcs|Compliance mode enabled, was '0.22.1'|
 |dune|3.4.1|3.16.0|lang-ocaml|Compliance mode enabled, was '3.16.0'|
 |duplicity|3.0.1|3.0.2|app-utils|Compliance mode enabled, was '3.0.2'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
@@ -557,9 +558,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-remote-desktop|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-session|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-settings-daemon|42.2|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
-|gnome-shell|42.4|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
+|gnome-shell|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
-|gnome-shell-extensions|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|gnome-shell-extensions|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-software|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-sudoku|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -567,8 +568,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
 |gnome-tour|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnome-usage|3.38.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
-|gnome-user-docs|42.0|46.4|desktop-gnome|Compliance mode enabled, was '46.4'|
-|gnome-user-share|3.34.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
+|gnome-user-docs|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-user-share|3.34.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |gnote|42.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
@@ -1077,6 +1078,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdnet|1.12|1.18.0|runtime-network|Compliance mode enabled, was '1.18.0'|
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32|Compliance mode enabled, was '1.4.3'|
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
+|libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'<br>Possible downgrade from the current version (20210305 -> 0.11.0)|
 |libeconf|0.5.0|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
@@ -1364,7 +1366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
-|luajit|2.1.0b3<br>+git20240222|2.0.5|lang-lua|Compliance mode enabled, was '2.0.5'<br>Possible downgrade from the current version (2.1.0b3+git20240222 -> 2.0.5)|
+|luajit|2.1.0b3<br>+git20240222|2.1.rolling|lang-lua|Compliance mode enabled, was '2.1.ROLLING'|
 |lucene++|3.0.8|3.0.9|runtime-common|Compliance mode enabled, was '3.0.9'|
 |lunzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
@@ -2532,6 +2534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|4.9.0|2024.09.09.00|app-utils|Compliance mode enabled, was '2024.09.09.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
+|waybar|0.10.4|0.11.0|app-utils|Compliance mode enabled, was '0.11.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
