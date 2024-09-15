@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726431017?label=Updated)
+![Relative date](https://img.shields.io/date/1726434345?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -699,7 +699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icu|74.2|75.1|runtime-i18n|Compliance mode enabled, was '75-1'|
 |icu+32|64.2|75.1|runtime-optenv32|Compliance mode enabled, was '75-1'|
 |id3|0.80|0.81|app-utils|Compliance mode enabled, was '0.81'|
-|idna|3.7|3.9|lang-python|Compliance mode enabled, was '3.9'|
+|idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+38|app-utils|Compliance mode enabled, was '7.1.1-38'|
@@ -721,6 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
+|iproute2|6.10.0|6.11.0|app-network|Compliance mode enabled, was '6.11.0'|
 |ipt2socks|1.1.3|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |iptables|1.8.8|1.8.10|app-network|Compliance mode enabled, was '1.8.10'|
 |iptraf-ng|1.1.4|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
@@ -1139,7 +1140,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjcat|0.1.8|0.2.1|runtime-common|Compliance mode enabled, was '0.2.1'|
-|libjpeg-turbo+32|2.0.5|3.0.3|runtime-optenv32|Compliance mode enabled, was '3.0.3'|
+|libjpeg-turbo|3.0.3|3.0.4|runtime-imaging|Compliance mode enabled, was '3.0.4'|
+|libjpeg-turbo+32|2.0.5|3.0.4|runtime-optenv32|Compliance mode enabled, was '3.0.4'|
 |libjxl|0.10.2|0.11.0|runtime-imaging|Compliance mode enabled, was '0.11.0'|
 |libkcddb|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |libkcompactdisc|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
