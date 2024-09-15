@@ -1406,7 +1406,7 @@
 ["stellarium","0.21.3","24.2","app-scientific",1648044254,["Compliance mode enabled, was '24.2'"]],
 ["maxima","5.46.0","5.47.0","app-scientific",1660378282,["Compliance mode enabled, was '5.47.0'"]],
 ["ncbi-blast+","2.13.0","2.16.0+","app-scientific",1555643138,["Compliance mode enabled, was '2.16.0+'"]],
-["astrometry.net","0.94","0.95","app-scientific",1706625158,["Compliance mode enabled, was '0.95'"]],
+["astrometry.net","0.94","0.96","app-scientific",1706625158,["Compliance mode enabled, was '0.96'"]],
 ["bcftools","1.20","1.21","app-scientific",1717415676,["Compliance mode enabled, was '1.21'"]],
 ["normaliz","3.6.3","3.10.3","app-scientific",1535869754,["Compliance mode enabled, was '3.10.3'"]],
 ["openmpi","4.1.6","5.0.5","app-scientific",1716736819,["Compliance mode enabled, was '5.0.5'"]],
