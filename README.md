@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726406190?label=Updated)
+![Relative date](https://img.shields.io/date/1726409165?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -415,9 +415,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
+|fend|1.5.1|1.5.2|app-utils|Compliance mode enabled, was '1.5.2'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|4.4.4|7.0.2|app-multimedia|Compliance mode enabled, was '7.0.2'|
 |ffmpeg+32|4.2.5|7.0.2|runtime-optenv32|Compliance mode enabled, was '7.0.2'|
+|ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
 |ffmpegthumbs|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ffms2|2.40|5.0|app-multimedia|Compliance mode enabled, was '5.0'|
 |ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
