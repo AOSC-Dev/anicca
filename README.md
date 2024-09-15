@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726438317?label=Updated)
+![Relative date](https://img.shields.io/date/1726441685?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -562,7 +562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |gnome-remote-desktop|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-session|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
-|gnome-settings-daemon|42.2|47|desktop-gnome|Compliance mode enabled, was '47'|
+|gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
 |gnome-shell-extensions|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -607,7 +607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grpc|1.64.0|1.66.1|app-network|Compliance mode enabled, was '1.66.1'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
-|gsettings-desktop-schemas|42.0|47|desktop-gnome|Compliance mode enabled, was '47'|
+|gsettings-desktop-schemas|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
 |gsm|1.0.19|1.0.22|runtime-multimedia|Compliance mode enabled, was '1.0.22'|
 |gsm+32|1.0.19|1.0.22|runtime-optenv32|Compliance mode enabled, was '1.0.22'|
@@ -1443,7 +1443,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |milou|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
-|minetest|5.7.0|5.9.0|app-games||
+|minetest|5.7.0|5.9.1|app-games||
 |mini-portile|2.8.6|2.8.7|lang-ruby|Compliance mode enabled, was '2.8.7'|
 |minicom|2.8|2.9|app-utils|Compliance mode enabled, was '2.9'|
 |minikube|1.33.1|1.34.0|app-containers|Compliance mode enabled, was '1.34.0'|
