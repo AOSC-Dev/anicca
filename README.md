@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726510444?label=Updated)
+![Relative date](https://img.shields.io/date/1726513541?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -401,6 +401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fakeroot|1.35.1|1.36|app-utils|Compliance mode enabled, was '1.36'|
 |falkon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
+|fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
 |fastfetch|2.22.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
@@ -549,7 +550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-desktop|42.4|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |gnome-disk-utility|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-flashback|3.45.1|3.52.1|desktop-gnome|Compliance mode enabled, was '3.52.1'|
-|gnome-font-viewer|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-font-viewer|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-initial-setup|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-keyring|40.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
@@ -575,7 +576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-user-docs|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-user-share|3.34.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
-|gnome-weather|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|gnome-weather|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnote|42.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnu-efi|3.0.14|3.0.18|app-devel|Compliance mode enabled, was '3.0.18'|
 |gnupg|2.4.5|2.5.1|app-cryptography|Compliance mode enabled, was '2.5.1'|
