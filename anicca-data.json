@@ -1342,6 +1342,7 @@
 ["libp11","0.4.10","0.4.12","runtime-cryptography",1565150269,["Compliance mode enabled, was '0.4.12'"]],
 ["wolfssl","5.7.0","5.7.2-stable","runtime-cryptography",1717571729,["Compliance mode enabled, was '5.7.2-stable'"]],
 ["botan","1.10.17","3.5.0","runtime-cryptography",1575779059,["Compliance mode enabled, was '3.5.0'"]],
+["nettle","3.7.2","3.10","runtime-cryptography",1617167171,["Compliance mode enabled, was '3.10'"]],
 ["linux+api","6.7.12","5.19.17","core-devel",1712750153,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.7.12 -> 5.19.17)"]],
 ["gcc","13.2.0","14.2.0","core-devel",1694091939,["Compliance mode enabled, was '14.2.0'"]],
 ["go","1.22.5","1.23.1","lang-golang",1721376905,[]],
