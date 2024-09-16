@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726499509?label=Updated)
+![Relative date](https://img.shields.io/date/1726503162?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2186,6 +2186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
 |scons|4.4.0|4.8.1|app-devel|Compliance mode enabled, was '4.8.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
+|scrcpy|2.6.1|2.7|app-devices|Compliance mode enabled, was '2.7'|
 |screen|4.9.0|5.0.0|app-utils|Compliance mode enabled, was '5.0.0'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
@@ -2208,8 +2209,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |serf|1.3.9|1.3.10|runtime-web|Compliance mode enabled, was '1.3.10'|
 |service-identity|18.1.0|24.1.0|lang-python|Compliance mode enabled, was '24.1.0'|
-|setuptools-python2|44.1.0|75.0.0|lang-python|Compliance mode enabled, was '75.0.0'|
-|setuptools-python3|69.1.0|75.0.0|lang-python|Compliance mode enabled, was '75.0.0'|
+|setuptools-python2|44.1.0|75.1.0|lang-python|Compliance mode enabled, was '75.1.0'|
+|setuptools-python3|69.1.0|75.1.0|lang-python|Compliance mode enabled, was '75.1.0'|
 |setuptools-rust|1.9.0|1.10.1|lang-python|Compliance mode enabled, was '1.10.1'|
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
