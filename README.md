@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726517444?label=Updated)
+![Relative date](https://img.shields.io/date/1726520969?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1521,7 +1521,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |netpbm|10.73.34|11.07.00|app-utils|Compliance mode enabled, was '11.07.00'|
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
-|nettle|3.7.2|3.10|runtime-cryptography|Compliance mode enabled, was '3.10'|
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
 |networkmanager|1.40.6|1.48.10|app-network|Compliance mode enabled, was '1.48.10'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
@@ -2294,7 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-llvm-translator|18.1.0|18.1.4|app-devel|Compliance mode enabled, was '18.1.4'|
 |spirv-tools|1.3.275.0|2024.3|runtime-display|Compliance mode enabled, was '2024.3'|
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
-|sqlalchemy|1.2.18|2.0.34|lang-python|Compliance mode enabled, was '2.0.34'|
+|sqlalchemy|1.2.18|2.0.35|lang-python|Compliance mode enabled, was '2.0.35'|
 |sqlcipher|4.5.6|4.6.1|app-database|Compliance mode enabled, was '4.6.1'|
 |sqlite+32|3.32.3|3.46.1|runtime-optenv32|Compliance mode enabled, was '3.46.1'|
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
