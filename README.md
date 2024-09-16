@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726492787?label=Updated)
+![Relative date](https://img.shields.io/date/1726495806?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -59,7 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-ant|1.10.14|1.10.15|lang-java|Compliance mode enabled, was '1.10.15'|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
-|apicula|0.9.1|0.13|app-electronics|Compliance mode enabled, was '0.13'|
+|apicula|0.9.1|0.14|app-electronics|Compliance mode enabled, was '0.14'|
 |apparmor|3.0.8|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
@@ -2595,7 +2595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcompmgr|1.1.8|1.1.9|desktop-wm|Compliance mode enabled, was '1.1.9'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal|1.16.0|1.18.4|app-admin|Compliance mode enabled, was '1.18.4'|
-|xdg-desktop-portal-gnome|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|xdg-desktop-portal-gnome|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |xdg-desktop-portal-kde|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |xdg-user-dirs|0.17|0.18|app-admin|Compliance mode enabled, was '0.18'|
 |xdg-utils|1.1.3|1.2.1|app-utils|Compliance mode enabled, was '1.2.1'|
