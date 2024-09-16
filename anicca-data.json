@@ -1996,7 +1996,7 @@
 ["boto3","1.20.26","1.35.19","lang-python",1616123331,["Compliance mode enabled, was '1.35.19'"]],
 ["stopit","0+git20190827","1.1.2","lang-python",1614351126,["Compliance mode enabled, was '1.1.2'"]],
 ["coloredlogs","10.0","15.0.1","lang-python",1658966837,["Compliance mode enabled, was '15.0.1'"]],
-["paramiko","2.10.3","3.4.1","lang-python",1652414087,["Compliance mode enabled, was '3.4.1'"]],
+["paramiko","2.10.3","3.5.0","lang-python",1652414087,["Compliance mode enabled, was '3.5.0'"]],
 ["flask-mail","0.9.1","0.10.0","lang-python",1477577598,["Compliance mode enabled, was '0.10.0'"]],
 ["python-build","1.2.1","1.2.2","lang-python",1658966837,["Compliance mode enabled, was '1.2.2'"]],
 ["click","7.1.2","8.1.7","lang-python",1607768363,["Compliance mode enabled, was '8.1.7'"]],
