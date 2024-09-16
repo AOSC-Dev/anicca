@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726506602?label=Updated)
+![Relative date](https://img.shields.io/date/1726510444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -123,7 +123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baloo|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |baloo-widgets|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |balz|1.20|.55|app-utils|Compliance mode enabled, was '.55'|
-|baobab|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|baobab|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |bash|5.2.26|5.2.32|app-shells|Compliance mode enabled, was '5.2.32'|
 |bcachefs-tools|1.9.4|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |bcc|0.30.0|0.31.0|app-devel|Compliance mode enabled, was '0.31.0'|
@@ -401,7 +401,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fakeroot|1.35.1|1.36|app-utils|Compliance mode enabled, was '1.36'|
 |falkon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
-|fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
 |fastfetch|2.22.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
@@ -1975,7 +1974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
-|pydantic-core|2.16.1|2.23.3|lang-python|Compliance mode enabled, was '2.23.3'|
+|pydantic-core|2.16.1|2.23.4|lang-python|Compliance mode enabled, was '2.23.4'|
 |pydot|1.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
@@ -2365,7 +2364,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tbb|2021.11.0|2021.13.0|runtime-common|Compliance mode enabled, was '2021.13.0'|
 |tbb+32|4.4u4|2021.13.0|runtime-optenv32|Compliance mode enabled, was '2021.13.0'|
-|tcl+32|8.6.10|8.6.14|runtime-optenv32|Compliance mode enabled, was '8.6.14'|
+|tcl|8.6.14|8.6.15|lang-tcl|Compliance mode enabled, was '8.6.15'|
+|tcl+32|8.6.10|8.6.15|runtime-optenv32|Compliance mode enabled, was '8.6.15'|
 |tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
@@ -2482,6 +2482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |urllib3|2.2.1|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
+|urwid|2.1.2|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
 |utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
