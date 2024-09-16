@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726485012?label=Updated)
+![Relative date](https://img.shields.io/date/1726489046?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -57,7 +57,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
-|aoscbootstrap|0.7.0|0.7.3|app-utils|Compliance mode enabled, was '0.7.3'|
 |apache-ant|1.10.14|1.10.15|lang-java|Compliance mode enabled, was '1.10.15'|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apicula|0.9.1|0.13|app-electronics|Compliance mode enabled, was '0.13'|
