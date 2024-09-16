@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726503162?label=Updated)
+![Relative date](https://img.shields.io/date/1726506602?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -488,7 +488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
-|gdm|42.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|gdm|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |geany|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
@@ -540,7 +540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-builder|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-calculator|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-calendar|42.2|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-calendar|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-characters|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-chess|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-clocks|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -1843,7 +1843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|1.74|5.29|lang-perl|Compliance mode enabled, was '5.29'|
-|perl-www-mechanize|1.91|2.18|lang-perl|Compliance mode enabled, was '2.18'|
+|perl-www-mechanize|1.91|2.19|lang-perl|Compliance mode enabled, was '2.19'|
 |perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
 |perl-xml-libxslt|1.96|2.003000|lang-perl|Compliance mode enabled, was '2.003000'|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
@@ -2406,8 +2406,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycss2|1.0.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |tinyproxy|1.11.1|1.11.2|app-network|Compliance mode enabled, was '1.11.2'|
 |tio|3.6|3.7|app-utils|Compliance mode enabled, was '3.7'|
-|tk|8.6.10|8.6.14|lang-tcl|Compliance mode enabled, was '8.6.14'|
-|tk+32|8.6.10|8.6.14|runtime-optenv32|Compliance mode enabled, was '8.6.14'|
+|tk|8.6.10|8.6.15|lang-tcl|Compliance mode enabled, was '8.6.15'|
+|tk+32|8.6.10|8.6.15|runtime-optenv32|Compliance mode enabled, was '8.6.15'|
 |tl-expected|1.0.0|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |tofrodos|1.7.13|1.8.3|app-utils|Compliance mode enabled, was '1.8.3'|
 |tokodon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2482,7 +2482,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |urllib3|2.2.1|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|urwid|2.1.2|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
 |utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
