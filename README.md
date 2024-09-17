@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726589474?label=Updated)
+![Relative date](https://img.shields.io/date/1726593003?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -166,6 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |breeze-plymouth|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
+|btrfs-progs|6.10.1|6.11|app-admin|Compliance mode enabled, was '6.11'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildah|1.37.0|1.37.2|app-containers|Compliance mode enabled, was '1.37.2'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -195,7 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-release|0.25.10|0.25.11|lang-rust|Compliance mode enabled, was '0.25.11'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |catatonit|0.1.7|0.2.0|app-admin|Compliance mode enabled, was '0.2.0'|
-|catch2|2.13.8|3.7.0|runtime-common|Compliance mode enabled, was '3.7.0'|
+|catch2|2.13.8|3.7.1|runtime-common|Compliance mode enabled, was '3.7.1'|
 |cchardet|2.1.7|2.2.0~a2|lang-python|Compliance mode enabled, was '2.2.0a2'|
 |ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
@@ -933,7 +934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifications|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |knotifyconfig|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kodi|20.3|21.1|app-multimedia|Compliance mode enabled, was '21.1'|
-|kodi-pvr-iptvsimple|19.2.2|22.1.1-piers|app-multimedia|Compliance mode enabled, was '22.1.1-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.1.2-piers|app-multimedia|Compliance mode enabled, was '22.1.2-Piers'|
 |koko|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kolf|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kollision|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
