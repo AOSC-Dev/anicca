@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726585924?label=Updated)
+![Relative date](https://img.shields.io/date/1726589474?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1633,7 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
 |orc|0.4.32|0.4.39|app-devel|Compliance mode enabled, was '0.4.39'|
 |orc+32|0.4.32|0.4.39|runtime-optenv32|Compliance mode enabled, was '0.4.39'|
-|orca|42.3|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
+|orca|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |os-prober|1.81|1.83|app-utils|Compliance mode enabled, was '1.83'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |oslo-config|9.5.0|9.6.0|lang-python|Compliance mode enabled, was '9.6.0'|
@@ -1810,6 +1810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
+|perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
 |perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
 |perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
@@ -1971,7 +1972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
-|pydantic|2.6.0|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
+|pydantic|2.6.0|2.9.2|lang-python|Compliance mode enabled, was '2.9.2'|
 |pydantic-core|2.16.1|2.23.4|lang-python|Compliance mode enabled, was '2.23.4'|
 |pydot|1.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
