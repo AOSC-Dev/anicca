@@ -725,7 +725,7 @@
 ["libcloudproviders","0.3.1","0.3.6","runtime-web",1619939089,["Compliance mode enabled, was '0.3.6'"]],
 ["telepathy-accounts-signon","1.0","2.1","runtime-web",1461632861,["Compliance mode enabled, was '2.1'"]],
 ["rest","0.8.1","0.9.1","runtime-web",1663210241,["Compliance mode enabled, was '0.9.1'"]],
-["webkit2gtk","2.44.2","2.44.4","runtime-web",1721223235,["Compliance mode enabled, was '2.44.4'"]],
+["webkit2gtk","2.44.2","2.46.0","runtime-web",1721223235,["Compliance mode enabled, was '2.46.0'"]],
 ["loudmouth","1.5.3","1.5.4","runtime-web",1531681602,["Compliance mode enabled, was '1.5.4'"]],
 ["uhttpmock","0.5.3","0.11.0","runtime-web",1600321917,["Compliance mode enabled, was '0.11.0'"]],
 ["libmaxminddb","1.4.3","1.11.0","runtime-web",1600321917,["Compliance mode enabled, was '1.11.0'"]],
