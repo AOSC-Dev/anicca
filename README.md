@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726567923?label=Updated)
+![Relative date](https://img.shields.io/date/1726571316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -535,7 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-bluetooth|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-boxes|42.3|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnome-boxes|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-builder|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-calculator|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-calendar|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -756,7 +756,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonrpc-glib|3.42.0|3.44.1|runtime-common|Compliance mode enabled, was '3.44.1'|
 |jsonschema|3.2.0|0.0.1|lang-python|Compliance mode enabled, was '0.0.1'<br>Possible downgrade from the current version (3.2.0 -> 0.0.1)|
 |juk|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|jupyter-client|5.2.4|8.6.2|lang-python|Compliance mode enabled, was '8.6.2'|
+|jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
 |k3b|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kaccounts-integration|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -817,6 +817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdebugsettings|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdeclarative|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
+|kdeconnect|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kdecoration|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |kded|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kdeedu-data|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -1160,6 +1161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksba|1.6.6|1.6.7|runtime-cryptography|Compliance mode enabled, was '1.6.7'|
 |libkscreen|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |libksieve|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
+|libksysguard|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |libktorrent|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
 |liblo|0.29|0.32|runtime-multimedia|Compliance mode enabled, was '0.32'|
@@ -2134,7 +2136,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
 |rocs|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |roct-thunk-interface|6.0.0|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
-|rosegarden|20.12|24.06|app-creativity|Compliance mode enabled, was '24.06'|
 |roxterm|3.15.0|3.15.1|app-utils|Compliance mode enabled, was '3.15.1'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
