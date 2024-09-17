@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726571316?label=Updated)
+![Relative date](https://img.shields.io/date/1726575484?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2057,7 +2057,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyyaml|6.0.1|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
 |pyzmq|22.3.0|26.2.0|lang-python|Compliance mode enabled, was '26.2.0'|
-|qbittorrent|4.6.6|4.6.7|app-web|Compliance mode enabled, was '4.6.7'|
 |qca|2.3.4|2.3.9|runtime-cryptography|Compliance mode enabled, was '2.3.9'|
 |qcef|1.1.6|1.1.8|runtime-desktop|Compliance mode enabled, was '1.1.8'|
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
@@ -2419,6 +2418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqdm|4.62.3|4.66.5|lang-python|Compliance mode enabled, was '4.66.5'|
 |trace-cmd|2.8.3|3.3|app-utils|Compliance mode enabled, was '3.3'|
+|tracker|3.7.3|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |tracker-miners|3.3.1|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |traitlets|5.0.5|5.14.3|lang-python|Compliance mode enabled, was '5.14.3'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
