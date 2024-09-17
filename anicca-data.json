@@ -1225,7 +1225,7 @@
 ["gnome-shell","42.4","47.0","desktop-gnome",1716197175,["Compliance mode enabled, was '47.0'"]],
 ["evolution","3.44.4","3.54.0","desktop-gnome",1716197175,["Compliance mode enabled, was '3.54.0'"]],
 ["gitg","41","44","desktop-gnome",1663210251,["Compliance mode enabled, was '44'"]],
-["gjs","1.74.0","1.81.90","desktop-gnome",1663210241,["Compliance mode enabled, was '1.81.90'"]],
+["gjs","1.74.0","1.82.0","desktop-gnome",1663210241,["Compliance mode enabled, was '1.82.0'"]],
 ["gnome-desktop","42.4","44.1","desktop-gnome",1663210248,["Compliance mode enabled, was '44.1'"]],
 ["gnome-control-center","42.3","47.0.1","desktop-gnome",1663210242,["Compliance mode enabled, was '47.0.1'"]],
 ["gnome-tour","42.0","47.0","desktop-gnome",1663210243,["Compliance mode enabled, was '47.0'"]],
