@@ -1922,7 +1922,6 @@
 ["sympy","1.12","1.13.2","lang-python",1714117868,["Compliance mode enabled, was '1.13.2'"]],
 ["ytmusicapi","1.7.2","1.8.1","lang-python",1716349221,["Compliance mode enabled, was '1.8.1'"]],
 ["incremental","17.5.0","24.7.2","lang-python",1530718722,["Compliance mode enabled, was '24.7.2'"]],
-["backports","0","1.1","lang-python",1549919968,["Compliance mode enabled, was '1.1'"]],
 ["et-xmlfile","1.0.1","1.1.0","lang-python",1482382343,["Compliance mode enabled, was '1.1.0'"]],
 ["pywbem","0.13.0","1.7.2","lang-python",1551200606,["Compliance mode enabled, was '1.7.2'"]],
 ["lazy-object-proxy","1.7.1","1.10.0","lang-python",1658217673,["Compliance mode enabled, was '1.10.0'"]],
