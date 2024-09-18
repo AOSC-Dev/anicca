@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726693787?label=Updated)
+![Relative date](https://img.shields.io/date/1726697278?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1638,8 +1638,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
-|orc|0.4.32|0.4.39|app-devel|Compliance mode enabled, was '0.4.39'|
-|orc+32|0.4.32|0.4.39|runtime-optenv32|Compliance mode enabled, was '0.4.39'|
+|orc|0.4.32|0.4.40|app-devel|Compliance mode enabled, was '0.4.40'|
+|orc+32|0.4.32|0.4.40|runtime-optenv32|Compliance mode enabled, was '0.4.40'|
 |orca|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |os-prober|1.81|1.83|app-utils|Compliance mode enabled, was '1.83'|
 |osinfo-db-tools|1.10.0|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
