@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726672316?label=Updated)
+![Relative date](https://img.shields.io/date/1726675938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -224,7 +224,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |chromium|127.0.6533.119|129.0.6668.58|app-web|Compliance mode enabled, was '129.0.6668.58'|
 |chrony|4.5|4.6|app-admin|Compliance mode enabled, was '4.6'|
-|cinnamon|5.8.3|6.2.9|groups|Compliance mode enabled, was '6.2.9'|
+|cinnamon|5.8.3|6.2.9|desktop-cinnamon|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -624,7 +624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
 |gstreamer|1.24.4|1.24.7|runtime-multimedia|Compliance mode enabled, was '1.24.7'|
-|gstreamer-1-0+32|1.16.2|1.24.7|groups|Compliance mode enabled, was '1.24.7'|
+|gstreamer-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
 |gtk-4|4.14.2|4.16.1|desktop-gnome|Compliance mode enabled, was '4.16.1'|
@@ -1324,8 +1324,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|runtime-optenv32|Compliance mode enabled, was '1.1.5'|
 |libxkbcommon+32|0.9.1|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
-|libxml2|2.10.4|2.13.3|runtime-common|Compliance mode enabled, was '2.13.3'|
-|libxml2+32|2.10.4|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
+|libxml2|2.10.4|2.13.4|runtime-common|Compliance mode enabled, was '2.13.4'|
+|libxml2+32|2.10.4|2.13.4|runtime-optenv32|Compliance mode enabled, was '2.13.4'|
 |libxmlb|0.3.15|0.3.19|runtime-common|Compliance mode enabled, was '0.3.19'|
 |libxnvctrl|545.23.06|550.54.14|runtime-display|Compliance mode enabled, was '550.54.14'|
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32|Compliance mode enabled, was '550.54.14'|
@@ -1652,6 +1652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |oxygen-sounds|5.25.3|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |p11-kit|0.25.3|0.25.5|runtime-cryptography|Compliance mode enabled, was '0.25.5'|
+|p11-kit+32|0.23.18.1|0.25.5|runtime-optenv32|Compliance mode enabled, was '0.25.5'|
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
 |packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
 |packaging|23.0|24.1|lang-python|Compliance mode enabled, was '24.1'|
@@ -1917,7 +1918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.12|app-scientific|Compliance mode enabled, was '4.12'|
 |polyphone|2.3.0|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
-|poppler|22.08.0|24.09.0|groups|Compliance mode enabled, was '24.09.0'|
+|poppler|22.08.0|24.09.0|runtime-doc|Compliance mode enabled, was '24.09.0'|
 |poppler+32|0.66.0|24.09.0|runtime-optenv32|Compliance mode enabled, was '24.09.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
