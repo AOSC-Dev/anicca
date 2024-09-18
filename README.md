@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726665515?label=Updated)
+![Relative date](https://img.shields.io/date/1726668613?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2157,7 +2157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python|Compliance mode enabled, was '0.2.8'|
 |rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
 |ruby|3.2.2|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
-|ruby-bundler|2.1.4|2.5.18|lang-ruby|Compliance mode enabled, was '2.5.18'|
+|ruby-bundler|2.1.4|2.5.19|lang-ruby|Compliance mode enabled, was '2.5.19'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
