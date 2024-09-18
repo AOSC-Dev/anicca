@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726661877?label=Updated)
+![Relative date](https://img.shields.io/date/1726665515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1341,6 +1341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
 |linux+api|6.7.12|5.19.17|core-devel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
+|linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.10.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.10 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
 |linux+kernel+lts|6.6.51|5.10.226|runtime-kernel|Compliance mode enabled, was '5.10.226'<br>Possible downgrade from the current version (6.6.51 -> 5.10.226)|
@@ -2487,6 +2488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urwid|2.1.2|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
+|utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
 |util-linux+32|2.29.2|2.40.2|runtime-optenv32|Compliance mode enabled, was '2.40.2'|
