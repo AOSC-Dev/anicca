@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726740722?label=Updated)
+![Relative date](https://img.shields.io/date/1726744161?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2002,6 +2002,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
 |pynput|1.7.6|1.7.7|lang-python|Compliance mode enabled, was '1.7.7'|
 |pyopengl|3.1.5|3.1.7|lang-python|Compliance mode enabled, was '3.1.7'|
+|pyopenssl|23.1.1|24.2.1|lang-python|Compliance mode enabled, was '24.2.1'|
 |pyotherside|1.5.9|1.6.1|lang-python|Compliance mode enabled, was '1.6.1'|
 |pyparsing|2.4.7|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |pyparted|3.11.6|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
@@ -2075,6 +2076,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmmp|1.6.5|2.1.9|app-multimedia|Compliance mode enabled, was '2.1.9'|
 |qownnotes|22.6.1|24.9.6|app-web|Compliance mode enabled, was '24.9.6'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
+|qpwgraph|0.7.7|0.7.8|app-multimedia|Compliance mode enabled, was '0.7.8'|
 |qqc2-desktop-style|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
@@ -2669,7 +2671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
 |zotero|6.0.26|7.0.6|app-productivity|Compliance mode enabled, was '7.0.6'|
-|zoxide|0.9.4|0.9.5|app-utils|Compliance mode enabled, was '0.9.5'|
+|zoxide|0.9.4|0.9.6|app-utils|Compliance mode enabled, was '0.9.6'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.22.0|0.23.0|lang-python|Compliance mode enabled, was '0.23.0'|
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
