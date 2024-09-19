@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726722658?label=Updated)
+![Relative date](https://img.shields.io/date/1726726447?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -587,10 +587,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls|3.8.4|3.8.7|runtime-cryptography|Compliance mode enabled, was '3.8.7'|
 |gnutls+32|3.6.15|3.8.7|runtime-optenv32|Compliance mode enabled, was '3.8.7'|
 |go|1.22.5|1.23.1|lang-golang||
+|go-md2man|2.0.4|2.0.5|app-doc|Compliance mode enabled, was '2.0.5'|
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.145.0|lang-python|Compliance mode enabled, was '2.145.0'|
+|google-api-python-client|1.7.11|2.146.0|lang-python|Compliance mode enabled, was '2.146.0'|
 |google-auth|1.6.3|2.34.0|lang-python|Compliance mode enabled, was '2.34.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|128.0.6613.137|129.0.6668.58|app-web|Compliance mode enabled, was '129.0.6668.58'|
@@ -2347,7 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sweeper|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.2.1|app-devel|Compliance mode enabled, was '4.2.1'|
-|sympy|1.12|1.13.2|lang-python|Compliance mode enabled, was '1.13.2'|
+|sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
 |synaptic|0.90.2|0.91.3|app-admin|Compliance mode enabled, was '0.91.3'|
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
 |syndication|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
