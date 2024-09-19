@@ -2486,7 +2486,7 @@
 ["toxcore","0.2.18","0.2.19","app-web",1655338775,["Compliance mode enabled, was '0.2.19'"]],
 ["certbot-nginx","2.10.0","2.11.0","app-web",1716728325,["Compliance mode enabled, was '2.11.0'"]],
 ["httpie","3.2.2","3.2.3","app-web",1709968724,["Compliance mode enabled, was '3.2.3'"]],
-["hugo","0.131.0","0.134.2","app-web",1723474419,["Compliance mode enabled, was '0.134.2'"]],
+["hugo","0.131.0","0.134.3","app-web",1723474419,["Compliance mode enabled, was '0.134.3'"]],
 ["sbcl","2.4.5","2.4.8","lang-lisp",1717074126,["Compliance mode enabled, was '2.4.8'"]],
 ["engrampa","1.28.1","1.28.2","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.2'"]],
 ["mate-control-center","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
