@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726754999?label=Updated)
+![Relative date](https://img.shields.io/date/1726758617?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1330,7 +1330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt|1.1.34|1.1.42|runtime-common|Compliance mode enabled, was '1.1.42'|
 |libxslt+32|1.1.34|1.1.42|runtime-optenv32|Compliance mode enabled, was '1.1.42'|
 |libzen|0.4.38|0.4.41|runtime-common|Compliance mode enabled, was '0.4.41'|
-|libzip|1.5.2|1.10.1|runtime-common|Compliance mode enabled, was '1.10.1'|
+|libzip|1.5.2|1.11.1|runtime-common|Compliance mode enabled, was '1.11.1'|
 |liferea|1.13.8|1.15.7|app-web|Compliance mode enabled, was '1.15.7'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
@@ -1392,6 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lyx|2.4.0|2.4.1|app-doc|Compliance mode enabled, was '2.4.1'|
 |lzip|1.23|1.24.1|app-utils|Compliance mode enabled, was '1.24.1'|
 |lzlib|1.11|1.14|runtime-common|Compliance mode enabled, was '1.14'|
+|m17n-db|1.8.7|1.8.8|runtime-i18n|Compliance mode enabled, was '1.8.8'|
 |m17n-lib|1.8.0|1.8.4|runtime-i18n|Compliance mode enabled, was '1.8.4'|
 |m2crypto|0.38.0|0.42.0|lang-python|Compliance mode enabled, was '0.42.0'|
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
