@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726751981?label=Updated)
+![Relative date](https://img.shields.io/date/1726754999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -561,7 +561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |gnome-remote-desktop|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-session|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
@@ -619,9 +619,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gst-libav-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
-|gst-plugins-bad-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
-|gst-plugins-base-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
-|gst-plugins-good-1-0+32|1.16.2|1.24.7|runtime-optenv32|Compliance mode enabled, was '1.24.7'|
+|gst-plugins-bad-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
+|gst-plugins-base-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
+|gst-plugins-good-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
 |gstreamer|1.24.4|1.24.8|runtime-multimedia|Compliance mode enabled, was '1.24.8'|
 |gstreamer-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
