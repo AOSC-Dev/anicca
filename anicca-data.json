@@ -2192,6 +2192,7 @@
 ["uncrustify","0.78.1","0.79.0","app-devel",1704791250,["Compliance mode enabled, was '0.79.0'"]],
 ["strace","6.5","6.11","app-devel",1701420059,["Compliance mode enabled, was '6.11'"]],
 ["nsgenbind","0.8","0.9","app-devel",1591894752,["Compliance mode enabled, was '0.9'"]],
+["abbs-update-checksum","0.2.2","0.2.3","app-devel",1725015946,["Compliance mode enabled, was '0.2.3'"]],
 ["arduino-avr-core","1.8.3","1.8.6","app-devel",1634066043,["Compliance mode enabled, was '1.8.6'"]],
 ["git-lfs","3.5.0","3.5.1","app-devel",1712458054,["Compliance mode enabled, was '3.5.1'"]],
 ["spirv-llvm-translator","18.1.0","18.1.4","app-devel",1721226526,["Compliance mode enabled, was '18.1.4'"]],
