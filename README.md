@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726780183?label=Updated)
+![Relative date](https://img.shields.io/date/1726783781?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -329,7 +329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|27.1.1|27.2.1|app-containers||
+|docker|27.1.1|27.3.0|app-containers||
 |docker-compose|2.29.1|2.29.5|app-containers|Compliance mode enabled, was '2.29.5'|
 |dolphin|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |dolphin-emu|2407|2409|app-games|Compliance mode enabled, was '2409'|
@@ -519,8 +519,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gjs|1.74.0|1.82.0|desktop-gnome|Compliance mode enabled, was '1.82.0'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.1.2.1|app-admin|Compliance mode enabled, was '4.1.2.1'|
-|glib|2.80.0|2.82.0|runtime-common|Compliance mode enabled, was '2.82.0'|
-|glib+32|2.62.6|2.82.0|runtime-optenv32|Compliance mode enabled, was '2.82.0'|
+|glib|2.80.0|2.82.1|runtime-common|Compliance mode enabled, was '2.82.1'|
+|glib+32|2.62.6|2.82.1|runtime-optenv32|Compliance mode enabled, was '2.82.1'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
 |glibc|2.38|2.40|core-libs|Compliance mode enabled, was '2.40'|
 |glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
@@ -1040,6 +1040,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldns|1.8.3|1.8.4|runtime-network|Compliance mode enabled, was '1.8.4'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |less|643|661|app-utils|Compliance mode enabled, was '661'|
+|level-zero|1.17.42|1.17.44|runtime-common|Compliance mode enabled, was '1.17.44'|
 |levenshtein|0.12.0|0.25.1|lang-python|Compliance mode enabled, was '0.25.1'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -1087,7 +1088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdread|6.1.1|6.1.3|runtime-multimedia|Compliance mode enabled, was '6.1.3'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'<br>Possible downgrade from the current version (20210305 -> 0.11.0)|
-|libeconf|0.5.0|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
+|libeconf|0.5.0|0.7.3|runtime-common|Compliance mode enabled, was '0.7.3'|
 |libedit|20191231<br>+3.1|20240808-3.1|runtime-common|Compliance mode enabled, was '20240808-3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32|Compliance mode enabled, was '1.5.10'|
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
@@ -1645,7 +1646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.3.0|lang-python|Compliance mode enabled, was '7.3.0'|
-|ostree|2024.6|2024.7|app-admin|Compliance mode enabled, was '2024.7'|
+|ostree|2024.6|2024.8|app-admin|Compliance mode enabled, was '2024.8'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |oxygen-icons|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
