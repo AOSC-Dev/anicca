@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726823609?label=Updated)
+![Relative date](https://img.shields.io/date/1726827078?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -728,7 +728,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
 |ipython|7.28.0|8.27.0|lang-python|Compliance mode enabled, was '8.27.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
-|isl|0.26|0.27|core-libs|Compliance mode enabled, was '0.27'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
 |itinerary|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -973,7 +972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krecorder|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kreversi|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |krfb|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|krita|5.2.2|5.2.3|app-creativity|Compliance mode enabled, was '5.2.3'|
+|krita|5.2.2|5.2.5|app-creativity|Compliance mode enabled, was '5.2.5'|
 |kross|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kruler|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |krunner|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
