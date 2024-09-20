@@ -1708,7 +1708,7 @@
 ["mercurial","6.7.3","6.8.1","app-vcs",1716564531,["Compliance mode enabled, was '6.8.1'"]],
 ["git-cliff","2.4.0","2.5.0","app-vcs",1721525702,["Compliance mode enabled, was '2.5.0'"]],
 ["liblouis","3.12.0","3.31.0","runtime-a11y",1577438505,["Compliance mode enabled, was '3.31.0'"]],
-["numix-icon-theme","20190917","24.04.22","desktop-themes",1573334694,["Compliance mode enabled, was '24.04.22'","Possible downgrade from the current version (20190917 -> 24.04.22)"]],
+["numix-icon-theme","20190917","24.09.18","desktop-themes",1573334694,["Compliance mode enabled, was '24.09.18'","Possible downgrade from the current version (20190917 -> 24.09.18)"]],
 ["aosc-community-wallpapers-extras-2024","2024.04.1","2024.04.0","desktop-themes",1714209508,["Compliance mode enabled, was '2024.04.0'","Possible downgrade from the current version (2024.04.1 -> 2024.04.0)"]],
 ["aosc-community-wallpapers-extras-2023","2023.10.1","2024.04.0","desktop-themes",1714209508,["Compliance mode enabled, was '2024.04.0'"]],
 ["flat-remix-icon-theme","20191122","20240201","desktop-themes",1575780270,["Compliance mode enabled, was '20240201'"]],

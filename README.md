@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726809033?label=Updated)
+![Relative date](https://img.shields.io/date/1726812806?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1568,7 +1568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numactl|2.0.14|2.0.18|app-admin|Compliance mode enabled, was '2.0.18'|
-|numix-icon-theme|20190917|24.04.22|desktop-themes|Compliance mode enabled, was '24.04.22'<br>Possible downgrade from the current version (20190917 -> 24.04.22)|
+|numix-icon-theme|20190917|24.09.18|desktop-themes|Compliance mode enabled, was '24.09.18'<br>Possible downgrade from the current version (20190917 -> 24.09.18)|
 |numix-icon-theme-circle|20160927|24.07.19|desktop-themes|Compliance mode enabled, was '24.07.19'<br>Possible downgrade from the current version (20160927 -> 24.07.19)|
 |numpy|1.26.4|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
