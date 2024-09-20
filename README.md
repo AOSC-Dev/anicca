@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726855951?label=Updated)
+![Relative date](https://img.shields.io/date/1726859066?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2145,10 +2145,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-llvm|6.0.2|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
 |rocm-smi-lib|6.0.2|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
 |rocminfo|6.0.2|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
-|rocr-runtime|6.0.2|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
+|rocr-runtime|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
 |rocs|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |roct-thunk-interface|6.0.0|6.2.0|runtime-rocm|Compliance mode enabled, was '6.2.0'|
-|roxterm|3.15.0|3.15.1|app-utils|Compliance mode enabled, was '3.15.1'|
+|roxterm|3.15.0|3.15.2|app-utils|Compliance mode enabled, was '3.15.2'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
 |rpm|4.18.0|4.19.1.1-release|app-admin|Compliance mode enabled, was '4.19.1.1-release'|
