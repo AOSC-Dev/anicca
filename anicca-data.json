@@ -2080,6 +2080,7 @@
 ["gnutls","3.8.4","3.8.7","runtime-cryptography",1711786625,["Compliance mode enabled, was '3.8.7'"]],
 ["botan","1.10.17","3.5.0","runtime-cryptography",1575779059,["Compliance mode enabled, was '3.5.0'"]],
 ["libsodium","1.0.18","1.0.20","runtime-cryptography",1565150270,["Compliance mode enabled, was '1.0.20'"]],
+["argon2","20190702","20171227","runtime-cryptography",1569908606,["Compliance mode enabled, was '20171227'","Possible downgrade from the current version (20190702 -> 20171227)"]],
 ["nettle","3.7.2","3.10","runtime-cryptography",1617167171,["Compliance mode enabled, was '3.10'"]],
 ["opencryptoki","3.21.0","3.24.0","runtime-cryptography",1696572712,["Compliance mode enabled, was '3.24.0'"]],
 ["nss","3.103","3.104","runtime-cryptography",1723399860,["Compliance mode enabled, was '3.104'"]],
