@@ -708,7 +708,7 @@
 ["perl-x11-protocol-other","30","31","lang-perl",1520410129,["Compliance mode enabled, was '31'"]],
 ["perl-digest-hmac","1.03","1.04","lang-perl",1678950872,["Compliance mode enabled, was '1.04'"]],
 ["perl-file-sharedir-install","0.13","0.14","lang-perl",1596485998,["Compliance mode enabled, was '0.14'"]],
-["perl-yaml-libyaml","0.85","0.901.0","lang-perl",1678351353,["Compliance mode enabled, was '0.901.0'"]],
+["perl-yaml-libyaml","0.85","0.902.0","lang-perl",1678351353,["Compliance mode enabled, was '0.902.0'"]],
 ["perl-http-daemon","6.01","6.16","lang-perl",1678950872,["Compliance mode enabled, was '6.16'"]],
 ["perl-file-listing","6.04","6.16","lang-perl",1678950872,["Compliance mode enabled, was '6.16'"]],
 ["perl-email-mime-contenttype","1.022","1.028","lang-perl",1530196415,["Compliance mode enabled, was '1.028'"]],
