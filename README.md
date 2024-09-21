@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726949395?label=Updated)
+![Relative date](https://img.shields.io/date/1726952735?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -580,7 +580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-user-share|3.34.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnote|42.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
+|gnote|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnu-efi|3.0.14|3.0.18|app-devel|Compliance mode enabled, was '3.0.18'|
 |gnupg|2.4.5|2.5.1|app-cryptography|Compliance mode enabled, was '2.5.1'|
 |gnustep-base|1.28.0|1.30.0|runtime-gnustep|Compliance mode enabled, was '1_30_0'|
@@ -1599,7 +1599,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.10.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
-|oolite|1.90|1.91.0.7631-240919-d09c75b|app-games|Compliance mode enabled, was '1.91.0.7631-240919-d09c75b'|
+|oolite|1.90|1.91.0.7634-240921-8a7b0c2|app-games|Compliance mode enabled, was '1.91.0.7634-240921-8a7b0c2'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
