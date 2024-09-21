@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726895488?label=Updated)
+![Relative date](https://img.shields.io/date/1726899248?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -405,6 +405,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
+|fastfetch|2.24.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -625,7 +626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-base-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
 |gst-plugins-good-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
-|gstreamer|1.24.4|1.24.8|runtime-multimedia|Compliance mode enabled, was '1.24.8'|
 |gstreamer-1-0+32|1.16.2|1.24.8|runtime-optenv32|Compliance mode enabled, was '1.24.8'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
