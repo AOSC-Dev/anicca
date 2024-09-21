@@ -24,6 +24,7 @@
 ["poppler","22.08.0","24.09.0","runtime-doc",1663210227,["Compliance mode enabled, was '24.09.0'"]],
 ["cups-filters","2.0.0","2.0.1","runtime-doc",1712074122,["Compliance mode enabled, was '2.0.1'"]],
 ["bash","5.2.26","5.2.32","app-shells",1714457780,["Compliance mode enabled, was '5.2.32'"]],
+["zshdb","1.1.3","1.1.4","app-shells",1703757581,["Compliance mode enabled, was '1.1.4'"]],
 ["tcsh","6.24.12","6.24.13","app-shells",1715027759,["Compliance mode enabled, was '6.24.13'"]],
 ["ksh93","2020.0.0","1.0.10","app-shells",1718960469,["Compliance mode enabled, was '1.0.10'","Possible downgrade from the current version (2020.0.0 -> 1.0.10)"]],
 ["powershell","7.4.3","7.4.5","app-shells",1721107442,["Compliance mode enabled, was '7.4.5'"]],
