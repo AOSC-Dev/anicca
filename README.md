@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726916694?label=Updated)
+![Relative date](https://img.shields.io/date/1726920834?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -44,7 +44,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alligator|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
 |alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
-|amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |an-anime-game-launcher|3.10.3|3.12.1|app-games|Compliance mode enabled, was '3.12.1'|
 |analitza|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |android-platform-tools|35.0.1|35.0.2|app-devices|Compliance mode enabled, was '35.0.2'|
@@ -720,6 +719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |intel-media-driver|24.1.5|24.3.4|runtime-multimedia|Compliance mode enabled, was '24.3.4'|
+|iosevka-fonts|31.6.1|31.7.0|desktop-fonts|Compliance mode enabled, was '31.7.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -734,7 +734,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
 |itinerary|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
-|iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
 |iwd|1.20|2.22|app-network|Compliance mode enabled, was '2.22'|
 |j4-dmenu-desktop|2.17|3.1|app-utils|Compliance mode enabled, was '3.1'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
@@ -1794,7 +1793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compliance mode enabled, was '1.20'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl|Compliance mode enabled, was '20231003.0'|
-|perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
 |perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
@@ -1843,7 +1841,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-template-toolkit|2.27|3.102|lang-perl|Compliance mode enabled, was '3.102'|
 |perl-term-progressbar|2.22|2.23|lang-perl|Compliance mode enabled, was '2.23'|
 |perl-term-readkey|2.37|2.38|lang-perl|Compliance mode enabled, was '2.38'|
-|perl-term-readline-gnu|1.36|1.46|lang-perl|Compliance mode enabled, was '1.46'|
 |perl-test-deep|1.130|1.204|lang-perl|Compliance mode enabled, was '1.204'|
 |perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
@@ -2140,7 +2137,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |rng-tools|6.16|6.17|app-utils|Compliance mode enabled, was '6.17'|
-|robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
 |rocm-bandwidth-test|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
 |rocm-cmake|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
