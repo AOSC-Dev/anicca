@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726906322?label=Updated)
+![Relative date](https://img.shields.io/date/1726909879?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -593,7 +593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
 |google-api-python-client|1.7.11|2.146.0|lang-python|Compliance mode enabled, was '2.146.0'|
-|google-auth|1.6.3|2.34.0|lang-python|Compliance mode enabled, was '2.34.0'|
+|google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15.90|app-devel|Compliance mode enabled, was '2.15.90'|
@@ -874,7 +874,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khtml|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |ki18n|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kiconthemes|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
-|kid3|3.8.3|3.9.5|app-multimedia|Compliance mode enabled, was '3.9.5'|
+|kid3|3.8.3|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kidletime|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kig|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
