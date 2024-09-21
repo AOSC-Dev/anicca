@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726884478?label=Updated)
+![Relative date](https://img.shields.io/date/1726888340?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -272,7 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.21|1.7.22|app-containers|Compliance mode enabled, was '1.7.22'|
 |containers-common|0.59.2|0.60.2|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
-|corefreq|20170301|1.98.3|app-utils|Compliance mode enabled, was '1.98.3'<br>Possible downgrade from the current version (20170301 -> 1.98.3)|
+|corefreq|20170301|1.98.4|app-utils|Compliance mode enabled, was '1.98.4'<br>Possible downgrade from the current version (20170301 -> 1.98.4)|
 |cowsay|3.7.0|3.8.3|app-utils|Compliance mode enabled, was '3.8.3'|
 |cpp-utilities|5.20.0|5.26.1|runtime-common|Compliance mode enabled, was '5.26.1'|
 |cppcheck|2.8|2.15.0|app-devel|Compliance mode enabled, was '2.15.0'|
