@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726975102?label=Updated)
+![Relative date](https://img.shields.io/date/1726978514?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2246,7 +2246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |simplescreenrecorder|0.4.3|0.4.4|app-multimedia|Compliance mode enabled, was '0.4.4'|
-|sing-box|1.9.4|1.9.5|app-network|Compliance mode enabled, was '1.9.5'|
+|sing-box|1.9.4|1.9.6|app-network|Compliance mode enabled, was '1.9.6'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.8.6|lang-python|Compliance mode enabled, was '6.8.6'|
 |skanlite|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2272,6 +2272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |socat|1.8.0.0|1.8.0.1|app-network|Compliance mode enabled, was '1.8.0.1'|
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
+|sof-tools|2.10|2.11|app-multimedia|Compliance mode enabled, was '2.11'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solaar|1.1.11|1.1.13|app-utils|Compliance mode enabled, was '1.1.13'|
 |solid|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
