@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1726996289?label=Updated)
+![Relative date](https://img.shields.io/date/1726999904?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -288,7 +288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20240915.0|app-devel|Compliance mode enabled, was '6.1.20240915.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20240915.0)|
+|ctags|20191203|6.1.20240922.0|app-devel|Compliance mode enabled, was '6.1.20240922.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20240922.0)|
 |cuda|12.5.0|12.6.1|app-devel||
 |cups+32|2.3.3|2.4.10|runtime-optenv32|Compliance mode enabled, was '2.4.10'|
 |cups-browsed|2.0.0|2.0.1|app-admin|Compliance mode enabled, was '2.0.1'|
@@ -1930,7 +1930,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polyphone|2.3.0|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |poppler|22.08.0|24.09.0|runtime-doc|Compliance mode enabled, was '24.09.0'|
 |poppler+32|0.66.0|24.09.0|runtime-optenv32|Compliance mode enabled, was '24.09.0'|
-|poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19<br>+20140130|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
@@ -2517,7 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
 |valgrind|3.22.0|3.23.0|app-devel|Compliance mode enabled, was '3.23.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
-|vapoursynth|57|69|app-multimedia|Compliance mode enabled, was '69'|
+|vapoursynth|57|70.11|app-multimedia|Compliance mode enabled, was '70.11'|
 |variety|0.7.1|0.8.12|app-utils|Compliance mode enabled, was '0.8.12'|
 |varnish|7.5.0|7.6.0|app-network|Compliance mode enabled, was '7.6.0'|
 |vasm|1.9f|1.9.f|app-devel|Compliance mode enabled, was '1.9.f'|
@@ -2531,7 +2530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0707|9.1.0733|app-editors|Compliance mode enabled, was '9.1.0733'|
+|vim|9.1.0707|9.1.0739|app-editors|Compliance mode enabled, was '9.1.0739'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualenv|20.25.0|20.26.5|lang-python|Compliance mode enabled, was '20.26.5'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
