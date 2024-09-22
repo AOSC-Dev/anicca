@@ -333,6 +333,7 @@
 ["sysv-ipc","1.0.1","1.1.0","lang-python",1608537132,["Compliance mode enabled, was '1.1.0'"]],
 ["ipy","0.83","1.01","lang-python",1469779218,["Compliance mode enabled, was '1.01'"]],
 ["scikit-build","0.18.0","0.18.1","lang-python",1719671100,["Compliance mode enabled, was '0.18.1'"]],
+["python-markdown-math","0.6","0.8","lang-python",1572507479,["Compliance mode enabled, was '0.8'"]],
 ["txtorcon","19.1.0","24.8.0","lang-python",1573334578,["Compliance mode enabled, was '24.8.0'"]],
 ["hatchling","1.21.1","1.12.0","lang-python",1708256695,["Compliance mode enabled, was '1.12.0'","Possible downgrade from the current version (1.21.1 -> 1.12.0)"]],
 ["mccabe","0.6.1","0.7.0","lang-python",1530718723,["Compliance mode enabled, was '0.7.0'"]],
