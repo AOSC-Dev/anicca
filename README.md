@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727017553?label=Updated)
+![Relative date](https://img.shields.io/date/1727021445?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -586,6 +586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.146.0|lang-python|Compliance mode enabled, was '2.146.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15.90|app-devel|Compliance mode enabled, was '2.15.90'|
 |gpsd|3.18.1|3.25|app-scientific|Compliance mode enabled, was '3.25'|
@@ -2172,6 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.4|app-admin|Compliance mode enabled, was '3.9.4'|
+|sarasa-gothic-fonts|1.0.20|1.0.21|desktop-fonts|Compliance mode enabled, was '1.0.21'|
 |sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc+32|1.3|2.0|runtime-optenv32|Compliance mode enabled, was '2.0'|
@@ -2431,6 +2433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree-sitter|0.22.6|0.23.0|runtime-editors|Compliance mode enabled, was '0.23.0'|
 |trinity-default-settings|2023.07.1r|2024.09.1|runtime-data|Compliance mode enabled, was '2024.09.1'|
 |trio|0.24.0|0.26.2|lang-python|Compliance mode enabled, was '0.26.2'|
+|trivy|0.55.0|0.55.2|app-devel|Compliance mode enabled, was '0.55.2'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2024.9.12|lang-python|Compliance mode enabled, was '2024.9.12'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
@@ -2561,7 +2564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi|0.4.3|0.4.6|app-multimedia|Compliance mode enabled, was '0.4.6'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|9.16|9.18|app-emulation||
+|wine|9.17|9.18|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wlroots|0.17.4|0.18.1|runtime-display|Compliance mode enabled, was '0.18.1'|
