@@ -2318,7 +2318,6 @@
 ["yaml-cpp","0.6.3","0.8.0","runtime-common",1573372302,["Compliance mode enabled, was '0.8.0'"]],
 ["libcuckoo","0.3","0.3.1","runtime-common",1650696758,["Compliance mode enabled, was '0.3.1'"]],
 ["highway","1.1.0","1.2.0","runtime-common",1717235212,["Compliance mode enabled, was '1.2.0'"]],
-["concurrencykit","0.7.1","0.7.2","runtime-common",1665329558,["Compliance mode enabled, was '0.7.2'"]],
 ["tl-expected","1.0.0","1.1.0","runtime-common",1581486077,["Compliance mode enabled, was '1.1.0'"]],
 ["glib-networking","2.72.2","2.80.0","runtime-common",1663210244,["Compliance mode enabled, was '2.80.0'"]],
 ["libeconf","0.5.0","0.7.3","runtime-common",1674452224,["Compliance mode enabled, was '0.7.3'"]],
