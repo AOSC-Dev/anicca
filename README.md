@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727035911?label=Updated)
+![Relative date](https://img.shields.io/date/1727039286?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -81,7 +81,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.33|app-devel|Compliance mode enabled, was '6.0.33'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.26.1|0.27.1|app-devel|Compliance mode enabled, was '0.27.1'|
+|ast-grep|0.26.1|0.27.3|app-devel|Compliance mode enabled, was '0.27.3'|
 |astroid|2.12.2|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
 |astrometry.net|0.94|0.96|app-scientific|Compliance mode enabled, was '0.96'|
 |astyle|3.5.2|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
@@ -261,6 +261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord-kde|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |composer|2.7.7|2.7.9|app-devel|Compliance mode enabled, was '2.7.9'|
+|concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.12.6|lang-python|Compliance mode enabled, was '3.12.6'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -1669,7 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paprefs|1.1|1.2|app-multimedia|Compliance mode enabled, was '1.2'|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
-|parallel|20191122|20240822|app-utils|Compliance mode enabled, was '20240822'|
+|parallel|20191122|20240922|app-utils|Compliance mode enabled, was '20240922'|
 |paramiko|2.10.3|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |pari|2.13.1|2.15.5|app-scientific|Compliance mode enabled, was '2.15.5'|
 |parley|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
