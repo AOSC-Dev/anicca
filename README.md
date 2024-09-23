@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727115163?label=Updated)
+![Relative date](https://img.shields.io/date/1727118322?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -632,7 +632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gucharmap|15.1.5|16.0.1|desktop-gnome|Compliance mode enabled, was '16.0.1'|
 |gulp|4.0.0|5.0.0|lang-js|Compliance mode enabled, was '5.0.0'|
-|gupnp|1.2.4|1.6.6|desktop-gnome|Compliance mode enabled, was '1.6.6'|
+|gupnp|1.2.4|1.6.7|desktop-gnome|Compliance mode enabled, was '1.6.7'|
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
