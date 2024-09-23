@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727064831?label=Updated)
+![Relative date](https://img.shields.io/date/1727068283?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1023,7 +1023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kxmlrpcclient|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
-|lact|0.5.4|0.5.5|app-admin|Compliance mode enabled, was '0.5.5'|
+|lact|0.5.4|0.5.6|app-admin|Compliance mode enabled, was '0.5.6'|
 |ladish|20200418|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (20200418 -> 1.2)|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
@@ -1502,8 +1502,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20240914|runtime-common|Compliance mode enabled, was '6.5-20240914'|
-|ncurses+32|6.4|6.5+20240914|runtime-optenv32|Compliance mode enabled, was '6.5-20240914'|
+|ncurses|6.4|6.5+20240922|runtime-common|Compliance mode enabled, was '6.5-20240922'|
+|ncurses+32|6.4|6.5+20240922|runtime-optenv32|Compliance mode enabled, was '6.5-20240922'|
 |ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
