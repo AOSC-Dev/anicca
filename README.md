@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727215899?label=Updated)
+![Relative date](https://img.shields.io/date/1727219387?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -154,7 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |boto3|1.20.26|1.35.26|lang-python|Compliance mode enabled, was '1.35.26'|
-|botocore|1.34.133|1.35.25|lang-python|Compliance mode enabled, was '1.35.25'|
+|botocore|1.34.133|1.35.26|lang-python|Compliance mode enabled, was '1.35.26'|
 |bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1862,6 +1862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
+|php|8.3.11|8.3.12|app-devel|Compliance mode enabled, was '8.3.12'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -1927,7 +1928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
-|postgresql|13.16|17|app-database|Compliance mode enabled, was '17'|
+|postgresql|13.16|17.0|app-database|Compliance mode enabled, was '17.0'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
 |powerdevil|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |powershell|7.4.3|7.4.5|app-shells|Compliance mode enabled, was '7.4.5'|
