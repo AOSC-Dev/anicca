@@ -631,6 +631,7 @@
 ["genwan-font","2.000","2.100","desktop-fonts",1722259650,["Compliance mode enabled, was '2.100'"]],
 ["adobe-source-han-sans","2.004","2.004r","desktop-fonts",1619721201,["Compliance mode enabled, was '2.004R'","Possible downgrade from the current version (2.004 -> 2.004r)"]],
 ["wqy-unibit","1.1.0","4.3.0","desktop-fonts",1678950872,["Compliance mode enabled, was '4.3.0'"]],
+["fonttools","4.53.1","4.54.1","desktop-fonts",1722203529,["Compliance mode enabled, was '4.54.1'"]],
 ["ttf-tibetan-machine-unicode","1.901b","1.901","desktop-fonts",1629606314,["Compliance mode enabled, was '1.901'"]],
 ["adobe-source-sans","3.052","3.052r","desktop-fonts",1706083317,["Compliance mode enabled, was '3.052R'","Possible downgrade from the current version (3.052 -> 3.052r)"]],
 ["lxgwneoxihei-font","1.200","1.206","desktop-fonts",1724894694,["Compliance mode enabled, was '1.206'"]],
