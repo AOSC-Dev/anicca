@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727176044?label=Updated)
+![Relative date](https://img.shields.io/date/1727180193?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -228,7 +228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
-|cinnamon-screensaver|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
+|cinnamon-screensaver|5.8.0|6.2.1|desktop-cinnamon|Compliance mode enabled, was '6.2.1'|
 |cinnamon-session|5.8.1|6.2.1|desktop-cinnamon|Compliance mode enabled, was '6.2.1'|
 |cinnamon-settings-daemon|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-translations|5.8.1|6.2.2|desktop-cinnamon|Compliance mode enabled, was '6.2.2'|
@@ -253,7 +253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|324|app-admin|Compliance mode enabled, was '324'|
 |cockpit-machines|284.1|319|app-admin|Compliance mode enabled, was '319'|
 |cockpit-podman|63|94|app-admin|Compliance mode enabled, was '94'|
-|code-server|4.91.1|4.92.2|app-utils|Compliance mode enabled, was '4.92.2'|
+|code-server|4.91.1|4.93.1|app-utils|Compliance mode enabled, was '4.93.1'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
@@ -268,7 +268,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containerd|1.7.21|1.7.22|app-containers|Compliance mode enabled, was '1.7.22'|
-|containers-common|0.59.2|0.60.2|runtime-containers||
+|containers-common|0.59.2|0.60.3|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.4|app-utils|Compliance mode enabled, was '1.98.4'<br>Possible downgrade from the current version (20170301 -> 1.98.4)|
 |cowsay|3.7.0|3.8.3|app-utils|Compliance mode enabled, was '3.8.3'|
