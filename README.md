@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727190639?label=Updated)
+![Relative date](https://img.shields.io/date/1727194312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -640,8 +640,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|9.0.0|runtime-desktop|Compliance mode enabled, was '9.0.0'|
-|harfbuzz+32|2.6.7|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
+|harfbuzz|8.4.0|10.0.0|runtime-desktop|Compliance mode enabled, was '10.0.0'|
+|harfbuzz+32|2.6.7|10.0.0|runtime-optenv32|Compliance mode enabled, was '10.0.0'|
 |haruna|0.12.3|1.2.0|desktop-kde|Compliance mode enabled, was '1.2.0'|
 |harvid|0.8.3|0.9.1|app-multimedia|Compliance mode enabled, was '0.9.1'|
 |hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
