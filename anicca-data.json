@@ -636,7 +636,7 @@
 ["lxgwneoxihei-font","1.200","1.206","desktop-fonts",1724894694,["Compliance mode enabled, was '1.206'"]],
 ["perl-class-singleton","1.5","1.6","lang-perl",1596485702,["Compliance mode enabled, was '1.6'"]],
 ["libwww-perl","6.33","6.77","lang-perl",1530196415,["Compliance mode enabled, was '6.77'"]],
-["perl-mozilla-ca","20180117","20240730","lang-perl",1522294837,["Compliance mode enabled, was '20240730'"]],
+["perl-mozilla-ca","20180117","20240924","lang-perl",1522294837,["Compliance mode enabled, was '20240924'"]],
 ["perl-list-moreutils","0.428","0.430","lang-perl",1530196414,["Compliance mode enabled, was '0.430'"]],
 ["perl-par-packer","1.050","1.063","lang-perl",1678950872,["Compliance mode enabled, was '1.063'"]],
 ["perl-lwp-protocol-https","6.06","6.14","lang-perl",1678950872,["Compliance mode enabled, was '6.14'"]],
