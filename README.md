@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727169145?label=Updated)
+![Relative date](https://img.shields.io/date/1727172766?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -167,6 +167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
+|buildah|1.37.2|1.37.3|app-containers|Compliance mode enabled, was '1.37.3'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.4|app-utils|Compliance mode enabled, was '0.33.4'|
@@ -518,7 +519,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib|2.80.0|2.82.1|runtime-common|Compliance mode enabled, was '2.82.1'|
 |glib+32|2.62.6|2.82.1|runtime-optenv32|Compliance mode enabled, was '2.82.1'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
-|glibc|2.38|2.40|core-libs|Compliance mode enabled, was '2.40'|
 |glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
 |glibmm|2.66.2|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
 |glibmm-2.68|2.78.0|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
@@ -2419,7 +2419,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqdm|4.62.3|4.66.5|lang-python|Compliance mode enabled, was '4.66.5'|
-|tracker|3.7.3|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |tracker-miners|3.3.1|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |traitlets|5.0.5|5.14.3|lang-python|Compliance mode enabled, was '5.14.3'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
