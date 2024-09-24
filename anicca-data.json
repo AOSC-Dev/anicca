@@ -1398,7 +1398,6 @@
 ["osinfo-db-tools","1.10.0","1.11.0","app-admin",1694574450,["Compliance mode enabled, was '1.11.0'"]],
 ["packagekit","1.2.8","1.3.0","app-admin",1706859113,["Compliance mode enabled, was '1.3.0'"]],
 ["rdma-core","51.0","53.0","app-admin",1716563534,["Compliance mode enabled, was '53.0'"]],
-["ostree","2024.6","2024.8","app-admin",1716563583,["Compliance mode enabled, was '2024.8'"]],
 ["cloud-init","24.2","24.3.1","app-admin",1721964217,["Compliance mode enabled, was '24.3.1'"]],
 ["crun","1.16.1","1.17","app-admin",1724916616,["Compliance mode enabled, was '1.17'"]],
 ["targetcli-fb","2.1.54","2.1.58","app-admin",1641887332,["Compliance mode enabled, was '2.1.58'"]],
