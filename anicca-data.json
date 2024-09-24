@@ -423,7 +423,7 @@
 ["ipython","7.28.0","8.27.0","lang-python",1637636760,["Compliance mode enabled, was '8.27.0'"]],
 ["flask-login","0.4.1","0.6.3","lang-python",1530718721,["Compliance mode enabled, was '0.6.3'"]],
 ["ptyprocess","0.6.0","0.7.0","lang-python",1530553512,["Compliance mode enabled, was '0.7.0'"]],
-["pylint","2.14.4","3.3.0","lang-python",1658217673,["Compliance mode enabled, was '3.3.0'"]],
+["pylint","2.14.4","3.3.1","lang-python",1658217673,["Compliance mode enabled, was '3.3.1'"]],
 ["entrypoints","0.3","0.4","lang-python",1551161308,["Compliance mode enabled, was '0.4'"]],
 ["cheetah3","3.2.5","3.2.6.post2","lang-python",1600671245,["Compliance mode enabled, was '3.2.6.post2'"]],
 ["patch-ng","1.17.4","1.18.0","lang-python",1631079144,["Compliance mode enabled, was '1.18.0'"]],
