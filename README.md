@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727208779?label=Updated)
+![Relative date](https://img.shields.io/date/1727212021?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -153,7 +153,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.25|lang-python|Compliance mode enabled, was '1.35.25'|
+|boto3|1.20.26|1.35.26|lang-python|Compliance mode enabled, was '1.35.26'|
 |botocore|1.34.133|1.35.25|lang-python|Compliance mode enabled, was '1.35.25'|
 |bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
@@ -594,7 +594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15.90|app-devel|Compliance mode enabled, was '2.15.90'|
-|gradle|8.10.0|8.10.1|lang-java|Compliance mode enabled, was '8.10.1'|
+|gradle|8.10.0|8.10.2|lang-java|Compliance mode enabled, was '8.10.2'|
 |granatier|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |grantlee-editor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |grantleetheme|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -642,8 +642,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|10.0.0|runtime-desktop|Compliance mode enabled, was '10.0.0'|
-|harfbuzz+32|2.6.7|10.0.0|runtime-optenv32|Compliance mode enabled, was '10.0.0'|
+|harfbuzz|8.4.0|10.0.1|runtime-desktop|Compliance mode enabled, was '10.0.1'|
+|harfbuzz+32|2.6.7|10.0.1|runtime-optenv32|Compliance mode enabled, was '10.0.1'|
 |haruna|0.12.3|1.2.0|desktop-kde|Compliance mode enabled, was '1.2.0'|
 |harvid|0.8.3|0.9.1|app-multimedia|Compliance mode enabled, was '0.9.1'|
 |hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
@@ -2659,7 +2659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.152.3|0.153.6|app-editors|Compliance mode enabled, was '0.153.6'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
-|zeroconf|0.28.6|0.134.0|lang-python|Compliance mode enabled, was '0.134.0'|
+|zeroconf|0.28.6|0.135.0|lang-python|Compliance mode enabled, was '0.135.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
