@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727255472?label=Updated)
+![Relative date](https://img.shields.io/date/1727259111?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1689,7 +1689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patch-ng|1.17.4|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
-|patool|1.12|upstream/2.3.0|app-utils|Compliance mode enabled, was 'upstream/2.3.0'<br>Possible downgrade from the current version (1.12 -> upstream/2.3.0)|
+|patool|1.12|3.0.0|app-utils|Compliance mode enabled, was '3.0.0'|
 |pbr|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pciutils|3.9.0|3.13.0|app-utils|Compliance mode enabled, was '3.13.0'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
@@ -1700,7 +1700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.1.165|app-games|Compliance mode enabled, was '2.1.165'|
+|pcsx2|1.6.0<br>+git20210825|2.1.168|app-games|Compliance mode enabled, was '2.1.168'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|9.9.0|9.9.1|app-utils|Compliance mode enabled, was '9.9.1'|
