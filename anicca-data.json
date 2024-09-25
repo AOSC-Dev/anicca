@@ -2368,7 +2368,6 @@
 ["capnproto","0.10.2","1.0.2","runtime-common",1660503158,["Compliance mode enabled, was '1.0.2'"]],
 ["volk","2.5.0","3.1.2","runtime-common",1637636760,["Compliance mode enabled, was '3.1.2'"]],
 ["libsigc++-3.0","3.4.0","3.6.0","runtime-common",1673673157,["Compliance mode enabled, was '3.6.0'"]],
-["libcork","1.0.0~rc3","0.15.0","runtime-common",1673495966,["Compliance mode enabled, was '0.15.0'","Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)"]],
 ["xmlrpc-c","1.54.06","1.59.03","runtime-common",1678522481,["Compliance mode enabled, was '1.59.03'"]],
 ["popt","1.18","1.19","runtime-common",1600846258,["Compliance mode enabled, was '1.19'"]],
 ["libassuan","2.5.3","3.0.1","runtime-common",1565150266,["Compliance mode enabled, was '3.0.1'"]],
