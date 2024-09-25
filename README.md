@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727262589?label=Updated)
+![Relative date](https://img.shields.io/date/1727266648?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1916,6 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.63|0.73|app-i18n|Compliance mode enabled, was '0.73'|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.2.2|5.2.3|app-containers||
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.1-oss|app-i18n|Compliance mode enabled, was '3.5.1-oss'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -1940,6 +1941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powershell|7.4.3|7.4.5|app-shells|Compliance mode enabled, was '7.4.5'|
 |poxml|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ppp|2.4.9|2.5.1|app-network|Compliance mode enabled, was '2.5.1'|
+|praat|6.4.20|6.4.21|app-scientific|Compliance mode enabled, was '6.4.21'|
 |precis-i18n|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.8.0|app-productivity|Compliance mode enabled, was '0.8.0'|
@@ -1949,7 +1951,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.0|app-gis|Compliance mode enabled, was '9.5.0'|
 |projectm|4.0.0|4.1.2|runtime-multimedia|Compliance mode enabled, was '4.1.2'|
-|prompt-toolkit|2.0.8|3.0.47|lang-python|Compliance mode enabled, was '3.0.47'|
+|prompt-toolkit|2.0.8|3.0.48|lang-python|Compliance mode enabled, was '3.0.48'|
 |protobuf|25.2|28.2|runtime-common|Compliance mode enabled, was '28.2'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
