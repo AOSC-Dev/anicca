@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727284183?label=Updated)
+![Relative date](https://img.shields.io/date/1727287963?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2225,11 +2225,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
-|shaderc|2023.7|2024.2|app-devel|Compliance mode enabled, was '2024.2'|
+|shaderc|2023.7|2024.3|app-devel|Compliance mode enabled, was '2024.3'|
 |shadow|4.15.1|4.16.0|app-admin|Compliance mode enabled, was '4.16.0'|
 |shadowsocks-rust|1.20.1|1.21.0|app-network|Compliance mode enabled, was '1.21.0'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
-|shotcut|21.08.11|24.09.13|app-creativity|Compliance mode enabled, was '24.09.13'|
+|shotcut|21.08.11|24.09.19|app-creativity|Compliance mode enabled, was '24.09.19'|
 |shotwell|0.31.4|0.32.9|desktop-gnome|Compliance mode enabled, was '0.32.9'|
 |showmethekey|1.12.0|1.14.0|app-utils|Compliance mode enabled, was '1.14.0'|
 |siege|4.0.7|4.1.6|app-network|Compliance mode enabled, was '4.1.6'|
