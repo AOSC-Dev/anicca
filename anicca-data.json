@@ -798,7 +798,6 @@
 ["libfprint","1.94.4","1.94.8","runtime-devices",1663359144,["Compliance mode enabled, was '1.94.8'"]],
 ["android-udev","20240625","20240829","runtime-devices",1719363906,["Compliance mode enabled, was '20240829'"]],
 ["ccid","1.5.1","1.6.1","runtime-devices",1673935786,["Compliance mode enabled, was '1.6.1'"]],
-["libcamera","0.3.1","0.3.2","runtime-devices",1721956618,["Compliance mode enabled, was '0.3.2'"]],
 ["libnvme","1.9","1.10","runtime-devices",1716563643,["Compliance mode enabled, was '1.10'"]],
 ["libcdio-paranoia","10.2+2.0.1","2.0.2","runtime-devices",1639821978,["Compliance mode enabled, was '2.0.2'","Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)"]],
 ["tslib","1.21","1.23","runtime-devices",1579636402,["Compliance mode enabled, was '1.23'"]],
