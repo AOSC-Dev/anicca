@@ -1708,7 +1708,6 @@
 ["gnustep-base","1.28.0","1.30.0","runtime-gnustep",1721223235,["Compliance mode enabled, was '1_30_0'"]],
 ["sqlmap","1.8.8","1.8.9","app-penetration",1723092772,["Compliance mode enabled, was '1.8.9'"]],
 ["john","1.8.0","1.9.0","app-penetration",1678950872,["Compliance mode enabled, was '1.9.0'"]],
-["git","2.46.1","2.46.2","app-vcs",1726730315,["Compliance mode enabled, was '2.46.2'"]],
 ["lazygit","0.44.0","0.44.1","app-vcs",1727015619,["Compliance mode enabled, was '0.44.1'"]],
 ["mercurial","6.7.3","6.8.1","app-vcs",1716564531,["Compliance mode enabled, was '6.8.1'"]],
 ["git-cliff","2.4.0","2.6.0","app-vcs",1721525702,["Compliance mode enabled, was '2.6.0'"]],
