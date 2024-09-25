@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727224838?label=Updated)
+![Relative date](https://img.shields.io/date/1727230557?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -124,6 +124,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |balz|1.20|.55|app-utils|Compliance mode enabled, was '.55'|
 |baobab|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |bash|5.2.26|5.2.37|app-shells|Compliance mode enabled, was '5.2.37'|
+|bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
 |bcachefs-tools|1.9.4|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
 |bcc|0.30.0|0.31.0|app-devel|Compliance mode enabled, was '0.31.0'|
 |bcftools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
@@ -1046,7 +1047,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libadwaita|1.5.0|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
 |libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
-|libarchive|3.7.4|3.7.5|runtime-common|Compliance mode enabled, was '3.7.5'|
+|libarchive|3.7.4|3.7.6|runtime-common|Compliance mode enabled, was '3.7.6'|
 |libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
 |libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
 |libassuan|2.5.3|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
@@ -1058,6 +1059,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbpf|1.2.0|1.4.6|runtime-kernel|Compliance mode enabled, was '1.4.6'|
 |libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
+|libcamera|0.3.1|0.3.2|runtime-devices|Compliance mode enabled, was '0.3.2'|
 |libcap|2.69|2.70|runtime-common|Compliance mode enabled, was '2.70'|
 |libcap+32|2.31|2.70|runtime-optenv32|Compliance mode enabled, was '2.70'|
 |libcap-ng|0.7.11|0.8.5|runtime-common|Compliance mode enabled, was '0.8.5'|
@@ -2272,6 +2274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
 |soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.4|app-web|Compliance mode enabled, was '1.0.4'|
+|spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdx-licenses|3.24.0|3.25.0|runtime-data|Compliance mode enabled, was '3.25.0'|
