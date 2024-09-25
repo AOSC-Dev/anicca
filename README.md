@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727230557?label=Updated)
+![Relative date](https://img.shields.io/date/1727234331?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1226,8 +1226,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
 |libqtxdg|3.6.0|4.0.0|runtime-desktop|Compliance mode enabled, was '4.0.0'|
+|libratbag|0.17|0.18|runtime-devices|Compliance mode enabled, was '0.18'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
-|libreoffice|24.2.3.2|24.8.1.2|groups|Compliance mode enabled, was '24.8.1.2'|
+|libreoffice|24.2.3.2|24.8.2.1|groups|Compliance mode enabled, was '24.8.2.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librsvg|2.56.1|2.59.0|runtime-imaging|Compliance mode enabled, was '2.59.0'|
 |librsvg+32|2.40.21|2.59.0|runtime-optenv32|Compliance mode enabled, was '2.59.0'|
