@@ -595,6 +595,7 @@
 ["pstoedit","3.75","4.01","app-doc",1620461777,["Compliance mode enabled, was '4.01'"]],
 ["xreader","3.8.5","4.2.2","app-doc",1709171860,["Compliance mode enabled, was '4.2.2'"]],
 ["sphinx-press-theme","0.8.0","0.9.1","app-doc",1682100878,["Compliance mode enabled, was '0.9.1'"]],
+["lowdown","1.1.0","1.1.1","app-doc",1714467244,["Compliance mode enabled, was '1_1_1'"]],
 ["qpdf","11.9.0","11.9.1","app-doc",1712074122,["Compliance mode enabled, was '11.9.1'"]],
 ["pdfgrep","2.1.2","2.2.0","app-doc",1549004376,["Compliance mode enabled, was '2.2.0'"]],
 ["texstudio","4.0.2","4.8.3","app-doc",1636116326,["Compliance mode enabled, was '4.8.3'"]],
