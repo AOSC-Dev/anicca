@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727291171?label=Updated)
+![Relative date](https://img.shields.io/date/1727295190?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -154,8 +154,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.26|lang-python|Compliance mode enabled, was '1.35.26'|
-|botocore|1.34.133|1.35.26|lang-python|Compliance mode enabled, was '1.35.26'|
+|boto3|1.20.26|1.35.27|lang-python|Compliance mode enabled, was '1.35.27'|
+|botocore|1.34.133|1.35.27|lang-python|Compliance mode enabled, was '1.35.27'|
 |bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -345,7 +345,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-sdk-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
-|dotnet-sdk-8.0|8.0.401|8.0.402|app-devel|Compliance mode enabled, was '8.0.402'|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-templates-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
@@ -1966,7 +1965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|runtime-optenv32|Compliance mode enabled, was '17.0'|
 |pulseaudio-qt|1.3|1.6.0|runtime-desktop|Compliance mode enabled, was '1.6.0'|
 |pulsectl|20.5.1|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
-|puremagic|1.15|1.27|lang-python|Compliance mode enabled, was '1.27'|
+|puremagic|1.15|1.28|lang-python|Compliance mode enabled, was '1.28'|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compliance mode enabled, was '0.1.0'|
 |purpose|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |pv|1.6.20|1.8.14|app-utils|Compliance mode enabled, was '1.8.14'|
@@ -1989,7 +1988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.9.2|lang-python|Compliance mode enabled, was '2.9.2'|
 |pydantic-core|2.16.1|2.24.0|lang-python|Compliance mode enabled, was '2.24.0'|
-|pydot|1.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
+|pydot|1.4.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
