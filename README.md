@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727241034?label=Updated)
+![Relative date](https://img.shields.io/date/1727244919?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -591,7 +591,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.146.0|lang-python|Compliance mode enabled, was '2.146.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|129.0.6668.58|129.0.6668.70|app-web|Compliance mode enabled, was '129.0.6668.70'|
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |gperftools|2.13|2.15.90|app-devel|Compliance mode enabled, was '2.15.90'|
@@ -711,6 +710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |incremental|17.5.0|24.7.2|lang-python|Compliance mode enabled, was '24.7.2'|
+|inetutils|2.4|2.5|app-utils|Compliance mode enabled, was '2.5'|
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
@@ -1469,6 +1469,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
 |modemmanager-qt|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |mokutil|0.6.0|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
+|mold|2.33.0|2.34.0|app-devel|Compliance mode enabled, was '2.34.0'|
 |monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
 |more-itertools|4.3.0|10.5.0|lang-python|Compliance mode enabled, was '10.5.0'|
 |mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
@@ -1478,6 +1479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpg123+32|1.25.13|1.32.7|runtime-optenv32|Compliance mode enabled, was '1.32.7'|
 |mplayer|1.4|1.5|app-multimedia|Compliance mode enabled, was '1.5'|
 |mpmath|1.1.0|1.4.0~a1|lang-python|Compliance mode enabled, was '1.4.0a1'|
+|mpv|0.38.0|0.39.0|app-multimedia|Compliance mode enabled, was '0.39.0'|
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
@@ -1592,7 +1594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.17|desktop-kde|Compliance mode enabled, was '0.26.17'|
 |okular|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.10.1|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.10.2|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7635-240923-b690cb6|app-games|Compliance mode enabled, was '1.91.0.7635-240923-b690cb6'|
