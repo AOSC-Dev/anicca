@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727287963?label=Updated)
+![Relative date](https://img.shields.io/date/1727291171?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -345,6 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-sdk-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
+|dotnet-sdk-8.0|8.0.401|8.0.402|app-devel|Compliance mode enabled, was '8.0.402'|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.33|lang-dotnet|Compliance mode enabled, was '6.0.33'|
 |dotnet-templates-6.0|6.0.422|6.0.425|app-devel|Compliance mode enabled, was '6.0.425'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
@@ -2266,7 +2267,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |socat|1.8.0.0|1.8.0.1|app-network|Compliance mode enabled, was '1.8.0.1'|
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
-|sof-tools|2.10|2.11|app-multimedia|Compliance mode enabled, was '2.11'|
+|sof-tools|2.10|2.11.1|app-multimedia|Compliance mode enabled, was '2.11.1'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solaar|1.1.11|1.1.13|app-utils|Compliance mode enabled, was '1.1.13'|
 |solid|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
