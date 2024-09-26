@@ -678,7 +678,7 @@
 ["perl-role-tiny","2.001004","2.002004","lang-perl",1596485705,["Compliance mode enabled, was '2.002004'"]],
 ["perl-alien-libxml2","0.11","0.19","lang-perl",1573869560,["Compliance mode enabled, was '0.19'"]],
 ["perl-cairo","1.106","1.109","lang-perl",1457374744,["Compliance mode enabled, was '1.109'"]],
-["perl-image-exiftool","12.50","12.96","lang-perl",1671941047,["Compliance mode enabled, was '12.96'"]],
+["perl-image-exiftool","12.50","12.97","lang-perl",1671941047,["Compliance mode enabled, was '12.97'"]],
 ["perl-file-next","1.16","1.18","lang-perl",1488649548,["Compliance mode enabled, was '1.18'"]],
 ["perl-file-mimeinfo","0.28+03","0.35","lang-perl",1530196414,["Compliance mode enabled, was '0.35'"]],
 ["perl-gnome2-wnck","0.16","0.18","lang-perl",1486229170,["Compliance mode enabled, was '0.18'"]],
