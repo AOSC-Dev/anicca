@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727374333?label=Updated)
+![Relative date](https://img.shields.io/date/1727377629?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -674,7 +674,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |humanize|0.5.1|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwdata|0.384|0.387|runtime-data|Compliance mode enabled, was '0.387'|
-|hwloc|2.10.0|2.11.1|app-admin|Compliance mode enabled, was '2.11.1'|
+|hwloc|2.10.0|2.11.2|app-admin|Compliance mode enabled, was '2.11.2'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
@@ -2416,8 +2416,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycss2|1.0.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |tinyproxy|1.11.1|1.11.2|app-network|Compliance mode enabled, was '1.11.2'|
 |tio|3.6|3.7|app-utils|Compliance mode enabled, was '3.7'|
-|tk|8.6.10|8.6.15|lang-tcl|Compliance mode enabled, was '8.6.15'|
-|tk+32|8.6.10|8.6.15|runtime-optenv32|Compliance mode enabled, was '8.6.15'|
+|tk|8.6.10|9.0.0|lang-tcl|Compliance mode enabled, was '9.0.0'|
+|tk+32|8.6.10|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
 |tl-expected|1.0.0|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |tofrodos|1.7.13|1.8.3|app-utils|Compliance mode enabled, was '1.8.3'|
 |tokodon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
