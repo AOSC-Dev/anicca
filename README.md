@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727370739?label=Updated)
+![Relative date](https://img.shields.io/date/1727374333?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -58,6 +58,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apicula|0.9.1|0.14|app-electronics|Compliance mode enabled, was '0.14'|
 |apparmor|3.0.8|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
+|appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.46.1.0|lang-python|Compliance mode enabled, was '3.46.1.0'|
@@ -586,12 +587,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.146.0|lang-python|Compliance mode enabled, was '2.146.0'|
+|google-api-python-client|1.7.11|2.147.0|lang-python|Compliance mode enabled, was '2.147.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gpac|2.2.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
-|gperftools|2.13|2.15.90|app-devel|Compliance mode enabled, was '2.15.90'|
+|gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gradle|8.10.1|8.10.2|lang-java|Compliance mode enabled, was '8.10.2'|
 |granatier|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |grantlee-editor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -1560,8 +1561,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4.10.1.rel|app-network|Compliance mode enabled, was '4_10_1_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr+32|4.24|4.35|runtime-optenv32|Compliance mode enabled, was '4.35'|
-|nss|3.103|3.104|runtime-cryptography|Compliance mode enabled, was '3.104'|
-|nss+32|3.78|3.104|runtime-optenv32|Compliance mode enabled, was '3.104'|
+|nss|3.103|3.105|runtime-cryptography|Compliance mode enabled, was '3.105'|
+|nss+32|3.78|3.105|runtime-optenv32|Compliance mode enabled, was '3.105'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
