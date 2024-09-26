@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727338412?label=Updated)
+![Relative date](https://img.shields.io/date/1727341885?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -250,9 +250,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|324|app-admin|Compliance mode enabled, was '324'|
-|cockpit-machines|284.1|319|app-admin|Compliance mode enabled, was '319'|
-|cockpit-podman|63|94|app-admin|Compliance mode enabled, was '94'|
+|cockpit|286.1|325|app-admin|Compliance mode enabled, was '325'|
+|cockpit-machines|284.1|320|app-admin|Compliance mode enabled, was '320'|
+|cockpit-podman|63|95|app-admin|Compliance mode enabled, was '95'|
 |code-server|4.91.1|4.93.1|app-utils|Compliance mode enabled, was '4.93.1'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
