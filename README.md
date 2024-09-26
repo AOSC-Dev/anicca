@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727377629?label=Updated)
+![Relative date](https://img.shields.io/date/1727381494?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2374,8 +2374,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tbb|2021.11.0|2021.13.0|runtime-common|Compliance mode enabled, was '2021.13.0'|
 |tbb+32|4.4u4|2021.13.0|runtime-optenv32|Compliance mode enabled, was '2021.13.0'|
-|tcl|8.6.14|8.6.15|lang-tcl|Compliance mode enabled, was '8.6.15'|
-|tcl+32|8.6.10|8.6.15|runtime-optenv32|Compliance mode enabled, was '8.6.15'|
+|tcl|8.6.14|9.0.0|lang-tcl|Compliance mode enabled, was '9.0.0'|
+|tcl+32|8.6.10|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
 |tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
