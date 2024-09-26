@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727356831?label=Updated)
+![Relative date](https://img.shields.io/date/1727359728?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -464,8 +464,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.22|runtime-database|Compliance mode enabled, was '1.4.22'|
 |freetype|2.13.2|2.13.3|runtime-desktop|Compliance mode enabled, was '2.13.3'|
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
-|fribidi|1.0.14|1.0.15|app-scientific|Compliance mode enabled, was '1.0.15'|
-|fribidi+32|1.0.10|1.0.15|runtime-optenv32|Compliance mode enabled, was '1.0.15'|
+|fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
+|fribidi+32|1.0.10|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-overlayfs|1.13|1.14|app-admin|Compliance mode enabled, was '1.14'|
 |fuse-python|0.3.1|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
@@ -2122,7 +2122,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reportlab|3.5.50|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
-|rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
 |rexml|3.2.5|3.3.7|lang-ruby|Compliance mode enabled, was '3.3.7'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -2230,7 +2229,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |siege|4.0.7|4.1.6|app-network|Compliance mode enabled, was '4.1.6'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compliance mode enabled, was '0.15'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |simgear|2020.3.13|2020.3.19|runtime-games|Compliance mode enabled, was '2020.3.19'|
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
