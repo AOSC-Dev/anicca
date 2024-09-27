@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727392242?label=Updated)
+![Relative date](https://img.shields.io/date/1727397635?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -98,6 +98,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |attrs|23.2.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
+|audacious|4.4|4.4.1|app-multimedia|Compliance mode enabled, was '4.4.1'|
 |audacity|3.6.2|3.6.4|app-creativity|Compliance mode enabled, was '3.6.4'|
 |audiocd-kio|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
@@ -538,7 +539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-backgrounds|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-bluetooth|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-boxes|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-builder|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-builder|42.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-calculator|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-calendar|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-characters|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -1207,7 +1208,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
-|libphonenumber|8.13.38|8.13.45|runtime-i18n|Compliance mode enabled, was '8.13.45'|
+|libphonenumber|8.13.38|8.13.46|runtime-i18n|Compliance mode enabled, was '8.13.46'|
 |libpinyin|2.6.0|2.9.91|runtime-i18n|Compliance mode enabled, was '2.9.91'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
@@ -1329,7 +1330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt+32|1.1.34|1.1.42|runtime-optenv32|Compliance mode enabled, was '1.1.42'|
 |libzen|0.4.38|0.4.41|runtime-common|Compliance mode enabled, was '0.4.41'|
 |libzip|1.5.2|1.11.1|runtime-common|Compliance mode enabled, was '1.11.1'|
-|liferea|1.13.8|1.15.7|app-web|Compliance mode enabled, was '1.15.7'|
+|liferea|1.13.8|1.15.8|app-web|Compliance mode enabled, was '1.15.8'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightdm-settings|2.0.4|2.0.5|desktop-displaymanagers|Compliance mode enabled, was '2.0.5'|
@@ -1670,7 +1671,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
 |pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
 |pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
-|pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |pangomm-2.48|2.50.1|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paprefs|1.1|1.2|app-multimedia|Compliance mode enabled, was '1.2'|
