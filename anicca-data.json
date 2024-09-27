@@ -1767,7 +1767,6 @@
 ["unace","2.5","2.5.orig","app-utils",1469374509,["Compliance mode enabled, was '2.5.orig'","Possible downgrade from the current version (2.5 -> 2.5.orig)"]],
 ["tofrodos","1.7.13","1.8.3","app-utils",1510033857,["Compliance mode enabled, was '1.8.3'"]],
 ["cmix","20","21","app-utils",1710985220,["Compliance mode enabled, was '21'"]],
-["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
 ["busybox","1.36.1","1.37.0","app-utils",1709990449,["Compliance mode enabled, was '1.37.0'"]],
 ["kbd","2.5.1","2.6.4","app-utils",1674452224,["Compliance mode enabled, was '2.6.4'"]],
 ["rt-tests","2.6","2.7","app-utils",1710985572,["Compliance mode enabled, was '2.7'"]],
