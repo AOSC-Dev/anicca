@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727464077?label=Updated)
+![Relative date](https://img.shields.io/date/1727467878?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2528,7 +2528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0707|9.1.0741|app-editors|Compliance mode enabled, was '9.1.0741'|
+|vim|9.1.0707|9.1.0744|app-editors|Compliance mode enabled, was '9.1.0744'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualbox|7.1.0|7.1.2|app-virtualization|Compliance mode enabled, was '7.1.2'|
 |virtualenv|20.25.0|20.26.6|lang-python|Compliance mode enabled, was '20.26.6'|
@@ -2545,15 +2545,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.0|runtime-desktop|Compliance mode enabled, was '0.78.0'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
-|vulkan-extensionlayer|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
-|vulkan-headers|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
-|vulkan-headers+32|1.3.283.0|1.3.295|runtime-optenv32|Compliance mode enabled, was '1.3.295'|
-|vulkan-loader|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
-|vulkan-loader+32|1.3.283.0|1.3.295|runtime-optenv32|Compliance mode enabled, was '1.3.295'|
-|vulkan-tools|1.3.283.0|1.3.292|app-utils|Compliance mode enabled, was '1.3.292'|
-|vulkan-tools+32|1.3.283.0|1.3.292|runtime-optenv32|Compliance mode enabled, was '1.3.292'|
-|vulkan-utility-libraries|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
-|vulkan-validationlayers|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
+|vulkan-extensionlayer|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-headers|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-headers+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
+|vulkan-loader|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-loader+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
+|vulkan-tools|1.3.283.0|1.3.296|app-utils|Compliance mode enabled, was '1.3.296'|
+|vulkan-tools+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
+|vulkan-utility-libraries|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-validationlayers|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
