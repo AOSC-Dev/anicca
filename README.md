@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727446259?label=Updated)
+![Relative date](https://img.shields.io/date/1727449917?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -644,7 +644,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.0.1|runtime-desktop|Compliance mode enabled, was '10.0.1'|
 |harfbuzz+32|2.6.7|10.0.1|runtime-optenv32|Compliance mode enabled, was '10.0.1'|
-|haruna|0.12.3|1.2.0|desktop-kde|Compliance mode enabled, was '1.2.0'|
+|haruna|0.12.3|1.2.1|desktop-kde|Compliance mode enabled, was '1.2.1'|
 |harvid|0.8.3|0.9.1|app-multimedia|Compliance mode enabled, was '0.9.1'|
 |hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
@@ -2530,6 +2530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vim|9.1.0707|9.1.0741|app-editors|Compliance mode enabled, was '9.1.0741'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
+|virtualbox|7.1.0|7.1.2|app-virtualization|Compliance mode enabled, was '7.1.2'|
 |virtualenv|20.25.0|20.26.5|lang-python|Compliance mode enabled, was '20.26.5'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
 |vkd3d|1.9|1.13|runtime-display|Compliance mode enabled, was '1.13'|
