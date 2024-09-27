@@ -2118,7 +2118,7 @@
 ["gtksourceview-4","4.8.3","4.8.4","runtime-editors",1663210241,["Compliance mode enabled, was '4.8.4'"]],
 ["editorconfig-core-c","0.12.6","0.12.9","runtime-editors",1711896030,["Compliance mode enabled, was '0.12.9'"]],
 ["cairosvg","2.5.2","2.7.1","app-imaging",1658966837,["Compliance mode enabled, was '2.7.1'"]],
-["argyllcms","3.1.0","3.2.0","app-imaging",1709171878,["Compliance mode enabled, was '3.2.0'"]],
+["argyllcms","3.1.0","3.3.0","app-imaging",1709171878,["Compliance mode enabled, was '3.3.0'"]],
 ["embree","4.3.1","4.3.3","app-imaging",1711170353,["Compliance mode enabled, was '4.3.3'"]],
 ["glslang","13.1.1","15.0.0","app-imaging",1699859032,["Compliance mode enabled, was '15.0.0'"]],
 ["libuhd","4.5.0.0","4.7.0.0","runtime-ham",1700797896,["Compliance mode enabled, was '4.7.0.0'"]],
