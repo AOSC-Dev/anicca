@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727421028?label=Updated)
+![Relative date](https://img.shields.io/date/1727424854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -460,6 +460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeciv|2.6.5|3.1.2|app-games|Compliance mode enabled, was '3.1.2'|
+|freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|2.11.2|3.8.0|app-network|Compliance mode enabled, was '3.8.0'|
 |freetds|1.00.112|1.4.22|runtime-database|Compliance mode enabled, was '1.4.22'|
@@ -1699,7 +1700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.1.168|app-games|Compliance mode enabled, was '2.1.168'|
+|pcsx2|1.6.0<br>+git20210825|2.1.173|app-games|Compliance mode enabled, was '2.1.173'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|9.9.0|9.9.1|app-utils|Compliance mode enabled, was '9.9.1'|
@@ -1869,6 +1870,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
+|picom|11.2|12|desktop-wm|Compliance mode enabled, was '12'|
 |pikepdf|8.15.1|9.2.1|app-doc|Compliance mode enabled, was '9.2.1'|
 |pim-data-exporter|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |pim-sieve-editor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
