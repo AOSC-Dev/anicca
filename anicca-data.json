@@ -1392,6 +1392,7 @@
 ["lxc","6.0.1","6.0.2","app-admin",1723477262,["Compliance mode enabled, was '6.0.2'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
 ["ndctl","72","79","app-admin",1641887332,["Compliance mode enabled, was '79'"]],
+["mtools","4.0.44","4.0.45","app-admin",1717412127,["Compliance mode enabled, was '4.0.45'"]],
 ["xfsprogs","6.9.0","6.10.1","app-admin",1722223662,["Compliance mode enabled, was '6.10.1'"]],
 ["b43-firmware-installer","20160210","019","app-admin",1678950872,["Compliance mode enabled, was '019'","Possible downgrade from the current version (20160210 -> 019)"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
