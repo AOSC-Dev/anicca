@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727483912?label=Updated)
+![Relative date](https://img.shields.io/date/1727489529?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -132,6 +132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|4.1.3|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
+|bear|3.1.4|3.1.5|app-devel|Compliance mode enabled, was '3.1.5'|
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
@@ -1227,8 +1228,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
 |libreoffice|24.2.3.2|24.8.2.1|groups|Compliance mode enabled, was '24.8.2.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
-|librsvg|2.56.1|2.59.0|runtime-imaging|Compliance mode enabled, was '2.59.0'|
-|librsvg+32|2.40.21|2.59.0|runtime-optenv32|Compliance mode enabled, was '2.59.0'|
+|librsvg|2.56.1|2.59.1|runtime-imaging|Compliance mode enabled, was '2.59.1'|
+|librsvg+32|2.40.21|2.59.1|runtime-optenv32|Compliance mode enabled, was '2.59.1'|
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
@@ -2141,14 +2142,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rng-tools|6.16|6.17|app-utils|Compliance mode enabled, was '6.17'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
-|rocm-bandwidth-test|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
-|rocm-cmake|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
-|rocm-llvm|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
-|rocm-smi-lib|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
-|rocminfo|6.0.2|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
+|rocm-bandwidth-test|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocm-cmake|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocm-llvm|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocm-smi-lib|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocminfo|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocr-runtime|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocs|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|roct-thunk-interface|6.0.0|6.2.1|runtime-rocm|Compliance mode enabled, was '6.2.1'|
+|roct-thunk-interface|6.0.0|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |roxterm|3.15.0|3.15.2|app-utils|Compliance mode enabled, was '3.15.2'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
