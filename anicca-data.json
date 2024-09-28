@@ -2185,6 +2185,7 @@
 ["aspnetcore-targeting-pack-6.0","6.0.30","6.0.33","app-devel",1716597653,["Compliance mode enabled, was '6.0.33'"]],
 ["gnu-efi","3.0.14","3.0.18","app-devel",1645432747,["Compliance mode enabled, was '3.0.18'"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
+["ghidra","11.1.2_build","11.2_build","app-devel",1722743677,[]],
 ["swig","4.1.1","4.2.1","app-devel",1696572712,["Compliance mode enabled, was '4.2.1'"]],
 ["shaderc","2023.7","2024.3","app-devel",1700548607,["Compliance mode enabled, was '2024.3'"]],
 ["trivy","0.55.0","0.55.2","app-devel",1727017621,["Compliance mode enabled, was '0.55.2'"]],
