@@ -1838,7 +1838,7 @@
 ["polybar","3.7.1","3.7.2","app-utils",1715740360,["Compliance mode enabled, was '3.7.2'"]],
 ["tmux","3.4","3.5","app-utils",1724545956,["Compliance mode enabled, was '3.5'"]],
 ["imagemagick+7","7.1.1+32","7.1.1+38","app-utils",1716621038,["Compliance mode enabled, was '7.1.1-38'"]],
-["kitty","0.36.2","0.36.3","app-utils",1725930277,["Compliance mode enabled, was '0.36.3'"]],
+["kitty","0.36.2","0.36.4","app-utils",1725930277,["Compliance mode enabled, was '0.36.4'"]],
 ["xfe","1.46.1","1.46.2","app-utils",1712719195,["Compliance mode enabled, was '1.46.2'"]],
 ["mlterm","3.8.9","3.9.3","app-utils",1575786860,["Compliance mode enabled, was '3.9.3'"]],
 ["lsd","1.1.2","1.1.5","app-utils",1717401938,["Compliance mode enabled, was '1.1.5'"]],
