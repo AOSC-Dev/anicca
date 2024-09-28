@@ -2633,7 +2633,7 @@
 ["ibus-chewing","1.6.1","2.1.1","app-i18n",1508565305,["Compliance mode enabled, was '2.1.1'"]],
 ["fcitx5-mozc","2.29.5160.102+fcitx5+git20230919","2.30.5544.102","app-i18n",1696160477,["Compliance mode enabled, was '2.30.5544.102'"]],
 ["ibus-libpinyin","1.12.0","1.15.8","app-i18n",1565150262,["Compliance mode enabled, was '1.15.8'"]],
-["m1n1","1.4.14","1.4.15","runtime-kernel",1723484293,[]],
+["m1n1","1.4.14","1.4.16","runtime-kernel",1723484293,[]],
 ["linux+kernel+retro+minimal","5.15.17","5.10.226","runtime-kernel",1678950872,["Compliance mode enabled, was '5.10.226'","Possible downgrade from the current version (5.15.17 -> 5.10.226)"]],
 ["linux+kernel+asahi","6.10.3","5.19.17","runtime-kernel",1699904618,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.10.3 -> 5.19.17)"]],
 ["uboot-asahi","2023.07.02+3","2024.07+1","runtime-kernel",1699904618,["Compliance mode enabled, was '2024.07-1'"]],
