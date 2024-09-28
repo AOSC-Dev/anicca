@@ -1964,7 +1964,7 @@
 ["presenterm","0.5.0","0.8.0","app-productivity",1706434874,["Compliance mode enabled, was '0.8.0'"]],
 ["libreoffice","24.2.3.2","24.8.2.1","groups",1721223235,["Compliance mode enabled, was '24.8.2.1'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
-["zed","0.152.3","0.154.2","app-editors",1726313513,["Compliance mode enabled, was '0.154.2'"]],
+["zed","0.152.3","0.154.3","app-editors",1726313513,["Compliance mode enabled, was '0.154.3'"]],
 ["vim","9.1.0707","9.1.0744","app-editors",1725178809,["Compliance mode enabled, was '9.1.0744'"]],
 ["neovim","0.10.0","0.10.1","app-editors",1716196935,["Compliance mode enabled, was '0.10.1'"]],
 ["netavark","1.11.0","1.12.2","runtime-containers",1718204311,["Compliance mode enabled, was '1.12.2'"]],
