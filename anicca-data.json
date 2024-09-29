@@ -2466,7 +2466,7 @@
 ["chinadns-ng","2024.07.16","2024.09.08","app-web",1721316608,["Compliance mode enabled, was '2024.09.08'"]],
 ["kvirc","5.0.0","5.2.4","app-web",1554223928,["Compliance mode enabled, was '5.2.4'"]],
 ["dovecot","2.3.21","2.3.21.1","app-web",1723046029,["Compliance mode enabled, was '2.3.21.1'"]],
-["qownnotes","22.6.1","24.9.7","app-web",1659588927,["Compliance mode enabled, was '24.9.7'"]],
+["qownnotes","22.6.1","24.9.8","app-web",1659588927,["Compliance mode enabled, was '24.9.8'"]],
 ["hexchat","2.16.1","2.16.2","app-web",1655338775,["Compliance mode enabled, was '2.16.2'"]],
 ["miniserve","0.26.0","0.28.0","app-web",1705559527,["Compliance mode enabled, was '0.28.0'"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
