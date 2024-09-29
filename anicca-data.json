@@ -1369,6 +1369,7 @@
 ["kldap","23.08.5","24.08.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.08.1'"]],
 ["kmousetool","23.08.5","24.08.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.08.1'"]],
 ["kglobalaccel","5.115.0","6.6.0","desktop-kde",1714377107,["Compliance mode enabled, was '6.6.0'"]],
+["kclock","23.08.5","24.08.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.08.1'"]],
 ["grantlee-editor","23.08.5","24.08.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.08.1'"]],
 ["kfind","23.08.5","24.08.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.08.1'"]],
 ["topgrade","11.0.2","15.0.0","app-admin",1683301918,["Compliance mode enabled, was '15.0.0'"]],
