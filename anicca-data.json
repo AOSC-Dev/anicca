@@ -2490,7 +2490,7 @@
 ["certbot-nginx","2.10.0","2.11.0","app-web",1716728325,["Compliance mode enabled, was '2.11.0'"]],
 ["httpie","3.2.2","3.2.3","app-web",1709968724,["Compliance mode enabled, was '3.2.3'"]],
 ["hugo","0.134.1","0.135.0","app-web",1727015619,["Compliance mode enabled, was '0.135.0'"]],
-["sbcl","2.4.5","2.4.8","lang-lisp",1717074126,["Compliance mode enabled, was '2.4.8'"]],
+["sbcl","2.4.5","2.4.9","lang-lisp",1717074126,["Compliance mode enabled, was '2.4.9'"]],
 ["engrampa","1.28.1","1.28.2","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.2'"]],
 ["mate-control-center","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
 ["mate-notification-daemon","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
