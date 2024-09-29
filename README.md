@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727597596?label=Updated)
+![Relative date](https://img.shields.io/date/1727601174?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -489,6 +489,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.9.2|runtime-gis|Compliance mode enabled, was '3.9.2'|
+|gdb|15.1|15.2|app-devel|Compliance mode enabled, was '15.2'|
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
@@ -2128,7 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
-|rexml|3.2.5|3.3.7|lang-ruby|Compliance mode enabled, was '3.3.7'|
+|rexml|3.2.5|3.3.8|lang-ruby|Compliance mode enabled, was '3.3.8'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rich|13.7.1|13.8.1|lang-python|Compliance mode enabled, was '13.8.1'|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
@@ -2190,7 +2191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.4.5|2.4.8|lang-lisp|Compliance mode enabled, was '2.4.8'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |scapy|2.5.0|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
-|sccache|0.3.3|0.8.1|app-devel|Compliance mode enabled, was '0.8.1'|
+|sccache|0.3.3|0.8.2|app-devel|Compliance mode enabled, was '0.8.2'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
