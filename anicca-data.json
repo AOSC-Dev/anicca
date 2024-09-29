@@ -2382,6 +2382,7 @@
 ["physfs","3.0.2","3.2.0","runtime-common",1565150272,["Compliance mode enabled, was '3.2.0'"]],
 ["uthash","2.1.0","2.3.0","runtime-common",1603951135,["Compliance mode enabled, was '2.3.0'"]],
 ["jsonrpc-glib","3.42.0","3.44.1","runtime-common",1663210242,["Compliance mode enabled, was '3.44.1'"]],
+["unibilium","2.1.1","2.1.2","runtime-common",1708762981,["Compliance mode enabled, was '2.1.2'"]],
 ["pcre","8.44","8.45","runtime-common",1554223916,["Compliance mode enabled, was '8.45'"]],
 ["lzlib","1.11","1.14","runtime-common",1570905164,["Compliance mode enabled, was '1.14'"]],
 ["opencl-clang","18.1.0","19.1.0","runtime-common",1721226526,["Compliance mode enabled, was '19.1.0'"]],
