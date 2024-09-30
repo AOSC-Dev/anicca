@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727712714?label=Updated)
+![Relative date](https://img.shields.io/date/1727716304?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -195,7 +195,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cantor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
-|cargo-audit|0.20.0|0.20.1|lang-rust|Compliance mode enabled, was '0.20.1'|
 |cargo-c|0.10.2|0.10.4|lang-rust|Compliance mode enabled, was '0.10.4'|
 |cargo-release|0.25.10|0.25.11|lang-rust|Compliance mode enabled, was '0.25.11'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
