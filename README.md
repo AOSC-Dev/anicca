@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727702449?label=Updated)
+![Relative date](https://img.shields.io/date/1727705474?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1436,7 +1436,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|mesa|24.2.2|24.2.3|runtime-display||
 |mesa+32|22.1.7|24.2.3|runtime-optenv32|Compliance mode enabled, was '24.2.3'|
 |mesa-amber|21.3.9|24.2.3|runtime-display|Compliance mode enabled, was '24.2.3'|
 |meson|1.5.1|1.5.2|app-devel|Compliance mode enabled, was '1.5.2'|
@@ -2254,7 +2253,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
 |smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
 |smpeg+32|0.4.5|2.0.0|runtime-optenv32|Compliance mode enabled, was '2_0_0'|
-|smplayer|19.10.2|24.5.0|app-multimedia|Compliance mode enabled, was '24.5.0'|
 |snapd|2.65.1|2.65.3|app-admin|Compliance mode enabled, was '2.65.3'|
 |snapd-glib|1.65|1.66|runtime-admin|Compliance mode enabled, was '1.66'|
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compliance mode enabled, was '0.1'|
