@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727749322?label=Updated)
+![Relative date](https://img.shields.io/date/1727753124?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1604,14 +1604,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|18.1.0|19.1.0|runtime-common|Compliance mode enabled, was '19.1.0'|
-|opencolorio|2.1.2|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
+|opencolorio|2.1.2|2.4.0|runtime-imaging|Compliance mode enabled, was '2.4.0'|
 |openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
 |opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
 |opencryptoki|3.21.0|3.24.0|runtime-cryptography|Compliance mode enabled, was '3.24.0'|
 |opencsg|1.5.1|1.6.0|runtime-imaging|Compliance mode enabled, was '1.6.0'|
 |opencv|4.9.0|4.10.0|runtime-scientific|Compliance mode enabled, was '4.10.0'|
-|openexr|3.1.8|3.2.126|runtime-imaging|Compliance mode enabled, was '3.2.126'|
+|openexr|3.1.8|3.3.0|runtime-imaging|Compliance mode enabled, was '3.3.0'|
 |openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
 |openimagedenoise|1.4.3|2.3.0|runtime-imaging|Compliance mode enabled, was '2.3.0'|
 |openimageio|2.4.17.0|2.5.15.0|runtime-imaging|Compliance mode enabled, was '2.5.15.0'|
@@ -2632,6 +2632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
+|xpra|6.1.2|6.1.3|app-network|Compliance mode enabled, was '6.1.3'|
 |xray|24.9.7|24.9.19|app-network|Compliance mode enabled, was '24.9.19'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
 |xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
