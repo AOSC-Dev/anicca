@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727737914?label=Updated)
+![Relative date](https://img.shields.io/date/1727743414?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2016,7 +2016,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypdf|4.0.1|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
 |pypdf2|1.26.0|5.0.0|lang-python|Compliance mode enabled, was '5.0.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
-|pyperf|2.5.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
+|pyperf|2.5.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |pypsutil|5.8.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
