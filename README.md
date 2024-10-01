@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727780760?label=Updated)
+![Relative date](https://img.shields.io/date/1727785020?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -757,6 +757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
+|just|1.35.0|1.36.0|app-devel|Compliance mode enabled, was '1.36.0'|
 |k3b|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kaccounts-integration|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kaccounts-providers|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2092,6 +2093,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.13|5.15.15-lts-lgpl|runtime-desktop||
 |qt-6|6.7.2|6.7.3|runtime-desktop|Compliance mode enabled, was '6.7.3'|
+|qtcreator|14.0.1|14.0.2|app-devel|Compliance mode enabled, was '14.0.2'|
 |qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
 |qtpy|2.1.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
@@ -2252,6 +2254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartdns|35|46|app-network|Compliance mode enabled, was '46'|
+|smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
 |smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
 |smpeg+32|0.4.5|2.0.0|runtime-optenv32|Compliance mode enabled, was '2_0_0'|
