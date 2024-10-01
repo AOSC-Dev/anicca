@@ -505,7 +505,7 @@
 ["sympy","1.12","1.13.3","lang-python",1714117868,["Compliance mode enabled, was '1.13.3'"]],
 ["zope-component","4.4.1","6.0","lang-python",1530283385,["Compliance mode enabled, was '6.0'"]],
 ["pyqtwebengine","5.15.5","5.15.7","lang-python",1637636760,["Compliance mode enabled, was '5.15.7'"]],
-["reportlab","3.5.50","4.2.4","lang-python",1600671246,["Compliance mode enabled, was '4.2.4'"]],
+["reportlab","3.5.50","4.2.5","lang-python",1600671246,["Compliance mode enabled, was '4.2.5'"]],
 ["alabaster","0.7.12","1.0.0","lang-python",1549919968,["Compliance mode enabled, was '1.0.0'"]],
 ["simplejson","3.16.0","3.19.3","lang-python",1531753542,["Compliance mode enabled, was '3.19.3'"]],
 ["google-api-python-client","1.7.11","2.147.0","lang-python",1581796621,["Compliance mode enabled, was '2.147.0'"]],
