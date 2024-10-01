@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727743414?label=Updated)
+![Relative date](https://img.shields.io/date/1727749322?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1583,7 +1583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
 |ocaml-num|1.3|1.5|lang-ocaml|Compliance mode enabled, was '1.5'|
 |ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
-|ocaml-re|1.11.0|1.12.0|lang-ocaml|Compliance mode enabled, was '1.12.0'|
+|ocaml-re|1.11.0|1.13.0|lang-ocaml|Compliance mode enabled, was '1.13.0'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
 |ocrad|0.27|0.29|app-doc|Compliance mode enabled, was '0.29'|
@@ -1596,7 +1596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.10.2|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
-|oolite|1.90|1.91.0.7637-240923-9af0271|app-games|Compliance mode enabled, was '1.91.0.7637-240923-9af0271'|
+|oolite|1.90|1.91.0.7638-240929-a7af91f|app-games|Compliance mode enabled, was '1.91.0.7638-240929-a7af91f'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
