@@ -2442,7 +2442,7 @@
 ["nestopia","1.51.0","1.52.1","app-games",1631079132,["Compliance mode enabled, was '1.52.1'"]],
 ["openra","20210321","20231010","app-games",1631079132,["Compliance mode enabled, was '20231010'"]],
 ["ddnet","18.4","18.5.1","app-games",1721884395,["Compliance mode enabled, was '18.5.1'"]],
-["pcsx2","1.6.0+git20210825","2.1.174","app-games",1631079142,["Compliance mode enabled, was '2.1.174'"]],
+["pcsx2","1.6.0+git20210825","2.1.177","app-games",1631079142,["Compliance mode enabled, was '2.1.177'"]],
 ["steam","1.0.0.79","1.0.0.81","app-games",1709586881,["Compliance mode enabled, was '1.0.0.81'"]],
 ["unrpyc","1.1.6","2.0.2","app-games",1631079134,["Compliance mode enabled, was '2.0.2'"]],
 ["teeworlds","0.7.5+git20220313","0.7.5","app-games",1663359141,["Compliance mode enabled, was '0.7.5'"]],
