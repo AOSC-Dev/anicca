@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727839002?label=Updated)
+![Relative date](https://img.shields.io/date/1727842381?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -410,7 +410,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
-|fastfetch|2.25.0|2.26.1|app-utils|Compliance mode enabled, was '2.26.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -641,6 +640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
+|gvfs|1.50.2|1.56.0|desktop-gnome|Compliance mode enabled, was '1.56.0'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
@@ -1895,6 +1895,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-framework|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |plasma-integration|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |plasma-mobile|5.27.5|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
+|plasma-nano|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |plasma-nm|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |plasma-pa|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |plasma-pk-updates|0.3.2|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
