@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727907030?label=Updated)
+![Relative date](https://img.shields.io/date/1727910618?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -760,6 +760,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
 |k3b|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
+|kaccounts-integration|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kaccounts-providers|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kactivities|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kactivities-stats|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
@@ -1068,7 +1069,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)|
 |libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
-|libchewing|0.5.1|0.9.0|runtime-i18n|Compliance mode enabled, was '0.9.0'|
 |libclc|18.1.8|19.1.1|runtime-devices|Compliance mode enabled, was '19.1.1'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
