@@ -944,6 +944,7 @@
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
 ["networkmanager-openconnect","1.2.6+git20210918","1.2.10","app-network",1632996916,["Compliance mode enabled, was '1.2.10'"]],
 ["xray","24.9.7","24.9.19","app-network",1727015619,["Compliance mode enabled, was '24.9.19'"]],
+["remmina","1.4.35","1.4.36","app-network",1727581856,["Compliance mode enabled, was '1.4.36'"]],
 ["sshpass","1.06","1.10","app-network",1552787668,["Compliance mode enabled, was '1.10'"]],
 ["ss-tproxy","4.6.1","4.8.3","app-network",1611985904,["Compliance mode enabled, was '4.8.3'"]],
 ["ser2net","3.5","4.6.2","app-network",1528905473,["Compliance mode enabled, was '4.6.2'"]],
