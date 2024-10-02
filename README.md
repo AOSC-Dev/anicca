@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727853017?label=Updated)
+![Relative date](https://img.shields.io/date/1727856830?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -650,7 +650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |haruna|0.12.3|1.2.1|desktop-kde|Compliance mode enabled, was '1.2.1'|
 |hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
-|hdf5|1.10.5|1.14.4.3|runtime-scientific|Compliance mode enabled, was '1.14.4.3'|
+|hdf5|1.10.5|1.14.5|runtime-scientific|Compliance mode enabled, was '1.14.5'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
 |helm|3.15.4|3.16.1|app-containers|Compliance mode enabled, was '3.16.1'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
@@ -2407,7 +2407,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
-|thunderbird|128.1.0esr|128.2.3|app-web|Compliance mode enabled, was '128.2.3'|
+|thunderbird|128.1.0esr|128.3.0|app-web|Compliance mode enabled, was '128.3.0'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
