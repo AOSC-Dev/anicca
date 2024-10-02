@@ -2180,6 +2180,7 @@
 ["dotnet-sdk-8.0","8.0.401","8.0.402","app-devel",1724293390,["Compliance mode enabled, was '8.0.402'"]],
 ["blueprint-compiler","0.12.0","0.14.0","app-devel",1714697457,["Compliance mode enabled, was '0.14.0'"]],
 ["dotnet-templates-6.0","6.0.422","6.0.425","app-devel",1716597653,["Compliance mode enabled, was '6.0.425'"]],
+["gh","2.57.0","2.58.0","app-devel",1726730657,["Compliance mode enabled, was '2.58.0'"]],
 ["openixcard","1.0.1","1.1.8","app-devel",1653974481,["Compliance mode enabled, was '1.1.8'"]],
 ["aspnetcore-targeting-pack-6.0","6.0.30","6.0.33","app-devel",1716597653,["Compliance mode enabled, was '6.0.33'"]],
 ["gnu-efi","3.0.14","3.0.18","app-devel",1645432747,["Compliance mode enabled, was '3.0.18'"]],
