@@ -2019,7 +2019,7 @@
 ["openjpeg-legacy","1.5.2","2.5.2","runtime-imaging",1678950872,["Compliance mode enabled, was '2.5.2'"]],
 ["libraw","0.20.0","0.21.3","runtime-imaging",1568173098,["Compliance mode enabled, was '0.21.3'"]],
 ["jasper","2.0.21","4.2.4","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.4'"]],
-["openimageio","2.4.17.0","2.5.15.0","runtime-imaging",1702112652,["Compliance mode enabled, was '2.5.15.0'"]],
+["openimageio","2.4.17.0","2.5.16.0","runtime-imaging",1702112652,["Compliance mode enabled, was '2.5.16.0'"]],
 ["openimagedenoise","1.4.3","2.3.0","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.0'"]],
 ["libheif","1.17.6","1.18.2","runtime-imaging",1714466456,["Compliance mode enabled, was '1.18.2'"]],
 ["libwebp","1.3.1","1.4.0","runtime-imaging",1688798892,["Compliance mode enabled, was '1.4.0'"]],
