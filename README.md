@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727975395?label=Updated)
+![Relative date](https://img.shields.io/date/1727979206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -991,7 +991,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kspaceduel|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ksquares|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ksshaskpass|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
-|kstars|3.7.2|3.7.3|desktop-kde|Compliance mode enabled, was '3.7.3'|
 |ksudoku|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ksystemlog|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ksystemstats|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
@@ -1443,8 +1442,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils|Compliance mode enabled, was '0.99.14'|
 |mercurial|6.7.3|6.8.1|app-vcs|Compliance mode enabled, was '6.8.1'|
 |merkuro|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
-|mesa+32|22.1.7|24.2.3|runtime-optenv32|Compliance mode enabled, was '24.2.3'|
-|mesa-amber|21.3.9|24.2.3|runtime-display|Compliance mode enabled, was '24.2.3'|
+|mesa|24.2.3|24.2.4|runtime-display||
+|mesa+32|22.1.7|24.2.4|runtime-optenv32|Compliance mode enabled, was '24.2.4'|
+|mesa-amber|21.3.9|24.2.4|runtime-display|Compliance mode enabled, was '24.2.4'|
 |meson|1.5.1|1.5.2|app-devel|Compliance mode enabled, was '1.5.2'|
 |messagelib|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |metacity|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
