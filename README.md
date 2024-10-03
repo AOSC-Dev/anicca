@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727982283?label=Updated)
+![Relative date](https://img.shields.io/date/1727986267?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -159,8 +159,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.32|lang-python|Compliance mode enabled, was '1.35.32'|
-|botocore|1.34.133|1.35.32|lang-python|Compliance mode enabled, was '1.35.32'|
+|boto3|1.20.26|1.35.33|lang-python|Compliance mode enabled, was '1.35.33'|
+|botocore|1.34.133|1.35.33|lang-python|Compliance mode enabled, was '1.35.33'|
 |bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1560,7 +1560,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nlopt|2.7.1|2.8.0|runtime-scientific|Compliance mode enabled, was '2.8.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|nodejs|20.16.0|20.17.0|lang-js|Compliance mode enabled, was '20.17.0'|
+|nodejs|20.16.0|20.18.0|lang-js|Compliance mode enabled, was '20.18.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nomino|1.3.1|1.3.5|app-utils|Compliance mode enabled, was '1.3.5'|
 |normaliz|3.6.3|3.10.3|app-scientific|Compliance mode enabled, was '3.10.3'|
@@ -2173,7 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python|Compliance mode enabled, was '0.2.8'|
 |rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
 |ruby|3.2.2|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
-|ruby-bundler|2.1.4|2.5.20|lang-ruby|Compliance mode enabled, was '2.5.20'|
+|ruby-bundler|2.1.4|2.5.21|lang-ruby|Compliance mode enabled, was '2.5.21'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
@@ -2330,7 +2330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
-|steam|1.0.0.79|1.0.0.81|app-games|Compliance mode enabled, was '1.0.0.81'|
+|steam|1.0.0.79|1.0.0.82|app-games|Compliance mode enabled, was '1.0.0.82'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |stevedore|5.2.0|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
