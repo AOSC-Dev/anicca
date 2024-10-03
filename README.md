@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1727989811?label=Updated)
+![Relative date](https://img.shields.io/date/1727993424?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1395,7 +1395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
-|lyx|2.4.0|2.4.1|app-doc|Compliance mode enabled, was '2.4.1'|
+|lyx|2.4.0|2.4.2.1|app-doc|Compliance mode enabled, was '2.4.2.1'|
 |lzip|1.23|1.24.1|app-utils|Compliance mode enabled, was '1.24.1'|
 |lzlib|1.11|1.14|runtime-common|Compliance mode enabled, was '1.14'|
 |m17n-db|1.8.7|1.8.8|runtime-i18n|Compliance mode enabled, was '1.8.8'|
@@ -2142,6 +2142,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rich|13.7.1|13.9.1|lang-python|Compliance mode enabled, was '13.9.1'|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
+|rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |rng-tools|6.16|6.17|app-utils|Compliance mode enabled, was '6.17'|
