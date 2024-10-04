@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728002338?label=Updated)
+![Relative date](https://img.shields.io/date/1728008000?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -652,6 +652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|10.0.1|runtime-optenv32|Compliance mode enabled, was '10.0.1'|
 |haruna|0.12.3|1.2.1|desktop-kde|Compliance mode enabled, was '1.2.1'|
 |hatchling|1.21.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'<br>Possible downgrade from the current version (1.21.1 -> 1.12.0)|
+|haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.5|runtime-scientific|Compliance mode enabled, was '1.14.5'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
@@ -730,7 +731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.10|app-network|Compliance mode enabled, was '1.8.10'|
 |iptraf-ng|1.1.4|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
-|ipython|7.28.0|8.27.0|lang-python|Compliance mode enabled, was '8.27.0'|
+|ipython|7.28.0|8.28.0|lang-python|Compliance mode enabled, was '8.28.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
