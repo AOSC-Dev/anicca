@@ -2409,6 +2409,7 @@
 ["ayatana-indicator-messages","0.8.2","24.5.0","runtime-desktop",1619939107,["Compliance mode enabled, was '24.5.0'"]],
 ["pangomm-2.48","2.50.1","2.54.0","runtime-desktop",1704877978,["Compliance mode enabled, was '2.54.0'"]],
 ["xdg-dbus-proxy","0.1.2","0.1.6","runtime-desktop",1573326951,["Compliance mode enabled, was '0.1.6'"]],
+["qcoro","0.10.0","0.11.0","runtime-desktop",1714377107,["Compliance mode enabled, was '0.11.0'"]],
 ["pango","1.52.2","1.54.0","runtime-desktop",1714961745,["Compliance mode enabled, was '1.54.0'"]],
 ["libwnck-3","40.1","43.0","runtime-desktop",1663210242,["Compliance mode enabled, was '43.0'"]],
 ["libqtxdg","3.6.0","4.0.0","runtime-desktop",1610261237,["Compliance mode enabled, was '4.0.0'"]],
