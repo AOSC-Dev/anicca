@@ -661,6 +661,7 @@
 ["perl-clone","0.46","0.47","lang-perl",1716292365,["Compliance mode enabled, was '0.47'"]],
 ["perl-io-socket-inet6","2.72","2.73","lang-perl",1678950872,["Compliance mode enabled, was '2.73'"]],
 ["perl-authen-sasl","2.1401","2.1700","lang-perl",1536763311,["Compliance mode enabled, was '2.1700'"]],
+["perl-html-tagset","3.20","3.24","lang-perl",1678950872,["Compliance mode enabled, was '3.24'"]],
 ["perl-sub-quote","2.006006","2.006008","lang-perl",1596485705,["Compliance mode enabled, was '2.006008'"]],
 ["perl-crypt-ssleay","0.73+06","0.72","lang-perl",1530196415,["Compliance mode enabled, was '0.72'","Possible downgrade from the current version (0.73+06 -> 0.72)"]],
 ["perl-ipc-run","20180523.0","20231003.0","lang-perl",1530196414,["Compliance mode enabled, was '20231003.0'"]],
