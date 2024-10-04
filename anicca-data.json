@@ -876,7 +876,7 @@
 ["nftables","1.0.9","1.1.1","app-network",1600577920,["Compliance mode enabled, was '1.1.1'"]],
 ["kubo","0.29.0","0.30.0","app-network",1727015619,["Compliance mode enabled, was '0.30.0'"]],
 ["n2n","2.8","3.1.1","app-network",1599374645,["Compliance mode enabled, was '3.1.1'"]],
-["mitmproxy","7.0.4","10.4.2","app-network",1636090198,["Compliance mode enabled, was '10.4.2'"]],
+["mitmproxy","7.0.4","11.0.0","app-network",1636090198,["Compliance mode enabled, was '11.0.0'"]],
 ["v2ray","5.19.0","5.20.0","app-network",1727625357,["Compliance mode enabled, was '5.20.0'"]],
 ["kcptun","20240906","20240919","app-network",1727015619,["Compliance mode enabled, was '20240919'"]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
