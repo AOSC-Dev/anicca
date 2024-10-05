@@ -1474,7 +1474,7 @@
 ["openldap","2.6.7","2.6.8","app-admin",1712930384,["Compliance mode enabled, was '2_6_8'"]],
 ["hwloc","2.10.0","2.11.2","app-admin",1716736819,["Compliance mode enabled, was '2.11.2'"]],
 ["cryptsetup","2.7.0","2.7.5","app-admin",1709504085,["Compliance mode enabled, was '2.7.5'"]],
-["snapd","2.65.1","2.65.3","app-admin",1727015619,["Compliance mode enabled, was '2.65.3'"]],
+["snapd","2.65.1","2.66","app-admin",1727015619,["Compliance mode enabled, was '2.66'"]],
 ["memcached","1.6.29","1.6.31","app-admin",1722955870,["Compliance mode enabled, was '1.6.31'"]],
 ["pstate-frequency","3.11.0","3.15.2","app-admin",1610962802,["Compliance mode enabled, was '3.15.2'"]],
 ["intel-gpu-tools","1.28","1.29","app-admin",1699859032,["Compliance mode enabled, was '1.29'"]],
