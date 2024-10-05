@@ -396,7 +396,7 @@
 ["pyparsing","2.4.7","3.1.4","lang-python",1523459971,["Compliance mode enabled, was '3.1.4'"]],
 ["httpx","0.27.0","0.27.2","lang-python",1718014901,["Compliance mode enabled, was '0.27.2'"]],
 ["josepy","1.13.0","1.14.0","lang-python",1678950872,["Compliance mode enabled, was '1.14.0'"]],
-["numpy","1.26.4","2.1.1","lang-python",1716538095,["Compliance mode enabled, was '2.1.1'"]],
+["numpy","1.26.4","2.1.2","lang-python",1716538095,["Compliance mode enabled, was '2.1.2'"]],
 ["wheezy.template","3.1.0","3.2.2","lang-python",1663210209,["Compliance mode enabled, was '3.2.2'"]],
 ["pathlib2","2.3.5","2.3.7.post1","lang-python",1581796621,["Compliance mode enabled, was '2.3.7.post1'"]],
 ["levenshtein","0.12.0","0.26.0","lang-python",1479402071,["Compliance mode enabled, was '0.26.0'"]],
