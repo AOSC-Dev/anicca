@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728115951?label=Updated)
+![Relative date](https://img.shields.io/date/1728119453?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2430,7 +2430,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk+32|8.6.10|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
 |tl-expected|1.0.0|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |tlp|1.6.1|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
-|tmux|3.4|3.5|app-utils|Compliance mode enabled, was '3.5'|
+|tmux|3.4|3.5a|app-utils|Compliance mode enabled, was '3.5a'|
 |tofrodos|1.7.13|1.8.3|app-utils|Compliance mode enabled, was '1.8.3'|
 |tokodon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |toml|0.10.1|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
