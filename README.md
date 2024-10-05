@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728094380?label=Updated)
+![Relative date](https://img.shields.io/date/1728098120?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1882,6 +1882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |pikepdf|8.15.1|9.3.0|app-doc|Compliance mode enabled, was '9.3.0'|
+|pim-data-exporter|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |pim-sieve-editor|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |pimcommon|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
@@ -2209,6 +2210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
 |scrcpy|2.6.1|2.7|app-devices|Compliance mode enabled, was '2.7'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
+|scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
 |sdcc|4.3.6|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
 |sddm-kcm|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |sdl-gfx|2.0.25|2.0.27|runtime-multimedia|Compliance mode enabled, was '2.0.27'|
@@ -2695,5 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstandard|0.22.0|0.23.0|lang-python|Compliance mode enabled, was '0.23.0'|
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |zvbi|0.2.35|0.2.42|runtime-multimedia|Compliance mode enabled, was '0.2.42'|
+|zvm|0.7.6|6.0.0|lang-ziglang|Compliance mode enabled, was '6.0.0'|
 |zxtune|5053|5075|app-multimedia|Compliance mode enabled, was '5075'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
