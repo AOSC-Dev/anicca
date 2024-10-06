@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728252388?label=Updated)
+![Relative date](https://img.shields.io/date/1728256205?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1681,7 +1681,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pandoc|3.4|3.5|app-doc|Compliance mode enabled, was '3.5'|
 |pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
 |pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
 |pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
@@ -2094,7 +2093,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.0|app-multimedia|Compliance mode enabled, was '2.2.0'|
-|qownnotes|22.6.1|24.9.8|app-web|Compliance mode enabled, was '24.9.8'|
+|qownnotes|22.6.1|24.10.0|app-web|Compliance mode enabled, was '24.10.0'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
@@ -2124,7 +2123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdflib|6.2.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
-|rdma-core|51.0|53.0|app-admin|Compliance mode enabled, was '53.0'|
+|rdma-core|51.0|54.0|app-admin|Compliance mode enabled, was '54.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
 |readline|8.2.1|8.2.13|runtime-common|Compliance mode enabled, was '8.2.13'|
 |readline+32|8.2.1|8.2.13|runtime-optenv32|Compliance mode enabled, was '8.2.13'|
