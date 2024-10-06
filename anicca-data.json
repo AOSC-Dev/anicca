@@ -1442,6 +1442,7 @@
 ["multipath-tools","0.9.3","0.10.0","app-admin",1673935786,["Compliance mode enabled, was '0.10.0'"]],
 ["mstflint","4.28.0+1","4.29.0+1","app-admin",1716389353,["Compliance mode enabled, was '4.29.0-1'"]],
 ["kernel-tools","6.10.12","5.19.17","app-admin",1727964716,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.10.12 -> 5.19.17)"]],
+["fwupd","1.9.25","2.0.0","app-admin",1727316731,["Compliance mode enabled, was '2.0.0'"]],
 ["thermald","2.5.7","2.5.8","app-admin",1716726890,["Compliance mode enabled, was '2.5.8'"]],
 ["mdadm","4.2","4.3","app-admin",1673935786,["Compliance mode enabled, was '4.3'"]],
 ["apparmor","3.0.8","4.0.2","app-admin",1677834439,["Compliance mode enabled, was '4.0.2'"]],
