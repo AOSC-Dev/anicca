@@ -2599,6 +2599,7 @@
 ["sndio","1.9.0","1.10.0","app-multimedia",1693486148,["Compliance mode enabled, was '1.10.0'"]],
 ["smpeg","0.4.5","2.0.0","app-multimedia",1678950872,["Compliance mode enabled, was '2_0_0'"]],
 ["vorbis-tools","1.4.0","1.4.2","app-multimedia",1722221884,["Compliance mode enabled, was '1.4.2'"]],
+["waylyrics","0.3.16","0.3.17","app-multimedia",1728143079,["Compliance mode enabled, was '0.3.17'"]],
 ["feeluown-bilibili","0.3.3","0.4.1","app-multimedia",1708762785,["Compliance mode enabled, was '0.4.1'"]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
 ["audacious","4.4","4.4.1","app-multimedia",1725420791,["Compliance mode enabled, was '4.4.1'"]],
