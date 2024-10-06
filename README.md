@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728216882?label=Updated)
+![Relative date](https://img.shields.io/date/1728220558?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1462,7 +1462,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.2.0|4.2.1|runtime-devices|Compliance mode enabled, was '4.2.1'|
 |microsoft-gsl|3.0.1|4.0.0|runtime-common|Compliance mode enabled, was '4.0.0'|
 |midori|9.0|11.4|app-web|Compliance mode enabled, was '11.4'|
-|mihomo|1.18.8|1.18.9|app-network|Compliance mode enabled, was '1.18.9'|
 |milou|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |mimalloc|2.1.2|2.1.7|runtime-common|Compliance mode enabled, was '2.1.7'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
@@ -2574,7 +2573,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
-|waylyrics|0.3.16|0.3.17|app-multimedia|Compliance mode enabled, was '0.3.17'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
