@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728198742?label=Updated)
+![Relative date](https://img.shields.io/date/1728202302?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -693,6 +693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.112.3|lang-python|Compliance mode enabled, was '6.112.3'|
+|hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.3|app-utils|Compliance mode enabled, was '4.3'|
 |i2pd|2.41.0|2.53.1|app-web|Compliance mode enabled, was '2.53.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -729,6 +730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |intel-media-driver|24.1.5|24.3.4|runtime-multimedia|Compliance mode enabled, was '24.3.4'|
+|iosevka-fonts|31.7.1|31.8.0|desktop-fonts|Compliance mode enabled, was '31.8.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -2104,7 +2106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.13|5.15.15-lts-lgpl|runtime-desktop||
-|qt-6|6.7.2|6.7.3|runtime-desktop|Compliance mode enabled, was '6.7.3'|
 |qtcreator|14.0.1|14.0.2|app-devel|Compliance mode enabled, was '14.0.2'|
 |qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
