@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728241473?label=Updated)
+![Relative date](https://img.shields.io/date/1728245420?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -543,7 +543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.15|desktop-gnome|Compliance mode enabled, was '3.2.15'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
-|gnome-applets|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|gnome-applets|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-bluetooth|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -567,7 +567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
 |gnome-online-accounts|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|gnome-panel|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -2635,6 +2635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfsprogs|6.9.0|6.10.1|app-admin|Compliance mode enabled, was '6.10.1'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
+|xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.43|runtime-display|Compliance mode enabled, was '2.43'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
 |xmlrpc-c|1.54.06|1.59.03|runtime-common|Compliance mode enabled, was '1.59.03'|
