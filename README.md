@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728245420?label=Updated)
+![Relative date](https://img.shields.io/date/1728248786?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1951,9 +1951,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerdevil|5.27.11|6.1.5|desktop-kde|Compliance mode enabled, was '6.1.5'|
 |poxml|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |ppp|2.4.9|2.5.1|app-network|Compliance mode enabled, was '2.5.1'|
+|praat|6.4.21|6.4.22|app-scientific|Compliance mode enabled, was '6.4.22'|
 |precis-i18n|1.0.3|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
-|presenterm|0.5.0|0.8.0|app-productivity|Compliance mode enabled, was '0.8.0'|
+|presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |print-manager|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |prison5|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
