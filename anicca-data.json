@@ -2180,7 +2180,7 @@
 ["msitools","0.101","0.103","app-devel",1619939228,["Compliance mode enabled, was '0.103'"]],
 ["meson","1.5.1","1.5.2","app-devel",1723172055,["Compliance mode enabled, was '1.5.2'"]],
 ["devscripts","2.23.7","2.24.1","app-devel",1711044245,["Compliance mode enabled, was '2.24.1'"]],
-["ast-grep","0.26.1","0.27.3","app-devel",1723454554,["Compliance mode enabled, was '0.27.3'"]],
+["ast-grep","0.26.1","0.28.0","app-devel",1723454554,["Compliance mode enabled, was '0.28.0'"]],
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
 ["bcc","0.30.0","0.31.0","app-devel",1715740238,["Compliance mode enabled, was '0.31.0'"]],
 ["dotnet-sdk-6.0","6.0.422","6.0.425","app-devel",1716597653,["Compliance mode enabled, was '6.0.425'"]],
