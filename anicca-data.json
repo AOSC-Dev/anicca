@@ -968,7 +968,6 @@
 ["unbound","1.19.2","1.21.1","app-network",1709998421,[]],
 ["networkmanager-strongswan","1.5.2","1.6.0","app-network",1590862929,["Compliance mode enabled, was '1.6.0'"]],
 ["syncthing-gtk","0.9.4.4","0.9.4.5","app-network",1568253855,["Compliance mode enabled, was '0.9.4.5'"]],
-["nodejs","20.16.0","20.18.0","lang-js",1721859400,["Compliance mode enabled, was '20.18.0'"]],
 ["duktape","2.5.0","2.7.0","lang-js",1591894752,["Compliance mode enabled, was '2.7.0'"]],
 ["gulp","4.0.0","5.0.0","lang-js",1551419309,["Compliance mode enabled, was '5.0.0'"]],
 ["mathjax","2.7.5","3.2.2","lang-js",1537942111,["Compliance mode enabled, was '3.2.2'"]],
