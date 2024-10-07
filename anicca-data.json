@@ -882,6 +882,7 @@
 ["kcptun","20240906","20240919","app-network",1727015619,["Compliance mode enabled, was '20240919'"]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["networkmanager-l2tp","1.8.6","1.20.16","app-network",1528905474,["Compliance mode enabled, was '1.20.16'"]],
+["cifs-utils","7.0","7.1","app-network",1723367638,["Compliance mode enabled, was '7.1'"]],
 ["smartdns","35","46","app-network",1640828077,["Compliance mode enabled, was '46'"]],
 ["clash-verge-rev","1.7.2","1.7.7","app-network",1720099396,["Compliance mode enabled, was '1.7.7'"]],
 ["varnish","7.5.0","7.6.0","app-network",1718805904,["Compliance mode enabled, was '7.6.0'"]],
