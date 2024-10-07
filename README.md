@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728274362?label=Updated)
+![Relative date](https://img.shields.io/date/1728277993?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2392,7 +2392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.0|app-doc|Compliance mode enabled, was '1.7.0'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.5.3|5.5.8|app-web|Compliance mode enabled, was '5.5.8'|
+|telegram-desktop|5.5.3|5.6.0|app-web|Compliance mode enabled, was '5.6.0'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2433,7 +2433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toml|0.10.1|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
 |tomli|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |tomlkit|0.7.0|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
-|topgrade|11.0.2|15.0.0|app-admin|Compliance mode enabled, was '15.0.0'|
+|topgrade|11.0.2|16.0.0|app-admin|Compliance mode enabled, was '16.0.0'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |totem|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
@@ -2448,7 +2448,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
-|tree-sitter|0.22.6|0.24.1|runtime-editors|Compliance mode enabled, was '0.24.1'|
+|tree-sitter|0.22.6|0.24.2|runtime-editors|Compliance mode enabled, was '0.24.2'|
 |trinity-default-settings|2023.07.1r|2024.09.3|runtime-data|Compliance mode enabled, was '2024.09.3'|
 |trio|0.24.0|0.26.2|lang-python|Compliance mode enabled, was '0.26.2'|
 |trivy|0.55.0|0.56.1|app-devel|Compliance mode enabled, was '0.56.1'|
