@@ -224,6 +224,7 @@
 ["sortedcontainers","2.3.0","2.4.0","lang-python",1618998184,["Compliance mode enabled, was '2.4.0'"]],
 ["pathspec","0.11.0","0.12.1","lang-python",1676525877,["Compliance mode enabled, was '0.12.1'"]],
 ["pywbem","0.13.0","1.7.2","lang-python",1551200606,["Compliance mode enabled, was '1.7.2'"]],
+["construct","2.9.45","2.10.70","lang-python",1530718720,["Compliance mode enabled, was '2.10.70'"]],
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,["Compliance mode enabled, was '6.0.11'"]],
 ["kiwisolver","1.0.1","1.4.7","lang-python",1550436152,["Compliance mode enabled, was '1.4.7'"]],
 ["regex","2019.02.21","2024.9.11","lang-python",1551200854,["Compliance mode enabled, was '2024.9.11'"]],
@@ -2690,5 +2691,6 @@
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["materialx","1.38.8","1.39.1","runtime-creativity",1710216829,["Compliance mode enabled, was '1.39.1'"]],
 ["openpgl","0.5.0","0.7.0","runtime-creativity",1691207555,["Compliance mode enabled, was '0.7.0'"]],
-["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]]
+["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]],
+["alembic","1.8.6","1.8.7","runtime-creativity",1710216829,["Compliance mode enabled, was '1.8.7'"]]
 ]
