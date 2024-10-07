@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728321012?label=Updated)
+![Relative date](https://img.shields.io/date/1728324822?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -235,7 +235,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|127.0.6533.119|129.0.6668.89|app-web|Compliance mode enabled, was '129.0.6668.89'|
 |chrony|4.5|4.6|app-admin|Compliance mode enabled, was '4.6'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
-|cinnamon|5.8.3|6.2.9|desktop-cinnamon|Compliance mode enabled, was '6.2.9'|
+|cinnamon|5.8.3|6.2.9|groups|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -1799,7 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
-|perl-http-message|6.11|6.46|lang-perl|Compliance mode enabled, was '6.46'|
+|perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
 |perl-image-exiftool|12.50|12.97|lang-perl|Compliance mode enabled, was '12.97'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
@@ -1939,7 +1939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |polyphone|2.3.0|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
-|poppler|22.08.0|24.09.0|runtime-doc|Compliance mode enabled, was '24.09.0'|
+|poppler|22.08.0|24.09.0|groups|Compliance mode enabled, was '24.09.0'|
 |poppler+32|0.66.0|24.09.0|runtime-optenv32|Compliance mode enabled, was '24.09.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
@@ -2685,6 +2685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeroconf|0.28.6|0.135.0|lang-python|Compliance mode enabled, was '0.135.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
+|zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
 |znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
