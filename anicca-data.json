@@ -267,7 +267,7 @@
 ["psutils","3.3.2","3.3.5","lang-python",1707299111,["Compliance mode enabled, was '3.3.5'"]],
 ["charset-normalizer","2.0.9","3.3.2","lang-python",1640872407,["Compliance mode enabled, was '3.3.2'"]],
 ["pefile","2023.2.7","2024.8.26","lang-python",1682634968,["Compliance mode enabled, was '2024.8.26'"]],
-["hypothesis-python","6.97.4","6.112.4","lang-python",1706859511,["Compliance mode enabled, was '6.112.4'"]],
+["hypothesis-python","6.97.4","6.112.5","lang-python",1706859511,["Compliance mode enabled, was '6.112.5'"]],
 ["zstandard","0.22.0","0.23.0","lang-python",1715608514,["Compliance mode enabled, was '0.23.0'"]],
 ["backcall","0.1.0","0.2.0","lang-python",1530722916,["Compliance mode enabled, was '0.2.0'"]],
 ["fasteners","0.18","0.19","lang-python",1537069622,["Compliance mode enabled, was '0.19'"]],
