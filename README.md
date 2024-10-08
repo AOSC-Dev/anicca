@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728421911?label=Updated)
+![Relative date](https://img.shields.io/date/1728425403?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -176,7 +176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
-|buildah|1.37.2|1.37.3|app-containers|Compliance mode enabled, was '1.37.3'|
+|buildah|1.37.2|1.37.4|app-containers|Compliance mode enabled, was '1.37.4'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.4|app-utils|Compliance mode enabled, was '0.33.4'|
@@ -201,7 +201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-audit|0.20.0|0.20.1|lang-rust|Compliance mode enabled, was '0.20.1'|
 |cargo-c|0.10.2|0.10.4|lang-rust|Compliance mode enabled, was '0.10.4'|
-|cargo-release|0.25.10|0.25.11|lang-rust|Compliance mode enabled, was '0.25.11'|
+|cargo-release|0.25.10|0.25.12|lang-rust|Compliance mode enabled, was '0.25.12'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
 |catch2|2.13.8|3.7.1|runtime-common|Compliance mode enabled, was '3.7.1'|
