@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728414334?label=Updated)
+![Relative date](https://img.shields.io/date/1728418230?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -147,7 +147,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
-|bleachbit|4.6.0|4.6.1|app-utils|Compliance mode enabled, was '4.6.1'|
+|bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.2.2|app-creativity|Compliance mode enabled, was '4.2.2'|
 |blinken|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |blinker|1.4|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
@@ -2186,7 +2186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rygel|0.40.4|0.44.0|desktop-gnome|Compliance mode enabled, was '0.44.0'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
-|s3transfer|0.5.0|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
+|s3transfer|0.5.0|0.10.3|lang-python|Compliance mode enabled, was '0.10.3'|
 |samba|4.17.2|4.21.0|app-network|Compliance mode enabled, was '4.21.0'|
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
