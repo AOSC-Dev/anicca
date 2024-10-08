@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728378666?label=Updated)
+![Relative date](https://img.shields.io/date/1728382352?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -54,6 +54,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |angelfish|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.17.4|app-admin|Compliance mode enabled, was '2.17.4'|
+|aom|3.9.1|3.10.0|runtime-multimedia|Compliance mode enabled, was '3.10.0'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
@@ -418,7 +419,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
 |fastfetch|2.26.1|2.27.1|app-utils|Compliance mode enabled, was '2.27.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
-|fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.30.5544.102|app-i18n|Compliance mode enabled, was '2.30.5544.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
@@ -1483,7 +1483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
 |mpg123|1.25.13|1.32.7|app-multimedia|Compliance mode enabled, was '1.32.7'|
 |mpg123+32|1.25.13|1.32.7|runtime-optenv32|Compliance mode enabled, was '1.32.7'|
-|mpmath|1.1.0|1.4.0~a1|lang-python|Compliance mode enabled, was '1.4.0a1'|
+|mpmath|1.1.0|1.4.0~a2|lang-python|Compliance mode enabled, was '1.4.0a2'|
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
