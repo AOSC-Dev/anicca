@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728396657?label=Updated)
+![Relative date](https://img.shields.io/date/1728400233?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -234,7 +234,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|127.0.6533.119|129.0.6668.89|app-web|Compliance mode enabled, was '129.0.6668.89'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
-|cinnamon|5.8.3|6.2.9|desktop-cinnamon|Compliance mode enabled, was '6.2.9'|
+|cinnamon|5.8.3|6.2.9|groups|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-desktop|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-menus|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -1505,7 +1505,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
 |mycli|1.23.2|1.27.2|app-database|Compliance mode enabled, was '1.27.2'|
 |mygpoclient|1.8|1.9|lang-python|Compliance mode enabled, was '1.9'|
-|n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
 |nasm+32|2.12.01|2.16.03|runtime-optenv32|Compliance mode enabled, was '2.16.03'|
@@ -1931,7 +1930,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |polyphone|2.3.0|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
-|poppler|22.08.0|24.09.0|runtime-doc|Compliance mode enabled, was '24.09.0'|
+|poppler|22.08.0|24.09.0|groups|Compliance mode enabled, was '24.09.0'|
 |poppler+32|0.66.0|24.09.0|runtime-optenv32|Compliance mode enabled, was '24.09.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
@@ -2295,7 +2294,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinx|7.0.1|8.0.2|app-doc|Compliance mode enabled, was '8.0.2'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|3.0.0|app-doc|Compliance mode enabled, was '3.0.0'|
-|sphinx-tabs|3.4.1|3.4.5|app-doc|Compliance mode enabled, was '3.4.5'|
+|sphinx-tabs|3.4.1|3.4.7|app-doc|Compliance mode enabled, was '3.4.7'|
 |sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxcontrib-devhelp|1.0.2|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
@@ -2659,7 +2658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.2|runtime-web|Compliance mode enabled, was '5.34.2'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|ytmusicapi|1.7.2|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
+|ytmusicapi|1.7.2|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.6.1|app-devices|Compliance mode enabled, was '2.6.1'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
