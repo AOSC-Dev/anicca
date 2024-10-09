@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728434427?label=Updated)
+![Relative date](https://img.shields.io/date/1728440187?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -272,7 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |composer|2.7.7|2.8.1|app-devel|Compliance mode enabled, was '2.8.1'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
-|configparser|3.7.3|3.12.7|lang-python|Compliance mode enabled, was '3.12.7'|
+|configparser|3.7.3|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
@@ -332,6 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |diff-match-patch|20200713|20230430|lang-python|Compliance mode enabled, was '20230430'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|direnv|2.34.0|2.35.0|app-utils|Compliance mode enabled, was '2.35.0'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |distlib|0.3.1|0.3.8|lang-python|Compliance mode enabled, was '0.3.8'|
@@ -603,7 +604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.148.0|lang-python|Compliance mode enabled, was '2.148.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|129.0.6668.89|129.0.6668.100|app-web|Compliance mode enabled, was '129.0.6668.100'|
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gradle|8.10.1|8.10.2|lang-java|Compliance mode enabled, was '8.10.2'|
@@ -743,7 +743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.28.0|lang-python|Compliance mode enabled, was '8.28.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
-|isodate|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
 |itinerary|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
