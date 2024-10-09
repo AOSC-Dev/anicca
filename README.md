@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728497588?label=Updated)
+![Relative date](https://img.shields.io/date/1728500910?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -964,7 +964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotes|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |knotifications|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |knotifyconfig|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
-|kodi-pvr-iptvsimple|19.2.2|22.2.0-piers|app-multimedia|Compliance mode enabled, was '22.2.0-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.2.2-piers|app-multimedia|Compliance mode enabled, was '22.2.2-Piers'|
 |koko|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kolf|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
 |kollision|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
@@ -2597,6 +2597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-regdb|2024.07.04|2024.10.07|app-network|Compliance mode enabled, was '2024.10.07'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
+|wireshark|4.4.0|4.4.1|app-network|Compliance mode enabled, was '4.4.1'|
 |wlroots|0.17.4|0.18.1|runtime-display|Compliance mode enabled, was '0.18.1'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.2-stable|runtime-cryptography|Compliance mode enabled, was '5.7.2-stable'|
