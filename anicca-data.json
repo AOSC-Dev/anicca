@@ -1785,7 +1785,6 @@
 ["nnn","4.9","5.0","app-utils",1710339782,["Compliance mode enabled, was '5.0'"]],
 ["aide","0.16.2","0.18.8","app-utils",1600710259,["Compliance mode enabled, was '0.18.8'"]],
 ["trash-cli","0.17.1.14","0.24.5.26","app-utils",1514935516,["Compliance mode enabled, was '0.24.5.26'"]],
-["nvchecker","1.5","2.15.1","app-utils",1575614168,["Compliance mode enabled, was '2.15.1'"]],
 ["tre","20161208","0.8.0","app-utils",1482382343,["Compliance mode enabled, was '0.8.0'","Possible downgrade from the current version (20161208 -> 0.8.0)"]],
 ["unshield","1.4.3","1.5.1","app-utils",1549919971,["Compliance mode enabled, was '1.5.1'"]],
 ["usb-modeswitch","2.6.0","2.6.1","app-utils",1575783674,["Compliance mode enabled, was '2.6.1'"]],
