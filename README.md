@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728508165?label=Updated)
+![Relative date](https://img.shields.io/date/1728511854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1417,7 +1417,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxgwfasmartgothic-font|1.200|1.201|desktop-fonts|Compliance mode enabled, was '1.201'|
 |lxgwneoxihei-font|1.200|1.207|desktop-fonts|Compliance mode enabled, was '1.207'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
-|lxml-html-clean|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|lxml-html-clean|0.2.2|0.3.1|lang-python|Compliance mode enabled, was '0.3.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
@@ -2484,7 +2484,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typing-extensions|4.7.1|4.12.2|lang-python|Compliance mode enabled, was '4.12.2'|
 |typos|1.24.6|1.25.0|app-utils|Compliance mode enabled, was '1.25.0'|
 |tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
-|uboot-asahi|2023.07.02<br>+3|2024.07+1|runtime-kernel|Compliance mode enabled, was '2024.07-1'|
 |uboot-tools|2022.10|2024.10|app-utils|Compliance mode enabled, was '2024.10'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
