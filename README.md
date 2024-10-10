@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728566386?label=Updated)
+![Relative date](https://img.shields.io/date/1728569517?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -59,6 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes|Compliance mode enabled, was '2024.04.0'<br>Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
+|aoscbootstrap|0.7.3|0.7.4|app-utils|Compliance mode enabled, was '0.7.4'|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apparmor|3.0.8|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
@@ -181,7 +182,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.4|app-utils|Compliance mode enabled, was '0.33.4'|
 |busybox|1.36.1|1.37.0|app-utils|Compliance mode enabled, was '1.37.0'|
-|c-ares|1.28.1|1.34.1|runtime-network|Compliance mode enabled, was '1.34.1'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
 |cachetools|3.1.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
@@ -860,7 +860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kdev-php|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kdev-python|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|kdevelop|23.08.5|24.08.1|desktop-kde|Compliance mode enabled, was '24.08.1'|
+|kdevelop|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |kdf|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
