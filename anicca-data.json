@@ -602,7 +602,7 @@
 ["gtkmm-3","3.24.6","3.24.9","desktop-gnome",1663210250,["Compliance mode enabled, was '3.24.9'"]],
 ["file-roller","3.42.0","44.3","desktop-gnome",1663210249,["Compliance mode enabled, was '44.3'"]],
 ["eog-plugins","42.1","44.1","desktop-gnome",1663210210,["Compliance mode enabled, was '44.1'"]],
-["gnome-initial-setup","42.2","47.0","desktop-gnome",1663210243,["Compliance mode enabled, was '47.0'"]],
+["gnome-initial-setup","42.2","47.1","desktop-gnome",1663210243,["Compliance mode enabled, was '47.1'"]],
 ["gsettings-desktop-schemas","42.0","47.1","desktop-gnome",1663210209,["Compliance mode enabled, was '47.1'"]],
 ["sound-juicer","3.38.0","3.40.0","desktop-gnome",1607975456,["Compliance mode enabled, was '3.40.0'"]],
 ["gsound","1.0.2","1.0.3","desktop-gnome",1446608561,["Compliance mode enabled, was '1.0.3'"]],
