@@ -1533,6 +1533,7 @@
 ["twolame","0.3.13","0.4.0","app-multimedia",1678950872,["Compliance mode enabled, was '0.4.0'"]],
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
 ["kodi-pvr-iptvsimple","19.2.2","22.2.2-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.2.2-Piers'"]],
+["lsp-plugins","1.2.17","1.2.18","app-multimedia",1727083376,["Compliance mode enabled, was '1.2.18'"]],
 ["carla","2.5.8","2.5.9","app-multimedia",1725420791,["Compliance mode enabled, was '2.5.9'"]],
 ["feeluown-qqmusic","1.0.2","1.0.5","app-multimedia",1710216003,["Compliance mode enabled, was '1.0.5'"]],
 ["qsynth","1.0.1","1.0.2","app-multimedia",1726730103,["Compliance mode enabled, was '1.0.2'"]],
