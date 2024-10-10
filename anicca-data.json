@@ -4,7 +4,7 @@
 ["easy-rsa","3.2.0","3.2.1","app-cryptography",1720958055,["Compliance mode enabled, was '3.2.1'"]],
 ["typing-extensions","4.7.1","4.12.2","lang-python",1691398008,["Compliance mode enabled, was '4.12.2'"]],
 ["traitlets","5.0.5","5.14.3","lang-python",1612335230,["Compliance mode enabled, was '5.14.3'"]],
-["pkginfo","1.5.0.1","1.11.1","lang-python",1678950872,["Compliance mode enabled, was '1.11.1'"]],
+["pkginfo","1.5.0.1","1.11.2","lang-python",1678950872,["Compliance mode enabled, was '1.11.2'"]],
 ["backcall","0.1.0","0.2.0","lang-python",1530722916,["Compliance mode enabled, was '0.2.0'"]],
 ["twisted","21.2.0","24.7.0","lang-python",1616134410,["Compliance mode enabled, was '24.7.0'"]],
 ["pycups","1.9.74","2.0.4","lang-python",1549919969,["Compliance mode enabled, was '2.0.4'"]],
