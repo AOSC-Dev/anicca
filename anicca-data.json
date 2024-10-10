@@ -1871,7 +1871,7 @@
 ["pahole","1.25","1.27","app-utils",1704260843,["Compliance mode enabled, was '1.27'"]],
 ["aide","0.16.2","0.18.8","app-utils",1600710259,["Compliance mode enabled, was '0.18.8'"]],
 ["yad","14.0","14.1","app-utils",1719122607,["Compliance mode enabled, was '14.1'"]],
-["i2c-tools","4.1","4.3","app-utils",1551380864,["Compliance mode enabled, was '4.3'"]],
+["i2c-tools","4.1","4.4","app-utils",1551380864,["Compliance mode enabled, was '4.4'"]],
 ["xscreensaver","6.08","6.09","app-utils",1710984964,["Compliance mode enabled, was '6.09'"]],
 ["cdecl","20161129","2.5","app-utils",1505855940,["Compliance mode enabled, was '2.5'","Possible downgrade from the current version (20161129 -> 2.5)"]],
 ["bleachbit","4.6.0","4.6.2","app-utils",1716734180,["Compliance mode enabled, was '4.6.2'"]],
