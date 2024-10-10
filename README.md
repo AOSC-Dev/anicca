@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728594696?label=Updated)
+![Relative date](https://img.shields.io/date/1728598249?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -191,6 +191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
 |calindori|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
+|calls|46.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |calver|2022.06.26|2022.6.26|lang-python|Compliance mode enabled, was '2022.6.26'|
 |camlp4|4.14<br>+1|5.2+1|lang-ocaml|Compliance mode enabled, was '5.2+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
@@ -482,7 +483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fractal|8.0|8|desktop-gnome|Compliance mode enabled, was '8'|
 |frameworkintegration|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
-|freeciv|2.6.5|3.1.2|app-games|Compliance mode enabled, was '3.1.2'|
+|freeciv|2.6.5|3.1.3|app-games|Compliance mode enabled, was '3.1.3'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.6.3|3.8.0|app-network|Compliance mode enabled, was '3.8.0'|
@@ -691,7 +692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |httpcore|1.0.5|1.0.6|lang-python|Compliance mode enabled, was '1.0.6'|
-|httpie|3.2.2|3.2.3|app-web|Compliance mode enabled, was '3.2.3'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
@@ -2424,7 +2424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
-|thunderbird|128.3.0esr|128.3.1|app-web|Compliance mode enabled, was '128.3.1'|
+|thunderbird|128.3.0esr|131.0.1|app-web|Compliance mode enabled, was '131.0.1'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
