@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728673606?label=Updated)
+![Relative date](https://img.shields.io/date/1728677565?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -106,6 +106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audacity|3.6.2|3.6.4|app-creativity|Compliance mode enabled, was '3.6.4'|
 |audiocd-kio|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
+|audiotube|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |audit|4.0.1|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
@@ -313,7 +314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
-|deno|1.44.1|1.46.3|lang-js|Compliance mode enabled, was '1.46.3'|
+|deno|1.44.1|2.0.0|lang-js|Compliance mode enabled, was '2.0.0'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.23.7|2.24.1|app-devel|Compliance mode enabled, was '2.24.1'|
@@ -359,6 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|22.11.1|24.07|runtime-network|Compliance mode enabled, was '24.07'|
 |dpkg|1.22.7|1.22.11|app-admin|Compliance mode enabled, was '1.22.11'|
+|dracut-ng|103|104|app-admin|Compliance mode enabled, was '104'|
 |dragon|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |drkonqi|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |drumstick|2.9.0|2.9.1|app-creativity|Compliance mode enabled, was '2.9.1'|
