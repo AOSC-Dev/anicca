@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728630695?label=Updated)
+![Relative date](https://img.shields.io/date/1728634410?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2678,18 +2678,19 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
 |yubioath-desktop|5.1.0|7.1.0|app-devices|Compliance mode enabled, was '7.1.0'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
-|z3|4.13.0|4.13.2|app-devel|Compliance mode enabled, was '4.13.2'|
+|z3|4.13.0|4.13.3|app-devel|Compliance mode enabled, was '4.13.3'|
 |zanshin|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.152.3|0.155.2|app-editors|Compliance mode enabled, was '0.155.2'|
+|zed|0.152.3|0.156.1|app-editors|Compliance mode enabled, was '0.156.1'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.135.0|lang-python|Compliance mode enabled, was '0.135.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib-static|1.2.12|1.3.1|runtime-common|Compliance mode enabled, was '1.3.1'|
+|zmusic|1.1.13|1.1.14|app-games|Compliance mode enabled, was '1.1.14'|
 |znc|1.8.2|1.9.1|app-web|Compliance mode enabled, was '1.9.1'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
