@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728641544?label=Updated)
+![Relative date](https://img.shields.io/date/1728644900?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -48,7 +48,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-lib+32|1.2.5.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
 |alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
-|an-anime-game-launcher|3.10.3|3.12.1|app-games|Compliance mode enabled, was '3.12.1'|
+|an-anime-game-launcher|3.10.3|3.13.0|app-games|Compliance mode enabled, was '3.13.0'|
 |analitza|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |android-udev|20240625|20240829|runtime-devices|Compliance mode enabled, was '20240829'|
 |angelfish|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -431,7 +431,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-libthai|5.1.3|5.1.4|app-i18n|Compliance mode enabled, was '5.1.4'|
 |fcitx5-m17n|5.1.1|5.1.2|app-i18n|Compliance mode enabled, was '5.1.2'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.30.5544.102|app-i18n|Compliance mode enabled, was '2.30.5544.102'|
-|fcitx5-pinyin-moegirl|20241009|20240909|app-i18n|Compliance mode enabled, was '20240909'<br>Possible downgrade from the current version (20241009 -> 20240909)|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcitx5-qt|5.1.6|5.1.7|app-i18n|Compliance mode enabled, was '5.1.7'|
 |fcitx5-rime|5.1.8|5.1.9|app-i18n|Compliance mode enabled, was '5.1.9'|
@@ -1529,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20241006|runtime-common|Compliance mode enabled, was '6.5-20241006'|
 |ncurses+32|6.4|6.5+20241006|runtime-optenv32|Compliance mode enabled, was '6.5-20241006'|
-|ndctl|72|79|app-admin|Compliance mode enabled, was '79'|
+|ndctl|72|80|app-admin|Compliance mode enabled, was '80'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
