@@ -651,6 +651,7 @@
 ["atkmm","2.28.0","2.36.3","desktop-gnome",1631428417,["Compliance mode enabled, was '2.36.3'"]],
 ["gnome-themes-standard","3.27.90","3.28","desktop-gnome",1521217900,["Compliance mode enabled, was '3.28'"]],
 ["sysprof","3.44.0","47.0","desktop-gnome",1663210241,["Compliance mode enabled, was '47.0'"]],
+["tracker","3.7.3","3.8.0","desktop-gnome",1721223235,["Compliance mode enabled, was '3.8.0'"]],
 ["deja-dup","42.9","47.0","desktop-gnome",1663210249,["Compliance mode enabled, was '47.0'"]],
 ["gtkmm-4","4.14.0","4.16.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.16.0'"]],
 ["gnome-disk-utility","42.0","46.1","desktop-gnome",1663210243,["Compliance mode enabled, was '46.1'"]],
