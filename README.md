@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728620056?label=Updated)
+![Relative date](https://img.shields.io/date/1728623444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2356,6 +2356,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|0.23.0|2024.1009.170759|app-multimedia|Compliance mode enabled, was '2024.1009.170759'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
+|sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |sweeper|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -2534,6 +2535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
+|vim|9.1.0764|9.1.0774|app-editors|Compliance mode enabled, was '9.1.0774'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualenv|20.25.0|20.26.6|lang-python|Compliance mode enabled, was '20.26.6'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
@@ -2542,26 +2544,28 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
 |vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
-|volk-meta-loader|1.3.283.0|1.3.295|runtime-display|Compliance mode enabled, was '1.3.295'|
-|volk-meta-loader+32|1.3.283.0|1.3.295|runtime-optenv32|Compliance mode enabled, was '1.3.295'|
+|volk-meta-loader|1.3.283.0|1.3.296.0|runtime-display|Compliance mode enabled, was '1.3.296.0'|
+|volk-meta-loader+32|1.3.283.0|1.3.296.0|runtime-optenv32|Compliance mode enabled, was '1.3.296.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vscode|1.94.1|1.94.2|app-editors|Compliance mode enabled, was '1.94.2'|
+|vscodium|1.94.1.24283|1.94.2.24284|app-editors|Compliance mode enabled, was '1.94.2.24284'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.0|runtime-desktop|Compliance mode enabled, was '0.78.0'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
-|vulkan-extensionlayer|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-extensionlayer|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
 |vulkan-headers|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
 |vulkan-headers+32|1.3.283.0|1.3.297|runtime-optenv32|Compliance mode enabled, was '1.3.297'|
-|vulkan-loader|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
-|vulkan-loader+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
+|vulkan-loader|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
+|vulkan-loader+32|1.3.283.0|1.3.297|runtime-optenv32|Compliance mode enabled, was '1.3.297'|
 |vulkan-tools|1.3.283.0|1.3.296|app-utils|Compliance mode enabled, was '1.3.296'|
 |vulkan-tools+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
 |vulkan-utility-libraries|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
-|vulkan-validationlayers|1.3.283.0|1.3.296|runtime-display|Compliance mode enabled, was '1.3.296'|
+|vulkan-validationlayers|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
-|watchman|4.9.0|2024.09.30.00|app-utils|Compliance mode enabled, was '2024.09.30.00'|
+|watchman|4.9.0|2024.10.07.00|app-utils|Compliance mode enabled, was '2024.10.07.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
