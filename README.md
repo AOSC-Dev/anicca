@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728670362?label=Updated)
+![Relative date](https://img.shields.io/date/1728673606?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -84,7 +84,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.35|app-devel|Compliance mode enabled, was '6.0.35'|
-|aspnetcore-runtime-8.0|8.0.8|8.0.10|app-devel|Compliance mode enabled, was '8.0.10'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.35|app-devel|Compliance mode enabled, was '6.0.35'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
 |ast-grep|0.26.1|0.28.0|app-devel|Compliance mode enabled, was '0.28.0'|
@@ -107,7 +106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audacity|3.6.2|3.6.4|app-creativity|Compliance mode enabled, was '3.6.4'|
 |audiocd-kio|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
-|audiotube|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |audit|4.0.1|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
@@ -345,17 +343,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-plugins|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
-|dotnet-host|8.0.8|8.0.10|lang-dotnet|Compliance mode enabled, was '8.0.10'|
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
 |dotnet-hostfxr-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-runtime-2.1|2.1.21|2.1.30|lang-dotnet|Compliance mode enabled, was '2.1.30'|
 |dotnet-runtime-3.1|3.1.11|3.1.32|lang-dotnet|Compliance mode enabled, was '3.1.32'|
 |dotnet-runtime-5.0|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
 |dotnet-runtime-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
-|dotnet-runtime-8.0|8.0.8|8.0.10|lang-dotnet|Compliance mode enabled, was '8.0.10'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-sdk-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
-|dotnet-sdk-8.0|8.0.401|8.0.403|app-devel|Compliance mode enabled, was '8.0.403'|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-templates-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
