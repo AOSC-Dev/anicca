@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728677565?label=Updated)
+![Relative date](https://img.shields.io/date/1728681704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -159,8 +159,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.38|lang-python|Compliance mode enabled, was '1.35.38'|
-|botocore|1.34.133|1.35.38|lang-python|Compliance mode enabled, was '1.35.38'|
+|boto3|1.20.26|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
+|botocore|1.34.133|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
 |bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1645,7 +1645,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
 |openssl-1.1|1.1.1w|3.3.2|runtime-cryptography|Compliance mode enabled, was '3.3.2'|
-|openssl-1.1+32|1.1.1q|3.3.2|runtime-optenv32|Compliance mode enabled, was '3.3.2'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvpn|2.5.4|2.6.12|app-network|Compliance mode enabled, was '2.6.12'|
