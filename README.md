@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728659453?label=Updated)
+![Relative date](https://img.shields.io/date/1728663203?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -251,15 +251,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|1.84|2.02|app-utils|Compliance mode enabled, was '2.02'|
 |cloud-init|24.2|24.3.1|app-admin|Compliance mode enabled, was '24.3.1'|
-|cloudflared|2024.8.3|2024.9.1|app-network|Compliance mode enabled, was '2024.9.1'|
+|cloudflared|2024.8.3|2024.10.0|app-network|Compliance mode enabled, was '2024.10.0'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |cmake|3.30.4|3.30.5|app-devel|Compliance mode enabled, was '3.30.5'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|325|app-admin|Compliance mode enabled, was '325'|
-|cockpit-machines|284.1|320|app-admin|Compliance mode enabled, was '320'|
-|cockpit-podman|63|95|app-admin|Compliance mode enabled, was '95'|
+|cockpit|286.1|326|app-admin|Compliance mode enabled, was '326'|
+|cockpit-machines|284.1|321|app-admin|Compliance mode enabled, was '321'|
+|cockpit-podman|63|96|app-admin|Compliance mode enabled, was '96'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
@@ -552,7 +552,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|15.0.0|app-imaging|Compliance mode enabled, was '15.0.0'|
 |glslang+32|7.11.3214|15.0.0|runtime-optenv32|Compliance mode enabled, was '15.0.0'|
 |glu+32|9.0.1|9.0.3|runtime-optenv32|Compliance mode enabled, was '9.0.3'|
-|gmic|3.2.6|3.4.2|runtime-imaging|Compliance mode enabled, was '3.4.2'|
+|gmic|3.2.6|3.4.3|runtime-imaging|Compliance mode enabled, was '3.4.3'|
 |gmime-3|3.2.7|3.2.15|desktop-gnome|Compliance mode enabled, was '3.2.15'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
@@ -1995,13 +1995,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.9.2|lang-python|Compliance mode enabled, was '2.9.2'|
-|pydantic-core|2.16.1|2.24.0|lang-python|Compliance mode enabled, was '2.24.0'|
+|pydantic-core|2.16.1|2.24.1|lang-python|Compliance mode enabled, was '2.24.1'|
 |pydot|1.4.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygccxml|2.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
-|pygit2|1.14.1|1.15.1|lang-python|Compliance mode enabled, was '1.15.1'|
+|pygit2|1.14.1|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
 |pyglet|1.3.2|2.0.18|lang-python|Compliance mode enabled, was '2.0.18'|
 |pygobject-3|3.48.2|3.50.0|lang-python|Compliance mode enabled, was '3.50.0'|
 |pygraphviz|1.5|1.14|lang-python|Compliance mode enabled, was '1.14'|
