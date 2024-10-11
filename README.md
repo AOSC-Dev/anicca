@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728648995?label=Updated)
+![Relative date](https://img.shields.io/date/1728652635?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -131,7 +131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
 |baobab|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
-|bcachefs-tools|1.9.4|1.11.0|app-admin|Compliance mode enabled, was '1.11.0'|
+|bcachefs-tools|1.9.4|1.13.0|app-admin|Compliance mode enabled, was '1.13.0'|
 |bcc|0.30.0|0.31.0|app-devel|Compliance mode enabled, was '0.31.0'|
 |bcftools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |bcrypt|4.1.3|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
@@ -141,7 +141,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
-|binsider|0.2.1|0.2.0|app-devel|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |binutils|2.43|2.43.1|app-devel|Compliance mode enabled, was '2.43.1'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
