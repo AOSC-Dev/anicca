@@ -1385,7 +1385,7 @@
 ["htslib","1.20","1.21","app-scientific",1536806976,["Compliance mode enabled, was '1.21'"]],
 ["polymake","3.3","4.13","app-scientific",1551335260,["Compliance mode enabled, was '4.13'"]],
 ["r","4.4.0","4.4.1","app-scientific",1721223235,["Compliance mode enabled, was '4.4.1'"]],
-["jmol","14.30.0","16.2.35","app-scientific",1575784109,["Compliance mode enabled, was '16.2.35'"]],
+["jmol","14.30.0","16.2.37","app-scientific",1575784109,["Compliance mode enabled, was '16.2.37'"]],
 ["pari","2.13.1","2.17.0","app-scientific",1614161813,["Compliance mode enabled, was '2.17.0'"]],
 ["ncbi-blast+","2.13.0","2.16.0+","app-scientific",1555643138,["Compliance mode enabled, was '2.16.0+'"]],
 ["stellarsolver","2.5","2.6","app-scientific",1706625158,["Compliance mode enabled, was '2.6'"]],
