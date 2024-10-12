@@ -1346,6 +1346,7 @@
 ["perl-data-optlist","0.110","0.114","lang-perl",1678950872,["Compliance mode enabled, was '0.114'"]],
 ["perl-gtk2","1.2499","1.24993","lang-perl",1475814244,["Compliance mode enabled, was '1.24993'"]],
 ["perl-crypt-ssleay","0.73+06","0.72","lang-perl",1530196415,["Compliance mode enabled, was '0.72'","Possible downgrade from the current version (0.73+06 -> 0.72)"]],
+["perl-namespace-autoclean","0.29","0.31","lang-perl",1596485704,["Compliance mode enabled, was '0.31'"]],
 ["perl-http-message","6.11","7.00","lang-perl",1678950872,["Compliance mode enabled, was '7.00'"]],
 ["perl-datetime","1.52","1.65","lang-perl",1596485703,["Compliance mode enabled, was '1.65'"]],
 ["perl-extutils-installpaths","0.012","0.014","lang-perl",1678950872,["Compliance mode enabled, was '0.014'"]],
