@@ -2635,6 +2635,7 @@
 ["fonttools","4.53.1","4.54.1","desktop-fonts",1722203529,["Compliance mode enabled, was '4.54.1'"]],
 ["open-huninn-font","2.0","2.1","desktop-fonts",1706083317,["Compliance mode enabled, was '2.1'"]],
 ["lxgwfasmartgothic-font","1.200","1.201","desktop-fonts",1724894694,["Compliance mode enabled, was '1.201'"]],
+["lxgwwenkai-font","1.500","1.501","desktop-fonts",1728365548,["Compliance mode enabled, was '1.501'"]],
 ["ttf-vlgothic","20200720","20220612","desktop-fonts",1629606314,["Compliance mode enabled, was '20220612'"]],
 ["un-fonts","1.0.2","1.0.2+080608","desktop-fonts",1678950872,["Compliance mode enabled, was '1.0.2-080608'"]],
 ["adobe-source-code-pro","2.042","2.042-u/1.062-i/1.026-vf","desktop-fonts",1706083317,["Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'","Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)"]],
