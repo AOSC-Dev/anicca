@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728735291?label=Updated)
+![Relative date](https://img.shields.io/date/1728738943?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |boto3|1.20.26|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
 |botocore|1.34.133|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
-|bottle|0.12.18|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
+|bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
 |bovo|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
