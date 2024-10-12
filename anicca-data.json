@@ -708,7 +708,7 @@
 ["libx86emu","3.1","3.5","runtime-common",1596440558,["Compliance mode enabled, was '3.5'"]],
 ["log4cpp","1.1.3","1.1.4","runtime-common",1614161775,["Compliance mode enabled, was '1.1.4'"]],
 ["libx86","1.1","3.5","runtime-common",1689323111,["Compliance mode enabled, was '3.5'"]],
-["libuv","1.48.0","1.49.0","runtime-common",1708762981,["Compliance mode enabled, was '1.49.0'"]],
+["libuv","1.48.0","1.49.1","runtime-common",1708762981,["Compliance mode enabled, was '1.49.1'"]],
 ["cpp-utilities","5.20.0","5.26.1","runtime-common",1678601022,["Compliance mode enabled, was '5.26.1'"]],
 ["cppdap","1.58.0+a","1.58.0-a","runtime-common",1707464829,["Compliance mode enabled, was '1.58.0-a'"]],
 ["libblkio","1.3.0","1.5.0","runtime-common",1693486148,["Compliance mode enabled, was '1.5.0'"]],
