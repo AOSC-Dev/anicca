@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728767112?label=Updated)
+![Relative date](https://img.shields.io/date/1728770832?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -696,7 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.114.1|lang-python|Compliance mode enabled, was '6.114.1'|
+|hypothesis-python|6.97.4|6.115.0|lang-python|Compliance mode enabled, was '6.115.0'|
 |hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -2184,7 +2184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rust-bindgen|0.69.4|0.70.1|lang-rust|Compliance mode enabled, was '0.70.1'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
-|rygel|0.40.4|0.44.0|desktop-gnome|Compliance mode enabled, was '0.44.0'|
+|rygel|0.40.4|0.44.1|desktop-gnome|Compliance mode enabled, was '0.44.1'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.3|lang-python|Compliance mode enabled, was '0.10.3'|
