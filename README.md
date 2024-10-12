@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728749452?label=Updated)
+![Relative date](https://img.shields.io/date/1728752816?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -558,7 +558,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-builder|42.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-calculator|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-calendar|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-characters|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-chess|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-clocks|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-contacts|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -2558,6 +2557,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
+|wayland-protocols|1.37|1.38|app-devel|Compliance mode enabled, was '1.38'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
@@ -2586,6 +2586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wpebackend-fdo|1.12.1|1.14.3|runtime-web|Compliance mode enabled, was '1.14.3'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
+|wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
 |wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |wtforms|2.2.1|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |wxgtk-3+32|3.0.4|3.2.6|runtime-optenv32|Compliance mode enabled, was '3.2.6'|
