@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728688196?label=Updated)
+![Relative date](https://img.shields.io/date/1728693574?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1552,7 +1552,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-qt|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |networkmanager-strongswan|1.5.2|1.6.0|app-network|Compliance mode enabled, was '1.6.0'|
 |networkmanager-vpnc|1.2.6|1.2.8|app-network|Compliance mode enabled, was '1.2.8'|
-|networkx|2.8.5|3.4|lang-python|Compliance mode enabled, was '3.4'|
+|networkx|2.8.5|3.4.1|lang-python|Compliance mode enabled, was '3.4.1'|
 |newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
 |newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
 |nfs-utils|2.6.2|2.7.1|app-utils|Compliance mode enabled, was '2.7.1'|
@@ -2318,7 +2318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
-|squid|5.7|6.11|app-web|Compliance mode enabled, was '6.11'|
+|squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
 |sra-tools|3.0.3|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |sratom|0.6.4|0.6.16|runtime-common|Compliance mode enabled, was '0.6.16'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
@@ -2438,6 +2438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqdm|4.62.3|4.66.5|lang-python|Compliance mode enabled, was '4.66.5'|
+|trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
 |tracker|3.7.3|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |tracker-miners|3.3.1|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
