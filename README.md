@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728720705?label=Updated)
+![Relative date](https://img.shields.io/date/1728724303?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1023,7 +1023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubrick|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kunitconversion|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kvantum|1.0.10|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
-|kvirc|5.0.0|5.2.4|app-web|Compliance mode enabled, was '5.2.4'|
+|kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kwallet|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kwallet-pam|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |kwalletmanager|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -1053,7 +1053,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.38.0|1.39.0|lang-dlang|Compliance mode enabled, was '1.39.0'|
 |ldns|1.8.3|1.8.4|runtime-network|Compliance mode enabled, was '1.8.4'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
-|level-zero|1.17.42|1.17.45|runtime-common|Compliance mode enabled, was '1.17.45'|
+|level-zero|1.17.42|1.18.2|runtime-common|Compliance mode enabled, was '1.18.2'|
 |levenshtein|0.12.0|0.26.0|lang-python|Compliance mode enabled, was '0.26.0'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
