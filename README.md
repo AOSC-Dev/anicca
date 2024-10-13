@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728807143?label=Updated)
+![Relative date](https://img.shields.io/date/1728810630?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1880,7 +1880,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|picom|12.1|12.2|desktop-wm|Compliance mode enabled, was '12.2'|
 |pikepdf|8.15.1|9.3.0|app-doc|Compliance mode enabled, was '9.3.0'|
 |pim-data-exporter|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |pim-sieve-editor|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2285,7 +2284,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.4|app-web|Compliance mode enabled, was '1.0.4'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
-|spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdx-licenses|3.24.0|3.25.0|runtime-data|Compliance mode enabled, was '3.25.0'|
 |spectacle|22.12.3|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2560,7 +2558,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
-|wayland-protocols|1.37|1.38|app-devel|Compliance mode enabled, was '1.38'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
