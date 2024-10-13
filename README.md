@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728839124?label=Updated)
+![Relative date](https://img.shields.io/date/1728843214?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.20.26|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
 |botocore|1.34.133|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
-|bottles|2022.2.28<br>+trento<br>+4|51.13|app-utils|Compliance mode enabled, was '51.13'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.13)|
+|bottles|2022.2.28<br>+trento<br>+4|51.14|app-utils|Compliance mode enabled, was '51.14'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.14)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
 |bovo|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |bpftrace|0.21.1|0.21.2|app-admin|Compliance mode enabled, was '0.21.2'|
@@ -842,7 +842,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdenetwork-filesharing|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kdenlive|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kdepim-addons|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|kdepim-runtime|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kdeplasma-addons|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |kdesignerplugin|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kdesu|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
