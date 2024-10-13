@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728800077?label=Updated)
+![Relative date](https://img.shields.io/date/1728803400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -328,6 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
+|distrobox|1.7.2.1|1.8.0|app-utils|Compliance mode enabled, was '1.8.0'|
 |django|5.0.3|5.1.2|lang-python|Compliance mode enabled, was '5.1.2'|
 |dkms|3.0.13|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
@@ -2431,7 +2432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomli|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |tomli-w|1.0.0|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |tomlkit|0.7.0|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
-|topgrade|11.0.2|16.0.0|app-admin|Compliance mode enabled, was '16.0.0'|
+|topgrade|11.0.2|16.0.1|app-admin|Compliance mode enabled, was '16.0.1'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |totem|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
