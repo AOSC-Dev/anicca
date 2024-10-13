@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728814219?label=Updated)
+![Relative date](https://img.shields.io/date/1728817533?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1542,6 +1542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nethogs|0.8.7|0.8.8|app-network|Compliance mode enabled, was '0.8.8'|
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |netpbm|10.73.34|11.08.00|app-utils|Compliance mode enabled, was '11.08.00'|
+|netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
 |networkmanager|1.40.6|1.50.0|app-network|Compliance mode enabled, was '1.50.0'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
@@ -2015,7 +2016,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopengl|3.1.5|3.1.7|lang-python|Compliance mode enabled, was '3.1.7'|
 |pyopenssl|23.1.1|24.2.1|lang-python|Compliance mode enabled, was '24.2.1'|
 |pyotherside|1.5.9|1.6.1|lang-python|Compliance mode enabled, was '1.6.1'|
-|pyparsing|2.4.7|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
+|pyparsing|2.4.7|3.2.0|lang-python|Compliance mode enabled, was '3.2.0'|
 |pyparted|3.11.6|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
 |pypdf|4.0.1|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
 |pypdf2|1.26.0|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
@@ -2055,6 +2056,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
 |python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |python-lz4|2.1.6|4.3.3|lang-python|Compliance mode enabled, was '4.3.3'|
+|python-markdown-math|0.6|0.8|lang-python|Compliance mode enabled, was '0.8'|
 |python-msgpack|1.0.2|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-openid|2.2.5|3.2|lang-python|Compliance mode enabled, was '3.2'|
