@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728810630?label=Updated)
+![Relative date](https://img.shields.io/date/1728814219?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1061,6 +1061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
 |libarchive|3.7.4|3.7.6|runtime-common|Compliance mode enabled, was '3.7.6'|
+|libasr|1.0.4|7.6.0p0|runtime-network|Compliance mode enabled, was '7.6.0p0'|
 |libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
 |libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
 |libassuan|2.5.3|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
@@ -1541,7 +1542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nethogs|0.8.7|0.8.8|app-network|Compliance mode enabled, was '0.8.8'|
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |netpbm|10.73.34|11.08.00|app-utils|Compliance mode enabled, was '11.08.00'|
-|netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
 |networkmanager|1.40.6|1.50.0|app-network|Compliance mode enabled, was '1.50.0'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
@@ -2055,7 +2055,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
 |python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |python-lz4|2.1.6|4.3.3|lang-python|Compliance mode enabled, was '4.3.3'|
-|python-markdown-math|0.6|0.8|lang-python|Compliance mode enabled, was '0.8'|
 |python-msgpack|1.0.2|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-openid|2.2.5|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -2284,6 +2283,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.4|app-web|Compliance mode enabled, was '1.0.4'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
+|spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdx-licenses|3.24.0|3.25.0|runtime-data|Compliance mode enabled, was '3.25.0'|
 |spectacle|22.12.3|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2526,7 +2526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.0|desktop-wm|Compliance mode enabled, was '2.7.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0764|9.1.0774|app-editors|Compliance mode enabled, was '9.1.0774'|
+|vim|9.1.0764|9.1.0777|app-editors|Compliance mode enabled, was '9.1.0777'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualenv|20.25.0|20.26.6|lang-python|Compliance mode enabled, was '20.26.6'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
@@ -2539,18 +2539,19 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.296.0|runtime-optenv32|Compliance mode enabled, was '1.3.296.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vscodium|1.94.2.24284|1.94.2.24286|app-editors|Compliance mode enabled, was '1.94.2.24286'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.0|runtime-desktop|Compliance mode enabled, was '0.78.0'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
-|vulkan-extensionlayer|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
-|vulkan-headers|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
-|vulkan-headers+32|1.3.283.0|1.3.297|runtime-optenv32|Compliance mode enabled, was '1.3.297'|
-|vulkan-loader|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
-|vulkan-loader+32|1.3.283.0|1.3.297|runtime-optenv32|Compliance mode enabled, was '1.3.297'|
+|vulkan-extensionlayer|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
+|vulkan-headers|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
+|vulkan-headers+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
+|vulkan-loader|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
+|vulkan-loader+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools|1.3.283.0|1.3.296|app-utils|Compliance mode enabled, was '1.3.296'|
 |vulkan-tools+32|1.3.283.0|1.3.296|runtime-optenv32|Compliance mode enabled, was '1.3.296'|
-|vulkan-utility-libraries|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
-|vulkan-validationlayers|1.3.283.0|1.3.297|runtime-display|Compliance mode enabled, was '1.3.297'|
+|vulkan-utility-libraries|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
+|vulkan-validationlayers|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
