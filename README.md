@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728774607?label=Updated)
+![Relative date](https://img.shields.io/date/1728780118?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2622,7 +2622,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display|Compliance mode enabled, was '1.2.2'|
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
-|xf86-video-r128|6.12.1|6.9.7|runtime-display|Compliance mode enabled, was '6.9.7'<br>Possible downgrade from the current version (6.12.1 -> 6.9.7)|
+|xf86-video-mach64|6.9.7|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'|
+|xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfburn|0.7.0|0.7.2|desktop-xfce|Compliance mode enabled, was '0.7.2'|
 |xfce4-notifyd|0.9.4|0.9.6|desktop-xfce|Compliance mode enabled, was '0.9.6'|
 |xfce4-screenshooter|1.10.6|1.11.1|desktop-xfce|Compliance mode enabled, was '1.11.1'|
