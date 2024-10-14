@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728900701?label=Updated)
+![Relative date](https://img.shields.io/date/1728904339?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -665,7 +665,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.5|runtime-scientific|Compliance mode enabled, was '1.14.5'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
-|helm|3.15.4|3.16.2|app-containers|Compliance mode enabled, was '3.16.2'|
+|helm|3.16.1|3.16.2|app-containers|Compliance mode enabled, was '3.16.2'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
@@ -1439,7 +1439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |matplotlib|3.8.0|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
 |matplotlib-inline|0.1.7|8.28.0|lang-python|Compliance mode enabled, was '8.28.0'|
 |maturin|1.7.0|1.7.4|lang-python|Compliance mode enabled, was '1.7.4'|
-|mawk|1.3.4<br>+20190203|1.3.4+20240905|app-utils|Compliance mode enabled, was '1.3.4-20240905'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
 |mbedtls+32|2.16.7|3.6.1|runtime-optenv32|Compliance mode enabled, was '3.6.1'|
@@ -2442,7 +2441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker|3.7.3|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |tracker-miners|3.3.1|3.8.0|desktop-gnome|Compliance mode enabled, was '3.8.0'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
-|translate-toolkit|2.3.1|3.13.5|lang-python|Compliance mode enabled, was '3.13.5'|
+|translate-toolkit|2.3.1|3.14.0|lang-python|Compliance mode enabled, was '3.14.0'|
 |transmission|4.0.5|4.0.6|app-web|Compliance mode enabled, was '4.0.6'|
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
@@ -2507,7 +2506,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
 |util-linux+32|2.29.2|2.40.2|runtime-optenv32|Compliance mode enabled, was '2.40.2'|
 |util-macros+32|999|1.20.1|runtime-optenv32|Compliance mode enabled, was '1.20.1'<br>Possible downgrade from the current version (999 -> 1.20.1)|
-|v2ray|5.19.0|5.20.0|app-network|Compliance mode enabled, was '5.20.0'|
 |v2raya|2.2.5.8|2.2.6|app-network|Compliance mode enabled, was '2.2.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
