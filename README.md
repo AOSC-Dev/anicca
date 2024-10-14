@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728889888?label=Updated)
+![Relative date](https://img.shields.io/date/1728893648?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -264,6 +264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |composer|2.7.7|2.8.1|app-devel|Compliance mode enabled, was '2.8.1'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
+|configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
@@ -720,6 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
 |igsc|0.9.3|0.9.4|runtime-devices|Compliance mode enabled, was '0.9.4'|
+|imagemagick|6.9.13<br>+16|6.9.13+17|app-utils|Compliance mode enabled, was '6.9.13-17'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+39|app-utils|Compliance mode enabled, was '7.1.1-39'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
@@ -733,6 +735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |inkscape|1.3.2|1.4|app-creativity|Compliance mode enabled, was '1_4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
+|iosevka-fonts|31.8.0|31.9.0|desktop-fonts|Compliance mode enabled, was '31.9.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
