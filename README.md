@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728932744?label=Updated)
+![Relative date](https://img.shields.io/date/1728936825?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -158,8 +158,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|boto3|1.20.26|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
-|botocore|1.34.133|1.35.39|lang-python|Compliance mode enabled, was '1.35.39'|
+|boto3|1.20.26|1.35.40|lang-python|Compliance mode enabled, was '1.35.40'|
+|botocore|1.34.133|1.35.40|lang-python|Compliance mode enabled, was '1.35.40'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.14|app-utils|Compliance mode enabled, was '51.14'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.14)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -2619,7 +2619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal-kde|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |xdg-user-dirs|0.17|0.18|app-admin|Compliance mode enabled, was '0.18'|
 |xdg-utils|1.1.3|1.2.1|app-utils|Compliance mode enabled, was '1.2.1'|
-|xerces-c|3.2.3|3.2.5|runtime-common|Compliance mode enabled, was '3.2.5'|
+|xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-wacom|1.2.0|1.2.2|runtime-display|Compliance mode enabled, was '1.2.2'|
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
