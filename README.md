@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728904339?label=Updated)
+![Relative date](https://img.shields.io/date/1728908326?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1060,6 +1060,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libadwaita|1.5.0|1.6.1|desktop-gnome|Compliance mode enabled, was '1.6.1'|
 |libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
+|libarchive|3.7.6|3.7.7|runtime-common|Compliance mode enabled, was '3.7.7'|
 |libasr|1.0.4|7.6.0p0|runtime-network|Compliance mode enabled, was '7.6.0p0'|
 |libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
 |libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
@@ -1435,7 +1436,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-notification-daemon|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-panel|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |materialx|1.38.8|1.39.1|runtime-creativity|Compliance mode enabled, was '1.39.1'|
-|mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
 |matplotlib-inline|0.1.7|8.28.0|lang-python|Compliance mode enabled, was '8.28.0'|
 |maturin|1.7.0|1.7.4|lang-python|Compliance mode enabled, was '1.7.4'|
@@ -2187,7 +2187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.3|lang-python|Compliance mode enabled, was '0.10.3'|
-|samba|4.17.2|4.21.0|app-network|Compliance mode enabled, was '4.21.0'|
+|samba|4.17.2|4.21.1|app-network|Compliance mode enabled, was '4.21.1'|
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.4|app-admin|Compliance mode enabled, was '3.9.4'|
