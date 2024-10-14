@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728912028?label=Updated)
+![Relative date](https://img.shields.io/date/1728915160?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -349,8 +349,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-sdk-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
-|dotnet-targeting-pack-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
-|dotnet-templates-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
@@ -1153,6 +1151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
 |libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
+|libjcat|0.2.1|0.2.2|runtime-common|Compliance mode enabled, was '0.2.2'|
 |libjpeg-turbo|3.0.3|3.0.4|runtime-imaging|Compliance mode enabled, was '3.0.4'|
 |libjpeg-turbo+32|2.0.5|3.0.4|runtime-optenv32|Compliance mode enabled, was '3.0.4'|
 |libjxl|0.10.2|0.11.0|runtime-imaging|Compliance mode enabled, was '0.11.0'|
@@ -1236,9 +1235,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |libqalculate|4.5.1|5.3.0|runtime-scientific|Compliance mode enabled, was '5.3.0'|
-|libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
-|libqtxdg|3.6.0|4.0.0|runtime-desktop|Compliance mode enabled, was '4.0.0'|
+|libqtxdg|3.6.0|4.0.1|runtime-desktop|Compliance mode enabled, was '4.0.1'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
 |libreoffice|24.2.3.2|24.8.2.1|groups|Compliance mode enabled, was '24.8.2.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
@@ -1471,6 +1469,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |mitmproxy|7.0.4|11.0.0|app-network|Compliance mode enabled, was '11.0.0'|
+|mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|86.0|87.0|app-multimedia|Compliance mode enabled, was '87.0'|
 |mlt|7.26.0|7.28.0|runtime-multimedia|Compliance mode enabled, was '7.28.0'|
