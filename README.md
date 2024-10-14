@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728915160?label=Updated)
+![Relative date](https://img.shields.io/date/1728918756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -349,6 +349,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-sdk-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
+|dotnet-targeting-pack-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
+|dotnet-templates-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
@@ -1235,6 +1237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |libqalculate|4.5.1|5.3.0|runtime-scientific|Compliance mode enabled, was '5.3.0'|
+|libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
 |libqtxdg|3.6.0|4.0.1|runtime-desktop|Compliance mode enabled, was '4.0.1'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
@@ -1337,7 +1340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.13.4|runtime-common|Compliance mode enabled, was '2.13.4'|
 |libxml2+32|2.10.4|2.13.4|runtime-optenv32|Compliance mode enabled, was '2.13.4'|
-|libxmlb|0.3.15|0.3.19|runtime-common|Compliance mode enabled, was '0.3.19'|
+|libxmlb|0.3.15|0.3.20|runtime-common|Compliance mode enabled, was '0.3.20'|
 |libxnvctrl|545.23.06|550.54.14|runtime-display|Compliance mode enabled, was '550.54.14'|
 |libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32|Compliance mode enabled, was '550.54.14'|
 |libxslt|1.1.34|1.1.42|runtime-common|Compliance mode enabled, was '1.1.42'|
