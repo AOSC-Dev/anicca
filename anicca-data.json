@@ -2680,7 +2680,7 @@
 ["certbot-apache","2.10.0","2.11.0","app-web",1716728517,["Compliance mode enabled, was '2.11.0'"]],
 ["qownnotes","22.6.1","24.10.1","app-web",1659588927,["Compliance mode enabled, was '24.10.1'"]],
 ["znc","1.8.2","1.9.1","app-web",1721223235,["Compliance mode enabled, was '1.9.1'"]],
-["chinadns-ng","2024.07.16","2024.09.08","app-web",1721316608,["Compliance mode enabled, was '2024.09.08'"]],
+["chinadns-ng","2024.07.16","2024.10.14","app-web",1721316608,["Compliance mode enabled, was '2024.10.14'"]],
 ["midori","9.0","11.4","app-web",1569636491,["Compliance mode enabled, was '11.4'"]],
 ["thunderbird","128.3.0esr","131.0.1","app-web",1728532064,["Compliance mode enabled, was '131.0.1'"]],
 ["neomutt","20200619","20241002","app-web",1595109147,["Compliance mode enabled, was '20241002'"]],
