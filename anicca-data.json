@@ -646,7 +646,7 @@
 ["gnome-packagekit","3.32.0","43.0","desktop-gnome",1571163275,["Compliance mode enabled, was '43.0'"]],
 ["alacarte","3.52.0","3.54.0","desktop-gnome",1718640809,["Compliance mode enabled, was '3.54.0'"]],
 ["gnome-backgrounds","42.0","47.0","desktop-gnome",1663210242,["Compliance mode enabled, was '47.0'"]],
-["epiphany","42.4","47.0","desktop-gnome",1663210210,["Compliance mode enabled, was '47.0'"]],
+["epiphany","42.4","47.1","desktop-gnome",1663210210,["Compliance mode enabled, was '47.1'"]],
 ["xdg-desktop-portal-gnome","42.3","47.1","desktop-gnome",1663210251,["Compliance mode enabled, was '47.1'"]],
 ["gspell","1.11.1","1.14.0","desktop-gnome",1721223235,["Compliance mode enabled, was '1.14.0'"]],
 ["gnote","42.1","47.0","desktop-gnome",1663210250,["Compliance mode enabled, was '47.0'"]],
