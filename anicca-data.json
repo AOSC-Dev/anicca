@@ -115,6 +115,7 @@
 ["parso","0.3.3","0.8.4","lang-python",1551160627,["Compliance mode enabled, was '0.8.4'"]],
 ["munkres","1.0.12","release-1.1.4","lang-python",1551163173,["Compliance mode enabled, was 'release-1.1.4'"]],
 ["pypdf2","1.26.0","5.0.1","lang-python",1514069704,["Compliance mode enabled, was '5.0.1'"]],
+["snowballstemmer","1.2.1","2.2.0","lang-python",1678950872,["Compliance mode enabled, was '2.2.0'"]],
 ["zstandard","0.22.0","0.23.0","lang-python",1715608514,["Compliance mode enabled, was '0.23.0'"]],
 ["jellyfish","1.0.4","1.1.0","lang-python",1720584421,["Compliance mode enabled, was '1.1.0'"]],
 ["configobj","5.0.6","5.0.9","lang-python",1678950872,["Compliance mode enabled, was '5.0.9'"]],
