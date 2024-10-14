@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1728886586?label=Updated)
+![Relative date](https://img.shields.io/date/1728889888?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -264,7 +264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |composer|2.7.7|2.8.1|app-devel|Compliance mode enabled, was '2.8.1'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
-|configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
@@ -658,6 +657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gvfs|1.50.2|1.56.0|desktop-gnome|Compliance mode enabled, was '1.56.0'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|gzdoom|4.12.2|4.13.0a|app-games|Compliance mode enabled, was '4.13.0a'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.0.1|runtime-desktop|Compliance mode enabled, was '10.0.1'|
 |harfbuzz+32|2.6.7|10.0.1|runtime-optenv32|Compliance mode enabled, was '10.0.1'|
