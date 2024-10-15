@@ -1846,7 +1846,6 @@
 ["imagemagick+7","7.1.1+32","7.1.1+39","app-utils",1716621038,["Compliance mode enabled, was '7.1.1-39'"]],
 ["premake","5.0.0~beta1","4.3","app-utils",1636179461,["Compliance mode enabled, was '4.3'","Possible downgrade from the current version (5.0.0~beta1 -> 4.3)"]],
 ["mat2","0.13.0","0.13.4","app-utils",1663210240,["Compliance mode enabled, was '0.13.4'"]],
-["aoscbootstrap","0.7.4","0.7.5","app-utils",1728569554,["Compliance mode enabled, was '0.7.5'"]],
 ["minicom","2.8","2.9","app-utils",1662003335,["Compliance mode enabled, was '2.9'"]],
 ["rockbox-utility","3.15+final","3.15-final","app-utils",1601190473,["Compliance mode enabled, was '3.15-final'"]],
 ["variety","0.7.1","0.8.12","app-utils",1551388520,["Compliance mode enabled, was '0.8.12'"]],
