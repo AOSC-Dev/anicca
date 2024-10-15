@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729026599?label=Updated)
+![Relative date](https://img.shields.io/date/1729030197?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1583,7 +1583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numactl|2.0.14|2.0.18|app-admin|Compliance mode enabled, was '2.0.18'|
 |numix-icon-theme|20190917|24.09.18|desktop-themes|Compliance mode enabled, was '24.09.18'<br>Possible downgrade from the current version (20190917 -> 24.09.18)|
-|numix-icon-theme-circle|20160927|24.10.01|desktop-themes|Compliance mode enabled, was '24.10.01'<br>Possible downgrade from the current version (20160927 -> 24.10.01)|
+|numix-icon-theme-circle|20160927|24.10.13|desktop-themes|Compliance mode enabled, was '24.10.13'<br>Possible downgrade from the current version (20160927 -> 24.10.13)|
 |numpy|1.26.4|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvidia+32|0|560.35.03|runtime-optenv32|Compliance mode enabled, was '560.35.03'|
@@ -1977,7 +1977,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |puremagic|1.15|1.28|lang-python|Compliance mode enabled, was '1.28'|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compliance mode enabled, was '0.1.0'|
 |purpose|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
-|pv|1.6.20|1.8.14|app-utils|Compliance mode enabled, was '1.8.14'|
+|pv|1.6.20|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |py-filelock|3.14.0|3.16.1|lang-python|Compliance mode enabled, was '3.16.1'|
 |py-setproctitle|1.1.10|1.3.3|lang-python|Compliance mode enabled, was '1.3.3'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
