@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729001449?label=Updated)
+![Relative date](https://img.shields.io/date/1729005147?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -170,6 +170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
 |breeze-icons|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |breeze-plymouth|5.27.11|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
+|brltty|6.6|6.7|app-a11y|Compliance mode enabled, was '6.7'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -811,7 +812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcalutils|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kcharselect|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kclock|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|kcm-wacomtablet|3.2.0|6.2.0|desktop-kde|Compliance mode enabled, was '6.2.0'|
+|kcm-wacomtablet|3.2.0|6.2.1|desktop-kde|Compliance mode enabled, was '6.2.1'|
 |kcmutils|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kcodecs|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kcolorchooser|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
