@@ -468,6 +468,7 @@
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["xrdp","0.10.0","0.10.1","app-network",1715427345,["Compliance mode enabled, was '0.10.1'"]],
 ["openswan","2.6.51.5","3.0.0","app-network",1585799570,["Compliance mode enabled, was '3.0.0'"]],
+["bind","9.20.2","9.20.3","app-network",1728539276,["Compliance mode enabled, was '9.20.3'"]],
 ["krb5","1.17.1","1.21.3-final","app-network",1577021169,["Compliance mode enabled, was '1.21.3-final'"]],
 ["wireshark","4.4.0","4.4.1","app-network",1725102138,["Compliance mode enabled, was '4.4.1'"]],
 ["vnstat","2.4","2.12","app-network",1569375540,["Compliance mode enabled, was '2.12'"]],
