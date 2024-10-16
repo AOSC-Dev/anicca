@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729098500?label=Updated)
+![Relative date](https://img.shields.io/date/1729102486?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1730,7 +1730,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
 |perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
-|perl-app-cpanminus|1.7044|1.7047|lang-perl|Compliance mode enabled, was '1.7047'|
 |perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
 |perl-authen-sasl|2.1401|2.1700|lang-perl|Compliance mode enabled, was '2.1700'|
 |perl-b-hooks-endofscope|0.24|0.28|lang-perl|Compliance mode enabled, was '0.28'|
@@ -2385,7 +2384,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |taglib|1.11.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
-|taglib+32|1.11|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.3.1|runtime-multimedia|Compliance mode enabled, was '12.3.1'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
@@ -2466,7 +2464,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio|0.24.0|0.26.2|lang-python|Compliance mode enabled, was '0.26.2'|
 |trivy|0.55.0|0.56.2|app-devel|Compliance mode enabled, was '0.56.2'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
-|trove-classifiers|2024.1.31|2024.10.13|lang-python|Compliance mode enabled, was '2024.10.13'|
+|trove-classifiers|2024.1.31|2024.10.16|lang-python|Compliance mode enabled, was '2024.10.16'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
