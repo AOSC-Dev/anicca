@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729116614?label=Updated)
+![Relative date](https://img.shields.io/date/1729120228?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -701,7 +701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.115.2|lang-python|Compliance mode enabled, was '6.115.2'|
+|hypothesis-python|6.97.4|6.115.3|lang-python|Compliance mode enabled, was '6.115.3'|
 |hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -2614,8 +2614,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20240305|3193|runtime-multimedia|Compliance mode enabled, was '3193'|
-|x264+32|20160827.2245|3193|runtime-optenv32|Compliance mode enabled, was '3193'<br>Possible downgrade from the current version (20160827.2245 -> 3193)|
+|x264|0<br>+git20240305|3194|runtime-multimedia|Compliance mode enabled, was '3194'|
+|x264+32|20160827.2245|3194|runtime-optenv32|Compliance mode enabled, was '3194'<br>Possible downgrade from the current version (20160827.2245 -> 3194)|
 |x265|3.6|4.0|runtime-multimedia|Compliance mode enabled, was '4.0'|
 |x265+32|2.2|4.0|runtime-optenv32|Compliance mode enabled, was '4.0'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
