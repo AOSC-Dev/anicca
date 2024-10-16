@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729033826?label=Updated)
+![Relative date](https://img.shields.io/date/1729039269?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1633,6 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-17|17.0.12-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.12-ga -> 17.0.2)|
 |openjdk-8|8u422-ga|8u442-b00|groups||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
+|openjfx-23|23-ga|23.0.1-ga|lang-java||
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |openldap|2.6.7|2.6.8|app-admin|Compliance mode enabled, was '2_6_8'|
@@ -1866,7 +1867,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|1.74|5.30|lang-perl|Compliance mode enabled, was '5.30'|
 |perl-www-mechanize|1.91|2.19|lang-perl|Compliance mode enabled, was '2.19'|
-|perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
 |perl-xml-libxslt|1.96|2.003000|lang-perl|Compliance mode enabled, was '2.003000'|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl|Compliance mode enabled, was '2.47'|
