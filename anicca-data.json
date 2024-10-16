@@ -486,7 +486,7 @@
 ["scapy","2.5.0","2.6.0","app-network",1716390068,["Compliance mode enabled, was '2.6.0'"]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
 ["openvpn","2.5.4","2.6.12","app-network",1703970191,["Compliance mode enabled, was '2.6.12'"]],
-["xray","24.9.7","24.9.30","app-network",1727015619,["Compliance mode enabled, was '24.9.30'"]],
+["xray","24.9.7","24.10.16","app-network",1727015619,["Compliance mode enabled, was '24.10.16'"]],
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
 ["networkmanager-vpnc","1.2.6","1.2.8","app-network",1533440457,["Compliance mode enabled, was '1.2.8'"]],
 ["tcpdump","4.99.4","4.99.5","app-network",1709902196,["Compliance mode enabled, was '4.99.5'"]],
