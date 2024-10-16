@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729059346?label=Updated)
+![Relative date](https://img.shields.io/date/1729062780?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2094,7 +2094,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
-|qownnotes|22.6.1|24.10.1|app-web|Compliance mode enabled, was '24.10.1'|
+|qownnotes|22.6.1|24.10.2|app-web|Compliance mode enabled, was '24.10.2'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
@@ -2112,6 +2112,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |r|4.4.0|4.4.1|app-scientific|Compliance mode enabled, was '4.4.1'|
+|radare2|5.9.4|5.9.6|app-devel|Compliance mode enabled, was '5.9.6'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |random2|1.0.1|1.0.2|lang-python|Compliance mode enabled, was '1.0.2'|
 |rapidfuzz|3.2.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'<br>Possible downgrade from the current version (3.2.0 -> 3.1.2)|
