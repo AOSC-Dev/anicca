@@ -249,7 +249,7 @@
 ["yaspin","1.2.0","3.1.0","lang-python",1609312655,["Compliance mode enabled, was '3.1.0'"]],
 ["python-ldap3","2.9","2.9.1","lang-python",1618998184,["Compliance mode enabled, was '2.9.1'"]],
 ["virtualenv","20.25.0","20.26.6","lang-python",1708256695,["Compliance mode enabled, was '20.26.6'"]],
-["google-api-python-client","1.7.11","2.149.0","lang-python",1581796621,["Compliance mode enabled, was '2.149.0'"]],
+["google-api-python-client","1.7.11","2.150.0","lang-python",1581796621,["Compliance mode enabled, was '2.150.0'"]],
 ["pathspec","0.11.0","0.12.1","lang-python",1676525877,["Compliance mode enabled, was '0.12.1'"]],
 ["jinja2","3.1.2","3.1.4","lang-python",1663210254,["Compliance mode enabled, was '3.1.4'"]],
 ["diff-match-patch","20200713","20230430","lang-python",1572507782,["Compliance mode enabled, was '20230430'"]],
