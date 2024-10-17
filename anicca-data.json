@@ -2510,7 +2510,6 @@
 ["partclone","0.3.20","0.3.32","app-admin",1660376240,["Compliance mode enabled, was '0.3.32'"]],
 ["b43-firmware-installer","20160210","019","app-admin",1678950872,["Compliance mode enabled, was '019'","Possible downgrade from the current version (20160210 -> 019)"]],
 ["libcgroup","2.0","3.1.0","app-admin",1641887332,["Compliance mode enabled, was '3.1.0'"]],
-["systemd","256.7","256","app-admin",1728537554,["Compliance mode enabled, was '256'","Possible downgrade from the current version (256.7 -> 256)"]],
 ["thermald","2.5.7","2.5.8","app-admin",1716726890,["Compliance mode enabled, was '2.5.8'"]],
 ["hwloc","2.10.0","2.11.2","app-admin",1716736819,["Compliance mode enabled, was '2.11.2'"]],
 ["tarsnap","1.0.39","1.0.40","app-admin",1528346318,["Compliance mode enabled, was '1.0.40'"]],
