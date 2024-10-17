@@ -739,7 +739,7 @@
 ["libcork","1.0.0~rc3","0.15.0","runtime-common",1673495966,["Compliance mode enabled, was '0.15.0'","Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)"]],
 ["libassuan","2.5.3","3.0.1","runtime-common",1565150266,["Compliance mode enabled, was '3.0.1'"]],
 ["gc","8.2.8","8.2.4","runtime-common",1725931955,["Compliance mode enabled, was '8.2.4'","Possible downgrade from the current version (8.2.8 -> 8.2.4)"]],
-["microsoft-gsl","3.0.1","4.0.0","runtime-common",1588470467,["Compliance mode enabled, was '4.0.0'"]],
+["microsoft-gsl","3.0.1","4.1.0","runtime-common",1588470467,["Compliance mode enabled, was '4.1.0'"]],
 ["libgnt","2.14.0","2.14.3","runtime-common",1620878457,["Compliance mode enabled, was '2.14.3'"]],
 ["zziplib","0.13.75","0.13.78","runtime-common",1718019563,["Compliance mode enabled, was '0.13.78'"]],
 ["xerces-c","3.2.3","3.3.0","runtime-common",1721223235,["Compliance mode enabled, was '3.3.0'"]],
