@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729131224?label=Updated)
+![Relative date](https://img.shields.io/date/1729135060?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -50,7 +50,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |an-anime-game-launcher|3.10.3|3.13.0|app-games|Compliance mode enabled, was '3.13.0'|
 |analitza|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|android-udev|20240625|20240829|runtime-devices|Compliance mode enabled, was '20240829'|
 |angelfish|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.17.5|app-admin|Compliance mode enabled, was '2.17.5'|
@@ -165,7 +164,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.20.26|1.35.42|lang-python|Compliance mode enabled, was '1.35.42'|
 |botocore|1.34.133|1.35.42|lang-python|Compliance mode enabled, was '1.35.42'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
-|bottles|2022.2.28<br>+trento<br>+4|51.14|app-utils|Compliance mode enabled, was '51.14'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.14)|
+|bottles|2022.2.28<br>+trento<br>+4|51.15|app-utils|Compliance mode enabled, was '51.15'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.15)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
 |bovo|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |bpftrace|0.21.1|0.21.2|app-admin|Compliance mode enabled, was '0.21.2'|
@@ -481,7 +480,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.6.3|3.8.0|app-network|Compliance mode enabled, was '3.8.0'|
 |freetds|1.00.112|1.4.23|runtime-database|Compliance mode enabled, was '1.4.23'|
-|freetype|2.13.2|2.13.3|runtime-desktop|Compliance mode enabled, was '2.13.3'|
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.10|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
@@ -737,7 +735,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
-|inkscape|1.3.2|1.4|app-creativity|Compliance mode enabled, was '1_4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -2129,7 +2126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
 |rclone|1.68.0|1.68.1|app-web|Compliance mode enabled, was '1.68.1'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|rdflib|6.2.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
+|rdflib|6.2.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
 |rdma-core|51.0|54.0|app-admin|Compliance mode enabled, was '54.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
