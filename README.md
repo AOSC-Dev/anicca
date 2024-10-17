@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729199498?label=Updated)
+![Relative date](https://img.shields.io/date/1729203115?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -245,7 +245,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|app-i18n|Compliance mode enabled, was '37.0_13.0_0_2'|
 |cleo|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
 |click|7.1.2|8.1.7|lang-python|Compliance mode enabled, was '8.1.7'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
@@ -383,6 +382,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |endless-sky|0.10.8|0.10.9|app-games|Compliance mode enabled, was '0.10.9'|
 |engrampa|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
+|eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |et-xmlfile|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -969,6 +969,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kosmindoormap|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kpackage|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kparts|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
+|kpat|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kpeople|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kpimtextedit|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kpipewire|5.27.11|6.2.1|desktop-kde|Compliance mode enabled, was '6.2.1'|
@@ -1018,7 +1019,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktuberling|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kturtle|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kubectl|1.31.0|1.31.1|app-containers|Compliance mode enabled, was '1.31.1'|
-|kubo|0.29.0|0.30.0|app-network|Compliance mode enabled, was '0.30.0'|
+|kubo|0.29.0|0.31.0|app-network|Compliance mode enabled, was '0.31.0'|
 |kubrick|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kunitconversion|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kvantum|1.0.10|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
@@ -1052,8 +1053,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.38.0|1.39.0|lang-dlang|Compliance mode enabled, was '1.39.0'|
 |ldns|1.8.3|1.8.4|runtime-network|Compliance mode enabled, was '1.8.4'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
+|leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
-|level-zero|1.17.42|1.18.2|runtime-common|Compliance mode enabled, was '1.18.2'|
+|level-zero|1.17.42|1.18.3|runtime-common|Compliance mode enabled, was '1.18.3'|
 |levenshtein|0.12.0|0.26.0|lang-python|Compliance mode enabled, was '0.26.0'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -2026,7 +2028,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyperf|2.5.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|pypsutil|5.8.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
+|pypsutil|5.8.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pyqt-builder|1.12.1|1.16.4|lang-python|Compliance mode enabled, was '1.16.4'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
 |pyqt5-sip|12.9.0|12.15.0|lang-python|Compliance mode enabled, was '12.15.0'|
