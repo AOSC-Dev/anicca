@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729141868?label=Updated)
+![Relative date](https://img.shields.io/date/1729145655?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -110,7 +110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|4.0.1|4.0.2|app-admin|Compliance mode enabled, was '4.0.2'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
-|autobuild4|4.3.25|4.3.26|app-devel|Compliance mode enabled, was '4.3.26'|
+|autobuild4|4.3.27|4.3.26|app-devel|Compliance mode enabled, was '4.3.26'<br>Possible downgrade from the current version (4.3.27 -> 4.3.26)|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automat|20.2.0|24.8.1|lang-python|Compliance mode enabled, was '24.8.1'|
 |avogadrolibs|1.95.1|1.99.0|runtime-scientific|Compliance mode enabled, was '1.99.0'|
@@ -274,7 +274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
-|containerd|1.7.21|1.7.22|app-containers|Compliance mode enabled, was '1.7.22'|
+|containerd|1.7.21|1.7.23|app-containers|Compliance mode enabled, was '1.7.23'|
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.4|app-utils|Compliance mode enabled, was '1.98.4'<br>Possible downgrade from the current version (20170301 -> 1.98.4)|
 |cowsay|3.7.0|3.8.3|app-utils|Compliance mode enabled, was '3.8.3'|
@@ -316,6 +316,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
 |deno|1.44.1|2.0.0|lang-js|Compliance mode enabled, was '2.0.0'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.23.7|2.24.1|app-devel|Compliance mode enabled, was '2.24.1'|
 |dex|0.9.0|0.10.1|app-utils|Compliance mode enabled, was '0.10.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -607,7 +608,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.149.0|lang-python|Compliance mode enabled, was '2.149.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|129.0.6668.100|130.0.6723.58|app-web|Compliance mode enabled, was '130.0.6723.58'|
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
@@ -1438,7 +1438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mat2|0.13.0|0.13.4|app-utils|Compliance mode enabled, was '0.13.4'|
 |mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-notification-daemon|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
-|mate-panel|1.28.1|1.28.3|desktop-mate|Compliance mode enabled, was '1.28.3'|
+|mate-panel|1.28.1|1.28.4|desktop-mate|Compliance mode enabled, was '1.28.4'|
 |materialx|1.38.8|1.39.1|runtime-creativity|Compliance mode enabled, was '1.39.1'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
