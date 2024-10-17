@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729185034?label=Updated)
+![Relative date](https://img.shields.io/date/1729188735?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -688,7 +688,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
-|hugo|0.134.1|0.135.0|app-web|Compliance mode enabled, was '0.135.0'|
+|hugo|0.134.1|0.136.2|app-web|Compliance mode enabled, was '0.136.2'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwdata|0.384|0.388|runtime-data|Compliance mode enabled, was '0.388'|
@@ -1430,7 +1430,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
 |markdownpart|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |markupsafe|2.1.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
-|marshmallow|3.20.2|3.22.0|lang-python|Compliance mode enabled, was '3.22.0'|
+|marshmallow|3.20.2|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |mat2|0.13.0|0.13.4|app-utils|Compliance mode enabled, was '0.13.4'|
 |mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-notification-daemon|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
