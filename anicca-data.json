@@ -1458,6 +1458,7 @@
 ["hotdoc","0.13.7","0.17.1","app-doc",1663210209,["Compliance mode enabled, was '0.17.1'"]],
 ["yard","0.9.26","0.9.37","app-doc",1620461778,["Compliance mode enabled, was '0.9.37'"]],
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
+["calibre","7.19.0","7.20.0","app-doc",1728366112,["Compliance mode enabled, was '7.20.0'"]],
 ["txt2tags","3.7","3.9","app-doc",1620461778,["Compliance mode enabled, was '3.9'"]],
 ["graphviz","12.0.0","12.1.2","app-doc",1721424551,["Compliance mode enabled, was '12.1.2'"]],
 ["xalan-c","1.12","1.12.0","app-doc",1721223235,["Compliance mode enabled, was '1.12.0'"]],
