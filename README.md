@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729206776?label=Updated)
+![Relative date](https://img.shields.io/date/1729211975?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -303,6 +303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |damo|2.4.7|2.5.1|app-admin|Compliance mode enabled, was '2.5.1'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
+|dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
 |dbus+32|1.12.18|1.14.10|runtime-optenv32|Compliance mode enabled, was '1.14.10'|
 |dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
@@ -1093,6 +1094,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Compliance mode enabled, was '0.15.0'<br>Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
 |libcpuid|0.5.1|0.7.0|runtime-common|Compliance mode enabled, was '0.7.0'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
+|libcupsfilters|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
 |libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
 |libdecor|0.1.1|0.2.2|runtime-desktop|Compliance mode enabled, was '0.2.2'|
 |libdeflate|1.19|1.22|runtime-common|Compliance mode enabled, was '1.22'|
@@ -1235,6 +1237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.44|runtime-optenv32|Compliance mode enabled, was '1.6.44'|
 |libpng-1.6+32|1.6.43|1.6.44|runtime-optenv32|Compliance mode enabled, was '1.6.44'|
 |libportal|0.6|0.8.1|runtime-desktop|Compliance mode enabled, was '0.8.1'|
+|libppd|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
 |libpqxx|6.4.5|7.9.2|runtime-database|Compliance mode enabled, was '7.9.2'|
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
