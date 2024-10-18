@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729232046?label=Updated)
+![Relative date](https://img.shields.io/date/1729235453?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -392,9 +392,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
-|evolution|3.44.4|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
-|evolution-data-server|3.44.4|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
-|evolution-ews|3.42.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
+|evolution|3.44.4|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
+|evolution-data-server|3.44.4|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
+|evolution-ews|3.42.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exiv2|0.27.5|0.28.3|runtime-imaging|Compliance mode enabled, was '0.28.3'|
 |expat|2.6.2|2.6.3|runtime-common|Compliance mode enabled, was '2.6.3'|
