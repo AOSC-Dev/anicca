@@ -1829,7 +1829,6 @@
 ["trash-cli","0.17.1.14","0.24.5.26","app-utils",1514935516,["Compliance mode enabled, was '0.24.5.26'"]],
 ["j4-dmenu-desktop","2.17","3.1","app-utils",1551380864,["Compliance mode enabled, was '3.1'"]],
 ["asahi-fwextract","0.6.21","0.7.8","app-utils",1699904618,["Compliance mode enabled, was '0.7.8'"]],
-["starship","1.20.1","1.21.0","app-utils",1722990889,["Compliance mode enabled, was '1.21.0'"]],
 ["duplicity","3.0.1","3.0.2","app-utils",1721146687,["Compliance mode enabled, was '3.0.2'"]],
 ["pocketsphinx","5~prealpha","0.8","app-utils",1469538814,["Compliance mode enabled, was '0.8'","Possible downgrade from the current version (5~prealpha -> 0.8)"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
