@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729264263?label=Updated)
+![Relative date](https://img.shields.io/date/1729267903?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1435,7 +1435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mariadb|11.4.3|11.6.1|app-database|Compliance mode enabled, was '11.6.1'|
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
 |markdownpart|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|markupsafe|2.1.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
+|markupsafe|2.1.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |marshmallow|3.20.2|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |mat2|0.13.0|0.13.4|app-utils|Compliance mode enabled, was '0.13.4'|
 |mate-control-center|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
@@ -2161,7 +2161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-llvm|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocm-smi-lib|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocminfo|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
-|rocr-runtime|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocr-runtime|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocs|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |roct-thunk-interface|6.0.0|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |roxterm|3.15.0|3.15.2|app-utils|Compliance mode enabled, was '3.15.2'|
