@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729267903?label=Updated)
+![Relative date](https://img.shields.io/date/1729271126?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -286,7 +286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |criu|3.19|4.0|app-admin|Compliance mode enabled, was '4.0'|
 |crun|1.16.1|1.17|app-admin|Compliance mode enabled, was '1.17'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
-|cryptography|40.0.0|43.0.1|lang-python|Compliance mode enabled, was '43.0.1'|
+|cryptography|40.0.0|43.0.3|lang-python|Compliance mode enabled, was '43.0.3'|
 |cryptsetup|2.7.0|2.7.5|app-admin|Compliance mode enabled, was '2.7.5'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
@@ -2088,7 +2088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcoro|0.10.0|0.11.0|runtime-desktop|Compliance mode enabled, was '0.11.0'|
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
-|qemu|9.0.1|9.1.0|app-virtualization|Compliance mode enabled, was '9.1.0'|
+|qemu|9.0.1|9.1.1|app-virtualization|Compliance mode enabled, was '9.1.1'|
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
 |qhull|7.2.0|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'|
 |qjackctl|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
