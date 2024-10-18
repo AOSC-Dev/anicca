@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729271126?label=Updated)
+![Relative date](https://img.shields.io/date/1729275184?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -583,7 +583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
 |gnome-shell-extensions|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-software|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|gnome-sudoku|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-sudoku|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
@@ -1792,7 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-wnck|0.16|0.18|lang-perl|Compliance mode enabled, was '0.18'|
 |perl-gtk2|1.2499|1.24993|lang-perl|Compliance mode enabled, was '1.24993'|
 |perl-gtk2-unique|0.05|0.07|lang-perl|Compliance mode enabled, was '0.07'|
-|perl-html-form|6.03|6.11|lang-perl|Compliance mode enabled, was '6.11'|
+|perl-html-form|6.03|6.12|lang-perl|Compliance mode enabled, was '6.12'|
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
 |perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
 |perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
@@ -2256,7 +2256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
-|sing-box|1.9.4|1.10.0|app-network|Compliance mode enabled, was '1.10.0'|
+|sing-box|1.9.4|1.10.1|app-network|Compliance mode enabled, was '1.10.1'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.8.6|lang-python|Compliance mode enabled, was '6.8.6'|
 |skanlite|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
