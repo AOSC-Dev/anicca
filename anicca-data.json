@@ -1508,7 +1508,7 @@
 ["yubico-pam","2.26","2.27","app-devices",1530843556,["Compliance mode enabled, was '2.27'"]],
 ["newflasher","52","57","app-devices",1658966837,["Compliance mode enabled, was '57'"]],
 ["presenterm","0.5.0","0.9.0","app-productivity",1706434874,["Compliance mode enabled, was '0.9.0'"]],
-["zotero","6.0.26","7.0.7","app-productivity",1694105265,["Compliance mode enabled, was '7.0.7'"]],
+["zotero","6.0.26","7.0.8","app-productivity",1694105265,["Compliance mode enabled, was '7.0.8'"]],
 ["beancount","2.2.1","3.0.0","app-productivity",1549992109,["Compliance mode enabled, was '3.0.0'"]],
 ["scribus","1.6.1","1.6.2","app-productivity",1721223235,["Compliance mode enabled, was '1.6.2'"]],
 ["libreoffice","24.2.3.2","24.8.2.1","groups",1721223235,["Compliance mode enabled, was '24.8.2.1'"]],
