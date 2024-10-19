@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729304014?label=Updated)
+![Relative date](https://img.shields.io/date/1729307793?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1169,6 +1169,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdcraw|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |libkdegames|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |libkdepim|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|libkeduvocdocument|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |libkexiv2|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |libkeyfinder|2.2.5|2.2.8|runtime-multimedia|Compliance mode enabled, was '2.2.8'|
 |libkgapi|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2340,7 +2341,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sslh|1.19c|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
 |sssd|2.9.5|2.10.0|app-admin|Compliance mode enabled, was '2.10.0'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
-|starship|1.21.0|1.21.1|app-utils|Compliance mode enabled, was '1.21.1'|
 |steam|1.0.0.81|1.0.0.82|app-games|Compliance mode enabled, was '1.0.0.82'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2560,15 +2560,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.0|runtime-desktop|Compliance mode enabled, was '0.78.0'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
-|vulkan-extensionlayer|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
-|vulkan-headers|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
-|vulkan-headers+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
-|vulkan-loader|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
-|vulkan-loader+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
+|vulkan-extensionlayer|1.3.283.0|1.3.299|runtime-display|Compliance mode enabled, was '1.3.299'|
+|vulkan-headers|1.3.283.0|1.3.299|runtime-display|Compliance mode enabled, was '1.3.299'|
+|vulkan-headers+32|1.3.283.0|1.3.299|runtime-optenv32|Compliance mode enabled, was '1.3.299'|
+|vulkan-loader|1.3.283.0|1.3.299|runtime-display|Compliance mode enabled, was '1.3.299'|
+|vulkan-loader+32|1.3.283.0|1.3.299|runtime-optenv32|Compliance mode enabled, was '1.3.299'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
-|vulkan-utility-libraries|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
-|vulkan-validationlayers|1.3.283.0|1.3.298|runtime-display|Compliance mode enabled, was '1.3.298'|
+|vulkan-utility-libraries|1.3.283.0|1.3.299|runtime-display|Compliance mode enabled, was '1.3.299'|
+|vulkan-validationlayers|1.3.283.0|1.3.299|runtime-display|Compliance mode enabled, was '1.3.299'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
