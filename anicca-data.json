@@ -2517,7 +2517,7 @@
 ["tarsnap","1.0.39","1.0.40","app-admin",1528346318,["Compliance mode enabled, was '1.0.40'"]],
 ["memcached","1.6.29","1.6.31","app-admin",1722955870,["Compliance mode enabled, was '1.6.31'"]],
 ["open-isns","0.101","0.102","app-admin",1641887332,["Compliance mode enabled, was '0.102'"]],
-["xfsprogs","6.9.0","6.10.1","app-admin",1722223662,["Compliance mode enabled, was '6.10.1'"]],
+["xfsprogs","6.9.0","6.11.0","app-admin",1722223662,["Compliance mode enabled, was '6.11.0'"]],
 ["tlp","1.6.1","1.7.0","app-admin",1706433317,["Compliance mode enabled, was '1.7.0'"]],
 ["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
 ["nut","2.7.4","2.8.2","app-admin",1625211684,["Compliance mode enabled, was '2.8.2'"]],
