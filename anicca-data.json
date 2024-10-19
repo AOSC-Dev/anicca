@@ -1719,7 +1719,6 @@
 ["asio","1.18.1","1.30.2","app-devel",1614161782,["Compliance mode enabled, was '1.30.2'"]],
 ["mold","2.33.0","2.34.1","app-devel",1723361056,["Compliance mode enabled, was '2.34.1'"]],
 ["devscripts","2.23.7","2.24.1","app-devel",1711044245,["Compliance mode enabled, was '2.24.1'"]],
-["autobuild4","4.3.27","4.3.26","app-devel",1729145360,["Compliance mode enabled, was '4.3.26'","Possible downgrade from the current version (4.3.27 -> 4.3.26)"]],
 ["php","8.3.11","8.3.12","app-devel",1727016789,["Compliance mode enabled, was '8.3.12'"]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,["Compliance mode enabled, was '1.10'"]],
 ["msitools","0.101","0.103","app-devel",1619939228,["Compliance mode enabled, was '0.103'"]],
