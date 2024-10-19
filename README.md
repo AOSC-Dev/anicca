@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729372211?label=Updated)
+![Relative date](https://img.shields.io/date/1729375939?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -576,7 +576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-mahjongg|3.38.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-maps|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.52.0|desktop-gnome|Compliance mode enabled, was '3.52.0'|
+|gnome-online-accounts|3.44.0|3.52.1|desktop-gnome|Compliance mode enabled, was '3.52.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -652,7 +652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtkwave|3.3.120|3.3.121|app-electronics|Compliance mode enabled, was '3.3.121'|
 |gtranslator|46.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gucharmap|15.1.5|16.0.1|desktop-gnome|Compliance mode enabled, was '16.0.1'|
+|gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
 |gupnp|1.2.4|1.6.7|desktop-gnome|Compliance mode enabled, was '1.6.7'|
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
@@ -1778,7 +1778,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-fcgi|0.78|0.82|lang-perl|Compliance mode enabled, was '0.82'|
 |perl-file-basedir|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
 |perl-file-copy-recursive|0.44|0.45|lang-perl|Compliance mode enabled, was '0.45'|
-|perl-file-listing|6.04|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-file-mimeinfo|0.28<br>+03|0.35|lang-perl|Compliance mode enabled, was '0.35'|
 |perl-file-next|1.16|1.18|lang-perl|Compliance mode enabled, was '1.18'|
 |perl-file-sharedir-install|0.13|0.14|lang-perl|Compliance mode enabled, was '0.14'|
