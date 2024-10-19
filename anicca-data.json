@@ -1271,7 +1271,7 @@
 ["perl-http-date","6.02","6.06","lang-perl",1678950872,["Compliance mode enabled, was '6.06'"]],
 ["perl-ev","4.25","4.34","lang-perl",1550814485,["Compliance mode enabled, was '4.34'"]],
 ["perl-module-scandeps","1.27","1.35","lang-perl",1551145117,["Compliance mode enabled, was '1.35'"]],
-["perl-dbd-sqlite","1.63+03","1.74","lang-perl",1550814485,["Compliance mode enabled, was '1.74'"]],
+["perl-dbd-sqlite","1.63+03","1.76","lang-perl",1550814485,["Compliance mode enabled, was '1.76'"]],
 ["perl-term-progressbar","2.22","2.23","lang-perl",1530196414,["Compliance mode enabled, was '2.23'"]],
 ["perl-email-simple","2.216","2.218","lang-perl",1530196415,["Compliance mode enabled, was '2.218'"]],
 ["perl-alien-libxml2","0.11","0.19","lang-perl",1573869560,["Compliance mode enabled, was '0.19'"]],
