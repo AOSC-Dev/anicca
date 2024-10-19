@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729293036?label=Updated)
+![Relative date](https://img.shields.io/date/1729298326?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -580,9 +580,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|gnome-shell|42.4|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-shell|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
-|gnome-shell-extensions|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-shell-extensions|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-software|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -1366,13 +1366,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.10.14|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.14 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
-|linux+kernel+lts|6.6.56|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'<br>Possible downgrade from the current version (6.6.56 -> 5.10.227)|
+|linux+kernel+lts|6.6.57|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'<br>Possible downgrade from the current version (6.6.57 -> 5.10.227)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'|
 |linux+kernel+retro+minimal|5.15.17|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'<br>Possible downgrade from the current version (5.15.17 -> 5.10.227)|
 |linux-firmware|20241004|20241017|runtime-kernel||
 |linux-kernel|6.10.14|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.14 -> 5.19.17)|
-|linux-kernel-lts|6.6.56|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.56 -> 5.19.17)|
+|linux-kernel-lts|6.6.57|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.57 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'|
 |linux-kernel-retro-minimal|5.15.17|5.10.227|runtime-kernel|Compliance mode enabled, was '5.10.227'<br>Possible downgrade from the current version (5.15.17 -> 5.10.227)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
@@ -2482,6 +2482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |typos|1.24.6|1.26.0|app-utils|Compliance mode enabled, was '1.26.0'|
+|typst|0.11.1|0.12.0|app-doc|Compliance mode enabled, was '0.12.0'|
 |tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
 |uboot-asahi|2023.07.02<br>+3|2024.07+1|runtime-kernel|Compliance mode enabled, was '2024.07-1'|
 |uboot-tools|2022.10|2024.10|app-utils|Compliance mode enabled, was '2024.10'|
