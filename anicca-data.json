@@ -1247,6 +1247,7 @@
 ["perl-term-readkey","2.37","2.38","lang-perl",1530196414,["Compliance mode enabled, was '2.38'"]],
 ["perl-package-stash","0.38","0.40","lang-perl",1678950872,["Compliance mode enabled, was '0.40'"]],
 ["perl-class-method-modifiers","2.12","2.15","lang-perl",1631079139,["Compliance mode enabled, was '2.15'"]],
+["perl-file-listing","6.04","6.16","lang-perl",1678950872,["Compliance mode enabled, was '6.16'"]],
 ["perl-json","2.90","4.10","lang-perl",1678950872,["Compliance mode enabled, was '4.10'"]],
 ["perl-b-hooks-endofscope","0.24","0.28","lang-perl",1596485702,["Compliance mode enabled, was '0.28'"]],
 ["perl-alien-build","1.92","2.83","lang-perl",1573869527,["Compliance mode enabled, was '2.83'"]],
