@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729384970?label=Updated)
+![Relative date](https://img.shields.io/date/1729390938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1525,8 +1525,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20241006|runtime-common|Compliance mode enabled, was '6.5-20241006'|
-|ncurses+32|6.4|6.5+20241006|runtime-optenv32|Compliance mode enabled, was '6.5-20241006'|
+|ncurses|6.4|6.5+20241019|runtime-common|Compliance mode enabled, was '6.5-20241019'|
+|ncurses+32|6.4|6.5+20241019|runtime-optenv32|Compliance mode enabled, was '6.5-20241019'|
 |ndctl|72|80|app-admin|Compliance mode enabled, was '80'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
@@ -1882,7 +1882,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-yaml-tiny|1.73|1.74|lang-perl|Compliance mode enabled, was '1.74'|
 |perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
-|pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |php|8.3.11|8.3.12|app-devel|Compliance mode enabled, was '8.3.12'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
