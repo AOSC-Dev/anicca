@@ -2414,6 +2414,7 @@
 ["kdepim-addons","23.08.5","24.08.2","desktop-kde",1724293055,["Compliance mode enabled, was '24.08.2'"]],
 ["kirigami-addons","0.11.0","1.5.0","desktop-kde",1714377107,["Compliance mode enabled, was '1.5.0'"]],
 ["kicad","8.0.5","8.0.6","app-electronics",1725936923,["Compliance mode enabled, was '8.0.6'"]],
+["apicula","0.14","0.15","app-electronics",1728142856,["Compliance mode enabled, was '0.15'"]],
 ["yosys","0.45","0.46","app-electronics",1728142856,["Compliance mode enabled, was '0.46'"]],
 ["ngspice","35","43","app-electronics",1624316725,["Compliance mode enabled, was '43'"]],
 ["verilator","5.026","5.028","app-electronics",1721488325,["Compliance mode enabled, was '5.028'"]],
