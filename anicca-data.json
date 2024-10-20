@@ -450,7 +450,6 @@
 ["tinyproxy","1.11.1","1.11.2","app-network",1710565425,["Compliance mode enabled, was '1.11.2'"]],
 ["arpwatch","3.6","3.7","app-network",1718100133,["Compliance mode enabled, was '3.7'"]],
 ["iftop","1.0pre4","0.17","app-network",1473801480,["Compliance mode enabled, was '0.17'","Possible downgrade from the current version (1.0pre4 -> 0.17)"]],
-["syncthing","1.27.12","1.28.0","app-network",1725609003,["Compliance mode enabled, was '1.28.0'"]],
 ["crda","3.18","4.15","app-network",1678950872,["Compliance mode enabled, was '4.15'"]],
 ["gost","2.11.5","2.12.0","app-network",1712458054,["Compliance mode enabled, was '2.12.0'"]],
 ["varnish","7.5.0","7.6.0","app-network",1718805904,["Compliance mode enabled, was '7.6.0'"]],
