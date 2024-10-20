@@ -1584,6 +1584,7 @@
 ["spike","1.1.0+git20240708","1.1.0","app-emulation",1721227330,["Compliance mode enabled, was '1.1.0'"]],
 ["wine","9.18","9.20","app-emulation",1728269654,[]],
 ["thedarkmod","2.09a","2.12","app-games",1631079133,["Compliance mode enabled, was '2.12'"]],
+["m64py","0.2.5","0.3.0","app-games",1600114202,["Compliance mode enabled, was '0.3.0'"]],
 ["nethack","3.6.6","3.6.7_released","app-games",1631079132,["Compliance mode enabled, was '3.6.7_Released'"]],
 ["unrpyc","1.1.6","2.0.2","app-games",1631079134,["Compliance mode enabled, was '2.0.2'"]],
 ["rlvm","0.14+git20220404","0.14","app-games",1700797896,["Compliance mode enabled, was '0.14'"]],
