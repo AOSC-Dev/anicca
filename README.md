@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729476991?label=Updated)
+![Relative date](https://img.shields.io/date/1729480876?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -890,7 +890,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.11|6.2.1|desktop-kde|Compliance mode enabled, was '6.2.1'|
 |khtml|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |ki18n|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
-|kicad|8.0.5|8.0.6|app-electronics|Compliance mode enabled, was '8.0.6'|
 |kiconthemes|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2655,7 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
-|xournalpp|1.1.3|1.2.3|runtime-productivity|Compliance mode enabled, was '1.2.3'|
+|xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
 |xpra|6.1.2|6.2|app-network|Compliance mode enabled, was '6.2'|
 |xray|24.9.7|24.10.16|app-network|Compliance mode enabled, was '24.10.16'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
