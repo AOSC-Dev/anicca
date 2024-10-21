@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729523482?label=Updated)
+![Relative date](https://img.shields.io/date/1729527199?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -482,7 +482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|2.6.5|3.1.3|app-games|Compliance mode enabled, was '3.1.3'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|freerdp|3.6.3|3.8.0|app-network|Compliance mode enabled, was '3.8.0'|
+|freerdp|3.6.3|3.9.0|app-network|Compliance mode enabled, was '3.9.0'|
 |freetds|1.00.112|1.4.23|runtime-database|Compliance mode enabled, was '1.4.23'|
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -568,7 +568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-chess|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-clocks|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-contacts|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-control-center|42.3|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
+|gnome-control-center|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-desktop|42.4|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |gnome-disk-utility|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-flashback|3.45.1|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
@@ -2588,6 +2588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|1.0.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |wesnoth|1.16.10|1.19.4|app-games|Compliance mode enabled, was '1.19.4'|
+|weston|14.0.0|14.0.1|runtime-display|Compliance mode enabled, was '14.0.1'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.42.0|0.44.0|lang-python|Compliance mode enabled, was '0.44.0'|
 |wheezy.template|3.1.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
