@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729519866?label=Updated)
+![Relative date](https://img.shields.io/date/1729523482?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -466,7 +466,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
 |fltk|1.3.5|1.3.9|runtime-desktop|Compliance mode enabled, was '1.3.9'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
-|fluidsynth+32|1.1.6|2.3.6|runtime-optenv32|Compliance mode enabled, was '2.3.6'|
+|fluidsynth|2.3.6|2.3.7|app-multimedia|Compliance mode enabled, was '2.3.7'|
+|fluidsynth+32|1.1.6|2.3.7|runtime-optenv32|Compliance mode enabled, was '2.3.7'|
 |fmt|10.2.1|11.0.2|runtime-common|Compliance mode enabled, was '11.0.2'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
@@ -937,6 +938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmailtransport|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmbox|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmediaplayer|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
+|kmenuedit|5.27.11|6.2.1|desktop-kde|Compliance mode enabled, was '6.2.1'|
 |kmime|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmines|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmix|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
