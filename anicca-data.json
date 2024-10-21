@@ -1417,6 +1417,7 @@
 ["rustc","1.81.0","1.82.0","lang-rust",1725678489,["Compliance mode enabled, was '1.82.0'"]],
 ["thunar","4.18.10","4.18.11","desktop-xfce",1715161763,["Compliance mode enabled, was '4.18.11'"]],
 ["xfce4-screenshooter","1.10.6","1.11.1","desktop-xfce",1719276533,["Compliance mode enabled, was '1.11.1'"]],
+["mousepad","0.6.2","0.6.3","desktop-xfce",1715161763,["Compliance mode enabled, was '0.6.3'"]],
 ["xfburn","0.7.0","0.7.2","desktop-xfce",1706025816,["Compliance mode enabled, was '0.7.2'"]],
 ["xfce4-notifyd","0.9.4","0.9.6","desktop-xfce",1715161763,["Compliance mode enabled, was '0.9.6'"]],
 ["ghostscript","9.54.0","10.04.0","app-doc",1631166650,["Compliance mode enabled, was '10.04.0'"]],
