@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729545114?label=Updated)
+![Relative date](https://img.shields.io/date/1729548701?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -214,7 +214,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|app-multimedia|Compliance mode enabled, was '1.2.5'|
 |cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
 |certbot-apache|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
-|certbot-dns-cloudflare|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
 |certbot-nginx|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
 |certifi|2024.7.4|2024.8.30|lang-python|Compliance mode enabled, was '2024.8.30'|
 |cervisia|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -328,6 +327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.34.0|2.35.0|app-utils|Compliance mode enabled, was '2.35.0'|
+|discord|0.0.71|0.0.72|app-web|Compliance mode enabled, was '0.0.72'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.1|desktop-kde|Compliance mode enabled, was '6.2.1'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -2654,6 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xfsprogs|6.9.0|6.11.0|app-admin|Compliance mode enabled, was '6.11.0'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
+|xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.43|runtime-display|Compliance mode enabled, was '2.43'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
