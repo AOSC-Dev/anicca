@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729557682?label=Updated)
+![Relative date](https://img.shields.io/date/1729563311?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1271,7 +1271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshumate|1.2.1|1.3.0|desktop-gnome|Compliance mode enabled, was '1.3.0'|
 |libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
-|libsidplayfp|1.8.8|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
+|libsidplayfp|1.8.8|2.10.1|runtime-multimedia|Compliance mode enabled, was '2.10.1'|
 |libsigc++|2.10.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
 |libsigc++-3.0|3.4.0|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
 |libsigsegv|2.12|2.14|runtime-common|Compliance mode enabled, was '2.14'|
@@ -1470,7 +1470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa+32|22.1.7|24.2.5|runtime-optenv32|Compliance mode enabled, was '24.2.5'|
 |mesa-amber|21.3.9|24.2.5|runtime-display|Compliance mode enabled, was '24.2.5'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.5|runtime-display|Compliance mode enabled, was '24.2.5'|
-|meson|1.5.1|1.5.2|app-devel|Compliance mode enabled, was '1.5.2'|
+|meson|1.5.1|1.6.0|app-devel|Compliance mode enabled, was '1.6.0'|
 |messagelib|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |metee|4.2.0|4.2.1|runtime-devices|Compliance mode enabled, was '4.2.1'|
