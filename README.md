@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729603234?label=Updated)
+![Relative date](https://img.shields.io/date/1729606331?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -938,7 +938,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmime|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmines|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmix|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|kmod|31|33|app-admin|Compliance mode enabled, was '33'|
 |kmousetool|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmouth|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kmplot|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -1282,7 +1281,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh|0.8.9|0.11.1|runtime-network|Compliance mode enabled, was '0.11.1'|
 |libssh+32|0.8.9|0.11.1|runtime-optenv32|Compliance mode enabled, was '0.11.1'|
 |libssh2|1.9.0|1.11.1|runtime-network|Compliance mode enabled, was '1.11.1'|
-|libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
 |libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
 |libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
 |libtasn1|4.15.0|4.19.0|runtime-cryptography|Compliance mode enabled, was '4.19.0'|
@@ -2648,7 +2646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xkeyboard-config|2.40|2.43|runtime-display|Compliance mode enabled, was '2.43'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
 |xmlrpc-c|1.54.06|1.59.03|runtime-common|Compliance mode enabled, was '1.59.03'|
-|xmlsec|1.2.36|1.3.5|runtime-common|Compliance mode enabled, was '1.3.5'|
+|xmlsec|1.2.36|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
