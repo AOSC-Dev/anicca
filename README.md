@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729588281?label=Updated)
+![Relative date](https://img.shields.io/date/1729591982?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1141,7 +1141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
 |libgpg-error+32|1.41|1.50|runtime-optenv32|Compliance mode enabled, was '1.50'|
 |libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
-|libgpiod|1.4.2|2.1.3|runtime-devices|Compliance mode enabled, was '2.1.3'|
+|libgpiod|1.4.2|2.2|runtime-devices|Compliance mode enabled, was '2.2'|
 |libgravatar|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |libgsf|1.14.47|1.14.53|desktop-gnome|Compliance mode enabled, was '1_14_53'|
 |libgtop|2.38.0|2.41.3|desktop-gnome|Compliance mode enabled, was '2.41.3'|
@@ -1706,7 +1706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patch-ng|1.17.4|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
-|patool|1.12|3.0.1|app-utils|Compliance mode enabled, was '3.0.1'|
+|patool|1.12|3.0.2|app-utils|Compliance mode enabled, was '3.0.2'|
 |pbr|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pciutils|3.9.0|3.13.0|app-utils|Compliance mode enabled, was '3.13.0'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
@@ -1716,7 +1716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.1.214|app-games|Compliance mode enabled, was '2.1.214'|
+|pcsx2|1.6.0<br>+git20210825|2.1.217|app-games|Compliance mode enabled, was '2.1.217'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|9.9.0|9.9.1|app-utils|Compliance mode enabled, was '9.9.1'|
@@ -1724,8 +1724,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
-|perl|5.36.3|5.41.4|lang-perl|Compliance mode enabled, was '5.41.4'|
-|perl+32|999|5.41.4|runtime-optenv32|Compliance mode enabled, was '5.41.4'<br>Possible downgrade from the current version (999 -> 5.41.4)|
+|perl|5.36.3|5.41.5|lang-perl|Compliance mode enabled, was '5.41.5'|
+|perl+32|999|5.41.5|runtime-optenv32|Compliance mode enabled, was '5.41.5'<br>Possible downgrade from the current version (999 -> 5.41.5)|
 |perl-alien-build|1.92|2.83|lang-perl|Compliance mode enabled, was '2.83'|
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
@@ -2516,6 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
+|usbutils|017|018|app-utils|Compliance mode enabled, was '018'|
 |utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
