@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729635022?label=Updated)
+![Relative date](https://img.shields.io/date/1729638724?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -606,6 +606,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.150.0|lang-python|Compliance mode enabled, was '2.150.0'|
 |google-auth|1.6.3|2.35.0|lang-python|Compliance mode enabled, was '2.35.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|130.0.6723.58|130.0.6723.69|app-web|Compliance mode enabled, was '130.0.6723.69'|
 |goreleaser|2.2.0|2.3.2|lang-golang|Compliance mode enabled, was '2.3.2'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
@@ -1588,7 +1589,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme-circle|20160927|24.10.22|desktop-themes|Compliance mode enabled, was '24.10.22'<br>Possible downgrade from the current version (20160927 -> 24.10.22)|
 |numpy|1.26.4|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
-|nvidia+32|0|560.35.03|runtime-optenv32|Compliance mode enabled, was '560.35.03'|
+|nvidia|560.35.03|565.57.01|runtime-display|Compliance mode enabled, was '565.57.01'|
+|nvidia+32|0|565.57.01|runtime-optenv32|Compliance mode enabled, was '565.57.01'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
 |nvme-cli|2.9.1|2.10.2|app-admin|Compliance mode enabled, was '2.10.2'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
@@ -2361,7 +2363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |subversion|1.14.3|1.14.4|app-vcs|Compliance mode enabled, was '1.14.4'|
 |suitesparse|7.6.1|7.8.3|runtime-scientific|Compliance mode enabled, was '7.8.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.0|2024.1020.154020|app-multimedia|Compliance mode enabled, was '2024.1020.154020'|
+|sunshine|0.23.0|2024.1021.153031|app-multimedia|Compliance mode enabled, was '2024.1021.153031'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
