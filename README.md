@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729620899?label=Updated)
+![Relative date](https://img.shields.io/date/1729623927?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -350,6 +350,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
 |dotnet-sdk-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
+|dotnet-targeting-pack-6.0|6.0.30|6.0.35|lang-dotnet|Compliance mode enabled, was '6.0.35'|
+|dotnet-templates-6.0|6.0.422|6.0.427|app-devel|Compliance mode enabled, was '6.0.427'|
 |double-conversion|3.2.1|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
