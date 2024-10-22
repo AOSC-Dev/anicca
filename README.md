@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729591982?label=Updated)
+![Relative date](https://img.shields.io/date/1729595496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -502,7 +502,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.9.3|runtime-gis|Compliance mode enabled, was '3.9.3'|
-|gdb|15.1|15.2|app-devel|Compliance mode enabled, was '15.2'|
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
@@ -1963,6 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |print-manager|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|prismlauncher|9.0|8.4|app-games|Compliance mode enabled, was '8.4'<br>Possible downgrade from the current version (9.0 -> 8.4)|
 |prison5|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.0|app-gis|Compliance mode enabled, was '9.5.0'|
