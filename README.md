@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729552329?label=Updated)
+![Relative date](https://img.shields.io/date/1729557682?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1238,7 +1238,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
 |libphonenumber|8.13.38|8.13.47|runtime-i18n|Compliance mode enabled, was '8.13.47'|
-|libpinyin|2.6.0|2.9.91|runtime-i18n|Compliance mode enabled, was '2.9.91'|
+|libpinyin|2.6.0|2.9.92|runtime-i18n|Compliance mode enabled, was '2.9.92'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libplist|2.3.0|2.6.0|runtime-common|Compliance mode enabled, was '2.6.0'|
@@ -1437,7 +1437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailcommon|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |mailimporter|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
-|mako|1.1.4|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
+|mako|1.1.4|1.3.6|lang-python|Compliance mode enabled, was '1.3.6'|
 |malcontent|0.10.5|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
 |man-db|2.11.1|2.13.0|app-utils|Compliance mode enabled, was '2.13.0'|
 |man-pages|6.05.01|6.9.1|runtime-data||
@@ -2683,7 +2683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |yara|4.5.0|4.5.2|app-utils|Compliance mode enabled, was '4.5.2'|
 |yard|0.9.26|0.9.37|app-doc|Compliance mode enabled, was '0.9.37'|
-|yarl|1.9.4|1.15.5|lang-python|Compliance mode enabled, was '1.15.5'|
+|yarl|1.9.4|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |yaz|5.34.0|5.34.2|runtime-web|Compliance mode enabled, was '5.34.2'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
