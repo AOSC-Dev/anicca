@@ -1,14 +1,13 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729703512?label=Updated)
+![Relative date](https://img.shields.io/date/1729707168?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.9.0|1.12.2|app-admin|Compliance mode enabled, was '1.12.2'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
-|abbs-update-checksum|0.2.4|0.3.0|app-devel|Compliance mode enabled, was '0.3.0'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
 |accerciser|3.40.0|3.44.1|desktop-gnome|Compliance mode enabled, was '3.44.1'|
@@ -49,7 +48,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-plugins+32|1.2.7.1|1.2.12|runtime-optenv32|Compliance mode enabled, was '1.2.12'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |analitza|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|android-udev|20240829|20241019|runtime-devices|Compliance mode enabled, was '20241019'|
 |angelfish|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.17.5|app-admin|Compliance mode enabled, was '2.17.5'|
@@ -1606,7 +1604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
 |ocrad|0.27|0.29|app-doc|Compliance mode enabled, was '0.29'|
-|ocrmypdf|16.4.3|16.5.0|app-doc|Compliance mode enabled, was '16.5.0'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |ofono|1.30|2.11|app-network|Compliance mode enabled, was '2.11'|
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
@@ -1943,6 +1940,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.1-oss|app-i18n|Compliance mode enabled, was '3.5.1-oss'|
 |poetry|1.8.3|1.8.4|lang-python|Compliance mode enabled, was '1.8.4'|
+|poetry-core|1.9.0|1.9.1|lang-python|Compliance mode enabled, was '1.9.1'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |polkit-kde-agent-1|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
@@ -2698,6 +2696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zanshin|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
+|zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.156.1|0.157.5|app-editors|Compliance mode enabled, was '0.157.5'|
 |zenity|3.42.1|4.0.2|desktop-gnome|Compliance mode enabled, was '4.0.2'|
 |zeroconf|0.28.6|0.135.0|lang-python|Compliance mode enabled, was '0.135.0'|
