@@ -1889,6 +1889,7 @@
 ["pv","1.6.20","1.9.0","app-utils",1674452224,["Compliance mode enabled, was '1.9.0'"]],
 ["zutils","1.7","1.13","app-utils",1527856914,["Compliance mode enabled, was '1.13'"]],
 ["patool","1.12","3.0.2","app-utils",1647493788,["Compliance mode enabled, was '3.0.2'"]],
+["alacritty","0.13.2","0.14.0","app-utils",1716370662,["Compliance mode enabled, was '0.14.0'"]],
 ["ttyd","1.6.3","1.7.7","app-utils",1537076216,["Compliance mode enabled, was '1.7.7'"]],
 ["aosc-media-writer","0.3.4","5.0.9","app-utils",1712408945,["Compliance mode enabled, was '5.0.9'"]],
 ["cmix","20","21","app-utils",1710985220,["Compliance mode enabled, was '21'"]],
