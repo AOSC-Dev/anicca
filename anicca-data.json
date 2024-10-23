@@ -1755,6 +1755,7 @@
 ["p11-kit","0.25.3","0.25.5","runtime-cryptography",1706855338,["Compliance mode enabled, was '0.25.5'"]],
 ["libtasn1","4.15.0","4.19.0","runtime-cryptography",1575786350,["Compliance mode enabled, was '4.19.0'"]],
 ["openssl","3.3.2","3.4.0","runtime-cryptography",1725432268,["Compliance mode enabled, was '3.4.0'"]],
+["botan-3","3.5.0","3.6.0","runtime-cryptography",1723137436,["Compliance mode enabled, was '3.6.0'"]],
 ["botan","1.10.17","3.5.0","runtime-cryptography",1575779059,["Compliance mode enabled, was '3.5.0'"]],
 ["opencryptoki","3.21.0","3.24.0","runtime-cryptography",1696572712,["Compliance mode enabled, was '3.24.0'"]],
 ["mbedtls","2.16.7","3.6.2","runtime-cryptography",1582091000,["Compliance mode enabled, was '3.6.2'"]],
