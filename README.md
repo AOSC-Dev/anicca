@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729689689?label=Updated)
+![Relative date](https://img.shields.io/date/1729692635?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -138,7 +138,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|3.0.0|app-productivity|Compliance mode enabled, was '3.0.0'|
 |bear|3.1.4|3.1.5|app-devel|Compliance mode enabled, was '3.1.5'|
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
-|benchmark|1.8.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |bili-sync|2.1.1|2.1.2|app-multimedia|Compliance mode enabled, was '2.1.2'|
 |bind|9.20.2|9.20.3|app-network|Compliance mode enabled, was '9.20.3'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
@@ -329,7 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |distrobox|1.7.2.1|1.8.0|app-utils|Compliance mode enabled, was '1.8.0'|
 |django|5.0.3|5.1.2|lang-python|Compliance mode enabled, was '5.1.2'|
-|dkms|3.0.13|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
+|dkms|3.0.13|3.1.1|app-admin|Compliance mode enabled, was '3.1.1'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dnspython|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
