@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729660336?label=Updated)
+![Relative date](https://img.shields.io/date/1729664052?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -80,7 +80,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arrow|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |artikulate|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |asahi-common|20231113|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
+|asahi-fwextract|0.6.21|0.7.9|app-utils|Compliance mode enabled, was '0.7.9'|
 |asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.35|app-devel|Compliance mode enabled, was '6.0.35'|
@@ -1829,6 +1829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.051|lang-perl|Compliance mode enabled, was '0.051'|
 |perl-module-find|0.13|0.16|lang-perl|Compliance mode enabled, was '0.16'|
+|perl-module-pluggable|5.2|6.1|lang-perl|Compliance mode enabled, was '6.1'|
 |perl-module-scandeps|1.27|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
 |perl-mozilla-ca|20180117|20240924|lang-perl|Compliance mode enabled, was '20240924'|
