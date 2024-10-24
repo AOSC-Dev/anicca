@@ -1937,7 +1937,7 @@
 ["yara","4.5.0","4.5.2","app-utils",1712767296,["Compliance mode enabled, was '4.5.2'"]],
 ["hdsentinel","0.17","020c","app-utils",1553836459,["Compliance mode enabled, was '020c'"]],
 ["plank","0.11.89+git20210222","0.11.89","app-utils",1622534172,["Compliance mode enabled, was '0.11.89'"]],
-["roxterm","3.15.0","3.15.2","app-utils",1716292615,["Compliance mode enabled, was '3.15.2'"]],
+["roxterm","3.15.0","3.15.3","app-utils",1716292615,["Compliance mode enabled, was '3.15.3'"]],
 ["rt-tests","2.6","2.7","app-utils",1710985572,["Compliance mode enabled, was '2.7'"]],
 ["wezterm","20240203+110809+5046fc22","20240203-110809-5046fc22","app-utils",1709441522,["Compliance mode enabled, was '20240203-110809-5046fc22'"]],
 ["zbar","0.23.90","0.23.93","app-utils",1551388660,["Compliance mode enabled, was '0.23.93'"]],
