@@ -342,7 +342,7 @@
 ["python-kaitaistruct","0.9","0.10","lang-python",1618998184,["Compliance mode enabled, was '0.10'"]],
 ["wheel","0.42.0","0.44.0","lang-python",1708762785,["Compliance mode enabled, was '0.44.0'"]],
 ["pylint","2.14.4","3.3.1","lang-python",1658217673,["Compliance mode enabled, was '3.3.1'"]],
-["hypothesis-python","6.97.4","6.115.4","lang-python",1706859511,["Compliance mode enabled, was '6.115.4'"]],
+["hypothesis-python","6.97.4","6.115.5","lang-python",1706859511,["Compliance mode enabled, was '6.115.5'"]],
 ["arrow","1.0.3","1.3.0","lang-python",1616123331,["Compliance mode enabled, was '1.3.0'"]],
 ["pyqt5-sip","12.9.0","12.15.0","lang-python",1637636760,["Compliance mode enabled, was '12.15.0'"]],
 ["qtpy","2.1.0","2.4.1","lang-python",1658966837,["Compliance mode enabled, was '2.4.1'"]],
@@ -2588,6 +2588,7 @@
 ["synaptic","0.90.2","0.91.3","app-admin",1610962803,["Compliance mode enabled, was '0.91.3'"]],
 ["reiser4progs","1.2.2","1.2.2.","app-admin",1678601027,["Compliance mode enabled, was '1.2.2.'"]],
 ["dpkg","1.22.7","1.22.11","app-admin",1721289895,["Compliance mode enabled, was '1.22.11'"]],
+["fprintd","1.94.3","1.94.4","app-admin",1722227974,["Compliance mode enabled, was '1.94.4'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["rdma-core","51.0","54.0","app-admin",1716563534,["Compliance mode enabled, was '54.0'"]],
 ["lxc","6.0.1","6.0.2","app-admin",1723477262,["Compliance mode enabled, was '6.0.2'"]],
@@ -2710,5 +2711,5 @@
 ["sozu","0.15.2","1.0.5","app-web",1696572712,["Compliance mode enabled, was '1.0.5'"]],
 ["nginx","1.27.1","1.27.2","app-web",1727187268,["Compliance mode enabled, was '1.27.2'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
-["hugo","0.134.1","0.136.3","app-web",1727015619,["Compliance mode enabled, was '0.136.3'"]]
+["hugo","0.134.1","0.136.4","app-web",1727015619,["Compliance mode enabled, was '0.136.4'"]]
 ]
