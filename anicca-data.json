@@ -2418,7 +2418,6 @@
 ["ngspice","35","43","app-electronics",1624316725,["Compliance mode enabled, was '43'"]],
 ["verilator","5.026","5.028","app-electronics",1721488325,["Compliance mode enabled, was '5.028'"]],
 ["gtkwave","3.3.120","3.3.121","app-electronics",1722228328,["Compliance mode enabled, was '3.3.121'"]],
-["serf","1.3.9","1.3.10","runtime-web",1474463541,["Compliance mode enabled, was '1.3.10'"]],
 ["telepathy-logger-qt","15.04.0","17.09.0","runtime-web",1461631600,["Compliance mode enabled, was '17.09.0'"]],
 ["ada","2.9.1","2.9.2","runtime-web",1727581856,["Compliance mode enabled, was '2.9.2'"]],
 ["libcloudproviders","0.3.1","0.3.6","runtime-web",1619939089,["Compliance mode enabled, was '0.3.6'"]],
