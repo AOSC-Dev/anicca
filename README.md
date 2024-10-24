@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729789818?label=Updated)
+![Relative date](https://img.shields.io/date/1729793582?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1920,6 +1920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-pa|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |plasma-pk-updates|0.3.2|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |plasma-sdk|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
+|plasma-settings|22.06|24.02.0|desktop-kde|Compliance mode enabled, was '24.02.0'|
 |plasma-systemmonitor|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |plasma-thunderbolt|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |plasma-vault|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
@@ -1968,11 +1969,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |print-manager|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|prismlauncher|9.0|9.1|app-games|Compliance mode enabled, was '9.1'|
 |prison5|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.0|app-gis|Compliance mode enabled, was '9.5.0'|
 |projectm|4.0.0|4.1.2|runtime-multimedia|Compliance mode enabled, was '4.1.2'|
-|protobuf|25.2|28.2|runtime-common|Compliance mode enabled, was '28.2'|
+|protobuf|25.2|28.3|runtime-common|Compliance mode enabled, was '28.3'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.11.0|3.15.2|app-admin|Compliance mode enabled, was '3.15.2'|
