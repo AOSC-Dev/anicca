@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729779049?label=Updated)
+![Relative date](https://img.shields.io/date/1729782639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -288,7 +288,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
 |ctags|20191203|6.1.20241006.0|app-devel|Compliance mode enabled, was '6.1.20241006.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241006.0)|
 |cuda|12.5.0|12.6.2|app-devel||
-|cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.0|app-admin|Compliance mode enabled, was '2.1.0'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
@@ -1375,6 +1374,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-lts|6.6.57|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.57 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
 |linux-kernel-retro-minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
+|linux-pam|1.6.1|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
@@ -1671,6 +1671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.3.0|lang-python|Compliance mode enabled, was '7.3.0'|
+|osu-lazer|2024.1018.0|2024.1023.0|app-games|Compliance mode enabled, was '2024.1023.0'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |oxygen-icons|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
@@ -1717,7 +1718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.1.217|app-games|Compliance mode enabled, was '2.1.217'|
+|pcsx2|1.6.0<br>+git20210825|2.1.226|app-games|Compliance mode enabled, was '2.1.226'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|9.9.0|9.9.1|app-utils|Compliance mode enabled, was '9.9.1'|
