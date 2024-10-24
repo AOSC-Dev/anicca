@@ -1824,6 +1824,7 @@
 ["libva-utils","2.21.0","2.22.0","app-utils",1712420542,["Compliance mode enabled, was '2.22.0'"]],
 ["fio","3.35","3.38","app-utils",1696572712,["Compliance mode enabled, was '3.38'"]],
 ["usbutils","017","018","app-utils",1717411577,["Compliance mode enabled, was '018'"]],
+["neofetch","7.3.11","7.98.0","app-utils",1714466912,["Compliance mode enabled, was '7.98.0'"]],
 ["gawk","5.3.0","5.3.1","app-utils",1716390097,["Compliance mode enabled, was '5.3.1'"]],
 ["trash-cli","0.17.1.14","0.24.5.26","app-utils",1514935516,["Compliance mode enabled, was '0.24.5.26'"]],
 ["j4-dmenu-desktop","2.17","3.1","app-utils",1551380864,["Compliance mode enabled, was '3.1'"]],

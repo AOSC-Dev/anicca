@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729761078?label=Updated)
+![Relative date](https://img.shields.io/date/1729764787?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1531,6 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |neochat|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|neofetch|7.3.11|7.98.0|app-utils|Compliance mode enabled, was '7.98.0'|
 |neomutt|20200619|20241002|app-web|Compliance mode enabled, was '20241002'|
 |neon+32|0.31.2|0.33.0|runtime-optenv32|Compliance mode enabled, was '0.33.0'|
 |neovim|0.10.0|0.10.2|app-editors|Compliance mode enabled, was '0.10.2'|
