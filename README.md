@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729804237?label=Updated)
+![Relative date](https://img.shields.io/date/1729807854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2126,7 +2126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |random2|1.0.1|1.0.2|lang-python|Compliance mode enabled, was '1.0.2'|
 |rapidfuzz|3.2.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'<br>Possible downgrade from the current version (3.2.0 -> 3.1.2)|
-|rapidfuzz-cpp|2.0.0|3.0.5|runtime-common|Compliance mode enabled, was '3.0.5'|
+|rapidfuzz-cpp|2.0.0|3.1.1|runtime-common|Compliance mode enabled, was '3.1.1'|
 |rarian|0.8.1|0.8.5|app-doc|Compliance mode enabled, was '0.8.5'|
 |razergenie|0.9.0|1.1.0|app-devices|Compliance mode enabled, was '1.1.0'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
@@ -2196,7 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
 |ruby-optimist|3.0.0|3.1.0|lang-ruby|Compliance mode enabled, was '3.1.0'|
-|ruby-pg|1.1.4|1.5.8|lang-ruby|Compliance mode enabled, was '1.5.8'|
+|ruby-pg|1.1.4|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |ruby-pkg-config|1.4.4|1.5.7|lang-ruby|Compliance mode enabled, was '1.5.7'|
 |runc|1.1.14|1.2.0|app-admin|Compliance mode enabled, was '1.2.0'|
 |rust-bindgen|0.69.4|0.70.1|lang-rust|Compliance mode enabled, was '0.70.1'|
