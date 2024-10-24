@@ -2563,7 +2563,7 @@
 ["partimage","0.6.9","0.7.2","app-admin",1696572712,["Compliance mode enabled, was '0.7.2'"]],
 ["gsmartcontrol","1.1.3","1.1.4","app-admin",1528373229,["Compliance mode enabled, was '1.1.4'"]],
 ["thin-provisioning-tools","1.0.10","1.1.0","app-admin",1707524018,["Compliance mode enabled, was '1.1.0'"]],
-["jenkins","2.468","2.481","app-admin",1721531773,["Compliance mode enabled, was '2.481'"]],
+["jenkins","2.468","2.482","app-admin",1721531773,["Compliance mode enabled, was '2.482'"]],
 ["kmod","31","33","app-admin",1703924648,["Compliance mode enabled, was '33'"]],
 ["rpm","4.18.0","4.20.0-release","app-admin",1669533924,["Compliance mode enabled, was '4.20.0-release'"]],
 ["fwupd","1.9.25","2.0.1","app-admin",1727316731,["Compliance mode enabled, was '2.0.1'"]],
