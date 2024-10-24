@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729753971?label=Updated)
+![Relative date](https://img.shields.io/date/1729757624?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1405,9 +1405,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.27|app-admin|Compliance mode enabled, was '2.03.27'|
 |lxc|6.0.1|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
 |lxcfs|3.0.3|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
-|lxgwcleargothic-font|0.300.4|0.334|desktop-fonts|Compliance mode enabled, was '0.334'|
+|lxgwcleargothic-font|0.300.4|0.335|desktop-fonts|Compliance mode enabled, was '0.335'|
 |lxgwfasmartgothic-font|1.200|1.201|desktop-fonts|Compliance mode enabled, was '1.201'|
-|lxgwneoxihei-font|1.200|1.207|desktop-fonts|Compliance mode enabled, was '1.207'|
+|lxgwneoxihei-font|1.200|1.210|desktop-fonts|Compliance mode enabled, was '1.210'|
 |lxgwwenkai-font|1.500|1.501|desktop-fonts|Compliance mode enabled, was '1.501'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxml-html-clean|0.2.2|0.3.1|lang-python|Compliance mode enabled, was '0.3.1'|
@@ -2190,7 +2190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
 |ruby-optimist|3.0.0|3.1.0|lang-ruby|Compliance mode enabled, was '3.1.0'|
 |ruby-pg|1.1.4|1.5.8|lang-ruby|Compliance mode enabled, was '1.5.8'|
-|ruby-pkg-config|1.4.4|1.5.6|lang-ruby|Compliance mode enabled, was '1.5.6'|
+|ruby-pkg-config|1.4.4|1.5.7|lang-ruby|Compliance mode enabled, was '1.5.7'|
 |runc|1.1.14|1.2.0|app-admin|Compliance mode enabled, was '1.2.0'|
 |rust-bindgen|0.69.4|0.70.1|lang-rust|Compliance mode enabled, was '0.70.1'|
 |rustc|1.81.0|1.82.0|lang-rust|Compliance mode enabled, was '1.82.0'|
