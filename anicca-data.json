@@ -1023,7 +1023,7 @@
 ["openssl-1.1+32","1.1.1q","3.4.0","runtime-optenv32",1698249840,["Compliance mode enabled, was '3.4.0'"]],
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
 ["vim","9.1.0794","9.1.0814","app-editors",1729595225,["Compliance mode enabled, was '9.1.0814'"]],
-["zed","0.156.1","0.157.5","app-editors",1728875766,["Compliance mode enabled, was '0.157.5'"]],
+["zed","0.156.1","0.158.2","app-editors",1728875766,["Compliance mode enabled, was '0.158.2'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
 ["neovim","0.10.0","0.10.2","app-editors",1716196935,["Compliance mode enabled, was '0.10.2'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
