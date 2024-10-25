@@ -1696,6 +1696,7 @@
 ["cppcheck","2.8","2.15.0","app-devel",1661664823,["Compliance mode enabled, was '2.15.0'"]],
 ["dotnet-sdk-6.0","6.0.422","6.0.427","app-devel",1716597653,["Compliance mode enabled, was '6.0.427'"]],
 ["llvm","18.1.8","19.1.2","app-devel",1721226526,["Compliance mode enabled, was '19.1.2'"]],
+["acbs","20241018","20241023","app-devel",1729260801,["Compliance mode enabled, was '20241023'"]],
 ["cgns","4.2.0","4.4.0","app-devel",1639826391,["Compliance mode enabled, was '4.4.0'"]],
 ["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
 ["ast-grep","0.26.1","0.28.1","app-devel",1723454554,["Compliance mode enabled, was '0.28.1'"]],
