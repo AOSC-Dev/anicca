@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729822626?label=Updated)
+![Relative date](https://img.shields.io/date/1729826362?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1830,7 +1830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.051|lang-perl|Compliance mode enabled, was '0.051'|
 |perl-module-find|0.13|0.16|lang-perl|Compliance mode enabled, was '0.16'|
-|perl-module-pluggable|5.2|6.1|lang-perl|Compliance mode enabled, was '6.1'|
+|perl-module-pluggable|5.2|6.2|lang-perl|Compliance mode enabled, was '6.2'|
 |perl-module-scandeps|1.27|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
 |perl-mozilla-ca|20180117|20240924|lang-perl|Compliance mode enabled, was '20240924'|
@@ -2410,7 +2410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.0|app-doc|Compliance mode enabled, was '1.7.0'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.5.3|5.6.3|app-web|Compliance mode enabled, was '5.6.3'|
+|telegram-desktop|5.5.3|5.6.4|app-web|Compliance mode enabled, was '5.6.4'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2431,6 +2431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.7|2.5.8|app-admin|Compliance mode enabled, was '2.5.8'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
+|throttled|0.10.0|0.11|app-utils|Compliance mode enabled, was '0.11'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
 |thunderbird|128.3.0esr|131.0.1|app-web|Compliance mode enabled, was '131.0.1'|
 |tigervnc|1.14.0|1.14.1|app-network||
@@ -2592,7 +2593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weechat|4.2.2|4.4.2|app-web|Compliance mode enabled, was '4.4.2'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
-|werkzeug|1.0.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
+|werkzeug|1.0.1|3.0.5|lang-python|Compliance mode enabled, was '3.0.5'|
 |wesnoth|1.16.10|1.19.5|app-games|Compliance mode enabled, was '1.19.5'|
 |weston|14.0.0|14.0.1|runtime-display|Compliance mode enabled, was '14.0.1'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
