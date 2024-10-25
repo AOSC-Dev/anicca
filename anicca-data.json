@@ -657,6 +657,7 @@
 ["tracker","3.7.3","3.8.0","desktop-gnome",1721223235,["Compliance mode enabled, was '3.8.0'"]],
 ["deja-dup","42.9","47.0","desktop-gnome",1663210249,["Compliance mode enabled, was '47.0'"]],
 ["gtkmm-4","4.14.0","4.16.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.16.0'"]],
+["gnome-disk-utility","42.0","46.1","desktop-gnome",1663210243,["Compliance mode enabled, was '46.1'"]],
 ["orca","42.3","47.1","desktop-gnome",1663210241,["Compliance mode enabled, was '47.1'"]],
 ["at-spi2-core","2.52.0","2.54.0","desktop-gnome",1711610718,["Compliance mode enabled, was '2.54.0'"]],
 ["re2","2024-06-01","2024-07-02","runtime-common",1719323414,[]],
