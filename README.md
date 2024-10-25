@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729890600?label=Updated)
+![Relative date](https://img.shields.io/date/1729894225?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -566,7 +566,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-contacts|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-control-center|42.3|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-desktop|42.4|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
-|gnome-disk-utility|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-flashback|3.45.1|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-font-viewer|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-initial-setup|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
@@ -581,7 +580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|gnome-shell-extension-gsconnect|53|57|desktop-gnome|Compliance mode enabled, was '57'|
+|gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-software|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
@@ -2190,7 +2189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtv|1.27.0|1.27.1|app-web|Compliance mode enabled, was '1.27.1'|
 |ruamel-yaml|0.17.19|0.18.6|lang-python|Compliance mode enabled, was '0.18.6'|
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
-|rubberband|1.9.2|3.3.0|app-multimedia|Compliance mode enabled, was '3.3.0'|
+|rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.2.2|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
 |ruby-bundler|2.1.4|2.5.22|lang-ruby|Compliance mode enabled, was '2.5.22'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
