@@ -19,7 +19,7 @@
 ["service-identity","18.1.0","24.1.0","lang-python",1551203846,["Compliance mode enabled, was '24.1.0'"]],
 ["cymem","2.0.5","2.0.8","lang-python",1637636760,["Compliance mode enabled, was '2.0.8'"]],
 ["dateutil","2.8.2","2.9.0.post0","lang-python",1531879946,["Compliance mode enabled, was '2.9.0.post0'"]],
-["et-xmlfile","1.0.1","1.1.0","lang-python",1482382343,["Compliance mode enabled, was '1.1.0'"]],
+["et-xmlfile","1.0.1","2.0.0","lang-python",1482382343,["Compliance mode enabled, was '2.0.0'"]],
 ["python-daemonize","2.5.0","3.9.0","lang-python",1653037433,["Compliance mode enabled, was '3.9.0'"]],
 ["ruamel-yaml-clib","0.2.6","0.2.12","lang-python",1637636761,["Compliance mode enabled, was '0.2.12'"]],
 ["cython-0.29","0.29.36","3.0.11","lang-python",1696352397,["Compliance mode enabled, was '3.0.11'"]],
