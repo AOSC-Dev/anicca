@@ -1668,6 +1668,7 @@
 ["aspnetcore-runtime-6.0","6.0.30","6.0.35","app-devel",1716597653,["Compliance mode enabled, was '6.0.35'"]],
 ["sdcc","4.3.6","4.4.0","app-devel",1705649446,["Compliance mode enabled, was '4.4.0'"]],
 ["sunxi-tools","1.4.2+git20220729","1.4.2","app-devel",1669531930,["Compliance mode enabled, was '1.4.2'"]],
+["intel-oneapi-basekit","2024.2.1","2025.0.0","app-devel",1723451496,["Compliance mode enabled, was '2025.0.0'"]],
 ["z3","4.13.0","4.13.3","app-devel",1709948013,["Compliance mode enabled, was '4.13.3'"]],
 ["spirv-llvm-translator","18.1.0","19.1.0","app-devel",1721226526,["Compliance mode enabled, was '19.1.0'"]],
 ["qtcreator","14.0.1","14.0.2","app-devel",1723607305,["Compliance mode enabled, was '14.0.2'"]],
