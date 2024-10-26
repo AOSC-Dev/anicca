@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729940751?label=Updated)
+![Relative date](https://img.shields.io/date/1729945043?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -522,7 +522,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|gh|2.59.0|2.60.1|app-devel|Compliance mode enabled, was '2.60.1'|
 |ghc|9.4.8|9.10.1-release|lang-haskell|Compliance mode enabled, was '9.10.1-release'|
 |ghidra|11.1.2_build|11.2_build|app-devel||
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
@@ -533,7 +532,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cliff|2.4.0|2.6.1|app-vcs|Compliance mode enabled, was '2.6.1'|
-|git-extras|7.2.0|7.3.0|app-devel|Compliance mode enabled, was '7.3.0'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
 |gjs|1.74.0|1.82.1|desktop-gnome|Compliance mode enabled, was '1.82.1'|
@@ -570,14 +568,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-disk-utility|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-flashback|3.45.1|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-font-viewer|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-initial-setup|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-keyring|40.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |gnome-mahjongg|3.38.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-maps|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
 |gnome-online-accounts|3.44.0|3.52.1|desktop-gnome|Compliance mode enabled, was '3.52.1'|
-|gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
@@ -1120,7 +1116,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts|Compliance mode enabled, was '8.1.2'|
 |libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
-|libetebase|0.5.4|0.5.6|runtime-cryptography|Compliance mode enabled, was '0.5.6'|
 |libetonyek|0.1.9|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
 |libevdev|1.11.0|1.13.3|runtime-devices|Compliance mode enabled, was '1.13.3'|
 |libexif|0.6.22|0.6.24|runtime-imaging|Compliance mode enabled, was '0.6.24'|
@@ -1643,11 +1638,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|1.4.3|2.3.0|runtime-imaging|Compliance mode enabled, was '2.3.0'|
 |openimageio|2.4.17.0|2.5.16.0|runtime-imaging|Compliance mode enabled, was '2.5.16.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.24-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.24-ga -> 11.0.18)|
-|openjdk-17|17.0.12-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.12-ga -> 17.0.2)|
-|openjdk-21|21.0.4-ga|21.0.5-ga|lang-java||
-|openjdk-23|23-ga|23.0.1-ga|lang-java||
-|openjdk-8|8u422-ga|8u442-b00|groups||
+|openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
+|openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
+|openjdk-8|8u432-ga|8u442-b00|groups||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-23|23-ga|23.0.1-ga|lang-java||
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
@@ -1977,7 +1970,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |print-manager|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|prismlauncher|9.0|9.1|app-games|Compliance mode enabled, was '9.1'|
 |prison5|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.0|app-gis|Compliance mode enabled, was '9.5.0'|
@@ -2632,8 +2624,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20240305|3197|runtime-multimedia|Compliance mode enabled, was '3197'|
-|x264+32|20160827.2245|3197|runtime-optenv32|Compliance mode enabled, was '3197'<br>Possible downgrade from the current version (20160827.2245 -> 3197)|
+|x264|0<br>+git20240305|3198|runtime-multimedia|Compliance mode enabled, was '3198'|
+|x264+32|20160827.2245|3198|runtime-optenv32|Compliance mode enabled, was '3198'<br>Possible downgrade from the current version (20160827.2245 -> 3198)|
 |x265|3.6|4.0|runtime-multimedia|Compliance mode enabled, was '4.0'|
 |x265+32|2.2|4.0|runtime-optenv32|Compliance mode enabled, was '4.0'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
