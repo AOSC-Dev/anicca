@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729897984?label=Updated)
+![Relative date](https://img.shields.io/date/1729903114?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -332,6 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.1.2|lang-python|Compliance mode enabled, was '5.1.2'|
 |dkms|3.0.13|3.1.1|app-admin|Compliance mode enabled, was '3.1.1'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
+|dnsdiag|2.5.0|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |dnspython|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -678,6 +679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hivex|1.3.23|1.3.24|app-admin|Compliance mode enabled, was '1.3.24'|
+|hmcl|3.5.9.257|3.5.9.258|app-games|Compliance mode enabled, was '3.5.9.258'|
 |hotdoc|0.13.7|0.17.1|app-doc|Compliance mode enabled, was '0.17.1'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
@@ -690,7 +692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
-|hugo|0.134.1|0.136.4|app-web|Compliance mode enabled, was '0.136.4'|
+|hugo|0.134.1|0.136.5|app-web|Compliance mode enabled, was '0.136.5'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwdata|0.384|0.388|runtime-data|Compliance mode enabled, was '0.388'|
@@ -716,8 +718,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-uniemoji|0.6.0|0.7.0|app-i18n|Compliance mode enabled, was '0.7.0'|
 |icdiff|1.9.5|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'|
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Compliance mode enabled, was '1.2.26.orig'<br>Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
-|icu|74.2|75.1|runtime-i18n|Compliance mode enabled, was '75-1'|
-|icu+32|64.2|75.1|runtime-optenv32|Compliance mode enabled, was '75-1'|
+|icu|74.2|76.1|runtime-i18n|Compliance mode enabled, was '76-1'|
+|icu+32|64.2|76.1|runtime-optenv32|Compliance mode enabled, was '76-1'|
 |id3|0.80|0.81|app-utils|Compliance mode enabled, was '0.81'|
 |idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
