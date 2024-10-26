@@ -2609,7 +2609,7 @@
 ["lxc","6.0.1","6.0.2","app-admin",1723477262,["Compliance mode enabled, was '6.0.2'"]],
 ["open-iscsi","2.1.9","2.1.10","app-admin",1716443426,["Compliance mode enabled, was '2.1.10'"]],
 ["accountsservice","22.08.8","23.13.9","app-admin",1678601096,["Compliance mode enabled, was '23.13.9'"]],
-["numactl","2.0.14","2.0.18","app-admin",1600761896,["Compliance mode enabled, was '2.0.18'"]],
+["numactl","2.0.14","2.0.19","app-admin",1600761896,["Compliance mode enabled, was '2.0.19'"]],
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
 ["mdadm","4.2","4.3","app-admin",1673935786,["Compliance mode enabled, was '4.3'"]],
 ["sqlmap","1.8.8","1.8.9","app-penetration",1723092772,["Compliance mode enabled, was '1.8.9'"]],
