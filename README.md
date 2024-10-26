@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729955295?label=Updated)
+![Relative date](https://img.shields.io/date/1729959059?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -869,7 +869,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kemoticons|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kernel-tools|6.10.14|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.14 -> 5.19.17)|
-|keyring|21.7.0|25.4.1|lang-python|Compliance mode enabled, was '25.4.1'|
+|keyring|21.7.0|25.5.0|lang-python|Compliance mode enabled, was '25.5.0'|
 |keysmith|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |keystoneauth1|5.7.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |keystoneclient|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
@@ -1500,8 +1500,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.2|0.6.3|desktop-xfce|Compliance mode enabled, was '0.6.3'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
-|mpg123|1.25.13|1.32.7|app-multimedia|Compliance mode enabled, was '1.32.7'|
-|mpg123+32|1.25.13|1.32.7|runtime-optenv32|Compliance mode enabled, was '1.32.7'|
+|mpg123|1.25.13|1.32.8|app-multimedia|Compliance mode enabled, was '1.32.8'|
+|mpg123+32|1.25.13|1.32.8|runtime-optenv32|Compliance mode enabled, was '1.32.8'|
 |mpmath|1.1.0|1.4.0~a2|lang-python|Compliance mode enabled, was '1.4.0a2'|
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
