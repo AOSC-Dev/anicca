@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729923174?label=Updated)
+![Relative date](https://img.shields.io/date/1729926619?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -207,6 +207,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
+|cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
 |certbot-apache|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
 |certbot-dns-cloudflare|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
 |certbot-nginx|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
@@ -1083,8 +1084,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbpf|1.2.0|1.4.6|runtime-kernel|Compliance mode enabled, was '1.4.6'|
 |libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
-|libcap|2.69|2.70|runtime-common|Compliance mode enabled, was '2.70'|
-|libcap+32|2.31|2.70|runtime-optenv32|Compliance mode enabled, was '2.70'|
+|libcap|2.69|2.71|runtime-common|Compliance mode enabled, was '2.71'|
+|libcap+32|2.31|2.71|runtime-optenv32|Compliance mode enabled, was '2.71'|
 |libcap-ng|0.7.11|0.8.5|runtime-common|Compliance mode enabled, was '0.8.5'|
 |libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
 |libcdio+32|0.94|2.1.0|runtime-optenv32|Compliance mode enabled, was '2.1.0'|
@@ -1395,6 +1396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |lokalize|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
+|lowdown|1.1.2|1.2.0|app-doc|Compliance mode enabled, was '1_2_0'|
 |lpsolve|5.5.2.5|5.6.21|app-scientific|Compliance mode enabled, was '5.6.21'|
 |lrs|071a|073|app-scientific|Compliance mode enabled, was '073'|
 |lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
