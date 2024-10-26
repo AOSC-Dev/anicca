@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1729908667?label=Updated)
+![Relative date](https://img.shields.io/date/1729912500?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -956,7 +956,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotes|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |knotifications|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |knotifyconfig|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
-|kodi-pvr-iptvsimple|19.2.2|22.2.2-piers|app-multimedia|Compliance mode enabled, was '22.2.2-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.3.0-piers|app-multimedia|Compliance mode enabled, was '22.3.0-Piers'|
 |koko|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kolf|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kollision|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -1030,7 +1030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.29.0|0.31.0|app-network|Compliance mode enabled, was '0.31.0'|
 |kubrick|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kunitconversion|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
-|kvantum|1.0.10|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
+|kvantum|1.0.10|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
 |kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kwallet|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kwallet-pam|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
@@ -2394,6 +2394,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemtap|4.4|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |taglib|1.11.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
+|taglib+32|1.11|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.3.1|runtime-multimedia|Compliance mode enabled, was '12.3.1'|
 |tailscale|1.76.0|1.76.1|app-network|Compliance mode enabled, was '1.76.1'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
@@ -2708,7 +2709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.156.1|0.158.2|app-editors|Compliance mode enabled, was '0.158.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
-|zeroconf|0.28.6|0.135.0|lang-python|Compliance mode enabled, was '0.135.0'|
+|zeroconf|0.28.6|0.136.0|lang-python|Compliance mode enabled, was '0.136.0'|
 |zfec|1.5.3|1.5.7.4|lang-python|Compliance mode enabled, was '1.5.7.4'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
