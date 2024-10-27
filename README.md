@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730009565?label=Updated)
+![Relative date](https://img.shields.io/date/1730013006?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -252,6 +252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
+|cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|286.1|327|app-admin|Compliance mode enabled, was '327'|
 |cockpit-machines|284.1|322|app-admin|Compliance mode enabled, was '322'|
@@ -722,7 +723,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.13|runtime-scientific|Compliance mode enabled, was '0.10.13'|
-|igsc|0.9.3|0.9.4|runtime-devices|Compliance mode enabled, was '0.9.4'|
 |imagemagick|6.9.13<br>+16|6.9.13+17|app-utils|Compliance mode enabled, was '6.9.13-17'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+39|app-utils|Compliance mode enabled, was '7.1.1-39'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
@@ -735,9 +735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
-|intel-compute-runtime|24.35.30872.22|24.39.31294.12|runtime-scientific|Compliance mode enabled, was '24.39.31294.12'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
-|intel-graphics-compiler|1.0.17537.20|1.0.17791.9|app-devel|Compliance mode enabled, was '1.0.17791.9'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
 |intel-oneapi-basekit|2024.2.1|2025.0.0|app-devel|Compliance mode enabled, was '2025.0.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
@@ -1061,7 +1059,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
-|level-zero|1.17.42|1.18.3|runtime-common|Compliance mode enabled, was '1.18.3'|
 |levenshtein|0.12.0|0.26.0|lang-python|Compliance mode enabled, was '0.26.0'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -1470,7 +1467,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.5|runtime-display|Compliance mode enabled, was '24.2.5'|
 |messagelib|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
-|metee|4.2.0|4.2.1|runtime-devices|Compliance mode enabled, was '4.2.1'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.4|app-web|Compliance mode enabled, was '11.4'|
 |milou|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
@@ -2305,7 +2301,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.5|app-web|Compliance mode enabled, was '1.0.5'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
-|spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdx-licenses|3.24.0|3.25.0|runtime-data|Compliance mode enabled, was '3.25.0'|
 |spectacle|22.12.3|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
