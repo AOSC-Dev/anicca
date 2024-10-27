@@ -420,6 +420,7 @@
 ["xl2tpd","1.3.15","1.3.18","app-network",1573873544,["Compliance mode enabled, was '1.3.18'"]],
 ["realmd","0.17.1","0.16.3","app-network",1678351353,["Compliance mode enabled, was '0.16.3'","Possible downgrade from the current version (0.17.1 -> 0.16.3)"]],
 ["sshpass","1.06","1.10","app-network",1552787668,["Compliance mode enabled, was '1.10'"]],
+["spamassassin","3.4.6","4.0.1","app-network",1620896491,["Compliance mode enabled, was '4.0.1'"]],
 ["slurm","0.4.4","0.5.1","app-network",1600577920,["Compliance mode enabled, was '0.5.1'"]],
 ["networkmanager-openvpn","1.8.12","1.12.0","app-network",1584387426,["Compliance mode enabled, was '1.12.0'"]],
 ["xpra","6.1.2","6.2","app-network",1727581856,["Compliance mode enabled, was '6.2'"]],
