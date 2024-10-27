@@ -78,7 +78,7 @@
 ["setuptools-rust","1.9.0","1.10.2","lang-python",1719323131,["Compliance mode enabled, was '1.10.2'"]],
 ["django","5.0.3","5.1.2","lang-python",1712767628,["Compliance mode enabled, was '5.1.2'"]],
 ["backports","0","1.1","lang-python",1549919968,["Compliance mode enabled, was '1.1'"]],
-["pypdf","4.0.1","5.0.1","lang-python",1707299111,["Compliance mode enabled, was '5.0.1'"]],
+["pypdf","4.0.1","5.1.0","lang-python",1707299111,["Compliance mode enabled, was '5.1.0'"]],
 ["pyopengl","3.1.5","3.1.7","lang-python",1581796622,["Compliance mode enabled, was '3.1.7'"]],
 ["python-markdown-math","0.6","0.8","lang-python",1572507479,["Compliance mode enabled, was '0.8'"]],
 ["astroid","2.12.2","3.3.5","lang-python",1658217673,["Compliance mode enabled, was '3.3.5'"]],
