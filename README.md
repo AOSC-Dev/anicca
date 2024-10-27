@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730023835?label=Updated)
+![Relative date](https://img.shields.io/date/1730027088?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1891,13 +1891,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|pikepdf|8.15.1|9.3.0|app-doc|Compliance mode enabled, was '9.3.0'|
+|pikepdf|8.15.1|9.4.0|app-doc|Compliance mode enabled, was '9.4.0'|
 |pillow|10.4.0|11.0.0|lang-python|Compliance mode enabled, was '11.0.0'|
 |pim-data-exporter|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |pim-sieve-editor|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |pimcommon|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
-|pip|22.3.1|24.2|lang-python|Compliance mode enabled, was '24.2'|
+|pip|22.3.1|24.3|lang-python|Compliance mode enabled, was '24.3'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |pixman|0.43.0|0.43.4|runtime-display|Compliance mode enabled, was '0.43.4'|
