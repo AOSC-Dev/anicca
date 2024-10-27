@@ -1943,6 +1943,7 @@
 ["zbar","0.23.90","0.23.93","app-utils",1551388660,["Compliance mode enabled, was '0.23.93'"]],
 ["ipmitool","1.8.18","1.8.19","app-utils",1488653406,["Compliance mode enabled, was '1_8_19'"]],
 ["typos","1.24.6","1.26.8","app-utils",1727590646,["Compliance mode enabled, was '1.26.8'"]],
+["fzf","0.55.0","0.56.0","app-utils",1727015619,["Compliance mode enabled, was '0.56.0'"]],
 ["pcp","6.0.1","6.3.1","app-utils",1678351353,["Compliance mode enabled, was '6.3.1'"]],
 ["lightdm-gtk-greeter-settings","1.2.2","1.2.3","app-utils",1527956211,["Compliance mode enabled, was '1.2.3'"]],
 ["unrar","6.2.2","6.2.12","app-utils",1674452224,["Compliance mode enabled, was '6.2.12'"]],
