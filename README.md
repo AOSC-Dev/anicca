@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730048859?label=Updated)
+![Relative date](https://img.shields.io/date/1730052802?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -125,6 +125,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compliance mode enabled, was '019'|
 |babel|2.9.1|2.16.0|lang-python|Compliance mode enabled, was '2.16.0'|
+|babl|0.1.108|0.1.110|runtime-imaging|Compliance mode enabled, was '0_1_110'|
 |backcall|0.1.0|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |backports|0|1.1|lang-python|Compliance mode enabled, was '1.1'|
 |backports-functools-lru-cache|1.5|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -1840,10 +1841,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-date-manip|6.82|6.95|lang-perl|Compliance mode enabled, was '6.95'|
 |perl-datetime|1.52|1.65|lang-perl|Compliance mode enabled, was '1.65'|
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
-|perl-datetime-locale|1.26|1.43|lang-perl|Compliance mode enabled, was '1.43'|
+|perl-datetime-locale|1.26|1.44|lang-perl|Compliance mode enabled, was '1.44'|
 |perl-datetime-timezone|2.62|2.63|lang-perl|Compliance mode enabled, was '2.63'|
 |perl-dbd-mysql|4.052|5.009|lang-perl|Compliance mode enabled, was '5.009'|
-|perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
 |perl-dbi|1.642|1.645|lang-perl|Compliance mode enabled, was '1.645'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
