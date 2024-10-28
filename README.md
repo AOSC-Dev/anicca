@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730135418?label=Updated)
+![Relative date](https://img.shields.io/date/1730139201?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -297,7 +297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20241006.0|app-devel|Compliance mode enabled, was '6.1.20241006.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241006.0)|
+|ctags|20191203|6.1.20241027.0|app-devel|Compliance mode enabled, was '6.1.20241027.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241027.0)|
 |cuda|12.5.0|12.6.2|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.0|app-admin|Compliance mode enabled, was '2.1.0'|
@@ -2323,6 +2323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
 |sdcc|4.3.6|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
 |sddm-kcm|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
+|sdl-gfx|2.0.25|2.0.27|runtime-multimedia|Compliance mode enabled, was '2.0.27'|
 |sdl-sound|1.0.3|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
 |sdl-sound+32|1.0.3|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |sdl-ttf|2.0.11|2.22.0|runtime-multimedia|Compliance mode enabled, was '2.22.0'|
