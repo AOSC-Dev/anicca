@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730076125?label=Updated)
+![Relative date](https://img.shields.io/date/1730081894?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1701,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.11.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
-|oolite|1.90|1.91.0.7641-241024-7bb5a05|app-games|Compliance mode enabled, was '1.91.0.7641-241024-7bb5a05'|
+|oolite|1.90|1.91.0.7642-241026-716e67e|app-games|Compliance mode enabled, was '1.91.0.7642-241026-716e67e'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
@@ -1732,7 +1732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2.6.8|app-admin|Compliance mode enabled, was '2_6_8'|
 |openldap+32|2.4.59|2.6.8|runtime-optenv32|Compliance mode enabled, was '2_6_8'|
 |openmpi|4.1.6|5.0.5|app-scientific|Compliance mode enabled, was '5.0.5'|
-|openmpt|0.6.4|0.7.10|app-multimedia|Compliance mode enabled, was '0.7.10'|
+|openmpt|0.6.4|0.7.11|app-multimedia|Compliance mode enabled, was '0.7.11'|
 |openmw|0.48.0<br>+git20240902|0.48.0|app-games|Compliance mode enabled, was '0.48.0'|
 |openpgl|0.5.0|0.7.0|runtime-creativity|Compliance mode enabled, was '0.7.0'|
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
@@ -2223,7 +2223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
 |rclone|1.68.0|1.68.1|app-web|Compliance mode enabled, was '1.68.1'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|rdflib|6.2.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
+|rdflib|6.2.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
 |rdma-core|51.0|54.0|app-admin|Compliance mode enabled, was '54.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
@@ -2626,7 +2626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tuned|2.19.0|2.24.0|app-admin|Compliance mode enabled, was '2.24.0'|
 |twin-style-fahrenheit|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twin-style-machbunt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|twisted|21.2.0|24.7.0|lang-python|Compliance mode enabled, was '24.7.0'|
+|twisted|21.2.0|24.10.0|lang-python|Compliance mode enabled, was '24.10.0'|
 |twm|1.0.11|1.0.12|desktop-wm|Compliance mode enabled, was '1.0.12'|
 |twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
