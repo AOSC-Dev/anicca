@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730142386?label=Updated)
+![Relative date](https://img.shields.io/date/1730146377?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -798,6 +798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
+|k3b|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |k3b-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |k9copy-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kaccounts-integration|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2729,7 +2730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.3|app-games|Compliance mode enabled, was '4.5.3'|
-|watchman|4.9.0|2024.10.21.00|app-utils|Compliance mode enabled, was '2024.10.21.00'|
+|watchman|4.9.0|2024.10.28.00|app-utils|Compliance mode enabled, was '2024.10.28.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
