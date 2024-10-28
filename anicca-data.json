@@ -1053,7 +1053,6 @@
 ["ibus-libpinyin","1.12.0","1.15.92","app-i18n",1565150262,["Compliance mode enabled, was '1.15.92'"]],
 ["rime-cantonese","2023.06.15+git20230912","2023.06.15","app-i18n",1701762496,["Compliance mode enabled, was '2023.06.15'"]],
 ["fcitx5-mozc","2.29.5160.102+fcitx5+git20230919","2.30.5544.102","app-i18n",1696160477,["Compliance mode enabled, was '2.30.5544.102'"]],
-["fcitx5-unikey","5.1.4","5.1.5","app-i18n",1715414637,["Compliance mode enabled, was '5.1.5'"]],
 ["fcitx5-chinese-addons","5.1.6","5.1.7","app-i18n",1719190277,["Compliance mode enabled, was '5.1.7'"]],
 ["ibus","1.5.25","1.5.30","app-i18n",1633153813,["Compliance mode enabled, was '1.5.30'"]],
 ["fcitx5-kkc","5.1.4","5.1.5","app-i18n",1719190277,["Compliance mode enabled, was '5.1.5'"]],
