@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730124734?label=Updated)
+![Relative date](https://img.shields.io/date/1730128383?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -466,6 +466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.5|1.9.6|lang-ocaml|Compliance mode enabled, was '1.9.6'|
 |fio|3.35|3.38|app-utils|Compliance mode enabled, was '3.38'|
+|firefox|131.0.3|132.0|app-web|Compliance mode enabled, was '132.0'|
 |firewalld|2.2.1|2.2.3|app-network|Compliance mode enabled, was '2.2.3'|
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.4.0|app-admin|Compliance mode enabled, was '1.4.0'|
@@ -1459,7 +1460,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
 |linux-firmware|20241004|20241017|runtime-kernel||
 |linux-kernel|6.10.14|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.14 -> 5.19.17)|
-|linux-kernel-lts|6.6.57|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.57 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
 |linux-kernel-retro-minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
 |linux-pam|1.6.1|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
@@ -2466,6 +2466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|sway|1.9|1.10|desktop-wm|Compliance mode enabled, was '1.10'|
 |sweeper|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |swig|4.1.1|4.3.0|app-devel|Compliance mode enabled, was '4.3.0'|
@@ -2600,7 +2601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqca|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tqdm|4.62.3|4.66.5|lang-python|Compliance mode enabled, was '4.66.5'|
+|tqdm|4.62.3|4.66.6|lang-python|Compliance mode enabled, was '4.66.6'|
 |tqt3|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
@@ -2730,6 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
+|wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
