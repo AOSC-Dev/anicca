@@ -2725,7 +2725,7 @@
 ["criu","3.19","4.0","app-admin",1706667429,["Compliance mode enabled, was '4.0'"]],
 ["crun","1.16.1","1.18","app-admin",1724916616,["Compliance mode enabled, was '1.18'"]],
 ["aardvark-dns","1.9.0","1.12.2","app-admin",1701831525,["Compliance mode enabled, was '1.12.2'"]],
-["osinfo-db-tools","1.10.0","1.11.0","app-admin",1694574450,["Compliance mode enabled, was '1.11.0'"]],
+["osinfo-db-tools","1.10.0","1.12.0","app-admin",1694574450,["Compliance mode enabled, was '1.12.0'"]],
 ["oma","1.11.0","1.12.13","app-admin",1727965045,["Compliance mode enabled, was '1.12.13'"]],
 ["squashfuse","0.1.105","0.5.2","app-admin",1663359141,["Compliance mode enabled, was '0.5.2'"]],
 ["snapd","2.65.1","2.66.1","app-admin",1727015619,["Compliance mode enabled, was '2.66.1'"]],
