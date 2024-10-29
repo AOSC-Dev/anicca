@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730221924?label=Updated)
+![Relative date](https://img.shields.io/date/1730225610?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1156,7 +1156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32|Compliance mode enabled, was '1.3.4'|
-|libbpf|1.2.0|1.4.6|runtime-kernel|Compliance mode enabled, was '1.4.6'|
+|libbpf|1.2.0|1.5.0|runtime-kernel|Compliance mode enabled, was '1.5.0'|
 |libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2237,7 +2237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.9.11|lang-python|Compliance mode enabled, was '2024.9.11'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.35|1.4.36|app-network|Compliance mode enabled, was '1.4.36'|
-|repo|2.45|2.48|app-devel|Compliance mode enabled, was '2.48'|
+|repo|2.45|2.49|app-devel|Compliance mode enabled, was '2.49'|
 |reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
@@ -2810,6 +2810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|runtime-common|Compliance mode enabled, was '1.59.03'|
 |xmlsec|1.2.36|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
+|xorg-server|21.1.13|21.1.14|runtime-display|Compliance mode enabled, was '21.1.14'|
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
 |xpra|6.1.2|6.2|app-network|Compliance mode enabled, was '6.2'|
@@ -2821,7 +2822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|395|app-utils|Compliance mode enabled, was '395'|
-|xwayland|24.1.1|24.1.3|runtime-display|Compliance mode enabled, was '24.1.3'|
+|xwayland|24.1.1|24.1.4|runtime-display|Compliance mode enabled, was '24.1.4'|
 |xxhash|0.8.1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'|
 |xz|5.6.2|5.6.3|app-utils|Compliance mode enabled, was '5.6.3'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
