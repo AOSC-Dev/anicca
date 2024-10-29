@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730196798?label=Updated)
+![Relative date](https://img.shields.io/date/1730200224?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1061,6 +1061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kross|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kruler|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |krunner|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
+|krusader|2.7.2|2.8.1|desktop-kde|Compliance mode enabled, was '2.8.1'|
 |krusader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksanecore|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kscope-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1070,6 +1071,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kservice|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |ksh93|2020.0.0|1.0.10|app-shells|Compliance mode enabled, was '1.0.10'<br>Possible downgrade from the current version (2020.0.0 -> 1.0.10)|
 |kshisen|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|kshowmail-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kshutdown-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksirk|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |ksmtp|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -2335,8 +2337,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sequoia-sq|0.36.0|0.38.0|app-cryptography|Compliance mode enabled, was '0.38.0'|
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
-|setuptools-python2|44.1.0|75.2.0|lang-python|Compliance mode enabled, was '75.2.0'|
-|setuptools-python3|69.1.0|75.2.0|lang-python|Compliance mode enabled, was '75.2.0'|
+|setuptools-python2|44.1.0|75.3.0|lang-python|Compliance mode enabled, was '75.3.0'|
+|setuptools-python3|69.1.0|75.3.0|lang-python|Compliance mode enabled, was '75.3.0'|
 |setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
 |setuptools-scm|7.1.0|8.1.0|lang-python|Compliance mode enabled, was '8.1.0'|
 |sfml|2.5.1|2.6.1|runtime-multimedia|Compliance mode enabled, was '2.6.1'|
