@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730208069?label=Updated)
+![Relative date](https://img.shields.io/date/1730211054?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -200,6 +200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |calls|46.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |calver|2022.06.26|2022.6.26|lang-python|Compliance mode enabled, was '2022.6.26'|
 |camlp4|4.14<br>+1|5.2+1|lang-ocaml|Compliance mode enabled, was '5.2+1'|
+|camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
@@ -1056,7 +1057,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krename-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kreversi|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |krfb|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|krita|5.2.2|5.2.6|app-creativity|Compliance mode enabled, was '5.2.6'|
+|krita|5.2.2|5.2.7|app-creativity|Compliance mode enabled, was '5.2.7'|
 |kross|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kruler|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |krunner|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
