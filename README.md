@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730301088?label=Updated)
+![Relative date](https://img.shields.io/date/1730304854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1171,7 +1171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
 |libchewing|0.5.1|0.9.1|runtime-i18n|Compliance mode enabled, was '0.9.1'|
-|libclc|18.1.8|19.1.2|runtime-devices|Compliance mode enabled, was '19.1.2'|
+|libclc|18.1.8|19.1.3|runtime-devices|Compliance mode enabled, was '19.1.3'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
@@ -1469,9 +1469,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm|18.1.8|19.1.2|app-devel|Compliance mode enabled, was '19.1.2'|
-|llvm+32|14.0.6|19.1.2|runtime-optenv32|Compliance mode enabled, was '19.1.2'|
-|llvm-runtime+wasi|18.1.8|19.1.2|runtime-wasi|Compliance mode enabled, was '19.1.2'|
+|llvm|18.1.8|19.1.3|app-devel|Compliance mode enabled, was '19.1.3'|
+|llvm+32|14.0.6|19.1.3|runtime-optenv32|Compliance mode enabled, was '19.1.3'|
+|llvm-runtime+wasi|18.1.8|19.1.3|runtime-wasi|Compliance mode enabled, was '19.1.3'|
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
