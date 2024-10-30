@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730319214?label=Updated)
+![Relative date](https://img.shields.io/date/1730322613?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2242,7 +2242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.9.11|lang-python|Compliance mode enabled, was '2024.9.11'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.35|1.4.36|app-network|Compliance mode enabled, was '1.4.36'|
-|repo|2.45|2.49|app-devel|Compliance mode enabled, was '2.49'|
+|repo|2.45|2.49.1|app-devel|Compliance mode enabled, was '2.49.1'|
 |reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
@@ -2642,7 +2642,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |typos|1.24.6|1.26.8|app-utils|Compliance mode enabled, was '1.26.8'|
 |tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
-|uboot-asahi|2023.07.02<br>+3|2024.07+1|runtime-kernel|Compliance mode enabled, was '2024.07-1'|
+|uboot-asahi|2023.07.02<br>+3|2024.10+1|runtime-kernel|Compliance mode enabled, was '2024.10-1'|
 |uboot-tools|2022.10|2024.10|app-utils|Compliance mode enabled, was '2024.10'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
@@ -2797,7 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-evdev|2.10.6|2.11.0|runtime-display|Compliance mode enabled, was '2.11.0'|
 |xf86-input-libinput|1.4.0|1.5.0|runtime-display|Compliance mode enabled, was '1.5.0'|
-|xf86-input-wacom|1.2.0|1.2.2|runtime-display|Compliance mode enabled, was '1.2.2'|
+|xf86-input-wacom|1.2.0|1.2.3|runtime-display|Compliance mode enabled, was '1.2.3'|
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-mach64|6.9.7|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
@@ -2817,7 +2817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
-|xpra|6.1.2|6.2|app-network|Compliance mode enabled, was '6.2'|
+|xpra|6.1.2|6.2.1|app-network|Compliance mode enabled, was '6.2.1'|
 |xray|24.9.7|24.10.16|app-network|Compliance mode enabled, was '24.10.16'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
 |xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
