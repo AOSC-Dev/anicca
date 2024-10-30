@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730248792?label=Updated)
+![Relative date](https://img.shields.io/date/1730254491?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -237,6 +237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |chromium|127.0.6533.119|130.0.6723.91|app-web|Compliance mode enabled, was '130.0.6723.91'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
+|chrpath|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.2.9|groups|Compliance mode enabled, was '6.2.9'|
 |cinnamon-control-center|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
@@ -720,7 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.115.5|lang-python|Compliance mode enabled, was '6.115.5'|
+|hypothesis-python|6.97.4|6.115.6|lang-python|Compliance mode enabled, was '6.115.6'|
 |hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -774,6 +775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |itsdangerous|1.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
 |j4-dmenu-desktop|2.17|3.1|app-utils|Compliance mode enabled, was '3.1'|
+|janus|1.0.0|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
 |jbig2dec|0.18|0.20|runtime-imaging|Compliance mode enabled, was '0.20'|
 |jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
@@ -1705,7 +1707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.11.0|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
-|oolite|1.90|1.91.0.7642-241026-716e67e|app-games|Compliance mode enabled, was '1.91.0.7642-241026-716e67e'|
+|oolite|1.90|1.91.0.7643-241028-5b0b3a2|app-games|Compliance mode enabled, was '1.91.0.7643-241028-5b0b3a2'|
 |opam|2.1.6|2.2.1|lang-ocaml|Compliance mode enabled, was '2.2.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
@@ -1730,6 +1732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
 |openjdk-8|8u432-ga|8u442-b00|groups||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
+|openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
 |openjfx-23|23-ga|23.0.1-ga|lang-java||
 |openjpeg-legacy|1.5.2|2.5.2|runtime-imaging|Compliance mode enabled, was '2.5.2'|
 |openjpeg-legacy+32|1.5.2|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
