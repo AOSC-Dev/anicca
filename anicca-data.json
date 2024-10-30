@@ -529,7 +529,7 @@
 ["mate-notification-daemon","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
 ["gvfs","1.50.2","1.56.1","desktop-gnome",1663210210,["Compliance mode enabled, was '1.56.1'"]],
 ["tali","40.8","40.9","desktop-gnome",1663210244,["Compliance mode enabled, was '40.9'"]],
-["fractal","8.0","8","desktop-gnome",1722754023,["Compliance mode enabled, was '8'"]],
+["fractal","8.0","9","desktop-gnome",1722754023,["Compliance mode enabled, was '9'"]],
 ["seahorse","42.0","47.0.1","desktop-gnome",1663210244,["Compliance mode enabled, was '47.0.1'"]],
 ["folks","0.15.5","0.15.9","desktop-gnome",1663210253,["Compliance mode enabled, was '0.15.9'"]],
 ["simple-scan","42.1","46.0","desktop-gnome",1663210244,["Compliance mode enabled, was '46.0'"]],
