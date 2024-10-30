@@ -1,5 +1,5 @@
 [
-["sequoia-sq","0.36.0","0.38.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.38.0'"]],
+["sequoia-sq","0.36.0","0.39.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.39.0'"]],
 ["gnupg","2.4.5","2.4.6","app-cryptography",1716443662,["Compliance mode enabled, was '2.4.6'"]],
 ["easy-rsa","3.2.0","3.2.1","app-cryptography",1720958055,["Compliance mode enabled, was '3.2.1'"]],
 ["pkginfo","1.5.0.1","1.11.2","lang-python",1678950872,["Compliance mode enabled, was '1.11.2'"]],
@@ -1025,10 +1025,9 @@
 ["icu+32","64.2","76.1","runtime-optenv32",1563176777,["Compliance mode enabled, was '76-1'"]],
 ["openssl-1.1+32","1.1.1q","3.4.0","runtime-optenv32",1698249840,["Compliance mode enabled, was '3.4.0'"]],
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
-["vim","9.1.0794","9.1.0818","app-editors",1729595225,["Compliance mode enabled, was '9.1.0818'"]],
+["vim","9.1.0794","9.1.0822","app-editors",1729595225,["Compliance mode enabled, was '9.1.0822'"]],
 ["zed","0.156.1","0.158.2","app-editors",1728875766,["Compliance mode enabled, was '0.158.2'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
-["vscode","1.95.0","1.94.2","app-editors",1730261944,["Compliance mode enabled, was '1.94.2'","Possible downgrade from the current version (1.95.0 -> 1.94.2)"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
 ["spdx-licenses","3.24.0","3.25.0","runtime-data",1716726934,["Compliance mode enabled, was '3.25.0'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
