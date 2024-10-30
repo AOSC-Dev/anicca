@@ -1348,6 +1348,7 @@
 ["perl-font-ttf","1.05","1.06","lang-perl",1678950872,["Compliance mode enabled, was '1.06'"]],
 ["perl-path-tiny","0.108","0.146","lang-perl",1535557394,["Compliance mode enabled, was '0.146'"]],
 ["perl-clone","0.46","0.47","lang-perl",1716292365,["Compliance mode enabled, was '0.47'"]],
+["perl-yaml-libyaml","0.85","0.902.0","lang-perl",1678351353,["Compliance mode enabled, was '0.902.0'"]],
 ["perl-file-basedir","0.08","0.09","lang-perl",1530196415,["Compliance mode enabled, was '0.09'"]],
 ["perl-json-parse","0.57","0.43","lang-perl",1596482997,["Compliance mode enabled, was '0.43'","Possible downgrade from the current version (0.57 -> 0.43)"]],
 ["perl-data-optlist","0.110","0.114","lang-perl",1678950872,["Compliance mode enabled, was '0.114'"]],
