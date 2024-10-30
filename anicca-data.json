@@ -2595,7 +2595,7 @@
 ["libmaxminddb","1.4.3","1.11.0","runtime-web",1600321917,["Compliance mode enabled, was '1.11.0'"]],
 ["telepathy-accounts-signon","1.0","2.1","runtime-web",1461632861,["Compliance mode enabled, was '2.1'"]],
 ["uhttpmock","0.5.3","0.11.0","runtime-web",1600321917,["Compliance mode enabled, was '0.11.0'"]],
-["webkit2gtk","2.44.2","2.46.2","runtime-web",1721223235,["Compliance mode enabled, was '2.46.2'"]],
+["webkit2gtk","2.44.2","2.46.3","runtime-web",1721223235,["Compliance mode enabled, was '2.46.3'"]],
 ["libwpe","1.12.2","1.16.0","runtime-web",1663210210,["Compliance mode enabled, was '1.16.0'"]],
 ["chmlib","0.40a","0.40","runtime-doc",1511457561,["Compliance mode enabled, was '0.40'"]],
 ["libcupsfilters","2.0.0","2.1.0","runtime-doc",1712074122,["Compliance mode enabled, was '2.1.0'"]],
