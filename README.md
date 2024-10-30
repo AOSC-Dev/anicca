@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730315134?label=Updated)
+![Relative date](https://img.shields.io/date/1730319214?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -105,7 +105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |attrs|23.2.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
-|audacity|3.6.2|3.6.4|app-creativity|Compliance mode enabled, was '3.6.4'|
+|audacity|3.6.2|3.7.0|app-creativity|Compliance mode enabled, was '3.7.0'|
 |audiocd-kio|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audiotube|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -167,8 +167,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.51|lang-python|Compliance mode enabled, was '1.35.51'|
-|botocore|1.34.133|1.35.51|lang-python|Compliance mode enabled, was '1.35.51'|
+|boto3|1.20.26|1.35.52|lang-python|Compliance mode enabled, was '1.35.52'|
+|botocore|1.34.133|1.35.52|lang-python|Compliance mode enabled, was '1.35.52'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.15|app-utils|Compliance mode enabled, was '51.15'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.15)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1510,7 +1510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzlib|1.11|1.14|runtime-common|Compliance mode enabled, was '1.14'|
 |m17n-db|1.8.7|1.8.8|runtime-i18n|Compliance mode enabled, was '1.8.8'|
 |m1n1|1.4.14|1.4.16|runtime-kernel||
-|m2crypto|0.38.0|0.42.0|lang-python|Compliance mode enabled, was '0.42.0'|
+|m2crypto|0.38.0|0.43.0|lang-python|Compliance mode enabled, was '0.43.0'|
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
 |m3u8|0.7.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |m64py|0.2.5|0.3.0|app-games|Compliance mode enabled, was '0.3.0'|
@@ -1551,9 +1551,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.32|app-admin|Compliance mode enabled, was '1.6.32'|
 |mercurial|6.8.1|6.8.2|app-vcs|Compliance mode enabled, was '6.8.2'|
 |merkuro|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|mesa+32|22.1.7|24.2.5|runtime-optenv32|Compliance mode enabled, was '24.2.5'|
-|mesa-amber|21.3.9|24.2.5|runtime-display|Compliance mode enabled, was '24.2.5'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.5|runtime-display|Compliance mode enabled, was '24.2.5'|
+|mesa|24.2.5|24.2.6|runtime-display||
+|mesa+32|22.1.7|24.2.6|runtime-optenv32|Compliance mode enabled, was '24.2.6'|
+|mesa-amber|21.3.9|24.2.6|runtime-display|Compliance mode enabled, was '24.2.6'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.6|runtime-display|Compliance mode enabled, was '24.2.6'|
 |messagelib|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
