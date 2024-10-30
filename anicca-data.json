@@ -2799,7 +2799,7 @@
 ["synfig","1.5.1","1.5.3","app-creativity",1630127735,["Compliance mode enabled, was '1.5.3'"]],
 ["hugin","2022.0.0","2023.0.0","app-creativity",1612570751,["Compliance mode enabled, was '2023.0.0'"]],
 ["lmms","1.2.2+git20240508","1.2.2","app-creativity",1725420791,["Compliance mode enabled, was '1.2.2'"]],
-["shotcut","21.08.11","24.10.13","app-creativity",1630127735,["Compliance mode enabled, was '24.10.13'"]],
+["shotcut","21.08.11","24.10.29","app-creativity",1630127735,["Compliance mode enabled, was '24.10.29'"]],
 ["musescore","4.3.2","4.4.3","app-creativity",1723091081,["Compliance mode enabled, was '4.4.3'"]],
 ["sbcl","2.4.5","2.4.9","lang-lisp",1717074126,["Compliance mode enabled, was '2.4.9'"]],
 ["cabal-install","3.10.3.0","3.12.1.0","lang-haskell",1711355899,["Compliance mode enabled, was '3.12.1.0'"]],
