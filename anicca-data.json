@@ -841,7 +841,7 @@
 ["ocaml-pp","1.1.2","2.0.0","lang-ocaml",1715073538,["Compliance mode enabled, was '2.0.0'"]],
 ["ocaml-graphics","5.1.0","5.1.2","lang-ocaml",1715073538,["Compliance mode enabled, was '5.1.2'"]],
 ["ocaml-csexp","1.5.1","1.5.2","lang-ocaml",1715073538,["Compliance mode enabled, was '1.5.2'"]],
-["dune","3.4.1","3.16.0","lang-ocaml",1715073538,["Compliance mode enabled, was '3.16.0'"]],
+["dune","3.4.1","3.16.1","lang-ocaml",1715073538,["Compliance mode enabled, was '3.16.1'"]],
 ["gdmd","0.1.0+git20230214","script-0.1.0","lang-dlang",1716196956,["Compliance mode enabled, was 'script-0.1.0'","Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)"]],
 ["ldc","1.38.0","1.39.0","lang-dlang",1716215735,["Compliance mode enabled, was '1.39.0'"]],
 ["nodejs-22","22.10.0","22.11.0","lang-js",1730293806,["Compliance mode enabled, was '22.11.0'"]],
