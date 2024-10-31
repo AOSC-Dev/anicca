@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730387556?label=Updated)
+![Relative date](https://img.shields.io/date/1730391230?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -806,7 +806,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |k3b|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |k3b-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |k9copy-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kaccounts-integration|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kaccounts-providers|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kactivities|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |kactivities-stats|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
@@ -1087,7 +1086,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquirrel-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksshaskpass|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |kstreamripper-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|ksudoku|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |ksystemlog|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |ksystemlog-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksystemstats|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
@@ -1164,6 +1162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32|Compliance mode enabled, was '1.3.4'|
 |libbpf|1.2.0|1.5.0|runtime-kernel|Compliance mode enabled, was '1.5.0'|
 |libburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
+|libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libcap|2.69|2.71|runtime-common|Compliance mode enabled, was '2.71'|
 |libcap+32|2.31|2.71|runtime-optenv32|Compliance mode enabled, was '2.71'|
@@ -2762,6 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireshark|4.4.0|4.4.1|app-network|Compliance mode enabled, was '4.4.1'|
 |wlroots|0.17.4|0.18.1|runtime-display|Compliance mode enabled, was '0.18.1'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
+|wolfssl|5.7.0|5.7.4-stable|runtime-cryptography|Compliance mode enabled, was '5.7.4-stable'|
 |wpebackend-fdo|1.12.1|1.14.3|runtime-web|Compliance mode enabled, was '1.14.3'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
