@@ -2617,7 +2617,7 @@
 ["linux+kernel+rc","5.8.0","5.19.17","runtime-kernel",1678950872,["Compliance mode enabled, was '5.19.17'"]],
 ["linux-kernel-lts","6.6.57","5.19.17","runtime-kernel",1729297937,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.6.57 -> 5.19.17)"]],
 ["sof-firmware","2024.06","2024.09","runtime-kernel",1721640171,["Compliance mode enabled, was '2024.09'"]],
-["m1n1","1.4.14","1.4.16","runtime-kernel",1723484293,[]],
+["m1n1","1.4.14","1.4.17","runtime-kernel",1723484293,[]],
 ["linux-firmware","20241029","20241017","runtime-kernel",1715161723,["Possible downgrade from the current version (20241029 -> 20241017)"]],
 ["linux-kernel-retro-minimal","5.15.17","5.10.228","runtime-kernel",1657657729,["Compliance mode enabled, was '5.10.228'","Possible downgrade from the current version (5.15.17 -> 5.10.228)"]],
 ["libbpf","1.2.0","1.5.0","runtime-kernel",1691930192,["Compliance mode enabled, was '1.5.0'"]],
