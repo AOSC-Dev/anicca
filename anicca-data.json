@@ -52,7 +52,6 @@
 ["construct","2.9.45","2.10.70","lang-python",1530718720,["Compliance mode enabled, was '2.10.70'"]],
 ["pygit2","1.14.1","1.16.0","lang-python",1713876035,["Compliance mode enabled, was '1.16.0'"]],
 ["entrypoints","0.3","0.4","lang-python",1551161308,["Compliance mode enabled, was '0.4'"]],
-["pywbem","0.13.0","1.7.2","lang-python",1551200606,["Compliance mode enabled, was '1.7.2'"]],
 ["precis-i18n","1.0.3","1.1.0","lang-python",1634788047,["Compliance mode enabled, was '1.1.0'"]],
 ["python-xmp-toolkit","2.0.1","2.0.2","lang-python",1538927054,["Compliance mode enabled, was '2.0.2'"]],
 ["webencodings","0.5","0.5.1","lang-python",1478270741,["Compliance mode enabled, was '0.5.1'"]],
