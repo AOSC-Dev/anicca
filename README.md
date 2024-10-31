@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730365898?label=Updated)
+![Relative date](https://img.shields.io/date/1730369513?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1463,7 +1463,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
 |linux+kernel+retro+minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
-|linux-firmware|20241004|20241017|runtime-kernel||
+|linux-firmware|20241029|20241017|runtime-kernel|Possible downgrade from the current version (20241029 -> 20241017)|
 |linux-kernel|6.10.14|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.14 -> 5.19.17)|
 |linux-kernel-lts|6.6.57|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.57 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
@@ -1590,8 +1590,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.2|0.6.3|desktop-xfce|Compliance mode enabled, was '0.6.3'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
-|mpg123|1.25.13|1.32.8|app-multimedia|Compliance mode enabled, was '1.32.8'|
-|mpg123+32|1.25.13|1.32.8|runtime-optenv32|Compliance mode enabled, was '1.32.8'|
 |mplayerthumbs-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mpmath|1.1.0|1.4.0~a2|lang-python|Compliance mode enabled, was '1.4.0a2'|
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
