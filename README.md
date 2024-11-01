@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730463412?label=Updated)
+![Relative date](https://img.shields.io/date/1730467129?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2203,7 +2203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
 |qtpy|2.1.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
-|qtractor|0.9.23|1.3.0|app-multimedia|Compliance mode enabled, was '1.3.0'|
+|qtractor|0.9.23|1.4.0|app-multimedia|Compliance mode enabled, was '1.4.0'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
@@ -2489,8 +2489,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |targetcli-fb|2.1.54|2.1.58|app-admin|Compliance mode enabled, was '2.1.58'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tbb|2021.11.0|2021.13.0|runtime-common|Compliance mode enabled, was '2021.13.0'|
-|tbb+32|4.4u4|2021.13.0|runtime-optenv32|Compliance mode enabled, was '2021.13.0'|
+|tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
+|tbb+32|4.4u4|2022.0.0|runtime-optenv32|Compliance mode enabled, was '2022.0.0'|
 |tcl|8.6.14|9.0.0|lang-tcl|Compliance mode enabled, was '9.0.0'|
 |tcl+32|8.6.10|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
 |tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
@@ -2542,7 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.0|app-doc|Compliance mode enabled, was '1.7.0'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.5.3|5.6.4|app-web|Compliance mode enabled, was '5.6.4'|
+|telegram-desktop|5.5.3|5.7.0|app-web|Compliance mode enabled, was '5.7.0'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
