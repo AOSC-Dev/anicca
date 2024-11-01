@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730416456?label=Updated)
+![Relative date](https://img.shields.io/date/1730421807?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1447,7 +1447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt|1.1.34|1.1.42|runtime-common|Compliance mode enabled, was '1.1.42'|
 |libxslt+32|1.1.34|1.1.42|runtime-optenv32|Compliance mode enabled, was '1.1.42'|
 |libzen|0.4.38|0.4.41|runtime-common|Compliance mode enabled, was '0.4.41'|
-|libzip|1.5.2|1.11.1|runtime-common|Compliance mode enabled, was '1.11.1'|
+|libzip|1.5.2|1.11.2|runtime-common|Compliance mode enabled, was '1.11.2'|
 |liferea|1.13.8|1.15.8|app-web|Compliance mode enabled, was '1.15.8'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
@@ -1690,7 +1690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia|560.35.03|565.57.01|runtime-display|Compliance mode enabled, was '565.57.01'|
 |nvidia+32|0|565.57.01|runtime-optenv32|Compliance mode enabled, was '565.57.01'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
-|nvme-cli|2.9.1|2.10.2|app-admin|Compliance mode enabled, was '2.10.2'|
+|nvme-cli|2.9.1|2.11|app-admin|Compliance mode enabled, was '2.11'|
 |ocaml|4.14.2|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2245,7 +2245,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.9.11|lang-python|Compliance mode enabled, was '2024.9.11'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.35|1.4.36|app-network|Compliance mode enabled, was '1.4.36'|
-|repo|2.45|2.49.1|app-devel|Compliance mode enabled, was '2.49.1'|
+|repo|2.45|2.49.2|app-devel|Compliance mode enabled, was '2.49.2'|
 |reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
