@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730542227?label=Updated)
+![Relative date](https://img.shields.io/date/1730545573?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -741,6 +741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gpu-tools|1.28|1.29|app-admin|Compliance mode enabled, was '1.29'|
+|intel-ipsec-mb|1.5|2.0|runtime-cryptography|Compliance mode enabled, was '2.0'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -754,6 +755,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
+|ispc|1.25.1|1.25.2|app-devel|Compliance mode enabled, was '1.25.2'|
 |itinerary|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
 |j4-dmenu-desktop|2.17|3.1|app-utils|Compliance mode enabled, was '3.1'|
