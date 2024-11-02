@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730567247?label=Updated)
+![Relative date](https://img.shields.io/date/1730571105?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -462,8 +462,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatbuffers|2.0.6|24.3.25|runtime-common|Compliance mode enabled, was '24.3.25'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
-|flit|3.9.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
-|flit-core|3.9.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
+|flit|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
+|flit-core|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
 |fltk|1.3.5|1.3.9|runtime-desktop|Compliance mode enabled, was '1.3.9'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
@@ -1577,7 +1577,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ms-sys|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
-|msgpack-c++|6.1.0|6.1.1|runtime-common|Compliance mode enabled, was '6.1.1'|
+|msgpack-c++|6.1.0|7.0.0|runtime-common|Compliance mode enabled, was '7.0.0'|
 |msitools|0.101|0.103|app-devel|Compliance mode enabled, was '0.103'|
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mstflint|4.28.0<br>+1|4.29.0+1|app-admin|Compliance mode enabled, was '4.29.0-1'|
@@ -1666,7 +1666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.19|app-admin|Compliance mode enabled, was '2.0.19'|
 |numix-icon-theme|20190917|24.09.18|desktop-themes|Compliance mode enabled, was '24.09.18'<br>Possible downgrade from the current version (20190917 -> 24.09.18)|
 |numix-icon-theme-circle|20160927|24.10.22|desktop-themes|Compliance mode enabled, was '24.10.22'<br>Possible downgrade from the current version (20160927 -> 24.10.22)|
-|numpy|1.26.4|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
+|numpy|1.26.4|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvidia|560.35.03|565.57.01|runtime-display|Compliance mode enabled, was '565.57.01'|
 |nvidia+32|0|565.57.01|runtime-optenv32|Compliance mode enabled, was '565.57.01'|
