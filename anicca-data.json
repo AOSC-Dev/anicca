@@ -473,7 +473,7 @@
 ["scapy","2.5.0","2.6.0","app-network",1716390068,["Compliance mode enabled, was '2.6.0'"]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
 ["openvpn","2.5.4","2.6.12","app-network",1703970191,["Compliance mode enabled, was '2.6.12'"]],
-["xray","24.9.7","24.10.16","app-network",1727015619,["Compliance mode enabled, was '24.10.16'"]],
+["xray","24.10.31","24.10.16","app-network",1730566842,["Compliance mode enabled, was '24.10.16'","Possible downgrade from the current version (24.10.31 -> 24.10.16)"]],
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
 ["firewalld","2.2.1","2.2.3","app-network",1722267199,["Compliance mode enabled, was '2.2.3'"]],
 ["networkmanager-vpnc","1.2.6","1.2.8","app-network",1533440457,["Compliance mode enabled, was '1.2.8'"]],
