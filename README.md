@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730556475?label=Updated)
+![Relative date](https://img.shields.io/date/1730560326?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1399,8 +1399,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvncserver|0.9.13|0.9.14|runtime-network|Compliance mode enabled, was '0.9.14'|
 |libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
 |libvpl|2.13.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
-|libvpx|1.10.0|1.14.1|runtime-multimedia|Compliance mode enabled, was '1.14.1'|
-|libvpx+32|1.9.0|1.14.1|runtime-optenv32|Compliance mode enabled, was '1.14.1'|
+|libvpx|1.10.0|1.15.0|runtime-multimedia|Compliance mode enabled, was '1.15.0'|
+|libvpx+32|1.9.0|1.15.0|runtime-optenv32|Compliance mode enabled, was '1.15.0'|
 |libwacom|2.4.0|2.13.0|runtime-devices|Compliance mode enabled, was '2.13.0'|
 |libwebp|1.3.1|1.4.0|runtime-imaging|Compliance mode enabled, was '1.4.0'|
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
