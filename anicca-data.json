@@ -513,7 +513,6 @@
 ["mitmproxy","7.0.4","11.0.0","app-network",1636090198,["Compliance mode enabled, was '11.0.0'"]],
 ["rsync","3.2.7","3.3.0","app-network",1674452376,["Compliance mode enabled, was '3.3.0'"]],
 ["openvswitch","3.0.3","3.4.0","app-network",1577974572,["Compliance mode enabled, was '3.4.0'"]],
-["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["iptraf-ng","1.1.4","1.2.1","app-network",1473801763,["Compliance mode enabled, was '1.2.1'"]],
 ["fping","5.1","5.2","app-network",1711266244,["Compliance mode enabled, was '5.2'"]],
 ["iptables","1.8.8","1.8.10","app-network",1674452376,["Compliance mode enabled, was '1.8.10'"]],
