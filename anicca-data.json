@@ -2651,7 +2651,7 @@
 ["multipath-tools","0.9.3","0.10.0","app-admin",1673935786,["Compliance mode enabled, was '0.10.0'"]],
 ["cockpit-machines","284.1","322","app-admin",1678351353,["Compliance mode enabled, was '322'"]],
 ["ansible","2.12.1","2.17.5","app-admin",1641887332,["Compliance mode enabled, was '2.17.5'"]],
-["glances","4.0.5","4.2.0","app-admin",1716736908,["Compliance mode enabled, was '4.2.0'"]],
+["glances","4.0.5","4.2.1","app-admin",1716736908,["Compliance mode enabled, was '4.2.1'"]],
 ["power-profiles-daemon","0.21","0.23","app-admin",1715831466,["Compliance mode enabled, was '0.23'"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
 ["system-config-printer","1.5.17","1.5.18","app-admin",1641887332,["Compliance mode enabled, was '1.5.18'"]],
