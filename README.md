@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730553477?label=Updated)
+![Relative date](https://img.shields.io/date/1730556475?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -660,6 +660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-av|0.12.11|0.14.1|desktop-gnome|Compliance mode enabled, was '0.14.1'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
+|guvcview|2.1.0|2.2.1|app-devices|Compliance mode enabled, was '2.2.1'|
 |gvfs|1.50.2|1.56.1|desktop-gnome|Compliance mode enabled, was '1.56.1'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenview|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -1217,7 +1218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.4|desktop-gnome|Compliance mode enabled, was '4.4.4'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
-|libheif|1.17.6|1.18.2|runtime-imaging|Compliance mode enabled, was '1.18.2'|
+|libheif|1.17.6|1.19.1|runtime-imaging|Compliance mode enabled, was '1.19.1'|
 |libid3tag|0.15.1b|0.16.3|runtime-multimedia|Compliance mode enabled, was '0.16.3'|
 |libid3tag+32|0.15.1b|0.16.3|runtime-optenv32|Compliance mode enabled, was '0.16.3'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
