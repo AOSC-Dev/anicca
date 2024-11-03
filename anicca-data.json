@@ -1823,6 +1823,7 @@
 ["repo","2.45","2.49.2","app-devel",1717055917,["Compliance mode enabled, was '2.49.2'"]],
 ["binwalk","2.3.4","3.1.0","app-devel",1702278822,["Compliance mode enabled, was '3.1.0'"]],
 ["openixcard","1.0.1","1.1.8","app-devel",1653974481,["Compliance mode enabled, was '1.1.8'"]],
+["git-absorb","0.6.15","0.6.16","app-devel",1723630725,["Compliance mode enabled, was '0.6.16'"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
 ["geany-plugins","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
 ["astyle","3.5.2","3.6.4","app-devel",1721232448,["Compliance mode enabled, was '3.6.4'"]],
