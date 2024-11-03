@@ -1922,6 +1922,7 @@
 ["gmic","3.2.6","3.4.3","runtime-imaging",1642132413,["Compliance mode enabled, was '3.4.3'"]],
 ["coin","4.0.0+git20220828","4.0.3","runtime-imaging",1674446327,["Compliance mode enabled, was '4.0.3'"]],
 ["imlib2","1.5.1","1.12.3","runtime-imaging",1537714700,["Compliance mode enabled, was '1.12.3'"]],
+["gegl-0.4","0_4_48","0_4_50","runtime-imaging",1710250223,[]],
 ["opencsg","1.5.1","1.6.0","runtime-imaging",1672817129,["Compliance mode enabled, was '1.6.0'"]],
 ["nufraw","0.43+3","0.42","runtime-imaging",1601145367,["Compliance mode enabled, was '0.42'","Possible downgrade from the current version (0.43+3 -> 0.42)"]],
 ["openjpeg-legacy","1.5.2","2.5.2","runtime-imaging",1678950872,["Compliance mode enabled, was '2.5.2'"]],
