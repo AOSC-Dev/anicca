@@ -291,6 +291,7 @@
 ["jsonschema","3.2.0","0.0.1","lang-python",1594100501,["Compliance mode enabled, was '0.0.1'","Possible downgrade from the current version (3.2.0 -> 0.0.1)"]],
 ["pytools","2019.1","2024.1.14","lang-python",1551200456,["Compliance mode enabled, was '2024.1.14'"]],
 ["mygpoclient","1.8","1.9","lang-python",1580710078,["Compliance mode enabled, was '1.9'"]],
+["pydrive2","1.20.0","1.21.1","lang-python",1724639794,["Compliance mode enabled, was '1.21.1'"]],
 ["m2crypto","0.38.0","0.43.0","lang-python",1629690194,["Compliance mode enabled, was '0.43.0'"]],
 ["coloredlogs","10.0","15.0.1","lang-python",1658966837,["Compliance mode enabled, was '15.0.1'"]],
 ["pyudev","0.24.1","0.24.3","lang-python",1682928862,["Compliance mode enabled, was '0.24.3'"]],
