@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730642848?label=Updated)
+![Relative date](https://img.shields.io/date/1730646693?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -194,6 +194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
 |calindori|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -226,7 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cfitsio|3.450|4.5.0|runtime-imaging|Compliance mode enabled, was '4.5.0'|
 |cgal|5.2|6.0.1|runtime-scientific|Compliance mode enabled, was '6.0.1'|
 |cgns|4.2.0|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
-|chafa|1.14.2|1.14.4|app-utils|Compliance mode enabled, was '1.14.4'|
+|chafa|1.14.2|1.14.5|app-utils|Compliance mode enabled, was '1.14.5'|
 |chardet|3.0.4|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |charset-normalizer|2.0.9|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
@@ -2796,7 +2797,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfsprogs|6.9.0|6.11.0|app-admin|Compliance mode enabled, was '6.11.0'|
 |xfwm4|4.18.0|4.19.0|desktop-xfce|Compliance mode enabled, was '4.19.0'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
-|xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.43|runtime-display|Compliance mode enabled, was '2.43'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
