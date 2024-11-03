@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730604127?label=Updated)
+![Relative date](https://img.shields.io/date/1730607206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2315,7 +2315,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-sound+32|1.0.3|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |sdl-ttf|2.0.11|2.22.0|runtime-multimedia|Compliance mode enabled, was '2.22.0'|
 |sdl-ttf+32|2.0.11|2.22.0|runtime-optenv32|Compliance mode enabled, was '2.22.0'|
-|sdl2|2.30.4|2.30.8|runtime-multimedia|Compliance mode enabled, was '2.30.8'|
+|sdl2|2.30.4|2.30.9|runtime-multimedia|Compliance mode enabled, was '2.30.9'|
 |sdl2-image|2.0.5|2.8.2|runtime-multimedia|Compliance mode enabled, was '2.8.2'|
 |sdl2-mixer|2.0.4|2.8.0|runtime-multimedia|Compliance mode enabled, was '2.8.0'|
 |sdl2-net|2.0.1|2.2.0|runtime-multimedia|Compliance mode enabled, was '2.2.0'|
