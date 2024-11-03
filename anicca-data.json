@@ -2723,7 +2723,7 @@
 ["mstflint","4.28.0+1","4.29.0+1","app-admin",1716389353,["Compliance mode enabled, was '4.29.0-1'"]],
 ["bottom","0.9.6","0.10.2","app-admin",1704768393,["Compliance mode enabled, was '0.10.2'"]],
 ["iozone","3.492","3.506","app-admin",1641887332,["Compliance mode enabled, was '3.506'"]],
-["runc","1.1.14","1.2.0","app-admin",1727015619,["Compliance mode enabled, was '1.2.0'"]],
+["runc","1.1.14","1.2.1","app-admin",1727015619,["Compliance mode enabled, was '1.2.1'"]],
 ["openldap","2.6.7","2.6.8","app-admin",1712930384,["Compliance mode enabled, was '2_6_8'"]],
 ["synaptic","0.90.2","0.91.3","app-admin",1610962803,["Compliance mode enabled, was '0.91.3'"]],
 ["reiser4progs","1.2.2","1.2.2.","app-admin",1678601027,["Compliance mode enabled, was '1.2.2.'"]],
