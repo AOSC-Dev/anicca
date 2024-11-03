@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730594571?label=Updated)
+![Relative date](https://img.shields.io/date/1730600436?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1602,8 +1602,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20241026|runtime-common|Compliance mode enabled, was '6.5-20241026'|
-|ncurses+32|6.4|6.5+20241026|runtime-optenv32|Compliance mode enabled, was '6.5-20241026'|
+|ncurses|6.4|6.5+20241102|runtime-common|Compliance mode enabled, was '6.5-20241102'|
+|ncurses+32|6.4|6.5+20241102|runtime-optenv32|Compliance mode enabled, was '6.5-20241102'|
 |ndctl|72|80|app-admin|Compliance mode enabled, was '80'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
@@ -2027,8 +2027,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |polyphone|2.3.0|2.4.1|app-multimedia|Compliance mode enabled, was '2.4.1'|
-|poppler|22.08.0|24.10.0|groups|Compliance mode enabled, was '24.10.0'|
-|poppler+32|0.66.0|24.10.0|runtime-optenv32|Compliance mode enabled, was '24.10.0'|
+|poppler|22.08.0|24.11.0|groups|Compliance mode enabled, was '24.11.0'|
+|poppler+32|0.66.0|24.11.0|runtime-optenv32|Compliance mode enabled, was '24.11.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
