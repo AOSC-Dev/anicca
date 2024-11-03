@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730628806?label=Updated)
+![Relative date](https://img.shields.io/date/1730631887?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2251,6 +2251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocminfo|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rocr-runtime|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocs|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |roct-thunk-interface|6.0.0|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
@@ -2271,6 +2272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.2.2|3.3.5|lang-ruby|Compliance mode enabled, was '3.3.5'|
+|ruby-bundler|2.1.4|2.5.22|lang-ruby|Compliance mode enabled, was '2.5.22'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
@@ -2677,6 +2679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |variety|0.7.1|0.8.12|app-utils|Compliance mode enabled, was '0.8.12'|
 |varnish|7.5.0|7.6.0|app-network|Compliance mode enabled, was '7.6.0'|
 |vasm|1.9f|2.0|app-devel|Compliance mode enabled, was '2.0'|
+|vba-m|2.1.8|2.1.11|app-games|Compliance mode enabled, was '2.1.11'|
 |vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |verdict|1.4.1|1.4.2|runtime-scientific|Compliance mode enabled, was '1.4.2'|
