@@ -2851,6 +2851,7 @@
 ["miniserve","0.26.0","0.28.0","app-web",1705559527,["Compliance mode enabled, was '0.28.0'"]],
 ["sozu","0.15.2","1.0.5","app-web",1696572712,["Compliance mode enabled, was '1.0.5'"]],
 ["nginx","1.27.1","1.27.2","app-web",1727187268,["Compliance mode enabled, was '1.27.2'"]],
+["srain","1.7.0","1.8.0","app-web",1718177218,["Compliance mode enabled, was '1.8.0'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
 ["hugo","0.134.1","0.136.5","app-web",1727015619,["Compliance mode enabled, was '0.136.5'"]],
 ["forgejo","9.0.0","9.0.1","app-web",1729576926,["Compliance mode enabled, was '9.0.1'"]]
