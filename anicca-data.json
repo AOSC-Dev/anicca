@@ -131,6 +131,7 @@
 ["distlib","0.3.1","0.3.9","lang-python",1609330974,["Compliance mode enabled, was '0.3.9'"]],
 ["python-3","3.10.13","3.13.0","lang-python",1707361016,["Compliance mode enabled, was '3.13.0'"]],
 ["pyutil","3.3.0","3.3.6","lang-python",1663072304,["Compliance mode enabled, was '3.3.6'"]],
+["pyrfc3339","1.1","2.0.1","lang-python",1530553511,["Compliance mode enabled, was '2.0.1'"]],
 ["curtsies","0.3.4","0.4.2","lang-python",1600671245,["Compliance mode enabled, was '0.4.2'"]],
 ["urwid","2.1.2","2.6.16","lang-python",1618998184,["Compliance mode enabled, was '2.6.16'"]],
 ["pyqt6","6.7.0","6.7.1","lang-python",1721223235,["Compliance mode enabled, was '6.7.1'"]],
