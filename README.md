@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730751098?label=Updated)
+![Relative date](https://img.shields.io/date/1730754486?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -315,7 +315,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.10|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|damo|2.4.7|2.5.3|app-admin|Compliance mode enabled, was '2.5.3'|
+|damo|2.4.7|2.5.4|app-admin|Compliance mode enabled, was '2.5.4'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
@@ -1010,7 +1010,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kolf|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kollision|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kolourpaint|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|kompare|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kompose-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kongress|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |konqueror|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
