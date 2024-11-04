@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730697221?label=Updated)
+![Relative date](https://img.shields.io/date/1730700908?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -722,6 +722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-chewing|1.6.1|2.1.2|app-i18n|Compliance mode enabled, was '2.1.2'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
 |ibus-libpinyin|1.12.0|1.15.92|app-i18n|Compliance mode enabled, was '1.15.92'|
+|ibus-m17n|1.4.7|1.4.33|app-i18n|Compliance mode enabled, was '1.4.33'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.8|app-i18n|Compliance mode enabled, was '1.17.8'|
@@ -1506,7 +1507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m3u8|0.7.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |m64py|0.2.5|0.3.0|app-games|Compliance mode enabled, was '0.3.0'|
 |mac-fdisk|0.1|0.1.orig|app-admin|Compliance mode enabled, was '0.1.orig'<br>Possible downgrade from the current version (0.1 -> 0.1.orig)|
-|macchina|6.1.8|6.3.1|app-utils|Compliance mode enabled, was '6.3.1'|
+|macchina|6.1.8|6.4.0|app-utils|Compliance mode enabled, was '6.4.0'|
 |magic-wormhole|0.11.2|0.17.0|app-network|Compliance mode enabled, was '0.17.0'|
 |mailcommon|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |mailimporter|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
