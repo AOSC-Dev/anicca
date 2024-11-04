@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730700908?label=Updated)
+![Relative date](https://img.shields.io/date/1730704282?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1548,7 +1548,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |messagelib|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
-|midori|9.0|11.4.1|app-web|Compliance mode enabled, was '11.4.1'|
+|midori|9.0|11.4.2|app-web|Compliance mode enabled, was '11.4.2'|
+|mihomo|1.18.9|1.18.10|app-network|Compliance mode enabled, was '1.18.10'|
 |milou|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.9.1|app-games||
