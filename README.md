@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730686585?label=Updated)
+![Relative date](https://img.shields.io/date/1730690538?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -84,7 +84,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |arts|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |asahi-common|20231113|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20231113 -> 20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.9|app-utils|Compliance mode enabled, was '0.7.9'|
+|asahi-fwextract|0.7.8|0.7.9|app-utils|Compliance mode enabled, was '0.7.9'|
 |asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.35|app-devel|Compliance mode enabled, was '6.0.35'|
@@ -1537,7 +1537,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
-|mdbook|0.4.14|0.4.40|app-doc|Compliance mode enabled, was '0.4.40'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |memcached|1.6.29|1.6.32|app-admin|Compliance mode enabled, was '1.6.32'|
 |mercurial|6.8.1|6.8.2|app-vcs|Compliance mode enabled, was '6.8.2'|
