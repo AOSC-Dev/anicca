@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730708065?label=Updated)
+![Relative date](https://img.shields.io/date/1730711630?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1541,7 +1541,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.32|app-admin|Compliance mode enabled, was '1.6.32'|
 |mercurial|6.8.1|6.8.2|app-vcs|Compliance mode enabled, was '6.8.2'|
 |merkuro|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|mesa|24.2.5|24.2.6|runtime-display||
 |mesa+32|22.1.7|24.2.6|runtime-optenv32|Compliance mode enabled, was '24.2.6'|
 |mesa-amber|21.3.9|24.2.6|runtime-display|Compliance mode enabled, was '24.2.6'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.6|runtime-display|Compliance mode enabled, was '24.2.6'|
@@ -1695,7 +1694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
 |okular|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.12.2|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
+|oma|1.12.3|1.12.13|app-admin|Compliance mode enabled, was '1.12.13'|
 |onefetch|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |onig|6.9.5<br>+rev1|6.9.9|runtime-common|Compliance mode enabled, was '6.9.9'|
 |oolite|1.90|1.91.0.7643-241028-5b0b3a2|app-games|Compliance mode enabled, was '1.91.0.7643-241028-5b0b3a2'|
