@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730736770?label=Updated)
+![Relative date](https://img.shields.io/date/1730740184?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1486,7 +1486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lucene++|3.0.8|3.0.9|runtime-common|Compliance mode enabled, was '3.0.9'|
 |lunzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |lutris|0.5.11|0.5.17|app-games|Compliance mode enabled, was '0.5.17'|
-|lvm2|2.03.14|2.03.27|app-admin|Compliance mode enabled, was '2.03.27'|
+|lvm2|2.03.14|2.03.28|app-admin|Compliance mode enabled, was '2.03.28'|
 |lxc|6.0.1|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
 |lxcfs|3.0.3|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
 |lxgwcleargothic-font|0.300.4|0.336|desktop-fonts|Compliance mode enabled, was '0.336'|
@@ -2095,7 +2095,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pydantic|2.6.0|2.9.2|lang-python|Compliance mode enabled, was '2.9.2'|
-|pydantic-core|2.16.1|2.25.1|lang-python|Compliance mode enabled, was '2.25.1'|
+|pydantic-core|2.16.1|2.26.0|lang-python|Compliance mode enabled, was '2.26.0'|
 |pydot|1.4.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |pydrive2|1.20.0|1.21.1|lang-python|Compliance mode enabled, was '1.21.1'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
