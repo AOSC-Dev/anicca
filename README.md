@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730761938?label=Updated)
+![Relative date](https://img.shields.io/date/1730767242?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -192,6 +192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |c-ares|1.28.1|1.34.2|runtime-network|Compliance mode enabled, was '1.34.2'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
+|cachecontrol|0.14.0|0.14.1|lang-python|Compliance mode enabled, was '0.14.1'|
 |cachetools|3.1.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
@@ -320,7 +321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
-|dbus+32|1.12.18|1.14.10|runtime-optenv32|Compliance mode enabled, was '1.14.10'|
 |dbus-1-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
@@ -657,6 +657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-layer-shell|0.8.1|0.9.0|runtime-desktop|Compliance mode enabled, was '0.9.0'|
 |gtk-qt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtk3-tqt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
@@ -2479,7 +2480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
-|sysprof|3.44.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|sysprof|3.44.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |sysstat|12.7.5|12.7.6|app-utils|Compliance mode enabled, was '12.7.6'|
 |system-config-printer|1.5.17|1.5.18|app-admin|Compliance mode enabled, was '1.5.18'|
 |systemd|256.7|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (256.7 -> 256)|
@@ -2538,6 +2539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tderadio|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdesdk|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdesudo|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|tdesvn|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdetoys|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdeutils|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdevelop|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
