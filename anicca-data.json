@@ -472,7 +472,7 @@
 ["ofono","1.30","2.11","app-network",1574948529,["Compliance mode enabled, was '2.11'"]],
 ["rpcbind","1.2.6","1.2.7","app-network",1716301828,["Compliance mode enabled, was '1.2.7'"]],
 ["cifs-utils","7.0","7.1","app-network",1723367638,["Compliance mode enabled, was '7.1'"]],
-["scapy","2.5.0","2.6.0","app-network",1716390068,["Compliance mode enabled, was '2.6.0'"]],
+["scapy","2.5.0","2.6.1","app-network",1716390068,["Compliance mode enabled, was '2.6.1'"]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
 ["openvpn","2.5.4","2.6.12","app-network",1703970191,["Compliance mode enabled, was '2.6.12'"]],
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
