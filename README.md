@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730787268?label=Updated)
+![Relative date](https://img.shields.io/date/1730790646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -345,7 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.2|desktop-kde|Compliance mode enabled, was '6.2.2'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
-|django|5.0.3|5.1.2|lang-python|Compliance mode enabled, was '5.1.2'|
+|django|5.0.3|5.1.3|lang-python|Compliance mode enabled, was '5.1.3'|
 |dkms|3.0.13|3.1.1|app-admin|Compliance mode enabled, was '3.1.1'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dnsdiag|2.5.0|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
@@ -2664,7 +2664,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
 |usbutils|017|018|app-utils|Compliance mode enabled, was '018'|
-|utfcpp|3.2.1|4.0.5|runtime-common|Compliance mode enabled, was '4.0.5'|
+|utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.1|2.40.2|app-utils|Compliance mode enabled, was '2.40.2'|
 |util-linux+32|2.29.2|2.40.2|runtime-optenv32|Compliance mode enabled, was '2.40.2'|
@@ -2807,7 +2807,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
 |xpra|6.1.2|6.2.1|app-network|Compliance mode enabled, was '6.2.1'|
-|xray|24.10.31|24.11.5|app-network|Compliance mode enabled, was '24.11.5'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
 |xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
