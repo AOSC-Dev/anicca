@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730869904?label=Updated)
+![Relative date](https://img.shields.io/date/1730873664?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1494,7 +1494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |lxml-html-clean|0.2.2|0.3.1|lang-python|Compliance mode enabled, was '0.3.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
-|lxqt-build-tools|0.8.0|2.0.0|desktop-lxqt|Compliance mode enabled, was '2.0.0'|
+|lxqt-build-tools|0.8.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
 |lyx|2.4.0|2.4.2.1|app-doc|Compliance mode enabled, was '2.4.2.1'|
 |lzip|1.23|1.24.1|app-utils|Compliance mode enabled, was '1.24.1'|
@@ -1954,7 +1954,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-tk|804.034|804.036|lang-perl|Compliance mode enabled, was '804.036'|
 |perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
-|perl-uri|1.74|5.30|lang-perl|Compliance mode enabled, was '5.30'|
+|perl-uri|1.74|5.31|lang-perl|Compliance mode enabled, was '5.31'|
 |perl-www-mechanize|1.91|2.19|lang-perl|Compliance mode enabled, was '2.19'|
 |perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
 |perl-xml-libxslt|1.96|2.003000|lang-perl|Compliance mode enabled, was '2.003000'|
@@ -2402,6 +2402,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
 |sphinx|7.0.1|8.1.3|app-doc|Compliance mode enabled, was '8.1.3'|
+|sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|3.0.1|app-doc|Compliance mode enabled, was '3.0.1'|
 |sphinx-tabs|3.4.1|3.4.7|app-doc|Compliance mode enabled, was '3.4.7'|
 |sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
