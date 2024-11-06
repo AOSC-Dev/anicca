@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730862972?label=Updated)
+![Relative date](https://img.shields.io/date/1730866365?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1327,7 +1327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqalculate|4.5.1|5.3.0|runtime-scientific|Compliance mode enabled, was '5.3.0'|
 |libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.123|runtime-network|Compliance mode enabled, was '0.123'|
-|libqtxdg|3.6.0|4.0.1|runtime-desktop|Compliance mode enabled, was '4.0.1'|
+|libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.0|runtime-web|Compliance mode enabled, was '0.9.0'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
 |libreoffice|24.2.3.2|24.8.3.1|groups|Compliance mode enabled, was '24.8.3.1'|
@@ -1755,6 +1755,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
+|ostree|2024.8|2024.9|app-admin|Compliance mode enabled, was '2024.9'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |oxygen-icons|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
