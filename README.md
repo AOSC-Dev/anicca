@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730912939?label=Updated)
+![Relative date](https://img.shields.io/date/1730916773?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2200,9 +2200,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-6|6.7.3|6.8.0|runtime-desktop|Compliance mode enabled, was '6.8.0'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |qtcreator|14.0.1|14.0.2|app-devel|Compliance mode enabled, was '14.0.2'|
-|qtermwidget|0.16.1|2.0.1|desktop-lxqt|Compliance mode enabled, was '2.0.1'|
+|qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
-|qtpy|2.1.0|2.4.1|lang-python|Compliance mode enabled, was '2.4.1'|
+|qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |qtractor|0.9.23|1.4.0|app-multimedia|Compliance mode enabled, was '1.4.0'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
