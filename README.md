@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730866365?label=Updated)
+![Relative date](https://img.shields.io/date/1730869904?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -383,7 +383,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drkonqi|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |drumstick|2.9.0|2.9.1|app-creativity|Compliance mode enabled, was '2.9.1'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
-|dtc|1.7.0|1.7.1|app-devel|Compliance mode enabled, was '1.7.1'|
+|dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.4|runtime-vcs|Compliance mode enabled, was '0.22.4'|
 |dune|3.4.1|3.16.1|lang-ocaml|Compliance mode enabled, was '3.16.1'|
@@ -1367,7 +1367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh2|1.9.0|1.11.1|runtime-network|Compliance mode enabled, was '1.11.1'|
 |libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
 |libstoragemgmt|1.7.3|1.10.1|runtime-admin|Compliance mode enabled, was '1.10.1'|
-|libsysstat|0.4.4|1.0.0|runtime-admin|Compliance mode enabled, was '1.0.0'|
+|libsysstat|0.4.4|1.1.0|runtime-admin|Compliance mode enabled, was '1.1.0'|
 |libtasn1|4.15.0|4.19.0|runtime-cryptography|Compliance mode enabled, was '4.19.0'|
 |libtasn1+32|4.15.0|4.19.0|runtime-optenv32|Compliance mode enabled, was '4.19.0'|
 |libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
@@ -2402,7 +2402,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
 |sphinx|7.0.1|8.1.3|app-doc|Compliance mode enabled, was '8.1.3'|
-|sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|3.0.1|app-doc|Compliance mode enabled, was '3.0.1'|
 |sphinx-tabs|3.4.1|3.4.7|app-doc|Compliance mode enabled, was '3.4.7'|
 |sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
