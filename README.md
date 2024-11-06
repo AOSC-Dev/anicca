@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730859069?label=Updated)
+![Relative date](https://img.shields.io/date/1730862972?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -617,7 +617,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.151.0|lang-python|Compliance mode enabled, was '2.151.0'|
 |google-auth|1.6.3|2.36.0|lang-python|Compliance mode enabled, was '2.36.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|130.0.6723.91|130.0.6723.116|app-web|Compliance mode enabled, was '130.0.6723.116'|
 |goreleaser|2.2.0|2.4.4|lang-golang|Compliance mode enabled, was '2.4.4'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
@@ -1004,7 +1003,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifyconfig|5.115.0|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |knowit-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knutclient-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kodi-pvr-iptvsimple|19.2.2|22.3.1-piers|app-multimedia|Compliance mode enabled, was '22.3.1-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.4.1-piers|app-multimedia|Compliance mode enabled, was '22.4.1-Piers'|
 |koffice-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |koko|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
 |kolf|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
@@ -1477,7 +1476,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
 |lshw|02.19.2|02.20|app-utils|Compliance mode enabled, was '02.20'|
 |lskat|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
-|lsof|4.98.0|4.99.3|app-utils|Compliance mode enabled, was '4.99.3'|
 |lsp-plugins|1.2.17|1.2.19|app-multimedia|Compliance mode enabled, was '1.2.19'|
 |ltrace|0.7.3<br>+git20151111|0.7.3+git20240814|app-devel|Compliance mode enabled, was '0.7.3+git20240814'|
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
