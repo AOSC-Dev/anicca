@@ -1893,6 +1893,7 @@
 ["botan","1.10.17","3.5.0","runtime-cryptography",1575779059,["Compliance mode enabled, was '3.5.0'"]],
 ["opencryptoki","3.21.0","3.24.0","runtime-cryptography",1696572712,["Compliance mode enabled, was '3.24.0'"]],
 ["mbedtls","2.16.7","3.6.2","runtime-cryptography",1582091000,["Compliance mode enabled, was '3.6.2'"]],
+["gpgme","1.23.2","1.24.0","runtime-cryptography",1706080356,["Compliance mode enabled, was '1.24.0'"]],
 ["pkcs11-helper","1.29.0","1.30.0","runtime-cryptography",1688690323,["Compliance mode enabled, was '1.30.0'"]],
 ["qca","2.3.4","2.3.9","runtime-cryptography",1650696645,["Compliance mode enabled, was '2.3.9'"]],
 ["openssl-1.1","1.1.1w","3.4.0","runtime-cryptography",1711964916,["Compliance mode enabled, was '3.4.0'"]],
