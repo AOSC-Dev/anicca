@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731006325?label=Updated)
+![Relative date](https://img.shields.io/date/1731010377?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -773,6 +773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ispc|1.25.1|1.25.2|app-devel|Compliance mode enabled, was '1.25.2'|
 |itinerary|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
+|iwd|3.0|3.1|app-network|Compliance mode enabled, was '3.1'|
 |j4-dmenu-desktop|2.17|3.1|app-utils|Compliance mode enabled, was '3.1'|
 |janus|1.0.0|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
@@ -1889,7 +1890,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.01|lang-perl|Compliance mode enabled, was '13.01'|
+|perl-image-exiftool|12.50|13.02|lang-perl|Compliance mode enabled, was '13.02'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2503,7 +2504,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-i18n|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-baghira|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-domino|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tde-style-ia-ora|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-lipstik|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-polyester|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-qtcurve|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
