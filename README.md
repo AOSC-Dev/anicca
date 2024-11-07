@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731017428?label=Updated)
+![Relative date](https://img.shields.io/date/1731021068?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -217,7 +217,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ccls|0.20240202|0.20240505|app-devel|Compliance mode enabled, was '0.20240505'|
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
-|cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
 |cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
 |certbot|2.11.0|3.0.0|groups|Compliance mode enabled, was '3.0.0'|
@@ -615,12 +614,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2.9.2|runtime-gnustep|Compliance mode enabled, was '2_9_2'|
 |gnutls|3.8.7|3.8.8|runtime-cryptography|Compliance mode enabled, was '3.8.8'|
 |gnutls+32|3.6.15|3.8.8|runtime-optenv32|Compliance mode enabled, was '3.8.8'|
-|go|1.23.1|1.23.2|lang-golang||
+|go|1.23.1|1.23.3|lang-golang||
 |go-md2man|2.0.4|2.0.5|app-doc|Compliance mode enabled, was '2.0.5'|
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.151.0|lang-python|Compliance mode enabled, was '2.151.0'|
+|google-api-python-client|1.7.11|2.152.0|lang-python|Compliance mode enabled, was '2.152.0'|
 |google-auth|1.6.3|2.36.0|lang-python|Compliance mode enabled, was '2.36.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.4.4|lang-golang|Compliance mode enabled, was '2.4.4'|
