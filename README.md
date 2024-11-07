@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731013825?label=Updated)
+![Relative date](https://img.shields.io/date/1731017428?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -387,6 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drumstick|2.9.0|2.9.1|app-creativity|Compliance mode enabled, was '2.9.1'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
+|dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.5|runtime-vcs|Compliance mode enabled, was '0.22.5'|
 |dune|3.4.1|3.16.1|lang-ocaml|Compliance mode enabled, was '3.16.1'|
@@ -514,7 +515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross|13.2.0<br>+glibc2.38<br>+6|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
-|gdal|3.8.4|3.9.3|runtime-gis|Compliance mode enabled, was '3.9.3'|
+|gdal|3.8.4|3.10.0|runtime-gis|Compliance mode enabled, was '3.10.0'|
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
@@ -535,8 +536,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|gh|2.60.1|2.61.0|app-devel|Compliance mode enabled, was '2.61.0'|
 |ghc|9.4.8|9.10.1-release|lang-haskell|Compliance mode enabled, was '9.10.1-release'|
-|ghidra|11.1.2_build|11.2_build|app-devel||
+|ghidra|11.1.2_build|11.2.1_build|app-devel||
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
 |ghostscript+32|9.27|10.04.0|runtime-optenv32|Compliance mode enabled, was '10.04.0'|
 |ghostwriter|24.05.2|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
