@@ -347,7 +347,7 @@
 ["cerberus","1.3.2","1.3.5","lang-python",1609312655,["Compliance mode enabled, was '1.3.5'"]],
 ["pyenchant","2.0.0","3.2.2","lang-python",1530553512,["Compliance mode enabled, was '3.2.2'"]],
 ["pyproject-hooks","1.1.0","1.2.0","lang-python",1724687573,["Compliance mode enabled, was '1.2.0'"]],
-["acme","2.10.0","2.11.0","lang-python",1717566614,["Compliance mode enabled, was '2.11.0'"]],
+["acme","2.10.0","3.0.0","lang-python",1717566614,["Compliance mode enabled, was '3.0.0'"]],
 ["xcffib","0.7.0","1.5.0","lang-python",1551288643,["Compliance mode enabled, was '1.5.0'"]],
 ["oslo-serialization","5.4.0","5.5.0","lang-python",1724639794,["Compliance mode enabled, was '5.5.0'"]],
 ["lazy-object-proxy","1.7.1","1.10.0","lang-python",1658217673,["Compliance mode enabled, was '1.10.0'"]],
