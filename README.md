@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730981800?label=Updated)
+![Relative date](https://img.shields.io/date/1730985502?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -220,9 +220,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
 |cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
-|certbot-apache|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
+|certbot|2.11.0|3.0.0|groups|Compliance mode enabled, was '3.0.0'|
+|certbot-apache|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
 |certbot-dns-cloudflare|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
-|certbot-nginx|2.10.0|2.11.0|app-web|Compliance mode enabled, was '2.11.0'|
+|certbot-nginx|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
 |certifi|2024.7.4|2024.8.30|lang-python|Compliance mode enabled, was '2024.8.30'|
 |cervisia|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
@@ -2821,7 +2822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xz|5.6.2|5.6.3|app-utils|Compliance mode enabled, was '5.6.3'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
-|yakuake|23.08.5|24.08.2|desktop-kde|Compliance mode enabled, was '24.08.2'|
+|yakuake|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |yakuake-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |yara|4.5.0|4.5.2|app-utils|Compliance mode enabled, was '4.5.2'|
