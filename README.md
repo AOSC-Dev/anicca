@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1730985502?label=Updated)
+![Relative date](https://img.shields.io/date/1730988705?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -261,16 +261,17 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|1.84|2.02|app-utils|Compliance mode enabled, was '2.02'|
 |cloud-init|24.2|24.3.1|app-admin|Compliance mode enabled, was '24.3.1'|
-|cloudflared|2024.10.0|2024.10.1|app-network|Compliance mode enabled, was '2024.10.1'|
+|cloudflared|2024.10.0|2024.11.0|app-network|Compliance mode enabled, was '2024.11.0'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |cmake|3.30.5|3.31.0|app-devel|Compliance mode enabled, was '3.31.0'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|327|app-admin|Compliance mode enabled, was '327'|
-|cockpit-machines|284.1|322|app-admin|Compliance mode enabled, was '322'|
+|cockpit|286.1|328|app-admin|Compliance mode enabled, was '328'|
+|cockpit-machines|284.1|323|app-admin|Compliance mode enabled, was '323'|
 |cockpit-podman|63|97|app-admin|Compliance mode enabled, was '97'|
+|code-server|4.93.1|4.95.1|app-utils|Compliance mode enabled, was '4.95.1'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -283,9 +284,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
+|conky|1.21.7|1.21.8|app-utils|Compliance mode enabled, was '1.21.8'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
-|containerd|1.7.21|1.7.23|app-containers|Compliance mode enabled, was '1.7.23'|
+|containerd|1.7.21|2.0.0|app-containers|Compliance mode enabled, was '2.0.0'|
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.4|app-utils|Compliance mode enabled, was '1.98.4'<br>Possible downgrade from the current version (20170301 -> 1.98.4)|
 |cowsay|3.7.0|3.8.3|app-utils|Compliance mode enabled, was '3.8.3'|
