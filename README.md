@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731060742?label=Updated)
+![Relative date](https://img.shields.io/date/1731064126?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -519,7 +519,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm|1.23|1.24|app-database|Compliance mode enabled, was '1.24'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
-|gdm|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |geany|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
@@ -1596,7 +1595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c++|6.1.0|7.0.0|runtime-common|Compliance mode enabled, was '7.0.0'|
 |msitools|0.101|0.103|app-devel|Compliance mode enabled, was '0.103'|
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
-|mstflint|4.28.0<br>+1|4.29.0+1|app-admin|Compliance mode enabled, was '4.29.0-1'|
+|mstflint|4.28.0<br>+1|4.30.0+1|app-admin|Compliance mode enabled, was '4.30.0-1'|
 |mtd-utils|2.1.5|2.2.1|app-admin|Compliance mode enabled, was '2.2.1'|
 |muffin|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
