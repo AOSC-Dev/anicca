@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731085732?label=Updated)
+![Relative date](https://img.shields.io/date/1731089560?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -155,6 +155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.2.3|app-creativity|Compliance mode enabled, was '4.2.3'|
 |blinken|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|blinker|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |bluedevil|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |blueprint-compiler|0.12.0|0.14.0|app-devel|Compliance mode enabled, was '0.14.0'|
 |bluez|5.77|5.79|app-devices|Compliance mode enabled, was '5.79'|
@@ -1454,15 +1455,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.11.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.4 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
-|linux+kernel+lts|6.6.57|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (6.6.57 -> 5.10.228)|
+|linux+kernel+lts|6.6.57|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (6.6.57 -> 5.10.229)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
-|linux+kernel+retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
-|linux+kernel+retro+minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
+|linux+kernel+retro|5.10.204|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'|
+|linux+kernel+retro+minimal|5.15.17|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (5.15.17 -> 5.10.229)|
 |linux-firmware|20241029|20241017|runtime-kernel|Possible downgrade from the current version (20241029 -> 20241017)|
 |linux-kernel|6.11.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.4 -> 5.19.17)|
 |linux-kernel-lts|6.6.57|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.57 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'|
-|linux-kernel-retro-minimal|5.15.17|5.10.228|runtime-kernel|Compliance mode enabled, was '5.10.228'<br>Possible downgrade from the current version (5.15.17 -> 5.10.228)|
+|linux-kernel-retro|5.10.204|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'|
+|linux-kernel-retro-minimal|5.15.17|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (5.15.17 -> 5.10.229)|
 |linux-pam|1.6.1|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
@@ -2738,7 +2739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weechat|4.2.2|4.4.3|app-web|Compliance mode enabled, was '4.4.3'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
-|werkzeug|3.0.6|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
+|werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
 |wesnoth|1.16.10|1.19.5|app-games|Compliance mode enabled, was '1.19.5'|
 |weston|14.0.0|14.0.1|runtime-display|Compliance mode enabled, was '14.0.1'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
