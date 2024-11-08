@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731046473?label=Updated)
+![Relative date](https://img.shields.io/date/1731049858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -197,6 +197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
+|calibre|7.20.0|7.21.0|app-doc|Compliance mode enabled, was '7.21.0'|
 |caligula|0.4.5|0.4.7|app-utils|Compliance mode enabled, was '0.4.7'|
 |calindori|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -233,6 +234,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chafa|1.14.2|1.14.5|app-utils|Compliance mode enabled, was '1.14.5'|
 |chardet|3.0.4|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |charset-normalizer|2.0.9|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
+|cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |chinadns-ng|2024.07.16|2024.10.14|app-web|Compliance mode enabled, was '2024.10.14'|
 |chisel|1.10.0|1.10.1|app-network|Compliance mode enabled, was '1.10.1'|
@@ -1234,7 +1236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.4|desktop-gnome|Compliance mode enabled, was '4.4.4'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
-|libheif|1.17.6|1.19.1|runtime-imaging|Compliance mode enabled, was '1.19.1'|
+|libheif|1.17.6|1.19.2|runtime-imaging|Compliance mode enabled, was '1.19.2'|
 |libid3tag|0.15.1b|0.16.3|runtime-multimedia|Compliance mode enabled, was '0.16.3'|
 |libid3tag+32|0.15.1b|0.16.3|runtime-optenv32|Compliance mode enabled, was '0.16.3'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
