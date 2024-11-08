@@ -2606,7 +2606,6 @@
 ["lazygit","0.44.0","0.44.1","app-vcs",1727015619,["Compliance mode enabled, was '0.44.1'"]],
 ["mercurial","6.8.1","6.8.2","app-vcs",1728998119,["Compliance mode enabled, was '6.8.2'"]],
 ["git-cliff","2.4.0","2.6.1","app-vcs",1721525702,["Compliance mode enabled, was '2.6.1'"]],
-["linux+kernel+rc","5.8.0","5.19.17","runtime-kernel",1678950872,["Compliance mode enabled, was '5.19.17'"]],
 ["linux-kernel-lts","6.6.57","5.19.17","runtime-kernel",1729297937,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.6.57 -> 5.19.17)"]],
 ["sof-firmware","2024.06","2024.09","runtime-kernel",1721640171,["Compliance mode enabled, was '2024.09'"]],
 ["m1n1","1.4.14","1.4.17","runtime-kernel",1723484293,[]],
