@@ -1661,6 +1661,7 @@
 ["gmsynth.lv2","0.6.0","0.1.0","app-multimedia",1728142443,["Compliance mode enabled, was '0.1.0'","Possible downgrade from the current version (0.6.0 -> 0.1.0)"]],
 ["feeluown","4.1.1","4.1.7","app-multimedia",1710216003,["Compliance mode enabled, was '4.1.7'"]],
 ["faac","1.29.9.2","1.30","app-multimedia",1530178630,["Compliance mode enabled, was '1.30'"]],
+["cdemu-client","3.2.4","3.2.5","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.5'"]],
 ["picard","2.12","2.12.3","app-multimedia",1721093422,["Compliance mode enabled, was '2.12.3'"]],
 ["smpeg","0.4.5","2.0.0","app-multimedia",1678950872,["Compliance mode enabled, was '2_0_0'"]],
 ["gcdemu","3.2.4","3.2.6","app-multimedia",1582663068,["Compliance mode enabled, was '3.2.6'"]],
