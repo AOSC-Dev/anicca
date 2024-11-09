@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731125632?label=Updated)
+![Relative date](https://img.shields.io/date/1731128996?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1808,6 +1808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peewee|3.17.1|3.17.7|lang-python|Compliance mode enabled, was '3.17.7'|
+|pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |perl|5.36.3|5.41.5|lang-perl|Compliance mode enabled, was '5.41.5'|
@@ -2484,6 +2485,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.13.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
 |taglib+32|1.11|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.3.1|runtime-multimedia|Compliance mode enabled, was '12.3.1'|
+|tailscale|1.76.1|1.76.6|app-network|Compliance mode enabled, was '1.76.6'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.3.4|2.4.2|runtime-common|Compliance mode enabled, was '2.4.2'|
