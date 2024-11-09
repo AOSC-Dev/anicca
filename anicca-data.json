@@ -1159,7 +1159,7 @@
 ["lazarus","3.2","3.6","lang-pascal",1711727725,["Compliance mode enabled, was '3.6'"]],
 ["libdnet","1.12","1.18.0","runtime-network",1488077516,["Compliance mode enabled, was '1.18.0'"]],
 ["gsoap","2.8.124","2.8.135","runtime-network",1678522480,["Compliance mode enabled, was '2.8.135'"]],
-["c-ares","1.28.1","1.34.2","runtime-network",1711895979,["Compliance mode enabled, was '1.34.2'"]],
+["c-ares","1.28.1","1.34.3","runtime-network",1711895979,["Compliance mode enabled, was '1.34.3'"]],
 ["dpdk","22.11.1","24.07","runtime-network",1723274666,["Compliance mode enabled, was '24.07'"]],
 ["libidn2","2.3.0","2.3.7","runtime-network",1579575873,["Compliance mode enabled, was '2.3.7'"]],
 ["libnftnl","1.2.6","1.2.8","runtime-network",1608367947,["Compliance mode enabled, was '1.2.8'"]],
