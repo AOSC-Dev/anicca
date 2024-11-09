@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731107571?label=Updated)
+![Relative date](https://img.shields.io/date/1731112769?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2244,7 +2244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
-|restic|0.17.1|0.17.2|app-utils|Compliance mode enabled, was '0.17.2'|
+|restic|0.17.1|0.17.3|app-utils|Compliance mode enabled, was '0.17.3'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
 |rexml|3.2.5|3.3.9|lang-ruby|Compliance mode enabled, was '3.3.9'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -2257,14 +2257,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
-|rocm-bandwidth-test|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
-|rocm-cmake|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
-|rocm-llvm|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
-|rocm-smi-lib|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
-|rocminfo|6.0.2|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|rocm-bandwidth-test|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocm-cmake|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocm-llvm|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocm-smi-lib|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocminfo|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocr-runtime|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocs|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|roct-thunk-interface|6.0.0|6.2.2|runtime-rocm|Compliance mode enabled, was '6.2.2'|
+|roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
