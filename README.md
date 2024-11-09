@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731122144?label=Updated)
+![Relative date](https://img.shields.io/date/1731125632?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -697,7 +697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hivex|1.3.23|1.3.24|app-admin|Compliance mode enabled, was '1.3.24'|
-|hmcl|3.5.9.257|3.5.10|app-games|Compliance mode enabled, was '3.5.10'|
 |hotdoc|0.13.7|0.17.1|app-doc|Compliance mode enabled, was '0.17.1'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
@@ -1674,8 +1673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numactl|2.0.14|2.0.19|app-admin|Compliance mode enabled, was '2.0.19'|
-|numix-icon-theme|20190917|24.09.18|desktop-themes|Compliance mode enabled, was '24.09.18'<br>Possible downgrade from the current version (20190917 -> 24.09.18)|
-|numix-icon-theme-circle|20160927|24.10.22|desktop-themes|Compliance mode enabled, was '24.10.22'<br>Possible downgrade from the current version (20160927 -> 24.10.22)|
 |numpy|1.26.4|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvidia|560.35.03|565.57.01|runtime-display|Compliance mode enabled, was '565.57.01'|
@@ -1811,7 +1808,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peewee|3.17.1|3.17.7|lang-python|Compliance mode enabled, was '3.17.7'|
-|pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |perl|5.36.3|5.41.5|lang-perl|Compliance mode enabled, was '5.41.5'|
@@ -2311,6 +2307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.4.5|2.4.10|lang-lisp|Compliance mode enabled, was '2.4.10'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |scapy|2.5.0|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
+|sccache|0.3.3|0.8.2|app-devel|Compliance mode enabled, was '0.8.2'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
