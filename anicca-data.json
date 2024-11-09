@@ -2737,6 +2737,7 @@
 ["iozone","3.492","3.506","app-admin",1641887332,["Compliance mode enabled, was '3.506'"]],
 ["runc","1.1.14","1.2.1","app-admin",1727015619,["Compliance mode enabled, was '1.2.1'"]],
 ["openldap","2.6.7","2.6.8","app-admin",1712930384,["Compliance mode enabled, was '2_6_8'"]],
+["cryfs","0.11.4","1.0.0","app-admin",1728366844,["Compliance mode enabled, was '1.0.0'"]],
 ["synaptic","0.90.2","0.91.3","app-admin",1610962803,["Compliance mode enabled, was '0.91.3'"]],
 ["reiser4progs","1.2.2","1.2.2.","app-admin",1678601027,["Compliance mode enabled, was '1.2.2.'"]],
 ["dpkg","1.22.7","1.22.11","app-admin",1721289895,["Compliance mode enabled, was '1.22.11'"]],
