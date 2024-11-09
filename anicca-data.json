@@ -753,7 +753,6 @@
 ["libsigc++","2.10.8","3.6.0","runtime-common",1689323111,["Compliance mode enabled, was '3.6.0'"]],
 ["uthash","2.1.0","2.3.0","runtime-common",1603951135,["Compliance mode enabled, was '2.3.0'"]],
 ["liburing","2.6","2.8","runtime-common",1716460523,["Compliance mode enabled, was '2.8'"]],
-["json-c","0.16","0.18","runtime-common",1662693210,["Compliance mode enabled, was '0.18'"]],
 ["libdeflate","1.19","1.22","runtime-common",1704452201,["Compliance mode enabled, was '1.22'"]],
 ["msgpack-c++","6.1.0","7.0.0","runtime-common",1708762981,["Compliance mode enabled, was '7.0.0'"]],
 ["xmlrpc-c","1.54.06","1.59.03","runtime-common",1678522481,["Compliance mode enabled, was '1.59.03'"]],
