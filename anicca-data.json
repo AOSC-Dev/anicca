@@ -339,7 +339,7 @@
 ["python-kaitaistruct","0.9","0.10","lang-python",1618998184,["Compliance mode enabled, was '0.10'"]],
 ["wheel","0.42.0","0.45.0","lang-python",1708762785,["Compliance mode enabled, was '0.45.0'"]],
 ["pylint","2.14.4","3.3.1","lang-python",1658217673,["Compliance mode enabled, was '3.3.1'"]],
-["hypothesis-python","6.97.4","6.118.1","lang-python",1706859511,["Compliance mode enabled, was '6.118.1'"]],
+["hypothesis-python","6.97.4","6.118.2","lang-python",1706859511,["Compliance mode enabled, was '6.118.2'"]],
 ["arrow","1.0.3","1.3.0","lang-python",1616123331,["Compliance mode enabled, was '1.3.0'"]],
 ["pyqt5-sip","12.9.0","12.15.0","lang-python",1637636760,["Compliance mode enabled, was '12.15.0'"]],
 ["qtpy","2.1.0","2.4.2","lang-python",1658966837,["Compliance mode enabled, was '2.4.2'"]],
