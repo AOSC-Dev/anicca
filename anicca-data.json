@@ -927,6 +927,7 @@
 ["pango+32","1.44.7","1.54.0","runtime-optenv32",1461463260,["Compliance mode enabled, was '1.54.0'"]],
 ["gnutls+32","3.6.15","3.8.8","runtime-optenv32",1600624175,["Compliance mode enabled, was '3.8.8'"]],
 ["libogg+32","1.3.4","1.3.5","runtime-optenv32",1582664085,["Compliance mode enabled, was '1.3.5'"]],
+["pixman+32","0.40.0","0.44.0","runtime-optenv32",1461471816,["Compliance mode enabled, was '0.44.0'"]],
 ["libusb+32","1.0.23","1.0.27","runtime-optenv32",1535775892,["Compliance mode enabled, was '1.0.27'"]],
 ["gsm+32","1.0.19","1.0.22","runtime-optenv32",1600624175,["Compliance mode enabled, was '1.0.22'"]],
 ["libtiff+32","4.0.10","4.7.0","runtime-optenv32",1446416720,["Compliance mode enabled, was '4.7.0'"]],
