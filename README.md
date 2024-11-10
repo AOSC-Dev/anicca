@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731199320?label=Updated)
+![Relative date](https://img.shields.io/date/1731205043?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -721,10 +721,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.118.2|lang-python|Compliance mode enabled, was '6.118.2'|
+|hypothesis-python|6.97.4|6.118.3|lang-python|Compliance mode enabled, was '6.118.3'|
 |hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
+|i3status-rust|0.33.1|0.33.2|desktop-wm|Compliance mode enabled, was '0.33.2'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
 |ibus|1.5.25|1.5.31|app-i18n|Compliance mode enabled, was '1.5.31'|
 |ibus-anthy|1.5.13|1.5.16|app-i18n|Compliance mode enabled, was '1.5.16'|
@@ -744,8 +745,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
-|imagemagick|6.9.13<br>+16|6.9.13+17|app-utils|Compliance mode enabled, was '6.9.13-17'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+39|app-utils|Compliance mode enabled, was '7.1.1-39'|
+|imagemagick|6.9.13<br>+16|6.9.13+18|app-utils|Compliance mode enabled, was '6.9.13-18'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+40|app-utils|Compliance mode enabled, was '7.1.1-40'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
@@ -1615,8 +1616,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20241102|runtime-common|Compliance mode enabled, was '6.5-20241102'|
-|ncurses+32|6.4|6.5+20241102|runtime-optenv32|Compliance mode enabled, was '6.5-20241102'|
+|ncurses|6.4|6.5+20241109|runtime-common|Compliance mode enabled, was '6.5-20241109'|
+|ncurses+32|6.4|6.5+20241109|runtime-optenv32|Compliance mode enabled, was '6.5-20241109'|
 |ndctl|72|80|app-admin|Compliance mode enabled, was '80'|
 |neatvnc|0.7.1|0.8.1|runtime-network|Compliance mode enabled, was '0.8.1'|
 |nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
