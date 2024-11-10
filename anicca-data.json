@@ -784,6 +784,7 @@
 ["glog","0.3.5","0.7.1","runtime-common",1531411177,["Compliance mode enabled, was '0.7.1'"]],
 ["libsigsegv","2.12","2.14","runtime-common",1523464139,["Compliance mode enabled, was '2.14'"]],
 ["rrdtool","1.7.2","1.9.0","runtime-common",1565150273,["Compliance mode enabled, was '1.9.0'"]],
+["spdlog","1.14.1","1.15.0","runtime-common",1715758898,["Compliance mode enabled, was '1.15.0'"]],
 ["libbloom","1.6","2.0","runtime-common",1600146739,["Compliance mode enabled, was '2.0'"]],
 ["tevent","0.13.0","0.16.1","runtime-common",1673495967,["Compliance mode enabled, was '0.16.1'"]],
 ["jsonrpc-glib","3.42.0","3.44.1","runtime-common",1663210242,["Compliance mode enabled, was '3.44.1'"]],
