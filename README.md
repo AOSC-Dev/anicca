@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731236797?label=Updated)
+![Relative date](https://img.shields.io/date/1731240900?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1691,7 +1691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
 |ocrad|0.27|0.29|app-doc|Compliance mode enabled, was '0.29'|
-|ocrmypdf|16.5.0|16.6.0|app-doc|Compliance mode enabled, was '16.6.0'|
+|ocrmypdf|16.5.0|16.6.1|app-doc|Compliance mode enabled, was '16.6.1'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |ofono|1.30|2.12|app-network|Compliance mode enabled, was '2.12'|
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
@@ -1719,7 +1719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
 |openh264|2.4.1|2.5.0|app-multimedia||
 |openimagedenoise|1.4.3|2.3.0|runtime-imaging|Compliance mode enabled, was '2.3.0'|
-|openimageio|2.4.17.0|2.5.17.0|runtime-imaging|Compliance mode enabled, was '2.5.17.0'|
+|openimageio|2.4.17.0|3.0.0.3|runtime-imaging|Compliance mode enabled, was '3.0.0.3'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
@@ -2747,7 +2747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weston|14.0.0|14.0.1|runtime-display|Compliance mode enabled, was '14.0.1'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.42.0|0.45.0|lang-python|Compliance mode enabled, was '0.45.0'|
-|wheezy.template|3.1.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
+|wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
