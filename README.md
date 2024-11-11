@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731359228?label=Updated)
+![Relative date](https://img.shields.io/date/1731363008?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -169,8 +169,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.57|lang-python|Compliance mode enabled, was '1.35.57'|
-|botocore|1.34.133|1.35.57|lang-python|Compliance mode enabled, was '1.35.57'|
+|boto3|1.20.26|1.35.58|lang-python|Compliance mode enabled, was '1.35.58'|
+|botocore|1.34.133|1.35.58|lang-python|Compliance mode enabled, was '1.35.58'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.15|app-utils|Compliance mode enabled, was '51.15'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.15)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -627,7 +627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gpgme|1.23.2|1.24.0|runtime-cryptography|Compliance mode enabled, was '1.24.0'|
-|gradle|8.10.1|8.10.2|lang-java|Compliance mode enabled, was '8.10.2'|
+|gradle|8.10.1|8.11.0|lang-java|Compliance mode enabled, was '8.11.0'|
 |granatier|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |grantlee-editor|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |grantleetheme|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1842,7 +1842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
 |perl-datetime-locale|1.26|1.44|lang-perl|Compliance mode enabled, was '1.44'|
 |perl-datetime-timezone|2.62|2.63|lang-perl|Compliance mode enabled, was '2.63'|
-|perl-dbd-mysql|4.052|5.009|lang-perl|Compliance mode enabled, was '5.009'|
+|perl-dbd-mysql|4.052|5.010|lang-perl|Compliance mode enabled, was '5.010'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
 |perl-dbi|1.642|1.645|lang-perl|Compliance mode enabled, was '1.645'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
