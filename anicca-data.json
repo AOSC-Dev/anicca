@@ -2847,7 +2847,7 @@
 ["kvirc","5.0.0","5.2.6","app-web",1554223928,["Compliance mode enabled, was '5.2.6'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
 ["squid","5.7","6.12","app-web",1669533924,["Compliance mode enabled, was '6.12'"]],
-["firefox","132.0","132.0.1","app-web",1730212643,["Compliance mode enabled, was '132.0.1'"]],
+["firefox","132.0","132.0.2","app-web",1730212643,["Compliance mode enabled, was '132.0.2'"]],
 ["certbot","2.11.0","3.0.0","groups",1717723307,["Compliance mode enabled, was '3.0.0'"]],
 ["toxcore","0.2.18","0.2.19","app-web",1655338775,["Compliance mode enabled, was '0.2.19'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
