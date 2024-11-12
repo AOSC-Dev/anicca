@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731392088?label=Updated)
+![Relative date](https://img.shields.io/date/1731395464?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -510,7 +510,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gap|4.10.2|4.13.1|app-scientific|Compliance mode enabled, was '4.13.1'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
 |gawk|5.3.0|5.3.1|app-utils|Compliance mode enabled, was '5.3.1'|
-|gc|8.2.8|8.2.4|runtime-common|Compliance mode enabled, was '8.2.4'<br>Possible downgrade from the current version (8.2.8 -> 8.2.4)|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc|13.2.0|14.2.0|core-devel|Compliance mode enabled, was '14.2.0'|
 |gcc+32|13.2.0|14.2.0|runtime-optenv32|Compliance mode enabled, was '14.2.0'|
@@ -718,7 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperfine|1.18.0|1.19.0|app-devel|Compliance mode enabled, was '1.19.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.118.7|lang-python|Compliance mode enabled, was '6.118.7'|
+|hypothesis-python|6.97.4|6.118.8|lang-python|Compliance mode enabled, was '6.118.8'|
 |hysteria|2.5.1|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
