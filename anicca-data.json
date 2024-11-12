@@ -2845,7 +2845,7 @@
 ["httrack","3.49.2","3.49.5","app-web",1495802694,["Compliance mode enabled, was '3.49.5'"]],
 ["certbot-nginx","2.10.0","3.0.0","app-web",1716728325,["Compliance mode enabled, was '3.0.0'"]],
 ["postfix","3.7.3","3.9.0","app-web",1721223235,["Compliance mode enabled, was '3.9.0'"]],
-["chromium","127.0.6533.119","130.0.6723.116","app-web",1723951379,["Compliance mode enabled, was '130.0.6723.116'"]],
+["chromium","127.0.6533.119","131.0.6778.69","app-web",1723951379,["Compliance mode enabled, was '131.0.6778.69'"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
 ["rclone","1.68.0","1.68.1","app-web",1727015619,["Compliance mode enabled, was '1.68.1'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
