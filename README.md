@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731420744?label=Updated)
+![Relative date](https://img.shields.io/date/1731424251?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -850,6 +850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmutils|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcodecs|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcolorchooser|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
 |kcompletion|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kconfig|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kconfigwidgets|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -1951,7 +1952,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-text-csv|1.99|2.04|lang-perl|Compliance mode enabled, was '2.04'|
-|perl-text-csv-xs|1.38|1.56|lang-perl|Compliance mode enabled, was '1.56'|
+|perl-text-csv-xs|1.38|1.57|lang-perl|Compliance mode enabled, was '1.57'|
 |perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
 |perl-timedate|2.30|2.33|lang-perl|Compliance mode enabled, was '2.33'|
 |perl-tk|804.034|804.036|lang-perl|Compliance mode enabled, was '804.036'|
