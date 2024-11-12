@@ -1461,6 +1461,7 @@
 ["pdfgrep","2.1.2","2.2.0","app-doc",1549004376,["Compliance mode enabled, was '2.2.0'"]],
 ["irrlicht","1.8.4","1.8.5","runtime-games",1468504030,["Compliance mode enabled, was '1.8.5'"]],
 ["allegro","5.2.6.0","5.2.9.1","runtime-games",1722221884,["Compliance mode enabled, was '5.2.9.1'"]],
+["black-hole-solver","1.10.1","1.12.0","runtime-games",1613805828,["Compliance mode enabled, was '1.12.0'"]],
 ["libslirp","4.6.1","4.8.0","runtime-emulation",1641193532,["Compliance mode enabled, was '4.8.0'"]],
 ["nlopt","2.7.1","2.8.0","runtime-scientific",1674445969,["Compliance mode enabled, was '2.8.0'"]],
 ["hdf5","1.10.5","1.14.5","runtime-scientific",1565150266,["Compliance mode enabled, was '1.14.5'"]],
