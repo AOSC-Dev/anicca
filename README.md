@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731366629?label=Updated)
+![Relative date](https://img.shields.io/date/1731372001?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -715,6 +715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hwinfo|23.2|23.3|app-utils|Compliance mode enabled, was '23.3'|
 |hwloc|2.10.0|2.11.2|app-admin|Compliance mode enabled, was '2.11.2'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
+|hyperfine|1.18.0|1.19.0|app-devel|Compliance mode enabled, was '1.19.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.118.7|lang-python|Compliance mode enabled, was '6.118.7'|
@@ -740,6 +741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
+|igsc|0.9.4|0.9.5|runtime-devices|Compliance mode enabled, was '0.9.5'|
 |imagemagick|6.9.13<br>+16|6.9.13+18|app-utils|Compliance mode enabled, was '6.9.13-18'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+40|app-utils|Compliance mode enabled, was '7.1.1-40'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
@@ -2287,7 +2289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-gettext|3.2.9|3.4.9|lang-ruby|Compliance mode enabled, was '3.4.9'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
-|ruby-optimist|3.0.0|3.1.0|lang-ruby|Compliance mode enabled, was '3.1.0'|
+|ruby-optimist|3.0.0|3.2.0|lang-ruby|Compliance mode enabled, was '3.2.0'|
 |ruby-pg|1.1.4|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |ruby-pkg-config|1.4.4|1.5.7|lang-ruby|Compliance mode enabled, was '1.5.7'|
 |runc|1.1.14|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
