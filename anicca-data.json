@@ -1025,6 +1025,7 @@
 ["trinity-default-settings","2023.07.1r","2024.09.3","runtime-data",1721223931,["Compliance mode enabled, was '2024.09.3'"]],
 ["man-pages","6.05.01","6.9.1","runtime-data",1707465833,[]],
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
+["v2ray-rules-dat","202411102211","202411122211","runtime-data",1731331006,["Compliance mode enabled, was '202411122211'","Versions not comparable: `202411102211` and `202411122211`"]],
 ["tzdata","2024a","2024b","runtime-data",1716696236,["Compliance mode enabled, was '2024b'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
 ["libvirt","10.5.0","10.9.0","app-virtualization",1722229097,["Compliance mode enabled, was '10.9.0'"]],
