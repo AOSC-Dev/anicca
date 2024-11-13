@@ -1997,7 +1997,6 @@
 ["variety","0.7.1","0.8.12","app-utils",1551388520,["Compliance mode enabled, was '0.8.12'"]],
 ["atop","2.10.0","2.11.0","app-utils",1705561895,["Compliance mode enabled, was '2.11.0'"]],
 ["uboot-tools","2022.10","2024.10","app-utils",1666597495,["Compliance mode enabled, was '2024.10'"]],
-["aarty","0.4.9","0.6.1","app-utils",1703241424,["Compliance mode enabled, was '0.6.1'"]],
 ["pinentry","1.1.0","1.3.1","app-utils",1522294838,["Compliance mode enabled, was '1.3.1'"]],
 ["scour","0.37","0.38.2","app-utils",1530843556,["Compliance mode enabled, was '0.38.2'"]],
 ["usb-modeswitch","2.6.0","2.6.1","app-utils",1575783674,["Compliance mode enabled, was '2.6.1'"]],
