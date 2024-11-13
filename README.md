@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731478445?label=Updated)
+![Relative date](https://img.shields.io/date/1731481849?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1981,7 +1981,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12|2.12.3|app-multimedia|Compliance mode enabled, was '2.12.3'|
 |picmi|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|picom|12.3|12.4|desktop-wm|Compliance mode enabled, was '12.4'|
 |pikepdf|8.15.1|9.4.0|app-doc|Compliance mode enabled, was '9.4.0'|
 |piklab-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |pillow|10.4.0|11.0.0|lang-python|Compliance mode enabled, was '11.0.0'|
@@ -2605,7 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tork-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |totem|42.0|43.1|desktop-gnome|Compliance mode enabled, was '43.1'|
-|toxcore|0.2.18|0.2.19|app-web|Compliance mode enabled, was '0.2.19'|
+|toxcore|0.2.18|0.2.20|app-web|Compliance mode enabled, was '0.2.20'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqca|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqdm|4.62.3|4.67.0|lang-python|Compliance mode enabled, was '4.67.0'|
