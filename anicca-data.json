@@ -1788,6 +1788,7 @@
 ["dotnet-templates-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["ctags","20191203","6.1.20241110.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20241110.0'","Possible downgrade from the current version (20191203 -> 6.1.20241110.0)"]],
 ["gnu-efi","3.0.14","3.0.18","app-devel",1645432747,["Compliance mode enabled, was '3.0.18'"]],
+["crash","8.0.5","8.0.6","app-devel",1722992612,["Compliance mode enabled, was '8.0.6'"]],
 ["gobject-introspection","1.80.0","1.82.0","app-devel",1711178014,["Compliance mode enabled, was '1.82.0'"]],
 ["scons","4.4.0","4.8.1","app-devel",1674452376,["Compliance mode enabled, was '4.8.1'"]],
 ["vasm","1.9f","2.0","app-devel",1710150622,["Compliance mode enabled, was '2.0'"]],
