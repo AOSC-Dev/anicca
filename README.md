@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731467774?label=Updated)
+![Relative date](https://img.shields.io/date/1731471187?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1191,7 +1191,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcpuid|0.5.1|0.7.0|runtime-common|Compliance mode enabled, was '0.7.0'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libcupsfilters|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
-|libdatachannel|0.21.2|0.22.2|runtime-multimedia|Compliance mode enabled, was '0.22.2'|
 |libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
 |libdecor|0.1.1|0.2.2|runtime-desktop|Compliance mode enabled, was '0.2.2'|
 |libdeflate|1.19|1.22|runtime-common|Compliance mode enabled, was '1.22'|

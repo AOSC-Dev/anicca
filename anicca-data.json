@@ -1141,7 +1141,6 @@
 ["libsndfile","1.2.0","1.2.2","runtime-multimedia",1722221884,["Compliance mode enabled, was '1.2.2'"]],
 ["lilv","0.24.12","0.24.24","runtime-multimedia",1654053412,["Compliance mode enabled, was '0.24.24'"]],
 ["ffnvcodec","12.1.14.0","12.2.72.0","runtime-multimedia",1721121534,["Compliance mode enabled, was '12.2.72.0'"]],
-["libdatachannel","0.21.2","0.22.2","runtime-multimedia",1721808721,["Compliance mode enabled, was '0.22.2'"]],
 ["libsidplay","1.36.59","2.1.1","runtime-multimedia",1678950872,["Compliance mode enabled, was '2.1.1'"]],
 ["opusfile","0.11","0.12","runtime-multimedia",1539144345,["Compliance mode enabled, was '0.12'"]],
 ["speex","1.2.0","1.2.1","runtime-multimedia",1710999875,["Compliance mode enabled, was '1.2.1'"]],
