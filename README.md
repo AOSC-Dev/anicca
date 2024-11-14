@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731579095?label=Updated)
+![Relative date](https://img.shields.io/date/1731582611?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1505,7 +1505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxgwneoxihei-font|1.200|1.211|desktop-fonts|Compliance mode enabled, was '1.211'|
 |lxgwwenkai-font|1.500|1.501|desktop-fonts|Compliance mode enabled, was '1.501'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
-|lxml-html-clean|0.2.2|0.3.1|lang-python|Compliance mode enabled, was '0.3.1'|
+|lxml-html-clean|0.2.2|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
@@ -2438,7 +2438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite-fdw|2.1.0|2.4.0|app-database|Compliance mode enabled, was '2.4.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.8.11|app-penetration|Compliance mode enabled, was '1.8.11'|
-|sqlparse|0.4.1|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
+|sqlparse|0.4.1|0.5.2|lang-python|Compliance mode enabled, was '0.5.2'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
 |squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
