@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731607987?label=Updated)
+![Relative date](https://img.shields.io/date/1731611153?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -225,10 +225,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
 |cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
-|certbot|2.11.0|3.0.0|groups|Compliance mode enabled, was '3.0.0'|
-|certbot-apache|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
+|certbot|2.11.0|3.0.1|groups|Compliance mode enabled, was '3.0.1'|
+|certbot-apache|2.10.0|3.0.1|app-web|Compliance mode enabled, was '3.0.1'|
 |certbot-dns-cloudflare|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
-|certbot-nginx|2.10.0|3.0.0|app-web|Compliance mode enabled, was '3.0.0'|
+|certbot-nginx|2.10.0|3.0.1|app-web|Compliance mode enabled, was '3.0.1'|
 |certifi|2024.7.4|2024.8.30|lang-python|Compliance mode enabled, was '2024.8.30'|
 |cervisia|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
@@ -2205,6 +2205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmmp|1.6.5|2.2.2|app-multimedia|Compliance mode enabled, was '2.2.2'|
 |qownnotes|22.6.1|24.11.2|app-web|Compliance mode enabled, was '24.11.2'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
+|qpwgraph|0.7.9|0.8.0|app-multimedia|Compliance mode enabled, was '0.8.0'|
 |qqc2-desktop-style|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
