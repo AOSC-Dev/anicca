@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731622250?label=Updated)
+![Relative date](https://img.shields.io/date/1731625910?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -173,8 +173,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.60|lang-python|Compliance mode enabled, was '1.35.60'|
-|botocore|1.34.133|1.35.60|lang-python|Compliance mode enabled, was '1.35.60'|
+|boto3|1.20.26|1.35.61|lang-python|Compliance mode enabled, was '1.35.61'|
+|botocore|1.34.133|1.35.61|lang-python|Compliance mode enabled, was '1.35.61'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.15|app-utils|Compliance mode enabled, was '51.15'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.15)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -555,8 +555,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|gh|2.61.0|2.62.0|app-devel|Compliance mode enabled, was '2.62.0'|
 |ghc|9.4.8|9.10.1-release|lang-haskell|Compliance mode enabled, was '9.10.1-release'|
+|ghex|46.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
 |ghostscript+32|9.27|10.04.0|runtime-optenv32|Compliance mode enabled, was '10.04.0'|
 |ghostwriter|24.05.2|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -972,6 +972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-gallery|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kirigami2|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kiriki|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|kitemmodels|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kitemviews|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kiten|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kitinerary|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
