@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731593539?label=Updated)
+![Relative date](https://img.shields.io/date/1731597145?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -494,6 +494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth|2.3.6|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |fluidsynth+32|1.1.6|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
 |fmt|10.2.1|11.0.2|runtime-common|Compliance mode enabled, was '11.0.2'|
+|fnm|1.37.2|1.38.0|lang-js|Compliance mode enabled, was '1.38.0'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |fonttools|4.53.1|4.54.1|desktop-fonts|Compliance mode enabled, was '4.54.1'|
@@ -1559,7 +1560,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.4.2|app-web|Compliance mode enabled, was '11.4.2'|
-|mihomo-party|1.5.6|1.5.7|app-network|Compliance mode enabled, was '1.5.7'|
+|mihomo-party|1.5.6|1.5.8|app-network|Compliance mode enabled, was '1.5.8'|
 |milou|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.10.0|app-games||
@@ -1626,7 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |neochat|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |neofetch|7.3.11|7.98.0|app-utils|Compliance mode enabled, was '7.98.0'|
-|neomutt|20200619|20241002|app-web|Compliance mode enabled, was '20241002'|
+|neomutt|20200619|20241114|app-web|Compliance mode enabled, was '20241114'|
 |neon+32|0.31.2|0.33.0|runtime-optenv32|Compliance mode enabled, was '0.33.0'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.11.0|1.13.0|runtime-containers|Compliance mode enabled, was '1.13.0'|
@@ -2357,7 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotcut|21.08.11|24.10.29|app-creativity|Compliance mode enabled, was '24.10.29'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
 |showmethekey|1.14.0|1.15.1|app-utils|Compliance mode enabled, was '1.15.1'|
-|siege|4.0.7|4.1.6|app-network|Compliance mode enabled, was '4.1.6'|
+|siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compliance mode enabled, was '0.15'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
@@ -2459,7 +2460,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sticky|1.20|1.22|desktop-cinnamon|Compliance mode enabled, was '1.22'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
-|strace|6.5|6.11|app-devel|Compliance mode enabled, was '6.11'|
 |strawberry|1.0.23|1.2.0|app-multimedia|Compliance mode enabled, was '1.2.0'|
 |streamlink|6.7.4|7.0.0|app-multimedia|Compliance mode enabled, was '7.0.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
