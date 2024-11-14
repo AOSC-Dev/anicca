@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731597145?label=Updated)
+![Relative date](https://img.shields.io/date/1731600858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -639,7 +639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.153.0|lang-python|Compliance mode enabled, was '2.153.0'|
 |google-auth|1.6.3|2.36.1|lang-python|Compliance mode enabled, was '2.36.1'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|goreleaser|2.2.0|2.4.4|lang-golang|Compliance mode enabled, was '2.4.4'|
+|goreleaser|2.2.0|2.4.5|lang-golang|Compliance mode enabled, was '2.4.5'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gpgme|1.23.2|1.24.0|runtime-cryptography|Compliance mode enabled, was '1.24.0'|
@@ -891,7 +891,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeedu-data|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kdegraphics-mobipocket|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kdegraphics-thumbnailers|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|kdelibs4support|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kdenetwork-filesharing|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kdenlive|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kdepim-addons|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2460,6 +2459,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sticky|1.20|1.22|desktop-cinnamon|Compliance mode enabled, was '1.22'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
+|strace|6.5|6.11|app-devel|Compliance mode enabled, was '6.11'|
 |strawberry|1.0.23|1.2.0|app-multimedia|Compliance mode enabled, was '1.2.0'|
 |streamlink|6.7.4|7.0.0|app-multimedia|Compliance mode enabled, was '7.0.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
