@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731679966?label=Updated)
+![Relative date](https://img.shields.io/date/1731683476?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1647,7 +1647,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
 |networkmanager-qt|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |networkmanager-strongswan|1.5.2|1.6.0|app-network|Compliance mode enabled, was '1.6.0'|
-|networkmanager-vpnc|1.2.6|1.2.8|app-network|Compliance mode enabled, was '1.2.8'|
+|networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |networkx|2.8.5|3.4.2|lang-python|Compliance mode enabled, was '3.4.2'|
 |newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
 |newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
@@ -2840,6 +2840,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |yakuake-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
+|yara|4.5.0|4.5.2|app-utils|Compliance mode enabled, was '4.5.2'|
 |yard|0.9.26|0.9.37|app-doc|Compliance mode enabled, was '0.9.37'|
 |yarl|1.9.4|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
