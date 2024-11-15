@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731694395?label=Updated)
+![Relative date](https://img.shields.io/date/1731697570?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -725,7 +725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.27.2|lang-python|Compliance mode enabled, was '0.27.2'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
-|hugin|2022.0.0|2023.0.0|app-creativity|Compliance mode enabled, was '2023.0.0'|
+|hugin|2022.0.0|2024.0.0|app-creativity|Compliance mode enabled, was '2024.0.0'|
 |hugo|0.134.1|0.138.0|app-web|Compliance mode enabled, was '0.138.0'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
@@ -1316,6 +1316,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnotify|0.7.9|0.8.3|runtime-desktop|Compliance mode enabled, was '0.8.3'|
 |libnsl2|1.3.0|2.0.1|runtime-network|Compliance mode enabled, was '2.0.1'|
 |libnspsl|0.1.6|0.1.7|runtime-web|Compliance mode enabled, was '0.1.7'|
+|libnvme|1.11|1.11.1|runtime-devices|Compliance mode enabled, was '1.11.1'|
 |libodfgen|0.1.6|0.1.8|runtime-productivity|Compliance mode enabled, was '0.1.8'|
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compliance mode enabled, was '1.30'|
 |libogg|1.3.4|1.3.5|runtime-multimedia|Compliance mode enabled, was '1.3.5'|
