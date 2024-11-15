@@ -1431,7 +1431,7 @@
 ["sphinxcontrib-serializinghtml","1.1.5","2.0.0","app-doc",1631166650,["Compliance mode enabled, was '2.0.0'"]],
 ["lyx","2.4.0","2.4.2.1","app-doc",1718013264,["Compliance mode enabled, was '2.4.2.1'"]],
 ["texstudio","4.0.2","4.8.4","app-doc",1636116326,["Compliance mode enabled, was '4.8.4'"]],
-["rarian","0.8.1","0.8.5","app-doc",1678950872,["Compliance mode enabled, was '0.8.5'"]],
+["rarian","0.8.1","0.8.6","app-doc",1678950872,["Compliance mode enabled, was '0.8.6'"]],
 ["mdbook","0.4.40","0.4.42","app-doc",1730689657,["Compliance mode enabled, was '0.4.42'"]],
 ["doxygen","1.11.0","1.12.0","app-doc",1720957491,["Compliance mode enabled, was '1_12_0'"]],
 ["ocrmypdf","16.5.0","16.6.1","app-doc",1729704733,["Compliance mode enabled, was '16.6.1'"]],

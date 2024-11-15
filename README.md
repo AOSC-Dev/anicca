@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731641060?label=Updated)
+![Relative date](https://img.shields.io/date/1731643992?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2225,7 +2225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
 |rapidfuzz|3.2.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'<br>Possible downgrade from the current version (3.2.0 -> 3.1.2)|
 |rapidfuzz-cpp|2.0.0|3.1.1|runtime-common|Compliance mode enabled, was '3.1.1'|
-|rarian|0.8.1|0.8.5|app-doc|Compliance mode enabled, was '0.8.5'|
+|rarian|0.8.1|0.8.6|app-doc|Compliance mode enabled, was '0.8.6'|
 |razergenie|0.9.0|1.2.0|app-devices|Compliance mode enabled, was '1.2.0'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
 |rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
