@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731651306?label=Updated)
+![Relative date](https://img.shields.io/date/1731654789?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1505,7 +1505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxgwneoxihei-font|1.200|1.211|desktop-fonts|Compliance mode enabled, was '1.211'|
 |lxgwwenkai-font|1.500|1.501|desktop-fonts|Compliance mode enabled, was '1.501'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
-|lxml-html-clean|0.2.2|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
+|lxml-html-clean|0.2.2|0.4.1|lang-python|Compliance mode enabled, was '0.4.1'|
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
