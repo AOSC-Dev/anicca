@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731708643?label=Updated)
+![Relative date](https://img.shields.io/date/1731712343?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -214,7 +214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-c|0.10.2|0.10.5|lang-rust|Compliance mode enabled, was '0.10.5'|
-|cargo-release|0.25.10|0.25.12|lang-rust|Compliance mode enabled, was '0.25.12'|
+|cargo-release|0.25.10|0.25.13|lang-rust|Compliance mode enabled, was '0.25.13'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
 |catch2|2.13.8|3.7.1|runtime-common|Compliance mode enabled, was '3.7.1'|
@@ -700,7 +700,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz|8.4.0|10.1.0|runtime-desktop|Compliance mode enabled, was '10.1.0'|
 |harfbuzz+32|2.6.7|10.1.0|runtime-optenv32|Compliance mode enabled, was '10.1.0'|
 |haruna|0.12.3|1.2.1|desktop-kde|Compliance mode enabled, was '1.2.1'|
-|hatchling|1.21.1|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'<br>Possible downgrade from the current version (1.21.1 -> 1.13.0)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.5|runtime-scientific|Compliance mode enabled, was '1.14.5'|
@@ -1947,7 +1946,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
 |perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
 |perl-proc-processtable|0.56|0.636|lang-perl|Compliance mode enabled, was '0.636'|
-|perl-regexp-common|2017060201|2024080801|lang-perl|Compliance mode enabled, was '2024080801'|
 |perl-role-tiny|2.001004|2.002004|lang-perl|Compliance mode enabled, was '2.002004'|
 |perl-specio|0.46|0.48|lang-perl|Compliance mode enabled, was '0.48'|
 |perl-string-util|1.31|1.35|lang-perl|Compliance mode enabled, was '1.35'|
@@ -2691,6 +2689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.22.0|app-network|Compliance mode enabled, was '5.22.0'|
+|v2ray-rules-dat|202411142212|202411152212|runtime-data|Compliance mode enabled, was '202411152212'<br>Versions not comparable: `202411142212` and `202411152212`|
 |v2raya|2.2.5.8|2.2.6.2|app-network|Compliance mode enabled, was '2.2.6.2'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2725,7 +2724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.296.0|runtime-optenv32|Compliance mode enabled, was '1.3.296.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.94.2.24286|1.95.2.24313|app-editors|Compliance mode enabled, was '1.95.2.24313'|
+|vscodium|1.94.2.24286|1.95.3.24320|app-editors|Compliance mode enabled, was '1.95.3.24320'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.1|runtime-desktop|Compliance mode enabled, was '0.78.1'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
