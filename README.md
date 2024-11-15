@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731658464?label=Updated)
+![Relative date](https://img.shields.io/date/1731661963?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -339,7 +339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
 |deno|1.44.1|2.0.6|lang-js|Compliance mode enabled, was '2.0.6'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deploykit-backend|0.6.6|0.7.1|app-admin|Compliance mode enabled, was '0.7.1'|
+|deploykit-backend|0.6.6|0.7.3|app-admin|Compliance mode enabled, was '0.7.3'|
 |deploykit-gui|0.8.3|0.9.0|app-admin|Compliance mode enabled, was '0.9.0'|
 |desktop-file-utils|0.27|0.28|app-admin|Compliance mode enabled, was '0.28'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -358,7 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |django|5.0.3|5.1.3|lang-python|Compliance mode enabled, was '5.1.3'|
-|dkcli|0.4.2|0.4.3|app-admin|Compliance mode enabled, was '0.4.3'|
+|dkcli|0.4.2|0.4.4|app-admin|Compliance mode enabled, was '0.4.4'|
 |dkms|3.0.13|3.1.1|app-admin|Compliance mode enabled, was '3.1.1'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dnsdiag|2.5.0|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
@@ -1763,7 +1763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
-|osu-lazer|2024.1104.0|2024.1115.0|app-games|Compliance mode enabled, was '2024.1115.0'|
+|osu-lazer|2024.1104.0|2024.1115.1|app-games|Compliance mode enabled, was '2024.1115.1'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |oxygen-icons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -2086,7 +2086,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |py-filelock|3.14.0|3.16.1|lang-python|Compliance mode enabled, was '3.16.1'|
 |py-setproctitle|1.1.10|1.3.3|lang-python|Compliance mode enabled, was '1.3.3'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
-|pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |pyasn1|0.4.8|0.6.1|lang-python|Compliance mode enabled, was '0.6.1'|
 |pyasn1-modules|0.2.8|0.4.1|lang-python|Compliance mode enabled, was '0.4.1'|
 |pyatspi|2.38.2|2.46.1|lang-python|Compliance mode enabled, was '2.46.1'|
