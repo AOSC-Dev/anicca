@@ -1758,7 +1758,7 @@
 ["m17n-db","1.8.7","1.8.9","runtime-i18n",1723991241,["Compliance mode enabled, was '1.8.9'"]],
 ["libchewing","0.5.1","0.9.1","runtime-i18n",1469841201,["Compliance mode enabled, was '0.9.1'"]],
 ["libvoikko","4.3.1","4.3.2","runtime-i18n",1633153816,["Compliance mode enabled, was '4.3.2'"]],
-["libphonenumber","8.13.38","8.13.49","runtime-i18n",1721223235,["Compliance mode enabled, was '8.13.49'"]],
+["libphonenumber","8.13.38","8.13.50","runtime-i18n",1721223235,["Compliance mode enabled, was '8.13.50'"]],
 ["icu","74.2","76.1","runtime-i18n",1563174820,["Compliance mode enabled, was '76-1'"]],
 ["libpinyin","2.6.0","2.9.92","runtime-i18n",1570596159,["Compliance mode enabled, was '2.9.92'"]],
 ["librime","1.11.2","1.12.0","runtime-i18n",1714867333,["Compliance mode enabled, was '1.12.0'"]],
