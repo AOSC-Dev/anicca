@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731717678?label=Updated)
+![Relative date](https://img.shields.io/date/1731723437?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -655,7 +655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greenlet|1.1.2|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
-|grpc|1.64.0|1.67.1|app-network|Compliance mode enabled, was '1.67.1'|
+|grpc|1.64.0|1.68.0|app-network|Compliance mode enabled, was '1.68.0'|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
@@ -2571,7 +2571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tesseract|5.4.1|5.5.0|app-utils|Compliance mode enabled, was '5.5.0'|
-|tevent|0.13.0|0.16.1|runtime-common|Compliance mode enabled, was '0.16.1'|
 |texinfo|7.1|7.1.1|app-utils|Compliance mode enabled, was '7.1.1'|
 |texlive|20240312|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20240312 -> 2024)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
@@ -2726,7 +2725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.3.296.0|runtime-optenv32|Compliance mode enabled, was '1.3.296.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.94.2.24286|1.95.3.24320|app-editors|Compliance mode enabled, was '1.95.3.24320'|
+|vscodium|1.94.2.24286|1.95.3.24321|app-editors|Compliance mode enabled, was '1.95.3.24321'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.1|runtime-desktop|Compliance mode enabled, was '0.78.1'|
 |vtk|9.3.0|9.3.1|app-scientific|Compliance mode enabled, was '9.3.1'|
