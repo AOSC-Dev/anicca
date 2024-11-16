@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731766171?label=Updated)
+![Relative date](https://img.shields.io/date/1731769622?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -916,7 +916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |keep-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kemoticons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
-|kernel-tools|6.11.4|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.4 -> 5.19.17)|
+|kernel-tools|6.11.8|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.8 -> 5.19.17)|
 |keximdb-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |keyring|21.7.0|25.5.0|lang-python|Compliance mode enabled, was '25.5.0'|
 |keysmith|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1459,14 +1459,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
 |linux+api|6.7.12|5.19.17|core-devel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
-|linux+kernel|6.11.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.4 -> 5.19.17)|
+|linux+kernel|6.11.8|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.8 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
 |linux+kernel+lts|6.6.61|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (6.6.61 -> 5.10.229)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'|
 |linux+kernel+retro+minimal|5.15.17|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (5.15.17 -> 5.10.229)|
 |linux-firmware|20241113|20241110|runtime-kernel|Possible downgrade from the current version (20241113 -> 20241110)|
-|linux-kernel|6.11.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.4 -> 5.19.17)|
+|linux-kernel|6.11.8|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.8 -> 5.19.17)|
 |linux-kernel-lts|6.6.61|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.61 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'|
 |linux-kernel-retro-minimal|5.15.17|5.10.229|runtime-kernel|Compliance mode enabled, was '5.10.229'<br>Possible downgrade from the current version (5.15.17 -> 5.10.229)|
@@ -1706,6 +1706,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.1|app-utils|Compliance mode enabled, was '5.3.1'|
+|openal-soft|1.23.1|1.24.0|runtime-multimedia|Compliance mode enabled, was '1.24.0'|
+|openal-soft+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|18.1.0|19.1.0|runtime-common|Compliance mode enabled, was '19.1.0'|
