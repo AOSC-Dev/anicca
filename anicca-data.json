@@ -2841,7 +2841,7 @@
 ["luajit","2.1.0b3+git20240222","2.1.rolling","lang-lua",1708851535,["Compliance mode enabled, was '2.1.ROLLING'"]],
 ["lua-messagepack","0.5.1","0.5.4","lang-lua",1531723859,["Compliance mode enabled, was '0.5.4'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
-["telegram-desktop","5.7.1","5.7.3","app-web",1730787042,["Compliance mode enabled, was '5.7.3'"]],
+["telegram-desktop","5.7.1","5.7.4","app-web",1730787042,["Compliance mode enabled, was '5.7.4'"]],
 ["weechat","4.2.2","4.4.3","app-web",1716340381,["Compliance mode enabled, was '4.4.3'"]],
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
 ["notmuch","0.34","0.38.3","app-web",1637636760,["Compliance mode enabled, was '0.38.3'"]],
