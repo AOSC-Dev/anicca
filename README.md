@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731827448?label=Updated)
+![Relative date](https://img.shields.io/date/1731831206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -134,7 +134,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backcall|0.1.0|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |backports|0|1.1|lang-python|Compliance mode enabled, was '1.1'|
 |backports-functools-lru-cache|1.5|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
-|baloo|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |baloo-widgets|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |balz|1.20|.55|app-utils|Compliance mode enabled, was '.55'|
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
@@ -1587,7 +1586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |mousepad|0.6.2|0.6.3|desktop-xfce|Compliance mode enabled, was '0.6.3'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
-|mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
 |mpg123|1.32.8|1.32.9|app-multimedia|Compliance mode enabled, was '1.32.9'|
 |mpg123+32|1.32.8|1.32.9|runtime-optenv32|Compliance mode enabled, was '1.32.9'|
 |mplayerthumbs-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
