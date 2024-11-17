@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731834665?label=Updated)
+![Relative date](https://img.shields.io/date/1731838226?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -239,7 +239,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |charset-normalizer|2.0.9|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|chinadns-ng|2024.07.16|2024.10.14|app-web|Compliance mode enabled, was '2024.10.14'|
+|chinadns-ng|2024.07.16|2024.11.17|app-web|Compliance mode enabled, was '2024.11.17'|
 |chisel|1.10.0|1.10.1|app-network|Compliance mode enabled, was '1.10.1'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
@@ -758,8 +758,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
 |igsc|0.9.4|0.9.5|runtime-devices|Compliance mode enabled, was '0.9.5'|
-|imagemagick|6.9.13<br>+16|6.9.13+18|app-utils|Compliance mode enabled, was '6.9.13-18'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+40|app-utils|Compliance mode enabled, was '7.1.1-40'|
+|imagemagick|6.9.13<br>+16|6.9.13+19|app-utils|Compliance mode enabled, was '6.9.13-19'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+41|app-utils|Compliance mode enabled, was '7.1.1-41'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
