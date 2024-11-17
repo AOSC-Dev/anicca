@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731877776?label=Updated)
+![Relative date](https://img.shields.io/date/1731881503?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2108,7 +2108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
-|pygccxml|2.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
+|pygccxml|2.1.0|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
 |pygit2|1.14.1|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
 |pyglet|1.3.2|2.0.18|lang-python|Compliance mode enabled, was '2.0.18'|
 |pygobject-3|3.48.2|3.50.0|lang-python|Compliance mode enabled, was '3.50.0'|
@@ -2257,6 +2257,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rhash|1.4.4|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |rhythmbox|3.4.7|3.4.8|app-multimedia|Compliance mode enabled, was '3.4.8'|
 |rich|13.7.1|13.9.4|lang-python|Compliance mode enabled, was '13.9.4'|
+|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
@@ -2393,7 +2394,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |sonic-visualiser|4.4|5.0.1|app-multimedia|Compliance mode enabled, was '5.0.1'|
-|sonivox|3.6.12|3.6.14|runtime-multimedia|Compliance mode enabled, was '3.6.14'|
 |sonnet|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |sord|0.16.4|0.16.16|runtime-common|Compliance mode enabled, was '0.16.16'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
