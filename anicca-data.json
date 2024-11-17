@@ -1014,7 +1014,7 @@
 ["icu+32","64.2","76.1","runtime-optenv32",1563176777,["Compliance mode enabled, was '76-1'"]],
 ["openssl-1.1+32","1.1.1q","3.4.0","runtime-optenv32",1698249840,["Compliance mode enabled, was '3.4.0'"]],
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
-["vim","9.1.0794","9.1.0867","app-editors",1729595225,["Compliance mode enabled, was '9.1.0867'"]],
+["vim","9.1.0794","9.1.0869","app-editors",1729595225,["Compliance mode enabled, was '9.1.0869'"]],
 ["zed","0.160.7","0.161.2","app-editors",1731410991,["Compliance mode enabled, was '0.161.2'"]],
 ["vscodium","1.94.2.24286","1.95.3.24321","app-editors",1729171573,["Compliance mode enabled, was '1.95.3.24321'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
