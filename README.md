@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731874264?label=Updated)
+![Relative date](https://img.shields.io/date/1731877776?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -2257,7 +2257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rhash|1.4.4|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |rhythmbox|3.4.7|3.4.8|app-multimedia|Compliance mode enabled, was '3.4.8'|
 |rich|13.7.1|13.9.4|lang-python|Compliance mode enabled, was '13.9.4'|
-|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n|Compliance mode enabled, was '15.0'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
@@ -2355,7 +2354,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadow|4.15.1|4.16.0|app-admin|Compliance mode enabled, was '4.16.0'|
 |shadowsocks-rust|1.20.1|1.21.2|app-network|Compliance mode enabled, was '1.21.2'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
-|shotcut|21.08.11|24.10.29|app-creativity|Compliance mode enabled, was '24.10.29'|
+|shotcut|21.08.11|24.11.17|app-creativity|Compliance mode enabled, was '24.11.17'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
 |showmethekey|1.14.0|1.15.1|app-utils|Compliance mode enabled, was '1.15.1'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
