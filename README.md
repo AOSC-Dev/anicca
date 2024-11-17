@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731859955?label=Updated)
+![Relative date](https://img.shields.io/date/1731863266?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -772,6 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.4|runtime-common|Compliance mode enabled, was '4.2.4'|
 |intel-gmmlib|22.5.2|22.5.3|runtime-devices|Compliance mode enabled, was '22.5.3'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
+|iosevka-fonts|32.0.1|32.1.0|desktop-fonts|Compliance mode enabled, was '32.1.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
