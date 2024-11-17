@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731824140?label=Updated)
+![Relative date](https://img.shields.io/date/1731827448?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1766,7 +1766,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |oslo-serialization|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |oslo-utils|7.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
-|osu-lazer|2024.1115.0|2024.1115.3|app-games|Compliance mode enabled, was '2024.1115.3'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |oxygen-icons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -2051,7 +2050,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
 |postfix|3.7.3|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
-|postgresql|13.16|17.1|app-database|Compliance mode enabled, was '17.1'|
+|postgresql|13.17|17.1|app-database|Compliance mode enabled, was '17.1'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
 |powerdevil|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
