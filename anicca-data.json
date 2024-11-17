@@ -1848,7 +1848,6 @@
 ["libtool","2.4.7","2.5.3","app-devel",1678950872,["Compliance mode enabled, was '2.5.3'"]],
 ["bear","3.1.4","3.1.5","app-devel",1717130892,["Compliance mode enabled, was '3.1.5'"]],
 ["pam-wrapper","1.1.3","1.1.7","app-devel",1678950872,["Compliance mode enabled, was '1.1.7'"]],
-["yq","4.44.3","4.44.5","app-devel",1724659263,["Compliance mode enabled, was '4.44.5'"]],
 ["asio","1.18.1","1.30.2","app-devel",1614161782,["Compliance mode enabled, was '1.30.2'"]],
 ["mold","2.33.0","2.34.1","app-devel",1723361056,["Compliance mode enabled, was '2.34.1'"]],
 ["devscripts","2.23.7","2.24.3","app-devel",1711044245,["Compliance mode enabled, was '2.24.3'"]],
