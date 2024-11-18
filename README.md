@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731967937?label=Updated)
+![Relative date](https://img.shields.io/date/1731971455?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -103,6 +103,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomicwrites|1.3.0|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
+|atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |atop|2.10.0|2.11.0|app-utils|Compliance mode enabled, was '2.11.0'|
 |attica5|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
@@ -825,6 +826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kactivitymanagerd|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |kaddressbook|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kaffeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|kajongg|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kalarm|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kalgebra|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kalk|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2860,6 +2862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubioath-desktop|5.1.0|7.1.1|app-devices|Compliance mode enabled, was '7.1.1'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
 |z3|4.13.0|4.13.3|app-devel|Compliance mode enabled, was '4.13.3'|
+|zanshin|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
