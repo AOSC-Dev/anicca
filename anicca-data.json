@@ -1748,7 +1748,7 @@
 ["openmw","0.48.0+git20240902","0.48.0","app-games",1727581856,["Compliance mode enabled, was '0.48.0'"]],
 ["delve","1.23.0","1.23.1","lang-golang",1721488419,["Compliance mode enabled, was '1.23.1'"]],
 ["go","1.23.1","1.23.3","lang-golang",1727015619,[]],
-["goreleaser","2.2.0","2.4.6","lang-golang",1727017621,["Compliance mode enabled, was '2.4.6'"]],
+["goreleaser","2.2.0","2.4.7","lang-golang",1727017621,["Compliance mode enabled, was '2.4.7'"]],
 ["libkkc-data","0.2.7","0.3.5","runtime-i18n",1678950872,["Compliance mode enabled, was '0.3.5'"]],
 ["libthai","0.1.28","0.1.29","runtime-i18n",1535613989,["Compliance mode enabled, was '0.1.29'"]],
 ["uchardet","0.0.5","0.0.8","runtime-i18n",1490409478,["Compliance mode enabled, was '0.0.8'"]],
