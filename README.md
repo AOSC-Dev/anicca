@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731946467?label=Updated)
+![Relative date](https://img.shields.io/date/1731949834?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -259,7 +259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cjs|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |clash-verge-rev|1.7.2|1.7.7|app-network|Compliance mode enabled, was '1.7.7'|
 |clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
-|cleo|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
@@ -1064,7 +1064,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kqtquickcharts|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kquickcharts|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kquickimageeditor|0.2.0|0.4.0|desktop-kde|Compliance mode enabled, was '0.4.0'|
-|kramdown|2.4.0|2.5.0|lang-ruby|Compliance mode enabled, was '2.5.0'|
+|kramdown|2.4.0|2.5.1|lang-ruby|Compliance mode enabled, was '2.5.1'|
 |krb5|1.17.1|1.21.3-final|app-network|Compliance mode enabled, was '1.21.3-final'|
 |krb5+32|1.17.1|1.21.3-final|runtime-optenv32|Compliance mode enabled, was '1.21.3-final'|
 |krdc|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
