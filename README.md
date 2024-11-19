@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732004071?label=Updated)
+![Relative date](https://img.shields.io/date/1732007497?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1568,7 +1568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.4.2|app-web|Compliance mode enabled, was '11.4.2'|
-|mihomo-party|1.5.6|1.5.10|app-network|Compliance mode enabled, was '1.5.10'|
+|mihomo-party|1.5.6|1.5.11|app-network|Compliance mode enabled, was '1.5.11'|
 |milou|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.10.0|app-games||
@@ -2243,6 +2243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|lang-ruby|Compliance mode enabled, was '2.2.7.3'|
 |rdma-core|51.0|54.0|app-admin|Compliance mode enabled, was '54.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
+|re2c|3.1|4.0|runtime-common|Compliance mode enabled, was '4.0'|
 |readline|8.2.1|8.2.13|runtime-common|Compliance mode enabled, was '8.2.13'|
 |readline+32|8.2.1|8.2.13|runtime-optenv32|Compliance mode enabled, was '8.2.13'|
 |realmd|0.17.1|0.16.3|app-network|Compliance mode enabled, was '0.16.3'<br>Possible downgrade from the current version (0.17.1 -> 0.16.3)|
