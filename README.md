@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731982861?label=Updated)
+![Relative date](https://img.shields.io/date/1731986715?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -354,7 +354,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.34.0|2.35.0|app-utils|Compliance mode enabled, was '2.35.0'|
-|discord|0.0.74|0.0.75|app-web|Compliance mode enabled, was '0.0.75'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -1595,6 +1594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.2|0.6.3|desktop-xfce|Compliance mode enabled, was '0.6.3'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
+|mpg123|1.32.8|1.32.9|app-multimedia|Compliance mode enabled, was '1.32.9'|
 |mpg123+32|1.32.8|1.32.9|runtime-optenv32|Compliance mode enabled, was '1.32.9'|
 |mplayerthumbs-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mpmath|1.1.0|1.4.0~a2|lang-python|Compliance mode enabled, was '1.4.0a2'|
