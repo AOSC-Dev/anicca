@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1731971455?label=Updated)
+![Relative date](https://img.shields.io/date/1731976993?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -499,6 +499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fmt|10.2.1|11.0.2|runtime-common|Compliance mode enabled, was '11.0.2'|
 |fnm|1.37.2|1.38.1|lang-js|Compliance mode enabled, was '1.38.1'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
+|font-awesome|6.6.0|6.7.0|desktop-fonts|Compliance mode enabled, was '6.7.0'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |fonttools|4.53.1|4.55.0|desktop-fonts|Compliance mode enabled, was '4.55.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
@@ -2694,6 +2695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.22.0|app-network|Compliance mode enabled, was '5.22.0'|
+|v2ray-rules-dat|202411172211|202411182212|runtime-data|Compliance mode enabled, was '202411182212'<br>Versions not comparable: `202411172211` and `202411182212`|
 |v2raya|2.2.5.8|2.2.6.2|app-network|Compliance mode enabled, was '2.2.6.2'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2714,7 +2716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.1|desktop-wm|Compliance mode enabled, was '2.7.1'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0794|9.1.0870|app-editors|Compliance mode enabled, was '9.1.0870'|
+|vim|9.1.0794|9.1.0873|app-editors|Compliance mode enabled, was '9.1.0873'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualenv|20.25.0|20.27.1|lang-python|Compliance mode enabled, was '20.27.1'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
