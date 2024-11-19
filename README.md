@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732025543?label=Updated)
+![Relative date](https://img.shields.io/date/1732029074?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -857,6 +857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbookmarks|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kbookreader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbounce|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|kbreakout|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kbruch|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kcachegrind|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kcalc|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1668,7 +1669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nghttp3|1.3.0|1.6.0|runtime-web|Compliance mode enabled, was '1.6.0'|
 |nginx|1.27.1|1.27.2|app-web|Compliance mode enabled, was '1.27.2'|
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
-|ngtcp2|1.5.0|1.8.1|runtime-web|Compliance mode enabled, was '1.8.1'|
+|ngtcp2|1.5.0|1.9.0|runtime-web|Compliance mode enabled, was '1.9.0'|
 |nlopt|2.7.1|2.9.0|runtime-scientific|Compliance mode enabled, was '2.9.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
@@ -2572,6 +2573,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telly-skout|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |template-glib|3.28.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
+|termcolor|1.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tesseract|5.4.1|5.5.0|app-utils|Compliance mode enabled, was '5.5.0'|
