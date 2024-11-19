@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732029074?label=Updated)
+![Relative date](https://img.shields.io/date/1732032779?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1194,7 +1194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
 |libchewing|0.5.1|0.9.1|runtime-i18n|Compliance mode enabled, was '0.9.1'|
-|libclc|18.1.8|19.1.3|runtime-devices|Compliance mode enabled, was '19.1.3'|
+|libclc|18.1.8|19.1.4|runtime-devices|Compliance mode enabled, was '19.1.4'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
@@ -1253,7 +1253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.4|desktop-gnome|Compliance mode enabled, was '4.4.4'|
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
-|libheif|1.17.6|1.19.3|runtime-imaging|Compliance mode enabled, was '1.19.3'|
+|libheif|1.17.6|1.19.4|runtime-imaging|Compliance mode enabled, was '1.19.4'|
 |libid3tag|0.15.1b|0.16.3|runtime-multimedia|Compliance mode enabled, was '0.16.3'|
 |libid3tag+32|0.15.1b|0.16.3|runtime-optenv32|Compliance mode enabled, was '0.16.3'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
@@ -1486,9 +1486,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm|18.1.8|19.1.3|app-devel|Compliance mode enabled, was '19.1.3'|
-|llvm+32|14.0.6|19.1.3|runtime-optenv32|Compliance mode enabled, was '19.1.3'|
-|llvm-runtime+wasi|18.1.8|19.1.3|runtime-wasi|Compliance mode enabled, was '19.1.3'|
+|llvm|18.1.8|19.1.4|app-devel|Compliance mode enabled, was '19.1.4'|
+|llvm+32|14.0.6|19.1.4|runtime-optenv32|Compliance mode enabled, was '19.1.4'|
+|llvm-runtime+wasi|18.1.8|19.1.4|runtime-wasi|Compliance mode enabled, was '19.1.4'|
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
@@ -2230,7 +2230,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |r|4.4.0|4.4.2|app-scientific|Compliance mode enabled, was '4.4.2'|
-|radare2|5.9.4|5.9.6|app-devel|Compliance mode enabled, was '5.9.6'|
+|radare2|5.9.4|5.9.8|app-devel|Compliance mode enabled, was '5.9.8'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
 |rapidfuzz|3.2.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'<br>Possible downgrade from the current version (3.2.0 -> 3.1.2)|
@@ -2565,6 +2565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
+|telegram-desktop|5.8.1|5.8.2|app-web|Compliance mode enabled, was '5.8.2'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
