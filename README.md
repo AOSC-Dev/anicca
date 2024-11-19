@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732022569?label=Updated)
+![Relative date](https://img.shields.io/date/1732025543?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -160,7 +160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binwalk|2.3.4|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
-|blender|4.0.2|4.2.4|app-creativity|Compliance mode enabled, was '4.2.4'|
+|blender|4.0.2|4.3.0|app-creativity|Compliance mode enabled, was '4.3.0'|
 |blinken|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |bluedevil|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |blueprint-compiler|0.12.0|0.14.0|app-devel|Compliance mode enabled, was '0.14.0'|
@@ -857,7 +857,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbookmarks|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kbookreader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbounce|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|kbreakout|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kbruch|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kcachegrind|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kcalc|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1628,7 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
-|ncdu|1.16|2.6|app-utils|Compliance mode enabled, was '2.6'|
+|ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20241109|runtime-common|Compliance mode enabled, was '6.5-20241109'|
 |ncurses+32|6.4|6.5+20241109|runtime-optenv32|Compliance mode enabled, was '6.5-20241109'|
@@ -1774,7 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |os-prober|1.81|1.83|app-utils|Compliance mode enabled, was '1.83'|
 |osinfo-db-tools|1.10.0|1.12.0|app-admin|Compliance mode enabled, was '1.12.0'|
 |oslo-config|9.5.0|9.7.0|lang-python|Compliance mode enabled, was '9.7.0'|
-|oslo-i18n|6.3.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
+|oslo-i18n|6.3.0|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
 |oslo-serialization|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |oslo-utils|7.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
@@ -2573,7 +2572,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telly-skout|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |template-glib|3.28.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
-|termcolor|1.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |tesseract|5.4.1|5.5.0|app-utils|Compliance mode enabled, was '5.5.0'|
