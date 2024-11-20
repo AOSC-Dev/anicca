@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732093890?label=Updated)
+![Relative date](https://img.shields.io/date/1732097506?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -273,9 +273,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|328|app-admin|Compliance mode enabled, was '328'|
-|cockpit-machines|284.1|323|app-admin|Compliance mode enabled, was '323'|
-|cockpit-podman|63|98|app-admin|Compliance mode enabled, was '98'|
+|cockpit|286.1|329|app-admin|Compliance mode enabled, was '329'|
+|cockpit-machines|284.1|324|app-admin|Compliance mode enabled, was '324'|
+|cockpit-podman|63|99|app-admin|Compliance mode enabled, was '99'|
 |code-server|4.93.1|4.95.3|app-utils|Compliance mode enabled, was '4.95.3'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
@@ -2866,7 +2866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.160.7|0.161.2|app-editors|Compliance mode enabled, was '0.161.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
 |zeroconf|0.28.6|0.136.0|lang-python|Compliance mode enabled, was '0.136.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
