@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732129609?label=Updated)
+![Relative date](https://img.shields.io/date/1732133599?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -313,7 +313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
 |ctags|20191203|6.1.20241117.0|app-devel|Compliance mode enabled, was '6.1.20241117.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241117.0)|
-|cuda|12.5.0|12.6.2|app-devel||
+|cuda|12.5.0|12.6.3|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.0|app-admin|Compliance mode enabled, was '2.1.0'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -470,6 +470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |feeluown-qqmusic|1.0.2|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-ytmusic|0.3.4|0.4.5|app-multimedia|Compliance mode enabled, was '0.4.5'|
+|feishin|0.12.0|0.12.1|app-multimedia|Compliance mode enabled, was '0.12.1'|
 |fend|1.5.3|1.5.5|app-utils|Compliance mode enabled, was '1.5.5'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg+32|4.2.5|7.1|runtime-optenv32|Compliance mode enabled, was '7.1'|
@@ -501,7 +502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fmt|10.2.1|11.0.2|runtime-common|Compliance mode enabled, was '11.0.2'|
 |fnm|1.37.2|1.38.1|lang-js|Compliance mode enabled, was '1.38.1'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
-|font-awesome|6.6.0|6.7.0|desktop-fonts|Compliance mode enabled, was '6.7.0'|
+|font-awesome|6.6.0|6.7.1|desktop-fonts|Compliance mode enabled, was '6.7.1'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |fonttools|4.53.1|4.55.0|desktop-fonts|Compliance mode enabled, was '4.55.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
@@ -2776,7 +2777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-regdb|2024.07.04|2024.10.07|app-network|Compliance mode enabled, was '2024.10.07'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
-|wireshark|4.4.0|4.4.1|app-network|Compliance mode enabled, was '4.4.1'|
+|wireshark|4.4.0|4.4.2|app-network|Compliance mode enabled, was '4.4.2'|
 |wlroots|0.17.4|0.18.1|runtime-display|Compliance mode enabled, was '0.18.1'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.4-stable|runtime-cryptography|Compliance mode enabled, was '5.7.4-stable'|
