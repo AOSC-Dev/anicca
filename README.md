@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732212841?label=Updated)
+![Relative date](https://img.shields.io/date/1732216070?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -158,6 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
 |binwalk|2.3.4|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
+|bitwarden|2024.11.1|2024.11.2|app-utils|Compliance mode enabled, was '2024.11.2'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.3.0|app-creativity|Compliance mode enabled, was '4.3.0'|
@@ -1564,10 +1565,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.32|app-admin|Compliance mode enabled, was '1.6.32'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |merkuro|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|mesa|24.2.6|24.2.7|runtime-display||
-|mesa+32|22.1.7|24.2.7|runtime-optenv32|Compliance mode enabled, was '24.2.7'|
-|mesa-amber|21.3.9|24.2.7|runtime-display|Compliance mode enabled, was '24.2.7'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.2.7|runtime-display|Compliance mode enabled, was '24.2.7'|
+|mesa|24.2.6|24.3.0|runtime-display||
+|mesa+32|22.1.7|24.3.0|runtime-optenv32|Compliance mode enabled, was '24.3.0'|
+|mesa-amber|21.3.9|24.3.0|runtime-display|Compliance mode enabled, was '24.3.0'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.0|runtime-display|Compliance mode enabled, was '24.3.0'|
 |messagelib|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
