@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732165876?label=Updated)
+![Relative date](https://img.shields.io/date/1732169761?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -339,7 +339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
-|deno|1.44.1|2.0.6|lang-js|Compliance mode enabled, was '2.0.6'|
+|deno|1.44.1|2.1.0|lang-js|Compliance mode enabled, was '2.1.0'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deploykit-backend|0.6.6|0.7.3|app-admin|Compliance mode enabled, was '0.7.3'|
 |deploykit-gui|0.8.3|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
@@ -512,7 +512,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fprintd|1.94.3|1.94.4|app-admin|Compliance mode enabled, was '1.94.4'|
 |fractal|9.0|9|desktop-gnome|Compliance mode enabled, was '9'|
 |frameworkintegration|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
-|freecad|0.21.2|1.0.0|app-creativity|Compliance mode enabled, was '1.0.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeciv|2.6.5|3.1.3|app-games|Compliance mode enabled, was '3.1.3'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
