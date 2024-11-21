@@ -136,7 +136,7 @@
 ["curtsies","0.3.4","0.4.2","lang-python",1600671245,["Compliance mode enabled, was '0.4.2'"]],
 ["urwid","2.1.2","2.6.16","lang-python",1618998184,["Compliance mode enabled, was '2.6.16'"]],
 ["pyqt6","6.7.0","6.7.1","lang-python",1721223235,["Compliance mode enabled, was '6.7.1'"]],
-["keystoneauth1","5.7.0","5.8.0","lang-python",1724639794,["Compliance mode enabled, was '5.8.0'"]],
+["keystoneauth1","5.7.0","5.9.0","lang-python",1724639794,["Compliance mode enabled, was '5.9.0'"]],
 ["python-linux-procfs","0.7.1","0.7.3","lang-python",1678351353,["Compliance mode enabled, was '0.7.3'"]],
 ["cairocffi","1.0.2","1.7.1","lang-python",1551159549,["Compliance mode enabled, was '1.7.1'"]],
 ["python-lz4","2.1.6","4.3.3","lang-python",1549919969,["Compliance mode enabled, was '4.3.3'"]],
