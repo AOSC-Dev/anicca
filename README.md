@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732220028?label=Updated)
+![Relative date](https://img.shields.io/date/1732223544?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -620,7 +620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
-|gnome-settings-daemon|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-shell|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
@@ -1557,7 +1557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbedtls|2.16.7|3.6.2|runtime-cryptography|Compliance mode enabled, was '3.6.2'|
 |mbedtls+32|2.16.7|3.6.2|runtime-optenv32|Compliance mode enabled, was '3.6.2'|
 |mbox-importer|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
 |mdbook|0.4.40|0.4.42|app-doc|Compliance mode enabled, was '0.4.42'|
@@ -1688,8 +1687,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.24|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
-|nss|3.105|3.106|runtime-cryptography|Compliance mode enabled, was '3.106'|
-|nss+32|3.78|3.106|runtime-optenv32|Compliance mode enabled, was '3.106'|
+|nss|3.105|3.107|runtime-cryptography|Compliance mode enabled, was '3.107'|
+|nss+32|3.78|3.107|runtime-optenv32|Compliance mode enabled, was '3.107'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
@@ -2137,7 +2136,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylibacl|0.5.4|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |pylint|2.14.4|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |pymarkups|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
-|pymediainfo|5.0.3|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
 |pynput|1.7.6|1.7.7|lang-python|Compliance mode enabled, was '1.7.7'|
