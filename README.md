@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732187426?label=Updated)
+![Relative date](https://img.shields.io/date/1732191562?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -607,7 +607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-disk-utility|42.0|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-flashback|3.45.1|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-font-viewer|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-initial-setup|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|gnome-initial-setup|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-keyring|40.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |gnome-mahjongg|3.38.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -2765,7 +2765,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.2.2|4.4.3|app-web|Compliance mode enabled, was '4.4.3'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
 |wesnoth|1.16.10|1.19.5|app-games|Compliance mode enabled, was '1.19.5'|
