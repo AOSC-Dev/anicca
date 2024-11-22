@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732281697?label=Updated)
+![Relative date](https://img.shields.io/date/1732284744?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -316,7 +316,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cuda|12.5.0|12.6.3|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.0|app-admin|Compliance mode enabled, was '2.1.0'|
-|cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.8|lang-python|Compliance mode enabled, was '2.0.8'|
@@ -2795,8 +2794,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
 |x264|0<br>+git20241027|3198|runtime-multimedia|Compliance mode enabled, was '3198'|
 |x264+32|20160827.2245|3198|runtime-optenv32|Compliance mode enabled, was '3198'<br>Possible downgrade from the current version (20160827.2245 -> 3198)|
-|x265|3.6|4.0|runtime-multimedia|Compliance mode enabled, was '4.0'|
-|x265+32|2.2|4.0|runtime-optenv32|Compliance mode enabled, was '4.0'|
+|x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
+|x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
 |xapian-core|1.4.18|1.4.26|runtime-common|Compliance mode enabled, was '1.4.26'|
 |xapps|2.8.2|2.8.5|runtime-desktop|Compliance mode enabled, was '2.8.5'|
