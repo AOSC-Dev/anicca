@@ -312,6 +312,7 @@
 ["pymarkups","3.0.0","4.0.0","lang-python",1530553511,["Compliance mode enabled, was '4.0.0'"]],
 ["schema","0.7.5","0.7.7","lang-python",1663210209,["Compliance mode enabled, was '0.7.7'"]],
 ["setuptools-scm","7.1.0","8.1.0","lang-python",1695691631,["Compliance mode enabled, was '8.1.0'"]],
+["tornado","6.4.1","6.4.2","lang-python",1718881443,["Compliance mode enabled, was '6.4.2'"]],
 ["marshmallow","3.20.2","3.23.1","lang-python",1708762785,["Compliance mode enabled, was '3.23.1'"]],
 ["stevedore","5.2.0","5.4.0","lang-python",1724639794,["Compliance mode enabled, was '5.4.0'"]],
 ["tqdm","4.62.3","4.67.0","lang-python",1577362345,["Compliance mode enabled, was '4.67.0'"]],
