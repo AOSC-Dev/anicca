@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732288342?label=Updated)
+![Relative date](https://img.shields.io/date/1732292035?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -953,7 +953,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kholidays|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |khotkeys|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |khtml|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
-|ki18n|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kiconthemes|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2283,7 +2282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-llvm|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocm-smi-lib|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocminfo|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
-|rocr-runtime|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rocr-runtime|6.0.2|6.3.0|runtime-rocm|Compliance mode enabled, was '6.3.0'|
 |rocs|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
