@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732256102?label=Updated)
+![Relative date](https://img.shields.io/date/1732259561?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -295,7 +295,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containerd|1.7.21|2.0.0|app-containers|Compliance mode enabled, was '2.0.0'|
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
-|corefreq|20170301|1.98.6|app-utils|Compliance mode enabled, was '1.98.6'<br>Possible downgrade from the current version (20170301 -> 1.98.6)|
+|corefreq|20170301|1.98.7|app-utils|Compliance mode enabled, was '1.98.7'<br>Possible downgrade from the current version (20170301 -> 1.98.7)|
 |cpp-utilities|5.20.0|5.26.1|runtime-common|Compliance mode enabled, was '5.26.1'|
 |cppcheck|2.8|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
@@ -2703,7 +2703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.22.0|app-network|Compliance mode enabled, was '5.22.0'|
-|v2ray-rules-dat|202411202212|202411212212|runtime-data|Compliance mode enabled, was '202411212212'<br>Versions not comparable: `202411202212` and `202411212212`|
 |v2raya|2.2.5.8|2.2.6.2|app-network|Compliance mode enabled, was '2.2.6.2'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2785,7 +2784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wolfssl|5.7.0|5.7.4-stable|runtime-cryptography|Compliance mode enabled, was '5.7.4-stable'|
 |wpebackend-fdo|1.12.1|1.14.3|runtime-web|Compliance mode enabled, was '1.14.3'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
-|wrapt|1.11.2|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
+|wrapt|1.11.2|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
 |wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |wtforms|2.2.1|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
