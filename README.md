@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732338634?label=Updated)
+![Relative date](https://img.shields.io/date/1732342484?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -259,7 +259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-settings-daemon|5.8.1|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
 |cinnamon-translations|5.8.1|6.2.2|desktop-cinnamon|Compliance mode enabled, was '6.2.2'|
 |cjs|5.8.0|6.2.0|desktop-cinnamon|Compliance mode enabled, was '6.2.0'|
-|clash-verge-rev|1.7.2|1.7.7|app-network|Compliance mode enabled, was '1.7.7'|
+|clash-verge-rev|1.7.2|2.0.0|app-network|Compliance mode enabled, was '2.0.0'|
 |clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|

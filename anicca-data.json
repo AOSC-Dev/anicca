@@ -432,7 +432,7 @@
 ["shadowsocks-rust","1.20.1","1.21.2","app-network",1719916385,["Compliance mode enabled, was '1.21.2'"]],
 ["imapsync","1.977","2.229","app-network",1591076944,["Compliance mode enabled, was '2.229'"]],
 ["vsftpd","3.0.3","3.0.5","app-network",1696572712,["Compliance mode enabled, was '3.0.5'"]],
-["clash-verge-rev","1.7.2","1.7.7","app-network",1720099396,["Compliance mode enabled, was '1.7.7'"]],
+["clash-verge-rev","1.7.2","2.0.0","app-network",1720099396,["Compliance mode enabled, was '2.0.0'"]],
 ["v2ray","5.21.0","5.22.0","app-network",1730292388,["Compliance mode enabled, was '5.22.0'"]],
 ["networkmanager","1.40.6","1.50.0","app-network",1673935875,["Compliance mode enabled, was '1.50.0'"]],
 ["nbd","3.24","3.26.1","app-network",1650007554,["Compliance mode enabled, was '3.26.1'"]],
