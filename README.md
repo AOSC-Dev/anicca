@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732381616?label=Updated)
+![Relative date](https://img.shields.io/date/1732385567?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1620,7 +1620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutter|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
 |mycli|1.23.2|1.28.0|app-database|Compliance mode enabled, was '1.28.0'|
-|mygpoclient|1.8|1.9|lang-python|Compliance mode enabled, was '1.9'|
+|mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
@@ -2476,7 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.12|app-devel|Compliance mode enabled, was '6.12'|
-|strawberry|1.0.23|1.2.1|app-multimedia|Compliance mode enabled, was '1.2.1'|
+|strawberry|1.0.23|1.2.2|app-multimedia|Compliance mode enabled, was '1.2.2'|
 |streamlink|6.7.4|7.0.0|app-multimedia|Compliance mode enabled, was '7.0.0'|
 |strongswan|5.9.4|5.9.14|app-network|Compliance mode enabled, was '5.9.14'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
