@@ -1023,6 +1023,7 @@
 ["openssl-1.1+32","1.1.1q","3.4.0","runtime-optenv32",1698249840,["Compliance mode enabled, was '3.4.0'"]],
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
 ["a52dec+32","0.7.4","0.8.0","runtime-optenv32",1461511523,["Compliance mode enabled, was '0.8.0'"]],
+["vim","9.1.0880","9.1.0882","app-editors",1732245024,["Compliance mode enabled, was '9.1.0882'"]],
 ["zed","0.161.2","0.162.5","app-editors",1732096779,["Compliance mode enabled, was '0.162.5'"]],
 ["vscodium","1.94.2.24286","1.95.3.24321","app-editors",1729171573,["Compliance mode enabled, was '1.95.3.24321'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
@@ -2887,6 +2888,6 @@
 ["sozu","0.15.2","1.0.5","app-web",1696572712,["Compliance mode enabled, was '1.0.5'"]],
 ["nginx","1.27.1","1.27.2","app-web",1727187268,["Compliance mode enabled, was '1.27.2'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
-["hugo","0.134.1","0.139.0","app-web",1727015619,["Compliance mode enabled, was '0.139.0'"]],
+["hugo","0.134.1","0.139.2","app-web",1727015619,["Compliance mode enabled, was '0.139.2'"]],
 ["forgejo","9.0.0","9.0.2","app-web",1729576926,["Compliance mode enabled, was '9.0.2'"]]
 ]
