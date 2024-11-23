@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732353015?label=Updated)
+![Relative date](https://img.shields.io/date/1732356688?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -80,6 +80,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |argyllcms|3.1.0|3.3.0|app-imaging|Compliance mode enabled, was '3.3.0'|
 |arianna|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |ark|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|arpack-ng|3.8.0|3.9.1|app-scientific|Compliance mode enabled, was '3.9.1'|
 |arpwatch|3.6|3.7|app-network|Compliance mode enabled, was '3.7'|
 |arrow|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |artikulate|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|

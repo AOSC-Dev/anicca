@@ -1365,6 +1365,7 @@
 ["qtermwidget","0.16.1","2.1.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.1.0'"]],
 ["lxqt-build-tools","0.8.0","2.1.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.1.0'"]],
 ["abyss","2.1.5","2.3.10","app-scientific",1550979960,["Compliance mode enabled, was '2.3.10'"]],
+["arpack-ng","3.8.0","3.9.1","app-scientific",1616217700,["Compliance mode enabled, was '3.9.1'"]],
 ["giac","1.9.0+93","1.9.0","app-scientific",1711266244,["Compliance mode enabled, was '1.9.0'","Possible downgrade from the current version (1.9.0+93 -> 1.9.0)"]],
 ["maxima","5.46.0","5.47.0","app-scientific",1660378282,["Compliance mode enabled, was '5.47.0'"]],
 ["fribidi","1.0.14","1.0.16","app-scientific",1716443455,["Compliance mode enabled, was '1.0.16'"]],
