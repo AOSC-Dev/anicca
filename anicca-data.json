@@ -1056,6 +1056,7 @@
 ["fcitx5-pinyin-zhwiki","0.2.3","0.2.5","app-i18n",1633153817,[]],
 ["ibus-table","1.14.1","1.17.8","app-i18n",1633153814,["Compliance mode enabled, was '1.17.8'"]],
 ["link-grammar","5.10.1","5.99.42","app-i18n",1633153817,["Compliance mode enabled, was '5.99.42'"]],
+["translate-shell","0.9.7","0.9.7.1","app-i18n",1678601017,["Compliance mode enabled, was '0.9.7.1'"]],
 ["ibus-sunpinyin","3.0.0~rc1","2.0.3-rel-1","app-i18n",1622782977,["Compliance mode enabled, was '2.0.3-rel-1'","Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)"]],
 ["rime-emoji","13.0+git20230826","15.0","app-i18n",1701762496,["Compliance mode enabled, was '15.0'"]],
 ["uim","1.8.8","1.8.9","app-i18n",1530303859,["Compliance mode enabled, was '1.8.9'"]],
