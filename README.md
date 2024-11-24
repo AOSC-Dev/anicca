@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732472025?label=Updated)
+![Relative date](https://img.shields.io/date/1732475118?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1027,6 +1027,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knewstuff|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |knights|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |knights-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|knmap-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knotes|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |knotifications|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |knotifyconfig|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -2336,7 +2337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
 |scons|4.4.0|4.8.1|app-devel|Compliance mode enabled, was '4.8.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
-|scrcpy|2.6.1|2.7|app-devices|Compliance mode enabled, was '2.7'|
+|scrcpy|2.6.1|3.0|app-devices|Compliance mode enabled, was '3.0'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
 |sdcc|4.3.6|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
