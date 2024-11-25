@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732561659?label=Updated)
+![Relative date](https://img.shields.io/date/1732565589?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -684,6 +684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer|1.24.7|1.24.9|runtime-multimedia|Compliance mode enabled, was '1.24.9'|
 |gstreamer-1-0+32|1.16.2|1.24.9|runtime-optenv32|Compliance mode enabled, was '1.24.9'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
+|gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
 |gtk-4|4.16.5|4.16.7|desktop-gnome|Compliance mode enabled, was '4.16.7'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.9.0|runtime-desktop|Compliance mode enabled, was '0.9.0'|
@@ -1674,7 +1675,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nginx|1.27.1|1.27.2|app-web|Compliance mode enabled, was '1.27.2'|
 |ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
 |ngtcp2|1.5.0|1.9.1|runtime-web|Compliance mode enabled, was '1.9.1'|
-|nlopt|2.7.1|2.9.0|runtime-scientific|Compliance mode enabled, was '2.9.0'|
+|nlopt|2.7.1|2.9.1|runtime-scientific|Compliance mode enabled, was '2.9.1'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
