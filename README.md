@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732495376?label=Updated)
+![Relative date](https://img.shields.io/date/1732501388?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -947,7 +947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgoldrunner|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kgpg|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kgtk-qt3-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kguiaddons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |khangman|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |khealthcertificate|22.11|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |khelpcenter|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2703,7 +2702,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.22.0|app-network|Compliance mode enabled, was '5.22.0'|
-|v2ray-rules-dat|202411232211|202411242211|runtime-data|Compliance mode enabled, was '202411242211'<br>Versions not comparable: `202411232211` and `202411242211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2842,7 +2840,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.4|runtime-productivity|Compliance mode enabled, was '1.2.4'|
 |xpra|6.1.2|6.2.1|app-network|Compliance mode enabled, was '6.2.1'|
 |xrdp|0.10.0|0.10.1|app-network|Compliance mode enabled, was '0.10.1'|
-|xreader|3.8.5|4.2.2|app-doc|Compliance mode enabled, was '4.2.2'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'<br>Possible downgrade from the current version (4.1.0~alpha11 -> 4.0.0)|
 |xsimd|10.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
