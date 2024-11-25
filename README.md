@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732558530?label=Updated)
+![Relative date](https://img.shields.io/date/1732561659?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -69,7 +69,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|0.16.0|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
-|apsw|3.30.1|3.47.0.0|lang-python|Compliance mode enabled, was '3.47.0.0'|
+|apsw|3.30.1|3.47.1.0|lang-python|Compliance mode enabled, was '3.47.1.0'|
 |apt|2.6.1|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |aqbanking|6.2.2|6.5.4|runtime-productivity|Compliance mode enabled, was '6.5.4'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
@@ -621,9 +621,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
-|gnome-shell|42.4|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|gnome-shell|42.4|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
-|gnome-shell-extensions|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|gnome-shell-extensions|42.3|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-software|42.4|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -691,7 +691,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk3-tqt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
-|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
@@ -1560,7 +1559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |mcomix|1.2.1|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
-|mdbook|0.4.40|0.4.42|app-doc|Compliance mode enabled, was '0.4.42'|
+|mdbook|0.4.40|0.4.43|app-doc|Compliance mode enabled, was '0.4.43'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |memcached|1.6.29|1.6.32|app-admin|Compliance mode enabled, was '1.6.32'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
@@ -1574,6 +1573,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.4.3|app-web|Compliance mode enabled, was '11.4.3'|
 |mihomo-party|1.5.11|1.5.12|app-network|Compliance mode enabled, was '1.5.12'|
+|milkytracker|1.04.00|1.05.00|app-multimedia|Compliance mode enabled, was '1.05.00'|
 |milou|5.27.11|6.2.3|desktop-kde|Compliance mode enabled, was '6.2.3'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.10.0|app-games||
@@ -2238,7 +2238,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |radare2|5.9.4|5.9.8|app-devel|Compliance mode enabled, was '5.9.8'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
-|rapidfuzz|3.2.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'<br>Possible downgrade from the current version (3.2.0 -> 3.1.2)|
 |rapidfuzz-cpp|2.0.0|3.1.1|runtime-common|Compliance mode enabled, was '3.1.1'|
 |rarian|0.8.1|0.8.6|app-doc|Compliance mode enabled, was '0.8.6'|
 |razergenie|0.9.0|1.2.0|app-devices|Compliance mode enabled, was '1.2.0'|
@@ -2724,7 +2723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vicious|2.3.3|2.7.1|desktop-wm|Compliance mode enabled, was '2.7.1'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0880|9.1.0887|app-editors|Compliance mode enabled, was '9.1.0887'|
+|vim|9.1.0880|9.1.0888|app-editors|Compliance mode enabled, was '9.1.0888'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virtualenv|20.25.0|20.27.1|lang-python|Compliance mode enabled, was '20.27.1'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
@@ -2754,7 +2753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.6|desktop-cinnamon|Compliance mode enabled, was '1.8.6'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|4.9.0|2024.11.18.00|app-utils|Compliance mode enabled, was '2024.11.18.00'|
+|watchman|4.9.0|2024.11.25.00|app-utils|Compliance mode enabled, was '2024.11.25.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
