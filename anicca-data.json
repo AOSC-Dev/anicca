@@ -755,7 +755,7 @@
 ["libdeflate","1.19","1.22","runtime-common",1704452201,["Compliance mode enabled, was '1.22'"]],
 ["msgpack-c++","6.1.0","7.0.0","runtime-common",1708762981,["Compliance mode enabled, was '7.0.0'"]],
 ["xmlrpc-c","1.54.06","1.59.03","runtime-common",1678522481,["Compliance mode enabled, was '1.59.03'"]],
-["re2c","3.1","4.0","runtime-common",1724637326,["Compliance mode enabled, was '4.0'"]],
+["re2c","3.1","4.0.1","runtime-common",1724637326,["Compliance mode enabled, was '4.0.1'"]],
 ["editline","1.16.1","1.17.1","runtime-common",1568432964,["Compliance mode enabled, was '1.17.1'"]],
 ["libbytesize","2.1","2.11","runtime-common",1569907996,["Compliance mode enabled, was '2.11'"]],
 ["opencl-clang","18.1.0","19.1.0","runtime-common",1721226526,["Compliance mode enabled, was '19.1.0'"]],
