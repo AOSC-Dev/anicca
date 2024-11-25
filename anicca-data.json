@@ -2611,6 +2611,7 @@
 ["mercurial","6.8.1","6.9","app-vcs",1728998119,["Compliance mode enabled, was '6.9'"]],
 ["git-cliff","2.4.0","2.7.0","app-vcs",1721525702,["Compliance mode enabled, was '2.7.0'"]],
 ["gitoxide","0.38.0","0.39.0","app-vcs",1729684021,["Compliance mode enabled, was '0.39.0'"]],
+["git","2.47.0","2.47.1","app-vcs",1728352380,["Compliance mode enabled, was '2.47.1'"]],
 ["linux+kernel+rc","5.8.0","5.19.17","runtime-kernel",1678950872,["Compliance mode enabled, was '5.19.17'"]],
 ["linux-kernel-lts","6.6.61","5.19.17","runtime-kernel",1731759402,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.6.61 -> 5.19.17)"]],
 ["m1n1","1.4.14","1.4.17","runtime-kernel",1723484293,[]],
