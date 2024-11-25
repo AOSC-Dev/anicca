@@ -923,6 +923,7 @@
 ["acl+32","2.2.52","2.3.2","runtime-optenv32",1678950872,["Compliance mode enabled, was '2.3.2'"]],
 ["libcap+32","2.31","2.71","runtime-optenv32",1581009557,["Compliance mode enabled, was '2.71'"]],
 ["fribidi+32","1.0.10","1.0.16","runtime-optenv32",1600624175,["Compliance mode enabled, was '1.0.16'"]],
+["gtk-2+32","2.24.32","2.24.33","runtime-optenv32",1535726433,["Compliance mode enabled, was '2.24.33'"]],
 ["pango+32","1.44.7","1.54.0","runtime-optenv32",1461463260,["Compliance mode enabled, was '1.54.0'"]],
 ["gnutls+32","3.6.15","3.8.8","runtime-optenv32",1600624175,["Compliance mode enabled, was '3.8.8'"]],
 ["libogg+32","1.3.4","1.3.5","runtime-optenv32",1582664085,["Compliance mode enabled, was '1.3.5'"]],
