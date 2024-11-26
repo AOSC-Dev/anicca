@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732627478?label=Updated)
+![Relative date](https://img.shields.io/date/1732630374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -685,7 +685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-qt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtk3-tqt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
-|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
@@ -1237,6 +1236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgeotiff|1.5.1|1.7.3|runtime-gis|Compliance mode enabled, was '1.7.3'|
 |libgig|4.4.0|4.4.1|runtime-multimedia|Compliance mode enabled, was '4.4.1'|
 |libgit2|1.7.2|1.8.4|runtime-vcs|Compliance mode enabled, was '1.8.4'|
+|libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'<br>Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
 |libgnome-games-support|1.8.2|2.0.0|desktop-gnome|Compliance mode enabled, was '2.0.0'|
 |libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
