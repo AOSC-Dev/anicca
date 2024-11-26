@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732644893?label=Updated)
+![Relative date](https://img.shields.io/date/1732648023?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -93,7 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.11|lang-dotnet|Compliance mode enabled, was '8.0.11'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.26.1|0.30.0|app-devel|Compliance mode enabled, was '0.30.0'|
+|ast-grep|0.26.1|0.30.1|app-devel|Compliance mode enabled, was '0.30.1'|
 |astroid|2.12.2|3.3.5|lang-python|Compliance mode enabled, was '3.3.5'|
 |astrometry.net|0.94|0.96|app-scientific|Compliance mode enabled, was '0.96'|
 |astyle|3.5.2|3.6.4|app-devel|Compliance mode enabled, was '3.6.4'|
@@ -1550,6 +1550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
 |matplotlib-inline|0.1.7|8.29.0|lang-python|Compliance mode enabled, was '8.29.0'|
+|maturin|1.7.4|1.7.5|lang-python|Compliance mode enabled, was '1.7.5'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.2|runtime-cryptography|Compliance mode enabled, was '3.6.2'|
 |mbedtls+32|2.16.7|3.6.2|runtime-optenv32|Compliance mode enabled, was '3.6.2'|
@@ -2653,7 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
-|typos|1.24.6|1.28.0|app-utils|Compliance mode enabled, was '1.28.0'|
+|typos|1.24.6|1.28.1|app-utils|Compliance mode enabled, was '1.28.1'|
 |tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
 |uboot-asahi|2023.07.02<br>+3|2024.10+1|runtime-kernel|Compliance mode enabled, was '2024.10-1'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
