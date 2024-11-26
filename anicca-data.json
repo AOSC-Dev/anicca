@@ -1969,7 +1969,6 @@
 ["j4-dmenu-desktop","2.17","3.1","app-utils",1551380864,["Compliance mode enabled, was '3.1'"]],
 ["asahi-fwextract","0.7.8","0.7.9","app-utils",1730688650,["Compliance mode enabled, was '0.7.9'"]],
 ["duplicity","3.0.1","3.0.3.2","app-utils",1721146687,["Compliance mode enabled, was '3.0.3.2'"]],
-["fend","1.5.3","1.5.5","app-utils",1728374454,["Compliance mode enabled, was '1.5.5'"]],
 ["pocketsphinx","5~prealpha","0.8","app-utils",1469538814,["Compliance mode enabled, was '0.8'","Possible downgrade from the current version (5~prealpha -> 0.8)"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
 ["agrep","4.17","4.17.orig","app-utils",1511126779,["Compliance mode enabled, was '4.17.orig'","Possible downgrade from the current version (4.17 -> 4.17.orig)"]],
