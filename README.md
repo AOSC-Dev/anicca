@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732616003?label=Updated)
+![Relative date](https://img.shields.io/date/1732619463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -685,7 +685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk3-tqt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
-|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
@@ -1219,7 +1218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts|Compliance mode enabled, was '8.1.2'|
 |libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
-|libetonyek|0.1.9|0.1.11|runtime-productivity|Compliance mode enabled, was '0.1.11'|
+|libetonyek|0.1.9|0.1.12|runtime-productivity|Compliance mode enabled, was '0.1.12'|
 |libevdev|1.11.0|1.13.3|runtime-devices|Compliance mode enabled, was '1.13.3'|
 |libexif|0.6.22|0.6.24|runtime-imaging|Compliance mode enabled, was '0.6.24'|
 |libexif+32|0.6.22|0.6.24|runtime-optenv32|Compliance mode enabled, was '0.6.24'|
@@ -2000,6 +1999,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
 |pip|22.3.1|24.3.1|lang-python|Compliance mode enabled, was '24.3.1'|
+|pipewire|1.2.6|1.2.7|app-multimedia|Compliance mode enabled, was '1.2.7'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |pixman|0.43.0|0.44.0|runtime-display|Compliance mode enabled, was '0.44.0'|
