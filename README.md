@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732716664?label=Updated)
+![Relative date](https://img.shields.io/date/1732720270?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1637,7 +1637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses|6.4|6.5+20241123|runtime-common|Compliance mode enabled, was '6.5-20241123'|
 |ncurses+32|6.4|6.5+20241123|runtime-optenv32|Compliance mode enabled, was '6.5-20241123'|
 |neatvnc|0.7.1|0.9.1|runtime-network|Compliance mode enabled, was '0.9.1'|
-|nemo|5.8.3|6.2.8|desktop-cinnamon|Compliance mode enabled, was '6.2.8'|
+|nemo|5.8.3|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |neofetch|7.3.11|7.98.0|app-utils|Compliance mode enabled, was '7.98.0'|
@@ -1741,7 +1741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
-|openjdk-8|8u432-ga|8u442-b03|groups||
+|openjdk-8|8u432-ga|8u442-b04|groups||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
 |openjfx-21|21.0.5<br>+0|21.0.6+0|lang-java|Compliance mode enabled, was '21.0.6+0'|
@@ -2424,6 +2424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spglib|1.16.2|2.5.0|runtime-scientific|Compliance mode enabled, was '2.5.0'|
 |sphinx|7.0.1|8.1.3|app-doc|Compliance mode enabled, was '8.1.3'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
+|sphinx-rtd-theme|1.0.0|3.0.2|app-doc|Compliance mode enabled, was '3.0.2'|
 |sphinx-tabs|3.4.1|3.4.7|app-doc|Compliance mode enabled, was '3.4.7'|
 |sphinxbase|5prealpha|0.8|app-doc|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5prealpha -> 0.8)|
 |sphinxcontrib-applehelp|1.0.2|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
