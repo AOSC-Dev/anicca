@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732691490?label=Updated)
+![Relative date](https://img.shields.io/date/1732695274?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -341,8 +341,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
 |deno|1.44.1|2.1.1|lang-js|Compliance mode enabled, was '2.1.1'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deploykit-backend|0.6.6|0.7.3|app-admin|Compliance mode enabled, was '0.7.3'|
-|deploykit-gui|0.8.3|0.9.3|app-admin|Compliance mode enabled, was '0.9.3'|
+|deploykit-backend|0.6.6|0.7.4|app-admin|Compliance mode enabled, was '0.7.4'|
+|deploykit-gui|0.8.3|0.9.4|app-admin|Compliance mode enabled, was '0.9.4'|
 |deprecated|1.2.14|1.2.15|lang-python|Compliance mode enabled, was '1.2.15'|
 |deskflow|1.17.1|1.17.2|app-utils|Compliance mode enabled, was '1.17.2'|
 |desktop-file-utils|0.27|0.28|app-admin|Compliance mode enabled, was '0.28'|
@@ -1544,6 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdownpart|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |marshmallow|3.20.2|3.23.1|lang-python|Compliance mode enabled, was '3.23.1'|
 |mat2|0.13.0|0.13.4|app-utils|Compliance mode enabled, was '0.13.4'|
+|mate-applets|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-notification-daemon|1.28.1|1.28.3|desktop-mate|Compliance mode enabled, was '1.28.3'|
 |materialx|1.38.8|1.39.1|runtime-creativity|Compliance mode enabled, was '1.39.1'|
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
