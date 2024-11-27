@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732668236?label=Updated)
+![Relative date](https://img.shields.io/date/1732674249?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -563,9 +563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
-|git|2.47.0|2.47.1|app-vcs|Compliance mode enabled, was '2.47.1'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
-|git-cliff|2.4.0|2.7.0|app-vcs|Compliance mode enabled, was '2.7.0'|
 |git-lfs|3.5.1|3.6.0|app-devel|Compliance mode enabled, was '3.6.0'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitoxide|0.38.0|0.39.0|app-vcs|Compliance mode enabled, was '0.39.0'|
@@ -924,7 +922,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdoctools|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kdpkg-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
-|keditbookmarks|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |keep-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kemoticons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kernel-tools|6.11.10|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
@@ -2589,7 +2586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |throttled|0.10.0|0.11|app-utils|Compliance mode enabled, was '0.11'|
 |thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
 |thunar-volman|4.18.0|4.19.0|desktop-xfce|Compliance mode enabled, was '4.19.0'|
-|thunderbird|128.3.0esr|132.0.1|app-web|Compliance mode enabled, was '132.0.1'|
+|thunderbird|128.3.0esr|133.0|app-web|Compliance mode enabled, was '133.0'|
 |tigervnc|1.14.0|1.14.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
@@ -2698,7 +2695,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.22.0|app-network|Compliance mode enabled, was '5.22.0'|
-|v2ray-rules-dat|202411252212|202411262212|runtime-data|Compliance mode enabled, was '202411262212'<br>Versions not comparable: `202411252212` and `202411262212`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
