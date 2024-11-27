@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732734449?label=Updated)
+![Relative date](https://img.shields.io/date/1732738323?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -29,7 +29,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
-|aiohttp|3.7.4.post0|3.11.7|lang-python|Compliance mode enabled, was '3.11.7'|
+|aiohttp|3.7.4.post0|3.11.8|lang-python|Compliance mode enabled, was '3.11.8'|
 |aisleriot|3.22.24|3.22.34|desktop-gnome|Compliance mode enabled, was '3.22.34'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -307,7 +307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.16.1|1.18.2|app-admin|Compliance mode enabled, was '1.18.2'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
-|cryptography|40.0.0|43.0.3|lang-python|Compliance mode enabled, was '43.0.3'|
+|cryptography|40.0.0|44.0.0|lang-python|Compliance mode enabled, was '44.0.0'|
 |cryptsetup|2.7.0|2.7.5|app-admin|Compliance mode enabled, was '2.7.5'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
@@ -2220,7 +2220,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qqc2-desktop-style|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
-|qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.13|5.15.15-lts-lgpl|runtime-desktop||
 |qt-6|6.7.3|6.8.0|runtime-desktop|Compliance mode enabled, was '6.8.0'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
