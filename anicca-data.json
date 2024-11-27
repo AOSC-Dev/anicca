@@ -2033,6 +2033,7 @@
 ["optipng","0.7.7","0.7.8","app-utils",1527956210,["Compliance mode enabled, was '0.7.8'"]],
 ["zoxide","0.9.4","0.9.6","app-utils",1715161802,["Compliance mode enabled, was '0.9.6'"]],
 ["pv","1.6.20","1.9.0","app-utils",1674452224,["Compliance mode enabled, was '1.9.0'"]],
+["file","5.45","5.46","app-utils",1715027422,["Compliance mode enabled, was '5.46'"]],
 ["zutils","1.7","1.13","app-utils",1527856914,["Compliance mode enabled, was '1.13'"]],
 ["code-server","4.93.1","4.95.3","app-utils",1728475400,["Compliance mode enabled, was '4.95.3'"]],
 ["patool","1.12","3.1.0","app-utils",1647493788,["Compliance mode enabled, was '3.1.0'"]],
