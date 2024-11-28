@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732820799?label=Updated)
+![Relative date](https://img.shields.io/date/1732824745?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -214,7 +214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cantor|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
-|cargo-c|0.10.2|0.10.5|lang-rust|Compliance mode enabled, was '0.10.5'|
+|cargo-c|0.10.2|0.10.6+cargo-0.84.0|lang-rust|Compliance mode enabled, was '0.10.6+cargo-0.84.0'|
 |cargo-release|0.25.10|0.25.13|lang-rust|Compliance mode enabled, was '0.25.13'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
@@ -341,7 +341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
-|deno|1.44.1|2.1.1|lang-js|Compliance mode enabled, was '2.1.1'|
+|deno|1.44.1|2.1.2|lang-js|Compliance mode enabled, was '2.1.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deploykit-backend|0.6.6|0.7.4|app-admin|Compliance mode enabled, was '0.7.4'|
 |deploykit-gui|0.8.3|0.9.4|app-admin|Compliance mode enabled, was '0.9.4'|
@@ -891,7 +891,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbusaddons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kdbusnotification-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kddockwidgets|1.3.1|2.1.0|runtime-desktop|Compliance mode enabled, was '2.1.0'|
-|kde-cli-tools|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kde-dev-scripts|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kde-dev-utils|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kde-gtk-config|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
