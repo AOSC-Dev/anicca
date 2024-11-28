@@ -293,7 +293,7 @@
 ["babel","2.9.1","2.16.0","lang-python",1631170545,["Compliance mode enabled, was '2.16.0'"]],
 ["jsonlines","1.2.0","4.0.0","lang-python",1615174551,["Compliance mode enabled, was '4.0.0'"]],
 ["jsonschema","3.2.0","0.0.1","lang-python",1594100501,["Compliance mode enabled, was '0.0.1'","Possible downgrade from the current version (3.2.0 -> 0.0.1)"]],
-["pytools","2019.1","2024.1.16","lang-python",1551200456,["Compliance mode enabled, was '2024.1.16'"]],
+["pytools","2019.1","2024.1.17","lang-python",1551200456,["Compliance mode enabled, was '2024.1.17'"]],
 ["mygpoclient","1.8","1.10","lang-python",1580710078,["Compliance mode enabled, was '1.10'"]],
 ["pydrive2","1.20.0","1.21.1","lang-python",1724639794,["Compliance mode enabled, was '1.21.1'"]],
 ["m2crypto","0.38.0","0.43.0","lang-python",1629690194,["Compliance mode enabled, was '0.43.0'"]],
