@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732806769?label=Updated)
+![Relative date](https://img.shields.io/date/1732810347?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -218,6 +218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-release|0.25.10|0.25.13|lang-rust|Compliance mode enabled, was '0.25.13'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
+|castxml|0.6.8|0.6.10|app-devel|Compliance mode enabled, was '0.6.10'|
 |catch2|2.13.8|3.7.1|runtime-common|Compliance mode enabled, was '3.7.1'|
 |ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
 |ccls|0.20240202|0.20241108|app-devel|Compliance mode enabled, was '0.20241108'|
@@ -348,7 +349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deskflow|1.17.1|1.17.2|app-utils|Compliance mode enabled, was '1.17.2'|
 |desktop-file-utils|0.27|0.28|app-admin|Compliance mode enabled, was '0.28'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.23.7|2.24.4|app-devel|Compliance mode enabled, was '2.24.4'|
+|devscripts|2.23.7|2.24.5|app-devel|Compliance mode enabled, was '2.24.5'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.1.0|app-network|Compliance mode enabled, was '10.1.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -634,7 +635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnote|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnu-efi|3.0.14|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'|
-|gnupg|2.4.6|2.4.7|app-cryptography|Compliance mode enabled, was '2.4.7'|
+|gnupg|2.4.6|2.5.1|app-cryptography|Compliance mode enabled, was '2.5.1'|
 |gnustep-base|1.28.0|1.30.0|runtime-gnustep|Compliance mode enabled, was '1_30_0'|
 |gnustep-make|2.9.0|2.9.2|runtime-gnustep|Compliance mode enabled, was '2_9_2'|
 |gnutls|3.8.7|3.8.8|runtime-cryptography|Compliance mode enabled, was '3.8.8'|
