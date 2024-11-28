@@ -1,5 +1,5 @@
 [
-["sequoia-sq","0.36.0","0.39.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.39.0'"]],
+["sequoia-sq","0.36.0","0.40.0","app-cryptography",1716597888,["Compliance mode enabled, was '0.40.0'"]],
 ["gnupg","2.4.6","2.4.7","app-cryptography",1730541263,["Compliance mode enabled, was '2.4.7'"]],
 ["easy-rsa","3.2.0","3.2.1","app-cryptography",1720958055,["Compliance mode enabled, was '3.2.1'"]],
 ["pkginfo","1.5.0.1","1.11.2","lang-python",1678950872,["Compliance mode enabled, was '1.11.2'"]],
