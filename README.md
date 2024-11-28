@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732774584?label=Updated)
+![Relative date](https://img.shields.io/date/1732777897?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -743,7 +743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.120.0|lang-python|Compliance mode enabled, was '6.120.0'|
+|hypothesis-python|6.97.4|6.121.0|lang-python|Compliance mode enabled, was '6.121.0'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -1721,8 +1721,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.1|app-utils|Compliance mode enabled, was '5.3.1'|
-|openal-soft|1.23.1|1.24.0|runtime-multimedia|Compliance mode enabled, was '1.24.0'|
-|openal-soft+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
+|openal-soft|1.23.1|1.24.1|runtime-multimedia|Compliance mode enabled, was '1.24.1'|
+|openal-soft+32|1.23.1|1.24.1|runtime-optenv32|Compliance mode enabled, was '1.24.1'|
 |opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|18.1.0|19.1.0|runtime-common|Compliance mode enabled, was '19.1.0'|
