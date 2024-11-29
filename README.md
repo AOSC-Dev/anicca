@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732900246?label=Updated)
+![Relative date](https://img.shields.io/date/1732904122?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -782,7 +782,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.5.2|22.5.4|runtime-devices|Compliance mode enabled, was '22.5.4'|
 |intel-graphics-compiler|1.0.17791.9|2.1.12|app-devel|Compliance mode enabled, was '2.1.12'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
-|iosevka-fonts|32.1.0|32.2.0|desktop-fonts|Compliance mode enabled, was '32.2.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -1490,8 +1489,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm|18.1.8|19.1.4|app-devel|Compliance mode enabled, was '19.1.4'|
 |llvm+32|14.0.6|19.1.4|runtime-optenv32|Compliance mode enabled, was '19.1.4'|
+|llvm-18|18.1.8|19.1.4|app-devel|Compliance mode enabled, was '19.1.4'|
+|llvm-19|19.1.2|19.1.4|app-devel|Compliance mode enabled, was '19.1.4'|
 |llvm-runtime+wasi|18.1.8|19.1.4|runtime-wasi|Compliance mode enabled, was '19.1.4'|
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
