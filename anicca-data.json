@@ -459,7 +459,6 @@
 ["networkmanager-l2tp","1.8.6","1.20.16","app-network",1528905474,["Compliance mode enabled, was '1.20.16'"]],
 ["remmina","1.4.35","1.4.36","app-network",1727581856,["Compliance mode enabled, was '1.4.36'"]],
 ["n2n","2.8","3.1.1","app-network",1599374645,["Compliance mode enabled, was '3.1.1'"]],
-["iwd","3.0","3.2","app-network",1729578935,["Compliance mode enabled, was '3.2'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["xrdp","0.10.0","0.10.1","app-network",1715427345,["Compliance mode enabled, was '0.10.1'"]],
 ["openswan","2.6.51.5","3.0.0","app-network",1585799570,["Compliance mode enabled, was '3.0.0'"]],
