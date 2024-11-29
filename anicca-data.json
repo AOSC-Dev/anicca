@@ -1386,7 +1386,7 @@
 ["bcftools","1.20","1.21","app-scientific",1717415676,["Compliance mode enabled, was '1.21'"]],
 ["qhull","7.2.0","8.0.2","app-scientific",1469511087,["Compliance mode enabled, was '8.0.2'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
-["cargo-c","0.10.2","0.10.6+cargo-0.84.0","lang-rust",1720034717,["Compliance mode enabled, was '0.10.6+cargo-0.84.0'"]],
+["cargo-c","0.10.2","0.10.7+cargo-0.84.0","lang-rust",1720034717,["Compliance mode enabled, was '0.10.7+cargo-0.84.0'"]],
 ["cargo-release","0.25.10","0.25.13","lang-rust",1720105719,["Compliance mode enabled, was '0.25.13'"]],
 ["rust-bindgen","0.69.4","0.70.1","lang-rust",1721277711,["Compliance mode enabled, was '0.70.1'"]],
 ["rustc","1.81.0","1.83.0","lang-rust",1725678489,["Compliance mode enabled, was '1.83.0'"]],
@@ -2570,7 +2570,7 @@
 ["ada","2.9.1","2.9.2","runtime-web",1727581856,["Compliance mode enabled, was '2.9.2'"]],
 ["neon","0.33.0","0.34.0","runtime-web",1714042243,["Compliance mode enabled, was '0.34.0'"]],
 ["libcloudproviders","0.3.1","0.3.6","runtime-web",1619939089,["Compliance mode enabled, was '0.3.6'"]],
-["libquotient","0.8.2","0.9.0","runtime-web",1721970279,["Compliance mode enabled, was '0.9.0'"]],
+["libquotient","0.8.2","0.9.1","runtime-web",1721970279,["Compliance mode enabled, was '0.9.1'"]],
 ["sofia-sip","1.12.11","1.13.17","runtime-web",1696572712,["Compliance mode enabled, was '1.13.17'"]],
 ["wpebackend-fdo","1.12.1","1.14.3","runtime-web",1663210210,["Compliance mode enabled, was '1.14.3'"]],
 ["loudmouth","1.5.3","1.5.4","runtime-web",1531681602,["Compliance mode enabled, was '1.5.4'"]],
@@ -2879,6 +2879,6 @@
 ["sozu","0.15.2","1.0.5","app-web",1696572712,["Compliance mode enabled, was '1.0.5'"]],
 ["nginx","1.27.1","1.27.3","app-web",1727187268,["Compliance mode enabled, was '1.27.3'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
-["hugo","0.134.1","0.139.2","app-web",1727015619,["Compliance mode enabled, was '0.139.2'"]],
+["hugo","0.134.1","0.139.3","app-web",1727015619,["Compliance mode enabled, was '0.139.3'"]],
 ["forgejo","9.0.0","9.0.2","app-web",1729576926,["Compliance mode enabled, was '9.0.2'"]]
 ]
