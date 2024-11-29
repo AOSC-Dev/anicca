@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732850962?label=Updated)
+![Relative date](https://img.shields.io/date/1732853670?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -793,6 +793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
 |ipython|8.28.0|8.29.0|lang-python|Compliance mode enabled, was '8.29.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
+|iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
 |ispc|1.25.1|1.25.3|app-devel|Compliance mode enabled, was '1.25.3'|
@@ -968,7 +969,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimageformats|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kimagemapeditor|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kimap|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|kinfocenter|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kinit|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kio|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kio-admin|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
