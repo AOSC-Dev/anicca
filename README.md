@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732889461?label=Updated)
+![Relative date](https://img.shields.io/date/1732893084?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -290,7 +290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
-|conky|1.21.7|1.21.8|app-utils|Compliance mode enabled, was '1.21.8'|
+|conky|1.21.7|1.21.9|app-utils|Compliance mode enabled, was '1.21.9'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |construct|2.9.45|2.10.70|lang-python|Compliance mode enabled, was '2.10.70'|
 |containerd|1.7.21|2.0.0|app-containers|Compliance mode enabled, was '2.0.0'|
@@ -1621,7 +1621,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
-|mupdf|1.24.10|1.25.0|app-doc|Compliance mode enabled, was '1.25.0'|
+|mupdf|1.24.10|1.25.1|app-doc|Compliance mode enabled, was '1.25.1'|
 |musescore|4.3.2|4.4.3|app-creativity|Compliance mode enabled, was '4.4.3'|
 |mutter|42.4|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
