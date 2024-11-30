@@ -1,10 +1,9 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732993612?label=Updated)
+![Relative date](https://img.shields.io/date/1732997552?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
-|7-zip|24.08|24.09|app-utils|Compliance mode enabled, was '24.09'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -723,7 +722,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.14|app-devel|Compliance mode enabled, was '4.14'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hivex|1.3.23|1.3.24|app-admin|Compliance mode enabled, was '1.3.24'|
 |hmcl|3.5.10|3.6.11.264|app-games|Compliance mode enabled, was '3.6.11.264'|
 |hotdoc|0.13.7|0.17.1|app-doc|Compliance mode enabled, was '0.17.1'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
@@ -1301,7 +1299,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |libktorrent|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
-|liblo|0.29|0.32|runtime-multimedia|Compliance mode enabled, was '0.32'|
 |liblouis|3.12.0|3.31.0|runtime-a11y|Compliance mode enabled, was '3.31.0'|
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
 |libluv|1.47.0<br>+0|1.48.0+2|lang-lua|Compliance mode enabled, was '1.48.0-2'|
