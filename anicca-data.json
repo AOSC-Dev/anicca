@@ -1298,6 +1298,7 @@
 ["perl-sys-virt","10.2.0","10.9.0","lang-perl",1717069419,["Compliance mode enabled, was '10.9.0'"]],
 ["perl-anyevent","7.14","7.17","lang-perl",1530196415,["Compliance mode enabled, was '7.17'"]],
 ["perl-timedate","2.30","2.33","lang-perl",1678950872,["Compliance mode enabled, was '2.33'"]],
+["perl-mime-charset","1.012.2","1.013.1","lang-perl",1610774985,["Compliance mode enabled, was '1.013.1'"]],
 ["perl-authen-sasl","2.1401","2.1700","lang-perl",1536763311,["Compliance mode enabled, was '2.1700'"]],
 ["perl-html-tagset","3.20","3.24","lang-perl",1678950872,["Compliance mode enabled, was '3.24'"]],
 ["perl-module-find","0.13","0.16","lang-perl",1488651588,["Compliance mode enabled, was '0.16'"]],
