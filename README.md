@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1732968994?label=Updated)
+![Relative date](https://img.shields.io/date/1732972687?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |7-zip|24.08|24.09|app-utils|Compliance mode enabled, was '24.09'|
@@ -190,7 +190,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |brltty|6.6|6.7|app-a11y|Compliance mode enabled, was '6.7'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
-|btrfs-progs|6.11|6.12|app-admin|Compliance mode enabled, was '6.12'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -980,7 +979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kiosktool-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kipi-plugins|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|kirigami-addons|0.11.0|1.5.0|desktop-kde|Compliance mode enabled, was '1.5.0'|
+|kirigami-addons|0.11.0|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
 |kirigami-gallery|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kirigami2|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kiriki|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1784,6 +1783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
 |oslo-serialization|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |oslo-utils|7.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
+|osu-lazer|2024.1122.0|2024.1130.0|app-games|Compliance mode enabled, was '2024.1130.0'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |oxygen-icons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
