@@ -2688,7 +2688,6 @@
 ["zram-generator","1.1.2","1.2.1","app-admin",1717074201,["Compliance mode enabled, was '1.2.1'"]],
 ["rtslib-fb","2.1.75","2.1.76","app-admin",1614669553,["Compliance mode enabled, was '2.1.76'"]],
 ["mtools","4.0.45","4.0.46","app-admin",1728997573,["Compliance mode enabled, was '4.0.46'"]],
-["pacman","6.0.1","7.0.0","app-admin",1641887332,["Compliance mode enabled, was '7.0.0'"]],
 ["fuse-overlayfs","1.13","1.14","app-admin",1701831525,["Compliance mode enabled, was '1.14'"]],
 ["dkcli","0.4.2","0.4.4","app-admin",1726414666,["Compliance mode enabled, was '0.4.4'"]],
 ["shadow","4.15.1","4.16.0","app-admin",1716563454,["Compliance mode enabled, was '4.16.0'"]],
