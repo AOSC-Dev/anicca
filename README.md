@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733008220?label=Updated)
+![Relative date](https://img.shields.io/date/1733014270?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -297,6 +297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.21|2.0.0|app-containers|Compliance mode enabled, was '2.0.0'|
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |corefreq|20170301|1.98.7|app-utils|Compliance mode enabled, was '1.98.7'<br>Possible downgrade from the current version (20170301 -> 1.98.7)|
+|cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
 |cpp-utilities|5.20.0|5.26.1|runtime-common|Compliance mode enabled, was '5.26.1'|
 |cppcheck|2.8|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
@@ -402,7 +403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
-|dpdk|22.11.1|24.07|runtime-network|Compliance mode enabled, was '24.07'|
+|dpdk|22.11.1|24.11|runtime-network|Compliance mode enabled, was '24.11'|
 |dpkg|1.22.7|1.22.11|app-admin|Compliance mode enabled, was '1.22.11'|
 |dracut-ng|103|105|app-admin|Compliance mode enabled, was '105'|
 |dragon|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2153,7 +2154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypdf2|1.26.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |pyperf|2.5.0|2.8.1|lang-python|Compliance mode enabled, was '2.8.1'|
-|pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |pypsutil|5.8.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pyqt-builder|1.12.1|1.16.4|lang-python|Compliance mode enabled, was '1.16.4'|
