@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733083886?label=Updated)
+![Relative date](https://img.shields.io/date/1733087325?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2129,7 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pylibacl|0.5.4|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|pylint|2.14.4|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
+|pylint|2.14.4|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |pymarkups|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |pymediainfo|5.0.3|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
@@ -2672,6 +2672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unibilium|2.1.1|2.1.2|runtime-common|Compliance mode enabled, was '2.1.2'|
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
 |unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
+|unifont|16.0.01|16.0.02|desktop-fonts|Compliance mode enabled, was '16.0.02'|
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
