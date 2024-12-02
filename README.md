@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733094728?label=Updated)
+![Relative date](https://img.shields.io/date/1733100274?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -29,7 +29,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
-|aiohttp|3.7.4.post0|3.11.8|lang-python|Compliance mode enabled, was '3.11.8'|
+|aiohttp|3.7.4.post0|3.11.9|lang-python|Compliance mode enabled, was '3.11.9'|
 |aisleriot|3.22.24|3.22.34|desktop-gnome|Compliance mode enabled, was '3.22.34'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -703,6 +703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gzdoom|4.12.2|4.13.2|app-games|Compliance mode enabled, was '4.13.2'|
+|handbrake|1.8.2|1.9.0|app-multimedia|Compliance mode enabled, was '1.9.0'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.1.0|runtime-desktop|Compliance mode enabled, was '10.1.0'|
 |harfbuzz+32|2.6.7|10.1.0|runtime-optenv32|Compliance mode enabled, was '10.1.0'|
@@ -1783,6 +1784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packagekit|1.2.8|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
 |packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
 |packaging|23.0|24.2|lang-python|Compliance mode enabled, was '24.2'|
+|pacman|6.0.1|7.0.0|app-admin|Compliance mode enabled, was '7.0.0'|
 |pahole|1.25|1.27|app-utils|Compliance mode enabled, was '1.27'|
 |palapeli|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
