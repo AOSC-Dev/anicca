@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733141926?label=Updated)
+![Relative date](https://img.shields.io/date/1733145818?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -928,6 +928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keep-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kemoticons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kernel-tools|6.11.10|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
+|kexec-tools|2.0.29|2.0.30|app-admin|Compliance mode enabled, was '2.0.30'|
 |keximdb-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |keyring|21.7.0|25.5.0|lang-python|Compliance mode enabled, was '25.5.0'|
 |keysmith|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -1547,7 +1548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.9.3|lang-python|Compliance mode enabled, was '3.9.3'|
 |matplotlib-inline|0.1.7|8.30.0|lang-python|Compliance mode enabled, was '8.30.0'|
-|maturin|1.7.4|1.7.6|lang-python|Compliance mode enabled, was '1.7.6'|
+|maturin|1.7.4|1.7.7|lang-python|Compliance mode enabled, was '1.7.7'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.2|runtime-cryptography|Compliance mode enabled, was '3.6.2'|
 |mbedtls+32|2.16.7|3.6.2|runtime-optenv32|Compliance mode enabled, was '3.6.2'|
@@ -2216,9 +2217,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.13|5.15.15-lts-lgpl|runtime-desktop||
-|qt-6|6.7.3|6.8.0|runtime-desktop|Compliance mode enabled, was '6.8.0'|
+|qt-6|6.7.3|6.8.1|runtime-desktop|Compliance mode enabled, was '6.8.1'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|qtcreator|14.0.1|14.0.2|app-devel|Compliance mode enabled, was '14.0.2'|
+|qtcreator|14.0.1|15.0.0|app-devel|Compliance mode enabled, was '15.0.0'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
 |qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
@@ -2730,7 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vtk|9.3.0|9.4.0|app-scientific|Compliance mode enabled, was '9.4.0'|
 |vulkan-extensionlayer|1.3.283.0|1.3.302|runtime-display|Compliance mode enabled, was '1.3.302'|
 |vulkan-headers|1.3.283.0|1.3.302|runtime-display|Compliance mode enabled, was '1.3.302'|
-|vulkan-headers+32|1.3.283.0|1.3.302|runtime-optenv32|Compliance mode enabled, was '1.3.302'|
+|vulkan-headers+32|1.3.283.0|1.4.303|runtime-optenv32|Compliance mode enabled, was '1.4.303'|
 |vulkan-loader|1.3.283.0|1.3.302|runtime-display|Compliance mode enabled, was '1.3.302'|
 |vulkan-loader+32|1.3.283.0|1.3.302|runtime-optenv32|Compliance mode enabled, was '1.3.302'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
