@@ -432,6 +432,7 @@
 ["v2ray","5.21.0","5.22.0","app-network",1730292388,["Compliance mode enabled, was '5.22.0'"]],
 ["networkmanager","1.40.6","1.50.0","app-network",1673935875,["Compliance mode enabled, was '1.50.0'"]],
 ["nbd","3.24","3.26.1","app-network",1650007554,["Compliance mode enabled, was '3.26.1'"]],
+["nftables","1.0.9","1.1.1","app-network",1600577920,["Compliance mode enabled, was '1.1.1'"]],
 ["unbound","1.19.2","1.22.0","app-network",1709998421,[]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["noip","2.1.9","3.0.0","app-network",1723362514,["Compliance mode enabled, was '3.0.0'"]],
