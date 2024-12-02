@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733106352?label=Updated)
+![Relative date](https://img.shields.io/date/1733110357?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2357,7 +2357,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2023.7|2024.3|app-devel|Compliance mode enabled, was '2024.3'|
 |shadow|4.15.1|4.16.0|app-admin|Compliance mode enabled, was '4.16.0'|
-|shadowsocks-rust|1.20.1|1.21.2|app-network|Compliance mode enabled, was '1.21.2'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|24.11.17|app-creativity|Compliance mode enabled, was '24.11.17'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
@@ -2709,7 +2708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |versioningit|3.0.0|3.1.2|app-devel|Compliance mode enabled, was '3.1.2'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
-|vicious|2.3.3|2.7.1|desktop-wm|Compliance mode enabled, was '2.7.1'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vim|9.1.0880|9.1.0899|app-editors|Compliance mode enabled, was '9.1.0899'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
