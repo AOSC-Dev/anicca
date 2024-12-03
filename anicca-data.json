@@ -298,6 +298,7 @@
 ["mygpoclient","1.8","1.10","lang-python",1580710078,["Compliance mode enabled, was '1.10'"]],
 ["pydrive2","1.20.0","1.21.3","lang-python",1724639794,["Compliance mode enabled, was '1.21.3'"]],
 ["m2crypto","0.38.0","0.43.0","lang-python",1629690194,["Compliance mode enabled, was '0.43.0'"]],
+["coloredlogs","10.0","15.0.1","lang-python",1658966837,["Compliance mode enabled, was '15.0.1'"]],
 ["pyudev","0.24.1","0.24.3","lang-python",1682928862,["Compliance mode enabled, was '0.24.3'"]],
 ["platformdirs","2.5.2","4.3.6","lang-python",1658217673,["Compliance mode enabled, was '4.3.6'"]],
 ["greenlet","1.1.2","3.1.1","lang-python",1637636760,["Compliance mode enabled, was '3.1.1'"]],
