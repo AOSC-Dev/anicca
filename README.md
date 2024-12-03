@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733213703?label=Updated)
+![Relative date](https://img.shields.io/date/1733217161?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -72,6 +72,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |aqbanking|6.2.2|6.5.4|runtime-productivity|Compliance mode enabled, was '6.5.4'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
+|archlinux-keyring|20241015|20241203|app-admin|Compliance mode enabled, was '20241203'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.5.1|lang-python|Compliance mode enabled, was '3.5.1'|
 |argon2|20190702|20171227|runtime-cryptography|Compliance mode enabled, was '20171227'<br>Possible downgrade from the current version (20190702 -> 20171227)|
@@ -1107,6 +1108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquares|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |ksquirrel-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksshaskpass|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
+|kstars|3.7.3|3.7.4|desktop-kde|Compliance mode enabled, was '3.7.4'|
 |kstreamripper-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksudoku|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |ksystemlog|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
@@ -2645,7 +2647,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twin-style-fahrenheit|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twin-style-machbunt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twisted|21.2.0|24.11.0|lang-python|Compliance mode enabled, was '24.11.0'|
-|twm|1.0.11|1.0.12|desktop-wm|Compliance mode enabled, was '1.0.12'|
 |twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
 |txaio|18.8.1|23.1.1|lang-python|Compliance mode enabled, was '23.1.1'|
