@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733202803?label=Updated)
+![Relative date](https://img.shields.io/date/1733206520?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -502,7 +502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |font-awesome|6.6.0|6.7.1|desktop-fonts|Compliance mode enabled, was '6.7.1'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
-|fonttools|4.53.1|4.55.0|desktop-fonts|Compliance mode enabled, was '4.55.0'|
+|fonttools|4.53.1|4.55.1|desktop-fonts|Compliance mode enabled, was '4.55.1'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|9.0.0|9.0.2|app-web|Compliance mode enabled, was '9.0.2'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
@@ -2275,6 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
+|rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
 |rocm-bandwidth-test|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocm-cmake|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rocm-llvm|6.0.2|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
@@ -2712,6 +2713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
+|vim|9.1.0880|9.1.0901|app-editors|Compliance mode enabled, was '9.1.0901'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.28.0|lang-python|Compliance mode enabled, was '20.28.0'|
@@ -2831,7 +2833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
 |xsimd|10.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
-|xterm|390|395|app-utils|Compliance mode enabled, was '395'|
+|xterm|390|396|app-utils|Compliance mode enabled, was '396'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
 |yakuake|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
