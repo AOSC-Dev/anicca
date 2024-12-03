@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733238790?label=Updated)
+![Relative date](https://img.shields.io/date/1733242464?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -795,6 +795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
+|isort|4.3.21|5.13.2|lang-python|Compliance mode enabled, was '5.13.2'|
 |ispc|1.25.1|1.25.3|app-devel|Compliance mode enabled, was '1.25.3'|
 |itinerary|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
@@ -1028,6 +1029,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knetwalk|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |knewstuff|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |knights|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|knights-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knmap-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knotes|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |knotifications|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -1661,7 +1663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
 |networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
 |networkmanager-qt|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
-|networkmanager-strongswan|1.5.2|1.6.0|app-network|Compliance mode enabled, was '1.6.0'|
+|networkmanager-strongswan|1.5.2|1.6.1|app-network|Compliance mode enabled, was '1.6.1'|
 |networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |networkx|2.8.5|3.4.2|lang-python|Compliance mode enabled, was '3.4.2'|
 |newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
@@ -2878,7 +2880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zram-generator|1.1.2|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
-|zvbi|0.2.35|0.2.42|runtime-multimedia|Compliance mode enabled, was '0.2.42'|
+|zvbi|0.2.35|0.2.43|runtime-multimedia|Compliance mode enabled, was '0.2.43'|
 |zvm|0.8.1|6.0.0|lang-ziglang|Compliance mode enabled, was '6.0.0'|
 |zxtune|5053|5075|app-multimedia|Compliance mode enabled, was '5075'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
