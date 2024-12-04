@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733318609?label=Updated)
+![Relative date](https://img.shields.io/date/1733321552?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -275,7 +275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|329.1|app-admin|Compliance mode enabled, was '329.1'|
+|cockpit|286.1|330|app-admin|Compliance mode enabled, was '330'|
 |cockpit-machines|284.1|325|app-admin|Compliance mode enabled, was '325'|
 |cockpit-podman|63|99|app-admin|Compliance mode enabled, was '99'|
 |code-server|4.93.1|4.95.3|app-utils|Compliance mode enabled, was '4.95.3'|
@@ -1213,6 +1213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcpuid|0.5.1|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libcupsfilters|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
+|libdatachannel|0.22.2|0.22.3|runtime-multimedia|Compliance mode enabled, was '0.22.3'|
 |libde265|1.0.8|1.0.15|runtime-multimedia|Compliance mode enabled, was '1.0.15'|
 |libdeflate|1.19|1.22|runtime-common|Compliance mode enabled, was '1.22'|
 |libdiscid|0.6.2|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
