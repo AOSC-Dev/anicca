@@ -360,7 +360,7 @@
 ["pyqt-builder","1.12.1","1.16.4","lang-python",1637636760,["Compliance mode enabled, was '1.16.4'"]],
 ["recommonmark","20180907","0.7.1","lang-python",1538509225,["Compliance mode enabled, was '0.7.1'","Possible downgrade from the current version (20180907 -> 0.7.1)"]],
 ["gmpy2","2.1.5","2.2.1","lang-python",1713946296,["Compliance mode enabled, was '2.2.1'"]],
-["pyglet","1.3.2","2.0.18","lang-python",1530553512,["Compliance mode enabled, was '2.0.18'"]],
+["pyglet","1.3.2","2.0.19","lang-python",1530553512,["Compliance mode enabled, was '2.0.19'"]],
 ["hyper-h2","4.0.0","4.1.0","lang-python",1618998184,["Compliance mode enabled, was '4.1.0'"]],
 ["cssutils","1.0.2","2.11.1","lang-python",1530718720,["Compliance mode enabled, was '2.11.1'"]],
 ["pyicu","2.13.1","2.14","lang-python",1721223235,["Compliance mode enabled, was '2.14'"]],
