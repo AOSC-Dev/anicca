@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733332249?label=Updated)
+![Relative date](https://img.shields.io/date/1733336197?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2384,6 +2384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.8.6|lang-python|Compliance mode enabled, was '6.8.6'|
+|six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.11.90|desktop-kde|Compliance mode enabled, was '24.11.90'|
 |skanpage|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |slick-greeter|2.0.4|2.0.7|desktop-displaymanagers|Compliance mode enabled, was '2.0.7'|
@@ -2727,10 +2728,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vim|9.1.0880|9.1.0902|app-editors|Compliance mode enabled, was '9.1.0902'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
+|virtualenv|20.27.1|20.28.0|lang-python|Compliance mode enabled, was '20.28.0'|
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32|Compliance mode enabled, was '3.1.1'|
 |vkd3d|1.9|1.14|runtime-display|Compliance mode enabled, was '1.14'|
 |vkd3d+32|1.9|1.14|runtime-optenv32|Compliance mode enabled, was '1.14'|
-|vkmark|2017.08<br>+git20230412|2017.08|app-benchmarks|Compliance mode enabled, was '2017.08'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
 |vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
 |volk|2.5.0|3.1.2|runtime-common|Compliance mode enabled, was '3.1.2'|
