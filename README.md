@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733343140?label=Updated)
+![Relative date](https://img.shields.io/date/1733346645?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1178,7 +1178,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
 |libadwaita|1.6.1|1.6.2|desktop-gnome|Compliance mode enabled, was '1.6.2'|
-|libaio+32|0.3.110|0.3.113|runtime-optenv32|Compliance mode enabled, was '0.3.113'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
 |libart-lgpl|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libasr|1.0.4|7.6.0p1|runtime-network|Compliance mode enabled, was '7.6.0p1'|
@@ -1920,7 +1919,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.04|lang-perl|Compliance mode enabled, was '13.04'|
+|perl-image-exiftool|12.50|13.05|lang-perl|Compliance mode enabled, was '13.05'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2203,7 +2202,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2024.1.18|lang-python|Compliance mode enabled, was '2024.1.18'|
+|pytools|2019.1|2024.1.19|lang-python|Compliance mode enabled, was '2024.1.19'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
@@ -2295,6 +2294,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.3.0|runtime-rocm|Compliance mode enabled, was '6.3.0'|
 |rocs|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
+|rosegarden|24.06|24.12|app-creativity|Compliance mode enabled, was '24.12'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
@@ -2873,7 +2873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.163.2|0.163.3|app-editors|Compliance mode enabled, was '0.163.3'|
+|zed|0.163.2|0.164.2|app-editors|Compliance mode enabled, was '0.164.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
 |zeroconf|0.28.6|0.136.2|lang-python|Compliance mode enabled, was '0.136.2'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
