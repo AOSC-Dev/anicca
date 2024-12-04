@@ -1768,7 +1768,7 @@
 ["icu","74.2","76.1","runtime-i18n",1563174820,["Compliance mode enabled, was '76-1'"]],
 ["libpinyin","2.6.0","2.9.92","runtime-i18n",1570596159,["Compliance mode enabled, was '2.9.92'"]],
 ["librime","1.11.2","1.12.0","runtime-i18n",1714867333,["Compliance mode enabled, was '1.12.0'"]],
-["ruby-gettext","3.2.9","3.4.9","lang-ruby",1521950906,["Compliance mode enabled, was '3.4.9'"]],
+["ruby-gettext","3.2.9","3.5.0","lang-ruby",1521950906,["Compliance mode enabled, was '3.5.0'"]],
 ["nokogiri","1.16.7","1.16.8","lang-ruby",1722396452,["Compliance mode enabled, was '1.16.8'"]],
 ["ruby-optimist","3.0.0","3.2.0","lang-ruby",1726840798,["Compliance mode enabled, was '3.2.0'"]],
 ["rdiscount","2.2.0.2","2.2.7.3","lang-ruby",1600671246,["Compliance mode enabled, was '2.2.7.3'"]],
