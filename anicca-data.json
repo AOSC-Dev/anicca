@@ -393,7 +393,7 @@
 ["ccid","1.5.1","1.6.1","runtime-devices",1673935786,["Compliance mode enabled, was '1.6.1'"]],
 ["libusb-compat","0.1.5","0.1.8","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.8'"]],
 ["libfido2","1.13.0","1.15.0","runtime-devices",1696572712,["Compliance mode enabled, was '1.15.0'"]],
-["libwacom","2.4.0","2.13.0","runtime-devices",1663359144,["Compliance mode enabled, was '2.13.0'"]],
+["libwacom","2.4.0","2.14.0","runtime-devices",1663359144,["Compliance mode enabled, was '2.14.0'"]],
 ["tslib","1.21","1.23","runtime-devices",1579636402,["Compliance mode enabled, was '1.23'"]],
 ["libticalcs2","1.1.8","1.1.9","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.9'"]],
 ["libevdev","1.11.0","1.13.3","runtime-devices",1568844267,["Compliance mode enabled, was '1.13.3'"]],

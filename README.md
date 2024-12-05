@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733379312?label=Updated)
+![Relative date](https://img.shields.io/date/1733382723?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1442,7 +1442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvncserver|0.9.13|0.9.14|runtime-network|Compliance mode enabled, was '0.9.14'|
 |libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
 |libvpl|2.13.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
-|libwacom|2.4.0|2.13.0|runtime-devices|Compliance mode enabled, was '2.13.0'|
+|libwacom|2.4.0|2.14.0|runtime-devices|Compliance mode enabled, was '2.14.0'|
 |libwebp|1.3.1|1.4.0|runtime-imaging|Compliance mode enabled, was '1.4.0'|
 |libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
 |libwm|20161006|1.3|runtime-display|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20161006 -> 1.3)|
