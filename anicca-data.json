@@ -1279,6 +1279,7 @@
 ["perl-email-date-format","1.005","1.008","lang-perl",1678950872,["Compliance mode enabled, was '1.008'"]],
 ["perl-class-singleton","1.5","1.6","lang-perl",1596485702,["Compliance mode enabled, was '1.6'"]],
 ["perl-exception-class","1.44","1.45","lang-perl",1596485703,["Compliance mode enabled, was '1.45'"]],
+["perl-image-exiftool","12.50","13.06","lang-perl",1671941047,["Compliance mode enabled, was '13.06'"]],
 ["perl-html-form","6.03","6.12","lang-perl",1486229171,["Compliance mode enabled, was '6.12'"]],
 ["perl-params-validationcompiler","0.30","0.31","lang-perl",1596485704,["Compliance mode enabled, was '0.31'"]],
 ["perl-sub-install","0.928","0.929","lang-perl",1678950872,["Compliance mode enabled, was '0.929'"]],
