@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733436636?label=Updated)
+![Relative date](https://img.shields.io/date/1733440287?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2223,7 +2223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.2|app-multimedia|Compliance mode enabled, was '2.2.2'|
-|qownnotes|22.6.1|24.12.0|app-web|Compliance mode enabled, was '24.12.0'|
+|qownnotes|22.6.1|24.12.1|app-web|Compliance mode enabled, was '24.12.1'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
@@ -2826,6 +2826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfburn|0.7.0|0.7.2|desktop-xfce|Compliance mode enabled, was '0.7.2'|
 |xfce4-notifyd|0.9.4|0.9.6|desktop-xfce|Compliance mode enabled, was '0.9.6'|
+|xfce4-pulseaudio-plugin|0.4.8|0.4.9|desktop-xfce|Compliance mode enabled, was '0.4.9'|
 |xfce4-screenshooter|1.10.6|1.11.1|desktop-xfce|Compliance mode enabled, was '1.11.1'|
 |xfce4-weather-plugin|0.11.2|0.11.3|desktop-xfce|Compliance mode enabled, was '0.11.3'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
