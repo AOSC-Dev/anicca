@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733411596?label=Updated)
+![Relative date](https://img.shields.io/date/1733415179?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -529,7 +529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fzf|0.55.0|0.56.3|app-utils|Compliance mode enabled, was '0.56.3'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
-|gap|4.10.2|4.13.1|app-scientific|Compliance mode enabled, was '4.13.1'|
+|gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc|13.2.0|14.2.0|core-devel|Compliance mode enabled, was '14.2.0'|
@@ -1699,8 +1699,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvchecker|2.15.1|2.16|app-utils|Compliance mode enabled, was '2.16'|
-|nvidia|560.35.03|565.57.01|runtime-display|Compliance mode enabled, was '565.57.01'|
-|nvidia+32|0|565.57.01|runtime-optenv32|Compliance mode enabled, was '565.57.01'|
+|nvidia|560.35.03|565.77|runtime-display|Compliance mode enabled, was '565.77'|
+|nvidia+32|0|565.77|runtime-optenv32|Compliance mode enabled, was '565.77'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
 |ocaml|4.14.2|5.2.1|lang-ocaml|Compliance mode enabled, was '5.2.1'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
