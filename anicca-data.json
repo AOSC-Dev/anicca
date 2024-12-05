@@ -2682,7 +2682,7 @@
 ["thermald","2.5.7","2.5.8","app-admin",1716726890,["Compliance mode enabled, was '2.5.8'"]],
 ["hwloc","2.10.0","2.11.2","app-admin",1716736819,["Compliance mode enabled, was '2.11.2'"]],
 ["tarsnap","1.0.39","1.0.40","app-admin",1528346318,["Compliance mode enabled, was '1.0.40'"]],
-["memcached","1.6.29","1.6.32","app-admin",1722955870,["Compliance mode enabled, was '1.6.32'"]],
+["memcached","1.6.29","1.6.33","app-admin",1722955870,["Compliance mode enabled, was '1.6.33'"]],
 ["open-isns","0.101","0.103","app-admin",1641887332,["Compliance mode enabled, was '0.103'"]],
 ["xfsprogs","6.9.0","6.12.0","app-admin",1722223662,["Compliance mode enabled, was '6.12.0'"]],
 ["tlp","1.6.1","1.7.0","app-admin",1706433317,["Compliance mode enabled, was '1.7.0'"]],
