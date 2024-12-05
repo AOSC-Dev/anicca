@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733415179?label=Updated)
+![Relative date](https://img.shields.io/date/1733418719?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -272,6 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.2|24.4|app-admin|Compliance mode enabled, was '24.4'|
 |clpeak|1.1.2|1.1.3|app-benchmarks|Compliance mode enabled, was '1.1.3'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
+|cmake|3.31.1|3.31.2|app-devel|Compliance mode enabled, was '3.31.2'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -2382,7 +2383,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
-|sip|6.8.3|6.8.6|lang-python|Compliance mode enabled, was '6.8.6'|
+|sip|6.8.3|6.9.0|lang-python|Compliance mode enabled, was '6.9.0'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.11.90|desktop-kde|Compliance mode enabled, was '24.11.90'|
 |skanpage|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
