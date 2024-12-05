@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733425554?label=Updated)
+![Relative date](https://img.shields.io/date/1733429590?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -561,6 +561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gettext|0.22.5|0.23|app-devel|Compliance mode enabled, was '0.23'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|gh|2.63.1|2.63.2|app-devel|Compliance mode enabled, was '2.63.2'|
 |ghc|9.4.8|9.10.1-release|lang-haskell|Compliance mode enabled, was '9.10.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
@@ -885,6 +886,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcontacts|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcoreaddons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcptun|20240906|20241119|app-network|Compliance mode enabled, was '20241119'|
+|kcpuload-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kcrash|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcron|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kdav|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -1917,7 +1919,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.06|lang-perl|Compliance mode enabled, was '13.06'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2158,7 +2159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |pypsutil|5.8.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|pyqt-builder|1.12.1|1.16.4|lang-python|Compliance mode enabled, was '1.16.4'|
+|pyqt-builder|1.12.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
 |pyqt5-sip|12.9.0|12.15.0|lang-python|Compliance mode enabled, was '12.15.0'|
 |pyqt6|6.7.0|6.7.1|lang-python|Compliance mode enabled, was '6.7.1'|
