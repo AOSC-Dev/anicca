@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733483419?label=Updated)
+![Relative date](https://img.shields.io/date/1733487558?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1501,7 +1501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|18.1.8|19.1.5|runtime-wasi|Compliance mode enabled, was '19.1.5'|
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
-|loguru|0.5.3|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
+|loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
 |lowdown|1.1.2|1.3.1|app-doc|Compliance mode enabled, was '1_3_1'|
@@ -2161,9 +2161,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypsutil|5.8.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pyqt-builder|1.12.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
-|pyqt5-sip|12.9.0|12.15.0|lang-python|Compliance mode enabled, was '12.15.0'|
+|pyqt5-sip|12.9.0|12.16.0|lang-python|Compliance mode enabled, was '12.16.0'|
 |pyqt6|6.7.0|6.7.1|lang-python|Compliance mode enabled, was '6.7.1'|
-|pyqt6-sip|13.6.0|13.8.0|lang-python|Compliance mode enabled, was '13.8.0'|
+|pyqt6-sip|13.6.0|13.9.0|lang-python|Compliance mode enabled, was '13.9.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |pyscard|1.9.9|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
@@ -2892,5 +2892,5 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zutils|1.7|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |zvbi|0.2.35|0.2.43|runtime-multimedia|Compliance mode enabled, was '0.2.43'|
 |zvm|0.8.1|6.0.0|lang-ziglang|Compliance mode enabled, was '6.0.0'|
-|zxtune|5053|5075|app-multimedia|Compliance mode enabled, was '5075'|
+|zxtune|5053|5080|app-multimedia|Compliance mode enabled, was '5080'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
