@@ -441,7 +441,7 @@
 ["razor-agents","2.85","2.152","app-network",1678950872,["Compliance mode enabled, was '2.152'"]],
 ["openfortivpn","1.18.0","1.22.1","app-network",1663359140,["Compliance mode enabled, was '1.22.1'"]],
 ["chisel","1.10.0","1.10.1","app-network",1727015619,["Compliance mode enabled, was '1.10.1'"]],
-["tailscale","1.76.6","1.78.0","app-network",1732598208,["Compliance mode enabled, was '1.78.0'"]],
+["tailscale","1.76.6","1.78.1","app-network",1732598208,["Compliance mode enabled, was '1.78.1'"]],
 ["networkmanager-iodine","1.2.0+git20220728","1.2.0","app-network",1663359140,["Compliance mode enabled, was '1.2.0'"]],
 ["syncthing-gtk","0.9.4.4","0.9.4.5","app-network",1568253855,["Compliance mode enabled, was '0.9.4.5'"]],
 ["iw","5.19","6.9","app-network",1674452376,["Compliance mode enabled, was '6.9'"]],
