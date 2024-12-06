@@ -311,7 +311,7 @@
 ["pyatspi","2.38.2","2.46.1","lang-python",1663210241,["Compliance mode enabled, was '2.46.1'"]],
 ["pyotherside","1.5.9","1.6.1","lang-python",1581796622,["Compliance mode enabled, was '1.6.1'"]],
 ["sip","6.8.3","6.9.0","lang-python",1721223235,["Compliance mode enabled, was '6.9.0'"]],
-["aiohttp","3.7.4.post0","3.11.9","lang-python",1623132070,["Compliance mode enabled, was '3.11.9'"]],
+["aiohttp","3.7.4.post0","3.11.10","lang-python",1623132070,["Compliance mode enabled, was '3.11.10'"]],
 ["pymarkups","3.0.0","4.0.0","lang-python",1530553511,["Compliance mode enabled, was '4.0.0'"]],
 ["schema","0.7.5","0.7.7","lang-python",1663210209,["Compliance mode enabled, was '0.7.7'"]],
 ["tornado","6.4.1","6.4.2","lang-python",1718881443,["Compliance mode enabled, was '6.4.2'"]],
