@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733501587?label=Updated)
+![Relative date](https://img.shields.io/date/1733505166?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -98,7 +98,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astroid|2.12.2|3.3.5|lang-python|Compliance mode enabled, was '3.3.5'|
 |astrometry.net|0.94|0.97|app-scientific|Compliance mode enabled, was '0.97'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
-|astyle|3.5.2|3.6.4|app-devel|Compliance mode enabled, was '3.6.4'|
+|astyle|3.5.2|3.6.5|app-devel|Compliance mode enabled, was '3.6.5'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |at-spi2-core|2.52.0|2.54.0|desktop-gnome|Compliance mode enabled, was '2.54.0'|
 |at-spi2-core+32|2.26.3|2.54.0|runtime-optenv32|Compliance mode enabled, was '2.54.0'|
@@ -309,7 +309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
 |criu|3.19|4.0|app-admin|Compliance mode enabled, was '4.0'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
-|crun|1.16.1|1.18.2|app-admin|Compliance mode enabled, was '1.18.2'|
+|crun|1.16.1|1.19|app-admin|Compliance mode enabled, was '1.19'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|44.0.0|lang-python|Compliance mode enabled, was '44.0.0'|
@@ -737,7 +737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpcore|1.0.5|1.0.7|lang-python|Compliance mode enabled, was '1.0.7'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
-|httpx|0.27.0|0.28.0|lang-python|Compliance mode enabled, was '0.28.0'|
+|httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2024.0.1|app-creativity|Compliance mode enabled, was '2024.0.1'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
@@ -2052,7 +2052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
-|poetry|1.8.3|1.8.4|lang-python|Compliance mode enabled, was '1.8.4'|
+|poetry|1.8.3|1.8.5|lang-python|Compliance mode enabled, was '1.8.5'|
 |poetry-core|1.9.0|1.9.1|lang-python|Compliance mode enabled, was '1.9.1'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
