@@ -2770,7 +2770,6 @@
 ["fprintd","1.94.3","1.94.4","app-admin",1722227974,["Compliance mode enabled, was '1.94.4'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["rdma-core","51.0","54.0","app-admin",1716563534,["Compliance mode enabled, was '54.0'"]],
-["lxc","6.0.1","6.0.2","app-admin",1723477262,["Compliance mode enabled, was '6.0.2'"]],
 ["archlinux-keyring","20241015","20241203","app-admin",1729578196,["Compliance mode enabled, was '20241203'"]],
 ["open-iscsi","2.1.9","2.1.10","app-admin",1716443426,["Compliance mode enabled, was '2.1.10'"]],
 ["accountsservice","22.08.8","23.13.9","app-admin",1678601096,["Compliance mode enabled, was '23.13.9'"]],
