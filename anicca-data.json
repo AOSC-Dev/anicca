@@ -1844,7 +1844,7 @@
 ["dotnet-sdk-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["cgns","4.2.0","4.4.0","app-devel",1639826391,["Compliance mode enabled, was '4.4.0'"]],
 ["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
-["ast-grep","0.30.0","0.30.1","app-devel",1732764034,["Compliance mode enabled, was '0.30.1'"]],
+["ast-grep","0.30.0","0.31.0","app-devel",1732764034,["Compliance mode enabled, was '0.31.0'"]],
 ["trivy","0.55.0","0.58.0","app-devel",1727017621,["Compliance mode enabled, was '0.58.0'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
 ["geany","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
