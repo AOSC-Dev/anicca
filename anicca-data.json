@@ -1443,7 +1443,7 @@
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
 ["calibre","7.20.0","7.22.0","app-doc",1729697068,["Compliance mode enabled, was '7.22.0'"]],
 ["txt2tags","3.7","3.9","app-doc",1620461778,["Compliance mode enabled, was '3.9'"]],
-["graphviz","12.0.0","12.2.0","app-doc",1721424551,["Compliance mode enabled, was '12.2.0'"]],
+["graphviz","12.0.0","12.2.1","app-doc",1721424551,["Compliance mode enabled, was '12.2.1'"]],
 ["xalan-c","1.12","1.12.0","app-doc",1721223235,["Compliance mode enabled, was '1.12.0'"]],
 ["ocrad","0.27","0.29","app-doc",1551386161,["Compliance mode enabled, was '0.29'"]],
 ["docbook-xml","0","5.1","app-doc",1678950872,["Compliance mode enabled, was '5.1'"]],
