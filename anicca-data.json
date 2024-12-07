@@ -1086,7 +1086,7 @@
 ["assimp","5.4.0","5.4.3","runtime-multimedia",1715927126,["Compliance mode enabled, was '5.4.3'"]],
 ["dav1d","1.4.3","1.5.0","runtime-multimedia",1720039322,["Compliance mode enabled, was '1.5.0'"]],
 ["sdl-ttf","2.0.11","2.22.0","runtime-multimedia",1700797896,["Compliance mode enabled, was '2.22.0'"]],
-["sdl2","2.30.4","2.30.9","runtime-multimedia",1720061117,["Compliance mode enabled, was '2.30.9'"]],
+["sdl2","2.30.4","2.30.10","runtime-multimedia",1720061117,["Compliance mode enabled, was '2.30.10'"]],
 ["rtmidi","4.0.0","6.0.0","runtime-multimedia",1570477047,["Compliance mode enabled, was '6.0.0'"]],
 ["alsa-ucm-conf","1.2.12","1.2.13","runtime-multimedia",1718504083,["Compliance mode enabled, was '1.2.13'"]],
 ["libudfread","1.1.1","1.1.2","runtime-multimedia",1615854678,["Compliance mode enabled, was '1.1.2'"]],
