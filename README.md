@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733562751?label=Updated)
+![Relative date](https://img.shields.io/date/1733566344?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -272,7 +272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.2|24.4|app-admin|Compliance mode enabled, was '24.4'|
 |clpeak|1.1.2|1.1.3|app-benchmarks|Compliance mode enabled, was '1.1.3'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
-|cmake|3.31.1|3.31.2|app-devel|Compliance mode enabled, was '3.31.2'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -1833,7 +1832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.3.46|app-games|Compliance mode enabled, was '2.3.46'|
+|pcsx2|1.6.0<br>+git20210825|2.3.47|app-games|Compliance mode enabled, was '2.3.47'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
@@ -2039,7 +2038,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-systemmonitor|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |plasma-thunderbolt|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |plasma-vault|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
-|plasma-wayland-protocols|1.10.0|1.14.0|desktop-kde|Compliance mode enabled, was '1.14.0'|
+|plasma-wayland-protocols|1.10.0|1.15.0|desktop-kde|Compliance mode enabled, was '1.15.0'|
 |plasma-welcome|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |plasma-workspace|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |plasma-workspace-wallpapers|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
@@ -2184,6 +2183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-daemonize|2.5.0|3.9.0|lang-python|Compliance mode enabled, was '3.9.0'|
+|python-dbusmock|0.22.0|0.32.2|lang-python|Compliance mode enabled, was '0.32.2'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
 |python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
@@ -2317,7 +2317,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
 |ruby-native-package-installer|1.0.9|1.1.9|lang-ruby|Compliance mode enabled, was '1.1.9'|
 |ruby-optimist|3.0.0|3.2.0|lang-ruby|Compliance mode enabled, was '3.2.0'|
-|ruby-pg|1.1.4|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |ruby-pkg-config|1.4.4|1.5.8|lang-ruby|Compliance mode enabled, was '1.5.8'|
 |runc|1.1.14|1.2.2|app-admin|Compliance mode enabled, was '1.2.2'|
 |rust-bindgen|0.69.4|0.71.0|lang-rust|Compliance mode enabled, was '0.71.0'|
@@ -2759,6 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
 |watchman|4.9.0|2024.12.02.00|app-utils|Compliance mode enabled, was '2024.12.02.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
+|wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |waylyrics|0.3.18|0.3.19|app-multimedia|Compliance mode enabled, was '0.3.19'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
