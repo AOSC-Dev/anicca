@@ -1675,6 +1675,7 @@
 ["carla","2.5.8","2.5.9","app-multimedia",1725420791,["Compliance mode enabled, was '2.5.9'"]],
 ["feeluown-qqmusic","1.0.2","1.0.5","app-multimedia",1710216003,["Compliance mode enabled, was '1.0.5'"]],
 ["qsynth","1.0.1","1.0.2","app-multimedia",1726730103,["Compliance mode enabled, was '1.0.2'"]],
+["obs-studio","30.2.3","31.0.0","app-multimedia",1731468568,["Compliance mode enabled, was '31.0.0'"]],
 ["yt-dlp","2024.12.03","2024.12.06","app-multimedia",1733327706,["Compliance mode enabled, was '2024.12.06'"]],
 ["sof-tools","2.10","2.11.3","app-multimedia",1723628001,["Compliance mode enabled, was '2.11.3'"]],
 ["cdemu-daemon","3.2.4","3.2.7","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.7'"]],
