@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733559220?label=Updated)
+![Relative date](https://img.shields.io/date/1733562751?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1521,6 +1521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |lutris|0.5.11|0.5.18|app-games|Compliance mode enabled, was '0.5.18'|
 |lvm2|2.03.14|2.03.28|app-admin|Compliance mode enabled, was '2.03.28'|
+|lxc|6.0.1|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
 |lxcfs|3.0.3|6.0.2|app-admin|Compliance mode enabled, was '6.0.2'|
 |lxgwcleargothic-font|0.300.4|0.336|desktop-fonts|Compliance mode enabled, was '0.336'|
 |lxgwneoxihei-font|1.200|1.211|desktop-fonts|Compliance mode enabled, was '1.211'|
@@ -2183,7 +2184,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-daemonize|2.5.0|3.9.0|lang-python|Compliance mode enabled, was '3.9.0'|
-|python-dbusmock|0.22.0|0.32.2|lang-python|Compliance mode enabled, was '0.32.2'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
 |python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
@@ -2759,7 +2759,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
 |watchman|4.9.0|2024.12.02.00|app-utils|Compliance mode enabled, was '2024.12.02.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
-|wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |waylyrics|0.3.18|0.3.19|app-multimedia|Compliance mode enabled, was '0.3.19'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
