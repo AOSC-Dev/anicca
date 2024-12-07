@@ -1777,6 +1777,7 @@
 ["mini-portile","2.8.6","2.8.8","lang-ruby",1716731238,["Compliance mode enabled, was '2.8.8'"]],
 ["kramdown","2.4.0","2.5.1","lang-ruby",1716737114,["Compliance mode enabled, was '2.5.1'"]],
 ["ruby-bundler","2.1.4","2.5.23","lang-ruby",1616134410,["Compliance mode enabled, was '2.5.23'"]],
+["ruby-pg","1.1.4","1.5.9","lang-ruby",1551292568,["Compliance mode enabled, was '1.5.9'"]],
 ["ruby-native-package-installer","1.0.9","1.1.9","lang-ruby",1577021892,["Compliance mode enabled, was '1.1.9'"]],
 ["ruby-pkg-config","1.4.4","1.5.8","lang-ruby",1701374600,["Compliance mode enabled, was '1.5.8'"]],
 ["sass-listen","4.0.0","3.9.0","lang-ruby",1531966060,["Compliance mode enabled, was '3.9.0'","Possible downgrade from the current version (4.0.0 -> 3.9.0)"]],
