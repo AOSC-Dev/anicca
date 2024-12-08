@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733692218?label=Updated)
+![Relative date](https://img.shields.io/date/1733695817?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -94,7 +94,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.11|lang-dotnet|Compliance mode enabled, was '8.0.11'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.30.0|0.31.0|app-devel|Compliance mode enabled, was '0.31.0'|
+|ast-grep|0.30.0|0.31.1|app-devel|Compliance mode enabled, was '0.31.1'|
 |astroid|2.12.2|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
 |astrometry.net|0.94|0.97|app-scientific|Compliance mode enabled, was '0.97'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
@@ -2146,7 +2146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pylibacl|0.5.4|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |pylint|2.14.4|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
-|pymarkups|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
+|pymarkups|3.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |pymediainfo|5.0.3|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
@@ -2348,7 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build|0.18.0|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
-|scrcpy|3.0|3.0.2|app-devices|Compliance mode enabled, was '3.0.2'|
+|scrcpy|3.0|3.1|app-devices|Compliance mode enabled, was '3.1'|
 |scribus|1.6.1|1.6.2|app-productivity|Compliance mode enabled, was '1.6.2'|
 |scrot|1.10|1.11.1|app-utils|Compliance mode enabled, was '1.11.1'|
 |scummvm|2.8.1|2.9.0|app-games|Compliance mode enabled, was '2.9.0'|
