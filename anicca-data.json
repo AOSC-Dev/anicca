@@ -1888,7 +1888,6 @@
 ["inih","53","58","app-devel",1620461774,["Compliance mode enabled, was '58'"]],
 ["dbus-glib","0.110","0.112","runtime-admin",1522267404,["Compliance mode enabled, was '0.112'"]],
 ["libstoragemgmt","1.7.3","1.10.1","runtime-admin",1550547634,["Compliance mode enabled, was '1.10.1'"]],
-["snapd-glib","1.65","1.66","runtime-admin",1724293055,["Compliance mode enabled, was '1.66'"]],
 ["librtas","2.0.2","2.0.6","runtime-admin",1530073120,["Compliance mode enabled, was '2.0.6'"]],
 ["gsasl","1.8.1","2.2.1","runtime-admin",1582088953,["Compliance mode enabled, was '2.2.1'"]],
 ["libsysstat","0.4.4","1.1.0","runtime-admin",1610261237,["Compliance mode enabled, was '1.1.0'"]],
