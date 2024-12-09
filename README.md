@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733760886?label=Updated)
+![Relative date](https://img.shields.io/date/1733764345?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -418,7 +418,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dulwich|0.21.6|0.22.6|runtime-vcs|Compliance mode enabled, was '0.22.6'|
 |dune|3.4.1|3.17.0|lang-ocaml|Compliance mode enabled, was '3.17.0'|
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
-|easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
 |easyeffects|7.1.9|7.2.1|app-multimedia|Compliance mode enabled, was '7.2.1'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
@@ -1228,7 +1227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.11.1|runtime-common|Compliance mode enabled, was '0.11.1'<br>Possible downgrade from the current version (20210305 -> 0.11.1)|
-|libeconf|0.5.0|0.7.4|runtime-common|Compliance mode enabled, was '0.7.4'|
+|libeconf|0.5.0|0.7.5|runtime-common|Compliance mode enabled, was '0.7.5'|
 |libedit|20191231<br>+3.1|20240808-3.1|runtime-common|Compliance mode enabled, was '20240808-3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32|Compliance mode enabled, was '1.5.10'|
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
