@@ -2051,6 +2051,7 @@
 ["file","5.45","5.46","app-utils",1715027422,["Compliance mode enabled, was '5.46'"]],
 ["zutils","1.7","1.13","app-utils",1527856914,["Compliance mode enabled, was '1.13'"]],
 ["code-server","4.93.1","4.95.3","app-utils",1728475400,["Compliance mode enabled, was '4.95.3'"]],
+["grub-btrfs","4.13","4.10.2","app-utils",1733725573,["Compliance mode enabled, was '4.10.2'","Possible downgrade from the current version (4.13 -> 4.10.2)"]],
 ["patool","1.12","3.1.0","app-utils",1647493788,["Compliance mode enabled, was '3.1.0'"]],
 ["units","2.23","2.24","app-utils",1711435075,["Compliance mode enabled, was '2.24'"]],
 ["ttyd","1.6.3","1.7.7","app-utils",1537076216,["Compliance mode enabled, was '1.7.7'"]],
