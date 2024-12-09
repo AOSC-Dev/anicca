@@ -2734,7 +2734,7 @@
 ["damo","2.4.7","2.5.8","app-admin",1724095000,["Compliance mode enabled, was '2.5.8'"]],
 ["slirp4netns","1.2.2","1.3.1","app-admin",1701831525,["Compliance mode enabled, was '1.3.1'"]],
 ["packagekit","1.2.8","1.3.0","app-admin",1706859113,["Compliance mode enabled, was '1.3.0'"]],
-["deploykit-gui","0.8.3","0.9.4","app-admin",1726414666,["Compliance mode enabled, was '0.9.4'"]],
+["deploykit-gui","0.8.3","0.9.5","app-admin",1726414666,["Compliance mode enabled, was '0.9.5'"]],
 ["lxcfs","3.0.3","6.0.2","app-admin",1549304004,["Compliance mode enabled, was '6.0.2'"]],
 ["bcache-tools","1.0.8","1.1","app-admin",1641887332,["Compliance mode enabled, was '1.1'"]],
 ["smartmontools","7.3","7.4","app-admin",1673935786,["Compliance mode enabled, was '7.4'"]],
