@@ -843,6 +843,7 @@
 ["soci","4.0.1","4.0.3","runtime-database",1614161811,["Compliance mode enabled, was '4.0.3'"]],
 ["windowmaker","0.95.9+git20220812","0.96.0","desktop-wm",1678604483,["Compliance mode enabled, was '0.96.0'"]],
 ["tint2","16.7","17.0.2","desktop-wm",1569732139,["Compliance mode enabled, was '17.0.2'"]],
+["xcompmgr","1.1.8","1.1.10","desktop-wm",1565983209,["Compliance mode enabled, was '1.1.10'"]],
 ["stalonetray","0.8.4","0.8.5","desktop-wm",1655473809,["Compliance mode enabled, was '0.8.5'"]],
 ["emerald","0.8.12.4","0.8.18","desktop-wm",1457021062,["Compliance mode enabled, was '0.8.18'"]],
 ["herbstluftwm","0.7.2","0.9.5","desktop-wm",1585799570,["Compliance mode enabled, was '0.9.5'"]],
