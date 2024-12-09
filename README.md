@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733750703?label=Updated)
+![Relative date](https://img.shields.io/date/1733753482?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -330,6 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|2.5.8|app-admin|Compliance mode enabled, was '2.5.8'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
+|dar|2.7.15|2.7.16|app-utils|Compliance mode enabled, was '2.7.16'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
@@ -1636,7 +1637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nas|1.9.4|1.9.5|app-multimedia|Compliance mode enabled, was '1.9.5'|
 |nasm+32|2.12.01|2.16.03|runtime-optenv32|Compliance mode enabled, was '2.16.03'|
-|nautilus|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|nautilus|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
