@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733757102?label=Updated)
+![Relative date](https://img.shields.io/date/1733760886?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -581,8 +581,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gjs|1.74.0|1.82.1|desktop-gnome|Compliance mode enabled, was '1.82.1'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.2.1|app-admin|Compliance mode enabled, was '4.2.1'|
-|glib|2.80.0|2.82.2|runtime-common|Compliance mode enabled, was '2.82.2'|
-|glib+32|2.62.6|2.82.2|runtime-optenv32|Compliance mode enabled, was '2.82.2'|
+|glib|2.80.0|2.82.3|runtime-common|Compliance mode enabled, was '2.82.3'|
+|glib+32|2.62.6|2.82.3|runtime-optenv32|Compliance mode enabled, was '2.82.3'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
 |glibc|2.38|2.40|core-libs|Compliance mode enabled, was '2.40'|
 |glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
@@ -2325,7 +2325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pg|1.1.4|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |ruby-pkg-config|1.4.4|1.5.8|lang-ruby|Compliance mode enabled, was '1.5.8'|
 |runc|1.1.14|1.2.2|app-admin|Compliance mode enabled, was '1.2.2'|
-|rust-bindgen|0.69.4|0.71.0|lang-rust|Compliance mode enabled, was '0.71.0'|
+|rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
 |rustc|1.81.0|1.83.0|lang-rust|Compliance mode enabled, was '1.83.0'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
@@ -2375,7 +2375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
 |sfml|2.5.1|2.6.2|runtime-multimedia|Compliance mode enabled, was '2.6.2'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
-|shaderc|2023.7|2024.3|app-devel|Compliance mode enabled, was '2024.3'|
+|shaderc|2023.7|2024.4|app-devel|Compliance mode enabled, was '2024.4'|
 |shadow|4.15.1|4.16.0|app-admin|Compliance mode enabled, was '4.16.0'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|24.11.17|app-creativity|Compliance mode enabled, was '24.11.17'|
