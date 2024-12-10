@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733839922?label=Updated)
+![Relative date](https://img.shields.io/date/1733843512?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bird|2.15.1|2.16|app-network|Compliance mode enabled, was '2.16'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
-|blender|4.0.2|4.3.0|app-creativity|Compliance mode enabled, was '4.3.0'|
+|blender|4.0.2|4.3.1|app-creativity|Compliance mode enabled, was '4.3.1'|
 |blinken|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |bluedevil|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |blueprint-compiler|0.12.0|0.14.0|app-devel|Compliance mode enabled, was '0.14.0'|
@@ -816,7 +816,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |jellyfish|1.1.1|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
-|jenkins|2.468|2.488|app-admin|Compliance mode enabled, was '2.488'|
+|jenkins|2.468|2.489|app-admin|Compliance mode enabled, was '2.489'|
 |jetring|0.29|0.31|app-admin|Compliance mode enabled, was '0.31'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |jmol|14.30.0|16.3.5|app-scientific|Compliance mode enabled, was '16.3.5'|
@@ -1689,7 +1689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
-|nokogiri|1.16.7|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
+|nokogiri|1.16.7|1.17.1|lang-ruby|Compliance mode enabled, was '1.17.1'|
 |nomino|1.3.1|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
