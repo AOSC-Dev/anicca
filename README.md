@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733865061?label=Updated)
+![Relative date](https://img.shields.io/date/1733868680?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -509,7 +509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |font-awesome|6.6.0|6.7.1|desktop-fonts|Compliance mode enabled, was '6.7.1'|
 |fontconfig+32|2.14.0|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
-|fonttools|4.53.1|4.55.2|desktop-fonts|Compliance mode enabled, was '4.55.2'|
+|fonttools|4.53.1|4.55.3|desktop-fonts|Compliance mode enabled, was '4.55.3'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|9.0.0|9.0.2|app-web|Compliance mode enabled, was '9.0.2'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
@@ -1138,7 +1138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |ktuberling|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kturtle|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
-|kubectl|1.31.0|1.31.3|app-containers|Compliance mode enabled, was '1.31.3'|
+|kubectl|1.31.0|1.31.4|app-containers|Compliance mode enabled, was '1.31.4'|
 |kubo|0.29.0|0.32.1|app-network|Compliance mode enabled, was '0.32.1'|
 |kubrick|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |kunitconversion|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -1633,6 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
 |mupdf|1.24.10|1.25.2|app-doc|Compliance mode enabled, was '1.25.2'|
+|musescore|4.3.2|4.4.3|app-creativity|Compliance mode enabled, was '4.4.3'|
 |mutter|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |mxml|3.2|4.0.3|runtime-common|Compliance mode enabled, was '4.0.3'|
 |mycli|1.23.2|1.28.0|app-database|Compliance mode enabled, was '1.28.0'|
