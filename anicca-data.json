@@ -1440,7 +1440,7 @@
 ["mdbook","0.4.40","0.4.43","app-doc",1730689657,["Compliance mode enabled, was '0.4.43'"]],
 ["doxygen","1.11.0","1.12.0","app-doc",1720957491,["Compliance mode enabled, was '1_12_0'"]],
 ["ocrmypdf","16.5.0","16.7.0","app-doc",1729704733,["Compliance mode enabled, was '16.7.0'"]],
-["mupdf","1.24.10","1.25.1","app-doc",1728997610,["Compliance mode enabled, was '1.25.1'"]],
+["mupdf","1.24.10","1.25.2","app-doc",1728997610,["Compliance mode enabled, was '1.25.2'"]],
 ["hotdoc","0.13.7","0.17.1","app-doc",1663210209,["Compliance mode enabled, was '0.17.1'"]],
 ["yard","0.9.26","0.9.37","app-doc",1620461778,["Compliance mode enabled, was '0.9.37'"]],
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
