@@ -2766,6 +2766,7 @@
 ["lact","0.5.6","0.6.0","app-admin",1728352056,["Compliance mode enabled, was '0.6.0'"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Compliance mode enabled, was '6.03'","Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
 ["bpftrace","0.21.1","0.21.2","app-admin",1719361530,["Compliance mode enabled, was '0.21.2'"]],
+["p-vector","0.8.0","0.9.0","app-admin",1729171202,["Compliance mode enabled, was '0.9.0'"]],
 ["seatd","0.8.0","0.9.1","app-admin",1709617339,["Compliance mode enabled, was '0.9.1'"]],
 ["bubblewrap","0.10.0","0.11.0","app-admin",1723734185,["Compliance mode enabled, was '0.11.0'"]],
 ["mstflint","4.29.0-1","4.30.0+1","app-admin",1731561395,["Compliance mode enabled, was '4.30.0-1'"]],
