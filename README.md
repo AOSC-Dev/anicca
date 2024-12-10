@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733833107?label=Updated)
+![Relative date](https://img.shields.io/date/1733837137?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2465,7 +2465,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.8.12|app-penetration|Compliance mode enabled, was '1.8.12'|
-|sqlparse|0.4.1|0.5.2|lang-python|Compliance mode enabled, was '0.5.2'|
+|sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
 |squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
