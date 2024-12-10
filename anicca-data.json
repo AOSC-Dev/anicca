@@ -2806,7 +2806,7 @@
 ["ldb","2.6.1","2.9.1","app-database",1673495966,["Compliance mode enabled, was '2.9.1'"]],
 ["unixodbc","2.3.9","2.3.12","app-database",1600106563,["Compliance mode enabled, was '2.3.12'"]],
 ["sqlite","3.46.1","3.47.2","app-database",1723606981,["Compliance mode enabled, was '3.47.2'"]],
-["sqlite-fdw","2.1.0","2.4.0","app-database",1635182639,["Compliance mode enabled, was '2.4.0'"]],
+["sqlite-fdw","2.1.0","2.5.0","app-database",1635182639,["Compliance mode enabled, was '2.5.0'"]],
 ["redis","7.4.0","8.0m02","app-database",1722327345,["Compliance mode enabled, was '8.0-m02'"]],
 ["pgxnclient","1.3.1","1.3.2","app-database",1620461770,["Compliance mode enabled, was '1.3.2'"]],
 ["goffice","0.10.48","0.10.57","runtime-productivity",1600321916,["Compliance mode enabled, was '0.10.57'"]],
