@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733908350?label=Updated)
+![Relative date](https://img.shields.io/date/1733911969?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2872,10 +2872,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.9.4|1.18.3|lang-python|Compliance mode enabled, was '1.18.3'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |yaz|5.34.0|5.34.2|runtime-web|Compliance mode enabled, was '5.34.2'|
-|yazi|0.4.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.45|0.47|app-electronics|Compliance mode enabled, was '0.47'|
+|yosys|0.45|0.48|app-electronics|Compliance mode enabled, was '0.48'|
 |yq|4.44.5|4.44.6|app-devel|Compliance mode enabled, was '4.44.6'|
 |yt-dlp|2024.12.03|2024.12.06|app-multimedia|Compliance mode enabled, was '2024.12.06'|
 |ytmusicapi|1.7.2|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
