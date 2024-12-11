@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733901115?label=Updated)
+![Relative date](https://img.shields.io/date/1733904876?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2651,7 +2651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
-|tree-sitter|0.24.3|0.24.4|app-devel|Compliance mode enabled, was '0.24.4'|
+|tree-sitter|0.24.3|0.24.5|app-devel|Compliance mode enabled, was '0.24.5'|
 |tree-sitter-c|0.23.1|0.23.2|runtime-editors|Compliance mode enabled, was '0.23.2'|
 |tree-sitter-query|0.4.0|0.1.0|runtime-editors|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.4.0 -> 0.1.0)|
 |tree-sitter-vim|0.4.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.0 -> 0.3.0)|
