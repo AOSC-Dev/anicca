@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733911969?label=Updated)
+![Relative date](https://img.shields.io/date/1733915528?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1250,7 +1250,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfm|1.3.0.2|1.3.2|desktop-lxde|Compliance mode enabled, was '1.3.2'|
 |libfprint|1.94.4|1.94.8|runtime-devices|Compliance mode enabled, was '1.94.8'|
 |libftdi|1.4|1.5|runtime-devices|Compliance mode enabled, was '1.5'|
-|libgbinder|1.1.41|1.1.42|runtime-common|Compliance mode enabled, was '1.1.42'|
 |libgcrypt+32|1.9.1|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libgcrypt-static|1.10.3|1.11.0|runtime-cryptography|Compliance mode enabled, was '1.11.0'|
 |libgeotiff|1.5.1|1.7.3|runtime-gis|Compliance mode enabled, was '1.7.3'|
@@ -2059,7 +2058,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasmatube|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |platformdirs|2.5.2|4.3.6|lang-python|Compliance mode enabled, was '4.3.6'|
 |plocate|1.1.22|1.1.23|app-utils|Compliance mode enabled, was '1.1.23'|
-|plymouth-kcm|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
@@ -2684,6 +2682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.17.0|runtime-scientific|Compliance mode enabled, was '1.17.0'|
+|udiskie|2.5.3|2.5.5|app-utils|Compliance mode enabled, was '2.5.5'|
 |udns|0.5|0.6|app-network|Compliance mode enabled, was '0.6'|
 |ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
 |uget|2.2.3<br>+1|2.2.2|app-web|Compliance mode enabled, was '2.2.2'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
@@ -2725,7 +2724,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
-|valgrind|3.22.0|3.24.0|app-devel|Compliance mode enabled, was '3.24.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
 |variety|0.7.1|0.8.12|app-utils|Compliance mode enabled, was '0.8.12'|
 |varnish|7.5.0|7.6.1|app-network|Compliance mode enabled, was '7.6.1'|
