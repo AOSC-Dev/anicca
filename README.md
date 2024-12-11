@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733877786?label=Updated)
+![Relative date](https://img.shields.io/date/1733883826?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -574,7 +574,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
-|girara|0.4.4|0.4.5|runtime-desktop|Compliance mode enabled, was '0.4.5'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cliff|2.4.0|2.7.0|app-vcs|Compliance mode enabled, was '2.7.0'|
 |git-filter-repo|2.45.0|2.47.0|app-devel|Compliance mode enabled, was '2.47.0'|
@@ -2197,7 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-daemonize|2.5.0|3.9.0|lang-python|Compliance mode enabled, was '3.9.0'|
-|python-dbusmock|0.22.0|0.32.2|lang-python|Compliance mode enabled, was '0.32.2'|
+|python-dbusmock|0.22.0|0.33.0|lang-python|Compliance mode enabled, was '0.33.0'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
 |python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
@@ -2888,7 +2887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |z3|4.13.0|4.13.3|app-devel|Compliance mode enabled, was '4.13.3'|
 |zanshin|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
-|zathura|0.5.8|0.5.10|app-doc|Compliance mode enabled, was '0.5.10'|
+|zathura|0.5.9|0.5.10|app-doc|Compliance mode enabled, was '0.5.10'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.163.2|0.164.2|app-editors|Compliance mode enabled, was '0.164.2'|
