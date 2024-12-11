@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1733915528?label=Updated)
+![Relative date](https://img.shields.io/date/1733919488?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -287,7 +287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
 |colord-kde|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
-|composer|2.7.7|2.8.3|app-devel|Compliance mode enabled, was '2.8.3'|
+|composer|2.7.7|2.8.4|app-devel|Compliance mode enabled, was '2.8.4'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
@@ -732,7 +732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hivex|1.3.23|1.3.24|app-admin|Compliance mode enabled, was '1.3.24'|
 |hmcl|3.6.11|3.6.11.264|app-games|Compliance mode enabled, was '3.6.11.264'|
-|hotdoc|0.13.7|0.17.1|app-doc|Compliance mode enabled, was '0.17.1'|
+|hotdoc|0.13.7|0.17.2|app-doc|Compliance mode enabled, was '0.17.2'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
@@ -1333,8 +1333,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnet|1.1.6|1.3|runtime-network|Compliance mode enabled, was '1.3'|
 |libnfc|1.7.1|1.8.0|runtime-devices|Compliance mode enabled, was '1.8.0'|
 |libnfnetlink|1.0.1|1.0.2|runtime-network|Compliance mode enabled, was '1.0.2'|
-|libnfs|4.0.0|5.0.3|runtime-network|Compliance mode enabled, was '5.0.3'|
-|libnfs-static|4.0.0|5.0.3|runtime-network|Compliance mode enabled, was '5.0.3'|
+|libnfs|4.0.0|6.0.0|runtime-network|Compliance mode enabled, was '6.0.0'|
+|libnfs-static|4.0.0|6.0.0|runtime-network|Compliance mode enabled, was '6.0.0'|
 |libnftnl|1.2.6|1.2.8|runtime-network|Compliance mode enabled, was '1.2.8'|
 |libnice|0.1.17|0.1.22|runtime-network|Compliance mode enabled, was '0.1.22'|
 |libnl|3.9.0|3.11.0|runtime-network|Compliance mode enabled, was '3.11.0'|
@@ -2058,6 +2058,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasmatube|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
 |platformdirs|2.5.2|4.3.6|lang-python|Compliance mode enabled, was '4.3.6'|
 |plocate|1.1.22|1.1.23|app-utils|Compliance mode enabled, was '1.1.23'|
+|plymouth-kcm|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
