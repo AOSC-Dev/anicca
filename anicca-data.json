@@ -2129,7 +2129,7 @@
 ["helm","3.16.1","3.16.3","app-containers",1728901200,["Compliance mode enabled, was '3.16.3'"]],
 ["containerd","1.7.21","2.0.0","app-containers",1724908959,["Compliance mode enabled, was '2.0.0'"]],
 ["docker-compose","2.30.3","2.31.0","app-containers",1732091821,["Compliance mode enabled, was '2.31.0'"]],
-["kubectl","1.31.0","1.31.4","app-containers",1727015619,["Compliance mode enabled, was '1.31.4'"]],
+["kubectl","1.31.0","1.32.0","app-containers",1727015619,["Compliance mode enabled, was '1.32.0'"]],
 ["docker","27.3.1","27.4.0","app-containers",1730884339,[]],
 ["docker-buildx","0.18.0","0.19.2","app-containers",1732119761,["Compliance mode enabled, was '0.19.2'"]],
 ["xcb-proto","1.16.0","1.17.0","runtime-display",1699859032,["Compliance mode enabled, was '1.17.0'"]],
