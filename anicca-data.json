@@ -11,7 +11,7 @@
 ["html5-parser","0.4.9","0.4.12","lang-python",1573877148,["Compliance mode enabled, was '0.4.12'"]],
 ["py-filelock","3.14.0","3.16.1","lang-python",1717069213,["Compliance mode enabled, was '3.16.1'"]],
 ["pyzmq","22.3.0","26.2.0","lang-python",1637636761,["Compliance mode enabled, was '26.2.0'"]],
-["botocore","1.34.133","1.35.79","lang-python",1719928499,["Compliance mode enabled, was '1.35.79'"]],
+["botocore","1.34.133","1.35.80","lang-python",1719928499,["Compliance mode enabled, was '1.35.80'"]],
 ["foolscap","0.13.2","24.9.0","lang-python",1581796621,["Compliance mode enabled, was '24.9.0'"]],
 ["mako","1.1.4","1.3.8","lang-python",1614161777,["Compliance mode enabled, was '1.3.8'"]],
 ["openpyxl","2.6.0","3.1.5","lang-python",1551164090,["Compliance mode enabled, was '3.1.5'"]],
@@ -253,7 +253,7 @@
 ["pip","22.3.1","24.3.1","lang-python",1673935862,["Compliance mode enabled, was '24.3.1'"]],
 ["cli-helpers","1.1.0","2.3.1","lang-python",1551501525,["Compliance mode enabled, was '2.3.1'"]],
 ["pylibacl","0.5.4","0.7.0","lang-python",1581796622,["Compliance mode enabled, was '0.7.0'"]],
-["boto3","1.20.26","1.35.79","lang-python",1616123331,["Compliance mode enabled, was '1.35.79'"]],
+["boto3","1.20.26","1.35.80","lang-python",1616123331,["Compliance mode enabled, was '1.35.80'"]],
 ["automat","20.2.0","24.8.1","lang-python",1616134410,["Compliance mode enabled, was '24.8.1'"]],
 ["pyscard","1.9.9","2.2.0","lang-python",1581796622,["Compliance mode enabled, was '2.2.0'"]],
 ["sysv-ipc","1.0.1","1.1.0","lang-python",1608537132,["Compliance mode enabled, was '1.1.0'"]],
@@ -959,7 +959,6 @@
 ["nvidia+32","0","565.77","runtime-optenv32",1525028459,["Compliance mode enabled, was '565.77'"]],
 ["faac+32","1.28","1.30","runtime-optenv32",1461474157,["Compliance mode enabled, was '1.30'"]],
 ["libxau+32","1.0.9","1.0.11","runtime-optenv32",1587091486,["Compliance mode enabled, was '1.0.11'"]],
-["perl+32","999","5.41.6","runtime-optenv32",1678950872,["Compliance mode enabled, was '5.41.6'","Possible downgrade from the current version (999 -> 5.41.6)"]],
 ["readline+32","8.2.1","8.2.13","runtime-optenv32",1716037929,["Compliance mode enabled, was '8.2.13'"]],
 ["libexif+32","0.6.22","0.6.24","runtime-optenv32",1461477127,["Compliance mode enabled, was '0.6.24'"]],
 ["libxslt+32","1.1.34","1.1.42","runtime-optenv32",1577437381,["Compliance mode enabled, was '1.1.42'"]],
@@ -1379,7 +1378,6 @@
 ["pari","2.13.1","2.17.0","app-scientific",1614161813,["Compliance mode enabled, was '2.17.0'"]],
 ["ncbi-blast+","2.13.0","2.16.0+","app-scientific",1555643138,["Compliance mode enabled, was '2.16.0+'"]],
 ["stellarsolver","2.5","2.6","app-scientific",1706625158,["Compliance mode enabled, was '2.6'"]],
-["ncbi-vdb","3.0.2","3.1.1","app-scientific",1678598208,["Compliance mode enabled, was '3.1.1'"]],
 ["sra-tools","3.0.3","3.1.1","app-scientific",1678598208,["Compliance mode enabled, was '3.1.1'"]],
 ["samtools","1.20","1.21","app-scientific",1669803436,["Compliance mode enabled, was '1.21'"]],
 ["lpsolve","5.5.2.5","5.6.22","app-scientific",1492365684,["Compliance mode enabled, was '5.6.22'"]],
@@ -2914,5 +2912,5 @@
 ["nginx","1.27.1","1.27.3","app-web",1727187268,["Compliance mode enabled, was '1.27.3'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
 ["hugo","0.139.3","0.139.4","app-web",1733051887,["Compliance mode enabled, was '0.139.4'"]],
-["forgejo","9.0.0","9.0.2","app-web",1729576926,["Compliance mode enabled, was '9.0.2'"]]
+["forgejo","9.0.0","9.0.3","app-web",1729576926,["Compliance mode enabled, was '9.0.3'"]]
 ]
