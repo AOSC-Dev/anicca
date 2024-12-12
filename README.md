@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734005921?label=Updated)
+![Relative date](https://img.shields.io/date/1734009807?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -524,6 +524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|2.6.5|3.1.3|app-games|Compliance mode enabled, was '3.1.3'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
+|freerdp|3.9.0|3.10.0|app-network|Compliance mode enabled, was '3.10.0'|
 |freetds|1.00.112|1.4.24|runtime-database|Compliance mode enabled, was '1.4.24'|
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -793,6 +794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.5.2|22.5.5|runtime-devices|Compliance mode enabled, was '22.5.5'|
 |intel-graphics-compiler|1.0.17791.9|2.1.12|app-devel|Compliance mode enabled, was '2.1.12'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
+|intel-oneapi-basekit|2025.0.0|2025.0.1|app-devel|Compliance mode enabled, was '2025.0.1'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -925,7 +927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kdev-php|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kdev-python|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|kdevelop|23.08.5|24.08.3|desktop-kde|Compliance mode enabled, was '24.08.3'|
+|kdevelop|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kdf|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -1156,7 +1158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kwayland-integration|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kweather|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|kweathercore|0.7|24.11.90|desktop-kde|Compliance mode enabled, was '24.11.90'|
+|kweathercore|0.7|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kwidgetsaddons|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kwin|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kwindowsystem|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
@@ -1701,7 +1703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
 |novaclient|18.6.0|18.7.0|lang-python|Compliance mode enabled, was '18.7.0'|
-|nsd|4.7.0|4.10.1.rel|app-network|Compliance mode enabled, was '4_10_1_REL'|
+|nsd|4.7.0|4.11.0.rel|app-network|Compliance mode enabled, was '4_11_0_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.24|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
@@ -2397,9 +2399,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
+|singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
-|skanlite|23.08.5|24.11.90|desktop-kde|Compliance mode enabled, was '24.11.90'|
+|skanlite|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |skanpage|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |slick-greeter|2.0.4|2.0.8|desktop-displaymanagers|Compliance mode enabled, was '2.0.8'|
 |slirp4netns|1.2.2|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
