@@ -345,7 +345,6 @@
 ["hypothesis-python","6.97.4","6.122.3","lang-python",1706859511,["Compliance mode enabled, was '6.122.3'"]],
 ["arrow","1.0.3","1.3.0","lang-python",1616123331,["Compliance mode enabled, was '1.3.0'"]],
 ["pyqt5-sip","12.9.0","12.16.0","lang-python",1637636760,["Compliance mode enabled, was '12.16.0'"]],
-["qtpy","2.1.0","2.4.2","lang-python",1658966837,["Compliance mode enabled, was '2.4.2'"]],
 ["translate-toolkit","2.3.1","3.14.1","lang-python",1549919969,["Compliance mode enabled, was '3.14.1'"]],
 ["terminaltables","3.1.0","3.1.10","lang-python",1678950872,["Compliance mode enabled, was '3.1.10'"]],
 ["websocket-client","1.7.0","1.8.0","lang-python",1708685051,["Compliance mode enabled, was '1.8.0'"]],
