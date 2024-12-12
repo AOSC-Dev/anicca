@@ -237,7 +237,7 @@
 ["dlib","19.20.0","19.24.6","lang-python",1594184391,["Compliance mode enabled, was '19.24.6'"]],
 ["python-cloudflare","2.8.15","3.1.1","lang-python",1615174551,["Compliance mode enabled, was '3.1.1'"]],
 ["css-parser","1.0.6","1.0.10","lang-python",1605077701,["Compliance mode enabled, was '1.0.10'"]],
-["b2sdk","2.5.0","2.6.0","lang-python",1724639794,["Compliance mode enabled, was '2.6.0'"]],
+["b2sdk","2.5.0","2.7.0","lang-python",1724639794,["Compliance mode enabled, was '2.7.0'"]],
 ["eyed3","0.9.5","0.9.7","lang-python",1600671246,["Compliance mode enabled, was '0.9.7'"]],
 ["alabaster","0.7.12","1.0.0","lang-python",1549919968,["Compliance mode enabled, was '1.0.0'"]],
 ["argparse-manpage","4.5","4.6","lang-python",1707299111,["Compliance mode enabled, was '4.6'"]],
