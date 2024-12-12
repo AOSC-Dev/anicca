@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734041481?label=Updated)
+![Relative date](https://img.shields.io/date/1734045089?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1701,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
-|nokogiri|1.16.7|1.17.1|lang-ruby|Compliance mode enabled, was '1.17.1'|
+|nokogiri|1.16.7|1.17.2|lang-ruby|Compliance mode enabled, was '1.17.2'|
 |nomino|1.3.1|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
@@ -1716,6 +1716,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numactl|2.0.14|2.0.19|app-admin|Compliance mode enabled, was '2.0.19'|
+|numix-icon-theme|24.09.18|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
+|numix-icon-theme-circle|24.10.22|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
 |numpy|1.26.4|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvchecker|2.15.1|2.16|app-utils|Compliance mode enabled, was '2.16'|
