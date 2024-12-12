@@ -1019,7 +1019,6 @@
 ["zed","0.163.2","0.165.4","app-editors",1732786833,["Compliance mode enabled, was '0.165.4'"]],
 ["vscodium","1.95.2.24313","1.95.3.24321","app-editors",1732764291,["Compliance mode enabled, was '1.95.3.24321'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
-["vscode","1.95.3","1.96.0","app-editors",1731678961,["Compliance mode enabled, was '1.96.0'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
