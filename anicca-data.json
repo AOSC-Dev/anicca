@@ -1708,6 +1708,7 @@
 ["vorbis-tools","1.4.0","1.4.2","app-multimedia",1722221884,["Compliance mode enabled, was '1.4.2'"]],
 ["ffmpegthumbnailer","2.2.2","2.2.3","app-multimedia",1573506354,["Compliance mode enabled, was '2.2.3'"]],
 ["subtitleripper","0.3.4","0.3","app-multimedia",1678950872,["Compliance mode enabled, was '0.3'","Possible downgrade from the current version (0.3.4 -> 0.3)"]],
+["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["mpg123","1.32.8","1.32.9","app-multimedia",1730365887,["Compliance mode enabled, was '1.32.9'"]],
 ["feeluown-ytmusic","0.3.4","0.4.6","app-multimedia",1708762785,["Compliance mode enabled, was '0.4.6'"]],
 ["handbrake","1.8.2","1.9.0","app-multimedia",1723440420,["Compliance mode enabled, was '1.9.0'"]],
