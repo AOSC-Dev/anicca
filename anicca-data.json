@@ -473,7 +473,7 @@
 ["sshfs","3.6.0","3.7.3","app-network",1575614682,["Compliance mode enabled, was '3.7.3'"]],
 ["lrzsz","0.12.21","0.12.21.orig","app-network",1481254632,["Compliance mode enabled, was '0.12.21.orig'","Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)"]],
 ["nsd","4.7.0","4.11.0.rel","app-network",1696572712,["Compliance mode enabled, was '4_11_0_REL'"]],
-["ofono","1.30","2.13","app-network",1574948529,["Compliance mode enabled, was '2.13'"]],
+["ofono","1.30","2.14","app-network",1574948529,["Compliance mode enabled, was '2.14'"]],
 ["rpcbind","1.2.6","1.2.7","app-network",1716301828,["Compliance mode enabled, was '1.2.7'"]],
 ["cifs-utils","7.0","7.1","app-network",1723367638,["Compliance mode enabled, was '7.1'"]],
 ["scapy","2.5.0","2.6.1","app-network",1716390068,["Compliance mode enabled, was '2.6.1'"]],
