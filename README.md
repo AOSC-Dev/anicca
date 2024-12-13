@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734056824?label=Updated)
+![Relative date](https://img.shields.io/date/1734060797?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -220,7 +220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
 |capstone|5.0.1|5.0|app-devel|Compliance mode enabled, was '5.0'<br>Possible downgrade from the current version (5.0.1 -> 5.0)|
 |cargo-c|0.10.2|0.10.7+cargo-0.84.0|lang-rust|Compliance mode enabled, was '0.10.7+cargo-0.84.0'|
-|cargo-release|0.25.10|0.25.13|lang-rust|Compliance mode enabled, was '0.25.13'|
+|cargo-release|0.25.10|0.25.14|lang-rust|Compliance mode enabled, was '0.25.14'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
 |castxml|0.6.8|0.6.10|app-devel|Compliance mode enabled, was '0.6.10'|
@@ -375,6 +375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkcli|0.4.2|0.4.4|app-admin|Compliance mode enabled, was '0.4.4'|
 |dkms|3.1.1|3.1.3|app-admin|Compliance mode enabled, was '3.1.3'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
+|dnscontrol|4.14.3|4.15.0|app-network|Compliance mode enabled, was '4.15.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -885,6 +886,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcalendarcore|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kcalutils|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kcharselect|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
+|kchmviewer-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kclock|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kcm-wacomtablet|3.2.0|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kcmautostart-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1290,7 +1292,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjcat|0.2.1|0.2.2|runtime-common|Compliance mode enabled, was '0.2.2'|
-|libjpeg-turbo+32|2.0.5|3.0.4|runtime-optenv32|Compliance mode enabled, was '3.0.4'|
+|libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
+|libjpeg-turbo+32|2.0.5|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
 |libjxl|0.10.2|0.11.1|runtime-imaging|Compliance mode enabled, was '0.11.1'|
 |libkcddb|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |libkcompactdisc|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -1380,7 +1383,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
-|libreoffice|24.2.3.2|24.8.4.1|groups|Compliance mode enabled, was '24.8.4.1'|
+|libreoffice|24.2.3.2|24.8.4.2|groups|Compliance mode enabled, was '24.8.4.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.12.0|runtime-i18n|Compliance mode enabled, was '1.12.0'|
 |librsvg|2.56.1|2.59.2|runtime-imaging|Compliance mode enabled, was '2.59.2'|
@@ -1638,7 +1641,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
-|muparser|2.2.6.1|2.3.4|runtime-common|Compliance mode enabled, was '2.3.4'|
+|muparser|2.2.6.1|2.3.5|runtime-common|Compliance mode enabled, was '2.3.5'|
 |mupdf|1.24.10|1.25.2|app-doc|Compliance mode enabled, was '1.25.2'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
 |mutter|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
@@ -2094,7 +2097,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
-|postfix|3.7.3|3.9.1|app-web|Compliance mode enabled, was '3.9.1'|
 |postgresql|13.17|17.2|app-database|Compliance mode enabled, was '17.2'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
@@ -2820,7 +2822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20241027|3198|runtime-multimedia|Compliance mode enabled, was '3198'|
 |x264+32|20160827.2245|3198|runtime-optenv32|Compliance mode enabled, was '3198'<br>Possible downgrade from the current version (20160827.2245 -> 3198)|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
