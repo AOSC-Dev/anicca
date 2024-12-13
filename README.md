@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734081205?label=Updated)
+![Relative date](https://img.shields.io/date/1734084813?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -410,7 +410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
 |doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
-|dpdk|22.11.1|24.11|runtime-network|Compliance mode enabled, was '24.11'|
+|dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
 |dpkg|1.22.7|1.22.11|app-admin|Compliance mode enabled, was '1.22.11'|
 |dracut-ng|103|105|app-admin|Compliance mode enabled, was '105'|
 |dragon|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -535,6 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-overlayfs|1.13|1.14|app-admin|Compliance mode enabled, was '1.14'|
 |fuse-python|0.3.1|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
+|future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fwupd|1.9.25|2.0.3|app-admin|Compliance mode enabled, was '2.0.3'|
 |fzf|0.55.0|0.56.3|app-utils|Compliance mode enabled, was '0.56.3'|
@@ -1081,7 +1082,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kparts|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |kpat|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kpeople|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
-|kpicosim-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kpilot-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kpimtextedit|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kpipewire|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
@@ -1340,8 +1340,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnet|1.1.6|1.3|runtime-network|Compliance mode enabled, was '1.3'|
 |libnfc|1.7.1|1.8.0|runtime-devices|Compliance mode enabled, was '1.8.0'|
 |libnfnetlink|1.0.1|1.0.2|runtime-network|Compliance mode enabled, was '1.0.2'|
-|libnfs|4.0.0|6.0.0|runtime-network|Compliance mode enabled, was '6.0.0'|
-|libnfs-static|4.0.0|6.0.0|runtime-network|Compliance mode enabled, was '6.0.0'|
+|libnfs|4.0.0|6.0.1|runtime-network|Compliance mode enabled, was '6.0.1'|
+|libnfs-static|4.0.0|6.0.1|runtime-network|Compliance mode enabled, was '6.0.1'|
 |libnftnl|1.2.6|1.2.8|runtime-network|Compliance mode enabled, was '1.2.8'|
 |libnice|0.1.17|0.1.22|runtime-network|Compliance mode enabled, was '0.1.22'|
 |libnl|3.9.0|3.11.0|runtime-network|Compliance mode enabled, was '3.11.0'|
@@ -1362,7 +1362,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
-|libphonenumber|8.13.38|8.13.51|runtime-i18n|Compliance mode enabled, was '8.13.51'|
+|libphonenumber|8.13.38|8.13.52|runtime-i18n|Compliance mode enabled, was '8.13.52'|
 |libpinyin|2.6.0|2.9.92|runtime-i18n|Compliance mode enabled, was '2.9.92'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
@@ -1587,7 +1587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.33|app-admin|Compliance mode enabled, was '1.6.33'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |merkuro|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|mesa|24.2.6|24.3.1|runtime-display||
+|mesa|24.3.0|24.3.1|runtime-display||
 |mesa+32|22.1.7|24.3.1|runtime-optenv32|Compliance mode enabled, was '24.3.1'|
 |mesa-amber|21.3.9|24.3.1|runtime-display|Compliance mode enabled, was '24.3.1'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.1|runtime-display|Compliance mode enabled, was '24.3.1'|
