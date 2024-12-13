@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734060797?label=Updated)
+![Relative date](https://img.shields.io/date/1734063230?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -161,7 +161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
 |binwalk|2.3.4|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |bird|2.15.1|2.16|app-network|Compliance mode enabled, was '2.16'|
-|bitwarden|2024.11.2|2024.12.0|app-utils|Compliance mode enabled, was '2024.12.0'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.3.1|app-creativity|Compliance mode enabled, was '4.3.1'|
@@ -2097,6 +2096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|236|runtime-multimedia|Compliance mode enabled, was '236'|
+|postfix|3.7.3|3.9.1|app-web|Compliance mode enabled, was '3.9.1'|
 |postgresql|13.17|17.2|app-database|Compliance mode enabled, was '17.2'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
@@ -2148,6 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
+|pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
 |pydantic|2.6.0|2.10.3|lang-python|Compliance mode enabled, was '2.10.3'|
 |pydantic-core|2.16.1|2.27.1|lang-python|Compliance mode enabled, was '2.27.1'|
 |pydot|1.4.1|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
@@ -2822,6 +2823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
+|x264|0<br>+git20241027|3198|runtime-multimedia|Compliance mode enabled, was '3198'|
 |x264+32|20160827.2245|3198|runtime-optenv32|Compliance mode enabled, was '3198'<br>Possible downgrade from the current version (20160827.2245 -> 3198)|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
