@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734073987?label=Updated)
+![Relative date](https://img.shields.io/date/1734077680?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -343,6 +343,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |dbus-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ddnet|18.4|18.8|app-games|Compliance mode enabled, was '18.8'|
+|deb-installer|0.1.4|0.1.5|app-admin|Compliance mode enabled, was '0.1.5'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |debootstrap|1.0.137|1.0.138|app-utils|Compliance mode enabled, was '1.0.138'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
@@ -1372,6 +1373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.44|runtime-optenv32|Compliance mode enabled, was '1.6.44'|
 |libpng-1.6+32|1.6.43|1.6.44|runtime-optenv32|Compliance mode enabled, was '1.6.44'|
 |libppd|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
+|libpqxx|6.4.5|7.9.2|runtime-database|Compliance mode enabled, was '7.9.2'|
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
@@ -1572,7 +1574,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.39.1|runtime-creativity|Compliance mode enabled, was '1.39.1'|
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
-|matplotlib|3.8.0|3.9.3|lang-python|Compliance mode enabled, was '3.9.3'|
+|matplotlib|3.8.0|3.9.4|lang-python|Compliance mode enabled, was '3.9.4'|
 |matplotlib-inline|0.1.7|8.30.0|lang-python|Compliance mode enabled, was '8.30.0'|
 |maturin|1.7.4|1.7.8|lang-python|Compliance mode enabled, was '1.7.8'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
