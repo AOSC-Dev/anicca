@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734096134?label=Updated)
+![Relative date](https://img.shields.io/date/1734099084?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1237,7 +1237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdnav+32|5.0.3|6.1.1|runtime-optenv32|Compliance mode enabled, was '6.1.1'|
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32|Compliance mode enabled, was '6.1.3'|
 |libdwarf|20210305|0.11.1|runtime-common|Compliance mode enabled, was '0.11.1'<br>Possible downgrade from the current version (20210305 -> 0.11.1)|
-|libeconf|0.5.0|0.7.5|runtime-common|Compliance mode enabled, was '0.7.5'|
+|libeconf|0.5.0|0.7.6|runtime-common|Compliance mode enabled, was '0.7.6'|
 |libedit|20191231<br>+3.1|20240808-3.1|runtime-common|Compliance mode enabled, was '20240808-3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32|Compliance mode enabled, was '1.5.10'|
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
@@ -2434,6 +2434,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
 |sof-firmware|2024.09.1|2024.09.2|runtime-kernel|Compliance mode enabled, was '2024.09.2'|
 |sof-tools|2.10|2.11.3|app-multimedia|Compliance mode enabled, was '2.11.3'|
+|sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.8.0|desktop-kde|Compliance mode enabled, was '6.8.0'|
 |sonic-visualiser|4.4|5.0.1|app-multimedia|Compliance mode enabled, was '5.0.1'|
 |sonivox|3.6.12|3.6.14|runtime-multimedia|Compliance mode enabled, was '3.6.14'|
@@ -2654,7 +2655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqt3|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
-|tracker|3.7.3|3.8.1|desktop-gnome|Compliance mode enabled, was '3.8.1'|
+|tracker|3.7.3|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
 |tracker-miners|3.3.1|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
 |translate-toolkit|2.3.1|3.14.1|lang-python|Compliance mode enabled, was '3.14.1'|
