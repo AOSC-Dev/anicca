@@ -840,7 +840,6 @@
 ["mathjax","2.7.5","3.2.2","lang-js",1537942111,["Compliance mode enabled, was '3.2.2'"]],
 ["deno","1.44.1","2.1.4","lang-js",1718853150,["Compliance mode enabled, was '2.1.4'"]],
 ["nvm","0.39.7","0.40.1","lang-js",1704625163,["Compliance mode enabled, was '0.40.1'"]],
-["libpqxx","6.4.5","7.9.2","runtime-database",1569986291,["Compliance mode enabled, was '7.9.2'"]],
 ["freetds","1.00.112","1.4.24","runtime-database",1565150265,["Compliance mode enabled, was '1.4.24'"]],
 ["gom","0.4","0.5.3","runtime-database",1619939232,["Compliance mode enabled, was '0.5.3'"]],
 ["soci","4.0.1","4.0.3","runtime-database",1614161811,["Compliance mode enabled, was '4.0.3'"]],
