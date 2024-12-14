@@ -218,6 +218,7 @@
 ["txtorcon","19.1.0","24.8.0","lang-python",1573334578,["Compliance mode enabled, was '24.8.0'"]],
 ["pyyaml","6.0.1","6.0.2","lang-python",1718935933,["Compliance mode enabled, was '6.0.2'"]],
 ["websockets","12.0","1.4.4","lang-python",1714209798,["Compliance mode enabled, was '1.4.4'","Possible downgrade from the current version (12.0 -> 1.4.4)"]],
+["pycodestyle","2.7.0","2.12.1","lang-python",1619939108,["Compliance mode enabled, was '2.12.1'"]],
 ["pyqt5","5.15.5","5.15.11","lang-python",1637636760,["Compliance mode enabled, was '5.15.11'"]],
 ["prettytable","0.7.2","3.12.0","lang-python",1678950872,["Compliance mode enabled, was '3.12.0'"]],
 ["zfec","1.5.3","1.6.0.0","lang-python",1530283385,["Compliance mode enabled, was '1.6.0.0'"]],
