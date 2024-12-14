@@ -191,7 +191,7 @@
 ["argcomplete","3.5.0","3.5.2","lang-python",1723258058,["Compliance mode enabled, was '3.5.2'"]],
 ["wxpython","4.2.1","4.2.2","lang-python",1706855338,["Compliance mode enabled, was '4.2.2'"]],
 ["monotonic","1.5","1.6","lang-python",1537069562,["Compliance mode enabled, was '1.6'"]],
-["certifi","2024.7.4","2024.8.30","lang-python",1720103195,["Compliance mode enabled, was '2024.8.30'"]],
+["certifi","2024.7.4","2024.12.14","lang-python",1720103195,["Compliance mode enabled, was '2024.12.14'"]],
 ["pyqt6-sip","13.6.0","13.9.1","lang-python",1721223235,["Compliance mode enabled, was '13.9.1'"]],
 ["httplib2","0.19.0","0.22.0","lang-python",1616134410,["Compliance mode enabled, was '0.22.0'"]],
 ["pandas","2.1.2","2.2.3","lang-python",1700797896,["Compliance mode enabled, was '2.2.3'"]],
