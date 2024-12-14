@@ -163,7 +163,7 @@
 ["pyaudio","0.2.11","0.2.14","lang-python",1499690231,["Compliance mode enabled, was '0.2.14'"]],
 ["decorator","4.3.2","5.1.1","lang-python",1549919968,["Compliance mode enabled, was '5.1.1'"]],
 ["fuse-python","0.3.1","1.0.9","lang-python",1530718722,["Compliance mode enabled, was '1.0.9'"]],
-["matplotlib","3.8.0","3.9.4","lang-python",1696572712,["Compliance mode enabled, was '3.9.4'"]],
+["matplotlib","3.8.0","3.10.0","lang-python",1696572712,["Compliance mode enabled, was '3.10.0'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1637636761,["Compliance mode enabled, was '21.3.0'"]],
 ["wsproto","1.0.0","1.2.0","lang-python",1618998184,["Compliance mode enabled, was '1.2.0'"]],
 ["pastel","0.2.0","0.2.1","lang-python",1594100501,["Compliance mode enabled, was '0.2.1'"]],
