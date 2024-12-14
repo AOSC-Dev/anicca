@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734146741?label=Updated)
+![Relative date](https://img.shields.io/date/1734149673?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -420,6 +420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
+|dulwich|0.21.6|0.22.6|runtime-vcs|Compliance mode enabled, was '0.22.6'|
 |dune|3.4.1|3.17.0|lang-ocaml|Compliance mode enabled, was '3.17.0'|
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
@@ -1042,6 +1043,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knemo-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knetload-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knetstats-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|knetwalk|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |knewstuff|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |knights|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |knights-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2045,6 +2047,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkginfo|1.5.0.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
+|plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |plasma-browser-integration|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |plasma-desktop|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
@@ -2140,7 +2143,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaudio|0.2.11|0.2.14|lang-python|Compliance mode enabled, was '0.2.14'|
 |pybind11|2.11.1|2.13.6|lang-python|Compliance mode enabled, was '2.13.6'|
 |pycairo|1.18.2|1.27.0|lang-python|Compliance mode enabled, was '1.27.0'|
-|pycodestyle|2.7.0|2.12.1|lang-python|Compliance mode enabled, was '2.12.1'|
 |pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
 |pycryptodome|3.7.3|3.21.0|lang-python|Compliance mode enabled, was '3.21.0'|
 |pycryptodomex|3.9.9|3.21.0|lang-python|Compliance mode enabled, was '3.21.0'|
@@ -2153,6 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
+|pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygccxml|2.1.0|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
 |pygit2|1.14.1|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
