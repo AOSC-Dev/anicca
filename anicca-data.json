@@ -2781,6 +2781,7 @@
 ["seatd","0.8.0","0.9.1","app-admin",1709617339,["Compliance mode enabled, was '0.9.1'"]],
 ["bubblewrap","0.10.0","0.11.0","app-admin",1723734185,["Compliance mode enabled, was '0.11.0'"]],
 ["mstflint","4.29.0-1","4.30.0+1","app-admin",1731561395,["Compliance mode enabled, was '4.30.0-1'"]],
+["catatonit","0.2.0","0.2.1","app-admin",1727788579,["Compliance mode enabled, was '0.2.1'"]],
 ["bottom","0.9.6","0.10.2","app-admin",1704768393,["Compliance mode enabled, was '0.10.2'"]],
 ["iozone","3.492","3.506","app-admin",1641887332,["Compliance mode enabled, was '3.506'"]],
 ["runc","1.1.14","1.2.3","app-admin",1727015619,["Compliance mode enabled, was '1.2.3'"]],
