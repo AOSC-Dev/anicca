@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734192768?label=Updated)
+![Relative date](https://img.shields.io/date/1734196073?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -196,7 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bulky|3.4|3.5|desktop-cinnamon|Compliance mode enabled, was '3.5'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.5|app-utils|Compliance mode enabled, was '0.33.5'|
-|c-ares|1.28.1|1.34.3|runtime-network|Compliance mode enabled, was '1.34.3'|
+|c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.12.1.0|lang-haskell|Compliance mode enabled, was '3.12.1.0'|
 |cachecontrol|0.14.0|0.14.1|lang-python|Compliance mode enabled, was '0.14.1'|
@@ -1105,6 +1105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krfb|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |krita|5.2.2|5.2.8|app-creativity|Compliance mode enabled, was '5.2.8'|
 |kross|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
+|kruler|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |krunner|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |krusader|2.7.2|2.8.1|desktop-kde|Compliance mode enabled, was '2.8.1'|
 |krusader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1626,8 +1627,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.2|0.6.3|desktop-xfce|Compliance mode enabled, was '0.6.3'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'|
-|mpg123|1.32.8|1.32.9|app-multimedia|Compliance mode enabled, was '1.32.9'|
-|mpg123+32|1.32.8|1.32.9|runtime-optenv32|Compliance mode enabled, was '1.32.9'|
+|mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
+|mpg123+32|1.32.8|1.32.10|runtime-optenv32|Compliance mode enabled, was '1.32.10'|
 |mplayerthumbs-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mpmath|1.1.0|1.4.0~a2|lang-python|Compliance mode enabled, was '1.4.0a2'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|extra-mono|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
