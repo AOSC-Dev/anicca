@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734235999?label=Updated)
+![Relative date](https://img.shields.io/date/1734239463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1945,7 +1945,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.07|lang-perl|Compliance mode enabled, was '13.07'|
+|perl-image-exiftool|12.50|13.08|lang-perl|Compliance mode enabled, was '13.08'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2301,7 +2301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |restic|0.17.1|0.17.3|app-utils|Compliance mode enabled, was '0.17.3'|
 |retext|7.2.2|8.0.2|app-editors|Compliance mode enabled, was '8.0.2'|
-|rexml|3.2.5|3.3.9|lang-ruby|Compliance mode enabled, was '3.3.9'|
+|rexml|3.2.5|3.4.0|lang-ruby|Compliance mode enabled, was '3.4.0'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rhash|1.4.4|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |rhythmbox|3.4.7|3.4.8|app-multimedia|Compliance mode enabled, was '3.4.8'|
