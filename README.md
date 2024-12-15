@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734243329?label=Updated)
+![Relative date](https://img.shields.io/date/1734246625?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -129,6 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avrdude|6.3|8.0|app-devel|Compliance mode enabled, was '8.0'|
 |ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop|Compliance mode enabled, was '24.5.0'|
 |b2sdk|2.5.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
+|b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compliance mode enabled, was '019'|
 |babel|2.9.1|2.16.0|lang-python|Compliance mode enabled, was '2.16.0'|
 |babl|0.1.108|0.1.110|runtime-imaging|Compliance mode enabled, was '0_1_110'|
@@ -253,7 +254,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|127.0.6533.119|131.0.6778.139|app-web|Compliance mode enabled, was '131.0.6778.139'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.5.1|3.5.2|app-devel|Compliance mode enabled, was '3.5.2'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.4.2|groups|Compliance mode enabled, was '6.4.2'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -561,6 +561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gedit-plugins|42.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gegl-0.4|0_4_48|0_4_50|runtime-imaging||
+|genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
@@ -1707,7 +1708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
-|novaclient|18.6.0|18.7.0|lang-python|Compliance mode enabled, was '18.7.0'|
 |nsd|4.7.0|4.11.0.rel|app-network|Compliance mode enabled, was '4_11_0_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
