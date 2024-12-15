@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734223601?label=Updated)
+![Relative date](https://img.shields.io/date/1734229829?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1127,7 +1127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquares|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ksquirrel-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksshaskpass|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
-|kstars|3.7.3|3.7.4|desktop-kde|Compliance mode enabled, was '3.7.4'|
 |kstreamripper-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksudoku|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ksystemlog|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -2014,7 +2013,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|1.74|5.31|lang-perl|Compliance mode enabled, was '5.31'|
-|perl-www-mechanize|1.91|2.19|lang-perl|Compliance mode enabled, was '2.19'|
 |perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
 |perl-xml-libxslt|1.96|2.003000|lang-perl|Compliance mode enabled, was '2.003000'|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
