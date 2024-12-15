@@ -101,7 +101,7 @@
 ["rsa","4.0","4.9","lang-python",1549987770,["Compliance mode enabled, was '4.9'"]],
 ["pypkgconfig","1.4.0","1.5.5","lang-python",1536768538,["Compliance mode enabled, was '1.5.5'"]],
 ["trollius","2.1","2.2.1","lang-python",1551199939,["Compliance mode enabled, was '2.2.1'"]],
-["pygccxml","2.1.0","2.6.0","lang-python",1614161777,["Compliance mode enabled, was '2.6.0'"]],
+["pygccxml","2.1.0","2.6.1","lang-python",1614161777,["Compliance mode enabled, was '2.6.1'"]],
 ["pycuda","2022.2.2","2024.1.2","lang-python",1700797896,["Compliance mode enabled, was '2024.1.2'"]],
 ["calver","2022.06.26","2022.6.26","lang-python",1708256695,["Compliance mode enabled, was '2022.6.26'"]],
 ["hatchling","1.21.1","1.13.0","lang-python",1708256695,["Compliance mode enabled, was '1.13.0'","Possible downgrade from the current version (1.21.1 -> 1.13.0)"]],
