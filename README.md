@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734282551?label=Updated)
+![Relative date](https://img.shields.io/date/1734286461?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2628,6 +2628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |threadweaver|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |throttled|0.10.0|0.11|app-utils|Compliance mode enabled, was '0.11'|
 |thunar|4.18.10|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
+|thunar-archive-plugin|0.4.0|0.5.2|desktop-xfce|Compliance mode enabled, was '0.5.2'|
 |thunar-volman|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |thunderbird|128.5.1|128.5.2|app-web||
 |tigervnc|1.14.0|1.14.1|app-network||

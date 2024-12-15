@@ -1418,6 +1418,7 @@
 ["xfwm4","4.18.0","4.20.0","desktop-xfce",1675145504,["Compliance mode enabled, was '4.20.0'"]],
 ["xfconf","4.18.3","4.20.0","desktop-xfce",1706025816,["Compliance mode enabled, was '4.20.0'"]],
 ["xfce4-appfinder","4.18.1","4.20.0","desktop-xfce",1706025816,["Compliance mode enabled, was '4.20.0'"]],
+["thunar-archive-plugin","0.4.0","0.5.2","desktop-xfce",1581039446,["Compliance mode enabled, was '0.5.2'"]],
 ["thunar-volman","4.18.0","4.20.0","desktop-xfce",1675145503,["Compliance mode enabled, was '4.20.0'"]],
 ["libxfce4util","4.18.2","4.20.0","desktop-xfce",1715161763,["Compliance mode enabled, was '4.20.0'"]],
 ["ghostscript","9.54.0","10.04.0","app-doc",1631166650,["Compliance mode enabled, was '10.04.0'"]],
