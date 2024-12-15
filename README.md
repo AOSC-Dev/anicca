@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734253933?label=Updated)
+![Relative date](https://img.shields.io/date/1734257497?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -452,6 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exfatprogs|1.2.5|1.2.6|app-admin|Compliance mode enabled, was '1.2.6'|
 |exiv2|0.27.5|0.28.3|runtime-imaging|Compliance mode enabled, was '0.28.3'|
+|exo|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |expat|2.6.2|2.6.4|runtime-common|Compliance mode enabled, was '2.6.4'|
 |expat+32|2.6.2|2.6.4|runtime-optenv32|Compliance mode enabled, was '2.6.4'|
 |extra-cmake-modules|5.115.0|6.9.0|app-devel|Compliance mode enabled, was '6.9.0'|
@@ -542,6 +543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
+|garcon|4.18.2|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc+32|13.2.0|14.2.0|runtime-optenv32|Compliance mode enabled, was '14.2.0'|
@@ -2621,8 +2623,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |throttled|0.10.0|0.11|app-utils|Compliance mode enabled, was '0.11'|
-|thunar|4.18.10|4.18.11|desktop-xfce|Compliance mode enabled, was '4.18.11'|
-|thunar-volman|4.18.0|4.19.1|desktop-xfce|Compliance mode enabled, was '4.19.1'|
+|thunar|4.18.10|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
+|thunar-volman|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |thunderbird|128.5.1|128.5.2|app-web||
 |tigervnc|1.14.0|1.14.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
@@ -2678,6 +2680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
+|tumbler|4.18.2|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |tuned|2.19.0|2.24.1|app-admin|Compliance mode enabled, was '2.24.1'|
 |twin-style-fahrenheit|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twin-style-machbunt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
