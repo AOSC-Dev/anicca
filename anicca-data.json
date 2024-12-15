@@ -2744,7 +2744,7 @@
 ["dkcli","0.4.2","0.4.4","app-admin",1726414666,["Compliance mode enabled, was '0.4.4'"]],
 ["shadow","4.15.1","4.16.0","app-admin",1716563454,["Compliance mode enabled, was '4.16.0'"]],
 ["squashfs-tools-ng","1.3.1","1.3.2","app-admin",1716292186,["Compliance mode enabled, was '1.3.2'"]],
-["jetring","0.29","0.31","app-admin",1600920748,["Compliance mode enabled, was '0.31'"]],
+["jetring","0.29","0.32","app-admin",1600920748,["Compliance mode enabled, was '0.32'"]],
 ["cockpit","286.1","330","app-admin",1678351353,["Compliance mode enabled, was '330'"]],
 ["exfatprogs","1.2.5","1.2.6","app-admin",1723631352,["Compliance mode enabled, was '1.2.6'"]],
 ["deploykit-backend","0.6.6","0.7.4","app-admin",1725959067,["Compliance mode enabled, was '0.7.4'"]],
