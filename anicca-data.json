@@ -510,7 +510,6 @@
 ["ppp","2.4.9","2.5.1","app-network",1611382057,["Compliance mode enabled, was '2.5.1'"]],
 ["redsocks2","0.67+git20201229","0.1","app-network",1629863094,["Compliance mode enabled, was '0.1'","Possible downgrade from the current version (0.67+git20201229 -> 0.1)"]],
 ["passt","2024_10_30.ee7d0b6","2024_12_11.09478d5","app-network",1731759292,[]],
-["net-snmp","5.7.3","5.9.4","app-network",1698387501,["Compliance mode enabled, was '5.9.4'"]],
 ["magic-wormhole","0.11.2","0.17.0","app-network",1550721072,["Compliance mode enabled, was '0.17.0'"]],
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
 ["sslh","1.19c","2.1.4","app-network",1528905473,["Compliance mode enabled, was '2.1.4'"]],
