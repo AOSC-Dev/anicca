@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734233606?label=Updated)
+![Relative date](https://img.shields.io/date/1734235999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -803,6 +803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
+|iproute2|6.11.0|6.12.0|app-network|Compliance mode enabled, was '6.12.0'|
 |ipt2socks|1.1.3|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |iptables|1.8.8|1.8.11|app-network|Compliance mode enabled, was '1.8.11'|
 |iptraf-ng|1.1.4|1.2.2|app-network|Compliance mode enabled, was '1.2.2'|
@@ -1516,6 +1517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|14.0.6|19.1.5|runtime-optenv32|Compliance mode enabled, was '19.1.5'|
 |llvm-18|18.1.8|19.1.5|app-devel|Compliance mode enabled, was '19.1.5'|
 |llvm-runtime+wasi|18.1.8|19.1.5|runtime-wasi|Compliance mode enabled, was '19.1.5'|
+|lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -1658,8 +1660,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20241207|runtime-common|Compliance mode enabled, was '6.5-20241207'|
-|ncurses+32|6.4|6.5+20241207|runtime-optenv32|Compliance mode enabled, was '6.5-20241207'|
+|ncurses|6.4|6.5+20241214|runtime-common|Compliance mode enabled, was '6.5-20241214'|
+|ncurses+32|6.4|6.5+20241214|runtime-optenv32|Compliance mode enabled, was '6.5-20241214'|
 |neatvnc|0.7.1|0.9.2|runtime-network|Compliance mode enabled, was '0.9.2'|
 |nemo|5.8.3|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -2148,6 +2150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptodomex|3.9.9|3.21.0|lang-python|Compliance mode enabled, was '3.21.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
+|pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
 |pydantic|2.6.0|2.10.3|lang-python|Compliance mode enabled, was '2.10.3'|
 |pydantic-core|2.16.1|2.27.1|lang-python|Compliance mode enabled, was '2.27.1'|
