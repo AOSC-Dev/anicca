@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734372863?label=Updated)
+![Relative date](https://img.shields.io/date/1734376140?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -475,7 +475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
 |fcgi|2.4.2|2.4.3|runtime-web|Compliance mode enabled, was '2.4.3'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.30.5544.102|app-i18n|Compliance mode enabled, was '2.30.5544.102'|
-|fcitx5-pinyin-moegirl|20241109|20241211|app-i18n|Compliance mode enabled, was '20241211'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
@@ -1861,7 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.3.62|app-games|Compliance mode enabled, was '2.3.62'|
+|pcsx2|1.6.0<br>+git20210825|2.3.63|app-games|Compliance mode enabled, was '2.3.63'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
@@ -2342,7 +2341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.2.2|3.3.6|lang-ruby|Compliance mode enabled, was '3.3.6'|
-|ruby-bundler|2.1.4|2.5.23|lang-ruby|Compliance mode enabled, was '2.5.23'|
+|ruby-bundler|2.1.4|2.6.0|lang-ruby|Compliance mode enabled, was '2.6.0'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.5.0|lang-ruby|Compliance mode enabled, was '3.5.0'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
