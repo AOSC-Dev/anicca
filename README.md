@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734355407?label=Updated)
+![Relative date](https://img.shields.io/date/1734358379?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -577,7 +577,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gettext|0.22.5|0.23|app-devel|Compliance mode enabled, was '0.23'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|ghc|9.4.8|9.12.1|lang-haskell|Compliance mode enabled, was '9.12.1'|
+|ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
 |ghostscript+32|9.27|10.04.0|runtime-optenv32|Compliance mode enabled, was '10.04.0'|
@@ -1498,7 +1498,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.24|runtime-multimedia|Compliance mode enabled, was '0.24.24'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
-|linux+api|6.12.4|5.19.17|core-devel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.4 -> 5.19.17)|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.11.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
