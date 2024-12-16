@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734376140?label=Updated)
+![Relative date](https://img.shields.io/date/1734379938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -659,7 +659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls|3.8.7|3.8.8|runtime-cryptography|Compliance mode enabled, was '3.8.8'|
 |gnutls+32|3.6.15|3.8.8|runtime-optenv32|Compliance mode enabled, was '3.8.8'|
 |go|1.23.1|1.23.4|lang-golang||
-|go-md2man|2.0.4|2.0.5|app-doc|Compliance mode enabled, was '2.0.5'|
+|go-md2man|2.0.4|2.0.6|app-doc|Compliance mode enabled, was '2.0.6'|
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
@@ -2026,7 +2026,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-twig|3.52|3.53|lang-perl|Compliance mode enabled, was '3.53'|
 |perl-xml-xpath|1.44|1.48|lang-perl|Compliance mode enabled, was '1.48'|
 |perl-yaml-libyaml|0.85|0.902.0|lang-perl|Compliance mode enabled, was '0.902.0'|
-|perl-yaml-tiny|1.73|1.75|lang-perl|Compliance mode enabled, was '1.75'|
+|perl-yaml-tiny|1.73|1.76|lang-perl|Compliance mode enabled, was '1.76'|
 |perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
