@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734462476?label=Updated)
+![Relative date](https://img.shields.io/date/1734466342?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -373,6 +373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|discord|0.0.77|0.0.78|app-web|Compliance mode enabled, was '0.0.78'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -722,6 +723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |guvcview|2.1.0|2.2.1|app-devices|Compliance mode enabled, was '2.2.1'|
 |gvfs|1.50.2|1.56.1|desktop-gnome|Compliance mode enabled, was '1.56.1'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
+|gwenhywfar|5.10.2|5.12.0|runtime-network|Compliance mode enabled, was '5.12.0'|
 |gwenview|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gzdoom|4.12.2|4.14.0|app-games|Compliance mode enabled, was '4.14.0'|
