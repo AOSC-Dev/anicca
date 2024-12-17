@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734455470?label=Updated)
+![Relative date](https://img.shields.io/date/1734459402?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -160,6 +160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
 |binwalk|2.3.4|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |bird|2.15.1|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
+|bitwarden|2024.12.0|2024.12.1|app-utils|Compliance mode enabled, was '2024.12.1'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
@@ -426,7 +427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.6|runtime-vcs|Compliance mode enabled, was '0.22.6'|
-|dune|3.4.1|3.17.0|lang-ocaml|Compliance mode enabled, was '3.17.0'|
+|dune|3.4.1|3.17.1|lang-ocaml|Compliance mode enabled, was '3.17.1'|
 |dunst|1.12.0|1.12.1|app-utils|Compliance mode enabled, was '1.12.1'|
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
@@ -1263,6 +1264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgcrypt+32|1.9.1|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libgcrypt-static|1.10.3|1.11.0|runtime-cryptography|Compliance mode enabled, was '1.11.0'|
 |libgeotiff|1.5.1|1.7.3|runtime-gis|Compliance mode enabled, was '1.7.3'|
+|libgig|4.4.0|4.4.1|runtime-multimedia|Compliance mode enabled, was '4.4.1'|
 |libgit2|1.7.2|1.8.4|runtime-vcs|Compliance mode enabled, was '1.8.4'|
 |libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'<br>Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|runtime-optenv32|Compliance mode enabled, was '1.7.0'|
@@ -1935,6 +1937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-glib|1.329|1.3294|lang-perl|Compliance mode enabled, was '1.3294'|
 |perl-glib-object-introspection|0.047|0.051|lang-perl|Compliance mode enabled, was '0.051'|
 |perl-gnome2|1.047|1.048|lang-perl|Compliance mode enabled, was '1.048'|
+|perl-gnome2-canvas|1.002|1.006|lang-perl|Compliance mode enabled, was '1.006'|
 |perl-gnome2-vfs|1.083|1.084|lang-perl|Compliance mode enabled, was '1.084'|
 |perl-gnome2-wnck|0.16|0.18|lang-perl|Compliance mode enabled, was '0.18'|
 |perl-gtk2|1.2499|1.24993|lang-perl|Compliance mode enabled, was '1.24993'|
@@ -2390,6 +2393,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |secretstorage|3.3.0|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
+|sequoia-sq|0.36.0|1.0.0|app-cryptography|Compliance mode enabled, was '1.0.0'|
 |ser2net|3.5|4.6.2|app-network|Compliance mode enabled, was '4.6.2'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setuptools-python2|44.1.0|75.6.0|lang-python|Compliance mode enabled, was '75.6.0'|
@@ -2418,7 +2422,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slick-greeter|2.0.4|2.0.8|desktop-displaymanagers|Compliance mode enabled, was '2.0.8'|
 |slirp4netns|1.2.2|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
-|slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smartdns|35|46|app-network|Compliance mode enabled, was '46'|
 |smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
