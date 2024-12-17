@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734444692?label=Updated)
+![Relative date](https://img.shields.io/date/1734448433?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -159,7 +159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |binutils+w64|2.43|2.43.1|runtime-optenvw64|Compliance mode enabled, was '2.43.1'|
 |binwalk|2.3.4|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
-|bird|2.15.1|2.16|app-network|Compliance mode enabled, was '2.16'|
+|bird|2.15.1|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
@@ -475,7 +475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
 |fcgi|2.4.2|2.4.3|runtime-web|Compliance mode enabled, was '2.4.3'|
-|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.30.5544.102|app-i18n|Compliance mode enabled, was '2.30.5544.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
@@ -1733,7 +1732,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
-|ocaml-num|1.3|1.5|lang-ocaml|Compliance mode enabled, was '1.5'|
 |ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
 |ocaml-re|1.11.0|1.13.3|lang-ocaml|Compliance mode enabled, was '1.13.3'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
@@ -1993,7 +1991,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
 |perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
-|perl-proc-processtable|0.56|0.636|lang-perl|Compliance mode enabled, was '0.636'|
 |perl-regexp-common|2017060201|2024080801|lang-perl|Compliance mode enabled, was '2024080801'|
 |perl-role-tiny|2.001004|2.002004|lang-perl|Compliance mode enabled, was '2.002004'|
 |perl-specio|0.46|0.48|lang-perl|Compliance mode enabled, was '0.48'|
