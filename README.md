@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734531073?label=Updated)
+![Relative date](https://img.shields.io/date/1734534699?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -176,7 +176,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.83|lang-python|Compliance mode enabled, was '1.35.83'|
 |botocore|1.34.133|1.35.83|lang-python|Compliance mode enabled, was '1.35.83'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.17|app-utils|Compliance mode enabled, was '51.17'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.17)|
@@ -355,7 +354,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.23.1|lang-golang|Compliance mode enabled, was '1.23.1'|
 |deno|1.44.1|2.1.4|lang-js|Compliance mode enabled, was '2.1.4'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deploykit-backend|0.6.6|0.7.4|app-admin|Compliance mode enabled, was '0.7.4'|
 |deploykit-gui|0.8.3|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |deprecated|1.2.14|1.2.15|lang-python|Compliance mode enabled, was '1.2.15'|
 |deskflow|1.17.1|1.17.2|app-utils|Compliance mode enabled, was '1.17.2'|
@@ -2121,7 +2119,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.1|app-gis|Compliance mode enabled, was '9.5.1'|
 |projectm|4.0.0|4.1.2|runtime-multimedia|Compliance mode enabled, was '4.1.2'|
-|protobuf|25.2|29.1|runtime-common|Compliance mode enabled, was '29.1'|
+|protobuf|25.2|29.2|runtime-common|Compliance mode enabled, was '29.2'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.11.0|3.15.2|app-admin|Compliance mode enabled, was '3.15.2'|
@@ -2548,7 +2546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.3.4|2.4.2|runtime-common|Compliance mode enabled, was '2.4.2'|
-|targetcli-fb|2.1.54|2.1.58|app-admin|Compliance mode enabled, was '2.1.58'|
+|targetcli-fb|2.1.54|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
