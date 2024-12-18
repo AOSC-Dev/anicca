@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734492264?label=Updated)
+![Relative date](https://img.shields.io/date/1734495210?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -94,7 +94,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.11|lang-dotnet|Compliance mode enabled, was '8.0.11'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.30.0|0.32.1|app-devel|Compliance mode enabled, was '0.32.1'|
+|ast-grep|0.30.0|0.32.2|app-devel|Compliance mode enabled, was '0.32.2'|
 |astroid|2.12.2|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
 |astrometry.net|0.94|0.97|app-scientific|Compliance mode enabled, was '0.97'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
@@ -143,6 +143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |bash-completion|2.14.0|2.15.0|app-shells|Compliance mode enabled, was '2.15.0'|
 |basket-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
 |bcachefs-tools|1.9.4|1.13.0|app-admin|Compliance mode enabled, was '1.13.0'|
 |bcc|0.30.0|0.32.0|app-devel|Compliance mode enabled, was '0.32.0'|
 |bcftools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
