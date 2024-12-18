@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734477073?label=Updated)
+![Relative date](https://img.shields.io/date/1734482518?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -70,7 +70,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.47.2.0|lang-python|Compliance mode enabled, was '3.47.2.0'|
 |apt|2.6.1|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
-|aqbanking|6.2.2|6.5.4|runtime-productivity|Compliance mode enabled, was '6.5.4'|
+|aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |archlinux-keyring|20241015|20241203|app-admin|Compliance mode enabled, was '20241203'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
@@ -672,6 +672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gpgme|1.23.2|1.24.1|runtime-cryptography|Compliance mode enabled, was '1.24.1'|
+|gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gradle|8.10.1|8.11.1|lang-java|Compliance mode enabled, was '8.11.1'|
 |granatier|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |grantlee-editor|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -2913,7 +2914,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |z3|4.13.0|4.13.4|app-devel|Compliance mode enabled, was '4.13.4'|
 |zanshin|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
-|zathura|0.5.9|0.5.10|app-doc|Compliance mode enabled, was '0.5.10'|
+|zathura|0.5.9|0.5.11|app-doc|Compliance mode enabled, was '0.5.11'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.163.2|0.165.4|app-editors|Compliance mode enabled, was '0.165.4'|
