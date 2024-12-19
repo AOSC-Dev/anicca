@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734563544?label=Updated)
+![Relative date](https://img.shields.io/date/1734568916?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1864,7 +1864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.3.66|app-games|Compliance mode enabled, was '2.3.66'|
+|pcsx2|1.6.0<br>+git20210825|2.3.70|app-games|Compliance mode enabled, was '2.3.70'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
@@ -2740,7 +2740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.23.0|app-network|Compliance mode enabled, was '5.23.0'|
-|v2ray-rules-dat|202412012212|202412172212|runtime-data|Compliance mode enabled, was '202412172212'<br>Versions not comparable: `202412012212` and `202412172212`|
+|v2ray-rules-dat|202412012212|202412182212|runtime-data|Compliance mode enabled, was '202412182212'<br>Versions not comparable: `202412012212` and `202412182212`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2758,7 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
-|vim|9.1.0906|9.1.0944|app-editors|Compliance mode enabled, was '9.1.0944'|
+|vim|9.1.0906|9.1.0946|app-editors|Compliance mode enabled, was '9.1.0946'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.28.0|lang-python|Compliance mode enabled, was '20.28.0'|
@@ -2804,7 +2804,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
-|wesnoth|1.16.10|1.19.6|app-games|Compliance mode enabled, was '1.19.6'|
+|wesnoth|1.16.10|1.19.7|app-games|Compliance mode enabled, was '1.19.7'|
 |weston|14.0.0|14.0.1|runtime-display|Compliance mode enabled, was '14.0.1'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.45.0|0.45.1|lang-python|Compliance mode enabled, was '0.45.1'|
@@ -2882,7 +2882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.1|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xournalpp|1.1.3|1.2.5|runtime-productivity|Compliance mode enabled, was '1.2.5'|
 |xpra|6.1.2|6.2.2|app-network|Compliance mode enabled, was '6.2.2'|
-|xray|24.11.30|24.12.15|app-network|Compliance mode enabled, was '24.12.15'|
+|xray|24.11.30|24.12.18|app-network|Compliance mode enabled, was '24.12.18'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
