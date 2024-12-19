@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734599499?label=Updated)
+![Relative date](https://img.shields.io/date/1734603121?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -217,7 +217,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |capnproto|0.10.2|1.0.2|runtime-common|Compliance mode enabled, was '1.0.2'|
-|capstone|5.0.1|5.0.3|app-devel|Compliance mode enabled, was '5.0.3'|
 |cargo-c|0.10.2|0.10.7+cargo-0.84.0|lang-rust|Compliance mode enabled, was '0.10.7+cargo-0.84.0'|
 |cargo-release|0.25.10|0.25.14|lang-rust|Compliance mode enabled, was '0.25.14'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
@@ -273,7 +272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
-|cloc|1.84|2.02|app-utils|Compliance mode enabled, was '2.02'|
 |cloud-init|24.2|24.4|app-admin|Compliance mode enabled, was '24.4'|
 |clpeak|1.1.2|1.1.3|app-benchmarks|Compliance mode enabled, was '1.1.3'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
@@ -2512,7 +2510,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.12|app-devel|Compliance mode enabled, was '6.12'|
 |strawberry|1.0.23|1.2.3|app-multimedia|Compliance mode enabled, was '1.2.3'|
 |streamlink|6.7.4|7.0.0|app-multimedia|Compliance mode enabled, was '7.0.0'|
-|stress-ng|0.18.06|0.18.07|app-benchmarks|Compliance mode enabled, was '0.18.07'|
 |strongswan|5.9.4|6.0.0|app-network|Compliance mode enabled, was '6.0.0'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
@@ -2905,7 +2902,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yq|4.44.5|4.44.6|app-devel|Compliance mode enabled, was '4.44.6'|
 |ytmusicapi|1.7.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
-|yubico-piv-tool|2.3.1|2.6.1|app-devices|Compliance mode enabled, was '2.6.1'|
+|yubico-piv-tool|2.3.1|2.7.0|app-devices|Compliance mode enabled, was '2.7.0'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
 |yubioath-desktop|5.1.0|7.1.1|app-devices|Compliance mode enabled, was '7.1.1'|
