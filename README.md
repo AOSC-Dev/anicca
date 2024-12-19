@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734642597?label=Updated)
+![Relative date](https://img.shields.io/date/1734646208?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -176,8 +176,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.84|lang-python|Compliance mode enabled, was '1.35.84'|
-|botocore|1.34.133|1.35.84|lang-python|Compliance mode enabled, was '1.35.84'|
+|boto3|1.20.26|1.35.85|lang-python|Compliance mode enabled, was '1.35.85'|
+|botocore|1.34.133|1.35.85|lang-python|Compliance mode enabled, was '1.35.85'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.17|app-utils|Compliance mode enabled, was '51.17'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.17)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1593,10 +1593,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.33|app-admin|Compliance mode enabled, was '1.6.33'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |merkuro|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|mesa|24.3.0|24.3.1|runtime-display||
-|mesa+32|22.1.7|24.3.1|runtime-optenv32|Compliance mode enabled, was '24.3.1'|
-|mesa-amber|21.3.9|24.3.1|runtime-display|Compliance mode enabled, was '24.3.1'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.1|runtime-display|Compliance mode enabled, was '24.3.1'|
+|mesa|24.3.0|24.3.2|runtime-display||
+|mesa+32|22.1.7|24.3.2|runtime-optenv32|Compliance mode enabled, was '24.3.2'|
+|mesa-amber|21.3.9|24.3.2|runtime-display|Compliance mode enabled, was '24.3.2'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.2|runtime-display|Compliance mode enabled, was '24.3.2'|
 |meson|1.6.0|1.6.1|app-devel|Compliance mode enabled, was '1.6.1'|
 |messagelib|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
