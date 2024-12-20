@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734660808?label=Updated)
+![Relative date](https://img.shields.io/date/1734664627?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1466,8 +1466,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
 |libvpl|2.13.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
 |libwacom|2.4.0|2.14.0|runtime-devices|Compliance mode enabled, was '2.14.0'|
-|libwebp|1.3.1|1.4.0|runtime-imaging|Compliance mode enabled, was '1.4.0'|
-|libwebp+32|0.4.3|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
+|libwebp|1.3.1|1.5.0|runtime-imaging|Compliance mode enabled, was '1.5.0'|
+|libwebp+32|0.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |libwm|20161006|1.3|runtime-display|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20161006 -> 1.3)|
 |libwmf|0.2.8.4|0.2.13|runtime-imaging|Compliance mode enabled, was '0.2.13'|
 |libwnck-3|40.1|43.1|runtime-desktop|Compliance mode enabled, was '43.1'|
@@ -1819,6 +1819,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
 |oslo-serialization|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |oslo-utils|7.2.0|8.0.0|lang-python|Compliance mode enabled, was '8.0.0'|
+|ostree|2024.9|2024.10|app-admin|Compliance mode enabled, was '2024.10'|
 |osu-lazer|2024.1208.0|2024.1219.2|app-games|Compliance mode enabled, was '2024.1219.2'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
