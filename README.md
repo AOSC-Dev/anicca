@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734800741?label=Updated)
+![Relative date](https://img.shields.io/date/1734804820?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -487,7 +487,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
 |ffmpegthumbs|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
-|fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
 |fido2|0.9.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
 |file-roller|3.42.0|44.4|desktop-gnome|Compliance mode enabled, was '44.4'|
@@ -764,7 +763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.122.5|lang-python|Compliance mode enabled, was '6.122.5'|
+|hypothesis-python|6.97.4|6.122.6|lang-python|Compliance mode enabled, was '6.122.6'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -1672,6 +1671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20241212|app-web|Compliance mode enabled, was '20241212'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.31.2|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
+|neovim|0.10.2|0.10.3|app-editors|Compliance mode enabled, was '0.10.3'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.13.1|runtime-containers|Compliance mode enabled, was '1.13.1'|
 |netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
