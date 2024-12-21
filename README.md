@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734793744?label=Updated)
+![Relative date](https://img.shields.io/date/1734797440?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -803,6 +803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.1.12|2.2.3|app-devel|Compliance mode enabled, was '2.2.3'|
 |intel-media-driver|24.3.4|24.4.1|runtime-multimedia|Compliance mode enabled, was '24.4.1'|
+|iosevka-fonts|32.2.1|32.3.0|desktop-fonts|Compliance mode enabled, was '32.3.0'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -1520,6 +1521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
+|lokalize|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
 |lowdown|1.1.2|1.3.2|app-doc|Compliance mode enabled, was '1_3_2'|
 |lpsolve|5.5.2.5|5.6.23|app-scientific|Compliance mode enabled, was '5.6.23'|
@@ -2553,8 +2555,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
 |tbb+32|4.4u4|2022.0.0|runtime-optenv32|Compliance mode enabled, was '2022.0.0'|
-|tcl|8.6.14|9.0.0|lang-tcl|Compliance mode enabled, was '9.0.0'|
-|tcl+32|8.6.10|9.0.0|runtime-optenv32|Compliance mode enabled, was '9.0.0'|
+|tcl|8.6.14|9.0.1|lang-tcl|Compliance mode enabled, was '9.0.1'|
+|tcl+32|8.6.10|9.0.1|runtime-optenv32|Compliance mode enabled, was '9.0.1'|
 |tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
