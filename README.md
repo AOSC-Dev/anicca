@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734818878?label=Updated)
+![Relative date](https://img.shields.io/date/1734822592?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -823,6 +823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ispc|1.25.1|1.25.3|app-devel|Compliance mode enabled, was '1.25.3'|
 |itinerary|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
+|iwd|3.2|3.3|app-network|Compliance mode enabled, was '3.3'|
 |j4-dmenu-desktop|2.17|3.2|app-utils|Compliance mode enabled, was '3.2'|
 |janus|1.0.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
@@ -1726,7 +1727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.19|app-admin|Compliance mode enabled, was '2.0.19'|
 |numix-icon-theme|24.09.18|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
 |numix-icon-theme-circle|24.10.22|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
-|numpy|1.26.4|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|numpy|1.26.4|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvchecker|2.15.1|2.16|app-utils|Compliance mode enabled, was '2.16'|
 |nvidia|560.35.03|565.77|runtime-display|Compliance mode enabled, was '565.77'|
@@ -2529,6 +2530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
+|svgpart|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |sway|1.9|1.10|desktop-wm|Compliance mode enabled, was '1.10'|
 |sweeper|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
