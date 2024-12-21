@@ -35,7 +35,7 @@
 ["lxml-html-clean","0.2.2","0.4.1","lang-python",1728366112,["Compliance mode enabled, was '0.4.1'"]],
 ["python-node-semver","0.8.0","0.9.0","lang-python",1631079145,["Compliance mode enabled, was '0.9.0'"]],
 ["mechanize","0.4.5","0.4.10","lang-python",1581796621,["Compliance mode enabled, was '0.4.10'"]],
-["python-dbusmock","0.22.0","0.33.0","lang-python",1678950872,["Compliance mode enabled, was '0.33.0'"]],
+["python-dbusmock","0.22.0","0.34.0","lang-python",1678950872,["Compliance mode enabled, was '0.34.0'"]],
 ["packaging","23.0","24.2","lang-python",1551164101,["Compliance mode enabled, was '24.2'"]],
 ["pysol-cards","0.14.2","0.18.0","lang-python",1631079140,["Compliance mode enabled, was '0.18.0'"]],
 ["wheezy.template","3.1.0","3.2.3","lang-python",1663210209,["Compliance mode enabled, was '3.2.3'"]],

@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734768726?label=Updated)
+![Relative date](https://img.shields.io/date/1734772299?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2215,7 +2215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-daemonize|2.5.0|3.9.0|lang-python|Compliance mode enabled, was '3.9.0'|
-|python-dbusmock|0.22.0|0.33.0|lang-python|Compliance mode enabled, was '0.33.0'|
+|python-dbusmock|0.22.0|0.34.0|lang-python|Compliance mode enabled, was '0.34.0'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
 |python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
