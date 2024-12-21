@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734804820?label=Updated)
+![Relative date](https://img.shields.io/date/1734807916?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -271,6 +271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clazy|1.11|1.12|app-devel|Compliance mode enabled, was '1.12'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
+|click|8.1.7|8.1.8|lang-python|Compliance mode enabled, was '8.1.8'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloud-init|24.2|24.4|app-admin|Compliance mode enabled, was '24.4'|
@@ -487,6 +488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
 |ffmpegthumbs|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
+|fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
 |fido2|0.9.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
 |file-roller|3.42.0|44.4|desktop-gnome|Compliance mode enabled, was '44.4'|
@@ -2367,6 +2369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
 |sanlock|3.8.5|3.9.5|app-admin|Compliance mode enabled, was '3.9.5'|
+|sarasa-gothic-fonts|1.0.25|1.0.26|desktop-fonts|Compliance mode enabled, was '1.0.26'|
 |sass-listen|4.0.0|3.9.0|lang-ruby|Compliance mode enabled, was '3.9.0'<br>Possible downgrade from the current version (4.0.0 -> 3.9.0)|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc+32|1.3|2.0|runtime-optenv32|Compliance mode enabled, was '2.0'|
