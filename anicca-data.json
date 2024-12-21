@@ -505,7 +505,6 @@
 ["strongswan","5.9.4","6.0.0","app-network",1635182670,["Compliance mode enabled, was '6.0.0'"]],
 ["grpc","1.64.0","1.68.2","app-network",1717130892,["Compliance mode enabled, was '1.68.2'"]],
 ["ufw","0.36","0.36.2","app-network",1550814485,["Compliance mode enabled, was '0.36.2'"]],
-["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
 ["libteam","1.31","1.32","app-network",1629005021,["Compliance mode enabled, was '1.32'"]],
 ["hysteria","2.5.1","2.6.0","app-network",1725112216,["Compliance mode enabled, was '2.6.0'"]],
 ["vpnc","0.5.3r550","0.5.3","app-network",1678950872,["Compliance mode enabled, was '0.5.3'"]],
