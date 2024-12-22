@@ -1020,7 +1020,7 @@
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
 ["a52dec+32","0.7.4","0.8.0","runtime-optenv32",1461511523,["Compliance mode enabled, was '0.8.0'"]],
 ["nano","8.2","8.3","app-editors",1725610967,[]],
-["vim","9.1.0906","9.1.0950","app-editors",1733481519,["Compliance mode enabled, was '9.1.0950'"]],
+["vim","9.1.0906","9.1.0951","app-editors",1733481519,["Compliance mode enabled, was '9.1.0951'"]],
 ["zed","0.163.2","0.166.1","app-editors",1732786833,["Compliance mode enabled, was '0.166.1'"]],
 ["vscodium","1.96.0.24347","1.96.2.24355","app-editors",1734107601,["Compliance mode enabled, was '1.96.2.24355'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
