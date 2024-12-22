@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734869717?label=Updated)
+![Relative date](https://img.shields.io/date/1734873254?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -120,7 +120,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
-|autobuild4|4.6.6|4.6.5|app-devel|Compliance mode enabled, was '4.6.5'<br>Possible downgrade from the current version (4.6.6 -> 4.6.5)|
+|autobuild4|4.6.6|4.6.7|app-devel|Compliance mode enabled, was '4.6.7'|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automat|20.2.0|24.8.1|lang-python|Compliance mode enabled, was '24.8.1'|
 |avahi-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -249,7 +249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.0|app-devel|Compliance mode enabled, was '3.0.0'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|chinadns-ng|2024.07.16|2024.11.17|app-web|Compliance mode enabled, was '2024.11.17'|
+|chinadns-ng|2024.07.16|2024.12.22|app-web|Compliance mode enabled, was '2024.12.22'|
 |chisel|1.10.0|1.10.1|app-network|Compliance mode enabled, was '1.10.1'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
@@ -304,7 +304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.21|2.0.1|app-containers|Compliance mode enabled, was '2.0.1'|
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |coreboot-utils|24.08|24.12|app-admin|Compliance mode enabled, was '24.12'|
-|corefreq|20170301|1.98.7|app-utils|Compliance mode enabled, was '1.98.7'<br>Possible downgrade from the current version (20170301 -> 1.98.7)|
+|corefreq|20170301|1.98.8|app-utils|Compliance mode enabled, was '1.98.8'<br>Possible downgrade from the current version (20170301 -> 1.98.8)|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
 |cpp-utilities|5.20.0|5.27.0|runtime-common|Compliance mode enabled, was '5.27.0'|
 |cppcheck|2.8|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
@@ -421,7 +421,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dracut-ng|103|105|app-admin|Compliance mode enabled, was '105'|
 |dragon|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |drkonqi|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
-|drumstick|2.9.0|2.9.1|app-creativity|Compliance mode enabled, was '2.9.1'|
+|drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
@@ -2509,6 +2509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sssd|2.9.5|2.10.1|app-admin|Compliance mode enabled, was '2.10.1'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
 |steam|1.0.0.81|1.0.0.82|app-games|Compliance mode enabled, was '1.0.0.82'|
+|stellarium|24.3|24.4|app-scientific|Compliance mode enabled, was '24.4'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |stevedore|5.2.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
