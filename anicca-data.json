@@ -2637,6 +2637,7 @@
 ["subversion","1.14.3","1.14.5","app-vcs",1724545956,["Compliance mode enabled, was '1.14.5'"]],
 ["mercurial","6.8.1","6.9","app-vcs",1728998119,["Compliance mode enabled, was '6.9'"]],
 ["git-cliff","2.4.0","2.7.0","app-vcs",1721525702,["Compliance mode enabled, was '2.7.0'"]],
+["gitoxide","0.39.0","0.40.0","app-vcs",1732978520,["Compliance mode enabled, was '0.40.0'"]],
 ["linux+kernel+rc","5.8.0","5.19.17","runtime-kernel",1678950872,["Compliance mode enabled, was '5.19.17'"]],
 ["linux-kernel-lts","6.6.63","5.19.17","runtime-kernel",1732598559,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.6.63 -> 5.19.17)"]],
 ["sof-firmware","2024.09.1","2024.09.2","runtime-kernel",1732020595,["Compliance mode enabled, was '2024.09.2'"]],
