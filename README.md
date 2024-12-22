@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734883910?label=Updated)
+![Relative date](https://img.shields.io/date/1734887266?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -40,6 +40,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-import-wizard|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |akonadi-mime|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |akonadi-notes|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
+|akonadi-search|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |akonadiconsole|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |akregator|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
@@ -127,6 +128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-binutils|2.37|2.43.1|app-devel|Compliance mode enabled, was '2.43.1'|
 |avr-gcc|10.3.1<br>+git20210510|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
+|avrdude|6.3|8.0|app-devel|Compliance mode enabled, was '8.0'|
 |ayatana-indicator-messages|0.8.2|24.5.0|runtime-desktop|Compliance mode enabled, was '24.5.0'|
 |b2sdk|2.5.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
