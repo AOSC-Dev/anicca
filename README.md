@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734858817?label=Updated)
+![Relative date](https://img.shields.io/date/1734862202?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -120,6 +120,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
+|autobuild4|4.6.6|4.6.5|app-devel|Compliance mode enabled, was '4.6.5'<br>Possible downgrade from the current version (4.6.6 -> 4.6.5)|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automat|20.2.0|24.8.1|lang-python|Compliance mode enabled, was '24.8.1'|
 |avahi-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -501,6 +502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firefox|133.0|133.0.3|app-web|Compliance mode enabled, was '133.0.3'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |flacon|11.4.0|11.99.1|app-multimedia|Compliance mode enabled, was '11.99.1'|
+|flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |flat-remix-icon-theme|20191122|20240201|desktop-themes|Compliance mode enabled, was '20240201'|
@@ -2419,7 +2421,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
-|sing-box|1.10.3|1.10.5|app-network|Compliance mode enabled, was '1.10.5'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
@@ -2535,7 +2536,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.3.0|app-devel|Compliance mode enabled, was '4.3.0'|
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
 |sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
-|synaptic|0.90.2|0.91.3|app-admin|Compliance mode enabled, was '0.91.3'|
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
 |syndication|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
@@ -2731,7 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
-|urllib3|2.2.1|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
+|urllib3|2.2.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
 |usb-modeswitch|2.6.0|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
