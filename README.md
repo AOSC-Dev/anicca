@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734837635?label=Updated)
+![Relative date](https://img.shields.io/date/1734840758?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -256,7 +256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|127.0.6533.119|131.0.6778.204|app-web|Compliance mode enabled, was '131.0.6778.204'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.5.2|3.7.2|app-devel|Compliance mode enabled, was '3.7.2'|
+|ciel|3.5.2|3.8.0|app-devel|Compliance mode enabled, was '3.8.0'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.4.3|groups|Compliance mode enabled, was '6.4.3'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -321,7 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20241215.0|app-devel|Compliance mode enabled, was '6.1.20241215.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241215.0)|
+|ctags|20191203|6.1.20241222.0|app-devel|Compliance mode enabled, was '6.1.20241222.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20241222.0)|
 |cuda|12.5.0|12.6.3|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.0|app-admin|Compliance mode enabled, was '2.1.0'|
@@ -967,7 +967,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kfilemetadata|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kfind|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kfloppy|23.04.3|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|kfourinline|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kgamma|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kgeography|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kget|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -1665,8 +1664,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20241214|runtime-common|Compliance mode enabled, was '6.5-20241214'|
-|ncurses+32|6.4|6.5+20241214|runtime-optenv32|Compliance mode enabled, was '6.5-20241214'|
+|ncurses|6.4|6.5+20241221|runtime-common|Compliance mode enabled, was '6.5-20241221'|
+|ncurses+32|6.4|6.5+20241221|runtime-optenv32|Compliance mode enabled, was '6.5-20241221'|
 |neatvnc|0.7.1|0.9.2|runtime-network|Compliance mode enabled, was '0.9.2'|
 |nemo|5.8.3|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
