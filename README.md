@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734905319?label=Updated)
+![Relative date](https://img.shields.io/date/1734908936?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1381,7 +1381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.43|1.6.44|runtime-optenv32|Compliance mode enabled, was '1.6.44'|
 |libportal|0.8.1|0.9.0|runtime-desktop|Compliance mode enabled, was '0.9.0'|
 |libppd|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
-|libpqxx|6.4.5|7.9.2|runtime-database|Compliance mode enabled, was '7.9.2'|
+|libpqxx|6.4.5|7.10.0|runtime-database|Compliance mode enabled, was '7.10.0'|
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
@@ -2743,7 +2743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.23.0|app-network|Compliance mode enabled, was '5.23.0'|
-|v2ray-rules-dat|202412012212|202412212211|runtime-data|Compliance mode enabled, was '202412212211'<br>Versions not comparable: `202412012212` and `202412212211`|
+|v2ray-rules-dat|202412012212|202412222211|runtime-data|Compliance mode enabled, was '202412222211'<br>Versions not comparable: `202412012212` and `202412222211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
