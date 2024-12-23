@@ -1784,7 +1784,7 @@
 ["ruby","3.2.2","3.3.6","lang-ruby",1696572712,["Compliance mode enabled, was '3.3.6'"]],
 ["mini-portile","2.8.6","2.8.8","lang-ruby",1716731238,["Compliance mode enabled, was '2.8.8'"]],
 ["kramdown","2.4.0","2.5.1","lang-ruby",1716737114,["Compliance mode enabled, was '2.5.1'"]],
-["ruby-bundler","2.1.4","2.6.1","lang-ruby",1616134410,["Compliance mode enabled, was '2.6.1'"]],
+["ruby-bundler","2.1.4","2.6.2","lang-ruby",1616134410,["Compliance mode enabled, was '2.6.2'"]],
 ["ruby-pg","1.1.4","1.5.9","lang-ruby",1551292568,["Compliance mode enabled, was '1.5.9'"]],
 ["ruby-native-package-installer","1.0.9","1.1.9","lang-ruby",1577021892,["Compliance mode enabled, was '1.1.9'"]],
 ["ruby-pkg-config","1.4.4","1.5.8","lang-ruby",1701374600,["Compliance mode enabled, was '1.5.8'"]],
@@ -2831,6 +2831,7 @@
 ["aqbanking","6.2.2","6.6.0","runtime-productivity",1596488999,["Compliance mode enabled, was '6.6.0'"]],
 ["libetonyek","0.1.9","0.1.12","runtime-productivity",1549264865,["Compliance mode enabled, was '0.1.12'"]],
 ["libvisio","0.1.7","0.1.8","runtime-productivity",1721223235,["Compliance mode enabled, was '0.1.8'"]],
+["libical","3.0.18","3.0.19","runtime-productivity",1721223235,["Compliance mode enabled, was '3.0.19'"]],
 ["cairosvg","2.5.2","2.7.1","app-imaging",1658966837,["Compliance mode enabled, was '2.7.1'"]],
 ["argyllcms","3.1.0","3.3.0","app-imaging",1709171878,["Compliance mode enabled, was '3.3.0'"]],
 ["glslang","13.1.1","15.1.0","app-imaging",1699859032,["Compliance mode enabled, was '15.1.0'"]],
@@ -2905,7 +2906,7 @@
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
 ["certbot-dns-cloudflare","2.10.0","3.0.1","app-web",1716728302,["Compliance mode enabled, was '3.0.1'"]],
 ["certbot-apache","2.10.0","3.0.1","app-web",1716728517,["Compliance mode enabled, was '3.0.1'"]],
-["qownnotes","22.6.1","24.12.5","app-web",1659588927,["Compliance mode enabled, was '24.12.5'"]],
+["qownnotes","22.6.1","24.12.6","app-web",1659588927,["Compliance mode enabled, was '24.12.6'"]],
 ["chinadns-ng","2024.07.16","2024.12.22","app-web",1721316608,["Compliance mode enabled, was '2024.12.22'"]],
 ["midori","9.0","11.5","app-web",1569636491,["Compliance mode enabled, was '11.5'"]],
 ["thunderbird","128.5.1","128.5.2","app-web",1733824725,[]],
@@ -2918,6 +2919,6 @@
 ["sozu","0.15.2","1.0.6","app-web",1696572712,["Compliance mode enabled, was '1.0.6'"]],
 ["nginx","1.27.1","1.27.3","app-web",1727187268,["Compliance mode enabled, was '1.27.3'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
-["hugo","0.139.3","0.140.0","app-web",1733051887,["Compliance mode enabled, was '0.140.0'"]],
+["hugo","0.139.3","0.140.1","app-web",1733051887,["Compliance mode enabled, was '0.140.1'"]],
 ["forgejo","9.0.0","9.0.3","app-web",1729576926,["Compliance mode enabled, was '9.0.3'"]]
 ]

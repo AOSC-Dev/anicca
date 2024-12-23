@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734977687?label=Updated)
+![Relative date](https://img.shields.io/date/1734980853?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -762,7 +762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2024.0.1|app-creativity|Compliance mode enabled, was '2024.0.1'|
-|hugo|0.139.3|0.140.0|app-web|Compliance mode enabled, was '0.140.0'|
+|hugo|0.139.3|0.140.1|app-web|Compliance mode enabled, was '0.140.1'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwinfo|23.2|23.3|app-utils|Compliance mode enabled, was '23.3'|
@@ -1288,6 +1288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgxps|0.2.5|0.3.2|runtime-doc|Compliance mode enabled, was '0.3.2'|
 |libhangul|0.1.0<br>+git20210406|0.1.0|runtime-i18n|Compliance mode enabled, was '0.1.0'|
 |libheif|1.17.6|1.19.5|runtime-imaging|Compliance mode enabled, was '1.19.5'|
+|libical|3.0.18|3.0.19|runtime-productivity|Compliance mode enabled, was '3.0.19'|
 |libid3tag|0.15.1b|0.16.3|runtime-multimedia|Compliance mode enabled, was '0.16.3'|
 |libid3tag+32|0.15.1b|0.16.3|runtime-optenv32|Compliance mode enabled, was '0.16.3'|
 |libidn|1.41|1.42|runtime-network|Compliance mode enabled, was '1.42'|
@@ -2258,7 +2259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.2|app-multimedia|Compliance mode enabled, was '2.2.2'|
-|qownnotes|22.6.1|24.12.5|app-web|Compliance mode enabled, was '24.12.5'|
+|qownnotes|22.6.1|24.12.6|app-web|Compliance mode enabled, was '24.12.6'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
@@ -2348,7 +2349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.2.2|3.3.6|lang-ruby|Compliance mode enabled, was '3.3.6'|
-|ruby-bundler|2.1.4|2.6.1|lang-ruby|Compliance mode enabled, was '2.6.1'|
+|ruby-bundler|2.1.4|2.6.2|lang-ruby|Compliance mode enabled, was '2.6.2'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.5.0|lang-ruby|Compliance mode enabled, was '3.5.0'|
 |ruby-locale|2.1.3|2.1.4|lang-ruby|Compliance mode enabled, was '2.1.4'|
