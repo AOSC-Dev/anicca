@@ -1417,6 +1417,7 @@
 ["sphinxcontrib-devhelp","1.0.2","2.0.0","app-doc",1584399079,["Compliance mode enabled, was '2.0.0'"]],
 ["sphinxcontrib-htmlhelp","2.0.0","2.1.0","app-doc",1631166650,["Compliance mode enabled, was '2.1.0'"]],
 ["tealdeer","1.6.1","1.7.1","app-doc",1680558295,["Compliance mode enabled, was '1.7.1'"]],
+["pandoc","3.6","3.6.1","app-doc",1734107526,["Compliance mode enabled, was '3.6.1'"]],
 ["sphinx-press-theme","0.8.0","0.9.1","app-doc",1682100878,["Compliance mode enabled, was '0.9.1'"]],
 ["sphinxbase","5prealpha","0.8","app-doc",1469457032,["Compliance mode enabled, was '0.8'","Possible downgrade from the current version (5prealpha -> 0.8)"]],
 ["xreader","4.2.2","4.2.3","app-doc",1732500483,["Compliance mode enabled, was '4.2.3'"]],
