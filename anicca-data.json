@@ -1313,7 +1313,7 @@
 ["perl-html-tagset","3.20","3.24","lang-perl",1678950872,["Compliance mode enabled, was '3.24'"]],
 ["perl-module-find","0.13","0.16","lang-perl",1488651588,["Compliance mode enabled, was '0.16'"]],
 ["perl-try-tiny","0.30","0.32","lang-perl",1530196414,["Compliance mode enabled, was '0.32'"]],
-["perl-specio","0.46","0.48","lang-perl",1596485705,["Compliance mode enabled, was '0.48'"]],
+["perl-specio","0.46","0.49","lang-perl",1596485705,["Compliance mode enabled, was '0.49'"]],
 ["perl-net-server","2.009","2.014","lang-perl",1530196414,["Compliance mode enabled, was '2.014'"]],
 ["perl-extutils-config","0.008","0.010","lang-perl",1678950872,["Compliance mode enabled, was '0.010'"]],
 ["perl-email-mime","1.946","1.954","lang-perl",1530196415,["Compliance mode enabled, was '1.954'"]],
