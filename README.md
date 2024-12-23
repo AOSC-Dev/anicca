@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1734984680?label=Updated)
+![Relative date](https://img.shields.io/date/1734988172?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -178,8 +178,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.86|lang-python|Compliance mode enabled, was '1.35.86'|
-|botocore|1.34.133|1.35.86|lang-python|Compliance mode enabled, was '1.35.86'|
+|boto3|1.20.26|1.35.87|lang-python|Compliance mode enabled, was '1.35.87'|
+|botocore|1.34.133|1.35.87|lang-python|Compliance mode enabled, was '1.35.87'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.17|app-utils|Compliance mode enabled, was '51.17'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.17)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -232,7 +232,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdemu-client|3.2.4|3.2.5|app-multimedia|Compliance mode enabled, was '3.2.5'|
 |cdemu-daemon|3.2.4|3.2.7|app-multimedia|Compliance mode enabled, was '3.2.7'|
-|cerberus|1.3.2|1.3.5|lang-python|Compliance mode enabled, was '1.3.5'|
+|cerberus|1.3.2|1.3.6|lang-python|Compliance mode enabled, was '1.3.6'|
 |certbot|2.11.0|3.0.1|groups|Compliance mode enabled, was '3.0.1'|
 |certbot-apache|2.10.0|3.0.1|app-web|Compliance mode enabled, was '3.0.1'|
 |certbot-dns-cloudflare|2.10.0|3.0.1|app-web|Compliance mode enabled, was '3.0.1'|
@@ -2791,7 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.7|desktop-cinnamon|Compliance mode enabled, was '1.8.7'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|4.9.0|2024.12.16.00|app-utils|Compliance mode enabled, was '2024.12.16.00'|
+|watchman|4.9.0|2024.12.23.00|app-utils|Compliance mode enabled, was '2024.12.23.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
