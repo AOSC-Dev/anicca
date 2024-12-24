@@ -232,7 +232,7 @@
 ["python-pam","1.8.4","2.0.2","lang-python",1538255786,["Compliance mode enabled, was '2.0.2'"]],
 ["sqlalchemy","1.2.18","2.0.36","lang-python",1562660778,["Compliance mode enabled, was '2.0.36'"]],
 ["trio","0.24.0","0.27.0","lang-python",1708685051,["Compliance mode enabled, was '0.27.0'"]],
-["charset-normalizer","2.0.9","3.4.0","lang-python",1640872407,["Compliance mode enabled, was '3.4.0'"]],
+["charset-normalizer","2.0.9","3.4.1","lang-python",1640872407,["Compliance mode enabled, was '3.4.1'"]],
 ["pyusb","1.0.2","1.2.1","lang-python",1531753542,["Compliance mode enabled, was '1.2.1'"]],
 ["urllib3","2.2.1","2.3.0","lang-python",1714209798,["Compliance mode enabled, was '2.3.0'"]],
 ["puremagic","1.15","1.28","lang-python",1707299111,["Compliance mode enabled, was '1.28'"]],
