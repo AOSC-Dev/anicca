@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735046234?label=Updated)
+![Relative date](https://img.shields.io/date/1735049444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -340,7 +340,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |damo|2.4.7|2.6.1|app-admin|Compliance mode enabled, was '2.6.1'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dar|2.7.15|2.7.16|app-utils|Compliance mode enabled, was '2.7.16'|
-|darktable|4.8.1|5.0.0|app-creativity|Compliance mode enabled, was '5.0.0'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
@@ -797,6 +796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick+7|7.1.1<br>+32|7.1.1+41|app-utils|Compliance mode enabled, was '7.1.1-41'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
+|imhex|1.35.4|1.36.0|app-editors|Compliance mode enabled, was '1.36.0'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
@@ -804,7 +804,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |incremental|17.5.0|24.7.2|lang-python|Compliance mode enabled, was '24.7.2'|
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
-|intel-compute-runtime|24.45.31740.9|24.48.31907.6|runtime-scientific|Compliance mode enabled, was '24.48.31907.6'|
+|intel-compute-runtime|24.45.31740.9|24.48.31907.7|runtime-scientific|Compliance mode enabled, was '24.48.31907.7'|
 |intel-gmmlib|22.5.4|22.5.5|runtime-devices|Compliance mode enabled, was '22.5.5'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.1.12|2.2.3|app-devel|Compliance mode enabled, was '2.2.3'|
@@ -1819,6 +1819,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
 |oslo-serialization|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |oslo-utils|7.2.0|8.0.0|lang-python|Compliance mode enabled, was '8.0.0'|
+|osu-lazer|2024.1219.2|2024.1224.0|app-games|Compliance mode enabled, was '2024.1224.0'|
 |owntone|28.9|28.10|app-multimedia|Compliance mode enabled, was '28.10'|
 |oxygen|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |oxygen-icons|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
@@ -1866,8 +1867,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
-|pcsclite|1.9.9|2.3.0|app-devices|Compliance mode enabled, was '2.3.0'|
-|pcsx2|1.6.0<br>+git20210825|2.3.72|app-games|Compliance mode enabled, was '2.3.72'|
+|pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
+|pcsx2|1.6.0<br>+git20210825|2.3.73|app-games|Compliance mode enabled, was '2.3.73'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
