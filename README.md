@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735071080?label=Updated)
+![Relative date](https://img.shields.io/date/1735074444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1018,7 +1018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kitinerary|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kitty|0.36.2|0.38.0|app-utils|Compliance mode enabled, was '0.38.0'|
-|kiwisolver|1.0.1|1.4.7|lang-python|Compliance mode enabled, was '1.4.7'|
+|kiwisolver|1.0.1|1.4.8|lang-python|Compliance mode enabled, was '1.4.8'|
 |kjobwidgets|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kjournald|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kjs|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
@@ -2756,7 +2756,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |verilator|5.026|5.030|app-electronics|Compliance mode enabled, was '5.030'|
 |versioningit|3.0.0|3.1.2|app-devel|Compliance mode enabled, was '3.1.2'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
-|vice|3.5|3.8|app-emulation|Compliance mode enabled, was '3.8'|
+|vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
