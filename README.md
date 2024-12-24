@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735042725?label=Updated)
+![Relative date](https://img.shields.io/date/1735046234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2850,6 +2850,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
+|xfce4-battery-plugin|1.1.5|1.1.6|desktop-xfce|Compliance mode enabled, was '1.1.6'|
+|xfce4-calculator-plugin|0.7.2|0.7.3|desktop-xfce|Compliance mode enabled, was '0.7.3'|
+|xfce4-clipman-plugin|1.6.6|1.6.7|desktop-xfce|Compliance mode enabled, was '1.6.7'|
+|xfce4-cpufreq-plugin|1.2.8|1.2.9|desktop-xfce|Compliance mode enabled, was '1.2.9'|
 |xfce4-dict|0.8.8|0.8.4|desktop-xfce|Compliance mode enabled, was '0.8.4'<br>Possible downgrade from the current version (0.8.8 -> 0.8.4)|
 |xfce4-screensaver|4.18.3|4.18.4|desktop-xfce|Compliance mode enabled, was '4.18.4'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
