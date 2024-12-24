@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735000776?label=Updated)
+![Relative date](https://img.shields.io/date/1735006387?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1693,7 +1693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle+32|3.7.2|3.10|runtime-optenv32|Compliance mode enabled, was '3.10'|
 |networkmanager|1.40.6|1.50.1|app-network|Compliance mode enabled, was '1.50.1'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
-|networkmanager-l2tp|1.8.6|1.20.18|app-network|Compliance mode enabled, was '1.20.18'|
+|networkmanager-l2tp|1.8.6|1.20.20|app-network|Compliance mode enabled, was '1.20.20'|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
 |networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
 |networkmanager-qt|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
@@ -1844,7 +1844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm-2.48|2.50.1|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
-|parallel|20191122|20241122|app-utils|Compliance mode enabled, was '20241122'|
+|parallel|20191122|20241222|app-utils|Compliance mode enabled, was '20241222'|
 |paramiko|2.10.3|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |pari|2.13.1|2.17.0|app-scientific|Compliance mode enabled, was '2.17.0'|
 |parley|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
