@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735107269?label=Updated)
+![Relative date](https://img.shields.io/date/1735110670?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1130,6 +1130,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kshowmail-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kshutdown-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksirk|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
+|ksmtp|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ksnakeduel|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kspaceduel|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ksplash-engine-moodin-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2347,7 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|lang-python|Compliance mode enabled, was '0.18.6'|
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
-|ruby|3.2.2|3.3.6|lang-ruby|Compliance mode enabled, was '3.3.6'|
+|ruby|3.2.2|3.4.0|lang-ruby|Compliance mode enabled, was '3.4.0'|
 |ruby-bundler|2.1.4|2.6.2|lang-ruby|Compliance mode enabled, was '2.6.2'|
 |ruby-ffi|1.10.0|1.17.0|lang-ruby|Compliance mode enabled, was '1.17.0'|
 |ruby-gettext|3.2.9|3.5.0|lang-ruby|Compliance mode enabled, was '3.5.0'|
@@ -2718,6 +2719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
 |unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |unifont|16.0.01|16.0.02|desktop-fonts|Compliance mode enabled, was '16.0.02'|
+|units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
 |unrar|6.2.2|7.1.2|app-utils|Compliance mode enabled, was '7.1.2'|
