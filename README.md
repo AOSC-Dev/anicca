@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735087155?label=Updated)
+![Relative date](https://img.shields.io/date/1735092686?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -918,7 +918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbg-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kdbusaddons|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kdbusnotification-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kddockwidgets|1.3.1|2.2.0|runtime-desktop|Compliance mode enabled, was '2.2.0'|
+|kddockwidgets|1.3.1|2.2.1|runtime-desktop|Compliance mode enabled, was '2.2.1'|
 |kde-cli-tools|5.27.11|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
 |kde-dev-scripts|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kde-dev-utils|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -2740,7 +2740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.23.0|app-network|Compliance mode enabled, was '5.23.0'|
-|v2ray-rules-dat|202412012212|202412232211|runtime-data|Compliance mode enabled, was '202412232211'<br>Versions not comparable: `202412012212` and `202412232211`|
+|v2ray-rules-dat|202412012212|202412242211|runtime-data|Compliance mode enabled, was '202412242211'<br>Versions not comparable: `202412012212` and `202412242211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
