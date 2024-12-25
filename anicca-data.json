@@ -1166,7 +1166,6 @@
 ["libnl","3.9.0","3.11.0","runtime-network",1716597518,["Compliance mode enabled, was '3.11.0'"]],
 ["libproxy","0.5.6","0.5.9","runtime-network",1716352034,["Compliance mode enabled, was '0.5.9'"]],
 ["libasr","1.0.4","7.6.0p1","runtime-network",1582089216,["Compliance mode enabled, was '7.6.0p1'"]],
-["neatvnc","0.7.1","0.9.2","runtime-network",1699859032,["Compliance mode enabled, was '0.9.2'"]],
 ["libssh","0.8.9","0.11.1","runtime-network",1550547634,["Compliance mode enabled, was '0.11.1'"]],
 ["libidn","1.41","1.42","runtime-network",1701855899,["Compliance mode enabled, was '1.42'"]],
 ["libipset","1.1.1+git20150311","1.1.1","runtime-network",1657654316,["Compliance mode enabled, was '1.1.1'"]],
