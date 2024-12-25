@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735143111?label=Updated)
+![Relative date](https://img.shields.io/date/1735146420?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -587,6 +587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+93 -> 1.9.0)|
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
+|gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cliff|2.4.0|2.7.0|app-vcs|Compliance mode enabled, was '2.7.0'|
 |git-lfs|3.5.1|3.6.0|app-devel|Compliance mode enabled, was '3.6.0'|
@@ -962,7 +963,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kernel-tools|6.11.10|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
 |kexec-tools|2.0.29|2.0.30|app-admin|Compliance mode enabled, was '2.0.30'|
 |keximdb-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|keyring|21.7.0|25.5.0|lang-python|Compliance mode enabled, was '25.5.0'|
+|keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
 |keysmith|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |keystoneauth1|5.7.0|5.9.1|lang-python|Compliance mode enabled, was '5.9.1'|
 |keystoneclient|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
@@ -1709,7 +1710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
-|nokogiri|1.16.7|1.17.2|lang-ruby|Compliance mode enabled, was '1.17.2'|
+|nokogiri|1.16.7|1.18.0|lang-ruby|Compliance mode enabled, was '1.18.0'|
 |nomino|1.3.1|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
@@ -2862,10 +2863,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-mailwatch-plugin|1.3.1|1.3.2|desktop-xfce|Compliance mode enabled, was '1.3.2'|
 |xfce4-mpc-plugin|0.5.3|0.5.5|desktop-xfce|Compliance mode enabled, was '0.5.5'|
 |xfce4-netload-plugin|1.4.1|1.4.2|desktop-xfce|Compliance mode enabled, was '1.4.2'|
+|xfce4-panel-profiles|1.0.14|1.0.15|desktop-xfce|Compliance mode enabled, was '1.0.15'|
 |xfce4-screensaver|4.18.3|4.18.4|desktop-xfce|Compliance mode enabled, was '4.18.4'|
 |xfce4-sensors-plugin|1.4.4|1.4.5|desktop-xfce|Compliance mode enabled, was '1.4.5'|
 |xfce4-smartbookmark-plugin|0.5.2|0.5.3|desktop-xfce|Compliance mode enabled, was '0.5.3'|
 |xfce4-stopwatch-plugin|0.5.0|0.5.2|desktop-xfce|Compliance mode enabled, was '0.5.2'|
+|xfce4-taskmanager|1.5.7|1.5.8|desktop-xfce|Compliance mode enabled, was '1.5.8'|
+|xfce4-terminal|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-timer-plugin|1.7.2|1.7.3|desktop-xfce|Compliance mode enabled, was '1.7.3'|
 |xfce4-wavelan-plugin|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
