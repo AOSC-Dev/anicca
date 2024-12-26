@@ -2731,7 +2731,7 @@
 ["tlp","1.6.1","1.7.0","app-admin",1706433317,["Compliance mode enabled, was '1.7.0'"]],
 ["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
 ["nut","2.7.4","2.8.2","app-admin",1625211684,["Compliance mode enabled, was '2.8.2'"]],
-["debconf","1.5.87","1.5.88","app-admin",1721232915,["Compliance mode enabled, was '1.5.88'"]],
+["debconf","1.5.87","1.5.89","app-admin",1721232915,["Compliance mode enabled, was '1.5.89'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
 ["zfs","2.2.7","2.3.99","app-admin",1734326597,["Compliance mode enabled, was '2.3.99'"]],
 ["appstream","1.0.3","1.0.4","app-admin",1735016113,["Compliance mode enabled, was '1.0.4'"]],
