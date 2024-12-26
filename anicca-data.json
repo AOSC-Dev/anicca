@@ -2027,7 +2027,7 @@
 ["difftastic","0.60.0","0.62.0","app-utils",1722690400,["Compliance mode enabled, was '0.62.0'"]],
 ["nvchecker","2.15.1","2.16","app-utils",1728440417,["Compliance mode enabled, was '2.16'"]],
 ["showmethekey","1.14.0","1.17.0","app-utils",1727454202,["Compliance mode enabled, was '1.17.0'"]],
-["eza","0.19.0","0.20.13","app-utils",1723455543,["Compliance mode enabled, was '0.20.13'"]],
+["eza","0.19.0","0.20.14","app-utils",1723455543,["Compliance mode enabled, was '0.20.14'"]],
 ["xarchiver","0.5.4.15","0.5.4.23","app-utils",1600708589,["Compliance mode enabled, was '0.5.4.23'"]],
 ["kbd","2.5.1","2.7.1","app-utils",1674452224,["Compliance mode enabled, was '2.7.1'"]],
 ["xss-lock","0.3.0+git20140302","0.3.0","app-utils",1609646610,["Compliance mode enabled, was '0.3.0'"]],
