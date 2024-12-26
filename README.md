@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735183001?label=Updated)
+![Relative date](https://img.shields.io/date/1735186473?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -805,10 +805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |incremental|17.5.0|24.7.2|lang-python|Compliance mode enabled, was '24.7.2'|
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
-|intel-compute-runtime|24.45.31740.9|24.48.31907.7|runtime-scientific|Compliance mode enabled, was '24.48.31907.7'|
-|intel-gmmlib|22.5.4|22.5.5|runtime-devices|Compliance mode enabled, was '22.5.5'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
-|intel-graphics-compiler|2.1.12|2.2.3|app-devel|Compliance mode enabled, was '2.2.3'|
 |intel-media-driver|24.3.4|24.4.4|runtime-multimedia|Compliance mode enabled, was '24.4.4'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -1602,7 +1599,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meson|1.6.0|1.6.1|app-devel|Compliance mode enabled, was '1.6.1'|
 |messagelib|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
-|metee|4.2.1|4.3.0|runtime-devices|Compliance mode enabled, was '4.3.0'|
 |mgba|0.10.3|0.10.4|app-games|Compliance mode enabled, was '0.10.4'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.5|app-web|Compliance mode enabled, was '11.5'|
