@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735290735?label=Updated)
+![Relative date](https://img.shields.io/date/1735294339?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2116,7 +2116,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.3|runtime-multimedia|Compliance mode enabled, was '4.1.3'|
 |protobuf|25.2|29.2|runtime-common|Compliance mode enabled, was '29.2'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
-|psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.11.0|3.15.2|app-admin|Compliance mode enabled, was '3.15.2'|
 |pstoedit|3.75|4.02|app-doc|Compliance mode enabled, was '4.02'|
 |psutils|3.3.2|3.3.7|lang-python|Compliance mode enabled, was '3.3.7'|
@@ -2274,6 +2273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.2.0|app-devices|Compliance mode enabled, was '1.2.0'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
 |rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
+|rbw|1.12.1|1.13.0|app-utils|Compliance mode enabled, was '1.13.0'|
 |rclone|1.68.0|1.68.2|app-web|Compliance mode enabled, was '1.68.2'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdflib|6.2.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
