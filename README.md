@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735326344?label=Updated)
+![Relative date](https://img.shields.io/date/1735330279?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -514,7 +514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.1|app-multimedia|Compliance mode enabled, was '2.4.1'|
 |fluidsynth+32|1.1.6|2.4.1|runtime-optenv32|Compliance mode enabled, was '2.4.1'|
-|fmt|10.2.1|11.1.0|runtime-common|Compliance mode enabled, was '11.1.0'|
+|fmt|10.2.1|11.1.1|runtime-common|Compliance mode enabled, was '11.1.1'|
 |fnm|1.37.2|1.38.1|lang-js|Compliance mode enabled, was '1.38.1'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
@@ -768,7 +768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.123.1|lang-python|Compliance mode enabled, was '6.123.1'|
+|hypothesis-python|6.97.4|6.123.2|lang-python|Compliance mode enabled, was '6.123.2'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.54.0|app-web|Compliance mode enabled, was '2.54.0'|
@@ -1611,7 +1611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mixxx|2.4.1|2.5.0|app-creativity|Compliance mode enabled, was '2.5.0'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
-|mkvtoolnix|87.0|88.0|app-multimedia|Compliance mode enabled, was '88.0'|
+|mkvtoolnix|87.0|89.0|app-multimedia|Compliance mode enabled, was '89.0'|
 |mlt|7.26.0|7.28.0|runtime-multimedia|Compliance mode enabled, was '7.28.0'|
 |mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
 |mock|2.0.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
@@ -1856,7 +1856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.75|app-games|Compliance mode enabled, was '2.3.75'|
+|pcsx2|1.6.0<br>+git20210825|2.3.77|app-games|Compliance mode enabled, was '2.3.77'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
@@ -2902,7 +2902,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.48|app-electronics|Compliance mode enabled, was '0.48'|
 |yq|4.44.5|4.44.6|app-devel|Compliance mode enabled, was '4.44.6'|
-|ytmusicapi|1.7.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
+|ytmusicapi|1.7.2|1.9.1|lang-python|Compliance mode enabled, was '1.9.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
