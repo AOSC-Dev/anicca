@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735312326?label=Updated)
+![Relative date](https://img.shields.io/date/1735315890?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -905,7 +905,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kcontacts|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kcoreaddons|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
-|kcptun|20240906|20241119|app-network|Compliance mode enabled, was '20241119'|
+|kcptun|20240906|20241227|app-network|Compliance mode enabled, was '20241227'|
 |kcpuload-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kcrash|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kcron|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -1496,7 +1496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.24|runtime-multimedia|Compliance mode enabled, was '0.24.24'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
-|linux+api|6.12.5|6.12.6|core-devel|Compliance mode enabled, was '6.12.6'|
+|linux+api|6.12.5|6.12.7|core-devel|Compliance mode enabled, was '6.12.7'|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.11.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
@@ -2247,7 +2247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.2|app-multimedia|Compliance mode enabled, was '2.2.2'|
-|qownnotes|22.6.1|24.12.6|app-web|Compliance mode enabled, was '24.12.6'|
+|qownnotes|22.6.1|24.12.7|app-web|Compliance mode enabled, was '24.12.7'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
