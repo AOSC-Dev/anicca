@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735315890?label=Updated)
+![Relative date](https://img.shields.io/date/1735319247?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -113,6 +113,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |attrs|23.2.0|24.3.0|lang-python|Compliance mode enabled, was '24.3.0'|
+|atuin|18.3.0|18.4.0|app-utils|Compliance mode enabled, was '18.4.0'|
 |audacity|3.7.0|3.7.1|app-creativity|Compliance mode enabled, was '3.7.1'|
 |audiocd-kio|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
@@ -594,7 +595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
 |gjs|1.74.0|1.82.1|desktop-gnome|Compliance mode enabled, was '1.82.1'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
-|glances|4.0.5|4.2.1|app-admin|Compliance mode enabled, was '4.2.1'|
+|glances|4.0.5|4.3.0|app-admin|Compliance mode enabled, was '4.3.0'|
 |glib|2.80.0|2.82.4|runtime-common|Compliance mode enabled, was '2.82.4'|
 |glib+32|2.62.6|2.82.4|runtime-optenv32|Compliance mode enabled, was '2.82.4'|
 |glib-networking|2.72.2|2.80.0|runtime-common|Compliance mode enabled, was '2.80.0'|
@@ -2249,6 +2250,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmmp|1.6.5|2.2.2|app-multimedia|Compliance mode enabled, was '2.2.2'|
 |qownnotes|22.6.1|24.12.7|app-web|Compliance mode enabled, was '24.12.7'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
+|qpwgraph|0.8.0|0.8.1|app-multimedia|Compliance mode enabled, was '0.8.1'|
 |qqc2-desktop-style|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
