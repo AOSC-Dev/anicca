@@ -1943,7 +1943,6 @@
 ["gnustep-base","1.28.0","1.30.0","runtime-gnustep",1721223235,["Compliance mode enabled, was '1_30_0'"]],
 ["gnustep-make","2.9.0","2.9.2","runtime-gnustep",1631430385,["Compliance mode enabled, was '2_9_2'"]],
 ["libraw","0.20.0","0.21.3","runtime-imaging",1568173098,["Compliance mode enabled, was '0.21.3'"]],
-["openslide","3.4.1","4.0.0","runtime-imaging",1639826392,["Compliance mode enabled, was '4.0.0'"]],
 ["graphene","1.10.2","1.10.8","runtime-imaging",1600321916,["Compliance mode enabled, was '1.10.8'"]],
 ["lcms2","2.14","2.16","runtime-imaging",1678600956,["Compliance mode enabled, was '2.16'"]],
 ["jasper","2.0.21","4.2.4","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.4'"]],
