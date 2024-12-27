@@ -1826,7 +1826,7 @@
 ["gobject-introspection","1.80.0","1.82.0","app-devel",1711178014,["Compliance mode enabled, was '1.82.0'"]],
 ["vasm","1.9f","2.0","app-devel",1710150622,["Compliance mode enabled, was '2.0'"]],
 ["autoconf-archive","2023.02.20","2024.10.16","app-devel",1715607609,["Compliance mode enabled, was '2024.10.16'"]],
-["tree-sitter","0.24.3","0.24.5","app-devel",1729907441,["Compliance mode enabled, was '0.24.5'"]],
+["tree-sitter","0.24.3","0.24.6","app-devel",1729907441,["Compliance mode enabled, was '0.24.6'"]],
 ["strace","6.5","6.12","app-devel",1701420059,["Compliance mode enabled, was '6.12'"]],
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
 ["clazy","1.11","1.12","app-devel",1678601014,["Compliance mode enabled, was '1.12'"]],
