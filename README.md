@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735383888?label=Updated)
+![Relative date](https://img.shields.io/date/1735388108?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -256,7 +256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.5.2|3.8.0|app-devel|Compliance mode enabled, was '3.8.0'|
+|ciel|3.5.2|3.8.1|app-devel|Compliance mode enabled, was '3.8.1'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.4.3|groups|Compliance mode enabled, was '6.4.3'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -413,7 +413,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-8.0|8.0.403|8.0.404|lang-dotnet|Compliance mode enabled, was '8.0.404'|
 |dotnet8|8.0.403|8.0.404|lang-dotnet|Compliance mode enabled, was '8.0.404'|
 |dovecot|2.3.21|2.3.21.1|app-web|Compliance mode enabled, was '2.3.21.1'|
-|doxygen|1.11.0|1.12.0|app-doc|Compliance mode enabled, was '1_12_0'|
+|doxygen|1.11.0|1.13.0|app-doc|Compliance mode enabled, was '1_13_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
 |dpkg|1.22.7|1.22.11|app-admin|Compliance mode enabled, was '1.22.11'|
