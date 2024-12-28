@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735369657?label=Updated)
+![Relative date](https://img.shields.io/date/1735373640?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -294,7 +294,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
-|configshell-fb|1.1.30|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |conky|1.21.7|1.21.9|app-utils|Compliance mode enabled, was '1.21.9'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
@@ -1080,7 +1079,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopeninghours|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kopete|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kopete-otr-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|korganizer|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kose-font|3.113|3.120|desktop-fonts|Compliance mode enabled, was '3.120'|
 |kosmindoormap|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kpackage|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
@@ -1776,7 +1774,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2.6.9|app-admin|Compliance mode enabled, was '2_6_9'|
 |openldap+32|2.4.59|2.6.9|runtime-optenv32|Compliance mode enabled, was '2_6_9'|
 |openmpi|4.1.6|5.0.6|app-scientific|Compliance mode enabled, was '5.0.6'|
-|openmpt|0.6.4|0.7.12|app-multimedia|Compliance mode enabled, was '0.7.12'|
 |openmw|0.48.0<br>+git20240902|0.48.0|app-games|Compliance mode enabled, was '0.48.0'|
 |openpgl|0.5.0|0.7.0|runtime-creativity|Compliance mode enabled, was '0.7.0'|
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
