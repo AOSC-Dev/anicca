@@ -1019,6 +1019,7 @@
 ["glibc+32","2.38","2.40","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.40'"]],
 ["a52dec+32","0.7.4","0.8.0","runtime-optenv32",1461511523,["Compliance mode enabled, was '0.8.0'"]],
 ["imhex","1.35.4","1.36.2","app-editors",1723441135,["Compliance mode enabled, was '1.36.2'"]],
+["vim","9.1.0969","9.1.0973","app-editors",1735466038,["Compliance mode enabled, was '9.1.0973'"]],
 ["zed","0.163.2","0.166.1","app-editors",1732786833,["Compliance mode enabled, was '0.166.1'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
 ["neovim","0.10.2","0.10.3","app-editors",1729907441,["Compliance mode enabled, was '0.10.3'"]],
