@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735488723?label=Updated)
+![Relative date](https://img.shields.io/date/1735491899?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -303,6 +303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |coreboot-utils|24.08|24.12|app-admin|Compliance mode enabled, was '24.12'|
 |corefreq|20170301|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'<br>Possible downgrade from the current version (20170301 -> 2.0.0)|
+|corrosion|0.4.10|0.5.1|app-devel|Compliance mode enabled, was '0.5.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
 |cpp-utilities|5.20.0|5.27.0|runtime-common|Compliance mode enabled, was '5.27.0'|
 |cppcheck|2.8|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
@@ -778,6 +779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-libpinyin|1.12.0|1.15.92|app-i18n|Compliance mode enabled, was '1.15.92'|
 |ibus-m17n|1.4.7|1.4.34|app-i18n|Compliance mode enabled, was '1.4.34'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
+|ibus-rime|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.9|app-i18n|Compliance mode enabled, was '1.17.9'|
 |ibus-uniemoji|0.6.0|0.7.0|app-i18n|Compliance mode enabled, was '0.7.0'|
