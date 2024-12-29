@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735484771?label=Updated)
+![Relative date](https://img.shields.io/date/1735488723?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -350,7 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|18.4|18.8.2|app-games|Compliance mode enabled, was '18.8.2'|
 |debconf|1.5.87|1.5.89|app-admin|Compliance mode enabled, was '1.5.89'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
-|debootstrap|1.0.137|1.0.138|app-utils|Compliance mode enabled, was '1.0.138'|
+|debootstrap|1.0.137|1.0.139|app-utils|Compliance mode enabled, was '1.0.139'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
@@ -1692,14 +1692,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nghttp2|1.58.0|1.64.0|runtime-web|Compliance mode enabled, was '1.64.0'|
 |nghttp3|1.3.0|1.7.0|runtime-web|Compliance mode enabled, was '1.7.0'|
 |nginx|1.27.1|1.27.3|app-web|Compliance mode enabled, was '1.27.3'|
-|ngspice|35|43|app-electronics|Compliance mode enabled, was '43'|
+|ngspice|35|44|app-electronics|Compliance mode enabled, was '44'|
 |ngtcp2|1.5.0|1.10.0|runtime-web|Compliance mode enabled, was '1.10.0'|
 |nlopt|2.7.1|2.9.1|runtime-scientific|Compliance mode enabled, was '2.9.1'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.16.7|1.18.0|lang-ruby|Compliance mode enabled, was '1.18.0'|
-|nomino|1.3.1|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
+|nomino|1.3.1|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
