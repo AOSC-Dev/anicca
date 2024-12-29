@@ -2855,7 +2855,7 @@
 ["shotcut","21.08.11","24.11.17","app-creativity",1630127735,["Compliance mode enabled, was '24.11.17'"]],
 ["mixxx","2.4.1","2.5.0","app-creativity",1722221884,["Compliance mode enabled, was '2.5.0'"]],
 ["musescore","4.3.2","4.4.4","app-creativity",1723091081,["Compliance mode enabled, was '4.4.4'"]],
-["sbcl","2.4.5","2.4.11","lang-lisp",1717074126,["Compliance mode enabled, was '2.4.11'"]],
+["sbcl","2.4.5","2.5.0","lang-lisp",1717074126,["Compliance mode enabled, was '2.5.0'"]],
 ["cabal-install","3.10.3.0","3.14.1.0","lang-haskell",1711355899,["Compliance mode enabled, was '3.14.1.0'"]],
 ["ghc","9.4.8","9.12.1-release","lang-haskell",1711355899,["Compliance mode enabled, was '9.12.1-release'"]],
 ["genwan-font","2.000","2.100","desktop-fonts",1722259650,["Compliance mode enabled, was '2.100'"]],
