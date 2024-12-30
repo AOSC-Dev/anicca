@@ -1009,7 +1009,7 @@
 ["gdbm+32","1.11","1.24","runtime-optenv32",1678950872,["Compliance mode enabled, was '1.24'"]],
 ["vulkan-tools+32","1.3.283.0","1.3.298","runtime-optenv32",1720036326,["Compliance mode enabled, was '1.3.298'"]],
 ["librsvg+32","2.40.21","2.59.2","runtime-optenv32",1600624175,["Compliance mode enabled, was '2.59.2'"]],
-["x264+32","20160827.2245","3202","runtime-optenv32",1461512413,["Compliance mode enabled, was '3202'","Possible downgrade from the current version (20160827.2245 -> 3202)"]],
+["x264+32","20160827.2245","3203","runtime-optenv32",1461512413,["Compliance mode enabled, was '3203'","Possible downgrade from the current version (20160827.2245 -> 3203)"]],
 ["mesa+32","22.1.7","24.3.2","runtime-optenv32",1663359145,["Compliance mode enabled, was '24.3.2'"]],
 ["libdvdread+32","5.0.3","6.1.3","runtime-optenv32",1461474679,["Compliance mode enabled, was '6.1.3'"]],
 ["wxgtk-3+32","3.0.4","3.2.6","runtime-optenv32",1537888495,["Compliance mode enabled, was '3.2.6'"]],
@@ -1102,7 +1102,7 @@
 ["portaudio","19.7.0","190600.20161030","runtime-multimedia",1727789009,["Compliance mode enabled, was '190600_20161030'"]],
 ["libass","0.17.2","0.17.3","runtime-multimedia",1716352069,["Compliance mode enabled, was '0.17.3'"]],
 ["opus","1.3.1","1.5.2","runtime-multimedia",1721195672,["Compliance mode enabled, was '1.5.2'"]],
-["x264","0+git20241027","3202","runtime-multimedia",1731205490,["Compliance mode enabled, was '3202'"]],
+["x264","0+git20241027","3203","runtime-multimedia",1731205490,["Compliance mode enabled, was '3203'"]],
 ["libsoundio","1.1.0","2.0.1+7","runtime-multimedia",1456453729,["Compliance mode enabled, was '2.0.1-7'"]],
 ["libsidplayfp","1.8.8","2.12.0","runtime-multimedia",1550646103,["Compliance mode enabled, was '2.12.0'"]],
 ["portmidi","2.0.4","236","runtime-multimedia",1715847709,["Compliance mode enabled, was '236'"]],
@@ -2923,6 +2923,6 @@
 ["sozu","0.15.2","1.0.6","app-web",1696572712,["Compliance mode enabled, was '1.0.6'"]],
 ["nginx","1.27.1","1.27.3","app-web",1727187268,["Compliance mode enabled, was '1.27.3'"]],
 ["i2pd","2.41.0","2.54.0","app-web",1647420912,["Compliance mode enabled, was '2.54.0'"]],
-["hugo","0.139.3","0.140.1","app-web",1733051887,["Compliance mode enabled, was '0.140.1'"]],
+["hugo","0.139.3","0.140.2","app-web",1733051887,["Compliance mode enabled, was '0.140.2'"]],
 ["forgejo","9.0.0","9.0.3","app-web",1729576926,["Compliance mode enabled, was '9.0.3'"]]
 ]

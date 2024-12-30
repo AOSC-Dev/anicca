@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735575130?label=Updated)
+![Relative date](https://img.shields.io/date/1735578603?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -758,7 +758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2024.0.1|app-creativity|Compliance mode enabled, was '2024.0.1'|
-|hugo|0.139.3|0.140.1|app-web|Compliance mode enabled, was '0.140.1'|
+|hugo|0.139.3|0.140.2|app-web|Compliance mode enabled, was '0.140.2'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hunspell|1.7.0|1.7.2|app-i18n|Compliance mode enabled, was '1.7.2'|
 |hwinfo|23.2|23.3|app-utils|Compliance mode enabled, was '23.3'|
@@ -2812,8 +2812,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20241027|3202|runtime-multimedia|Compliance mode enabled, was '3202'|
-|x264+32|20160827.2245|3202|runtime-optenv32|Compliance mode enabled, was '3202'<br>Possible downgrade from the current version (20160827.2245 -> 3202)|
+|x264|0<br>+git20241027|3203|runtime-multimedia|Compliance mode enabled, was '3203'|
+|x264+32|20160827.2245|3203|runtime-optenv32|Compliance mode enabled, was '3203'<br>Possible downgrade from the current version (20160827.2245 -> 3203)|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
