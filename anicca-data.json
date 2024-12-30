@@ -1898,7 +1898,6 @@
 ["avr-libc","2.0.0","2_2_1-release","app-devel",1634066043,["Compliance mode enabled, was '2_2_1-release'"]],
 ["ragel","6.10","7.0.4","app-devel",1528559921,["Compliance mode enabled, was '7.0.4'"]],
 ["llvm-18","18.1.8","19.1.6","app-devel",1732901541,["Compliance mode enabled, was '19.1.6'"]],
-["gettext","0.22.5","0.23","app-devel",1709661019,["Compliance mode enabled, was '0.23'"]],
 ["radare2","5.9.4","5.9.8","app-devel",1728365718,["Compliance mode enabled, was '5.9.8'"]],
 ["ciel","3.5.2","3.8.4","app-devel",1734246410,["Compliance mode enabled, was '3.8.4'"]],
 ["inih","53","58","app-devel",1620461774,["Compliance mode enabled, was '58'"]],
