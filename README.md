@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735513885?label=Updated)
+![Relative date](https://img.shields.io/date/1735519316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1700,7 +1700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
-|nokogiri|1.16.7|1.18.0|lang-ruby|Compliance mode enabled, was '1.18.0'|
+|nokogiri|1.16.7|1.18.1|lang-ruby|Compliance mode enabled, was '1.18.1'|
 |nomino|1.3.1|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |notmuch|0.34|0.38.3|app-web|Compliance mode enabled, was '0.38.3'|
@@ -2811,8 +2811,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20241027|3200|runtime-multimedia|Compliance mode enabled, was '3200'|
-|x264+32|20160827.2245|3200|runtime-optenv32|Compliance mode enabled, was '3200'<br>Possible downgrade from the current version (20160827.2245 -> 3200)|
+|x264|0<br>+git20241027|3202|runtime-multimedia|Compliance mode enabled, was '3202'|
+|x264+32|20160827.2245|3202|runtime-optenv32|Compliance mode enabled, was '3202'<br>Possible downgrade from the current version (20160827.2245 -> 3202)|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
