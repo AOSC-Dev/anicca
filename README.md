@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735592992?label=Updated)
+![Relative date](https://img.shields.io/date/1735596718?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -335,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |daed|0.8.0|0.9.0|app-network|Compliance mode enabled, was '0.9.0'|
-|damo|2.4.7|2.6.1|app-admin|Compliance mode enabled, was '2.6.1'|
+|damo|2.4.7|2.6.2|app-admin|Compliance mode enabled, was '2.6.2'|
 |dante|1.4.2|1.4.3|app-network|Compliance mode enabled, was '1.4.3'|
 |dar|2.7.15|2.7.16|app-utils|Compliance mode enabled, was '2.7.16'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
@@ -2618,6 +2618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |throttled|0.10.0|0.11|app-utils|Compliance mode enabled, was '0.11'|
+|thunar|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |thunar-archive-plugin|0.5.2|0.5.3|desktop-xfce|Compliance mode enabled, was '0.5.3'|
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
 |tigervnc|1.14.0|1.14.1|app-network||
