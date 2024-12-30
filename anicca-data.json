@@ -2779,6 +2779,7 @@
 ["criu","3.19","4.0","app-admin",1706667429,["Compliance mode enabled, was '4.0'"]],
 ["crun","1.16.1","1.19.1","app-admin",1724916616,["Compliance mode enabled, was '1.19.1'"]],
 ["osinfo-db-tools","1.10.0","1.12.0","app-admin",1694574450,["Compliance mode enabled, was '1.12.0'"]],
+["oma","1.13.1","1.13.2","app-admin",1735454719,["Compliance mode enabled, was '1.13.2'"]],
 ["squashfuse","0.1.105","0.5.2","app-admin",1663359141,["Compliance mode enabled, was '0.5.2'"]],
 ["snapd","2.65.1","2.67","app-admin",1727015619,["Compliance mode enabled, was '2.67'"]],
 ["lact","0.5.6","0.6.0","app-admin",1728352056,["Compliance mode enabled, was '0.6.0'"]],
