@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735531970?label=Updated)
+![Relative date](https://img.shields.io/date/1735535583?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1528,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lskat|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |lsof|4.99.3|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
 |lsp-plugins|1.2.17|1.2.20|app-multimedia|Compliance mode enabled, was '1.2.20'|
-|ltrace|0.7.3<br>+git20151111|0.7.3+git20240814|app-devel|Compliance mode enabled, was '0.7.3+git20240814'|
+|ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
