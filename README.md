@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735549925?label=Updated)
+![Relative date](https://img.shields.io/date/1735553608?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -119,7 +119,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |augeas|1.12.0|1.14.1|runtime-common|Compliance mode enabled, was '1.14.1'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
-|autobuild4|4.7.1|4.7.0|app-devel|Compliance mode enabled, was '4.7.0'<br>Possible downgrade from the current version (4.7.1 -> 4.7.0)|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automat|20.2.0|24.8.1|lang-python|Compliance mode enabled, was '24.8.1'|
 |avahi-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2258,7 +2257,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
 |qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
-|qtractor|0.9.23|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
+|qtractor|0.9.23|1.5.1|app-multimedia|Compliance mode enabled, was '1.5.1'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
@@ -2884,6 +2883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|396|app-utils|Compliance mode enabled, was '396'|
 |xviewer|3.4.6|3.4.7|app-imaging|Compliance mode enabled, was '3.4.7'|
+|xxhash|0.8.2|0.8.3|runtime-common|Compliance mode enabled, was '0.8.3'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
 |yakuake|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
