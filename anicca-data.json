@@ -1028,6 +1028,7 @@
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
 ["trinity-default-settings","2023.07.1r","2024.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.11.0'"]],
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
+["v2ray-rules-dat","202412282210","202412292210","runtime-data",1735478139,["Compliance mode enabled, was '202412292210'","Versions not comparable: `202412282210` and `202412292210`"]],
 ["tzdata","2024a","2024b","runtime-data",1716696236,["Compliance mode enabled, was '2024b'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
 ["libvirt","10.5.0","10.10.0","app-virtualization",1722229097,["Compliance mode enabled, was '10.10.0'"]],
