@@ -1671,6 +1671,7 @@
 ["buildbot-benchmark","20240327","20230227","app-benchmarks",1718812670,["Compliance mode enabled, was '20230227'","Possible downgrade from the current version (20240327 -> 20230227)"]],
 ["vkmark","2017.08+git20230412","2017.08","app-benchmarks",1711507517,["Compliance mode enabled, was '2017.08'"]],
 ["libuhd","4.5.0.0","4.7.0.0","runtime-ham",1700797896,["Compliance mode enabled, was '4.7.0.0'"]],
+["libguestfs","1.52.2","1.55.2","runtime-virtualization",1727015619,["Compliance mode enabled, was '1.55.2'"]],
 ["libvirt-python","10.5.0","10.10.0","runtime-virtualization",1722229372,["Compliance mode enabled, was '10.10.0'"]],
 ["libgovirt","0.3.8","0.3.9","runtime-virtualization",1619939227,["Compliance mode enabled, was '0.3.9'"]],
 ["tcl","8.6.14","9.0.1","lang-tcl",1719323485,["Compliance mode enabled, was '9.0.1'"]],
