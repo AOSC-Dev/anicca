@@ -1948,7 +1948,7 @@
 ["libpwquality","1.4.2","1.4.5","runtime-cryptography",1582090017,["Compliance mode enabled, was '1.4.5'"]],
 ["crypto++","8.2.0","8.9.0","runtime-cryptography",1573276615,["Compliance mode enabled, was '8.9.0'"]],
 ["argon2","20190702","20171227","runtime-cryptography",1569908606,["Compliance mode enabled, was '20171227'","Possible downgrade from the current version (20190702 -> 20171227)"]],
-["wolfssl","5.7.0","5.7.4-stable","runtime-cryptography",1717571729,["Compliance mode enabled, was '5.7.4-stable'"]],
+["wolfssl","5.7.0","5.7.6-stable","runtime-cryptography",1717571729,["Compliance mode enabled, was '5.7.6-stable'"]],
 ["gnustep-base","1.28.0","1.30.0","runtime-gnustep",1721223235,["Compliance mode enabled, was '1_30_0'"]],
 ["gnustep-make","2.9.0","2.9.2","runtime-gnustep",1631430385,["Compliance mode enabled, was '2_9_2'"]],
 ["libraw","0.20.0","0.21.3","runtime-imaging",1568173098,["Compliance mode enabled, was '0.21.3'"]],
