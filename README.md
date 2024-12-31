@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735683006?label=Updated)
+![Relative date](https://img.shields.io/date/1735686696?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -364,7 +364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deskflow|1.17.1|1.18.0|app-utils|Compliance mode enabled, was '1.18.0'|
 |desktop-file-utils|0.27|0.28|app-admin|Compliance mode enabled, was '0.28'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.24.5|2.24.9|app-devel|Compliance mode enabled, was '2.24.9'|
+|devscripts|2.24.5|2.24.10|app-devel|Compliance mode enabled, was '2.24.10'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.1.0|app-network|Compliance mode enabled, was '10.1.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -895,7 +895,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcharselect|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |kchmviewer-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kclock|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|kcm-wacomtablet|3.2.0|6.2.4|desktop-kde|Compliance mode enabled, was '6.2.4'|
+|kcm-wacomtablet|3.2.0|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kcmautostart-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kcmutils|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |kcodecs|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
@@ -1860,7 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.83|app-games|Compliance mode enabled, was '2.3.83'|
+|pcsx2|1.6.0<br>+git20210825|2.3.84|app-games|Compliance mode enabled, was '2.3.84'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.13|app-utils|Compliance mode enabled, was '1.13'|
 |peazip|10.0.0|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
