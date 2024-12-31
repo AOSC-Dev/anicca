@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735647390?label=Updated)
+![Relative date](https://img.shields.io/date/1735651149?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -255,7 +255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.5.2|3.8.4|app-devel|Compliance mode enabled, was '3.8.4'|
+|ciel|3.5.2|3.8.5|app-devel|Compliance mode enabled, was '3.8.5'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.4.3|groups|Compliance mode enabled, was '6.4.3'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -575,7 +575,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geoipupdate|7.0.1|7.1.0|app-network|Compliance mode enabled, was '7.1.0'|
 |geos|3.7.3|3.13.0|runtime-gis|Compliance mode enabled, was '3.13.0'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
-|gettext|0.22.5|0.23|app-devel|Compliance mode enabled, was '0.23'|
+|gettext|0.22.5|0.23.1|app-devel|Compliance mode enabled, was '0.23.1'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
@@ -605,7 +605,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|15.1.0|app-imaging|Compliance mode enabled, was '15.1.0'|
 |glslang+32|7.11.3214|15.1.0|runtime-optenv32|Compliance mode enabled, was '15.1.0'|
 |glu+32|9.0.1|9.0.3|runtime-optenv32|Compliance mode enabled, was '9.0.3'|
-|gmic|3.2.6|3.4.3|runtime-imaging|Compliance mode enabled, was '3.4.3'|
+|gmic|3.2.6|3.5.0|runtime-imaging|Compliance mode enabled, was '3.5.0'|
 |gmime-3|3.2.7|3.2.15|desktop-gnome|Compliance mode enabled, was '3.2.15'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
