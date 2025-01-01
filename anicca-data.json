@@ -1,5 +1,5 @@
 [
-["sequoia-sq","0.36.0","1.0.0","app-cryptography",1716597888,["Compliance mode enabled, was '1.0.0'"]],
+["sequoia-sq","0.36.0","1.1.0","app-cryptography",1716597888,["Compliance mode enabled, was '1.1.0'"]],
 ["gnupg","2.4.6","2.5.2","app-cryptography",1730541263,["Compliance mode enabled, was '2.5.2'"]],
 ["easy-rsa","3.2.0","3.2.1","app-cryptography",1720958055,["Compliance mode enabled, was '3.2.1'"]],
 ["pkginfo","1.5.0.1","1.12.0","lang-python",1678950872,["Compliance mode enabled, was '1.12.0'"]],
@@ -156,6 +156,7 @@
 ["pyqtwebengine","5.15.5","5.15.7","lang-python",1637636760,["Compliance mode enabled, was '5.15.7'"]],
 ["ytmusicapi","1.7.2","1.9.1","lang-python",1716349221,["Compliance mode enabled, was '1.9.1'"]],
 ["iniparse","0.4","0.5","lang-python",1678950872,["Compliance mode enabled, was '0.5'"]],
+["atomicwrites","1.3.0","1.4.1","lang-python",1551199445,["Compliance mode enabled, was '1.4.1'"]],
 ["txaio","18.8.1","23.1.1","lang-python",1536768538,["Compliance mode enabled, was '23.1.1'"]],
 ["pyx","0.14.1","0.16","lang-python",1451875709,["Compliance mode enabled, was '0.16'"]],
 ["pyopenssl","23.1.1","24.3.0","lang-python",1618998184,["Compliance mode enabled, was '24.3.0'"]],
