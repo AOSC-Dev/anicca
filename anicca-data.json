@@ -2020,7 +2020,7 @@
 ["pocketsphinx","5~prealpha","0.8","app-utils",1469538814,["Compliance mode enabled, was '0.8'","Possible downgrade from the current version (5~prealpha -> 0.8)"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
 ["agrep","4.17","4.17.orig","app-utils",1511126779,["Compliance mode enabled, was '4.17.orig'","Possible downgrade from the current version (4.17 -> 4.17.orig)"]],
-["peazip","10.0.0","10.1.0","app-utils",1730274028,["Compliance mode enabled, was '10.1.0'"]],
+["peazip","10.0.0","10.2.0","app-utils",1730274028,["Compliance mode enabled, was '10.2.0'"]],
 ["caligula","0.4.5","0.4.8","app-utils",1715739687,["Compliance mode enabled, was '0.4.8'"]],
 ["less","661","668","app-utils",1728359159,["Compliance mode enabled, was '668'"]],
 ["os-prober","1.81","1.83","app-utils",1673935786,["Compliance mode enabled, was '1.83'"]],
