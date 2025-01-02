@@ -1473,7 +1473,7 @@
 ["texstudio","4.0.2","4.8.5","app-doc",1636116326,["Compliance mode enabled, was '4.8.5'"]],
 ["rarian","0.8.1","0.8.6","app-doc",1678950872,["Compliance mode enabled, was '0.8.6'"]],
 ["mdbook","0.4.40","0.4.43","app-doc",1730689657,["Compliance mode enabled, was '0.4.43'"]],
-["doxygen","1.11.0","1.13.0","app-doc",1720957491,["Compliance mode enabled, was '1_13_0'"]],
+["doxygen","1.11.0","1.13.1","app-doc",1720957491,["Compliance mode enabled, was '1_13_1'"]],
 ["ocrmypdf","16.5.0","16.7.0","app-doc",1729704733,["Compliance mode enabled, was '16.7.0'"]],
 ["mupdf","1.24.10","1.25.2","app-doc",1728997610,["Compliance mode enabled, was '1.25.2'"]],
 ["hotdoc","0.13.7","0.17.2","app-doc",1663210209,["Compliance mode enabled, was '0.17.2'"]],
