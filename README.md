@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735773019?label=Updated)
+![Relative date](https://img.shields.io/date/1735778381?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -26,7 +26,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
-|aegisub|3.2.2<br>+git20231203|3.2.2|app-multimedia|Compliance mode enabled, was '3.2.2'|
+|aegisub|3.2.2<br>+git20231203|3.2.2-migrated|app-multimedia|Compliance mode enabled, was '3.2.2-migrated'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
@@ -1773,7 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openexr|3.1.8|3.3.2|runtime-imaging|Compliance mode enabled, was '3.3.2'|
 |openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
 |openimagedenoise|1.4.3|2.3.1|runtime-imaging|Compliance mode enabled, was '2.3.1'|
-|openimageio|2.4.17.0|3.0.1.0|runtime-imaging|Compliance mode enabled, was '3.0.1.0'|
+|openimageio|2.4.17.0|3.0.2.0|runtime-imaging|Compliance mode enabled, was '3.0.2.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
@@ -2744,7 +2744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.21.0|5.23.0|app-network|Compliance mode enabled, was '5.23.0'|
-|v2ray-rules-dat|202412282210|202412312211|runtime-data|Compliance mode enabled, was '202412312211'<br>Versions not comparable: `202412282210` and `202412312211`|
+|v2ray-rules-dat|202412282210|202501012211|runtime-data|Compliance mode enabled, was '202501012211'<br>Versions not comparable: `202412282210` and `202501012211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
