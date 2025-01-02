@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735812649?label=Updated)
+![Relative date](https://img.shields.io/date/1735815987?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1195,6 +1195,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
 |levenshtein|0.12.0|0.26.1|lang-python|Compliance mode enabled, was '0.26.1'|
+|lfortran|0.42.0|0.43.0|app-devel|Compliance mode enabled, was '0.43.0'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
@@ -2034,7 +2035,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pidgin|2.14.13|2.90.1|app-web|Compliance mode enabled, was '2.90.1'|
 |pikepdf|8.15.1|9.5.0|app-doc|Compliance mode enabled, was '9.5.0'|
 |piklab-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|pillow|10.4.0|11.0.0|lang-python|Compliance mode enabled, was '11.0.0'|
+|pillow|10.4.0|11.1.0|lang-python|Compliance mode enabled, was '11.1.0'|
 |pim-data-exporter|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |pim-sieve-editor|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |pimcommon|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
@@ -2090,8 +2091,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |polyphone|2.3.0|2.5.0|app-multimedia|Compliance mode enabled, was '2.5.0'|
-|poppler|22.08.0|24.12.0|groups|Compliance mode enabled, was '24.12.0'|
-|poppler+32|0.66.0|24.12.0|runtime-optenv32|Compliance mode enabled, was '24.12.0'|
+|poppler|22.08.0|25.01.0|groups|Compliance mode enabled, was '25.01.0'|
+|poppler+32|0.66.0|25.01.0|runtime-optenv32|Compliance mode enabled, was '25.01.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
