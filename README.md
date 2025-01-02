@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735805599?label=Updated)
+![Relative date](https://img.shields.io/date/1735809105?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -590,9 +590,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-lfs|3.5.1|3.6.0|app-devel|Compliance mode enabled, was '3.6.0'|
+|gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitoxide|0.39.0|0.40.0|app-vcs|Compliance mode enabled, was '0.40.0'|
-|gitpython|3.1.35|3.1.43|runtime-vcs|Compliance mode enabled, was '3.1.43'|
+|gitpython|3.1.35|3.1.44|runtime-vcs|Compliance mode enabled, was '3.1.44'|
 |gjs|1.74.0|1.82.1|desktop-gnome|Compliance mode enabled, was '1.82.1'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.3.0.6|app-admin|Compliance mode enabled, was '4.3.0.6'|
