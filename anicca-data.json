@@ -530,7 +530,7 @@
 ["openvswitch","3.0.3","3.4.1","app-network",1577974572,["Compliance mode enabled, was '3.4.1'"]],
 ["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["iptraf-ng","1.1.4","1.2.2","app-network",1473801763,["Compliance mode enabled, was '1.2.2'"]],
-["fping","5.1","5.2","app-network",1711266244,["Compliance mode enabled, was '5.2'"]],
+["fping","5.1","5.3","app-network",1711266244,["Compliance mode enabled, was '5.3'"]],
 ["iptables","1.8.8","1.8.11","app-network",1674452376,["Compliance mode enabled, was '1.8.11'"]],
 ["mate-applets","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
 ["atril","1.28.0","1.28.1","desktop-mate",1715609166,["Compliance mode enabled, was '1.28.1'"]],
