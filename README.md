@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735913534?label=Updated)
+![Relative date](https://img.shields.io/date/1735917083?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2517,6 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.12|app-devel|Compliance mode enabled, was '6.12'|
 |strawberry|1.0.23|1.2.3|app-multimedia|Compliance mode enabled, was '1.2.3'|
 |streamlink|6.7.4|7.1.1|app-multimedia|Compliance mode enabled, was '7.1.1'|
+|stress-ng|0.18.07|0.18.08|app-benchmarks|Compliance mode enabled, was '0.18.08'|
 |strongswan|5.9.4|6.0.0|app-network|Compliance mode enabled, was '6.0.0'|
 |structlog|19.1.0|24.4.0|lang-python|Compliance mode enabled, was '24.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
@@ -2609,7 +2610,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.9.0|5.10.0|app-web|Compliance mode enabled, was '5.10.0'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2833,8 +2833,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.6|runtime-desktop|Compliance mode enabled, was '3.2.6'|
 |x11-proto+32|2019.2|2024.1|runtime-optenv32|Compliance mode enabled, was '2024.1'|
-|x264|0<br>+git20241027|3203|runtime-multimedia|Compliance mode enabled, was '3203'|
-|x264+32|20160827.2245|3203|runtime-optenv32|Compliance mode enabled, was '3203'<br>Possible downgrade from the current version (20160827.2245 -> 3203)|
+|x264|0<br>+git20241027|3204|runtime-multimedia|Compliance mode enabled, was '3204'|
+|x264+32|20160827.2245|3204|runtime-optenv32|Compliance mode enabled, was '3204'<br>Possible downgrade from the current version (20160827.2245 -> 3204)|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|2.2|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
