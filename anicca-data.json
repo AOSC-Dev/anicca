@@ -494,7 +494,6 @@
 ["firewalld","2.2.1","2.3.0","app-network",1722267199,["Compliance mode enabled, was '2.3.0'"]],
 ["networkmanager-vpnc","1.2.6","1.4.0","app-network",1533440457,["Compliance mode enabled, was '1.4.0'"]],
 ["tcpdump","4.99.4","4.99.5","app-network",1709902196,["Compliance mode enabled, was '4.99.5'"]],
-["mihomo","1.19.0","1.19.1","app-network",1733824829,["Compliance mode enabled, was '1.19.1'"]],
 ["kubo","0.29.0","0.32.1","app-network",1727015619,["Compliance mode enabled, was '0.32.1'"]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["freerdp","3.9.0","3.10.3","app-network",1733052382,["Compliance mode enabled, was '3.10.3'"]],
