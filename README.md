@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735928001?label=Updated)
+![Relative date](https://img.shields.io/date/1735931110?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -452,9 +452,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
-|evolution|3.44.4|3.54.2|desktop-gnome|Compliance mode enabled, was '3.54.2'|
-|evolution-data-server|3.44.4|3.54.2|desktop-gnome|Compliance mode enabled, was '3.54.2'|
-|evolution-ews|3.42.0|3.54.2|desktop-gnome|Compliance mode enabled, was '3.54.2'|
+|evolution|3.44.4|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
+|evolution-data-server|3.44.4|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
+|evolution-ews|3.42.0|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exfatprogs|1.2.5|1.2.6|app-admin|Compliance mode enabled, was '1.2.6'|
 |exiv2|0.27.5|0.28.3|runtime-imaging|Compliance mode enabled, was '0.28.3'|
@@ -704,7 +704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer-1-0+32|1.16.2|1.24.10|runtime-optenv32|Compliance mode enabled, was '1.24.10'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
-|gtk-4|4.16.5|4.16.7|desktop-gnome|Compliance mode enabled, was '4.16.7'|
+|gtk-4|4.16.5|4.16.9|desktop-gnome|Compliance mode enabled, was '4.16.9'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.8.1|0.9.0|runtime-desktop|Compliance mode enabled, was '0.9.0'|
 |gtk-qt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
