@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735931110?label=Updated)
+![Relative date](https://img.shields.io/date/1735935069?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1594,9 +1594,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.34|app-admin|Compliance mode enabled, was '1.6.34'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |merkuro|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
-|mesa+32|22.1.7|24.3.2|runtime-optenv32|Compliance mode enabled, was '24.3.2'|
-|mesa-amber|21.3.9|24.3.2|runtime-display|Compliance mode enabled, was '24.3.2'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.2|runtime-display|Compliance mode enabled, was '24.3.2'|
+|mesa|24.3.2|24.3.3|runtime-display||
+|mesa+32|22.1.7|24.3.3|runtime-optenv32|Compliance mode enabled, was '24.3.3'|
+|mesa-amber|21.3.9|24.3.3|runtime-display|Compliance mode enabled, was '24.3.3'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.3|runtime-display|Compliance mode enabled, was '24.3.3'|
 |meson|1.6.0|1.6.1|app-devel|Compliance mode enabled, was '1.6.1'|
 |messagelib|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
@@ -2878,6 +2879,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-terminal|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-timer-plugin|1.7.2|1.7.3|desktop-xfce|Compliance mode enabled, was '1.7.3'|
 |xfce4-wavelan-plugin|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
+|xfce4-whiskermenu-plugin|2.8.3|2.8.4|desktop-xfce|Compliance mode enabled, was '2.8.4'|
 |xfce4-xkb-plugin|0.8.3|0.8.5|desktop-xfce|Compliance mode enabled, was '0.8.5'|
 |xfe|1.46.1|1.46.2|app-utils|Compliance mode enabled, was '1.46.2'|
 |xfmpc|0.3.1|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.3.1 -> 0.3.0)|
