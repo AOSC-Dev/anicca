@@ -1906,6 +1906,7 @@
 ["llvm-18","18.1.8","19.1.6","app-devel",1732901541,["Compliance mode enabled, was '19.1.6'"]],
 ["gettext","0.22.5","0.23.1","app-devel",1709661019,["Compliance mode enabled, was '0.23.1'"]],
 ["radare2","5.9.4","5.9.8","app-devel",1728365718,["Compliance mode enabled, was '5.9.8'"]],
+["ciel","3.8.8","3.8.7","app-devel",1735999010,["Compliance mode enabled, was '3.8.7'","Possible downgrade from the current version (3.8.8 -> 3.8.7)"]],
 ["inih","53","58","app-devel",1620461774,["Compliance mode enabled, was '58'"]],
 ["dbus-glib","0.110","0.112","runtime-admin",1522267404,["Compliance mode enabled, was '0.112'"]],
 ["libstoragemgmt","1.7.3","1.10.1","runtime-admin",1550547634,["Compliance mode enabled, was '1.10.1'"]],
