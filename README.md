@@ -1,12 +1,13 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1735981896?label=Updated)
+![Relative date](https://img.shields.io/date/1735985521?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
+|aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abakus-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
@@ -1399,7 +1400,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libserialport|0.1.1|0.1.2|runtime-devices|Compliance mode enabled, was '0.1.2'|
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
-|libshumate|1.2.1|1.3.0|desktop-gnome|Compliance mode enabled, was '1.3.0'|
+|libshumate|1.2.1|1.3.1|desktop-gnome|Compliance mode enabled, was '1.3.1'|
 |libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
 |libsidplay+32|1.36.59|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
 |libsidplayfp|1.8.8|2.12.0|runtime-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -2702,7 +2703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
-|typos|1.24.6|1.29.4|app-utils|Compliance mode enabled, was '1.29.4'|
 |tzdata|2024a|2024b|runtime-data|Compliance mode enabled, was '2024b'|
 |uboot-asahi|2023.07.02<br>+3|2024.10+1|runtime-kernel|Compliance mode enabled, was '2024.10-1'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
@@ -2919,7 +2919,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.48|app-electronics|Compliance mode enabled, was '0.48'|
-|you-get|0.4.1730|0.4.1743|app-multimedia|Compliance mode enabled, was '0.4.1743'|
 |yq|4.44.5|4.44.6|app-devel|Compliance mode enabled, was '4.44.6'|
 |ytmusicapi|1.7.2|1.9.1|lang-python|Compliance mode enabled, was '1.9.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
