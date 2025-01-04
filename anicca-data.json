@@ -385,6 +385,7 @@
 ["libserialport","0.1.1","0.1.2","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.2'"]],
 ["libmanette","0.2.6","0.2.9","runtime-devices",1619939091,["Compliance mode enabled, was '0.2.9'"]],
 ["libusbmuxd","2.0.2","2.1.0","runtime-devices",1599275655,["Compliance mode enabled, was '2.1.0'"]],
+["libgphoto2","2.5.30","2.5.31","runtime-devices",1465262592,["Compliance mode enabled, was '2.5.31'"]],
 ["libtpms","0.9.6","0.10.0","runtime-devices",1681635425,["Compliance mode enabled, was '0.10.0'"]],
 ["libfprint","1.94.4","1.94.8","runtime-devices",1663359144,["Compliance mode enabled, was '1.94.8'"]],
 ["libticonv","1.1.4","1.1.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.5'"]],
