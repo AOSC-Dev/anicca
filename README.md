@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736047295?label=Updated)
+![Relative date](https://img.shields.io/date/1736050334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -330,6 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.10|lang-python|Compliance mode enabled, was '2.0.10'|
 |cysignals|1.11.4|1.12.2|lang-python|Compliance mode enabled, was '1.12.2'|
+|cython|3.0.10|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |daed|0.8.0|0.9.0|app-network|Compliance mode enabled, was '0.9.0'|
@@ -1353,6 +1354,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compliance mode enabled, was '1.30'|
 |libogg|1.3.4|1.3.5|runtime-multimedia|Compliance mode enabled, was '1.3.5'|
 |libogg+32|1.3.4|1.3.5|runtime-optenv32|Compliance mode enabled, was '1.3.5'|
+|libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
 |libp11|0.4.10|0.4.13|runtime-cryptography|Compliance mode enabled, was '0.4.13'|
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
