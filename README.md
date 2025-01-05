@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736103921?label=Updated)
+![Relative date](https://img.shields.io/date/1736107835?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -347,6 +347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.108|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |dbus-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ddnet|18.4|18.8.2|app-games|Compliance mode enabled, was '18.8.2'|
+|ddrescue|1.28|1.29|app-utils|Compliance mode enabled, was '1.29'|
 |debconf|1.5.87|1.5.89|app-admin|Compliance mode enabled, was '1.5.89'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
@@ -428,6 +429,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |e2fsprogs|1.47.1|1.47.2|app-admin|Compliance mode enabled, was '1.47.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
+|easyeffects|7.2.1|7.2.2|app-multimedia|Compliance mode enabled, was '7.2.2'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
