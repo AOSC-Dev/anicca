@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736050334?label=Updated)
+![Relative date](https://img.shields.io/date/1736053832?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1666,7 +1666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nestopia|1.52.1|1.53.0|app-games|Compliance mode enabled, was '1.53.0'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.13.1|runtime-containers|Compliance mode enabled, was '1.13.1'|
-|netcat|1.219|1.226|app-network|Compliance mode enabled, was '1.226'|
+|netcat|1.219|1.228|app-network|Compliance mode enabled, was '1.228'|
 |netcdf|4.7.4|4.9.2|runtime-scientific|Compliance mode enabled, was '4.9.2'|
 |netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
 |nethack|3.6.6|3.6.7_released|app-games|Compliance mode enabled, was '3.6.7_Released'|
