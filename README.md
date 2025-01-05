@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736086046?label=Updated)
+![Relative date](https://img.shields.io/date/1736089716?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -197,7 +197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bzip3|1.4.0|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
-|cabal-install|3.10.3.0|3.14.1.0|lang-haskell|Compliance mode enabled, was '3.14.1.0'|
+|cabal-install|3.10.3.0|3.14.1.1|lang-haskell|Compliance mode enabled, was '3.14.1.1'|
 |cachecontrol|0.14.0|0.14.1|lang-python|Compliance mode enabled, was '0.14.1'|
 |cachetools|3.1.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |caddy|2.8.4|2.9.0|app-web|Compliance mode enabled, was '2.9.0'|
@@ -1632,6 +1632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.29.0-1|4.30.0+1|app-admin|Compliance mode enabled, was '4.30.0-1'|
 |mtd-utils|2.1.5|2.2.1|app-admin|Compliance mode enabled, was '2.2.1'|
 |mtools|4.0.45|4.0.46|app-admin|Compliance mode enabled, was '4.0.46'|
+|muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.5|runtime-common|Compliance mode enabled, was '2.3.5'|
@@ -2285,7 +2286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
-|remmina|1.4.36|1.4.38|app-network|Compliance mode enabled, was '1.4.38'|
+|remmina|1.4.36|1.4.39|app-network|Compliance mode enabled, was '1.4.39'|
 |repo|2.45|2.50.1|app-devel|Compliance mode enabled, was '2.50.1'|
 |reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
@@ -2666,6 +2667,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2024.10.21.16|lang-python|Compliance mode enabled, was '2024.10.21.16'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
+|tsukimi|0.18.0|0.18.1|app-multimedia|Compliance mode enabled, was '0.18.1'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
