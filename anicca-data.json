@@ -396,6 +396,7 @@
 ["usbredir","0.8.0","0.14.0","runtime-devices",1570906865,["Compliance mode enabled, was '0.14.0'"]],
 ["libnvme","1.11","1.11.1","runtime-devices",1731475744,["Compliance mode enabled, was '1.11.1'"]],
 ["ccid","1.5.1","1.6.1","runtime-devices",1673935786,["Compliance mode enabled, was '1.6.1'"]],
+["libinput","1.27.0","1.27.1","runtime-devices",1733067654,["Compliance mode enabled, was '1.27.1'"]],
 ["libusb-compat","0.1.5","0.1.8","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.8'"]],
 ["libfido2","1.13.0","1.15.0","runtime-devices",1696572712,["Compliance mode enabled, was '1.15.0'"]],
 ["libwacom","2.4.0","2.14.0","runtime-devices",1663359144,["Compliance mode enabled, was '2.14.0'"]],
