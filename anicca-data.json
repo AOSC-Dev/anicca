@@ -1034,6 +1034,7 @@
 ["helix","24.07","25.01","app-editors",1722264239,["Compliance mode enabled, was '25.01'"]],
 ["imhex","1.35.4","1.36.2","app-editors",1723441135,["Compliance mode enabled, was '1.36.2'"]],
 ["vim","9.1.0981","9.1.0993","app-editors",1735623279,["Compliance mode enabled, was '9.1.0993'"]],
+["zed","0.167.1","0.167.2","app-editors",1735974336,["Compliance mode enabled, was '0.167.2'"]],
 ["retext","7.2.2","8.0.2","app-editors",1623988108,["Compliance mode enabled, was '8.0.2'"]],
 ["neovim","0.10.2","0.10.3","app-editors",1729907441,["Compliance mode enabled, was '0.10.3'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
