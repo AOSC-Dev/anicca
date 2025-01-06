@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736154731?label=Updated)
+![Relative date](https://img.shields.io/date/1736158393?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -389,6 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-emu|2407|2412|app-games|Compliance mode enabled, was '2412'|
 |dolphin-plugins|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |dolphin-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
 |dotnet|8.0.403|8.0.404|groups|Compliance mode enabled, was '8.0.404'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
 |dotnet-apphost-pack-8.0|8.0.10|8.0.11|lang-dotnet|Compliance mode enabled, was '8.0.11'|
@@ -2521,6 +2522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
 |sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
 |synaptic|0.91.3|0.91.4|app-admin|Compliance mode enabled, was '0.91.4'|
+|syncthing|1.28.1|1.29.0|app-network|Compliance mode enabled, was '1.29.0'|
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
 |syndication|5.115.0|6.9.0|desktop-kde|Compliance mode enabled, was '6.9.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
