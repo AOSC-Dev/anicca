@@ -2866,6 +2866,7 @@
 ["cabal-install","3.10.3.0","3.14.1.1","lang-haskell",1711355899,["Compliance mode enabled, was '3.14.1.1'"]],
 ["ghc","9.4.8","9.12.1-release","lang-haskell",1711355899,["Compliance mode enabled, was '9.12.1-release'"]],
 ["genwan-font","2.000","2.100","desktop-fonts",1722259650,["Compliance mode enabled, was '2.100'"]],
+["ibm-plex-fonts","6.4.0","6.4.2","desktop-fonts",1715870430,["Compliance mode enabled, was '6.4.2'"]],
 ["genyo-font","1.501","2.100","desktop-fonts",1596222727,["Compliance mode enabled, was '2.100'"]],
 ["adobe-source-han-serif","2.002","2.003r","desktop-fonts",1706083317,["Compliance mode enabled, was '2.003R'"]],
 ["fonttools","4.53.1","4.55.3","desktop-fonts",1722203529,["Compliance mode enabled, was '4.55.3'"]],
