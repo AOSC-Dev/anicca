@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736161795?label=Updated)
+![Relative date](https://img.shields.io/date/1736165834?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -56,6 +56,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amarok-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |analitza|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
+|android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.18.1|app-admin|Compliance mode enabled, was '2.18.1'|
@@ -452,7 +453,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
-|evolution|3.44.4|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
+|evolution|3.44.4|3.54.3|desktop-gnome|Compliance mode enabled, was '3.54.3'|
 |evolution-data-server|3.44.4|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
 |evolution-ews|3.42.0|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
@@ -1823,8 +1824,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pango|1.52.2|1.55.5|runtime-desktop|Compliance mode enabled, was '1.55.5'|
-|pango+32|1.44.7|1.55.5|runtime-optenv32|Compliance mode enabled, was '1.55.5'|
+|pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
+|pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
 |pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |pangomm-2.48|2.50.1|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
