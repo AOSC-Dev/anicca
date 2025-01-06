@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736176348?label=Updated)
+![Relative date](https://img.shields.io/date/1736179925?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -263,7 +263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-screensaver|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-session|5.8.1|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
-|cinnamon-translations|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
+|cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |clash-verge-rev|1.7.7|2.0.2|app-network|Compliance mode enabled, was '2.0.2'|
 |clazy|1.11|1.13|app-devel|Compliance mode enabled, was '1.13'|
@@ -1799,6 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
+|orc|0.4.32|0.4.40|app-devel|Compliance mode enabled, was '0.4.40'|
 |orc+32|0.4.32|0.4.40|runtime-optenv32|Compliance mode enabled, was '0.4.40'|
 |orca|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |os-prober|1.81|1.83|app-utils|Compliance mode enabled, was '1.83'|
@@ -2627,6 +2628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tigervnc|1.14.0|1.14.1|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
+|timeshift|24.06.5|24.06.6|app-utils|Compliance mode enabled, was '24.06.6'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tint2|16.7|17.0.2|desktop-wm|Compliance mode enabled, was '17.0.2'|
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
@@ -2780,7 +2782,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
 |vulkan-validationlayers|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|warpinator|1.6.3|1.8.7|desktop-cinnamon|Compliance mode enabled, was '1.8.7'|
+|warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
 |watchman|4.9.0|2024.12.30.00|app-utils|Compliance mode enabled, was '2024.12.30.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
@@ -2895,7 +2897,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.1.0|runtime-common|Compliance mode enabled, was '13.1.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|397|app-utils|Compliance mode enabled, was '397'|
-|xviewer|3.4.6|3.4.7|app-imaging|Compliance mode enabled, was '3.4.7'|
+|xviewer|3.4.6|3.4.8|app-imaging|Compliance mode enabled, was '3.4.8'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
 |yakuake|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
