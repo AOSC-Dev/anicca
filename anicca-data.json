@@ -2917,6 +2917,7 @@
 ["certbot-nginx","2.10.0","3.0.1","app-web",1716728325,["Compliance mode enabled, was '3.0.1'"]],
 ["pidgin","2.14.13","2.90.1","app-web",1721488554,["Compliance mode enabled, was '2.90.1'"]],
 ["postfix","3.7.3","3.9.1","app-web",1721223235,["Compliance mode enabled, was '3.9.1'"]],
+["chromium","131.0.6778.204","131.0.6778.264","app-web",1735346608,["Compliance mode enabled, was '131.0.6778.264'"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
 ["rclone","1.68.0","1.68.2","app-web",1727015619,["Compliance mode enabled, was '1.68.2'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
