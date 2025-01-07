@@ -1885,7 +1885,7 @@
 ["opencl-registry-api","2024.05.08","2024.10.24","app-devel",1730992779,["Compliance mode enabled, was '2024.10.24'"]],
 ["ltrace","0.7.3+git20151111","0.7.91~git20230705.8eabf68","app-devel",1620461825,["Compliance mode enabled, was '0.7.91~git20230705.8eabf68'"]],
 ["castxml","0.6.8","0.6.10","app-devel",1723474823,["Compliance mode enabled, was '0.6.10'"]],
-["sccache","0.3.3","0.9.0","app-devel",1680558295,["Compliance mode enabled, was '0.9.0'"]],
+["sccache","0.3.3","0.9.1","app-devel",1680558295,["Compliance mode enabled, was '0.9.1'"]],
 ["avr-binutils","2.37","2.43.1","app-devel",1634066043,["Compliance mode enabled, was '2.43.1'"]],
 ["orc","0.4.32","0.4.40","app-devel",1600577920,["Compliance mode enabled, was '0.4.40'"]],
 ["cuda","12.5.0","12.6.3","app-devel",1716358366,[]],
