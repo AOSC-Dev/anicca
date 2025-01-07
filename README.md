@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736269923?label=Updated)
+![Relative date](https://img.shields.io/date/1736273649?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.14.1.1|lang-haskell|Compliance mode enabled, was '3.14.1.1'|
-|cachecontrol|0.14.0|0.14.1|lang-python|Compliance mode enabled, was '0.14.1'|
+|cachecontrol|0.14.0|0.14.2|lang-python|Compliance mode enabled, was '0.14.2'|
 |cachetools|3.1.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |caddy|2.8.4|2.9.0|app-web|Compliance mode enabled, was '2.9.0'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
@@ -1408,6 +1408,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsixel|1.8.6|1.10.3|runtime-imaging|Compliance mode enabled, was '1.10.3'|
 |libslirp|4.6.1|4.8.0|runtime-emulation|Compliance mode enabled, was '4.8.0'|
 |libsndfile|1.2.0|1.2.2|runtime-multimedia|Compliance mode enabled, was '1.2.2'|
+|libsndfile+32|1.2.0|1.2.2|runtime-optenv32|Compliance mode enabled, was '1.2.2'|
 |libsodium|1.0.18|1.0.20|runtime-cryptography|Compliance mode enabled, was '1.0.20'|
 |libsoundio|1.1.0|2.0.1+7|runtime-multimedia|Compliance mode enabled, was '2.0.1-7'|
 |libsoup|2.74.2|3.6.1|runtime-web|Compliance mode enabled, was '3.6.1'|
@@ -1851,6 +1852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
+|pbr|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.3.2|app-utils|Compliance mode enabled, was '6.3.2'|
