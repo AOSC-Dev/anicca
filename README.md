@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736205042?label=Updated)
+![Relative date](https://img.shields.io/date/1736210464?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -430,6 +430,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |e2fsprogs|1.47.1|1.47.2|app-admin|Compliance mode enabled, was '1.47.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
+|easyeffects|7.2.2|7.2.3|app-multimedia|Compliance mode enabled, was '7.2.3'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
@@ -2927,7 +2928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.167.1|0.167.2|app-editors|Compliance mode enabled, was '0.167.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
-|zeroconf|0.28.6|0.137.0|lang-python|Compliance mode enabled, was '0.137.0'|
+|zeroconf|0.28.6|0.137.1|lang-python|Compliance mode enabled, was '0.137.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zfs|2.2.7|2.3.99|app-admin|Compliance mode enabled, was '2.3.99'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
