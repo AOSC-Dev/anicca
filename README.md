@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736345441?label=Updated)
+![Relative date](https://img.shields.io/date/1736349054?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -79,7 +79,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |argcomplete|3.5.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
 |argon2|20190702|20171227|runtime-cryptography|Compliance mode enabled, was '20171227'<br>Possible downgrade from the current version (20190702 -> 20171227)|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
-|arianna|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ark|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |arpack-ng|3.8.0|3.9.1|app-scientific|Compliance mode enabled, was '3.9.1'|
 |arpwatch|3.6|3.7|app-network|Compliance mode enabled, was '3.7'|
@@ -2111,7 +2110,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerdevil|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.4.6|app-shells|Compliance mode enabled, was '7.4.6'|
-|poxml|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
 |ppp|2.4.9|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |ppsspp|1.17.1|1.18.1|app-games|Compliance mode enabled, was '1.18.1'|
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
