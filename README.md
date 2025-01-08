@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736338781?label=Updated)
+![Relative date](https://img.shields.io/date/1736342468?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -257,7 +257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.204|131.0.6778.264|app-web|Compliance mode enabled, was '131.0.6778.264'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.8.8|3.9.1|app-devel|Compliance mode enabled, was '3.9.1'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
 |cinnamon|5.8.3|6.4.4|groups|Compliance mode enabled, was '6.4.4'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -1290,7 +1289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|runtime-network|Compliance mode enabled, was '2.3.7'|
 |libindi|2.0.5|2.1.1|runtime-scientific|Compliance mode enabled, was '2.1.1'|
 |libinput|1.27.0|1.27.1|runtime-devices|Compliance mode enabled, was '1.27.1'|
-|libintl-perl|1.29|1.33|lang-perl|Compliance mode enabled, was '1.33'|
+|libintl-perl|1.29|1.34|lang-perl|Compliance mode enabled, was '1.34'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
 |libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
