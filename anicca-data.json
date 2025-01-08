@@ -2932,7 +2932,6 @@
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
 ["squid","5.7","6.12","app-web",1669533924,["Compliance mode enabled, was '6.12'"]],
 ["firefox","133.0.3","134.0","app-web",1734874716,["Compliance mode enabled, was '134.0'"]],
-["google-chrome","131.0.6778.204","131.0.6778.264","app-web",1734756449,["Compliance mode enabled, was '131.0.6778.264'"]],
 ["lychee","0.15.1","0.18.0","app-web",1715444831,["Compliance mode enabled, was '0.18.0'"]],
 ["certbot","2.11.0","3.1.0","groups",1717723307,["Compliance mode enabled, was '3.1.0'"]],
 ["toxcore","0.2.18","0.2.20","app-web",1655338775,["Compliance mode enabled, was '0.2.20'"]],
