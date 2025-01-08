@@ -420,7 +420,6 @@
 ["dante","1.4.2","1.4.3","app-network",1510974704,["Compliance mode enabled, was '1.4.3'"]],
 ["netctl","1.23","1.29","app-network",1601189022,["Compliance mode enabled, was '1.29'"]],
 ["rtmpdump","20151223","2.4+20151223.gitfa8646d.1","app-network",1696572712,["Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'","Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)"]],
-["cloudflared","2024.12.2","2025.1.0","app-network",1734759386,["Compliance mode enabled, was '2025.1.0'"]],
 ["radvd","2.19","2.20","app-network",1552787598,["Compliance mode enabled, was '2.20'"]],
 ["miniupnpc","2.1","2.2.8","app-network",1528905474,["Compliance mode enabled, was '2.2.8'"]],
 ["wrk","4.1.0","4.2.0","app-network",1528905473,["Compliance mode enabled, was '4.2.0'"]],
