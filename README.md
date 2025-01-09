@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736460624?label=Updated)
+![Relative date](https://img.shields.io/date/1736464253?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -177,8 +177,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.35.95|lang-python|Compliance mode enabled, was '1.35.95'|
-|botocore|1.34.133|1.35.95|lang-python|Compliance mode enabled, was '1.35.95'|
+|boto3|1.20.26|1.35.96|lang-python|Compliance mode enabled, was '1.35.96'|
+|botocore|1.34.133|1.35.96|lang-python|Compliance mode enabled, was '1.35.96'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.17|app-utils|Compliance mode enabled, was '51.17'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.17)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -664,7 +664,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.157.0|lang-python|Compliance mode enabled, was '2.157.0'|
+|google-api-python-client|1.7.11|2.158.0|lang-python|Compliance mode enabled, was '2.158.0'|
 |google-auth|1.6.3|2.37.0|lang-python|Compliance mode enabled, was '2.37.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.5.1|lang-golang|Compliance mode enabled, was '2.5.1'|
@@ -1515,7 +1515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
 |linux+kernel+retro+minimal|5.15.17|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (5.15.17 -> 5.10.233)|
-|linux-firmware|20241128|20241210|runtime-kernel||
+|linux-firmware|20241128|20250109|runtime-kernel||
 |linux-kernel|6.11.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
 |linux-kernel-lts|6.6.63|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.63 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
