@@ -1501,6 +1501,7 @@
 ["light-locker","1.8.0","1.9.0","app-utils",1527956211,["Compliance mode enabled, was '1.9.0'"]],
 ["unace","2.5","2.5.orig","app-utils",1469374509,["Compliance mode enabled, was '2.5.orig'","Possible downgrade from the current version (2.5 -> 2.5.orig)"]],
 ["balz","1.20",".55","app-utils",1470117249,["Compliance mode enabled, was '.55'"]],
+["fastfetch","2.33.0","2.34.0","app-utils",1735221784,["Compliance mode enabled, was '2.34.0'"]],
 ["yad","14.0","14.1","app-utils",1719122607,["Compliance mode enabled, was '14.1'"]],
 ["open-rs","5.3.0","5.3.2","app-utils",1723457628,["Compliance mode enabled, was '5.3.2'"]],
 ["uml-utilities","20070815.4","20070815.4.orig","app-utils",1594018844,["Compliance mode enabled, was '20070815.4.orig'","Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)"]],
