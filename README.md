@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736453606?label=Updated)
+![Relative date](https://img.shields.io/date/1736457000?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -501,6 +501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |flacon|11.4.0|11.99.1|app-multimedia|Compliance mode enabled, was '11.99.1'|
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
+|flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |flatbuffers|2.0.6|24.12.23|runtime-common|Compliance mode enabled, was '24.12.23'|
 |flatpak|1.14.10|1.16.0|app-admin|Compliance mode enabled, was '1.16.0'|
@@ -1579,7 +1580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mariadb|11.4.3|11.8.0|app-database|Compliance mode enabled, was '11.8.0'|
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
 |markdownpart|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|marshmallow|3.20.2|3.24.2|lang-python|Compliance mode enabled, was '3.24.2'|
+|marshmallow|3.20.2|3.25.0|lang-python|Compliance mode enabled, was '3.25.0'|
 |mat2|0.13.0|0.13.5|app-utils|Compliance mode enabled, was '0.13.5'|
 |mate-applets|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-notification-daemon|1.28.1|1.28.3|desktop-mate|Compliance mode enabled, was '1.28.3'|
@@ -1842,8 +1843,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pango|1.52.2|1.54.0|runtime-desktop|Compliance mode enabled, was '1.54.0'|
-|pango+32|1.44.7|1.54.0|runtime-optenv32|Compliance mode enabled, was '1.54.0'|
+|pango|1.52.2|1.56.0|runtime-desktop|Compliance mode enabled, was '1.56.0'|
+|pango+32|1.44.7|1.56.0|runtime-optenv32|Compliance mode enabled, was '1.56.0'|
 |pangomm|2.46.3|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |pangomm-2.48|2.50.1|2.54.0|runtime-desktop|Compliance mode enabled, was '2.54.0'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
@@ -2546,7 +2547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
 |sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
 |synaptic|0.91.3|0.91.4|app-admin|Compliance mode enabled, was '0.91.4'|
-|syncthing|1.28.1|1.29.0|app-network|Compliance mode enabled, was '1.29.0'|
+|syncthing|1.28.1|1.29.1|app-network|Compliance mode enabled, was '1.29.1'|
 |syncthing-gtk|0.9.4.4|0.9.4.5|app-network|Compliance mode enabled, was '0.9.4.5'|
 |syndication|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
