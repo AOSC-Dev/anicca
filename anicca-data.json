@@ -432,7 +432,7 @@
 ["wrapt","1.11.2","1.17.0","lang-python",1581796622,["Compliance mode enabled, was '1.17.0'"]],
 ["jmespath","0.10.0","1.0.1","lang-python",1616123331,["Compliance mode enabled, was '1.0.1'"]],
 ["backports","0","1.1","lang-python",1549919968,["Compliance mode enabled, was '1.1'"]],
-["hypothesis-python","6.97.4","6.123.11","lang-python",1706859511,["Compliance mode enabled, was '6.123.11'"]],
+["hypothesis-python","6.97.4","6.123.13","lang-python",1706859511,["Compliance mode enabled, was '6.123.13'"]],
 ["pypdf","4.0.1","5.1.0","lang-python",1707299111,["Compliance mode enabled, was '5.1.0'"]],
 ["botocore","1.34.133","1.35.95","lang-python",1719928499,["Compliance mode enabled, was '1.35.95'"]],
 ["cairocffi","1.0.2","1.7.1","lang-python",1551159549,["Compliance mode enabled, was '1.7.1'"]],
