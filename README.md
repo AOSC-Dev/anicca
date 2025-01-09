@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736420944?label=Updated)
+![Relative date](https://img.shields.io/date/1736425025?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -803,6 +803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.5|runtime-common|Compliance mode enabled, was '4.2.5'|
+|intel-compute-runtime|24.48.31907.7|24.52.32224.5|runtime-scientific|Compliance mode enabled, was '24.52.32224.5'|
 |intel-gmmlib|22.5.5|22.6.0|runtime-devices|Compliance mode enabled, was '22.6.0'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.2.3|2.5.6|app-devel|Compliance mode enabled, was '2.5.6'|
@@ -1672,7 +1673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |neofetch|7.3.11|7.98.0|app-utils|Compliance mode enabled, was '7.98.0'|
-|neomutt|20241114|20241212|app-web|Compliance mode enabled, was '20241212'|
+|neomutt|20241114|20250109|app-web|Compliance mode enabled, was '20250109'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.31.2|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
 |neovim|0.10.2|0.10.3|app-editors|Compliance mode enabled, was '0.10.3'|
@@ -2918,7 +2919,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.4.6|3.4.8|app-imaging|Compliance mode enabled, was '3.4.8'|
 |xz+32|5.4.1|5.6.3|runtime-optenv32|Compliance mode enabled, was '5.6.3'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
-|yakuake|23.08.5|24.12.0|desktop-kde|Compliance mode enabled, was '24.12.0'|
+|yakuake|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |yakuake-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |yaml-cpp|0.6.3|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |yara|4.5.0|4.5.2|app-utils|Compliance mode enabled, was '4.5.2'|
