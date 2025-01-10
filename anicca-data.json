@@ -1833,6 +1833,7 @@
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
 ["subtitleripper","0.3.4","0.3","app-multimedia",1678950872,["Compliance mode enabled, was '0.3'","Possible downgrade from the current version (0.3.4 -> 0.3)"]],
 ["qsynth","1.0.1","1.0.2","app-multimedia",1726730103,["Compliance mode enabled, was '1.0.2'"]],
+["carla","2.5.8","2.5.9","app-multimedia",1725420791,["Compliance mode enabled, was '2.5.9'"]],
 ["kodi-pvr-iptvsimple","19.2.2","22.4.1-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.4.1-Piers'"]],
 ["owntone","28.9","28.10","app-multimedia",1716444175,["Compliance mode enabled, was '28.10'"]],
 ["polyphone","2.3.0","2.5.0","app-multimedia",1716735892,["Compliance mode enabled, was '2.5.0'"]],
