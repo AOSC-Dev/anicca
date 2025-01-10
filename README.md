@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736511464?label=Updated)
+![Relative date](https://img.shields.io/date/1736515183?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -423,6 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
+|duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.7|runtime-vcs|Compliance mode enabled, was '0.22.7'|
 |dune|3.4.1|3.17.1|lang-ocaml|Compliance mode enabled, was '3.17.1'|
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
@@ -1580,6 +1581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-notification-daemon|1.28.1|1.28.3|desktop-mate|Compliance mode enabled, was '1.28.3'|
 |materialx|1.38.8|1.39.1|runtime-creativity|Compliance mode enabled, was '1.39.1'|
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
 |matplotlib-inline|0.1.7|8.31.0|lang-python|Compliance mode enabled, was '8.31.0'|
 |maturin|1.7.4|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
@@ -2425,6 +2427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |skanpage|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |slick-greeter|2.0.4|2.0.9|desktop-displaymanagers|Compliance mode enabled, was '2.0.9'|
+|slirp4netns|1.2.2|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2600,6 +2603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdepim|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdepowersave|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tderadio|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|tdesdk|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdesudo|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdesvn|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdetoys|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2807,6 +2811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
+|webkit2gtk|2.44.2|2.46.5|runtime-web|Compliance mode enabled, was '2.46.5'|
 |webrtc-audio-processing|0.3|2.0|runtime-multimedia|Compliance mode enabled, was '2.0'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
