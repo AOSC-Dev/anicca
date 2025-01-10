@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736529010?label=Updated)
+![Relative date](https://img.shields.io/date/1736532902?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -497,7 +497,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fio|3.35|3.38|app-utils|Compliance mode enabled, was '3.38'|
 |firefox|133.0.3|134.0|app-web|Compliance mode enabled, was '134.0'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
-|flacon|11.4.0|11.99.1|app-multimedia|Compliance mode enabled, was '11.99.1'|
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
@@ -2414,7 +2413,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|25.01.05|app-creativity|Compliance mode enabled, was '25.01.05'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
-|showmethekey|1.14.0|1.17.0|app-utils|Compliance mode enabled, was '1.17.0'|
+|showmethekey|1.14.0|1.18.0|app-utils|Compliance mode enabled, was '1.18.0'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
