@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736475414?label=Updated)
+![Relative date](https://img.shields.io/date/1736479165?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2519,7 +2519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.12|app-devel|Compliance mode enabled, was '6.12'|
-|strawberry|1.0.23|1.2.3|app-multimedia|Compliance mode enabled, was '1.2.3'|
+|strawberry|1.0.23|1.2.4|app-multimedia|Compliance mode enabled, was '1.2.4'|
 |streamlink|6.7.4|7.1.2|app-multimedia|Compliance mode enabled, was '7.1.2'|
 |stress-ng|0.18.07|0.18.09|app-benchmarks|Compliance mode enabled, was '0.18.09'|
 |strongswan|5.9.4|6.0.0|app-network|Compliance mode enabled, was '6.0.0'|
@@ -2953,6 +2953,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zmusic|1.1.13|1.1.14|app-games|Compliance mode enabled, was '1.1.14'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
+|zope-interface|5.4.0|7.2|lang-python|Compliance mode enabled, was '7.2'|
 |zotero|6.0.26|7.0.11|app-productivity|Compliance mode enabled, was '7.0.11'|
 |zoxide|0.9.4|0.9.6|app-utils|Compliance mode enabled, was '0.9.6'|
 |zram-generator|1.1.2|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
