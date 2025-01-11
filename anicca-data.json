@@ -1428,7 +1428,7 @@
 ["gnuplot","6.0.1","6.0.2","app-utils",1722034863,["Compliance mode enabled, was '6.0.2'"]],
 ["xarchiver","0.5.4.15","0.5.4.23","app-utils",1600708589,["Compliance mode enabled, was '0.5.4.23'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
-["xfe","1.46.1","1.46.2","app-utils",1712719195,["Compliance mode enabled, was '1.46.2'"]],
+["xfe","1.46.1","2.0","app-utils",1712719195,["Compliance mode enabled, was '2.0'"]],
 ["fatattr","1.0.1","1.0.1.orig","app-utils",1510976563,["Compliance mode enabled, was '1.0.1.orig'","Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)"]],
 ["aide","0.16.2","0.18.8","app-utils",1600710259,["Compliance mode enabled, was '0.18.8'"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
