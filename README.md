@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736604397?label=Updated)
+![Relative date](https://img.shields.io/date/1736608057?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -213,7 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
-|cargo-c|0.10.2|0.10.7+cargo-0.84.0|lang-rust|Compliance mode enabled, was '0.10.7+cargo-0.84.0'|
+|cargo-c|0.10.2|0.10.8+cargo-0.85.0|lang-rust|Compliance mode enabled, was '0.10.8+cargo-0.85.0'|
 |cargo-release|0.25.10|0.25.15|lang-rust|Compliance mode enabled, was '0.25.15'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
@@ -416,7 +416,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dragon|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |drkonqi|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
-|dssim-c|1.3.2<br>+git20200922|3.3.1|runtime-imaging|Compliance mode enabled, was '3.3.1'|
+|dssim|3.3.1|3.3.4|app-imaging|Compliance mode enabled, was '3.3.4'|
+|dssim-c|1.3.2<br>+git20200922|3.3.4|runtime-imaging|Compliance mode enabled, was '3.3.4'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
@@ -1701,7 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nghttp2|1.58.0|1.64.0|runtime-web|Compliance mode enabled, was '1.64.0'|
 |nghttp3|1.3.0|1.7.0|runtime-web|Compliance mode enabled, was '1.7.0'|
 |nginx|1.27.1|1.27.3|app-web|Compliance mode enabled, was '1.27.3'|
-|ngspice|35|44|app-electronics|Compliance mode enabled, was '44'|
+|ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
 |ngtcp2|1.5.0|1.10.0|runtime-web|Compliance mode enabled, was '1.10.0'|
 |nlopt|2.7.1|2.9.1|runtime-scientific|Compliance mode enabled, was '2.9.1'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
