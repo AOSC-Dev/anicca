@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736575980?label=Updated)
+![Relative date](https://img.shields.io/date/1736579394?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -624,7 +624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.52.2|desktop-gnome|Compliance mode enabled, was '3.52.2'|
+|gnome-online-accounts|3.44.0|3.52.3|desktop-gnome|Compliance mode enabled, was '3.52.3'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -2682,7 +2682,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.1.10.15|lang-python|Compliance mode enabled, was '2025.1.10.15'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
-|tsukimi|0.18.0|0.18.2|app-multimedia|Compliance mode enabled, was '0.18.2'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
