@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736626241?label=Updated)
+![Relative date](https://img.shields.io/date/1736629550?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1412,8 +1412,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsndfile+32|1.2.0|1.2.2|runtime-optenv32|Compliance mode enabled, was '1.2.2'|
 |libsodium|1.0.18|1.0.20|runtime-cryptography|Compliance mode enabled, was '1.0.20'|
 |libsoundio|1.1.0|2.0.1+7|runtime-multimedia|Compliance mode enabled, was '2.0.1-7'|
-|libsoup|2.74.2|3.6.1|runtime-web|Compliance mode enabled, was '3.6.1'|
-|libsoup-3|3.2.2|3.6.1|runtime-web|Compliance mode enabled, was '3.6.1'|
+|libsoup|2.74.2|3.6.3|runtime-web|Compliance mode enabled, was '3.6.3'|
+|libsoup-3|3.2.2|3.6.3|runtime-web|Compliance mode enabled, was '3.6.3'|
 |libspatialite|5.0.1|5.1.0|runtime-gis|Compliance mode enabled, was '5.1.0'|
 |libspectre|0.2.9|0.2.12|runtime-doc|Compliance mode enabled, was '0.2.12'|
 |libspectre+32|0.2.9|0.2.12|runtime-optenv32|Compliance mode enabled, was '0.2.12'|
