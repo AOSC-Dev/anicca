@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736601343?label=Updated)
+![Relative date](https://img.shields.io/date/1736604397?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1513,6 +1513,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
+|lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.6|runtime-optenv32|Compliance mode enabled, was '19.1.6'|
 |llvm-18|18.1.8|19.1.6|app-devel|Compliance mode enabled, was '19.1.6'|
@@ -1601,6 +1602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.5|app-web|Compliance mode enabled, was '11.5'|
+|mihomo-party|1.5.12|1.5.13|app-network|Compliance mode enabled, was '1.5.13'|
 |milkytracker|1.04.00|1.05.01|app-multimedia|Compliance mode enabled, was '1.05.01'|
 |milou|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |mimalloc|2.1.7|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
@@ -1752,8 +1754,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openal-soft|1.23.1|1.24.1|runtime-multimedia|Compliance mode enabled, was '1.24.1'|
-|openal-soft+32|1.23.1|1.24.1|runtime-optenv32|Compliance mode enabled, was '1.24.1'|
+|openal-soft|1.23.1|1.24.2|runtime-multimedia|Compliance mode enabled, was '1.24.2'|
+|openal-soft+32|1.23.1|1.24.2|runtime-optenv32|Compliance mode enabled, was '1.24.2'|
 |opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|18.1.0|19.1.0|runtime-common|Compliance mode enabled, was '19.1.0'|
@@ -1902,7 +1904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-timezone|2.62|2.63|lang-perl|Compliance mode enabled, was '2.63'|
 |perl-dbd-mysql|4.052|5.011|lang-perl|Compliance mode enabled, was '5.011'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
-|perl-dbi|1.642|1.645|lang-perl|Compliance mode enabled, was '1.645'|
+|perl-dbi|1.642|1.646|lang-perl|Compliance mode enabled, was '1.646'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
