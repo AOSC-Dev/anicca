@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736629550?label=Updated)
+![Relative date](https://img.shields.io/date/1736633334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -626,7 +626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.52.3|desktop-gnome|Compliance mode enabled, was '3.52.3'|
+|gnome-online-accounts|3.44.0|3.52.3.1|desktop-gnome|Compliance mode enabled, was '3.52.3.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -2241,7 +2241,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2024.1.21|lang-python|Compliance mode enabled, was '2024.1.21'|
+|pytools|2019.1|2025.1|lang-python|Compliance mode enabled, was '2025.1'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
