@@ -1791,6 +1791,7 @@
 ["vice","3.5","3.9","app-emulation",1617969757,["Compliance mode enabled, was '3.9'"]],
 ["spike","1.1.0+git20240708","1.1.0","app-emulation",1721227330,["Compliance mode enabled, was '1.1.0'"]],
 ["proj","9.2.1","9.5.1","app-gis",1703753294,["Compliance mode enabled, was '9.5.1'"]],
+["lazygit","0.44.1","0.45.0","app-vcs",1732763881,["Compliance mode enabled, was '0.45.0'"]],
 ["subversion","1.14.3","1.14.5","app-vcs",1724545956,["Compliance mode enabled, was '1.14.5'"]],
 ["mercurial","6.8.1","6.9","app-vcs",1728998119,["Compliance mode enabled, was '6.9'"]],
 ["git","2.47.1","2.48.0","app-vcs",1732671360,["Compliance mode enabled, was '2.48.0'"]],

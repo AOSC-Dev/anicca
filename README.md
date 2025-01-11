@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736572218?label=Updated)
+![Relative date](https://img.shields.io/date/1736575980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1178,6 +1178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |lazarus|3.2|3.6|lang-pascal|Compliance mode enabled, was '3.6'|
 |lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
+|lazygit|0.44.1|0.45.0|app-vcs|Compliance mode enabled, was '0.45.0'|
 |lcms2|2.14|2.16|runtime-imaging|Compliance mode enabled, was '2.16'|
 |lcms2+32|2.9|2.16|runtime-optenv32|Compliance mode enabled, was '2.16'|
 |ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
