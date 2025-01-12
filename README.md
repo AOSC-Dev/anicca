@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736642682?label=Updated)
+![Relative date](https://img.shields.io/date/1736648572?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -626,7 +626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.52.3.1|desktop-gnome|Compliance mode enabled, was '3.52.3.1'|
+|gnome-online-accounts|3.44.0|3.53.0|desktop-gnome|Compliance mode enabled, was '3.53.0'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -1478,7 +1478,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.77|lang-perl|Compliance mode enabled, was '6.77'|
 |libx86|1.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
-|libxau+32|1.0.9|1.0.12|runtime-optenv32|Compliance mode enabled, was '1.0.12'|
 |libxcb+32|1.13|1.17.0|runtime-optenv32|Compliance mode enabled, was '1.17.0'|
 |libxcrypt+32|4.4.36|4.4.37|runtime-optenv32|Compliance mode enabled, was '4.4.37'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
@@ -1665,8 +1664,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
 |ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250104|runtime-common|Compliance mode enabled, was '6.5-20250104'|
-|ncurses+32|6.4|6.5+20250104|runtime-optenv32|Compliance mode enabled, was '6.5-20250104'|
+|ncurses|6.4|6.5+20250111|runtime-common|Compliance mode enabled, was '6.5-20250111'|
+|ncurses+32|6.4|6.5+20250111|runtime-optenv32|Compliance mode enabled, was '6.5-20250111'|
 |nemo|5.8.3|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
