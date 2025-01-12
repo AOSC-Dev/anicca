@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736680026?label=Updated)
+![Relative date](https://img.shields.io/date/1736684405?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1741,7 +1741,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
 |okular|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.13.6|1.13.5|app-admin|Compliance mode enabled, was '1.13.5'<br>Possible downgrade from the current version (1.13.6 -> 1.13.5)|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7647-241230-5e1c242|app-games|Compliance mode enabled, was '1.91.0.7647-241230-5e1c242'|
@@ -2755,6 +2754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
+|vim|9.1.1006|9.1.1009|app-editors|Compliance mode enabled, was '9.1.1009'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.28.1|lang-python|Compliance mode enabled, was '20.28.1'|
