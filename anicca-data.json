@@ -350,7 +350,7 @@
 ["deprecated","1.2.14","1.2.15","lang-python",1722488599,["Compliance mode enabled, was '1.2.15'"]],
 ["pygame","2.5.2","2.6.1","lang-python",1715847709,["Compliance mode enabled, was '2.6.1'"]],
 ["yaspin","1.2.0","3.1.0","lang-python",1609312655,["Compliance mode enabled, was '3.1.0'"]],
-["poetry","1.8.3","2.0.0","lang-python",1724687573,["Compliance mode enabled, was '2.0.0'"]],
+["poetry","1.8.3","2.0.1","lang-python",1724687573,["Compliance mode enabled, was '2.0.1'"]],
 ["python-augeas","1.0.3","1.2.0","lang-python",1505710017,["Compliance mode enabled, was '1.2.0'"]],
 ["pyproject-hooks","1.1.0","1.2.0","lang-python",1724687573,["Compliance mode enabled, was '1.2.0'"]],
 ["pyhamcrest","2.0.3","2.1.0","lang-python",1700548607,["Compliance mode enabled, was '2.1.0'"]],
