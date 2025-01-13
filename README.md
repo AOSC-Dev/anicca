@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736774351?label=Updated)
+![Relative date](https://img.shields.io/date/1736777486?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -624,9 +624,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
-|gnome-shell|42.4|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
+|gnome-shell|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
-|gnome-shell-extensions|42.3|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
+|gnome-shell-extensions|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-software|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -794,6 +794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-media-driver|24.4.4|25.1.0|runtime-multimedia|Compliance mode enabled, was '25.1.0'|
 |inxi|3.3.31<br>+2|3.3.37+1|app-utils|Compliance mode enabled, was '3.3.37-1'|
+|iotop|1.26|1.27|app-utils|Compliance mode enabled, was '1.27'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -1369,7 +1370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
-|libqalculate|4.5.1|5.4.0.1|runtime-scientific|Compliance mode enabled, was '5.4.0.1'|
+|libqalculate|4.5.1|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
 |libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
@@ -1936,7 +1937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.11|lang-perl|Compliance mode enabled, was '13.11'|
+|perl-image-exiftool|12.50|13.12|lang-perl|Compliance mode enabled, was '13.12'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
