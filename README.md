@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736734773?label=Updated)
+![Relative date](https://img.shields.io/date/1736738494?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -575,7 +575,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
-|git|2.47.1|2.48.0|app-vcs|Compliance mode enabled, was '2.48.0'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-lfs|3.5.1|3.6.0|app-devel|Compliance mode enabled, was '3.6.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
@@ -2907,7 +2906,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.48|app-electronics|Compliance mode enabled, was '0.48'|
 |yq|4.44.5|4.45.1|app-devel|Compliance mode enabled, was '4.45.1'|
-|yt-dlp|2024.12.23|2025.01.12|app-multimedia|Compliance mode enabled, was '2025.01.12'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
 |yubikey-manager|4.0.1|5.5.1|app-devices|Compliance mode enabled, was '5.5.1'|
