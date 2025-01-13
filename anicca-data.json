@@ -1025,7 +1025,6 @@
 ["libpcap","1.10.4","1.10.5","runtime-network",1709902196,["Compliance mode enabled, was '1.10.5'"]],
 ["libnftnl","1.2.6","1.2.8","runtime-network",1608367947,["Compliance mode enabled, was '1.2.8'"]],
 ["libssh","0.8.9","0.11.1","runtime-network",1550547634,["Compliance mode enabled, was '0.11.1'"]],
-["libiscsi","1.18.0","1.20.0","runtime-network",1481952809,["Compliance mode enabled, was '1.20.0'"]],
 ["libproxy","0.5.6","0.5.9","runtime-network",1716352034,["Compliance mode enabled, was '0.5.9'"]],
 ["gssdp","1.2.3","1.6.3","runtime-network",1600321916,["Compliance mode enabled, was '1.6.3'"]],
 ["libndp","1.7","1.9","runtime-network",1531411178,["Compliance mode enabled, was '1.9'"]],
