@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736806209?label=Updated)
+![Relative date](https://img.shields.io/date/1736809806?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2725,12 +2725,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
 |utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
-|util-linux|2.40.2|2.40.3|app-utils|Compliance mode enabled, was '2.40.3'|
-|util-linux+32|2.29.2|2.40.3|runtime-optenv32|Compliance mode enabled, was '2.40.3'|
+|util-linux|2.40.2|2.40.4|app-utils|Compliance mode enabled, was '2.40.4'|
+|util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.23.0|5.24.0|app-network|Compliance mode enabled, was '5.24.0'|
-|v2ray-rules-dat|202412282210|202501122211|runtime-data|Compliance mode enabled, was '202501122211'<br>Versions not comparable: `202412282210` and `202501122211`|
+|v2ray-rules-dat|202412282210|202501132211|runtime-data|Compliance mode enabled, was '202501132211'<br>Versions not comparable: `202412282210` and `202501132211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
