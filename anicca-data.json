@@ -1896,7 +1896,7 @@
 ["robin-hood-hashing","3.11.4","3.11.5","runtime-common",1641887627,["Compliance mode enabled, was '3.11.5'"]],
 ["fstrcmp","0.7.D001","0.7.d001","runtime-common",1550612940,["Compliance mode enabled, was '0.7.D001'"]],
 ["editline","1.16.1","1.17.1","runtime-common",1568432964,["Compliance mode enabled, was '1.17.1'"]],
-["lzlib","1.11","1.14","runtime-common",1570905164,["Compliance mode enabled, was '1.14'"]],
+["lzlib","1.11","1.15","runtime-common",1570905164,["Compliance mode enabled, was '1.15'"]],
 ["json-c","0.16","0.18","runtime-common",1662693210,["Compliance mode enabled, was '0.18'"]],
 ["etl","1.2.2","1.5.3","runtime-common",1555643076,["Compliance mode enabled, was '1.5.3'"]],
 ["glib-networking","2.72.2","2.80.1","runtime-common",1663210244,["Compliance mode enabled, was '2.80.1'"]],
