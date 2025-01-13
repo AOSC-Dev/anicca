@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736792073?label=Updated)
+![Relative date](https://img.shields.io/date/1736795235?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1816,7 +1816,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pacman|6.0.1|7.0.0|app-admin|Compliance mode enabled, was '7.0.0'|
 |pahole|1.25|1.28|app-utils|Compliance mode enabled, was '1.28'|
 |palapeli|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
@@ -2766,6 +2765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpl-gpu-rt|24.4.4|25.1.0|runtime-multimedia|Compliance mode enabled, was '25.1.0'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.96.2|1.96.3|app-editors|Compliance mode enabled, was '1.96.3'|
+|vscodium|1.96.2.24355|1.96.3.25013|app-editors|Compliance mode enabled, was '1.96.3.25013'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
@@ -2781,7 +2781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|4.9.0|2025.01.06.00|app-utils|Compliance mode enabled, was '2025.01.06.00'|
+|watchman|4.9.0|2025.01.13.00|app-utils|Compliance mode enabled, was '2025.01.13.00'|
 |wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
 |wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
