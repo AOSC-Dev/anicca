@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736827947?label=Updated)
+![Relative date](https://img.shields.io/date/1736831547?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -526,7 +526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.10|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
-|fscan|1.8.4|2.0.0-build1|app-utils|Compliance mode enabled, was '2.0.0-build1'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-overlayfs|1.13|1.14|app-admin|Compliance mode enabled, was '1.14'|
 |fuse-python|0.3.1|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
@@ -1755,7 +1754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.9.0|4.11.0|runtime-scientific|Compliance mode enabled, was '4.11.0'|
 |openexr|3.1.8|3.3.2|runtime-imaging|Compliance mode enabled, was '3.3.2'|
 |openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
-|openimagedenoise|1.4.3|2.3.1|runtime-imaging|Compliance mode enabled, was '2.3.1'|
+|openimagedenoise|1.4.3|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |openimageio|2.4.17.0|3.0.2.0|runtime-imaging|Compliance mode enabled, was '3.0.2.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
@@ -2402,6 +2401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
+|sing-box|1.10.6|1.10.7|app-network|Compliance mode enabled, was '1.10.7'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
