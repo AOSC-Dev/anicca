@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736824272?label=Updated)
+![Relative date](https://img.shields.io/date/1736827947?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1287,6 +1287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
 |libjpeg-turbo+32|2.0.5|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
 |libjxl|0.10.2|0.11.1|runtime-imaging|Compliance mode enabled, was '0.11.1'|
+|libkcddb|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkcompactdisc|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkdcraw|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkdcraw-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2509,7 +2510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.16|1.9.16p2|app-admin|Compliance mode enabled, was '1_9_16p2'<br>Possible downgrade from the current version (1.9.16 -> 1.9.16p2)|
 |suitesparse|7.6.1|7.8.3|runtime-scientific|Compliance mode enabled, was '7.8.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.1|2025.113.133213|app-multimedia|Compliance mode enabled, was '2025.113.133213'|
+|sunshine|0.23.1|2025.114.33454|app-multimedia|Compliance mode enabled, was '2025.114.33454'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2760,7 +2761,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
 |volk-meta-loader+32|1.3.283.0|1.4.304|runtime-optenv32|Compliance mode enabled, was '1.4.304'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
-|vpl-gpu-rt|24.4.4|25.1.0|runtime-multimedia|Compliance mode enabled, was '25.1.0'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.96.2|1.96.3|app-editors|Compliance mode enabled, was '1.96.3'|
 |vscodium|1.96.2.24355|1.96.3.25013|app-editors|Compliance mode enabled, was '1.96.3.25013'|
@@ -2885,7 +2885,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xorgxrdp|0.10.1|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
-|xournalpp|1.1.3|1.2.5|runtime-productivity|Compliance mode enabled, was '1.2.5'|
 |xpra|6.1.2|6.2.2|app-network|Compliance mode enabled, was '6.2.2'|
 |xray|24.12.31|25.1.1|app-network|Compliance mode enabled, was '25.1.1'|
 |xrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
