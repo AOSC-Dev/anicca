@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736881579?label=Updated)
+![Relative date](https://img.shields.io/date/1736885492?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -98,8 +98,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astrometry.net|0.94|0.97|app-scientific|Compliance mode enabled, was '0.97'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
-|at-spi2-core|2.52.0|2.55.0|desktop-gnome|Compliance mode enabled, was '2.55.0'|
-|at-spi2-core+32|2.26.3|2.55.0|runtime-optenv32|Compliance mode enabled, was '2.55.0'|
+|at-spi2-core|2.52.0|2.55.0.1|desktop-gnome|Compliance mode enabled, was '2.55.0.1'|
+|at-spi2-core+32|2.26.3|2.55.0.1|runtime-optenv32|Compliance mode enabled, was '2.55.0.1'|
 |atk+32|2.26.1|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
@@ -629,7 +629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
-|gnome-software|42.4|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
+|gnome-software|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-system-monitor|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
@@ -2331,7 +2331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpm|4.18.0|4.20.0-release|app-admin|Compliance mode enabled, was '4.20.0-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |rsa|4.0|4.9|lang-python|Compliance mode enabled, was '4.9'|
-|rsync|3.2.7|3.3.0|app-network|Compliance mode enabled, was '3.3.0'|
+|rsync|3.4.0|3.3.0|app-network|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.4.0 -> 3.3.0)|
 |rt-tests|2.6|2.8|app-utils|Compliance mode enabled, was '2.8'|
 |rtaudio|5.1.0|6.0.1|runtime-multimedia|Compliance mode enabled, was '6.0.1'|
 |rtmidi|4.0.0|6.0.0|runtime-multimedia|Compliance mode enabled, was '6.0.0'|
