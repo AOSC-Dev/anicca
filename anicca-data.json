@@ -2791,6 +2791,7 @@
 ["scapy","2.5.0","2.6.1","app-network",1716390068,["Compliance mode enabled, was '2.6.1'"]],
 ["spamassassin","3.4.6","4.0.1","app-network",1620896491,["Compliance mode enabled, was '4.0.1'"]],
 ["dante","1.4.2","1.4.4","app-network",1510974704,["Compliance mode enabled, was '1.4.4'"]],
+["iproute2","6.11.0","6.12.0","app-network",1728548003,["Compliance mode enabled, was '6.12.0'"]],
 ["iwd","3.2","3.3","app-network",1732863969,["Compliance mode enabled, was '3.3'"]],
 ["lldpd","1.0.18","1.0.19","app-network",1729158390,["Compliance mode enabled, was '1.0.19'"]],
 ["networkmanager","1.40.6","1.50.1","app-network",1673935875,["Compliance mode enabled, was '1.50.1'"]],
