@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736874659?label=Updated)
+![Relative date](https://img.shields.io/date/1736878471?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -564,6 +564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gettext|0.23|0.23.1|app-devel|Compliance mode enabled, was '0.23.1'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
+|gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
@@ -573,6 +574,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib|5.1.8|5.2.2|runtime-imaging|Compliance mode enabled, was '5.2.2'|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
+|git|2.48.0|2.48.1|app-vcs|Compliance mode enabled, was '2.48.1'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-lfs|3.5.1|3.6.0|app-devel|Compliance mode enabled, was '3.6.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
@@ -681,13 +683,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gspell|1.11.1|1.14.0|desktop-gnome|Compliance mode enabled, was '1.14.0'|
 |gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
-|gst-libav-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
-|gst-plugins-bad-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
-|gst-plugins-base-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
-|gst-plugins-good-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
-|gst-plugins-ugly-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
-|gstreamer|1.24.7|1.24.11|runtime-multimedia|Compliance mode enabled, was '1.24.11'|
-|gstreamer-1-0+32|1.16.2|1.24.11|groups|Compliance mode enabled, was '1.24.11'|
+|gst-libav-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
+|gst-plugins-bad-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
+|gst-plugins-base-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
+|gst-plugins-good-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
+|gst-plugins-ugly-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
+|gstreamer|1.24.7|1.25.1|runtime-multimedia|Compliance mode enabled, was '1.25.1'|
+|gstreamer-1-0+32|1.16.2|1.25.1|groups|Compliance mode enabled, was '1.25.1'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
 |gtk-4|4.16.5|4.16.12|desktop-gnome|Compliance mode enabled, was '4.16.12'|
