@@ -178,6 +178,7 @@
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
 ["hugo","0.139.3","0.140.2","app-web",1733051887,["Compliance mode enabled, was '0.140.2'"]],
 ["certbot","2.11.0","3.1.0","app-web",1717723307,["Compliance mode enabled, was '3.1.0'"]],
+["discord","0.0.79","0.0.80","app-web",1736225340,["Compliance mode enabled, was '0.0.80'"]],
 ["postfix","3.7.3","3.9.1","app-web",1721223235,["Compliance mode enabled, was '3.9.1'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
