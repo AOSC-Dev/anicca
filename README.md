@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736820585?label=Updated)
+![Relative date](https://img.shields.io/date/1736824272?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1287,7 +1287,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
 |libjpeg-turbo+32|2.0.5|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
 |libjxl|0.10.2|0.11.1|runtime-imaging|Compliance mode enabled, was '0.11.1'|
-|libkcddb|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkcompactdisc|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkdcraw|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkdcraw-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1496,7 +1495,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
 |linux+kernel+retro+minimal|5.15.17|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (5.15.17 -> 5.10.233)|
-|linux-firmware|20250107|20250109|runtime-kernel||
+|linux-firmware|20250113|20250109|runtime-kernel|Possible downgrade from the current version (20250113 -> 20250109)|
 |linux-kernel|6.11.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.11.10 -> 5.19.17)|
 |linux-kernel-lts|6.6.63|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.6.63 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
