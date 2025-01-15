@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736907032?label=Updated)
+![Relative date](https://img.shields.io/date/1736910745?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -658,7 +658,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.159.0|lang-python|Compliance mode enabled, was '2.159.0'|
 |google-auth|1.6.3|2.37.0|lang-python|Compliance mode enabled, was '2.37.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|131.0.6778.264|132.0.6834.83|app-web|Compliance mode enabled, was '132.0.6834.83'|
 |goreleaser|2.2.0|2.5.1|lang-golang|Compliance mode enabled, was '2.5.1'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
@@ -1589,7 +1588,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.34|app-admin|Compliance mode enabled, was '1.6.34'|
 |mercurial|6.8.1|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |merkuro|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|mesa|24.3.2|24.3.3|runtime-display||
 |mesa+32|22.1.7|24.3.3|runtime-optenv32|Compliance mode enabled, was '24.3.3'|
 |mesa-amber|21.3.9|24.3.3|runtime-display|Compliance mode enabled, was '24.3.3'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.3|runtime-display|Compliance mode enabled, was '24.3.3'|
@@ -1652,7 +1650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
-|ncbi-vdb|3.0.2|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
+|ncbi-vdb|3.0.2|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20250111|runtime-common|Compliance mode enabled, was '6.5-20250111'|
@@ -2772,7 +2770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.96.2|1.96.3|app-editors|Compliance mode enabled, was '1.96.3'|
-|vscodium|1.96.2.24355|1.96.3.25013|app-editors|Compliance mode enabled, was '1.96.3.25013'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
@@ -2789,8 +2786,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
 |watchman|4.9.0|2025.01.13.00|app-utils|Compliance mode enabled, was '2025.01.13.00'|
-|wavpack|5.2.0|5.7.0|app-multimedia|Compliance mode enabled, was '5.7.0'|
-|wavpack+32|5.2.0|5.7.0|runtime-optenv32|Compliance mode enabled, was '5.7.0'|
+|wavpack|5.2.0|5.8.0-dirty|app-multimedia|Compliance mode enabled, was '5.8.0-dirty'|
+|wavpack+32|5.2.0|5.8.0-dirty|runtime-optenv32|Compliance mode enabled, was '5.8.0-dirty'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
@@ -2928,7 +2925,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.168.2|0.168.3|app-editors|Compliance mode enabled, was '0.168.3'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
 |zeroconf|0.28.6|0.139.0|lang-python|Compliance mode enabled, was '0.139.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
