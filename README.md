@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736928801?label=Updated)
+![Relative date](https://img.shields.io/date/1736932260?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1450,8 +1450,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvarlink|23|24|runtime-common|Compliance mode enabled, was '24'|
 |libvdpau+32|1.1.1|1.5|runtime-optenv32|Compliance mode enabled, was '1.5'|
-|libvirt|10.5.0|10.10.0|app-virtualization|Compliance mode enabled, was '10.10.0'|
-|libvirt-python|10.5.0|10.10.0|runtime-virtualization|Compliance mode enabled, was '10.10.0'|
+|libvirt|10.5.0|11.0.0|app-virtualization|Compliance mode enabled, was '11.0.0'|
+|libvirt-python|10.5.0|11.0.0|runtime-virtualization|Compliance mode enabled, was '11.0.0'|
 |libvisio|0.1.7|0.1.8|runtime-productivity|Compliance mode enabled, was '0.1.8'|
 |libvisual|0.4.0|0.4.2|runtime-multimedia|Compliance mode enabled, was '0.4.2'|
 |libvisual+32|0.4.0|0.4.2|runtime-optenv32|Compliance mode enabled, was '0.4.2'|
