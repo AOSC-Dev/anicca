@@ -130,7 +130,7 @@
 ["perl-class-data-inheritable","0.08","0.10","lang-perl",1596485702,["Compliance mode enabled, was '0.10'"]],
 ["perl-net-dbus","1.1.0","1.2.0","lang-perl",1457405987,["Compliance mode enabled, was '1.2.0'"]],
 ["perl-gnome2-canvas","1.002","1.006","lang-perl",1486229170,["Compliance mode enabled, was '1.006'"]],
-["libintl-perl","1.29","1.34","lang-perl",1530196415,["Compliance mode enabled, was '1.34'"]],
+["libintl-perl","1.29","1.35","lang-perl",1530196415,["Compliance mode enabled, was '1.35'"]],
 ["perl-anyevent-i3","0.17","0.19","lang-perl",1530196415,["Compliance mode enabled, was '0.19'"]],
 ["perl-datetime-format-strptime","1.77","1.79","lang-perl",1596485702,["Compliance mode enabled, was '1.79'"]],
 ["perl-uri","1.74","5.31","lang-perl",1530196414,["Compliance mode enabled, was '5.31'"]],
