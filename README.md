@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736901601?label=Updated)
+![Relative date](https://img.shields.io/date/1736907032?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1169,7 +1169,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kxmlrpcclient|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
-|lact|0.5.6|0.6.0|app-admin|Compliance mode enabled, was '0.6.0'|
+|lact|0.5.6|0.7.0|app-admin|Compliance mode enabled, was '0.7.0'|
 |ladish|20200418|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (20200418 -> 1.2)|
 |lapack|3.12.0|3.12.1|app-scientific|Compliance mode enabled, was '3.12.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
@@ -2490,7 +2490,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
 |squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
-|sra-tools|3.0.3|3.1.1|app-scientific|Compliance mode enabled, was '3.1.1'|
+|sra-tools|3.0.3|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |sratom|0.6.4|0.6.16|runtime-common|Compliance mode enabled, was '0.6.16'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
 |srtp+32|1.5.4|2.6.0|runtime-optenv32|Compliance mode enabled, was '2.6.0'|
