@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736971873?label=Updated)
+![Relative date](https://img.shields.io/date/1736975352?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1702,7 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.0|1.18.1|lang-ruby|Compliance mode enabled, was '1.18.1'|
-|nomino|1.3.1|1.5.0|app-utils|Compliance mode enabled, was '1.5.0'|
+|nomino|1.3.1|1.5.2|app-utils|Compliance mode enabled, was '1.5.2'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
 |novaclient|18.6.0|18.7.0|lang-python|Compliance mode enabled, was '18.7.0'|
@@ -1792,7 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.0|runtime-common|Compliance mode enabled, was '12.0.0'|
-|openvpn|2.5.4|2.6.12|app-network|Compliance mode enabled, was '2.6.12'|
+|openvpn|2.5.4|2.6.13|app-network|Compliance mode enabled, was '2.6.13'|
 |openvswitch|3.0.3|3.4.1|app-network|Compliance mode enabled, was '3.4.1'|
 |optipng|0.7.7|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
