@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736967948?label=Updated)
+![Relative date](https://img.shields.io/date/1736971873?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -271,7 +271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|8.1.7|8.1.8|lang-python|Compliance mode enabled, was '8.1.8'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
-|cloud-init|24.2|24.4|app-admin|Compliance mode enabled, was '24.4'|
+|cloud-init|24.2|24.4.1|app-admin|Compliance mode enabled, was '24.4.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
@@ -724,7 +724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.2.0|runtime-desktop|Compliance mode enabled, was '10.2.0'|
 |harfbuzz+32|2.6.7|10.2.0|runtime-optenv32|Compliance mode enabled, was '10.2.0'|
-|haruna|0.12.3|1.2.1|desktop-kde|Compliance mode enabled, was '1.2.1'|
+|haruna|0.12.3|1.3.0|desktop-kde|Compliance mode enabled, was '1.3.0'|
 |hatchling|1.21.1|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'<br>Possible downgrade from the current version (1.21.1 -> 1.14.0)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
