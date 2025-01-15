@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1736914458?label=Updated)
+![Relative date](https://img.shields.io/date/1736917951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -782,6 +782,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.7|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
+|imagemagick|6.9.13<br>+16|6.9.13+21|app-utils|Compliance mode enabled, was '6.9.13-21'|
 |imagemagick+7|7.1.1<br>+32|7.1.1+43|app-utils|Compliance mode enabled, was '7.1.1-43'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
@@ -1386,7 +1387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
 |libsbsms|2.3.0|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (2.3.0 -> 2.0.2)|
-|libsecret|0.20.4|0.21.4|runtime-desktop|Compliance mode enabled, was '0.21.4'|
+|libsecret|0.20.4|0.21.5|runtime-desktop|Compliance mode enabled, was '0.21.5'|
 |libserialport|0.1.1|0.1.2|runtime-devices|Compliance mode enabled, was '0.1.2'|
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
