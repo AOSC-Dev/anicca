@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737061804?label=Updated)
+![Relative date](https://img.shields.io/date/1737065417?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -172,8 +172,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.36.0|lang-python|Compliance mode enabled, was '1.36.0'|
-|botocore|1.34.133|1.36.0|lang-python|Compliance mode enabled, was '1.36.0'|
+|boto3|1.20.26|1.36.1|lang-python|Compliance mode enabled, was '1.36.1'|
+|botocore|1.34.133|1.36.1|lang-python|Compliance mode enabled, was '1.36.1'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.18|app-utils|Compliance mode enabled, was '51.18'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.18)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -2358,7 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rygel|0.40.4|0.44.1|desktop-gnome|Compliance mode enabled, was '0.44.1'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
-|s3transfer|0.5.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
+|s3transfer|0.5.0|0.11.1|lang-python|Compliance mode enabled, was '0.11.1'|
 |sagemath|10.4|10.5|app-scientific|Compliance mode enabled, was '10.5'|
 |samba|4.17.2|4.21.3|app-network|Compliance mode enabled, was '4.21.3'|
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
@@ -2761,7 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1006|9.1.1020|app-editors|Compliance mode enabled, was '9.1.1020'|
+|vim|9.1.1006|9.1.1024|app-editors|Compliance mode enabled, was '9.1.1024'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.29.0|lang-python|Compliance mode enabled, was '20.29.0'|
