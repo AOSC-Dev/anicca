@@ -1115,7 +1115,7 @@
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
-["v2ray-rules-dat","202412282210","202501142211","runtime-data",1735478139,["Compliance mode enabled, was '202501142211'","Versions not comparable: `202412282210` and `202501142211`"]],
+["v2ray-rules-dat","202412282210","202501152211","runtime-data",1735478139,["Compliance mode enabled, was '202501152211'","Versions not comparable: `202412282210` and `202501152211`"]],
 ["spdx-licenses","3.25.0","3.26.0","runtime-data",1732414619,["Compliance mode enabled, was '3.26.0'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
 ["guvcview","2.1.0","2.2.1","app-devices",1718097519,["Compliance mode enabled, was '2.2.1'"]],
