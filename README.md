@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737033449?label=Updated)
+![Relative date](https://img.shields.io/date/1737036612?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -998,7 +998,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kiosktool-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kipi-plugins|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|kirigami-addons|0.11.0|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
+|kirigami-addons|0.11.0|1.7.0|desktop-kde|Compliance mode enabled, was '1.7.0'|
 |kirigami-gallery|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kirigami2|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kiriki|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2270,7 +2270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |qtcreator|14.0.1|15.0.0|app-devel|Compliance mode enabled, was '15.0.0'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|qtkeychain|0.13.2|0.14.3|runtime-desktop|Compliance mode enabled, was '0.14.3'|
+|qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
 |qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |qtractor|0.9.23|1.5.1|app-multimedia|Compliance mode enabled, was '1.5.1'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|

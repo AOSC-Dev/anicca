@@ -2436,7 +2436,7 @@
 ["kleopatra","23.08.5","24.12.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.12.1'"]],
 ["ktrip","23.08.5","24.12.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.12.1'"]],
 ["kapidox","5.115.0","6.10.0","desktop-kde",1714377107,["Compliance mode enabled, was '6.10.0'"]],
-["kirigami-addons","0.11.0","1.6.0","desktop-kde",1714377107,["Compliance mode enabled, was '1.6.0'"]],
+["kirigami-addons","0.11.0","1.7.0","desktop-kde",1714377107,["Compliance mode enabled, was '1.7.0'"]],
 ["kmplot","23.08.5","24.12.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.12.1'"]],
 ["libkdcraw","23.08.5","24.12.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.12.1'"]],
 ["plasma-pk-updates","0.3.2","6.2.5","desktop-kde",1706859113,["Compliance mode enabled, was '6.2.5'"]],
@@ -2941,7 +2941,7 @@
 ["qmltermwidget","0.2.0+git20220109","0.6.0","runtime-desktop",1714377107,["Compliance mode enabled, was '0.6.0'"]],
 ["pango","1.52.2","1.56.0","runtime-desktop",1714961745,["Compliance mode enabled, was '1.56.0'"]],
 ["ayatana-indicator-messages","0.8.2","24.5.0","runtime-desktop",1619939107,["Compliance mode enabled, was '24.5.0'"]],
-["qtkeychain","0.13.2","0.14.3","runtime-desktop",1678601019,["Compliance mode enabled, was '0.14.3'"]],
+["qtkeychain","0.13.2","0.15.0","runtime-desktop",1678601019,["Compliance mode enabled, was '0.15.0'"]],
 ["gtk-layer-shell","0.8.1","0.9.0","runtime-desktop",1706025816,["Compliance mode enabled, was '0.9.0'"]],
 ["qt-5","5.15.16","5.15.15-lts-lgpl","runtime-desktop",1736063860,["Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)"]],
 ["pangomm","2.46.3","2.56.1","runtime-desktop",1663210250,["Compliance mode enabled, was '2.56.1'"]]
