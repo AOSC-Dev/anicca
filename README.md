@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737036612?label=Updated)
+![Relative date](https://img.shields.io/date/1737040326?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -800,7 +800,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-media-driver|24.4.4|25.1.0|runtime-multimedia|Compliance mode enabled, was '25.1.0'|
 |inxi|3.3.31<br>+2|3.3.37+1|app-utils|Compliance mode enabled, was '3.3.37-1'|
-|iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
@@ -1708,7 +1707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.5.2|app-utils|Compliance mode enabled, was '1.5.2'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
-|novaclient|18.6.0|18.7.0|lang-python|Compliance mode enabled, was '18.7.0'|
+|novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
 |nsd|4.7.0|4.11.0.rel|app-network|Compliance mode enabled, was '4_11_0_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
@@ -2655,6 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tork-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tornado|6.4.1|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
+|tortoisehg|6.6.3|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |totem|42.0|43.1|desktop-gnome|Compliance mode enabled, was '43.1'|
 |toxcore|0.2.18|0.2.20|app-web|Compliance mode enabled, was '0.2.20'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
