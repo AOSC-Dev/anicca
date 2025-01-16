@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737047457?label=Updated)
+![Relative date](https://img.shields.io/date/1737051213?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -760,6 +760,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hwloc|2.10.0|2.11.2|app-admin|Compliance mode enabled, was '2.11.2'|
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
+|hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.124.0|lang-python|Compliance mode enabled, was '6.124.0'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
@@ -926,6 +927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdepim-addons|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdepim-runtime|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdeplasma-addons|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
+|kdesignerplugin|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kdesu|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kdev-php|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdev-python|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
