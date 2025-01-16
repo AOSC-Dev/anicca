@@ -1843,7 +1843,6 @@
 ["vorbis-tools","1.4.0","1.4.2","app-multimedia",1722221884,["Compliance mode enabled, was '1.4.2'"]],
 ["smpeg","0.4.5","2.0.0","app-multimedia",1678950872,["Compliance mode enabled, was '2_0_0'"]],
 ["v4l-utils","1.22.1","1.28.1","app-multimedia",1657655180,["Compliance mode enabled, was '1.28.1'"]],
-["yt-dlp","2025.01.12","2025.01.15","app-multimedia",1736736264,["Compliance mode enabled, was '2025.01.15'"]],
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
 ["qjackctl","1.0.1","1.0.3","app-multimedia",1725200576,["Compliance mode enabled, was '1.0.3'"]],
 ["bili-sync","2.1.1","2.2.0","app-multimedia",1721392492,["Compliance mode enabled, was '2.2.0'"]],
