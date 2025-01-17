@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737137579?label=Updated)
+![Relative date](https://img.shields.io/date/1737140796?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2779,17 +2779,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.96.3|1.96.4|app-editors|Compliance mode enabled, was '1.96.4'|
+|vscodium|1.96.3.25013|1.96.4.25017|app-editors|Compliance mode enabled, was '1.96.4.25017'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
 |vulkan-headers|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
 |vulkan-headers+32|1.3.283.0|1.4.305|runtime-optenv32|Compliance mode enabled, was '1.4.305'|
-|vulkan-loader|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
-|vulkan-loader+32|1.3.283.0|1.4.304|runtime-optenv32|Compliance mode enabled, was '1.4.304'|
+|vulkan-loader|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
+|vulkan-loader+32|1.3.283.0|1.4.305|runtime-optenv32|Compliance mode enabled, was '1.4.305'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
-|vulkan-utility-libraries|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
+|vulkan-utility-libraries|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
 |vulkan-validationlayers|1.3.283.0|1.4.304|runtime-display|Compliance mode enabled, was '1.4.304'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
