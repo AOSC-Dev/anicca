@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737079726?label=Updated)
+![Relative date](https://img.shields.io/date/1737083642?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -215,7 +215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
-|capstone|5.0.3|5.0.4|app-devel|Compliance mode enabled, was '5.0.4'|
+|capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
 |cargo-c|0.10.2|0.10.8+cargo-0.85.0|lang-rust|Compliance mode enabled, was '0.10.8+cargo-0.85.0'|
 |cargo-release|0.25.10|0.25.15|lang-rust|Compliance mode enabled, was '0.25.15'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
@@ -1174,7 +1174,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kxmlrpcclient|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
-|lact|0.5.6|0.7.0|app-admin|Compliance mode enabled, was '0.7.0'|
 |ladish|20200418|1.2|runtime-multimedia|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (20200418 -> 1.2)|
 |lapack|3.12.0|3.12.1|app-scientific|Compliance mode enabled, was '3.12.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
@@ -1830,7 +1829,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pahole|1.25|1.28|app-utils|Compliance mode enabled, was '1.28'|
 |palapeli|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |pam-python|1.0.7|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
-|pam-u2f|1.3.0|1.3.2|runtime-admin|Compliance mode enabled, was '1.3.2'|
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
@@ -2936,7 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
-|zeroconf|0.28.6|0.140.0|lang-python|Compliance mode enabled, was '0.140.0'|
+|zeroconf|0.28.6|0.140.1|lang-python|Compliance mode enabled, was '0.140.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
