@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737119800?label=Updated)
+![Relative date](https://img.shields.io/date/1737123115?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1180,7 +1180,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |lazarus|3.2|3.6|lang-pascal|Compliance mode enabled, was '3.6'|
 |lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
-|lazygit|0.44.1|0.45.0|app-vcs|Compliance mode enabled, was '0.45.0'|
+|lazygit|0.44.1|0.45.2|app-vcs|Compliance mode enabled, was '0.45.2'|
 |lcms2|2.14|2.16|runtime-imaging|Compliance mode enabled, was '2.16'|
 |lcms2+32|2.9|2.16|runtime-optenv32|Compliance mode enabled, was '2.16'|
 |ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
@@ -2722,7 +2722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
-|unrar|6.2.2|7.1.2|app-utils|Compliance mode enabled, was '7.1.2'|
+|unrar|6.2.2|7.1.3|app-utils|Compliance mode enabled, was '7.1.3'|
 |unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
 |unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |upower|1.90.6|1.90.7|app-admin|Compliance mode enabled, was '1.90.7'|
