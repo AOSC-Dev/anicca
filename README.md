@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737074334?label=Updated)
+![Relative date](https://img.shields.io/date/1737079726?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -363,6 +363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.1.0|app-network|Compliance mode enabled, was '10.1.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
+|dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
 |difftastic|0.60.0|0.62.0|app-utils|Compliance mode enabled, was '0.62.0'|
@@ -2526,7 +2527,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.16|1.9.16p2|app-admin|Compliance mode enabled, was '1_9_16p2'<br>Possible downgrade from the current version (1.9.16 -> 1.9.16p2)|
 |suitesparse|7.6.1|7.8.3|runtime-scientific|Compliance mode enabled, was '7.8.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|0.23.1|2025.115.190029|app-multimedia|Compliance mode enabled, was '2025.115.190029'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2779,6 +2779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.4.304.0|runtime-optenv32|Compliance mode enabled, was '1.4.304.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vscode|1.96.3|1.96.4|app-editors|Compliance mode enabled, was '1.96.4'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
