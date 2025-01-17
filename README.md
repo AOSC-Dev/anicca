@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737144780?label=Updated)
+![Relative date](https://img.shields.io/date/1737148028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -377,6 +377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.1.5|lang-python|Compliance mode enabled, was '5.1.5'|
 |dkms|3.1.1|3.1.4|app-admin|Compliance mode enabled, was '3.1.4'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
+|dnscontrol|4.15.3|4.15.4|app-network|Compliance mode enabled, was '4.15.4'|
 |dnscrypt|2.1.5|2.1.7|app-network|Compliance mode enabled, was '2.1.7'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -1672,7 +1673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.31.2|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
-|neovim|0.10.2|0.10.3|app-editors|Compliance mode enabled, was '0.10.3'|
 |nestopia|1.52.1|1.53.0|app-games|Compliance mode enabled, was '1.53.0'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.13.1|runtime-containers|Compliance mode enabled, was '1.13.1'|
@@ -2261,7 +2261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
-|qownnotes|22.6.1|25.1.3|app-web|Compliance mode enabled, was '25.1.3'|
+|qownnotes|22.6.1|25.1.4|app-web|Compliance mode enabled, was '25.1.4'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
