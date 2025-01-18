@@ -2799,7 +2799,6 @@
 ["rocs","23.08.5","24.12.1","desktop-kde",1714377107,["Compliance mode enabled, was '24.12.1'"]],
 ["vnstat","2.4","2.12","app-network",1569375540,["Compliance mode enabled, was '2.12'"]],
 ["hysteria","2.5.1","2.6.0","app-network",1725112216,["Compliance mode enabled, was '2.6.0'"]],
-["tigervnc","1.14.0","1.14.1","app-network",1727581856,[]],
 ["networkmanager-strongswan","1.5.2","1.6.1","app-network",1590862929,["Compliance mode enabled, was '1.6.1'"]],
 ["syncthing-gtk","0.9.4.4","0.9.4.5","app-network",1568253855,["Compliance mode enabled, was '0.9.4.5'"]],
 ["realmd","0.17.1","0.16.3","app-network",1678351353,["Compliance mode enabled, was '0.16.3'","Possible downgrade from the current version (0.17.1 -> 0.16.3)"]],
