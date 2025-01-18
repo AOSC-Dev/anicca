@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737212900?label=Updated)
+![Relative date](https://img.shields.io/date/1737216733?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -557,7 +557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.10.1|runtime-gis|Compliance mode enabled, was '3.10.1'|
-|gdb|15.2|16.1|app-devel|Compliance mode enabled, was '16.1'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
 |gdm|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -1221,7 +1220,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libcap|2.69|2.71|runtime-common|Compliance mode enabled, was '2.71'|
 |libcap+32|2.31|2.71|runtime-optenv32|Compliance mode enabled, was '2.71'|
-|libcap-ng|0.7.11|0.8.5|runtime-common|Compliance mode enabled, was '0.8.5'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
 |libcdio|2.1.0|2.1.1|runtime-devices|Compliance mode enabled, was '2.1.1'|
@@ -2400,6 +2398,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |secretstorage|3.3.0|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
+|semver|3.0.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |sequoia-sq|0.36.0|1.1.0|app-cryptography|Compliance mode enabled, was '1.1.0'|
 |ser2net|3.5|4.6.3|app-network|Compliance mode enabled, was '4.6.3'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
