@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737289106?label=Updated)
+![Relative date](https://img.shields.io/date/1737292488?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -576,7 +576,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gettext|0.23|0.23.1|app-devel|Compliance mode enabled, was '0.23.1'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
 |ghostscript+32|9.27|10.04.0|runtime-optenv32|Compliance mode enabled, was '10.04.0'|
@@ -1301,7 +1300,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjcat|0.2.1|0.2.2|runtime-common|Compliance mode enabled, was '0.2.2'|
 |libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
-|libjpeg-turbo+32|2.0.5|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
 |libjxl|0.10.2|0.11.1|runtime-imaging|Compliance mode enabled, was '0.11.1'|
 |libkcddb|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |libkcompactdisc|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2338,7 +2336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.3.1|runtime-rocm|Compliance mode enabled, was '6.3.1'|
 |rocs|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
-|rofi|1.7.5|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
+|rofi|1.7.5|1.7.8|app-utils|Compliance mode enabled, was '1.7.8'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
 |rpcbind|1.2.6|1.2.7|app-network|Compliance mode enabled, was '1.2.7'|
@@ -2769,7 +2767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1006|9.1.1034|app-editors|Compliance mode enabled, was '9.1.1034'|
+|vim|9.1.1006|9.1.1037|app-editors|Compliance mode enabled, was '9.1.1037'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.29.1|lang-python|Compliance mode enabled, was '20.29.1'|
