@@ -794,7 +794,6 @@
 ["openldap","2.6.7","2.6.9","app-admin",1712930384,["Compliance mode enabled, was '2_6_9'"]],
 ["thin-provisioning-tools","1.0.10","1.1.0","app-admin",1707524018,["Compliance mode enabled, was '1.1.0'"]],
 ["bpftrace","0.21.1","0.22.1","app-admin",1719361530,["Compliance mode enabled, was '0.22.1'"]],
-["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
 ["flashrom","1.3.0","1.5.1","app-admin",1685090779,["Compliance mode enabled, was '1.5.1'"]],
 ["archlinux-keyring","20241015","20241203","app-admin",1729578196,["Compliance mode enabled, was '20241203'"]],
 ["cockpit-machines","284.1","326","app-admin",1678351353,["Compliance mode enabled, was '326'"]],
