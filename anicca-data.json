@@ -1298,7 +1298,7 @@
 ["zita-resampler","1.8.0","1.11.2","runtime-multimedia",1673495967,["Compliance mode enabled, was '1.11.2'"]],
 ["ladish","20200418","1.2","runtime-multimedia",1716874927,["Compliance mode enabled, was '1.2'","Possible downgrade from the current version (20200418 -> 1.2)"]],
 ["libavif","0.11.1","1.1.1","runtime-multimedia",1714695455,["Compliance mode enabled, was '1.1.1'"]],
-["lilv","0.24.12","0.24.24","runtime-multimedia",1654053412,["Compliance mode enabled, was '0.24.24'"]],
+["lilv","0.24.12","0.24.26","runtime-multimedia",1654053412,["Compliance mode enabled, was '0.24.26'"]],
 ["openal-soft","1.23.1","1.24.2","runtime-multimedia",1688181762,["Compliance mode enabled, was '1.24.2'"]],
 ["portaudio","19.7.0","190600.20161030","runtime-multimedia",1727789009,["Compliance mode enabled, was '190600_20161030'"]],
 ["libgig","4.4.0","4.4.1","runtime-multimedia",1706625158,["Compliance mode enabled, was '4.4.1'"]],
