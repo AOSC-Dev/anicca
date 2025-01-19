@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737256544?label=Updated)
+![Relative date](https://img.shields.io/date/1737259957?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -28,7 +28,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aegisub|3.2.2<br>+git20231203|3.4.2|app-multimedia|Compliance mode enabled, was '3.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
 |aiohttp|3.7.4.post0|3.11.11|lang-python|Compliance mode enabled, was '3.11.11'|
 |aisleriot|3.22.24|3.22.34|desktop-gnome|Compliance mode enabled, was '3.22.34'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -142,7 +141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |basket-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
 |bcachefs-tools|1.9.4|1.13.0|app-admin|Compliance mode enabled, was '1.13.0'|
-|bcc|0.30.0|0.32.0|app-devel|Compliance mode enabled, was '0.32.0'|
+|bcc|0.30.0|0.33.0|app-devel|Compliance mode enabled, was '0.33.0'|
 |bcftools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |bcrypt|4.1.3|4.2.1|lang-python|Compliance mode enabled, was '4.2.1'|
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
@@ -214,6 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cantor|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
+|cargo-audit|0.21.0|0.21.1|lang-rust|Compliance mode enabled, was '0.21.1'|
 |cargo-c|0.10.2|0.10.8+cargo-0.85.0|lang-rust|Compliance mode enabled, was '0.10.8+cargo-0.85.0'|
 |cargo-release|0.25.10|0.25.15|lang-rust|Compliance mode enabled, was '0.25.15'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
@@ -1996,9 +1996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
 |perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
-|perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
-|perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
 |perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
 |perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
@@ -2290,7 +2288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
-|rapidfuzz-cpp|2.0.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|rapidfuzz-cpp|2.0.0|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |rarian|0.8.1|0.8.6|app-doc|Compliance mode enabled, was '0.8.6'|
 |razergenie|0.9.0|1.2.0|app-devices|Compliance mode enabled, was '1.2.0'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
