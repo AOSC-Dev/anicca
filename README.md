@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737299514?label=Updated)
+![Relative date](https://img.shields.io/date/1737303051?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2458,7 +2458,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sonic-visualiser|4.4|5.0.1|app-multimedia|Compliance mode enabled, was '5.0.1'|
 |sonivox|3.6.12|3.6.15|runtime-multimedia|Compliance mode enabled, was '3.6.15'|
 |sonnet|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
-|sord|0.16.4|0.16.16|runtime-common|Compliance mode enabled, was '0.16.16'|
+|sord|0.16.4|0.16.18|runtime-common|Compliance mode enabled, was '0.16.18'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |sos|4.4|4.8.2|lang-python|Compliance mode enabled, was '4.8.2'|
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
@@ -2505,7 +2505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
 |squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
 |sra-tools|3.0.3|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
-|sratom|0.6.4|0.6.16|runtime-common|Compliance mode enabled, was '0.6.16'|
+|sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
 |srtp+32|1.5.4|2.6.0|runtime-optenv32|Compliance mode enabled, was '2.6.0'|
 |ss-tproxy|4.6.1|4.8.3|app-network|Compliance mode enabled, was '4.8.3'|
@@ -2531,6 +2531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
 |subversion|1.14.3|1.14.5|app-vcs|Compliance mode enabled, was '1.14.5'|
 |sudo|1.9.16|1.9.16p2|app-admin|Compliance mode enabled, was '1_9_16p2'<br>Possible downgrade from the current version (1.9.16 -> 1.9.16p2)|
+|suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.8.3|runtime-scientific|Compliance mode enabled, was '7.8.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
