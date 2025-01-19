@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737259957?label=Updated)
+![Relative date](https://img.shields.io/date/1737263417?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -28,6 +28,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aegisub|3.2.2<br>+git20231203|3.4.2|app-multimedia|Compliance mode enabled, was '3.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
+|aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
 |aiohttp|3.7.4.post0|3.11.11|lang-python|Compliance mode enabled, was '3.11.11'|
 |aisleriot|3.22.24|3.22.34|desktop-gnome|Compliance mode enabled, was '3.22.34'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1996,7 +1997,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
 |perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
+|perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
+|perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
 |perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
 |perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|

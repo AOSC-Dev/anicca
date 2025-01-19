@@ -1,6 +1,7 @@
 [
 ["perl-package-stash-xs","0.29","0.30","lang-perl",1678950872,["Compliance mode enabled, was '0.30'"]],
 ["perl-string-util","1.31","1.35","lang-perl",1596485705,["Compliance mode enabled, was '1.35'"]],
+["perl-parallel-forkmanager","1.20","2.03","lang-perl",1539781539,["Compliance mode enabled, was '2.03'"]],
 ["perl-capture-tiny","0.48","0.50","lang-perl",1530196415,["Compliance mode enabled, was '0.50'"]],
 ["perl-data-optlist","0.110","0.114","lang-perl",1678950872,["Compliance mode enabled, was '0.114'"]],
 ["perl-yaml-libyaml","0.85","0.902.0","lang-perl",1678351353,["Compliance mode enabled, was '0.902.0'"]],
@@ -60,6 +61,7 @@
 ["perl-html-parser","3.72","3.83","lang-perl",1457328459,["Compliance mode enabled, was '3.83'"]],
 ["perl-file-copy-recursive","0.44","0.45","lang-perl",1530196414,["Compliance mode enabled, was '0.45'"]],
 ["perl-test-fatal","0.014","0.017","lang-perl",1678950872,["Compliance mode enabled, was '0.017'"]],
+["perl-par-dist","0.52","0.53","lang-perl",1718471582,["Compliance mode enabled, was '0.53'"]],
 ["perl-archive-zip","1.64","1.68","lang-perl",1537769662,["Compliance mode enabled, was '1.68'"]],
 ["perl-params-validationcompiler","0.30","0.31","lang-perl",1596485704,["Compliance mode enabled, was '0.31'"]],
 ["perl-xml-libxslt","1.96","2.003000","lang-perl",1530196414,["Compliance mode enabled, was '2.003000'"]],
@@ -1431,6 +1433,7 @@
 ["xfe","1.46.1","2.0","app-utils",1712719195,["Compliance mode enabled, was '2.0'"]],
 ["plzip","1.11","1.12","app-utils",1710565374,["Compliance mode enabled, was '1.12'"]],
 ["fatattr","1.0.1","1.0.1.orig","app-utils",1510976563,["Compliance mode enabled, was '1.0.1.orig'","Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)"]],
+["aide","0.16.2","0.18.8","app-utils",1600710259,["Compliance mode enabled, was '0.18.8'"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
 ["macchina","6.1.8","6.4.0","app-utils",1680558295,["Compliance mode enabled, was '6.4.0'"]],
 ["transfig","3.2.9","3.2.9a","app-utils",1711355921,["Compliance mode enabled, was '3.2.9a'","Possible downgrade from the current version (3.2.9 -> 3.2.9a)"]],
