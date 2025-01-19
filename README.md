@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737241690?label=Updated)
+![Relative date](https://img.shields.io/date/1737247430?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -361,7 +361,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.1.0|app-network|Compliance mode enabled, was '10.1.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
-|dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
 |difftastic|0.60.0|0.62.0|app-utils|Compliance mode enabled, was '0.62.0'|
@@ -1730,7 +1729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
 |numix-icon-theme-circle|24.10.22|24.12.12|desktop-themes|Compliance mode enabled, was '24.12.12'|
-|numpy|1.26.4|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
+|numpy|1.26.4|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
 |nut|2.7.4|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |nvchecker|2.15.1|2.16|app-utils|Compliance mode enabled, was '2.16'|
 |nvidia+32|0|565.77|runtime-optenv32|Compliance mode enabled, was '565.77'|
@@ -1839,8 +1838,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pango|1.52.2|1.56.0|runtime-desktop|Compliance mode enabled, was '1.56.0'|
-|pango+32|1.44.7|1.56.0|runtime-optenv32|Compliance mode enabled, was '1.56.0'|
+|pango|1.52.2|1.56.1|runtime-desktop|Compliance mode enabled, was '1.56.1'|
+|pango+32|1.44.7|1.56.1|runtime-optenv32|Compliance mode enabled, was '1.56.1'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |pangomm-2.48|2.50.1|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
@@ -1919,7 +1918,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-abstract|3.008|3.010|lang-perl|Compliance mode enabled, was '3.010'|
 |perl-email-address|1.912|1.913|lang-perl|Compliance mode enabled, was '1.913'|
 |perl-email-date-format|1.005|1.008|lang-perl|Compliance mode enabled, was '1.008'|
-|perl-email-mime|1.946|1.954|lang-perl|Compliance mode enabled, was '1.954'|
 |perl-email-mime-contenttype|1.022|1.028|lang-perl|Compliance mode enabled, was '1.028'|
 |perl-email-simple|2.216|2.218|lang-perl|Compliance mode enabled, was '2.218'|
 |perl-error|0.17027|0.17029|lang-perl|Compliance mode enabled, was '0.17029'|
