@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737399895?label=Updated)
+![Relative date](https://img.shields.io/date/1737403877?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -281,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|331|app-admin|Compliance mode enabled, was '331'|
 |cockpit-machines|284.1|326|app-admin|Compliance mode enabled, was '326'|
 |cockpit-podman|63|99|app-admin|Compliance mode enabled, was '99'|
-|code-server|4.93.1|4.96.2|app-utils|Compliance mode enabled, was '4.96.2'|
+|code-server|4.93.1|4.96.4|app-utils|Compliance mode enabled, was '4.96.4'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -379,7 +379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|27.3.1|27.5.0|app-containers||
-|docker-buildx|0.18.0|0.19.3|app-containers|Compliance mode enabled, was '0.19.3'|
+|docker-buildx|0.18.0|0.20.0|app-containers|Compliance mode enabled, was '0.20.0'|
 |docker-compose|2.30.3|2.32.4|app-containers|Compliance mode enabled, was '2.32.4'|
 |dolphin|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |dolphin-emu|2407|2412|app-games|Compliance mode enabled, was '2412'|
@@ -493,7 +493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.38|app-utils|Compliance mode enabled, was '3.38'|
-|firefox|133.0.3|134.0.1|app-web|Compliance mode enabled, was '134.0.1'|
+|firefox|133.0.3|134.0.2|app-web|Compliance mode enabled, was '134.0.2'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |fizz|2024.12.30.00|2025.01.20.00|app-network|Compliance mode enabled, was '2025.01.20.00'|
 |flacon|11.4.0|11.99.1|app-multimedia|Compliance mode enabled, was '11.99.1'|
@@ -2302,7 +2302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |realmd|0.17.1|0.16.3|app-network|Compliance mode enabled, was '0.16.3'<br>Possible downgrade from the current version (0.17.1 -> 0.16.3)|
 |recode+32|3.6|3.7.14|runtime-optenv32|Compliance mode enabled, was '3.7.14'|
 |recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
-|redis|7.4.0|8.0m02|app-database|Compliance mode enabled, was '8.0-m02'|
+|redis|7.4.0|8.0m03|app-database|Compliance mode enabled, was '8.0-m03'|
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
@@ -2408,7 +2408,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
-|shaderc|2023.7|2024.4|app-devel|Compliance mode enabled, was '2024.4'|
 |shadow|4.17.1|4.17.2|app-admin|Compliance mode enabled, was '4.17.2'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|25.01.05|app-creativity|Compliance mode enabled, was '25.01.05'|
