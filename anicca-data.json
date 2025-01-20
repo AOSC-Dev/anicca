@@ -1871,7 +1871,7 @@
 ["cdemu-daemon","3.2.4","3.2.7","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.7'"]],
 ["wavpack","5.2.0","5.8.0-dirty","app-multimedia",1576672295,["Compliance mode enabled, was '5.8.0-dirty'"]],
 ["mkvtoolnix","87.0","89.0","app-multimedia",1729598970,["Compliance mode enabled, was '89.0'"]],
-["libzip","1.5.2","1.11.2","runtime-common",1565150271,["Compliance mode enabled, was '1.11.2'"]],
+["libzip","1.5.2","1.11.3","runtime-common",1565150271,["Compliance mode enabled, was '1.11.3'"]],
 ["readline","8.2.1","8.2.13","runtime-common",1677713717,["Compliance mode enabled, was '8.2.13'"]],
 ["iniparser","4.2.4","4.2.5","runtime-common",1732675271,["Compliance mode enabled, was '4.2.5'"]],
 ["ncurses","6.4","6.5+20250118","runtime-common",1677713717,["Compliance mode enabled, was '6.5-20250118'"]],
