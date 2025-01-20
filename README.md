@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737357108?label=Updated)
+![Relative date](https://img.shields.io/date/1737360882?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -323,7 +323,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
 |ctags|20191203|6.1.20250119.0|app-devel|Compliance mode enabled, was '6.1.20250119.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250119.0)|
-|cuda|12.5.0|12.6.3|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -2103,7 +2102,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
-|polyphone|2.3.0|2.5.1|app-multimedia|Compliance mode enabled, was '2.5.1'|
 |poppler|22.08.0|25.01.0|groups|Compliance mode enabled, was '25.01.0'|
 |poppler+32|0.66.0|25.01.0|runtime-optenv32|Compliance mode enabled, was '25.01.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
