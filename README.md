@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737349902?label=Updated)
+![Relative date](https://img.shields.io/date/1737353698?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -62,6 +62,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
+|aosc-os-repository-data|20250120|20250109|runtime-data|Compliance mode enabled, was '20250109'<br>Possible downgrade from the current version (20250120 -> 20250109)|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apicula|0.14|0.15|app-electronics|Compliance mode enabled, was '0.15'|
@@ -2669,6 +2670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqca|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqdm|4.62.3|4.67.1|lang-python|Compliance mode enabled, was '4.67.1'|
+|tqt3|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
 |tracker|3.7.3|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
