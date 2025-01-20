@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737339114?label=Updated)
+![Relative date](https://img.shields.io/date/1737342883?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -414,7 +414,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.11.0|1.13.2|app-doc|Compliance mode enabled, was '1_13_2'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
-|dpkg|1.22.7|1.22.14|app-admin|Compliance mode enabled, was '1.22.14'|
 |dragon|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |drkonqi|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
@@ -842,7 +841,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |jmol|14.30.0|16.3.7|app-scientific|Compliance mode enabled, was '16.3.7'|
 |josepy|1.13.0|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
-|json-c|0.16|0.18|runtime-common|Compliance mode enabled, was '0.18'|
 |json-c+32|0.13.1<br>+20180305|0.18|runtime-optenv32|Compliance mode enabled, was '0.18'|
 |json-glib|1.8.0|1.10.6|runtime-common|Compliance mode enabled, was '1.10.6'|
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
@@ -1650,7 +1648,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mstflint|4.29.0-1|4.30.0+1|app-admin|Compliance mode enabled, was '4.30.0-1'|
 |mtd-utils|2.1.5|2.2.1|app-admin|Compliance mode enabled, was '2.2.1'|
-|mtools|4.0.46|4.0.47|app-admin|Compliance mode enabled, was '4.0.47'|
 |muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |multipath-tools|0.9.3|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
@@ -2860,7 +2857,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcompmgr|1.1.8|1.1.10|desktop-wm|Compliance mode enabled, was '1.1.10'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal-gnome|42.3|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|xdg-desktop-portal-gtk|1.15.1|1.15.2|app-admin|Compliance mode enabled, was '1.15.2'|
 |xdg-desktop-portal-kde|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
