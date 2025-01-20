@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737379117?label=Updated)
+![Relative date](https://img.shields.io/date/1737382263?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -10,7 +10,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Compliance mode enabled, was '1.2'<br>Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abakus-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|abdownloadmanager|1.5.1|1.5.2|app-web|Compliance mode enabled, was '1.5.2'|
 |abseil-cpp|20240116.2|20240722.0|runtime-common|Compliance mode enabled, was '20240722.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
 |accerciser|3.40.0|3.44.1|desktop-gnome|Compliance mode enabled, was '3.44.1'|
@@ -1750,7 +1749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
 |okular|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.13.7|1.13.6|app-admin|Compliance mode enabled, was '1.13.6'<br>Possible downgrade from the current version (1.13.7 -> 1.13.6)|
+|oma|1.13.8|1.13.6|app-admin|Compliance mode enabled, was '1.13.6'<br>Possible downgrade from the current version (1.13.8 -> 1.13.6)|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7649-250114-77d283e|app-games|Compliance mode enabled, was '1.91.0.7649-250114-77d283e'|
