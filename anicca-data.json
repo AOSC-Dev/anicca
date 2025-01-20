@@ -1028,7 +1028,7 @@
 ["kdsoap","1.9.0","2.2.0","runtime-network",1590739029,["Compliance mode enabled, was '2.2.0'"]],
 ["ldns","1.8.3","1.8.4","runtime-network",1696572712,["Compliance mode enabled, was '1.8.4'"]],
 ["gsoap","2.8.124","2.8.135","runtime-network",1678522480,["Compliance mode enabled, was '2.8.135'"]],
-["mvfst","2024.12.30.00","2025.01.13.00","runtime-network",1737164791,["Compliance mode enabled, was '2025.01.13.00'"]],
+["mvfst","2024.12.30.00","2025.01.20.00","runtime-network",1737164791,["Compliance mode enabled, was '2025.01.20.00'"]],
 ["libpcap","1.10.4","1.10.5","runtime-network",1709902196,["Compliance mode enabled, was '1.10.5'"]],
 ["libnftnl","1.2.6","1.2.8","runtime-network",1608367947,["Compliance mode enabled, was '1.2.8'"]],
 ["libssh","0.8.9","0.11.1","runtime-network",1550547634,["Compliance mode enabled, was '0.11.1'"]],
