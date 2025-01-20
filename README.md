@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737328080?label=Updated)
+![Relative date](https://img.shields.io/date/1737333741?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -161,7 +161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blender|4.0.2|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
 |blinken|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |bluedevil|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
-|blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
 |bluez|5.77|5.79|app-devices|Compliance mode enabled, was '5.79'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
@@ -340,7 +339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.7.16|app-utils|Compliance mode enabled, was '2.7.16'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
-|dav1d|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
+|dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
 |davfs2|1.7.0|1.7.1|app-admin|Compliance mode enabled, was '1.7.1'|
 |dblatex|0.3.12|1.1.14|app-doc|Compliance mode enabled, was '1.1.14'|
 |dbus|1.14.10|1.16.0|app-admin|Compliance mode enabled, was '1.16.0'|
@@ -373,6 +372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
+|distrobox|1.8.0|1.8.1|app-utils|Compliance mode enabled, was '1.8.1'|
 |django|5.0.3|5.1.5|lang-python|Compliance mode enabled, was '5.1.5'|
 |dkms|3.1.1|3.1.4|app-admin|Compliance mode enabled, was '3.1.4'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
@@ -545,7 +545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fwupd|1.9.25|2.0.3|app-admin|Compliance mode enabled, was '2.0.3'|
-|fzf|0.55.0|0.57.0|app-utils|Compliance mode enabled, was '0.57.0'|
+|fzf|0.55.0|0.58.0|app-utils|Compliance mode enabled, was '0.58.0'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
@@ -739,7 +739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.5|runtime-scientific|Compliance mode enabled, was '1.14.5'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
-|helix|24.07|25.01|app-editors|Compliance mode enabled, was '25.01'|
+|helix|24.07|25.01.1|app-editors|Compliance mode enabled, was '25.01.1'|
 |helm|3.16.1|3.17.0|app-containers|Compliance mode enabled, was '3.17.0'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
@@ -1737,7 +1737,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|565.77|runtime-optenv32|Compliance mode enabled, was '565.77'|
 |nvidia-open|565.77<br>+utils565.57.01|565.77|runtime-display|Compliance mode enabled, was '565.77'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
-|obs-studio|31.0.0|31.0.1|app-multimedia|Compliance mode enabled, was '31.0.1'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2753,7 +2752,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.24.0|5.25.0|app-network|Compliance mode enabled, was '5.25.0'|
-|v2ray-rules-dat|202412282210|202501182210|runtime-data|Compliance mode enabled, was '202501182210'<br>Versions not comparable: `202412282210` and `202501182210`|
+|v2ray-rules-dat|202412282210|202501192212|runtime-data|Compliance mode enabled, was '202501192212'<br>Versions not comparable: `202412282210` and `202501192212`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2772,7 +2771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1006|9.1.1037|app-editors|Compliance mode enabled, was '9.1.1037'|
+|vim|9.1.1006|9.1.1039|app-editors|Compliance mode enabled, was '9.1.1039'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualenv|20.27.1|20.29.1|lang-python|Compliance mode enabled, was '20.29.1'|
