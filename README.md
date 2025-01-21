@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737457545?label=Updated)
+![Relative date](https://img.shields.io/date/1737461916?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -40,6 +40,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-notes|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |akonadi-search|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |akonadiconsole|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|akregator|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |alacarte|3.54.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
@@ -249,7 +250,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|chromium|131.0.6778.264|132.0.6834.83|app-web|Compliance mode enabled, was '132.0.6834.83'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
@@ -2117,6 +2117,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
+|print-manager|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |prison5|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |procps|4.0.4|4.0.5|app-utils|Compliance mode enabled, was '4.0.5'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
@@ -2427,6 +2428,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|smartdns|35|46|app-network|Compliance mode enabled, was '46'|
 |smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
 |smb4k-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
