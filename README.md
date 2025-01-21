@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737472285?label=Updated)
+![Relative date](https://img.shields.io/date/1737476015?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -186,6 +186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
+|buildah|1.38.0|1.38.1|app-containers|Compliance mode enabled, was '1.38.1'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bulky|3.4|3.6|desktop-cinnamon|Compliance mode enabled, was '3.6'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
@@ -287,7 +288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
 |colord-kde|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
-|composer|2.7.7|2.8.4|app-devel|Compliance mode enabled, was '2.8.4'|
+|composer|2.7.7|2.8.5|app-devel|Compliance mode enabled, was '2.8.5'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
@@ -516,7 +517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.9.0|0.9.2|app-utils|Compliance mode enabled, was '0.9.2'|
 |fontconfig|2.15.0|2.16.0|runtime-desktop|Compliance mode enabled, was '2.16.0'|
 |fontconfig+32|2.14.0|2.16.0|runtime-optenv32|Compliance mode enabled, was '2.16.0'|
-|fonttools|4.53.1|4.55.3|desktop-fonts|Compliance mode enabled, was '4.55.3'|
+|fonttools|4.53.1|4.55.4|desktop-fonts|Compliance mode enabled, was '4.55.4'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|9.0.0|10.0.0|app-web|Compliance mode enabled, was '10.0.0'|
 |fortune-mod|3.22.0|3.24.0|app-games|Compliance mode enabled, was '3.24.0'|
@@ -830,7 +831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |jellyfish|1.1.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
-|jenkins|2.468|2.493|app-admin|Compliance mode enabled, was '2.493'|
+|jenkins|2.468|2.494|app-admin|Compliance mode enabled, was '2.494'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
