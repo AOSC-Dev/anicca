@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737479356?label=Updated)
+![Relative date](https://img.shields.io/date/1737483236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1780,7 +1780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
 |openjfx-21|21.0.5<br>+0|21.0.6+0|lang-java|Compliance mode enabled, was '21.0.6+0'|
-|openjfx-23|23-ga|23.0.1-ga|lang-java||
+|openjfx-23|23-ga|23.0.2-ga|lang-java||
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy|1.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy+32|1.5.2|2.5.3|runtime-optenv32|Compliance mode enabled, was '2.5.3'|
@@ -1864,7 +1864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.127|app-games|Compliance mode enabled, was '2.3.127'|
+|pcsx2|1.6.0<br>+git20210825|2.3.128|app-games|Compliance mode enabled, was '2.3.128'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.8|lang-python|Compliance mode enabled, was '3.17.8'|
@@ -2764,6 +2764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
+|virtualbox|7.1.4|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
 |virtualenv|20.27.1|20.29.1|lang-python|Compliance mode enabled, was '20.29.1'|
 |virtualgl+32|2.5.2|3.1.2|runtime-optenv32|Compliance mode enabled, was '3.1.2'|
 |vkd3d|1.9|1.14|runtime-display|Compliance mode enabled, was '1.14'|
@@ -2919,7 +2920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.3|runtime-web|Compliance mode enabled, was '5.34.3'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.45|0.48|app-electronics|Compliance mode enabled, was '0.48'|
+|yosys|0.45|0.49|app-electronics|Compliance mode enabled, was '0.49'|
 |yq|4.44.5|4.45.1|app-devel|Compliance mode enabled, was '4.45.1'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
