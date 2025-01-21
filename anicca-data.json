@@ -2853,7 +2853,7 @@
 ["networkmanager-openvpn","1.8.12","1.12.0","app-network",1584387426,["Compliance mode enabled, was '1.12.0'"]],
 ["tinyproxy","1.11.1","1.11.2","app-network",1710565425,["Compliance mode enabled, was '1.11.2'"]],
 ["iw","5.19","6.9","app-network",1674452376,["Compliance mode enabled, was '6.9'"]],
-["passt","2024_10_30.ee7d0b6","2024_12_11.09478d5","app-network",1731759292,[]],
+["passt","2024_10_30.ee7d0b6","2025_01_21.4f2c8e7","app-network",1731759292,[]],
 ["grpc","1.64.0","1.69.0","app-network",1737436557,["Compliance mode enabled, was '1.69.0'"]],
 ["netctl","1.23","1.29","app-network",1601189022,["Compliance mode enabled, was '1.29'"]],
 ["openswan","2.6.51.5","3.0.0","app-network",1585799570,["Compliance mode enabled, was '3.0.0'"]],
