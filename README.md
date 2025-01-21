@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737490302?label=Updated)
+![Relative date](https://img.shields.io/date/1737493784?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -170,8 +170,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|boto3|1.20.26|1.36.2|lang-python|Compliance mode enabled, was '1.36.2'|
-|botocore|1.34.133|1.36.2|lang-python|Compliance mode enabled, was '1.36.2'|
+|boto3|1.20.26|1.36.3|lang-python|Compliance mode enabled, was '1.36.3'|
+|botocore|1.34.133|1.36.3|lang-python|Compliance mode enabled, was '1.36.3'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.18|app-utils|Compliance mode enabled, was '51.18'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.18)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -1779,6 +1779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
+|openjdk-23|23.0.1-ga|23.0.2-ga|lang-java||
 |openjdk-8|8u432-ga|8u442-b05|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
@@ -2088,6 +2089,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.3.1|5.3.2|app-containers||
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
 |poetry|1.8.3|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
@@ -2146,7 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purpose|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |putty|0.81|0.82|app-network|Compliance mode enabled, was '0.82'|
 |pv|1.6.20|1.9.27|app-utils|Compliance mode enabled, was '1.9.27'|
-|py-filelock|3.14.0|3.16.1|lang-python|Compliance mode enabled, was '3.16.1'|
+|py-filelock|3.14.0|3.17.0|lang-python|Compliance mode enabled, was '3.17.0'|
 |py-setproctitle|1.1.10|1.3.4|lang-python|Compliance mode enabled, was '1.3.4'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
@@ -2310,7 +2312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.36|1.4.39|app-network|Compliance mode enabled, was '1.4.39'|
-|repo|2.45|2.50.1|app-devel|Compliance mode enabled, was '2.50.1'|
+|repo|2.45|2.51|app-devel|Compliance mode enabled, was '2.51'|
 |reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
