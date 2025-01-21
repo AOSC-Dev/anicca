@@ -1116,7 +1116,6 @@
 ["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]],
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
-["tzdata","2024a","2025a","runtime-data",1716696236,["Compliance mode enabled, was '2025a'"]],
 ["trinity-default-settings","2023.07.1r","2024.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.11.0'"]],
 ["poppler-data","0.4.9","0.4.12","runtime-data",1526924271,["Compliance mode enabled, was '0.4.12'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
