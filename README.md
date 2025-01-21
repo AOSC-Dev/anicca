@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737454301?label=Updated)
+![Relative date](https://img.shields.io/date/1737457545?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -40,7 +40,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-notes|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |akonadi-search|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |akonadiconsole|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|akregator|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |alacarte|3.54.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
@@ -713,6 +712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
 |guitarix|0.44.1|0.46.0|app-multimedia|Compliance mode enabled, was '0.46.0'|
 |gupnp|1.2.4|1.6.8|desktop-gnome|Compliance mode enabled, was '1.6.8'|
 |gupnp-av|0.12.11|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
@@ -1290,6 +1290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libinput|1.27.0|1.27.1|runtime-devices|Compliance mode enabled, was '1.27.1'|
 |libintl-perl|1.29|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
+|libipt|2.1.1|2.1.2|runtime-devices|Compliance mode enabled, was '2.1.2'|
 |libiscsi|1.18.0|1.20.0|runtime-network|Compliance mode enabled, was '1.20.0'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
@@ -1746,7 +1747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
-|oolite|1.90|1.91.0.7649-250114-77d283e|app-games|Compliance mode enabled, was '1.91.0.7649-250114-77d283e'|
+|oolite|1.90|1.91.0.7650-250121-affa790|app-games|Compliance mode enabled, was '1.91.0.7650-250121-affa790'|
 |opam|2.1.6|2.3.0|lang-ocaml|Compliance mode enabled, was '2.3.0'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.10|app-admin|Compliance mode enabled, was '2.1.10'|
@@ -2116,7 +2117,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.9.0|app-productivity|Compliance mode enabled, was '0.9.0'|
 |prettytable|0.7.2|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
-|print-manager|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |prison5|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |procps|4.0.4|4.0.5|app-utils|Compliance mode enabled, was '4.0.5'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
@@ -2427,7 +2427,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|smartdns|35|46|app-network|Compliance mode enabled, was '46'|
 |smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
 |smb4k-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
