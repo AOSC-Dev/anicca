@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737576779?label=Updated)
+![Relative date](https://img.shields.io/date/1737579971?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -253,7 +253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.1|app-network|Compliance mode enabled, was '7.1'|
-|cinnamon|5.8.3|6.4.6|desktop-cinnamon|Compliance mode enabled, was '6.4.6'|
+|cinnamon|5.8.3|6.4.6|groups|Compliance mode enabled, was '6.4.6'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |cinnamon-desktop|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |cinnamon-menus|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -387,7 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-plugins|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |dolphin-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
-|dotnet|8.0.403|8.0.405|lang-dotnet|Compliance mode enabled, was '8.0.405'|
+|dotnet|8.0.403|8.0.405|groups|Compliance mode enabled, was '8.0.405'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
 |dotnet-apphost-pack-8.0|8.0.10|8.0.12|lang-dotnet|Compliance mode enabled, was '8.0.12'|
 |dotnet-host|8.0.10|8.0.12|lang-dotnet|Compliance mode enabled, was '8.0.12'|
@@ -521,6 +521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fonttools|4.53.1|4.55.4|desktop-fonts|Compliance mode enabled, was '4.55.4'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|9.0.0|10.0.0|app-web|Compliance mode enabled, was '10.0.0'|
+|fortune-mod|3.22.0|3.24.0|app-games|Compliance mode enabled, was '3.24.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
 |fplll|5.4.5|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
@@ -699,7 +700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
 |gst-plugins-ugly-1-0+32|1.16.2|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
 |gstreamer|1.24.7|1.24.11|runtime-multimedia|Compliance mode enabled, was '1.24.11'|
-|gstreamer-1-0+32|1.16.2|1.24.11|runtime-optenv32|Compliance mode enabled, was '1.24.11'|
+|gstreamer-1-0+32|1.16.2|1.24.11|groups|Compliance mode enabled, was '1.24.11'|
 |gtest|1.10.0<br>+git20210513|1.15.2|app-devel|Compliance mode enabled, was '1.15.2'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
 |gtk-4|4.16.5|4.16.12|desktop-gnome|Compliance mode enabled, was '4.16.12'|
@@ -1389,7 +1390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.2|runtime-web|Compliance mode enabled, was '0.9.2'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
-|libreoffice|24.2.3.2|25.2.0.2|app-productivity|Compliance mode enabled, was '25.2.0.2'|
+|libreoffice|24.2.3.2|25.2.0.2|groups|Compliance mode enabled, was '25.2.0.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.0|runtime-i18n|Compliance mode enabled, was '1.13.0'|
 |librsvg+32|2.40.21|2.59.2|runtime-optenv32|Compliance mode enabled, was '2.59.2'|
@@ -1673,7 +1674,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo|5.8.3|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|neofetch|7.3.11|7.98.0|app-utils|Compliance mode enabled, was '7.98.0'|
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.31.2|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
@@ -1785,8 +1785,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-23|23.0.1-ga|23.0.2-ga|lang-java||
 |openjdk-8|8u432-ga|8u442-ga|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
-|openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
-|openjfx-21|21.0.5<br>+0|21.0.6+0|lang-java|Compliance mode enabled, was '21.0.6+0'|
+|openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
+|openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy|1.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
@@ -2805,7 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wangle|2024.12.30.00|2025.01.20.00|runtime-network|Compliance mode enabled, was '2025.01.20.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|2024.12.30.00|2025.01.20.00|app-utils|Compliance mode enabled, was '2025.01.20.00'|
+|watchman|2024.12.30.00|2025.01.20.00|groups|Compliance mode enabled, was '2025.01.20.00'|
 |wavpack|5.2.0|5.8.0-dirty|app-multimedia|Compliance mode enabled, was '5.8.0-dirty'|
 |wavpack+32|5.2.0|5.8.0-dirty|runtime-optenv32|Compliance mode enabled, was '5.8.0-dirty'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
