@@ -1782,7 +1782,7 @@
 ["atomix","3.34.0","44.0","desktop-gnome",1536893878,["Compliance mode enabled, was '44.0'"]],
 ["gnome-shell-extension-gsconnect","53","58","desktop-gnome",1663210251,["Compliance mode enabled, was '58'"]],
 ["nautilus","42.2","47.1","desktop-gnome",1716298204,["Compliance mode enabled, was '47.1'"]],
-["gvfs","1.50.2","1.56.1","desktop-gnome",1663210210,["Compliance mode enabled, was '1.56.1'"]],
+["gvfs","1.50.2","1.57.1","desktop-gnome",1663210210,["Compliance mode enabled, was '1.57.1'"]],
 ["seahorse","42.0","47.0.1","desktop-gnome",1663210244,["Compliance mode enabled, was '47.0.1'"]],
 ["budgie-screensaver","5.0.2","5.1.0","desktop-gnome",1663210249,["Compliance mode enabled, was '5.1.0'"]],
 ["qgnomeplatform","0.8.4","0.9.2","desktop-gnome",1663210250,["Compliance mode enabled, was '0.9.2'"]],
