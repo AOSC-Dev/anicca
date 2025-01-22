@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737511966?label=Updated)
+![Relative date](https://img.shields.io/date/1737515719?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -169,7 +169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.87.0|runtime-optenv32|Compliance mode enabled, was '1.87.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
-|botan-3|3.5.0|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
 |boto3|1.20.26|1.36.3|lang-python|Compliance mode enabled, was '1.36.3'|
 |botocore|1.34.133|1.36.3|lang-python|Compliance mode enabled, was '1.36.3'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
@@ -352,7 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
-|deno|1.44.1|2.1.6|lang-js|Compliance mode enabled, was '2.1.6'|
+|deno|1.44.1|2.1.7|lang-js|Compliance mode enabled, was '2.1.7'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.15|lang-python|Compliance mode enabled, was '1.2.15'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -501,7 +500,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
-|flatbuffers|2.0.6|24.12.23|runtime-common|Compliance mode enabled, was '24.12.23'|
+|flatbuffers|2.0.6|25.1.21|runtime-common|Compliance mode enabled, was '25.1.21'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
 |flit|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
@@ -745,7 +744,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
-|hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hmcl|3.6.11|3.6.11.265|app-games|Compliance mode enabled, was '3.6.11.265'|
 |hotdoc|0.13.7|0.17.3|app-doc|Compliance mode enabled, was '0.17.3'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
@@ -1782,7 +1780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
 |openjdk-21|21.0.5-ga|21.0.6-ga|lang-java||
 |openjdk-23|23.0.1-ga|23.0.2-ga|lang-java||
-|openjdk-8|8u432-ga|8u442-b05|lang-java||
+|openjdk-8|8u432-ga|8u442-ga|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.14+0|lang-java|Compliance mode enabled, was '17.0.14+0'|
 |openjfx-21|21.0.5<br>+0|21.0.6+0|lang-java|Compliance mode enabled, was '21.0.6+0'|
