@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737506482?label=Updated)
+![Relative date](https://img.shields.io/date/1737511966?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -218,6 +218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-release|0.25.10|0.25.15|lang-rust|Compliance mode enabled, was '0.25.15'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
+|castxml|0.6.8|0.6.10|app-devel|Compliance mode enabled, was '0.6.10'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|2.13.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
@@ -1845,7 +1846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm-2.48|2.50.1|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
-|parallel|20191122|20241222|app-utils|Compliance mode enabled, was '20241222'|
+|parallel|20191122|20250122|app-utils|Compliance mode enabled, was '20250122'|
 |paramiko|2.10.3|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |pari|2.13.1|2.17.1|app-scientific|Compliance mode enabled, was '2.17.1'|
 |parley|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2589,6 +2590,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebase|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdebindings|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdedocker|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|tdeedu|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdegames|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdegraphics|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdeio-appinfo|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
