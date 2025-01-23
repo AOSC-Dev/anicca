@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737623497?label=Updated)
+![Relative date](https://img.shields.io/date/1737627206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -540,7 +540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fractal|9.0|9|desktop-gnome|Compliance mode enabled, was '9'|
 |frameworkintegration|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
-|freeciv|2.6.5|3.1.4|app-games|Compliance mode enabled, was '3.1.4'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.9.0|3.10.3|app-network|Compliance mode enabled, was '3.10.3'|
@@ -1766,6 +1765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.18|desktop-kde|Compliance mode enabled, was '0.26.18'|
 |okular|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
+|oma|1.13.9|1.13.8|app-admin|Compliance mode enabled, was '1.13.8'<br>Possible downgrade from the current version (1.13.9 -> 1.13.8)|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7650-250121-affa790|app-games|Compliance mode enabled, was '1.91.0.7650-250121-affa790'|
@@ -2803,7 +2803,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.4.304.0|runtime-optenv32|Compliance mode enabled, was '1.4.304.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.96.3.25013|1.96.4.25017|app-editors|Compliance mode enabled, was '1.96.4.25017'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
