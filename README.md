@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737609170?label=Updated)
+![Relative date](https://img.shields.io/date/1737612926?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -693,7 +693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greybird|3.23.3|3.23.4|desktop-themes|Compliance mode enabled, was '3.23.4'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
-|grpc|1.64.0|1.69.0|app-network|Compliance mode enabled, was '1.69.0'|
+|grpc|1.64.0|1.70.0|app-network|Compliance mode enabled, was '1.70.0'|
 |grub-btrfs|4.13|4.10.2|app-utils|Compliance mode enabled, was '4.10.2'<br>Possible downgrade from the current version (4.13 -> 4.10.2)|
 |gsasl|1.8.1|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
 |gsettings-desktop-schemas|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
@@ -860,7 +860,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
-|just|1.38.0|1.39.0|app-devel|Compliance mode enabled, was '1.39.0'|
 |k3b|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |k3b-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |k9copy-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2643,7 +2642,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |template-glib|3.28.0|3.36.3|desktop-gnome|Compliance mode enabled, was '3.36.3'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |termcolor|1.1.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
-|terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.1|2.1.4|desktop-gnome|Compliance mode enabled, was '2.1.4'|
 |texlive|20240312|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20240312 -> 2024)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
