@@ -777,7 +777,7 @@
 ["rclone","1.68.0","1.69.0","app-web",1727015619,["Compliance mode enabled, was '1.69.0'"]],
 ["midori","9.0","11.5","app-web",1569636491,["Compliance mode enabled, was '11.5'"]],
 ["hexchat","2.16.1","2.16.2","app-web",1655338775,["Compliance mode enabled, was '2.16.2'"]],
-["linux+api","6.12.7","6.12.10","core-devel",1735784058,["Compliance mode enabled, was '6.12.10'"]],
+["linux+api","6.12.7","6.12.11","core-devel",1735784058,["Compliance mode enabled, was '6.12.11'"]],
 ["tint2","16.7","17.0.2","desktop-wm",1569732139,["Compliance mode enabled, was '17.0.2'"]],
 ["twm","1.0.11","1.0.12","desktop-wm",1600753401,["Compliance mode enabled, was '1.0.12'"]],
 ["windowmaker","0.95.9+git20220812","0.96.0","desktop-wm",1678604483,["Compliance mode enabled, was '0.96.0'"]],
