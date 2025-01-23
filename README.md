@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737641538?label=Updated)
+![Relative date](https://img.shields.io/date/1737645156?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2635,7 +2635,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.10.3|5.10.4|app-web|Compliance mode enabled, was '5.10.4'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2769,7 +2768,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
-|uv|0.5.22|0.5.23|lang-python|Compliance mode enabled, was '0.5.23'|
 |v2ray|5.24.0|5.25.1|app-network|Compliance mode enabled, was '5.25.1'|
 |v2ray-rules-dat|202412282210|202501222211|runtime-data|Compliance mode enabled, was '202501222211'<br>Versions not comparable: `202412282210` and `202501222211`|
 |v2raya|2.2.5.8|2.2.6.3|app-network|Compliance mode enabled, was '2.2.6.3'|
