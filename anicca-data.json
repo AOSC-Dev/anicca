@@ -201,7 +201,6 @@
 ["forgejo","9.0.0","10.0.0","app-web",1729576926,["Compliance mode enabled, was '10.0.0'"]],
 ["caddy","2.8.4","2.9.1","app-web",1718709169,["Compliance mode enabled, was '2.9.1'"]],
 ["liferea","1.13.8","1.15.9","app-web",1655338775,["Compliance mode enabled, was '1.15.9'"]],
-["firefox","133.0.3","134.0.2","app-web",1734874716,["Compliance mode enabled, was '134.0.2'"]],
 ["nginx","1.27.1","1.27.3","app-web",1727187268,["Compliance mode enabled, was '1.27.3'"]],
 ["kvirc","5.0.0","5.2.6","app-web",1554223928,["Compliance mode enabled, was '5.2.6'"]],
 ["qownnotes","22.6.1","25.1.5","app-web",1659588927,["Compliance mode enabled, was '25.1.5'"]],
