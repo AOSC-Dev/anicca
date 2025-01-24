@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737688487?label=Updated)
+![Relative date](https://img.shields.io/date/1737692064?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -760,7 +760,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.11|3.6.11.265|app-games|Compliance mode enabled, was '3.6.11.265'|
+|hmcl|3.6.11|3.6.11.266|app-games|Compliance mode enabled, was '3.6.11.266'|
 |hotdoc|0.13.7|0.17.3|app-doc|Compliance mode enabled, was '0.17.3'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
@@ -1415,6 +1415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
 |libsbsms|2.3.0|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (2.3.0 -> 2.0.2)|
+|libseccomp|2.5.5|2.6.0|runtime-common|Compliance mode enabled, was '2.6.0'|
 |libsecret|0.20.4|0.21.6|runtime-desktop|Compliance mode enabled, was '0.21.6'|
 |libserialport|0.1.1|0.1.2|runtime-devices|Compliance mode enabled, was '0.1.2'|
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
@@ -1620,7 +1621,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.29|1.6.34|app-admin|Compliance mode enabled, was '1.6.34'|
 |mercurial|6.8.1|6.9.1|app-vcs|Compliance mode enabled, was '6.9.1'|
 |merkuro|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|mesa|24.3.3|24.3.4|runtime-display||
 |mesa+32|22.1.7|24.3.4|runtime-optenv32|Compliance mode enabled, was '24.3.4'|
 |mesa-amber|21.3.9|24.3.4|runtime-display|Compliance mode enabled, was '24.3.4'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|24.3.4|runtime-display|Compliance mode enabled, was '24.3.4'|
@@ -1799,10 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|3.0.2.0|runtime-imaging|Compliance mode enabled, was '3.0.2.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
-|openjdk-17|17.0.13-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.13-ga -> 17.0.2)|
-|openjdk-21|21.0.5-ga|21.0.6-ga|lang-java||
-|openjdk-23|23.0.1-ga|23.0.2-ga|lang-java||
-|openjdk-8|8u432-ga|8u442-ga|lang-java||
+|openjdk-17|17.0.14-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.14-ga -> 17.0.2)|
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
@@ -2964,7 +2961,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.170.1|0.170.2|app-editors|Compliance mode enabled, was '0.170.2'|
 |zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
 |zeroconf|0.28.6|0.141.0|lang-python|Compliance mode enabled, was '0.141.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
