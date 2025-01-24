@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737684710?label=Updated)
+![Relative date](https://img.shields.io/date/1737688487?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -154,7 +154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bili-sync|2.1.1|2.2.0|app-multimedia|Compliance mode enabled, was '2.2.0'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |bird|2.15.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
-|bitwarden|2025.1.1|2025.1.2|app-utils|Compliance mode enabled, was '2025.1.2'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
 |bleachbit|4.6.0|4.6.2|app-utils|Compliance mode enabled, was '4.6.2'|
 |blender|4.0.2|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
@@ -2188,7 +2187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1.2|lang-python|Compliance mode enabled, was '2024.1.2'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
-|pydantic|2.6.0|2.10.5|lang-python|Compliance mode enabled, was '2.10.5'|
+|pydantic|2.6.0|2.10.6|lang-python|Compliance mode enabled, was '2.10.6'|
 |pydantic-core|2.16.1|2.27.2|lang-python|Compliance mode enabled, was '2.27.2'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
