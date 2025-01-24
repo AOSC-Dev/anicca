@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737745579?label=Updated)
+![Relative date](https://img.shields.io/date/1737749569?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -151,7 +151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.12.3|lang-python|Compliance mode enabled, was '4.12.3'|
 |benchmark|1.8.2|1.9.1|runtime-common|Compliance mode enabled, was '1.9.1'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|bili-sync|2.1.1|2.2.0|app-multimedia|Compliance mode enabled, was '2.2.0'|
+|bili-sync|2.1.1|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
 |binutils+32|2.42|2.43.1|runtime-optenv32|Compliance mode enabled, was '2.43.1'|
 |bird|2.15.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
@@ -355,7 +355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
 |deno|1.44.1|2.1.7|lang-js|Compliance mode enabled, was '2.1.7'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deprecated|1.2.14|1.2.16|lang-python|Compliance mode enabled, was '1.2.16'|
+|deprecated|1.2.14|1.2.17|lang-python|Compliance mode enabled, was '1.2.17'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.1|app-devel|Compliance mode enabled, was '2.25.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
