@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737731428?label=Updated)
+![Relative date](https://img.shields.io/date/1737735193?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -355,7 +355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
 |deno|1.44.1|2.1.7|lang-js|Compliance mode enabled, was '2.1.7'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|deprecated|1.2.14|1.2.15|lang-python|Compliance mode enabled, was '1.2.15'|
+|deprecated|1.2.14|1.2.16|lang-python|Compliance mode enabled, was '1.2.16'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.1|app-devel|Compliance mode enabled, was '2.25.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -1672,7 +1672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |muparser|2.2.6.1|2.3.5|runtime-common|Compliance mode enabled, was '2.3.5'|
-|mupdf|1.24.10|1.25.2|app-doc|Compliance mode enabled, was '1.25.2'|
+|mupdf|1.24.10|1.25.3|app-doc|Compliance mode enabled, was '1.25.3'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
 |mutter|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |mvfst|2024.12.30.00|2025.01.20.00|runtime-network|Compliance mode enabled, was '2025.01.20.00'|
@@ -2810,8 +2810,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
-|vulkan-headers|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
-|vulkan-headers+32|1.3.283.0|1.4.305|runtime-optenv32|Compliance mode enabled, was '1.4.305'|
+|vulkan-headers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
+|vulkan-headers+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
 |vulkan-loader|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
 |vulkan-loader+32|1.3.283.0|1.4.305|runtime-optenv32|Compliance mode enabled, was '1.4.305'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
