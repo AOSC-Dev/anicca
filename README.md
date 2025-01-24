@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737749569?label=Updated)
+![Relative date](https://img.shields.io/date/1737752868?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -533,7 +533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.9.0|0.9.2|app-utils|Compliance mode enabled, was '0.9.2'|
 |fontconfig|2.15.0|2.16.0|runtime-desktop|Compliance mode enabled, was '2.16.0'|
 |fontconfig+32|2.14.0|2.16.0|runtime-optenv32|Compliance mode enabled, was '2.16.0'|
-|fonttools|4.53.1|4.55.5|desktop-fonts|Compliance mode enabled, was '4.55.5'|
+|fonttools|4.53.1|4.55.6|desktop-fonts|Compliance mode enabled, was '4.55.6'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|9.0.0|10.0.0|app-web|Compliance mode enabled, was '10.0.0'|
 |fortune-mod|3.22.0|3.24.0|app-games|Compliance mode enabled, was '3.24.0'|
@@ -785,7 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.124.2|lang-python|Compliance mode enabled, was '6.124.2'|
+|hypothesis-python|6.97.4|6.124.3|lang-python|Compliance mode enabled, was '6.124.3'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.55.0|app-web|Compliance mode enabled, was '2.55.0'|
@@ -2811,15 +2811,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
-|vulkan-extensionlayer|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
+|vulkan-extensionlayer|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-headers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-headers+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
-|vulkan-loader|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
-|vulkan-loader+32|1.3.283.0|1.4.305|runtime-optenv32|Compliance mode enabled, was '1.4.305'|
+|vulkan-loader|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
+|vulkan-loader+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
-|vulkan-utility-libraries|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
-|vulkan-validationlayers|1.3.283.0|1.4.305|runtime-display|Compliance mode enabled, was '1.4.305'|
+|vulkan-utility-libraries|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
+|vulkan-validationlayers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2024.12.30.00|2025.01.20.00|runtime-network|Compliance mode enabled, was '2025.01.20.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
@@ -2843,6 +2843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.45.0|0.45.1|lang-python|Compliance mode enabled, was '0.45.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
+|which|2.21|2.22|app-utils|Compliance mode enabled, was '2.22'|
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
