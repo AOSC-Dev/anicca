@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737742407?label=Updated)
+![Relative date](https://img.shields.io/date/1737745579?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1211,6 +1211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
+|level-zero|1.19.2|1.20.2|runtime-common|Compliance mode enabled, was '1.20.2'|
 |levenshtein|0.12.0|0.26.1|lang-python|Compliance mode enabled, was '0.26.1'|
 |lfortran|0.43.0|0.44.0|app-devel|Compliance mode enabled, was '0.44.0'|
 |lib3mf|2.2.0|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
@@ -1233,8 +1234,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|25|runtime-wasi|Compliance mode enabled, was '25'|
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|libcap|2.69|2.71|runtime-common|Compliance mode enabled, was '2.71'|
-|libcap+32|2.31|2.71|runtime-optenv32|Compliance mode enabled, was '2.71'|
+|libcap|2.69|20071031|runtime-common|Compliance mode enabled, was '20071031'|
+|libcap+32|2.31|20071031|runtime-optenv32|Compliance mode enabled, was '20071031'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
 |libcdio|2.1.0|2.1.1|runtime-devices|Compliance mode enabled, was '2.1.1'|
@@ -2151,7 +2152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |procps|4.0.4|4.0.5|app-utils|Compliance mode enabled, was '4.0.5'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.1|app-gis|Compliance mode enabled, was '9.5.1'|
-|projectm|4.0.0|4.1.3|runtime-multimedia|Compliance mode enabled, was '4.1.3'|
+|projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
 |prompt-toolkit|3.0.48|3.0.50|lang-python|Compliance mode enabled, was '3.0.50'|
 |protobuf|25.2|29.3|runtime-common|Compliance mode enabled, was '29.3'|
 |proxychains-ng+32|20161205|4.17|runtime-optenv32|Compliance mode enabled, was '4.17'<br>Possible downgrade from the current version (20161205 -> 4.17)|
