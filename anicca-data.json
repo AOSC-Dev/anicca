@@ -2538,6 +2538,7 @@
 ["kdsoap","1.9.0","2.2.0","runtime-network",1590739029,["Compliance mode enabled, was '2.2.0'"]],
 ["libiscsi","1.18.0","1.20.0","runtime-network",1481952809,["Compliance mode enabled, was '1.20.0'"]],
 ["mercurial","6.8.1","6.9.1","app-vcs",1728998119,["Compliance mode enabled, was '6.9.1'"]],
+["git-cliff","2.7.0","2.8.0","app-vcs",1735347831,["Compliance mode enabled, was '2.8.0'"]],
 ["lazygit","0.44.1","0.45.2","app-vcs",1732763881,["Compliance mode enabled, was '0.45.2'"]],
 ["tortoisehg","6.6.3","6.9","app-vcs",1716735995,["Compliance mode enabled, was '6.9'"]],
 ["libslirp","4.6.1","4.8.0","runtime-emulation",1641193532,["Compliance mode enabled, was '4.8.0'"]],
