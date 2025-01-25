@@ -1507,6 +1507,7 @@
 ["networkmanager-l2tp","1.8.6","1.20.20","app-network",1528905474,["Compliance mode enabled, was '1.20.20'"]],
 ["sshfs","3.6.0","3.7.3","app-network",1575614682,["Compliance mode enabled, was '3.7.3'"]],
 ["openvpn","2.5.4","2.6.13","app-network",1703970191,["Compliance mode enabled, was '2.6.13'"]],
+["wrk","4.1.0","4.2.0","app-network",1528905473,["Compliance mode enabled, was '4.2.0'"]],
 ["remmina","1.4.36","1.4.39","app-network",1733452629,["Compliance mode enabled, was '1.4.39'"]],
 ["rpcbind","1.2.6","1.2.7","app-network",1716301828,["Compliance mode enabled, was '1.2.7'"]],
 ["modemmanager","1.18.12","1.22.0","app-network",1673935875,["Compliance mode enabled, was '1.22.0'"]],
