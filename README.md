@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737831992?label=Updated)
+![Relative date](https://img.shields.io/date/1737835815?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -329,7 +329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.11|lang-python|Compliance mode enabled, was '2.0.11'|
-|cysignals|1.11.4|1.12.2|lang-python|Compliance mode enabled, was '1.12.2'|
+|cysignals|1.11.4|1.12.3|lang-python|Compliance mode enabled, was '1.12.3'|
 |cython|3.0.10|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
@@ -1509,13 +1509,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.13.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.0 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
-|linux+kernel+lts|6.12.10|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (6.12.10 -> 5.10.233)|
+|linux+kernel+lts|6.12.11|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (6.12.11 -> 5.10.233)|
 |linux+kernel+rc|5.8.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'|
 |linux+kernel+retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
 |linux+kernel+retro+minimal|5.15.17|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (5.15.17 -> 5.10.233)|
 |linux-firmware|20250122|20250109|runtime-kernel|Possible downgrade from the current version (20250122 -> 20250109)|
 |linux-kernel|6.13.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.0 -> 5.19.17)|
-|linux-kernel-lts|6.12.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.10 -> 5.19.17)|
+|linux-kernel-lts|6.12.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.11 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'|
 |linux-kernel-retro-minimal|5.15.17|5.10.233|runtime-kernel|Compliance mode enabled, was '5.10.233'<br>Possible downgrade from the current version (5.15.17 -> 5.10.233)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
@@ -2563,7 +2563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |targetcli-fb|2.1.54|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tauri-cli|2.2.4|2.2.6|lang-rust|Compliance mode enabled, was '2.2.6'|
+|tauri-cli|2.2.4|2.2.7|lang-rust|Compliance mode enabled, was '2.2.7'|
 |tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
 |tbb+32|4.4u4|2022.0.0|runtime-optenv32|Compliance mode enabled, was '2022.0.0'|
 |tcl|8.6.14|9.0.1|lang-tcl|Compliance mode enabled, was '9.0.1'|
@@ -2807,6 +2807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack+32|5.2.0|5.8.0-dirty|runtime-optenv32|Compliance mode enabled, was '5.8.0-dirty'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
+|wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
 |webkit2gtk|2.44.2|2.46.5|runtime-web|Compliance mode enabled, was '2.46.5'|
