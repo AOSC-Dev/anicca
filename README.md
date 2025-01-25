@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737807294?label=Updated)
+![Relative date](https://img.shields.io/date/1737810780?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -273,7 +273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.2|24.4.1|app-admin|Compliance mode enabled, was '24.4.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
-|cmake|3.31.4|3.31.5|app-devel|Compliance mode enabled, was '3.31.5'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -464,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.28|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
-|fakeroot|1.35.1|1.37|app-utils|Compliance mode enabled, was '1.37'|
 |falkon|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
@@ -1792,7 +1790,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy|1.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy+32|1.5.2|2.5.3|runtime-optenv32|Compliance mode enabled, was '2.5.3'|
-|openldap|2.6.7|2.6.9|app-admin|Compliance mode enabled, was '2_6_9'|
 |openldap+32|2.4.59|2.6.9|runtime-optenv32|Compliance mode enabled, was '2_6_9'|
 |openmpi|4.1.6|5.0.6|app-scientific|Compliance mode enabled, was '5.0.6'|
 |openmpt|0.6.4|0.7.13|app-multimedia|Compliance mode enabled, was '0.7.13'|
@@ -2419,7 +2416,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2023.7|2024.4|app-devel|Compliance mode enabled, was '2024.4'|
-|shadow|4.17.1|4.17.2|app-admin|Compliance mode enabled, was '4.17.2'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|25.01.05|app-creativity|Compliance mode enabled, was '25.01.05'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
@@ -2749,7 +2745,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usbredir|0.8.0|0.14.0|runtime-devices|Compliance mode enabled, was '0.14.0'|
 |utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
-|util-linux|2.40.2|2.40.4|app-utils|Compliance mode enabled, was '2.40.4'|
 |util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
