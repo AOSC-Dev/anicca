@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737828717?label=Updated)
+![Relative date](https://img.shields.io/date/1737831992?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -425,6 +425,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
 |edencommon|2024.12.30.00|2025.01.20.00|runtime-common|Compliance mode enabled, was '2025.01.20.00'|
+|editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
 |elfutils|0.191|0.192|app-utils|Compliance mode enabled, was '0.192'|
@@ -867,6 +868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kanagram|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kapidox|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kapman|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|kapptemplate|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |karchive|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kasablanca-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kasts|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -1169,6 +1171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kweathercore|0.7|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kwidgetsaddons|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwin|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
+|kwindowsystem|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwordquiz|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kwrited|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kxmleditor-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2804,7 +2807,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack+32|5.2.0|5.8.0-dirty|runtime-optenv32|Compliance mode enabled, was '5.8.0-dirty'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
-|wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
 |webkit2gtk|2.44.2|2.46.5|runtime-web|Compliance mode enabled, was '2.46.5'|
