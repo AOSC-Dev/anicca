@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737817572?label=Updated)
+![Relative date](https://img.shields.io/date/1737821424?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -370,7 +370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
-|distrobox|1.8.0|1.8.1.1|app-utils|Compliance mode enabled, was '1.8.1.1'|
+|distrobox|1.8.0|1.8.1.2|app-utils|Compliance mode enabled, was '1.8.1.2'|
 |django|5.0.3|5.1.5|lang-python|Compliance mode enabled, was '5.1.5'|
 |dkms|3.1.1|3.1.4|app-admin|Compliance mode enabled, was '3.1.4'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
@@ -2562,7 +2562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |targetcli-fb|2.1.54|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tauri-cli|2.2.4|2.2.5|lang-rust|Compliance mode enabled, was '2.2.5'|
+|tauri-cli|2.2.4|2.2.6|lang-rust|Compliance mode enabled, was '2.2.6'|
 |tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
 |tbb+32|4.4u4|2022.0.0|runtime-optenv32|Compliance mode enabled, was '2022.0.0'|
 |tcl|8.6.14|9.0.1|lang-tcl|Compliance mode enabled, was '9.0.1'|
@@ -2786,7 +2786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.78.2|runtime-desktop|Compliance mode enabled, was '0.78.2'|
+|vte|0.68.0|0.78.3|runtime-desktop|Compliance mode enabled, was '0.78.3'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-headers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
