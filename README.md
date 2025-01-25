@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737765587?label=Updated)
+![Relative date](https://img.shields.io/date/1737770689?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -516,7 +516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
-|flatbuffers|2.0.6|25.1.21|runtime-common|Compliance mode enabled, was '25.1.21'|
+|flatbuffers|2.0.6|25.1.24|runtime-common|Compliance mode enabled, was '25.1.24'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.2|runtime-scientific|Compliance mode enabled, was '3.1.2'|
 |flit|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
@@ -2732,6 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-asahi|2023.07.02<br>+3|2024.10+1|runtime-kernel|Compliance mode enabled, was '2024.10-1'|
 |uboot-tools|2024.10|2025.01|app-utils|Compliance mode enabled, was '2025.01'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin|Compliance mode enabled, was '2023.11.28.1'|
+|uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.18.0|runtime-scientific|Compliance mode enabled, was '1.18.0'|
 |udiskie|2.5.3|2.5.7|app-utils|Compliance mode enabled, was '2.5.7'|
 |udns|0.5|0.6|app-network|Compliance mode enabled, was '0.6'|
