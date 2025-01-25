@@ -764,7 +764,6 @@
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
 ["squid","5.7","6.12","app-web",1669533924,["Compliance mode enabled, was '6.12'"]],
-["google-chrome","132.0.6834.83","132.0.6834.110","app-web",1736909882,["Compliance mode enabled, was '132.0.6834.110'"]],
 ["thunderbird","128.5.2","128.6.0","app-web",1735033691,[]],
 ["caddy","2.8.4","2.9.1","app-web",1718709169,["Compliance mode enabled, was '2.9.1'"]],
 ["certbot-dns-cloudflare","2.10.0","3.1.0","app-web",1716728302,["Compliance mode enabled, was '3.1.0'"]],
