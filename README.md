@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737824829?label=Updated)
+![Relative date](https://img.shields.io/date/1737828717?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -425,7 +425,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
 |edencommon|2024.12.30.00|2025.01.20.00|runtime-common|Compliance mode enabled, was '2025.01.20.00'|
-|editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
 |elfutils|0.191|0.192|app-utils|Compliance mode enabled, was '0.192'|
@@ -868,7 +867,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kanagram|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kapidox|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kapman|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|kapptemplate|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |karchive|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kasablanca-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kasts|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -1171,7 +1169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kweathercore|0.7|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kwidgetsaddons|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwin|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
-|kwindowsystem|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwordquiz|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kwrited|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kxmleditor-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1957,7 +1954,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.15|lang-perl|Compliance mode enabled, was '13.15'|
+|perl-image-exiftool|12.50|13.16|lang-perl|Compliance mode enabled, was '13.16'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2231,6 +2228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-daemonize|2.5.0|3.9.0|lang-python|Compliance mode enabled, was '3.9.0'|
 |python-dbusmock|0.22.0|0.34.2|lang-python|Compliance mode enabled, was '0.34.2'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
+|python-evdev|1.7.1|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |python-graphviz|0.16|0.20.3|lang-python|Compliance mode enabled, was '0.20.3'|
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
 |python-hpack|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
@@ -2417,7 +2415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2023.7|2024.4|app-devel|Compliance mode enabled, was '2024.4'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
-|shotcut|21.08.11|25.01.05|app-creativity|Compliance mode enabled, was '25.01.05'|
+|shotcut|21.08.11|25.01.25|app-creativity|Compliance mode enabled, was '25.01.25'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
 |showmethekey|1.14.0|1.18.1|app-utils|Compliance mode enabled, was '1.18.1'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
