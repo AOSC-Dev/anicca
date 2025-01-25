@@ -447,7 +447,6 @@
 ["microsoft-gsl","3.0.1","4.1.0","runtime-common",1588470467,["Compliance mode enabled, was '4.1.0'"]],
 ["libsass","3.6.4","3.6.6","runtime-common",1600321917,["Compliance mode enabled, was '3.6.6'"]],
 ["libxml++","2.40.1","5.4.0","runtime-common",1446144002,["Compliance mode enabled, was '5.4.0'"]],
-["libseccomp","2.5.5","2.6.0","runtime-common",1703842256,["Compliance mode enabled, was '2.6.0'"]],
 ["jsonrpc-glib","3.42.0","3.44.1","runtime-common",1663210242,["Compliance mode enabled, was '3.44.1'"]],
 ["libeconf","0.5.0","0.7.7","runtime-common",1674452224,["Compliance mode enabled, was '0.7.7'"]],
 ["serd","0.32.2","0.32.4","runtime-common",1716292249,["Compliance mode enabled, was '0.32.4'"]],
