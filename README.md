@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737803117?label=Updated)
+![Relative date](https://img.shields.io/date/1737807294?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -108,7 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
-|attrs|23.2.0|24.3.0|lang-python|Compliance mode enabled, was '24.3.0'|
+|attrs|23.2.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |audacity|3.7.0|3.7.1|app-creativity|Compliance mode enabled, was '3.7.1'|
 |audiocd-kio|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
@@ -481,6 +481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
 |feedbackd|0.2.1|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
+|feishin|0.12.1|0.12.2|app-multimedia|Compliance mode enabled, was '0.12.2'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg+32|4.2.5|7.1|runtime-optenv32|Compliance mode enabled, was '7.1'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
