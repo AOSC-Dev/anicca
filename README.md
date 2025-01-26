@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737929298?label=Updated)
+![Relative date](https://img.shields.io/date/1737933046?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -467,7 +467,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
-|fastfetch|2.34.1|2.35.0|app-utils|Compliance mode enabled, was '2.35.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -481,7 +480,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
 |feedbackd|0.2.1|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
-|feishin|0.12.1|0.12.2|app-multimedia|Compliance mode enabled, was '0.12.2'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg+32|4.2.5|7.1|runtime-optenv32|Compliance mode enabled, was '7.1'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
@@ -2239,7 +2237,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
 |python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |python-ly|0.9.7|0.9.9|lang-python|Compliance mode enabled, was '0.9.9'|
-|python-lz4|2.1.6|4.3.3|lang-python|Compliance mode enabled, was '4.3.3'|
+|python-lz4|2.1.6|4.4.3|lang-python|Compliance mode enabled, was '4.4.3'|
 |python-markdown-math|0.6|0.8|lang-python|Compliance mode enabled, was '0.8'|
 |python-msgpack|1.0.2|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
