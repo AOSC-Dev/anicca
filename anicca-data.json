@@ -754,6 +754,7 @@
 ["lychee","0.15.1","0.18.0","app-web",1715444831,["Compliance mode enabled, was '0.18.0'"]],
 ["curl","8.11.0","8.11.1","app-web",1730880319,["Compliance mode enabled, was '8.11.1'"]],
 ["postfix","3.7.3","3.9.1","app-web",1721223235,["Compliance mode enabled, was '3.9.1'"]],
+["telegram-desktop","5.10.5","5.10.6","app-web",1737781705,["Compliance mode enabled, was '5.10.6'"]],
 ["pidgin","2.14.13","2.14.14","app-web",1721488554,["Compliance mode enabled, was '2.14.14'"]],
 ["chinadns-ng","2024.07.16","2024.12.22","app-web",1721316608,["Compliance mode enabled, was '2024.12.22'"]],
 ["neomutt","20241114","20250113","app-web",1732592154,["Compliance mode enabled, was '20250113'"]],
