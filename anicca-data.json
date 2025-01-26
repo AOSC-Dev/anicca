@@ -2361,7 +2361,7 @@
 ["lxml-html-clean","0.2.2","0.4.1","lang-python",1728366112,["Compliance mode enabled, was '0.4.1'"]],
 ["pyxattr","0.6.1","0.8.1","lang-python",1535864515,["Compliance mode enabled, was '0.8.1'"]],
 ["pathspec","0.11.0","0.12.1","lang-python",1676525877,["Compliance mode enabled, was '0.12.1'"]],
-["pypdf2","1.26.0","5.1.0","lang-python",1514069704,["Compliance mode enabled, was '5.1.0'"]],
+["pypdf2","1.26.0","5.2.0","lang-python",1514069704,["Compliance mode enabled, was '5.2.0'"]],
 ["setuptools-python2","44.1.0","75.8.0","lang-python",1678950872,["Compliance mode enabled, was '75.8.0'"]],
 ["zfec","1.5.3","1.6.0.0","lang-python",1530283385,["Compliance mode enabled, was '1.6.0.0'"]],
 ["tomlkit","0.7.0","0.13.2","lang-python",1609330974,["Compliance mode enabled, was '0.13.2'"]],
