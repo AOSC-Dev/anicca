@@ -2650,7 +2650,7 @@
 ["gobject-introspection","1.80.0","1.82.0","app-devel",1711178014,["Compliance mode enabled, was '1.82.0'"]],
 ["castxml","0.6.8","0.6.10","app-devel",1723474823,["Compliance mode enabled, was '0.6.10'"]],
 ["versioningit","3.0.0","3.1.2","app-devel",1708685051,["Compliance mode enabled, was '3.1.2'"]],
-["ast-grep","0.33.0","0.33.1","app-devel",1736066761,["Compliance mode enabled, was '0.33.1'"]],
+["ast-grep","0.33.0","0.34.1","app-devel",1736066761,["Compliance mode enabled, was '0.34.1'"]],
 ["kdsme","1.2.8","2.0.0","app-devel",1601267869,["Compliance mode enabled, was '2.0.0'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
 ["uncrustify","0.78.1","0.80.1","app-devel",1704791250,["Compliance mode enabled, was '0.80.1'"]],
