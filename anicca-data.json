@@ -2766,7 +2766,7 @@
 ["pinentry","1.1.0","1.3.1","app-utils",1522294838,["Compliance mode enabled, was '1.3.1'"]],
 ["restic","0.17.1","0.17.3","app-utils",1727015619,["Compliance mode enabled, was '0.17.3'"]],
 ["showmethekey","1.14.0","1.18.1","app-utils",1727454202,["Compliance mode enabled, was '1.18.1'"]],
-["bleachbit","4.6.0","4.6.2","app-utils",1716734180,["Compliance mode enabled, was '4.6.2'"]],
+["bleachbit","4.6.0","4.9.0","app-utils",1716734180,["Compliance mode enabled, was '4.9.0'"]],
 ["appres","1.0.6","1.0.7","app-utils",1716006601,["Compliance mode enabled, was '1.0.7'"]],
 ["elfutils","0.191","0.192","app-utils",1720957965,["Compliance mode enabled, was '0.192'"]],
 ["imwheel","1.0.0pre12","0.9.9","app-utils",1593460044,["Compliance mode enabled, was '0.9.9'","Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)"]],
