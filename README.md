@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737900355?label=Updated)
+![Relative date](https://img.shields.io/date/1737903950?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2053,7 +2053,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |pimcommon|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |pinentry|1.1.0|1.3.1|app-utils|Compliance mode enabled, was '1.3.1'|
-|pip|22.3.1|24.3.1|lang-python|Compliance mode enabled, was '24.3.1'|
+|pip|22.3.1|25.0|lang-python|Compliance mode enabled, was '25.0'|
 |pipewire|1.2.7|1.3.81|app-multimedia|Compliance mode enabled, was '1.3.81'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
@@ -2541,7 +2541,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|sway|1.9|1.10|desktop-wm|Compliance mode enabled, was '1.10'|
+|sway|1.9|1.10.1|desktop-wm|Compliance mode enabled, was '1.10.1'|
 |sweeper|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |swell-foop|41.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
