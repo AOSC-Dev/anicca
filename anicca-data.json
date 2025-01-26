@@ -2395,7 +2395,7 @@
 ["rdflib","6.2.0","7.1.3","lang-python",1698387501,["Compliance mode enabled, was '7.1.3'"]],
 ["txtorcon","19.1.0","24.8.0","lang-python",1573334578,["Compliance mode enabled, was '24.8.0'"]],
 ["python-ly","0.9.7","0.9.9","lang-python",1716256367,["Compliance mode enabled, was '0.9.9'"]],
-["pypdf","4.0.1","5.1.0","lang-python",1707299111,["Compliance mode enabled, was '5.1.0'"]],
+["pypdf","4.0.1","5.2.0","lang-python",1707299111,["Compliance mode enabled, was '5.2.0'"]],
 ["sos","4.4","4.8.2","lang-python",1678351353,["Compliance mode enabled, was '4.8.2'"]],
 ["pyacoustid","1.1.7","1.3.0","lang-python",1581796621,["Compliance mode enabled, was '1.3.0'"]],
 ["chardet","3.0.4","5.2.0","lang-python",1499435661,["Compliance mode enabled, was '5.2.0'"]],
