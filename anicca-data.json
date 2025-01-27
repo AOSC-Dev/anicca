@@ -2537,6 +2537,7 @@
 ["linux+kernel+retro+minimal","5.15.17","5.10.233","runtime-kernel",1678950872,["Compliance mode enabled, was '5.10.233'","Possible downgrade from the current version (5.15.17 -> 5.10.233)"]],
 ["linux-kernel-retro-minimal","5.15.17","5.10.233","runtime-kernel",1657657729,["Compliance mode enabled, was '5.10.233'","Possible downgrade from the current version (5.15.17 -> 5.10.233)"]],
 ["linux+kernel+asahi","6.10.3","5.19.17","runtime-kernel",1699904618,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.10.3 -> 5.19.17)"]],
+["rpi-firmware-boot","1.20241126","1.20250127","runtime-kernel",1734863439,[]],
 ["linux-kernel-retro","5.10.204","5.10.233","runtime-kernel",1721223931,["Compliance mode enabled, was '5.10.233'"]],
 ["linux-kernel","6.13.0","5.19.17","runtime-kernel",1737438385,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.13.0 -> 5.19.17)"]],
 ["linux+kernel","6.13.0","5.19.17","runtime-kernel",1737438385,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.13.0 -> 5.19.17)"]],
