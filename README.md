@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1737994460?label=Updated)
+![Relative date](https://img.shields.io/date/1737997836?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -426,7 +426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.17.2|lang-ocaml|Compliance mode enabled, was '3.17.2'|
 |duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
 |easy-rsa|3.2.0|3.2.1|app-cryptography|Compliance mode enabled, was '3.2.1'|
-|edencommon|2024.12.30.00|2025.01.20.00|runtime-common|Compliance mode enabled, was '2025.01.20.00'|
+|edencommon|2024.12.30.00|2025.01.27.00|runtime-common|Compliance mode enabled, was '2025.01.27.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
@@ -1658,7 +1658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mupdf|1.24.10|1.25.4|app-doc|Compliance mode enabled, was '1.25.4'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
 |mutter|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
-|mvfst|2024.12.30.00|2025.01.20.00|runtime-network|Compliance mode enabled, was '2025.01.20.00'|
+|mvfst|2024.12.30.00|2025.01.27.00|runtime-network|Compliance mode enabled, was '2025.01.27.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -2801,10 +2801,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-validationlayers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2024.12.30.00|2025.01.20.00|runtime-network|Compliance mode enabled, was '2025.01.20.00'|
+|wangle|2024.12.30.00|2025.01.27.00|runtime-network|Compliance mode enabled, was '2025.01.27.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|2024.12.30.00|2025.01.20.00|app-utils|Compliance mode enabled, was '2025.01.20.00'|
+|watchman|2024.12.30.00|2025.01.27.00|app-utils|Compliance mode enabled, was '2025.01.27.00'|
 |wavpack|5.2.0|5.8.0-dirty|app-multimedia|Compliance mode enabled, was '5.8.0-dirty'|
 |wavpack+32|5.2.0|5.8.0-dirty|runtime-optenv32|Compliance mode enabled, was '5.8.0-dirty'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
