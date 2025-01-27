@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738001604?label=Updated)
+![Relative date](https://img.shields.io/date/1738004838?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1861,7 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|3.1.0|app-utils|Compliance mode enabled, was '3.1.0'|
-|pbr|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
+|pbr|6.0.0|6.1.1.0~b1|lang-python|Compliance mode enabled, was '6.1.1.0b1'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcp|6.0.1|6.3.2|app-utils|Compliance mode enabled, was '6.3.2'|
@@ -2281,6 +2281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.16|5.15.15-lts-lgpl|runtime-desktop|Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)|
 |qt-6|6.7.3|6.8.1|runtime-desktop|Compliance mode enabled, was '6.8.1'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|qt5ct|1.8|1.9|app-utils|Compliance mode enabled, was '1.9'|
 |qtcreator|14.0.1|15.0.1|app-devel|Compliance mode enabled, was '15.0.1'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
