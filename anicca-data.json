@@ -2666,7 +2666,7 @@
 ["sassc","3.6.1","3.6.2","app-devel",1569986121,["Compliance mode enabled, was '3.6.2'"]],
 ["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
 ["hotspot","1.3.0","1.5.1","app-devel",1623906362,["Compliance mode enabled, was '1.5.1'"]],
-["meson","1.6.0","1.6.1","app-devel",1729563544,["Compliance mode enabled, was '1.6.1'"]],
+["meson","1.6.0","1.7.0","app-devel",1729563544,["Compliance mode enabled, was '1.7.0'"]],
 ["dotnet-sdk-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["aspnetcore-runtime-6.0","6.0.30","6.0.36","app-devel",1716597653,["Compliance mode enabled, was '6.0.36'"]],
 ["autoconf-archive","2023.02.20","2024.10.16","app-devel",1715607609,["Compliance mode enabled, was '2024.10.16'"]],
