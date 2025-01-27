@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738015813?label=Updated)
+![Relative date](https://img.shields.io/date/1738019511?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -368,6 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
+|discord|0.0.81|0.0.82|app-web|Compliance mode enabled, was '0.0.82'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -1166,7 +1167,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwallet-pam|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kwalletmanager|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kwave|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|kwayland|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwayland-integration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kweather|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kweathercore|0.7|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2196,7 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopenssl|23.1.1|25.0.0|lang-python|Compliance mode enabled, was '25.0.0'|
 |pyotherside|1.5.9|1.6.1|lang-python|Compliance mode enabled, was '1.6.1'|
 |pyparsing|2.4.7|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
-|pyparted|3.11.6|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
+|pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|4.0.1|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |pypdf2|1.26.0|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
