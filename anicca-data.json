@@ -2725,6 +2725,7 @@
 ["asahi-common","20231113","20231113-aosc","runtime-admin",1699904618,["Compliance mode enabled, was '20231113-aosc'","Possible downgrade from the current version (20231113 -> 20231113-aosc)"]],
 ["dbus-glib","0.110","0.112","runtime-admin",1522267404,["Compliance mode enabled, was '0.112'"]],
 ["kbd","2.5.1","2.7.1","app-utils",1674452224,["Compliance mode enabled, was '2.7.1'"]],
+["dua","2.29.4","2.30.0","app-utils",1730648699,["Compliance mode enabled, was '2.30.0'"]],
 ["xscreensaver","6.08","6.09","app-utils",1710984964,["Compliance mode enabled, was '6.09'"]],
 ["scrot","1.10","1.11.1","app-utils",1716292314,["Compliance mode enabled, was '1.11.1'"]],
 ["plocate","1.1.22","1.1.23","app-utils",1710436877,["Compliance mode enabled, was '1.1.23'"]],
