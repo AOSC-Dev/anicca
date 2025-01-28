@@ -759,7 +759,6 @@
 ["chinadns-ng","2024.07.16","2024.12.22","app-web",1721316608,["Compliance mode enabled, was '2024.12.22'"]],
 ["neomutt","20241114","20250113","app-web",1732592154,["Compliance mode enabled, was '20250113'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
-["discord","0.0.81","0.0.82","app-web",1737600012,["Compliance mode enabled, was '0.0.82'"]],
 ["certbot-nginx","2.10.0","3.1.0","app-web",1716728325,["Compliance mode enabled, was '3.1.0'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
 ["elinks","0.17.1.1","0.18.0","app-web",1735985938,["Compliance mode enabled, was '0.18.0'"]],
