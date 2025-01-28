@@ -714,6 +714,7 @@
 ["leptonica","1.84.1","1.85.0","app-scientific",1710442812,["Compliance mode enabled, was '1.85.0'"]],
 ["pari","2.13.1","2.17.1","app-scientific",1614161813,["Compliance mode enabled, was '2.17.1'"]],
 ["normaliz","3.6.3","3.10.4","app-scientific",1535869754,["Compliance mode enabled, was '3.10.4'"]],
+["praat","6.4.26","6.4.27","app-scientific",1736474116,["Compliance mode enabled, was '6.4.27'"]],
 ["samtools","1.20","1.21","app-scientific",1669803436,["Compliance mode enabled, was '1.21'"]],
 ["boinc","8.0.4","8.0.2","app-scientific",1723071522,["Compliance mode enabled, was '8.0.2'","Possible downgrade from the current version (8.0.4 -> 8.0.2)"]],
 ["bullet","2.88","3.25","app-scientific",1551292850,["Compliance mode enabled, was '3.25'"]],
