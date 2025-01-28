@@ -2877,7 +2877,6 @@
 ["pcp","6.0.1","6.3.3","app-utils",1678351353,["Compliance mode enabled, was '6.3.3'"]],
 ["nfs-utils","2.6.2","2.8.2","app-utils",1674452376,["Compliance mode enabled, was '2.8.2'"]],
 ["grub-btrfs","4.13","4.10.2","app-utils",1733725573,["Compliance mode enabled, was '4.10.2'","Possible downgrade from the current version (4.13 -> 4.10.2)"]],
-["fio","3.35","3.38","app-utils",1696572712,["Compliance mode enabled, was '3.38'"]],
 ["tre","20161208","0.8.0","app-utils",1482382343,["Compliance mode enabled, was '0.8.0'","Possible downgrade from the current version (20161208 -> 0.8.0)"]],
 ["minicom","2.8","2.9","app-utils",1662003335,["Compliance mode enabled, was '2.9'"]],
 ["trace-cmd","3.3","3.3.1","app-utils",1569639925,["Compliance mode enabled, was '3.3.1'"]],
