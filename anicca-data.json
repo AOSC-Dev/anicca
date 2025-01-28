@@ -1734,7 +1734,7 @@
 ["lightsoff","40.0.1","46.0","desktop-gnome",1631428425,["Compliance mode enabled, was '46.0'"]],
 ["epiphany","42.4","47.2","desktop-gnome",1663210210,["Compliance mode enabled, was '47.2'"]],
 ["gnote","42.1","47.2","desktop-gnome",1663210250,["Compliance mode enabled, was '47.2'"]],
-["aisleriot","3.22.24","3.22.34","desktop-gnome",1663210209,["Compliance mode enabled, was '3.22.34'"]],
+["aisleriot","3.22.24","3.22.35","desktop-gnome",1663210209,["Compliance mode enabled, was '3.22.35'"]],
 ["gnome-font-viewer","42.0","47.0","desktop-gnome",1663210243,["Compliance mode enabled, was '47.0'"]],
 ["gnome-sudoku","42.0","47.1.1","desktop-gnome",1663210243,["Compliance mode enabled, was '47.1.1'"]],
 ["at-spi2-core","2.52.0","2.55.0.1","desktop-gnome",1711610718,["Compliance mode enabled, was '2.55.0.1'"]],
@@ -2957,11 +2957,11 @@
 ["libgeotiff","1.5.1","1.7.3","runtime-gis",1568736038,["Compliance mode enabled, was '1.7.3'"]],
 ["geos","3.7.3","3.13.0","runtime-gis",1577969398,["Compliance mode enabled, was '3.13.0'"]],
 ["gdal","3.8.4","3.10.1","runtime-gis",1721223235,["Compliance mode enabled, was '3.10.1'"]],
-["rocr-runtime","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]],
-["rocm-llvm","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]],
+["rocr-runtime","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]],
+["rocm-llvm","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]],
 ["roct-thunk-interface","6.0.0","6.2.4","runtime-rocm",1710608706,["Compliance mode enabled, was '6.2.4'"]],
-["rocminfo","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]],
-["rocm-bandwidth-test","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]],
-["rocm-cmake","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]],
-["rocm-smi-lib","6.0.2","6.3.1","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.1'"]]
+["rocminfo","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]],
+["rocm-bandwidth-test","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]],
+["rocm-cmake","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]],
+["rocm-smi-lib","6.0.2","6.3.2","runtime-rocm",1710608706,["Compliance mode enabled, was '6.3.2'"]]
 ]
