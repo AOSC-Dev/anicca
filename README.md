@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738048364?label=Updated)
+![Relative date](https://img.shields.io/date/1738052114?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1865,7 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pbr|6.0.0|6.1.1.0~b1|lang-python|Compliance mode enabled, was '6.1.1.0b1'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
-|pcp|6.0.1|6.3.2|app-utils|Compliance mode enabled, was '6.3.2'|
+|pcp|6.0.1|6.3.3|app-utils|Compliance mode enabled, was '6.3.3'|
 |pcre+32|8.44|8.45|runtime-optenv32|Compliance mode enabled, was '8.45'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
