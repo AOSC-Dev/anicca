@@ -960,7 +960,6 @@
 ["libdvdcss+32","1.4.2","1.4.3","runtime-optenv32",1600624175,["Compliance mode enabled, was '1.4.3'"]],
 ["boost+32","1.63.0","1.87.0","runtime-optenv32",1678950872,["Compliance mode enabled, was '1.87.0'"]],
 ["ghostscript+32","9.27","10.04.0","runtime-optenv32",1600624175,["Compliance mode enabled, was '10.04.0'"]],
-["allegro+32","4.4.2","5.2.10.1","runtime-optenv32",1461523348,["Compliance mode enabled, was '5.2.10.1'"]],
 ["luajit","2.1.0b3+git20240222","2.1.rolling","lang-lua",1708851535,["Compliance mode enabled, was '2.1.ROLLING'"]],
 ["libluv","1.47.0+0","1.50.0+0","lang-lua",1708762981,["Compliance mode enabled, was '1.50.0-0'"]],
 ["lua-messagepack","0.5.1","0.5.4","lang-lua",1531723859,["Compliance mode enabled, was '0.5.4'"]],
