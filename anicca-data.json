@@ -2228,7 +2228,6 @@
 ["pyyaml","6.0.1","6.0.2","lang-python",1718935933,["Compliance mode enabled, was '6.0.2'"]],
 ["pillow","10.4.0","11.1.0","lang-python",1722488599,["Compliance mode enabled, was '11.1.0'"]],
 ["pipx","1.6.0","1.7.1","lang-python",1723258058,["Compliance mode enabled, was '1.7.1'"]],
-["uv","0.5.24","0.5.25","lang-python",1737729640,["Compliance mode enabled, was '0.5.25'"]],
 ["flit-core","3.9.0","3.10.1","lang-python",1707034769,["Compliance mode enabled, was '3.10.1'"]],
 ["pygments","2.18.0","2.19.1","lang-python",1728547929,["Compliance mode enabled, was '2.19.1'"]],
 ["et-xmlfile","1.0.1","2.0.0","lang-python",1482382343,["Compliance mode enabled, was '2.0.0'"]],
