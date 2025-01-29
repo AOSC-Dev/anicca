@@ -667,7 +667,7 @@
 ["perl-config-file","1.50","1.54","lang-perl",1678950872,["Compliance mode enabled, was '1.54'"]],
 ["perl-package-stash-xs","0.29","0.30","lang-perl",1678950872,["Compliance mode enabled, was '0.30'"]],
 ["perl-file-which","1.23","1.27","lang-perl",1550814485,["Compliance mode enabled, was '1.27'"]],
-["perl-image-exiftool","12.50","13.16","lang-perl",1671941047,["Compliance mode enabled, was '13.16'"]],
+["perl-image-exiftool","12.50","13.17","lang-perl",1671941047,["Compliance mode enabled, was '13.17'"]],
 ["perl-crypt-openssl-guess","0.11","0.15","lang-perl",1531878868,["Compliance mode enabled, was '0.15'"]],
 ["perl-yaml-libyaml","0.85","0.902.0","lang-perl",1678351353,["Compliance mode enabled, was '0.902.0'"]],
 ["perl-json-parse","0.57","0.43","lang-perl",1596482997,["Compliance mode enabled, was '0.43'","Possible downgrade from the current version (0.57 -> 0.43)"]],
