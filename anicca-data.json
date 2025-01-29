@@ -2000,6 +2000,7 @@
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
 ["lsp-plugins","1.2.17","1.2.20","app-multimedia",1727083376,["Compliance mode enabled, was '1.2.20'"]],
 ["sof-tools","2.11.2","2.12","app-multimedia",1736563704,["Compliance mode enabled, was '2.12'"]],
+["mpd","0.23.16","0.23.17","app-multimedia",1733316734,["Compliance mode enabled, was '0.23.17'"]],
 ["fluidsynth","2.3.6","2.4.3","app-multimedia",1728354370,["Compliance mode enabled, was '2.4.3'"]],
 ["carla","2.5.8","2.5.9","app-multimedia",1725420791,["Compliance mode enabled, was '2.5.9'"]],
 ["calf","0.90.3","0.90.4","app-multimedia",1729943652,["Compliance mode enabled, was '0.90.4'"]],
