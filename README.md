@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738116557?label=Updated)
+![Relative date](https://img.shields.io/date/1738120442?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -446,7 +446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
-|eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
 |evolution|3.44.4|3.54.3|desktop-gnome|Compliance mode enabled, was '3.54.3'|
@@ -596,7 +595,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib|2.80.0|2.82.4|runtime-common|Compliance mode enabled, was '2.82.4'|
 |glib+32|2.62.6|2.82.4|runtime-optenv32|Compliance mode enabled, was '2.82.4'|
 |glib-networking|2.72.2|2.80.1|runtime-common|Compliance mode enabled, was '2.80.1'|
-|glibc+32|2.38|2.40|runtime-optenv32|Compliance mode enabled, was '2.40'|
+|glibc|2.40|2.41|core-libs|Compliance mode enabled, was '2.41'|
+|glibc+32|2.38|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |glibmm|2.66.2|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
 |glibmm-2.68|2.78.0|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
