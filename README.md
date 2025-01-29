@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738153054?label=Updated)
+![Relative date](https://img.shields.io/date/1738156759?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -287,7 +287,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
 |colord-kde|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
-|composer|2.7.7|2.8.5|app-devel|Compliance mode enabled, was '2.8.5'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
@@ -668,7 +667,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.160.0|lang-python|Compliance mode enabled, was '2.160.0'|
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|132.0.6834.110|132.0.6834.159|app-web|Compliance mode enabled, was '132.0.6834.159'|
 |goreleaser|2.2.0|2.6.1|lang-golang|Compliance mode enabled, was '2.6.1'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
@@ -758,7 +756,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |httpcore|1.0.5|1.0.7|lang-python|Compliance mode enabled, was '1.0.7'|
-|httpd|2.4.62|2.4.63|app-web|Compliance mode enabled, was '2.4.63'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
@@ -2436,6 +2433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
+|sip|6.8.3|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |skanpage|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
