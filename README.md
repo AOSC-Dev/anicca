@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738145577?label=Updated)
+![Relative date](https://img.shields.io/date/1738148832?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -277,9 +277,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|331|app-admin|Compliance mode enabled, was '331'|
-|cockpit-machines|284.1|326|app-admin|Compliance mode enabled, was '326'|
-|cockpit-podman|63|99|app-admin|Compliance mode enabled, was '99'|
+|cockpit|286.1|332|app-admin|Compliance mode enabled, was '332'|
+|cockpit-machines|284.1|327|app-admin|Compliance mode enabled, was '327'|
+|cockpit-podman|63|100|app-admin|Compliance mode enabled, was '100'|
 |code-server|4.93.1|4.96.4|app-utils|Compliance mode enabled, was '4.96.4'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
@@ -886,6 +886,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbfx-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbibtex-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbiff-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|kblackbox|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kblocks|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kbookmarks|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kbookreader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
