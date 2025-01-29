@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738141970?label=Updated)
+![Relative date](https://img.shields.io/date/1738145577?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -493,6 +493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |filelight-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
+|findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.38|app-utils|Compliance mode enabled, was '3.38'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |fizz|2024.12.30.00|2025.01.27.00|app-network|Compliance mode enabled, was '2025.01.27.00'|
@@ -550,6 +551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+32|13.2.0|14.2.0|runtime-optenv32|Compliance mode enabled, was '14.2.0'|
 |gcc+cross|13.2.0<br>+glibc2.38<br>+6|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
+|gcompris|4.3|25.0|app-games|Compliance mode enabled, was '25.0'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.10.1|runtime-gis|Compliance mode enabled, was '3.10.1'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
@@ -884,7 +886,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbfx-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbibtex-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kbiff-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kblackbox|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kblocks|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kbookmarks|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kbookreader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
