@@ -1950,7 +1950,7 @@
 ["fplll","5.4.5","5.5.0","runtime-scientific",1710578622,["Compliance mode enabled, was '5.5.0'"]],
 ["hdf5","1.10.5","1.14.5","runtime-scientific",1565150266,["Compliance mode enabled, was '1.14.5'"]],
 ["spglib","1.16.2","2.5.0","runtime-scientific",1630574839,["Compliance mode enabled, was '2.5.0'"]],
-["flint","2.5.2","3.1.2","runtime-scientific",1456091383,["Compliance mode enabled, was '3.1.2'"]],
+["flint","2.5.2","3.1.3","runtime-scientific",1456091383,["Compliance mode enabled, was '3.1.3'"]],
 ["m4rie","20200125","20250103","runtime-scientific",1701855911,["Compliance mode enabled, was '20250103'"]],
 ["verdict","1.4.1","1.4.3","runtime-scientific",1687941313,["Compliance mode enabled, was '1.4.3'"]],
 ["avogadrolibs","1.95.1","1.100.0","runtime-scientific",1630574838,["Compliance mode enabled, was '1.100.0'"]],
