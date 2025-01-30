@@ -1550,6 +1550,7 @@
 ["rtmpdump","20151223","2.4+20151223.gitfa8646d.1","app-network",1696572712,["Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'","Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)"]],
 ["grpc","1.64.0","1.70.0","app-network",1737436557,["Compliance mode enabled, was '1.70.0'"]],
 ["wireshark","4.4.0","4.4.3","app-network",1725102138,["Compliance mode enabled, was '4.4.3'"]],
+["sing-box","1.10.7","1.11.0","app-network",1736851801,["Compliance mode enabled, was '1.11.0'"]],
 ["iproute2","6.11.0","6.13.0","app-network",1728548003,["Compliance mode enabled, was '6.13.0'"]],
 ["nsd","4.7.0","4.11.1.rel","app-network",1696572712,["Compliance mode enabled, was '4_11_1_REL'"]],
 ["unbound","1.19.2","1.22.0","app-network",1709998421,[]],
