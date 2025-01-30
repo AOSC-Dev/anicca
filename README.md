@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738246312?label=Updated)
+![Relative date](https://img.shields.io/date/1738249939?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2810,6 +2810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|2024.12.30.00|2025.01.27.00|app-utils|Compliance mode enabled, was '2025.01.27.00'|
 |wavpack+32|5.2.0|5.8.1|runtime-optenv32|Compliance mode enabled, was '5.8.1'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
+|wayland-protocols|1.39|1.40|app-devel|Compliance mode enabled, was '1.40'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
@@ -2896,7 +2897,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-terminal|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-timer-plugin|1.7.2|1.7.3|desktop-xfce|Compliance mode enabled, was '1.7.3'|
 |xfce4-wavelan-plugin|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
-|xfce4-whiskermenu-plugin|2.8.3|2.8.4|desktop-xfce|Compliance mode enabled, was '2.8.4'|
+|xfce4-whiskermenu-plugin|2.8.3|2.9.0|desktop-xfce|Compliance mode enabled, was '2.9.0'|
 |xfce4-xkb-plugin|0.8.3|0.8.5|desktop-xfce|Compliance mode enabled, was '0.8.5'|
 |xfe|1.46.1|2.0|app-utils|Compliance mode enabled, was '2.0'|
 |xfmpc|0.3.1|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.3.1 -> 0.3.0)|
@@ -2914,7 +2915,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xorgxrdp|0.10.1|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
-|xray|24.12.31|25.1.1|app-network|Compliance mode enabled, was '25.1.1'|
+|xray|24.12.31|25.1.30|app-network|Compliance mode enabled, was '25.1.30'|
 |xrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
