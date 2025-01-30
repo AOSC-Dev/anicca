@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738263920?label=Updated)
+![Relative date](https://img.shields.io/date/1738267989?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -671,6 +671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.6.1|lang-golang|Compliance mode enabled, was '2.6.1'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
+|gparted|1.6.0|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gpgme|1.23.2|1.24.1|runtime-cryptography|Compliance mode enabled, was '1.24.1'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
@@ -2370,6 +2371,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pkg-config|1.5.8|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |runc|1.1.14|1.2.4|app-admin|Compliance mode enabled, was '1.2.4'|
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
+|rustc|1.84.0|1.84.1|lang-rust|Compliance mode enabled, was '1.84.1'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|0.44.1|desktop-gnome|Compliance mode enabled, was '0.44.1'|
@@ -2649,6 +2651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-shares-plugin|0.3.2|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
 |thunderbird|128.5.2|128.6.1|app-web||
+|tig|2.5.10|2.5.11|app-utils|Compliance mode enabled, was '2.5.11'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
