@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738260804?label=Updated)
+![Relative date](https://img.shields.io/date/1738263920?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1495,8 +1495,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml2|2.10.4|2.13.5|runtime-common|Compliance mode enabled, was '2.13.5'|
 |libxml2+32|2.10.4|2.13.5|runtime-optenv32|Compliance mode enabled, was '2.13.5'|
 |libxmlb|0.3.15|0.3.21|runtime-common|Compliance mode enabled, was '0.3.21'|
-|libxnvctrl|565.57.01|550.54.14|runtime-display|Compliance mode enabled, was '550.54.14'<br>Possible downgrade from the current version (565.57.01 -> 550.54.14)|
-|libxnvctrl+32|545.23.06|550.54.14|runtime-optenv32|Compliance mode enabled, was '550.54.14'|
+|libxnvctrl|565.57.01|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'|
+|libxnvctrl+32|545.23.06|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'|
 |libxslt+32|1.1.34|1.1.42|runtime-optenv32|Compliance mode enabled, was '1.1.42'|
 |libzip|1.5.2|1.11.3|runtime-common|Compliance mode enabled, was '1.11.3'|
 |liferea|1.13.8|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
@@ -1567,7 +1567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lziprecover|1.24|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lzlib|1.11|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |m17n-db|1.8.7|1.8.9|runtime-i18n|Compliance mode enabled, was '1.8.9'|
-|m1n1|1.4.14|1.4.19|runtime-kernel||
+|m1n1|1.4.14|1.4.20|runtime-kernel||
 |m2crypto|0.38.0|0.43.0|lang-python|Compliance mode enabled, was '0.43.0'|
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
 |m3u8|0.7.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
@@ -1741,7 +1741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|2.15.1|2.16|app-utils|Compliance mode enabled, was '2.16'|
 |nvidia|565.77|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'|
 |nvidia+32|0|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'|
-|nvidia-open|565.77<br>+utils565.57.01|570.86.15|runtime-display|Compliance mode enabled, was '570.86.15'|
+|nvidia-open|565.77<br>+utils565.57.01|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
@@ -2172,7 +2172,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
 |pydantic|2.6.0|2.10.6|lang-python|Compliance mode enabled, was '2.10.6'|
-|pydantic-core|2.16.1|2.27.2|lang-python|Compliance mode enabled, was '2.27.2'|
+|pydantic-core|2.16.1|2.28.0|lang-python|Compliance mode enabled, was '2.28.0'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.30|0.31|lang-python|Compliance mode enabled, was '0.31'|
