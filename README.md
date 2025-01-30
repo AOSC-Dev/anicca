@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738271425?label=Updated)
+![Relative date](https://img.shields.io/date/1738275093?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -353,7 +353,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
-|deno|1.44.1|2.1.7|lang-js|Compliance mode enabled, was '2.1.7'|
+|deno|1.44.1|2.1.8|lang-js|Compliance mode enabled, was '2.1.8'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -486,7 +486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.1|runtime-optenv32|Compliance mode enabled, was '7.1'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
 |ffmpegthumbs|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|ffnvcodec|12.1.14.0|12.2.72.0|runtime-multimedia|Compliance mode enabled, was '12.2.72.0'|
+|ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
 |fftw+32|3.3.4|3.3.10|runtime-optenv32|Compliance mode enabled, was '3.3.10'|
 |fido2|0.9.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
@@ -928,7 +928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdebugsettings|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdeclarative|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
-|kdeconnect|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kdecoration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kded|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kdeedu-data|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -2887,7 +2886,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-clipman-plugin|1.6.6|1.6.7|desktop-xfce|Compliance mode enabled, was '1.6.7'|
 |xfce4-cpufreq-plugin|1.2.8|1.2.9|desktop-xfce|Compliance mode enabled, was '1.2.9'|
 |xfce4-cpugraph-plugin|1.2.10|1.2.11|desktop-xfce|Compliance mode enabled, was '1.2.11'|
-|xfce4-dict|0.8.8|0.8.4|desktop-xfce|Compliance mode enabled, was '0.8.4'<br>Possible downgrade from the current version (0.8.8 -> 0.8.4)|
 |xfce4-diskperf-plugin|2.7.0|2.7.1|desktop-xfce|Compliance mode enabled, was '2.7.1'|
 |xfce4-fsguard-plugin|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-genmon-plugin|4.2.0|4.2.1|desktop-xfce|Compliance mode enabled, was '4.2.1'|
