@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738213974?label=Updated)
+![Relative date](https://img.shields.io/date/1738217729?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2023,7 +2023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-deep|1.130|1.204|lang-perl|Compliance mode enabled, was '1.204'|
 |perl-test-fatal|0.014|0.017|lang-perl|Compliance mode enabled, was '0.017'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
-|perl-text-bibtex|0.89|0.90|lang-perl|Compliance mode enabled, was '0.90'|
+|perl-text-bibtex|0.89|0.91|lang-perl|Compliance mode enabled, was '0.91'|
 |perl-text-csv|1.99|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-text-csv-xs|1.38|1.59|lang-perl|Compliance mode enabled, was '1.59'|
 |perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
@@ -2670,6 +2670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomlkit|0.7.0|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |topgrade|11.0.2|16.0.2|app-admin|Compliance mode enabled, was '16.0.2'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
+|tork-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tornado|6.4.1|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
 |tortoisehg|6.6.3|6.9|app-vcs|Compliance mode enabled, was '6.9'|
 |totem|42.0|43.1|desktop-gnome|Compliance mode enabled, was '43.1'|
