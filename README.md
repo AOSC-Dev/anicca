@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738239435?label=Updated)
+![Relative date](https://img.shields.io/date/1738243050?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2773,7 +2773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1043|9.1.1056|app-editors|Compliance mode enabled, was '9.1.1056'|
+|vim|9.1.1043|9.1.1057|app-editors|Compliance mode enabled, was '9.1.1057'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualbox|7.1.4|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
@@ -2795,8 +2795,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.78.3|runtime-desktop|Compliance mode enabled, was '0.78.3'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
-|vulkan-headers|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
-|vulkan-headers+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
+|vulkan-headers|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
+|vulkan-headers+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
 |vulkan-loader|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-loader+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
