@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738289513?label=Updated)
+![Relative date](https://img.shields.io/date/1738293141?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -234,7 +234,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-apache|2.10.0|3.1.0|app-web|Compliance mode enabled, was '3.1.0'|
 |certbot-dns-cloudflare|2.10.0|3.1.0|app-web|Compliance mode enabled, was '3.1.0'|
 |certbot-nginx|2.10.0|3.1.0|app-web|Compliance mode enabled, was '3.1.0'|
-|certifi|2024.7.4|2024.12.14|lang-python|Compliance mode enabled, was '2024.12.14'|
+|certifi|2024.7.4|2025.1.31|lang-python|Compliance mode enabled, was '2025.1.31'|
 |cervisia|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
 |cfitsio|3.450|4.5.0|runtime-imaging|Compliance mode enabled, was '4.5.0'|
@@ -352,7 +352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
-|deno|1.44.1|2.1.8|lang-js|Compliance mode enabled, was '2.1.8'|
+|deno|1.44.1|2.1.9|lang-js|Compliance mode enabled, was '2.1.9'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -1768,6 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |openal-soft|1.23.1|1.24.2|runtime-multimedia|Compliance mode enabled, was '1.24.2'|
+|openal-soft+32|1.23.1|1.24.2|runtime-optenv32|Compliance mode enabled, was '1.24.2'|
 |openblas|0.3.28|0.3.29|app-scientific|Compliance mode enabled, was '0.3.29'|
 |opencascade|7.6.3|7.8.0|runtime-imaging|Compliance mode enabled, was '7.8.0'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
