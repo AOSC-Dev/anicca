@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738278646?label=Updated)
+![Relative date](https://img.shields.io/date/1738283980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1707,7 +1707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-qt|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |networkmanager-strongswan|1.5.2|1.6.1|app-network|Compliance mode enabled, was '1.6.1'|
 |networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
-|networkx|2.8.5|3.4.2|lang-python|Compliance mode enabled, was '3.4.2'|
 |newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
 |newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
 |nfs-utils|2.6.2|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
@@ -2807,8 +2806,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-extensionlayer|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
 |vulkan-headers|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
 |vulkan-headers+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
-|vulkan-loader|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
-|vulkan-loader+32|1.3.283.0|1.4.306|runtime-optenv32|Compliance mode enabled, was '1.4.306'|
+|vulkan-loader|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
+|vulkan-loader+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
 |vulkan-utility-libraries|1.3.283.0|1.4.306|runtime-display|Compliance mode enabled, was '1.4.306'|
