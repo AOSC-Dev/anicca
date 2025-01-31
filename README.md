@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738332625?label=Updated)
+![Relative date](https://img.shields.io/date/1738336269?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -355,6 +355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|1.44.1|2.1.9|lang-js|Compliance mode enabled, was '2.1.9'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
+|deskflow|1.18.0|1.19.0|app-utils|Compliance mode enabled, was '1.19.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.1|app-devel|Compliance mode enabled, was '2.25.1'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -450,8 +451,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eventviews|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
 |evolution|3.44.4|3.54.3|desktop-gnome|Compliance mode enabled, was '3.54.3'|
-|evolution-data-server|3.44.4|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
-|evolution-ews|3.42.0|3.55.1|desktop-gnome|Compliance mode enabled, was '3.55.1'|
+|evolution-data-server|3.44.4|3.55.2|desktop-gnome|Compliance mode enabled, was '3.55.2'|
+|evolution-ews|3.42.0|3.55.2|desktop-gnome|Compliance mode enabled, was '3.55.2'|
 |executing|2.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exfatprogs|1.2.5|1.2.6|app-admin|Compliance mode enabled, was '1.2.6'|
