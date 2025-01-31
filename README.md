@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738314677?label=Updated)
+![Relative date](https://img.shields.io/date/1738318357?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -753,7 +753,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
-|htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
@@ -1001,7 +1000,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimap|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kinfocenter|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kinit|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
-|kio|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kio-admin|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kio-extras|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kio-fuse|5.0.1|5.1.0|desktop-kde|Compliance mode enabled, was '5.1.0'|
