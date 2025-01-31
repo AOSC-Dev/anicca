@@ -2723,7 +2723,7 @@
 ["cargo-audit","0.21.0","0.21.1","lang-rust",1731247327,["Compliance mode enabled, was '0.21.1'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
 ["rustc","1.84.0","1.84.1","lang-rust",1736652037,["Compliance mode enabled, was '1.84.1'"]],
-["cargo-release","0.25.10","0.25.15","lang-rust",1720105719,["Compliance mode enabled, was '0.25.15'"]],
+["cargo-release","0.25.10","0.25.16","lang-rust",1720105719,["Compliance mode enabled, was '0.25.16'"]],
 ["librtas","2.0.2","2.0.6","runtime-admin",1530073120,["Compliance mode enabled, was '2.0.6'"]],
 ["ding-libs","0.6.1","0.6.2","runtime-admin",1512004438,["Compliance mode enabled, was '0.6.2'"]],
 ["libsysstat","0.4.4","1.1.0","runtime-admin",1610261237,["Compliance mode enabled, was '1.1.0'"]],
