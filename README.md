@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738307426?label=Updated)
+![Relative date](https://img.shields.io/date/1738311322?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1442,7 +1442,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff|4.4.0|4.7.0|runtime-imaging|Compliance mode enabled, was '4.7.0'|
 |libtiff+32|4.0.10|4.7.0|runtime-optenv32|Compliance mode enabled, was '4.7.0'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
-|libtirpc|1.3.1|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtool+32|2.4.6|2.5.4|runtime-optenv32|Compliance mode enabled, was '2.5.4'|
 |libtorrent-rasterbar|2.0.10|2.0.11|runtime-web|Compliance mode enabled, was '2.0.11'|
@@ -2681,7 +2680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqca|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqdm|4.62.3|4.67.1|lang-python|Compliance mode enabled, was '4.67.1'|
-|tqt3|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
 |tracker|3.7.3|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
