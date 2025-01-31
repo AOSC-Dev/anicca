@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738339926?label=Updated)
+![Relative date](https://img.shields.io/date/1738343269?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -271,6 +271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|8.1.7|8.1.8|lang-python|Compliance mode enabled, was '8.1.8'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
+|cloc|2.02|2.04|app-utils|Compliance mode enabled, was '2.04'|
 |cloud-init|24.2|24.4.1|app-admin|Compliance mode enabled, was '24.4.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
@@ -821,7 +822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.11|app-network|Compliance mode enabled, was '1.8.11'|
 |iptraf-ng|1.1.4|1.2.2|app-network|Compliance mode enabled, was '1.2.2'|
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
-|ipython|8.28.0|8.31.0|lang-python|Compliance mode enabled, was '8.31.0'|
+|ipython|8.28.0|8.32.0|lang-python|Compliance mode enabled, was '8.32.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
@@ -1592,7 +1593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
-|matplotlib-inline|0.1.7|8.31.0|lang-python|Compliance mode enabled, was '8.31.0'|
+|matplotlib-inline|0.1.7|8.32.0|lang-python|Compliance mode enabled, was '8.32.0'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.2|runtime-cryptography|Compliance mode enabled, was '3.6.2'|
 |mbedtls+32|2.16.7|3.6.2|runtime-optenv32|Compliance mode enabled, was '3.6.2'|
@@ -2532,7 +2533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.5|6.13|app-devel|Compliance mode enabled, was '6.13'|
-|strawberry|1.0.23|1.2.6|app-multimedia|Compliance mode enabled, was '1.2.6'|
+|strawberry|1.0.23|1.2.7|app-multimedia|Compliance mode enabled, was '1.2.7'|
 |streamlink|6.7.4|7.1.2|app-multimedia|Compliance mode enabled, was '7.1.2'|
 |strongswan|5.9.4|6.0.0|app-network|Compliance mode enabled, was '6.0.0'|
 |structlog|19.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
@@ -2954,7 +2955,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.170.2|0.171.4|app-editors|Compliance mode enabled, was '0.171.4'|
-|zenity|3.42.1|4.0.3|desktop-gnome|Compliance mode enabled, was '4.0.3'|
+|zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.142.0|lang-python|Compliance mode enabled, was '0.142.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
