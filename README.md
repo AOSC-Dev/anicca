@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738408004?label=Updated)
+![Relative date](https://img.shields.io/date/1738412118?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -558,6 +558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcompris|4.3|25.0|app-games|Compliance mode enabled, was '25.0'|
 |gcr|3.41.1|4.3.0|desktop-gnome|Compliance mode enabled, was '4.3.0'|
 |gdal|3.8.4|3.10.1|runtime-gis|Compliance mode enabled, was '3.10.1'|
+|gdb|16.1|16.2|app-devel|Compliance mode enabled, was '16.2'|
 |gdbm+32|1.11|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |gdk-pixbuf+32|2.38.2|2.42.12|runtime-optenv32|Compliance mode enabled, was '2.42.12'|
 |gdm|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -1855,6 +1856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |pangomm-2.48|2.50.1|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
+|papirus-icon-theme|20240501|20250201|desktop-themes|Compliance mode enabled, was '20250201'|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |parallel|20191122|20250122|app-utils|Compliance mode enabled, was '20250122'|
 |paramiko|2.10.3|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
