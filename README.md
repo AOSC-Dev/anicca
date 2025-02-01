@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738404632?label=Updated)
+![Relative date](https://img.shields.io/date/1738408004?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -775,7 +775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.124.8|lang-python|Compliance mode enabled, was '6.124.8'|
+|hypothesis-python|6.97.4|6.124.9|lang-python|Compliance mode enabled, was '6.124.9'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.55.0|app-web|Compliance mode enabled, was '2.55.0'|
@@ -2420,7 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |secretstorage|3.3.0|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
 |semver|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
-|sequoia-sq|0.36.0|1.1.0|app-cryptography|Compliance mode enabled, was '1.1.0'|
+|sequoia-sq|0.36.0|1.2.0|app-cryptography|Compliance mode enabled, was '1.2.0'|
 |ser2net|3.5|4.6.3|app-network|Compliance mode enabled, was '4.6.3'|
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
