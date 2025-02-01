@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738440609?label=Updated)
+![Relative date](https://img.shields.io/date/1738443931?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -305,7 +305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coreutils|9.5|9.6|app-utils|Compliance mode enabled, was '9.6'|
 |corrosion|0.4.10|0.5.1|app-devel|Compliance mode enabled, was '0.5.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
-|cpp-utilities|5.20.0|5.27.2|runtime-common|Compliance mode enabled, was '5.27.2'|
+|cpp-utilities|5.20.0|5.27.3|runtime-common|Compliance mode enabled, was '5.27.3'|
 |cppcheck|2.8|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
@@ -1144,7 +1144,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquares|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |ksquirrel-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksshaskpass|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
-|kstars|3.7.3|3.7.4|desktop-kde|Compliance mode enabled, was '3.7.4'|
+|kstars|3.7.3|3.7.5|desktop-kde|Compliance mode enabled, was '3.7.5'|
 |kstreamripper-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ksudoku|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |ksystemlog|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
