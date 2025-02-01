@@ -334,7 +334,7 @@
 ["libheif","1.17.6","1.19.5","runtime-imaging",1714466456,["Compliance mode enabled, was '1.19.5'"]],
 ["libjpeg-turbo","3.0.4","3.1.0","runtime-imaging",1732091089,["Compliance mode enabled, was '3.1.0'"]],
 ["qrencode","4.0.2","4.1.1","runtime-imaging",1531320025,["Compliance mode enabled, was '4.1.1'"]],
-["openimageio","2.4.17.0","3.0.2.0","runtime-imaging",1702112652,["Compliance mode enabled, was '3.0.2.0'"]],
+["openimageio","2.4.17.0","3.0.3.0","runtime-imaging",1702112652,["Compliance mode enabled, was '3.0.3.0'"]],
 ["graphene","1.10.2","1.10.8","runtime-imaging",1600321916,["Compliance mode enabled, was '1.10.8'"]],
 ["babl","0.1.108","0.1.110","runtime-imaging",1710250223,["Compliance mode enabled, was '0_1_110'"]],
 ["libpng","1.6.44","1.6.46","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.46'"]],
