@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738443931?label=Updated)
+![Relative date](https://img.shields.io/date/1738447554?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2903,7 +2903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-mailwatch-plugin|1.3.1|1.3.2|desktop-xfce|Compliance mode enabled, was '1.3.2'|
 |xfce4-mpc-plugin|0.5.3|0.5.5|desktop-xfce|Compliance mode enabled, was '0.5.5'|
 |xfce4-netload-plugin|1.4.1|1.4.2|desktop-xfce|Compliance mode enabled, was '1.4.2'|
-|xfce4-notes-plugin|1.11.0|1.11.1|desktop-xfce|Compliance mode enabled, was '1.11.1'|
+|xfce4-notes-plugin|1.11.0|1.11.2|desktop-xfce|Compliance mode enabled, was '1.11.2'|
 |xfce4-panel-profiles|1.0.14|1.0.15|desktop-xfce|Compliance mode enabled, was '1.0.15'|
 |xfce4-screensaver|4.18.3|4.18.4|desktop-xfce|Compliance mode enabled, was '4.18.4'|
 |xfce4-sensors-plugin|1.4.4|1.4.5|desktop-xfce|Compliance mode enabled, was '1.4.5'|
