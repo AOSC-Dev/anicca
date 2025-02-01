@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738426232?label=Updated)
+![Relative date](https://img.shields.io/date/1738429542?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -128,7 +128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b2sdk|2.5.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20170913|019|runtime-kernel|Compliance mode enabled, was '019'|
-|babel|2.9.1|2.16.0|lang-python|Compliance mode enabled, was '2.16.0'|
+|babel|2.9.1|2.17.0|lang-python|Compliance mode enabled, was '2.17.0'|
 |babl|0.1.108|0.1.110|runtime-imaging|Compliance mode enabled, was '0_1_110'|
 |backcall|0.1.0|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |backports|0|1.1|lang-python|Compliance mode enabled, was '1.1'|
