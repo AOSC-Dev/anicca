@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738412118?label=Updated)
+![Relative date](https://img.shields.io/date/1738415589?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -773,7 +773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwinfo|23.2|23.3|app-utils|Compliance mode enabled, was '23.3'|
 |hwloc|2.10.0|2.11.2|app-admin|Compliance mode enabled, was '2.11.2'|
-|hyper-h2|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
+|hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.124.9|lang-python|Compliance mode enabled, was '6.124.9'|
@@ -1755,7 +1755,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
 |ocaml-num|1.3|1.5|lang-ocaml|Compliance mode enabled, was '1.5'|
-|ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
 |ocaml-re|1.11.0|1.13.3|lang-ocaml|Compliance mode enabled, was '1.13.3'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.15.0|lang-ocaml|Compliance mode enabled, was '0.15.0'|
@@ -2190,7 +2189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygit2|1.14.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |pyglet|1.3.2|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |pygments|2.18.0|2.19.1|lang-python|Compliance mode enabled, was '2.19.1'|
-|pygobject-3|3.48.2|3.50.0|lang-python|Compliance mode enabled, was '3.50.0'|
+|pygobject-3|3.48.2|3.51.0|lang-python|Compliance mode enabled, was '3.51.0'|
 |pygraphviz|1.5|1.14|lang-python|Compliance mode enabled, was '1.14'|
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyicu|2.13.1|2.14|lang-python|Compliance mode enabled, was '2.14'|
@@ -2488,7 +2487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
-|spdlog|1.14.1|1.15.0|runtime-common|Compliance mode enabled, was '1.15.0'|
+|spdlog|1.14.1|1.15.1|runtime-common|Compliance mode enabled, was '1.15.1'|
 |spdx-licenses|3.25.0|3.26.0|runtime-data|Compliance mode enabled, was '3.26.0'|
 |spectacle|22.12.3|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |speech-dispatcher|0.11.2|0.11.5|runtime-desktop|Compliance mode enabled, was '0.11.5'|
