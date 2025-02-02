@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738519933?label=Updated)
+![Relative date](https://img.shields.io/date/1738523121?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2220,11 +2220,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |pypsutil|5.8.0|6.1.1|lang-python|Compliance mode enabled, was '6.1.1'|
-|pyqt-builder|1.12.1|1.17.2|lang-python|Compliance mode enabled, was '1.17.2'|
+|pyqt-builder|1.12.1|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
-|pyqt5-sip|12.9.0|12.16.1|lang-python|Compliance mode enabled, was '12.16.1'|
+|pyqt5-sip|12.9.0|12.17.0|lang-python|Compliance mode enabled, was '12.17.0'|
 |pyqt6|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
-|pyqt6-sip|13.6.0|13.9.1|lang-python|Compliance mode enabled, was '13.9.1'|
+|pyqt6-sip|13.6.0|13.10.0|lang-python|Compliance mode enabled, was '13.10.0'|
 |pyqt6-webengine|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
@@ -2794,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1043|9.1.1069|app-editors|Compliance mode enabled, was '9.1.1069'|
+|vim|9.1.1043|9.1.1071|app-editors|Compliance mode enabled, was '9.1.1071'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtualbox|7.1.4|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
