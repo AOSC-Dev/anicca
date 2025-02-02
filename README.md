@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738516036?label=Updated)
+![Relative date](https://img.shields.io/date/1738519933?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -93,7 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.12|lang-dotnet|Compliance mode enabled, was '8.0.12'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.33.0|0.34.3|app-devel|Compliance mode enabled, was '0.34.3'|
+|ast-grep|0.33.0|0.34.4|app-devel|Compliance mode enabled, was '0.34.4'|
 |astroid|2.12.2|3.3.8|lang-python|Compliance mode enabled, was '3.3.8'|
 |astrometry.net|0.94|0.97|app-scientific|Compliance mode enabled, was '0.97'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
@@ -548,7 +548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fwupd|1.9.25|2.0.4|app-admin|Compliance mode enabled, was '2.0.4'|
-|fzf|0.55.0|0.58.0|app-utils|Compliance mode enabled, was '0.58.0'|
+|fzf|0.55.0|0.59.0|app-utils|Compliance mode enabled, was '0.59.0'|
 |game-music-emu+32|0.6.0|0.6.3|runtime-optenv32|Compliance mode enabled, was '0.6.3'|
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
@@ -2525,7 +2525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
-|squid|5.7|6.12|app-web|Compliance mode enabled, was '6.12'|
+|squid|5.7|6.13|app-web|Compliance mode enabled, was '6.13'|
 |sra-tools|3.0.3|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
@@ -2546,6 +2546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.13|app-devel|Compliance mode enabled, was '6.13'|
 |strawberry|1.0.23|1.2.7|app-multimedia|Compliance mode enabled, was '1.2.7'|
 |streamlink|6.7.4|7.1.2|app-multimedia|Compliance mode enabled, was '7.1.2'|
+|stress-ng|0.18.09|0.18.10|app-benchmarks|Compliance mode enabled, was '0.18.10'|
 |strongswan|5.9.4|6.0.0|app-network|Compliance mode enabled, was '6.0.0'|
 |structlog|19.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
