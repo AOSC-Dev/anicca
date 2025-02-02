@@ -618,7 +618,7 @@
 ["perl-cgi","4.47","4.67","lang-perl",1678950872,["Compliance mode enabled, was '4.67'"]],
 ["perl-www-mechanize","1.91","2.19","lang-perl",1551145817,["Compliance mode enabled, was '2.19'"]],
 ["perl-net-server","2.009","2.014","lang-perl",1530196414,["Compliance mode enabled, was '2.014'"]],
-["perl-mozilla-ca","20180117","20240924","lang-perl",1522294837,["Compliance mode enabled, was '20240924'"]],
+["perl-mozilla-ca","20180117","20250202","lang-perl",1522294837,["Compliance mode enabled, was '20250202'"]],
 ["libintl-perl","1.29","1.35","lang-perl",1530196415,["Compliance mode enabled, was '1.35'"]],
 ["perl-email-abstract","3.008","3.010","lang-perl",1678950872,["Compliance mode enabled, was '3.010'"]],
 ["perl-sub-install","0.928","0.929","lang-perl",1678950872,["Compliance mode enabled, was '0.929'"]],
