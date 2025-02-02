@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738530421?label=Updated)
+![Relative date](https://img.shields.io/date/1738534003?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2288,7 +2288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
-|qownnotes|22.6.1|25.2.0|app-web|Compliance mode enabled, was '25.2.0'|
+|qownnotes|22.6.1|25.2.1|app-web|Compliance mode enabled, was '25.2.1'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|11.9.1|app-doc|Compliance mode enabled, was '11.9.1'|
 |qqc2-desktop-style|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
@@ -2907,7 +2907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-mpc-plugin|0.5.3|0.5.5|desktop-xfce|Compliance mode enabled, was '0.5.5'|
 |xfce4-netload-plugin|1.4.1|1.4.2|desktop-xfce|Compliance mode enabled, was '1.4.2'|
 |xfce4-notes-plugin|1.11.0|1.11.2|desktop-xfce|Compliance mode enabled, was '1.11.2'|
-|xfce4-panel|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
+|xfce4-panel|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |xfce4-panel-profiles|1.0.14|1.0.15|desktop-xfce|Compliance mode enabled, was '1.0.15'|
 |xfce4-screensaver|4.18.3|4.18.4|desktop-xfce|Compliance mode enabled, was '4.18.4'|
 |xfce4-sensors-plugin|1.4.4|1.4.5|desktop-xfce|Compliance mode enabled, was '1.4.5'|
