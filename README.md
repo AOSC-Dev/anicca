@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738487413?label=Updated)
+![Relative date](https://img.shields.io/date/1738491036?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2566,7 +2566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syntax-highlighting|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
-|sysstat|12.7.5|12.7.6|app-utils|Compliance mode enabled, was '12.7.6'|
+|sysstat|12.7.5|12.7.7|app-utils|Compliance mode enabled, was '12.7.7'|
 |systemd|257.2|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (257.2 -> 256)|
 |systemsettings|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -2700,7 +2700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.24.3|0.25.0|app-devel|Compliance mode enabled, was '0.25.0'|
+|tree-sitter|0.24.3|0.25.1|app-devel|Compliance mode enabled, was '0.25.1'|
 |tree-sitter-c|0.23.1|0.23.4|runtime-editors|Compliance mode enabled, was '0.23.4'|
 |tree-sitter-query|0.4.0|0.1.0|runtime-editors|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.4.0 -> 0.1.0)|
 |tree-sitter-vim|0.4.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.0 -> 0.3.0)|
