@@ -2226,7 +2226,7 @@
 ["backports-functools-lru-cache","1.5","2.0.0","lang-python",1522530847,["Compliance mode enabled, was '2.0.0'"]],
 ["dephell-specifier","0.2.2","0.3.0","lang-python",1609312655,["Compliance mode enabled, was '0.3.0'"]],
 ["bcrypt","4.2.0","4.2.1","lang-python",1738033645,["Compliance mode enabled, was '4.2.1'"]],
-["sip","6.8.3","6.9.1","lang-python",1721223235,["Compliance mode enabled, was '6.9.1'"]],
+["sip","6.8.3","6.10.0","lang-python",1721223235,["Compliance mode enabled, was '6.10.0'"]],
 ["schema","0.7.5","0.7.7","lang-python",1663210209,["Compliance mode enabled, was '0.7.7'"]],
 ["botocore","1.34.133","1.36.11","lang-python",1719928499,["Compliance mode enabled, was '1.36.11'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1637636761,["Compliance mode enabled, was '21.3.0'"]],
