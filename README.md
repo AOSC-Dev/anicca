@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738451380?label=Updated)
+![Relative date](https://img.shields.io/date/1738456903?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -639,7 +639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.53.0|desktop-gnome|Compliance mode enabled, was '3.53.0'|
+|gnome-online-accounts|3.44.0|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -2932,7 +2932,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.1|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
 |xray|24.12.31|25.1.30|app-network|Compliance mode enabled, was '25.1.30'|
-|xrdp|0.10.1|0.10.2|app-network|Compliance mode enabled, was '0.10.2'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
