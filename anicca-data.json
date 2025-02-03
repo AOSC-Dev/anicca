@@ -2468,7 +2468,7 @@
 ["s3transfer","0.5.0","0.11.2","lang-python",1616123331,["Compliance mode enabled, was '0.11.2'"]],
 ["qzdl","3.2.2.3+git20210516","3.2.2.3","app-games",1631795305,["Compliance mode enabled, was '3.2.2.3'"]],
 ["pysolfc","2.12.0","3.2.0","app-games",1631079132,["Compliance mode enabled, was '3.2.0'"]],
-["pcsx2","1.6.0+git20210825","2.3.133","app-games",1631079142,["Compliance mode enabled, was '2.3.133'"]],
+["pcsx2","1.6.0+git20210825","2.3.134","app-games",1631079142,["Compliance mode enabled, was '2.3.134'"]],
 ["m64py","0.2.5","0.3.0","app-games",1600114202,["Compliance mode enabled, was '0.3.0'"]],
 ["extreme-tux-rider","0.8.4","0.8.2","app-games",1736739217,["Compliance mode enabled, was '0.8.2'","Possible downgrade from the current version (0.8.4 -> 0.8.2)"]],
 ["freecell-solver","6.2.0","6.12.0","app-games",1631079130,["Compliance mode enabled, was '6.12.0'"]],
