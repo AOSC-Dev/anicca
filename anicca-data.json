@@ -1910,7 +1910,7 @@
 ["coreboot-utils","24.08","24.12","app-admin",1725467532,["Compliance mode enabled, was '24.12'"]],
 ["cockpit","286.1","332","app-admin",1678351353,["Compliance mode enabled, was '332'"]],
 ["accountsservice","22.08.8","23.13.9","app-admin",1678601096,["Compliance mode enabled, was '23.13.9'"]],
-["exfatprogs","1.2.5","1.2.6","app-admin",1723631352,["Compliance mode enabled, was '1.2.6'"]],
+["exfatprogs","1.2.5","1.2.7","app-admin",1723631352,["Compliance mode enabled, was '1.2.7'"]],
 ["bottom","0.9.6","0.10.2","app-admin",1704768393,["Compliance mode enabled, was '0.10.2'"]],
 ["open-isns","0.101","0.103","app-admin",1641887332,["Compliance mode enabled, was '0.103'"]],
 ["rtslib-fb","2.1.75","2.2.1","app-admin",1614669553,["Compliance mode enabled, was '2.2.1'"]],
