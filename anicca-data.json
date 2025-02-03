@@ -1986,6 +1986,7 @@
 ["milkytracker","1.04.00","1.05.01","app-multimedia",1722264196,["Compliance mode enabled, was '1.05.01'"]],
 ["kodi-pvr-iptvsimple","19.2.2","22.4.2-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.4.2-Piers'"]],
 ["xine-ui","0.99.12","0.99.14","app-multimedia",1582665366,["Compliance mode enabled, was '0.99.14'"]],
+["tsukimi","0.18.3","0.19.0","app-multimedia",1736651967,["Compliance mode enabled, was '0.19.0'"]],
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
 ["v4l-utils","1.22.1","1.28.1","app-multimedia",1657655180,["Compliance mode enabled, was '1.28.1'"]],
 ["gcdemu","3.2.4","3.2.6","app-multimedia",1582663068,["Compliance mode enabled, was '3.2.6'"]],
