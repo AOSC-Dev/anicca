@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738566758?label=Updated)
+![Relative date](https://img.shields.io/date/1738570451?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -777,7 +777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.125.0|lang-python|Compliance mode enabled, was '6.125.0'|
+|hypothesis-python|6.97.4|6.125.1|lang-python|Compliance mode enabled, was '6.125.1'|
 |hysteria|2.5.1|2.6.0|app-network|Compliance mode enabled, was '2.6.0'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.55.0|app-web|Compliance mode enabled, was '2.55.0'|
@@ -876,6 +876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kamera|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kamoso|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kanagram|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|kapidox|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kapman|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |kapptemplate|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |karchive|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
@@ -1955,6 +1956,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-font-ttf|1.05|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-gd|2.71|2.83|lang-perl|Compliance mode enabled, was '2.83'|
 |perl-glib|1.329|1.3294|lang-perl|Compliance mode enabled, was '1.3294'|
+|perl-glib-object-introspection|0.047|0.051|lang-perl|Compliance mode enabled, was '0.051'|
 |perl-gnome2|1.047|1.048|lang-perl|Compliance mode enabled, was '1.048'|
 |perl-gnome2-canvas|1.002|1.006|lang-perl|Compliance mode enabled, was '1.006'|
 |perl-gnome2-vfs|1.083|1.084|lang-perl|Compliance mode enabled, was '1.084'|
