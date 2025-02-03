@@ -2415,7 +2415,7 @@
 ["hyperlink","19.0.0","21.0.0","lang-python",1570593799,["Compliance mode enabled, was '21.0.0'"]],
 ["pyenchant","2.0.0","3.2.2","lang-python",1530553512,["Compliance mode enabled, was '3.2.2'"]],
 ["cffi","1.15.0","1.17.1","lang-python",1645500210,["Compliance mode enabled, was '1.17.1'"]],
-["reportlab","3.5.50","4.2.5","lang-python",1600671246,["Compliance mode enabled, was '4.2.5'"]],
+["reportlab","3.5.50","4.3.0","lang-python",1600671246,["Compliance mode enabled, was '4.3.0'"]],
 ["pysol-cards","0.14.2","0.18.0","lang-python",1631079140,["Compliance mode enabled, was '0.18.0'"]],
 ["sortedcontainers","2.3.0","2.4.0","lang-python",1618998184,["Compliance mode enabled, was '2.4.0'"]],
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,["Compliance mode enabled, was '6.0.11'"]],

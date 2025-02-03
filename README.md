@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738585010?label=Updated)
+![Relative date](https://img.shields.io/date/1738588761?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2332,7 +2332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.36|1.4.39|app-network|Compliance mode enabled, was '1.4.39'|
 |repo|2.45|2.51|app-devel|Compliance mode enabled, was '2.51'|
-|reportlab|3.5.50|4.2.5|lang-python|Compliance mode enabled, was '4.2.5'|
+|reportlab|3.5.50|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |requests-cache|0.5.2|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
