@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738588761?label=Updated)
+![Relative date](https://img.shields.io/date/1738591852?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -148,7 +148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
 |beancount|2.2.1|3.1.0|app-productivity|Compliance mode enabled, was '3.1.0'|
 |bear|3.1.4|3.1.5|app-devel|Compliance mode enabled, was '3.1.5'|
-|beautifulsoup4|4.10.0|4.13.0|lang-python|Compliance mode enabled, was '4.13.0'|
+|beautifulsoup4|4.10.0|4.13.1|lang-python|Compliance mode enabled, was '4.13.1'|
 |benchmark|1.8.2|1.9.1|runtime-common|Compliance mode enabled, was '1.9.1'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |bili-sync|2.1.1|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
@@ -162,6 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blender|4.0.2|4.3.2|app-creativity|Compliance mode enabled, was '4.3.2'|
 |blinken|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |bluedevil|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
+|blueman|2.4.3|2.4.4|app-utils|Compliance mode enabled, was '2.4.4'|
 |blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
 |bluez|5.77|5.79|app-devices|Compliance mode enabled, was '5.79'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
@@ -503,6 +504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.38|app-utils|Compliance mode enabled, was '3.38'|
+|firefox|134.0.2|135.0|app-web|Compliance mode enabled, was '135.0'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |fizz|2024.12.30.00|2025.01.27.00|app-network|Compliance mode enabled, was '2025.01.27.00'|
 |flacon|11.4.0|11.99.1|app-multimedia|Compliance mode enabled, was '11.99.1'|
