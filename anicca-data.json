@@ -2758,7 +2758,7 @@
 ["parallel","20191122","20250122","app-utils",1575785811,["Compliance mode enabled, was '20250122'"]],
 ["vdpauinfo","1.0","1.5","app-utils",1678950872,["Compliance mode enabled, was '1.5'"]],
 ["which","2.21","2.23","app-utils",1446260722,["Compliance mode enabled, was '2.23'"]],
-["neofetch","7.3.11","7.98.0","app-utils",1714466912,["Compliance mode enabled, was '7.98.0'"]],
+["neofetch","7.3.11","7.1.0","app-utils",1714466912,["Compliance mode enabled, was '7.1.0'","Possible downgrade from the current version (7.3.11 -> 7.1.0)"]],
 ["lunzip","1.10","1.15","app-utils",1527956211,["Compliance mode enabled, was '1.15'"]],
 ["solaar","1.1.13","1.1.14","app-utils",1729222753,["Compliance mode enabled, was '1.1.14'"]],
 ["aha","0.5","0.5.1","app-utils",1550980343,["Compliance mode enabled, was '0.5.1'"]],
