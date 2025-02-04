@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738707016?label=Updated)
+![Relative date](https://img.shields.io/date/1738710737?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1888,10 +1888,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcp|6.0.1|6.3.3|app-utils|Compliance mode enabled, was '6.3.3'|
 |pcre+32|8.44|8.45|runtime-optenv32|Compliance mode enabled, was '8.45'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
+|pcre2|10.44|10.45|runtime-common|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.141|app-games|Compliance mode enabled, was '2.3.141'|
+|pcsx2|1.6.0<br>+git20210825|2.3.143|app-games|Compliance mode enabled, was '2.3.143'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.8|lang-python|Compliance mode enabled, was '3.17.8'|
@@ -2171,7 +2172,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purpose|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |putty|0.81|0.82|app-network|Compliance mode enabled, was '0.82'|
 |pv|1.6.20|1.9.31|app-utils|Compliance mode enabled, was '1.9.31'|
-|py-filelock|3.14.0|3.17.0|lang-python|Compliance mode enabled, was '3.17.0'|
 |py-setproctitle|1.1.10|1.3.4|lang-python|Compliance mode enabled, was '1.3.4'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
@@ -2246,7 +2246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |pytest|8.2.2|8.3.4|lang-python|Compliance mode enabled, was '8.3.4'|
 |python-2+32|999|2.7.18|runtime-optenv32|Compliance mode enabled, was '2.7.18'<br>Possible downgrade from the current version (999 -> 2.7.18)|
-|python-3|3.10.13|3.13.1|lang-python|Compliance mode enabled, was '3.13.1'|
+|python-3|3.10.13|3.13.2|lang-python|Compliance mode enabled, was '3.13.2'|
 |python-augeas|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-build|1.2.1|1.2.2|lang-python|Compliance mode enabled, was '1.2.2'|
 |python-cloudflare|2.8.15|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
