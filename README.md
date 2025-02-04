@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738645890?label=Updated)
+![Relative date](https://img.shields.io/date/1738649786?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -602,7 +602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitpython|3.1.35|3.1.44|runtime-vcs|Compliance mode enabled, was '3.1.44'|
 |gitui|0.26.3|0.27.0|app-utils|Compliance mode enabled, was '0.27.0'|
-|gjs|1.74.0|1.83.2|desktop-gnome|Compliance mode enabled, was '1.83.2'|
+|gjs|1.74.0|1.83.4|desktop-gnome|Compliance mode enabled, was '1.83.4'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.3.0.8|app-admin|Compliance mode enabled, was '4.3.0.8'|
 |glib|2.83.3|2.82.4|runtime-common|Compliance mode enabled, was '2.82.4'<br>Possible downgrade from the current version (2.83.3 -> 2.82.4)|
@@ -1680,7 +1680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nasm+32|2.12.01|2.16.03|runtime-optenv32|Compliance mode enabled, was '2.16.03'|
-|nautilus|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
+|nautilus|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
@@ -2718,7 +2718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.1.15.22|lang-python|Compliance mode enabled, was '2025.1.15.22'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
-|tsukimi|0.18.3|0.19.1|app-multimedia|Compliance mode enabled, was '0.19.1'|
+|tsukimi|0.18.3|0.19.2|app-multimedia|Compliance mode enabled, was '0.19.2'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
@@ -2911,7 +2911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-mpc-plugin|0.5.3|0.5.5|desktop-xfce|Compliance mode enabled, was '0.5.5'|
 |xfce4-netload-plugin|1.4.1|1.4.2|desktop-xfce|Compliance mode enabled, was '1.4.2'|
 |xfce4-notes-plugin|1.11.0|1.11.2|desktop-xfce|Compliance mode enabled, was '1.11.2'|
-|xfce4-panel|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
+|xfce4-panel|4.20.0|4.20.3|desktop-xfce|Compliance mode enabled, was '4.20.3'|
 |xfce4-panel-profiles|1.0.14|1.0.15|desktop-xfce|Compliance mode enabled, was '1.0.15'|
 |xfce4-screensaver|4.18.3|4.18.4|desktop-xfce|Compliance mode enabled, was '4.18.4'|
 |xfce4-sensors-plugin|1.4.4|1.4.5|desktop-xfce|Compliance mode enabled, was '1.4.5'|
