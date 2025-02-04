@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738667404?label=Updated)
+![Relative date](https://img.shields.io/date/1738671436?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -772,7 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2024.0.1|app-creativity|Compliance mode enabled, was '2024.0.1'|
-|hugo|0.139.3|0.143.0|app-web|Compliance mode enabled, was '0.143.0'|
+|hugo|0.139.3|0.143.1|app-web|Compliance mode enabled, was '0.143.1'|
 |humanize|0.5.1|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwdata|0.391|0.392|runtime-data|Compliance mode enabled, was '0.392'|
@@ -2121,8 +2121,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
-|poppler|22.08.0|25.01.0|groups|Compliance mode enabled, was '25.01.0'|
-|poppler+32|0.66.0|25.01.0|runtime-optenv32|Compliance mode enabled, was '25.01.0'|
+|poppler|22.08.0|25.02.0|groups|Compliance mode enabled, was '25.02.0'|
+|poppler+32|0.66.0|25.02.0|runtime-optenv32|Compliance mode enabled, was '25.02.0'|
 |poppler-data|0.4.9|0.4.12|runtime-data|Compliance mode enabled, was '0.4.12'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
@@ -2719,7 +2719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.1.15.22|lang-python|Compliance mode enabled, was '2025.1.15.22'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
-|tsukimi|0.18.3|0.19.3|app-multimedia|Compliance mode enabled, was '0.19.3'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
