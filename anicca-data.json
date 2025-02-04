@@ -1898,7 +1898,7 @@
 ["criu","3.19","4.0","app-admin",1706667429,["Compliance mode enabled, was '4.0'"]],
 ["fwupd","1.9.25","2.0.5","app-admin",1727316731,["Compliance mode enabled, was '2.0.5'"]],
 ["smartmontools","7.3","7.4","app-admin",1673935786,["Compliance mode enabled, was '7.4'"]],
-["jenkins","2.468","2.495","app-admin",1721531773,["Compliance mode enabled, was '2.495'"]],
+["jenkins","2.468","2.496","app-admin",1721531773,["Compliance mode enabled, was '2.496'"]],
 ["mstflint","4.29.0-1","4.31.0+1","app-admin",1731561395,["Compliance mode enabled, was '4.31.0-1'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
