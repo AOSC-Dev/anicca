@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738716016?label=Updated)
+![Relative date](https://img.shields.io/date/1738721641?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1224,7 +1224,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libass+32|0.15.1|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
 |libassuan|2.5.3|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |libatomic-ops|7.8.0|7.8.2|runtime-common|Compliance mode enabled, was '7.8.2'|
-|libavif|0.11.1|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
 |libbluray+32|1.2.1|1.3.4|runtime-optenv32|Compliance mode enabled, was '1.3.4'|
@@ -1537,7 +1536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4639|runtime-creativity|Compliance mode enabled, was '4639'|
+|llama.cpp|4615|4640|runtime-creativity|Compliance mode enabled, was '4640'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
