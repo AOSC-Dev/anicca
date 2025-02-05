@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738725394?label=Updated)
+![Relative date](https://img.shields.io/date/1738728809?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -376,7 +376,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
-|discord|0.0.83|0.0.84|app-web|Compliance mode enabled, was '0.0.84'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -1537,7 +1536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4640|runtime-creativity|Compliance mode enabled, was '4640'|
+|llama.cpp|4615|4641|runtime-creativity|Compliance mode enabled, was '4641'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1619,7 +1618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |meld|3.22.2|3.22.3|desktop-gnome|Compliance mode enabled, was '3.22.3'|
-|memcached|1.6.29|1.6.35|app-admin|Compliance mode enabled, was '1.6.35'|
+|memcached|1.6.29|1.6.36|app-admin|Compliance mode enabled, was '1.6.36'|
 |mercurial|6.8.1|6.9.1|app-vcs|Compliance mode enabled, was '6.9.1'|
 |merkuro|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |mesa+32|22.1.7|24.3.4|runtime-optenv32|Compliance mode enabled, was '24.3.4'|
