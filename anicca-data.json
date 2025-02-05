@@ -1539,7 +1539,6 @@
 ["ss-tproxy","4.6.1","4.8.3","app-network",1611985904,["Compliance mode enabled, was '4.8.3'"]],
 ["n2n","2.8","3.1.1","app-network",1599374645,["Compliance mode enabled, was '3.1.1'"]],
 ["networkmanager-strongswan","1.5.2","1.6.1","app-network",1590862929,["Compliance mode enabled, was '1.6.1'"]],
-["xray","24.12.31","25.1.30","app-network",1735747165,["Compliance mode enabled, was '25.1.30'"]],
 ["crda","3.18","4.15","app-network",1678950872,["Compliance mode enabled, was '4.15'"]],
 ["lrzsz","0.12.21","0.12.21.orig","app-network",1481254632,["Compliance mode enabled, was '0.12.21.orig'","Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)"]],
 ["passt","2024_10_30.ee7d0b6","2025_01_21.4f2c8e7","app-network",1731759292,[]],
