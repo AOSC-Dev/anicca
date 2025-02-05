@@ -2730,7 +2730,7 @@
 ["gom","0.4","0.5.3","runtime-database",1619939232,["Compliance mode enabled, was '0.5.3'"]],
 ["vscodium","1.96.4.25017","1.96.4.25026","app-editors",1737623549,["Compliance mode enabled, was '1.96.4.25026'"]],
 ["helix","24.07","25.01.1","app-editors",1722264239,["Compliance mode enabled, was '25.01.1'"]],
-["zed","0.170.2","0.171.6","app-editors",1737688822,["Compliance mode enabled, was '0.171.6'"]],
+["zed","0.172.8","0.171.6","app-editors",1738738195,["Compliance mode enabled, was '0.171.6'","Possible downgrade from the current version (0.172.8 -> 0.171.6)"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.36.2","app-editors",1723441135,["Compliance mode enabled, was '1.36.2'"]],
 ["vim","9.1.1043","9.1.1076","app-editors",1737436444,["Compliance mode enabled, was '9.1.1076'"]],
