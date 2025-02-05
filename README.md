@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738746808?label=Updated)
+![Relative date](https://img.shields.io/date/1738750341?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -318,7 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
 |criu|3.19|4.0|app-admin|Compliance mode enabled, was '4.0'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
-|crun|1.16.1|1.19.1|app-admin|Compliance mode enabled, was '1.19.1'|
+|crun|1.16.1|1.20|app-admin|Compliance mode enabled, was '1.20'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|44.0.0|lang-python|Compliance mode enabled, was '44.0.0'|
@@ -330,8 +330,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
-|curl|8.11.0|8.11.1|app-web|Compliance mode enabled, was '8.11.1'|
-|curl+32|8.11.0|8.11.1|runtime-optenv32|Compliance mode enabled, was '8.11.1'|
+|curl|8.11.0|8.12.0|app-web|Compliance mode enabled, was '8.12.0'|
+|curl+32|8.11.0|8.12.0|runtime-optenv32|Compliance mode enabled, was '8.12.0'|
 |curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.11|lang-python|Compliance mode enabled, was '2.0.11'|
@@ -821,7 +821,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.5|runtime-common|Compliance mode enabled, was '4.2.5'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
-|intel-media-driver|24.4.4|25.1.0|runtime-multimedia|Compliance mode enabled, was '25.1.0'|
+|intel-media-driver|24.4.4|25.1.1|runtime-multimedia|Compliance mode enabled, was '25.1.1'|
 |inxi|3.3.31<br>+2|3.3.37+1|app-utils|Compliance mode enabled, was '3.3.37-1'|
 |iozone|3.492|3.506|app-admin|Compliance mode enabled, was '3.506'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -2064,6 +2064,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|picard|2.12.3|2.13.1|app-multimedia|Compliance mode enabled, was '2.13.1'|
 |picmi|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
 |pidgin|2.14.13|2.14.14|app-web|Compliance mode enabled, was '2.14.14'|
 |pikepdf|8.15.1|9.5.1|app-doc|Compliance mode enabled, was '9.5.1'|
