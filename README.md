@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738764631?label=Updated)
+![Relative date](https://img.shields.io/date/1738768247?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -381,7 +381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |distrobox|1.8.0|1.8.1.2|app-utils|Compliance mode enabled, was '1.8.1.2'|
-|django|5.0.3|5.1.5|lang-python|Compliance mode enabled, was '5.1.5'|
+|django|5.0.3|5.1.6|lang-python|Compliance mode enabled, was '5.1.6'|
 |dkms|3.1.1|3.1.5|app-admin|Compliance mode enabled, was '3.1.5'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dnscontrol|4.15.5|4.15.6|app-network|Compliance mode enabled, was '4.15.6'|
@@ -2673,7 +2673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-media-tags-plugin|0.3.0|0.5.0|desktop-xfce|Compliance mode enabled, was '0.5.0'|
 |thunar-shares-plugin|0.3.2|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
-|thunderbird|128.5.2|128.6.1|app-web||
+|thunderbird|128.5.2|128.7.0|app-web||
 |tig|2.5.10|2.5.11|app-utils|Compliance mode enabled, was '2.5.11'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
@@ -2696,6 +2696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomlkit|0.7.0|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |topgrade|11.0.2|16.0.2|app-admin|Compliance mode enabled, was '16.0.2'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
+|tor|0.4.8.13|0.4.8.14|app-network|Compliance mode enabled, was '0.4.8.14'|
 |tork-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tornado|6.4.1|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
 |tortoisehg|6.6.3|6.9|app-vcs|Compliance mode enabled, was '6.9'|
