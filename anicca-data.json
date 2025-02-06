@@ -1484,7 +1484,7 @@
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["siege","4.0.7","4.1.7","app-network",1600577920,["Compliance mode enabled, was '4.1.7'"]],
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
-["dnscontrol","4.15.5","4.15.6","app-network",1737266290,["Compliance mode enabled, was '4.15.6'"]],
+["dnscontrol","4.15.5","4.16.0","app-network",1737266290,["Compliance mode enabled, was '4.16.0'"]],
 ["freerdp","3.9.0","3.11.0","app-network",1733052382,["Compliance mode enabled, was '3.11.0'"]],
 ["lldpd","1.0.18","1.0.19","app-network",1729158390,["Compliance mode enabled, was '1.0.19'"]],
 ["geoipupdate","7.0.1","7.1.0","app-network",1721587976,["Compliance mode enabled, was '7.1.0'"]],
