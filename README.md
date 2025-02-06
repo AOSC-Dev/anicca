@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738802429?label=Updated)
+![Relative date](https://img.shields.io/date/1738807902?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -29,7 +29,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
-|aiohttp|3.7.4.post0|3.11.11|lang-python|Compliance mode enabled, was '3.11.11'|
+|aiohttp|3.7.4.post0|3.11.12|lang-python|Compliance mode enabled, was '3.11.12'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
@@ -1639,7 +1639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
-|mitmproxy|11.0.0|11.1.0|app-network||
+|mitmproxy|11.0.0|11.1.1|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|87.0|89.0|app-multimedia|Compliance mode enabled, was '89.0'|
