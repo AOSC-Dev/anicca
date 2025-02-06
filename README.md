@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738848010?label=Updated)
+![Relative date](https://img.shields.io/date/1738851081?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -154,6 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bili-sync|2.1.1|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
 |bind|9.20.4|9.20.5|app-network|Compliance mode enabled, was '9.20.5'|
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
+|binutils+32|2.42|2.44|runtime-optenv32|Compliance mode enabled, was '2.44'|
 |binutils+w64|2.43.1|2.44|runtime-optenvw64|Compliance mode enabled, was '2.44'|
 |bird|2.15.1|3.0.1|app-network|Compliance mode enabled, was '3.0.1'|
 |black-hole-solver|1.10.1|1.12.0|runtime-games|Compliance mode enabled, was '1.12.0'|
@@ -453,6 +454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
+|eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
 |evolution|3.44.4|3.54.3|desktop-gnome|Compliance mode enabled, was '3.54.3'|
@@ -1243,6 +1245,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcpuid|0.5.1|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libcupsfilters|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
+|libdeflate|1.19|1.23|runtime-common|Compliance mode enabled, was '1.23'|
 |libdiscid|0.6.2|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |libdispatch|5.6.1|5.9.2-release|runtime-common|Compliance mode enabled, was '5.9.2-RELEASE'|
 |libdisplay-info|0.1.1|0.2.0|runtime-display|Compliance mode enabled, was '0.2.0'|
@@ -2078,7 +2081,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
-|plasma-angelfish|22.06|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|plasma-angelfish|22.06|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |plasma-browser-integration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-desktop|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-disks|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
@@ -2225,7 +2228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt-builder|1.12.1|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
 |pyqt5-sip|12.9.0|12.17.0|lang-python|Compliance mode enabled, was '12.17.0'|
-|pyqt6|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
+|pyqt6|6.7.0|6.8.1|lang-python|Compliance mode enabled, was '6.8.1'|
 |pyqt6-sip|13.6.0|13.10.0|lang-python|Compliance mode enabled, was '13.10.0'|
 |pyqt6-webengine|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
@@ -2517,8 +2520,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
 |sqlalchemy|1.2.18|2.0.37|lang-python|Compliance mode enabled, was '2.0.37'|
 |sqlcipher|4.5.6|4.6.1|app-database|Compliance mode enabled, was '4.6.1'|
-|sqlite|3.46.1|3.48.0|app-database|Compliance mode enabled, was '3.48.0'|
-|sqlite+32|3.32.3|3.48.0|runtime-optenv32|Compliance mode enabled, was '3.48.0'|
+|sqlite|3.46.1|3.49.0|app-database|Compliance mode enabled, was '3.49.0'|
+|sqlite+32|3.32.3|3.49.0|runtime-optenv32|Compliance mode enabled, was '3.49.0'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.9.2|app-penetration|Compliance mode enabled, was '1.9.2'|
@@ -2580,6 +2583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tagparser|11.5.1|12.4.0|runtime-multimedia|Compliance mode enabled, was '12.4.0'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
+|talloc|2.4.2|2.4.3|runtime-common|Compliance mode enabled, was '2.4.3'|
 |targetcli-fb|2.1.54|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2592,7 +2596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
 |tcsh|6.24.12|6.24.15|app-shells|Compliance mode enabled, was '6.24.15'|
-|tdb|1.4.10|1.4.12|app-database|Compliance mode enabled, was '1.4.12'|
+|tdb|1.4.10|1.4.13|app-database|Compliance mode enabled, was '1.4.13'|
 |tde-common-cmake|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-i18n|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-style-baghira|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
