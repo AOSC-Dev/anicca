@@ -2461,7 +2461,7 @@
 ["rich","13.7.1","13.9.4","lang-python",1722488599,["Compliance mode enabled, was '13.9.4'"]],
 ["packaging","23.0","24.2","lang-python",1551164101,["Compliance mode enabled, was '24.2'"]],
 ["websockets","12.0","1.4.4","lang-python",1714209798,["Compliance mode enabled, was '1.4.4'","Possible downgrade from the current version (12.0 -> 1.4.4)"]],
-["hypothesis-python","6.97.4","6.125.1","lang-python",1706859511,["Compliance mode enabled, was '6.125.1'"]],
+["hypothesis-python","6.97.4","6.125.2","lang-python",1706859511,["Compliance mode enabled, was '6.125.2'"]],
 ["pythondialog","3.3.0","3.5.3","lang-python",1449158849,["Compliance mode enabled, was '3.5.3'"]],
 ["pyrfc3339","1.1","2.0.1","lang-python",1530553511,["Compliance mode enabled, was '2.0.1'"]],
 ["pefile","2023.2.7","2024.8.26","lang-python",1682634968,["Compliance mode enabled, was '2024.8.26'"]],
