@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738851081?label=Updated)
+![Relative date](https://img.shields.io/date/1738854670?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -537,7 +537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.0.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|freerdp|3.9.0|3.10.3|app-network|Compliance mode enabled, was '3.10.3'|
+|freerdp|3.9.0|3.11.0|app-network|Compliance mode enabled, was '3.11.0'|
 |freetds|1.00.112|1.4.26|runtime-database|Compliance mode enabled, was '1.4.26'|
 |freetype+32|2.12.1|2.13.3|runtime-optenv32|Compliance mode enabled, was '2.13.3'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -949,7 +949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kdev-php|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdev-python|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|kdevelop|23.08.5|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|kdevelop|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdevelop-pg-qt|2.2.1|2.3.0|desktop-kde|Compliance mode enabled, was '2.3.0'|
 |kdewebkit|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kdf|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1178,7 +1178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwayland-integration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kweather|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|kweathercore|0.7|24.12.1|desktop-kde|Compliance mode enabled, was '24.12.1'|
+|kweathercore|0.7|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kwidgetsaddons|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kwin|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |kwindowsystem|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
@@ -1439,8 +1439,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
 |libstoragemgmt|1.7.3|1.10.2|runtime-admin|Compliance mode enabled, was '1.10.2'|
 |libsysstat|0.4.4|1.1.0|runtime-admin|Compliance mode enabled, was '1.1.0'|
-|libtasn1|4.15.0|4.19.0|runtime-cryptography|Compliance mode enabled, was '4.19.0'|
-|libtasn1+32|4.15.0|4.19.0|runtime-optenv32|Compliance mode enabled, was '4.19.0'|
+|libtasn1|4.15.0|4.20.0|runtime-cryptography|Compliance mode enabled, was '4.20.0'|
+|libtasn1+32|4.15.0|4.20.0|runtime-optenv32|Compliance mode enabled, was '4.20.0'|
 |libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
 |libthai|0.1.28|0.1.29|runtime-i18n|Compliance mode enabled, was '0.1.29'|
 |libticables2|1.3.4|1.3.5|runtime-devices|Compliance mode enabled, was '1.3.5'|
@@ -1533,7 +1533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4649|runtime-creativity|Compliance mode enabled, was '4649'|
+|llama.cpp|4615|4651|runtime-creativity|Compliance mode enabled, was '4651'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
