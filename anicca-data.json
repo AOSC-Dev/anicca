@@ -541,7 +541,7 @@
 ["perl-extutils-libbuilder","0.08","0.09","lang-perl",1625211688,["Compliance mode enabled, was '0.09'"]],
 ["perl-email-simple","2.216","2.218","lang-perl",1530196415,["Compliance mode enabled, was '2.218'"]],
 ["perl-timedate","2.30","2.33","lang-perl",1678950872,["Compliance mode enabled, was '2.33'"]],
-["perl-mime-types","2.17","2.26","lang-perl",1530196414,["Compliance mode enabled, was '2.26'"]],
+["perl-mime-types","2.17","2.27","lang-perl",1530196414,["Compliance mode enabled, was '2.27'"]],
 ["perl-text-csv-xs","1.38","1.60","lang-perl",1551145658,["Compliance mode enabled, was '1.60'"]],
 ["perl-net-dns","1.19+02","1.49","lang-perl",1551145193,["Compliance mode enabled, was '1.49'"]],
 ["perl-json","2.90","4.10","lang-perl",1678950872,["Compliance mode enabled, was '4.10'"]],
