@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738959108?label=Updated)
+![Relative date](https://img.shields.io/date/1738962587?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1511,7 +1511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liferea|1.13.8|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
-|lightdm-settings|2.0.4|2.0.7|desktop-displaymanagers|Compliance mode enabled, was '2.0.7'|
 |lightsoff|40.0.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |lighttpd|1.4.76|1.4.77|app-network|Compliance mode enabled, was '1.4.77'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
@@ -2654,7 +2653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.16.1|0.16.2|runtime-common|Compliance mode enabled, was '0.16.2'|
 |texlive|20240312|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20240312 -> 2024)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
-|texstudio|4.0.2|4.8.5|app-doc|Compliance mode enabled, was '4.8.5'|
+|texstudio|4.0.2|4.8.6|app-doc|Compliance mode enabled, was '4.8.6'|
 |texworks|0.6.6|0.6.9|app-doc|Compliance mode enabled, was '0.6.9'|
 |thedarkmod|2.09a|2.12|app-games|Compliance mode enabled, was '2.12'|
 |thermald|2.5.7|2.5.8|app-admin|Compliance mode enabled, was '2.5.8'|
