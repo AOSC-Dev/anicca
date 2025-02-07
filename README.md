@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738908982?label=Updated)
+![Relative date](https://img.shields.io/date/1738912264?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -207,6 +207,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
+|calibre|7.24.0|7.25.0|app-doc|Compliance mode enabled, was '7.25.0'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -2975,6 +2976,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
+|zed|0.172.8|0.172.9|app-editors|Compliance mode enabled, was '0.172.9'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.143.0|lang-python|Compliance mode enabled, was '0.143.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
