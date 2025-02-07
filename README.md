@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738934221?label=Updated)
+![Relative date](https://img.shields.io/date/1738937404?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2061,7 +2061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
-|picard|2.12.3|2.13.1|app-multimedia|Compliance mode enabled, was '2.13.1'|
+|picard|2.12.3|2.13.2|app-multimedia|Compliance mode enabled, was '2.13.2'|
 |picmi|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |pidgin|2.14.13|2.14.14|app-web|Compliance mode enabled, was '2.14.14'|
 |pikepdf|8.15.1|9.5.2|app-doc|Compliance mode enabled, was '9.5.2'|
