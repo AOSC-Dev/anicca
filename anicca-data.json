@@ -2725,7 +2725,6 @@
 ["freetds","1.00.112","1.4.26","runtime-database",1565150265,["Compliance mode enabled, was '1.4.26'"]],
 ["libpqxx","6.4.5","7.10.0","runtime-database",1569986291,["Compliance mode enabled, was '7.10.0'"]],
 ["gom","0.4","0.5.3","runtime-database",1619939232,["Compliance mode enabled, was '0.5.3'"]],
-["vscode","1.96.4","1.97.0","app-editors",1737192749,["Compliance mode enabled, was '1.97.0'"]],
 ["vscodium","1.96.4.25017","1.97.0.25037","app-editors",1737623549,["Compliance mode enabled, was '1.97.0.25037'"]],
 ["helix","24.07","25.01.1","app-editors",1722264239,["Compliance mode enabled, was '25.01.1'"]],
 ["zed","0.172.9","0.172.10","app-editors",1738915184,["Compliance mode enabled, was '0.172.10'"]],
