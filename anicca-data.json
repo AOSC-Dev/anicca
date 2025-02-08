@@ -1902,7 +1902,7 @@
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
 ["glances","4.0.5","4.3.0.8","app-admin",1716736908,["Compliance mode enabled, was '4.3.0.8'"]],
-["apt","2.6.1","2.9.27","app-admin",1698115058,["Compliance mode enabled, was '2.9.27'"]],
+["apt","2.6.1","2.9.28","app-admin",1698115058,["Compliance mode enabled, was '2.9.28'"]],
 ["rdma-core","51.0","56.0","app-admin",1716563534,["Compliance mode enabled, was '56.0'"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Compliance mode enabled, was '6.03'","Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
 ["cloud-init","24.2","24.4.1","app-admin",1721964217,["Compliance mode enabled, was '24.4.1'"]],
