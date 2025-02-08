@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739009417?label=Updated)
+![Relative date](https://img.shields.io/date/1739012742?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1512,7 +1512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
-|linux+api|6.12.7|6.12.12|core-devel|Compliance mode enabled, was '6.12.12'|
+|linux+api|6.12.7|6.12.13|core-devel|Compliance mode enabled, was '6.12.13'|
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.13.1|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.1 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
@@ -2849,7 +2849,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |winetricks|20240105|20250102|app-emulation|Compliance mode enabled, was '20250102'|
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
-|wireplumber|0.5.7|0.5.8|app-multimedia|Compliance mode enabled, was '0.5.8'|
 |wireshark|4.4.0|4.4.3|app-network|Compliance mode enabled, was '4.4.3'|
 |wlroots|0.17.4|0.18.2|runtime-display|Compliance mode enabled, was '0.18.2'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
@@ -2950,7 +2949,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.9.4|1.18.3|lang-python|Compliance mode enabled, was '1.18.3'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |yaz|5.34.0|5.34.3|runtime-web|Compliance mode enabled, was '5.34.3'|
-|yazi|0.4.2|25.2.7|app-utils|Compliance mode enabled, was '25.2.7'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.49|app-electronics|Compliance mode enabled, was '0.49'|
