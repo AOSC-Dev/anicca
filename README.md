@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739016912?label=Updated)
+![Relative date](https://img.shields.io/date/1739020501?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -215,7 +215,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
-|capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
 |cargo-audit|0.21.0|0.21.1|lang-rust|Compliance mode enabled, was '0.21.1'|
 |cargo-c|0.10.2|0.10.9+cargo-0.85.0|lang-rust|Compliance mode enabled, was '0.10.9+cargo-0.85.0'|
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
@@ -1382,7 +1381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
 |libphonenumber|8.13.38|8.13.54|runtime-i18n|Compliance mode enabled, was '8.13.54'|
-|libpinyin|2.6.0|2.9.93|runtime-i18n|Compliance mode enabled, was '2.9.93'|
+|libpinyin|2.6.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libpng|1.6.44|1.6.46|runtime-imaging|Compliance mode enabled, was '1.6.46'|
@@ -2134,7 +2133,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powershell|7.4.5|7.5.0|app-shells|Compliance mode enabled, was '7.5.0'|
 |poxml|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ppp|2.4.9|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
-|ppsspp|1.18.1<br>+git20250206|1.18.1|app-games|Compliance mode enabled, was '1.18.1'|
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.10.0|app-productivity|Compliance mode enabled, was '0.10.0'|
