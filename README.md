@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739038415?label=Updated)
+![Relative date](https://img.shields.io/date/1739041491?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -427,7 +427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.7|runtime-vcs|Compliance mode enabled, was '0.22.7'|
 |dune|3.4.1|3.17.2|lang-ocaml|Compliance mode enabled, was '3.17.2'|
-|duplicity|3.0.1|3.0.3.2|app-utils|Compliance mode enabled, was '3.0.3.2'|
+|duplicity|3.0.1|3.0.4|app-utils|Compliance mode enabled, was '3.0.4'|
 |easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
 |edencommon|2024.12.30.00|2025.02.03.00|runtime-common|Compliance mode enabled, was '2025.02.03.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
@@ -484,6 +484,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
+|feedbackd|0.2.1|0.7.0|desktop-gnome|Compliance mode enabled, was '0.7.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.8|4.1.9|app-multimedia|Compliance mode enabled, was '4.1.9'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
@@ -1783,6 +1784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencl-registry-api|2024.05.08|2024.10.24|app-devel|Compliance mode enabled, was '2024.10.24'|
 |opencolorio|2.1.2|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
+|opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
 |opencryptoki|3.21.0|3.24.0|runtime-cryptography|Compliance mode enabled, was '3.24.0'|
 |opencsg|1.5.1|1.7.0|runtime-imaging|Compliance mode enabled, was '1.7.0'|
@@ -2628,6 +2630,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdewebdev|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdmtheme|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
