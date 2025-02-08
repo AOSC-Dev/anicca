@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739034374?label=Updated)
+![Relative date](https://img.shields.io/date/1739038415?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -275,7 +275,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|2.02|2.04|app-utils|Compliance mode enabled, was '2.04'|
-|cloud-init|24.2|24.4.1|app-admin|Compliance mode enabled, was '24.4.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
@@ -485,7 +484,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
-|feedbackd|0.2.1|0.7.0|desktop-gnome|Compliance mode enabled, was '0.7.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown|4.1.8|4.1.9|app-multimedia|Compliance mode enabled, was '4.1.9'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
@@ -1785,7 +1783,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencl-registry-api|2024.05.08|2024.10.24|app-devel|Compliance mode enabled, was '2024.10.24'|
 |opencolorio|2.1.2|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
-|opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
 |opencryptoki|3.21.0|3.24.0|runtime-cryptography|Compliance mode enabled, was '3.24.0'|
 |opencsg|1.5.1|1.7.0|runtime-imaging|Compliance mode enabled, was '1.7.0'|
@@ -2631,7 +2628,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdewebdev|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdmtheme|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
@@ -2790,7 +2786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1043|9.1.1082|app-editors|Compliance mode enabled, was '9.1.1082'|
+|vim|9.1.1043|9.1.1084|app-editors|Compliance mode enabled, was '9.1.1084'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2802,7 +2798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
-|vnstat|2.4|2.12|app-network|Compliance mode enabled, was '2.12'|
+|vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |volk-meta-loader|1.3.283.0|1.4.304.1|runtime-display|Compliance mode enabled, was '1.4.304.1'|
 |volk-meta-loader+32|1.3.283.0|1.4.304.1|runtime-optenv32|Compliance mode enabled, was '1.4.304.1'|
