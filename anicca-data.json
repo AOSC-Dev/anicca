@@ -2911,6 +2911,7 @@
 ["debianutils","5.7","5.21","app-utils",1673935786,["Compliance mode enabled, was '5.21'"]],
 ["acl","2.3.1","2.3.2","app-utils",1641882995,["Compliance mode enabled, was '2.3.2'"]],
 ["git-branchless","0.9.0","0.10.0","app-utils",1721587893,["Compliance mode enabled, was '0.10.0'"]],
+["vifm","0.13","0.14","app-utils",1712153532,["Compliance mode enabled, was '0.14'"]],
 ["xz","5.6.3","5.6.4","app-utils",1731206173,["Compliance mode enabled, was '5.6.4'"]],
 ["yara","4.5.0","4.5.2","app-utils",1712767296,["Compliance mode enabled, was '4.5.2'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
