@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1738975135?label=Updated)
+![Relative date](https://img.shields.io/date/1738980603?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2778,9 +2778,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
-|uv|0.5.27|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'|
 |v2ray|5.26.0|5.27.0|app-network|Compliance mode enabled, was '5.27.0'|
-|v2ray-rules-dat|202501302211|202502062212|runtime-data|Compliance mode enabled, was '202502062212'<br>Versions not comparable: `202501302211` and `202502062212`|
+|v2ray-rules-dat|202501302211|202502072211|runtime-data|Compliance mode enabled, was '202502072211'<br>Versions not comparable: `202501302211` and `202502072211`|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
