@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739041491?label=Updated)
+![Relative date](https://img.shields.io/date/1739045414?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1262,7 +1262,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libexif|0.6.22|0.6.25|runtime-imaging|Compliance mode enabled, was '0.6.25'|
 |libexif+32|0.6.22|0.6.25|runtime-optenv32|Compliance mode enabled, was '0.6.25'|
 |libffado|2.4.4|2.4.9|runtime-multimedia|Compliance mode enabled, was '2.4.9'|
-|libffi+32|3.4.2|3.4.6|runtime-optenv32|Compliance mode enabled, was '3.4.6'|
+|libffi|3.4.6|3.4.7|runtime-common|Compliance mode enabled, was '3.4.7'|
+|libffi+32|3.4.2|3.4.7|runtime-optenv32|Compliance mode enabled, was '3.4.7'|
 |libfido2|1.13.0|1.15.0|runtime-devices|Compliance mode enabled, was '1.15.0'|
 |libfilezilla|0.45.0|0.38.1|runtime-web|Compliance mode enabled, was '0.38.1'<br>Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.3.2|desktop-lxde|Compliance mode enabled, was '1.3.2'|
@@ -1528,7 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4667|runtime-creativity|Compliance mode enabled, was '4667'|
+|llama.cpp|4615|4671|runtime-creativity|Compliance mode enabled, was '4671'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
