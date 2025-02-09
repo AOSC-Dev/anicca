@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739117542?label=Updated)
+![Relative date](https://img.shields.io/date/1739120739?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -481,7 +481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fbthrift|2024.12.30.00|2025.02.03.00|app-network|Compliance mode enabled, was '2025.02.03.00'|
 |fcgi|2.4.2|2.4.4|runtime-web|Compliance mode enabled, was '2.4.4'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.31.5712.102|app-i18n|Compliance mode enabled, was '2.31.5712.102'|
-|fcitx5-pinyin-moegirl|20241211|20250113|app-i18n|Compliance mode enabled, was '20250113'|
+|fcitx5-pinyin-moegirl|20241211|20250209|app-i18n|Compliance mode enabled, was '20250209'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
 |fd|10.1.0|10.2.0|app-utils|Compliance mode enabled, was '10.2.0'|
@@ -1384,6 +1384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libphonenumber|8.13.38|8.13.54|runtime-i18n|Compliance mode enabled, was '8.13.54'|
 |libpinyin|2.6.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
+|libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libpng|1.6.44|1.6.46|runtime-imaging|Compliance mode enabled, was '1.6.46'|
 |libpng+32|1.2.57|1.6.46|runtime-optenv32|Compliance mode enabled, was '1.6.46'|
 |libpng-1.6+32|1.6.43|1.6.46|runtime-optenv32|Compliance mode enabled, was '1.6.46'|
@@ -1623,6 +1624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|4.3.0|4.3.1|runtime-devices|Compliance mode enabled, was '4.3.1'|
 |microsoft-gsl|3.0.1|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |midori|9.0|11.5|app-web|Compliance mode enabled, was '11.5'|
+|mihomo|1.19.1|1.19.2|app-network|Compliance mode enabled, was '1.19.2'|
 |mihomo-party|1.6.0|1.7.1|app-network|Compliance mode enabled, was '1.7.1'|
 |milkytracker|1.04.00|1.05.01|app-multimedia|Compliance mode enabled, was '1.05.01'|
 |milou|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
@@ -2080,6 +2082,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-browser-integration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-desktop|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-disks|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
+|plasma-firewall|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-framework|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |plasma-integration|5.27.11|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
 |plasma-mobile|5.27.5|6.2.5|desktop-kde|Compliance mode enabled, was '6.2.5'|
@@ -2298,6 +2301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtcreator|14.0.1|15.0.1|app-devel|Compliance mode enabled, was '15.0.1'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
+|qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |qtractor|0.9.23|1.5.3|app-multimedia|Compliance mode enabled, was '1.5.3'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
