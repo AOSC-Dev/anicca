@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739085102?label=Updated)
+![Relative date](https://img.shields.io/date/1739088737?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -2560,7 +2560,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
 |sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
 |synaptic|0.91.3|0.91.5|app-admin|Compliance mode enabled, was '0.91.5'|
-|syndication|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
@@ -2847,7 +2846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|9.22|10.0|app-emulation||
+|wine|9.22|10.1|app-emulation||
 |winetricks|20240105|20250102|app-emulation|Compliance mode enabled, was '20250102'|
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
