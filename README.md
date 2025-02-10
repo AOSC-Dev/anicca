@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739218211?label=Updated)
+![Relative date](https://img.shields.io/date/1739221784?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -173,8 +173,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.36.16|lang-python|Compliance mode enabled, was '1.36.16'|
-|botocore|1.34.133|1.36.16|lang-python|Compliance mode enabled, was '1.36.16'|
+|boto3|1.20.26|1.36.17|lang-python|Compliance mode enabled, was '1.36.17'|
+|botocore|1.34.133|1.36.17|lang-python|Compliance mode enabled, was '1.36.17'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.18|app-utils|Compliance mode enabled, was '51.18'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.18)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -2796,7 +2796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
 |virtualbox|7.1.6a|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
-|virtualenv|20.27.1|20.29.1|lang-python|Compliance mode enabled, was '20.29.1'|
+|virtualenv|20.27.1|20.29.2|lang-python|Compliance mode enabled, was '20.29.2'|
 |virtualgl+32|2.5.2|3.1.2|runtime-optenv32|Compliance mode enabled, was '3.1.2'|
 |vkd3d|1.9|1.14|runtime-display|Compliance mode enabled, was '1.14'|
 |vkd3d+32|1.9|1.14|runtime-optenv32|Compliance mode enabled, was '1.14'|
