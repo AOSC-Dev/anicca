@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739175257?label=Updated)
+![Relative date](https://img.shields.io/date/1739178748?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -25,7 +25,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
-|aegisub|3.2.2<br>+git20231203|3.4.2|app-multimedia|Compliance mode enabled, was '3.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
@@ -782,7 +781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.16|app-i18n|Compliance mode enabled, was '1.5.16'|
 |ibus-chewing|1.6.1|2.1.3|app-i18n|Compliance mode enabled, was '2.1.3'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
-|ibus-libpinyin|1.12.0|1.15.94|app-i18n|Compliance mode enabled, was '1.15.94'|
+|ibus-libpinyin|1.12.0|1.16.0|app-i18n|Compliance mode enabled, was '1.16.0'|
 |ibus-m17n|1.4.7|1.4.35|app-i18n|Compliance mode enabled, was '1.4.35'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
 |ibus-rime|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
@@ -2651,7 +2650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.7|2.5.8|app-admin|Compliance mode enabled, was '2.5.8'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
-|thunar|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
+|thunar|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |thunar-archive-plugin|0.5.2|0.5.3|desktop-xfce|Compliance mode enabled, was '0.5.3'|
 |thunar-media-tags-plugin|0.3.0|0.5.0|desktop-xfce|Compliance mode enabled, was '0.5.0'|
 |thunar-shares-plugin|0.3.2|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
