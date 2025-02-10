@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739189907?label=Updated)
+![Relative date](https://img.shields.io/date/1739193617?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -675,7 +675,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gparted|1.6.0|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
-|gpgme|1.23.2|1.24.1|runtime-cryptography|Compliance mode enabled, was '1.24.1'|
+|gpgme|1.23.2|1.24.2|runtime-cryptography|Compliance mode enabled, was '1.24.2'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gradle|8.12.0|8.12.1|lang-java|Compliance mode enabled, was '8.12.1'|
 |granatier|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1526,7 +1526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4679|runtime-creativity|Compliance mode enabled, was '4679'|
+|llama.cpp|4615|4681|runtime-creativity|Compliance mode enabled, was '4681'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1788,7 +1788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencsg|1.5.1|1.7.0|runtime-imaging|Compliance mode enabled, was '1.7.0'|
 |opencv|4.9.0|4.11.0|runtime-scientific|Compliance mode enabled, was '4.11.0'|
 |openexr|3.1.8|3.3.2|runtime-imaging|Compliance mode enabled, was '3.3.2'|
-|openfortivpn|1.18.0|1.22.1|app-network|Compliance mode enabled, was '1.22.1'|
+|openfortivpn|1.18.0|1.23.0|app-network|Compliance mode enabled, was '1.23.0'|
 |openimagedenoise|1.4.3|2.3.2|runtime-imaging|Compliance mode enabled, was '2.3.2'|
 |openimageio|2.4.17.0|3.0.3.1|runtime-imaging|Compliance mode enabled, was '3.0.3.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
