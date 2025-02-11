@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739265060?label=Updated)
+![Relative date](https://img.shields.io/date/1739268697?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -334,8 +334,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.11|lang-python|Compliance mode enabled, was '2.0.11'|
 |cysignals|1.11.4|1.12.3|lang-python|Compliance mode enabled, was '1.12.3'|
-|cython|3.0.10|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
-|cython-0.29|0.29.36|3.0.11|lang-python|Compliance mode enabled, was '3.0.11'|
+|cython|3.0.10|3.0.12|lang-python|Compliance mode enabled, was '3.0.12'|
+|cython-0.29|0.29.36|3.0.12|lang-python|Compliance mode enabled, was '3.0.12'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|2.6.7|app-admin|Compliance mode enabled, was '2.6.7'|
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
@@ -2449,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.19.3|lang-python|Compliance mode enabled, was '3.19.3'|
-|sing-box|1.11.2|1.11.1|app-network|Compliance mode enabled, was '1.11.1'<br>Possible downgrade from the current version (1.11.2 -> 1.11.1)|
+|sing-box|1.11.2|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.8.3|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
