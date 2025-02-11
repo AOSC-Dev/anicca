@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739250641?label=Updated)
+![Relative date](https://img.shields.io/date/1739254414?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -73,6 +73,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.9.28|app-admin|Compliance mode enabled, was '2.9.28'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
+|arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
 |archlinux-keyring|20241015|20250123.1|app-admin|Compliance mode enabled, was '20250123.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
@@ -508,7 +509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flake8|7.0.0|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
 |flask|3.0.3|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
-|flatbuffers|2.0.6|25.1.24|runtime-common|Compliance mode enabled, was '25.1.24'|
+|flatbuffers|2.0.6|25.2.10|runtime-common|Compliance mode enabled, was '25.2.10'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.3|runtime-scientific|Compliance mode enabled, was '3.1.3'|
 |flit|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
