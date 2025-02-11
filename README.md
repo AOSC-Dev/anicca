@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739290429?label=Updated)
+![Relative date](https://img.shields.io/date/1739293775?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -19,7 +19,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
 |acl+32|2.2.52|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
 |acme|2.10.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
-|ada|2.9.1|3.0.1|runtime-web|Compliance mode enabled, was '3.0.1'|
+|ada|2.9.1|3.1.0|runtime-web|Compliance mode enabled, was '3.1.0'|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004r|desktop-fonts|Compliance mode enabled, was '2.004R'<br>Possible downgrade from the current version (2.004 -> 2.004r)|
 |adobe-source-han-serif|2.002|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'|
@@ -2062,6 +2062,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|lang-perl|Compliance mode enabled, was '0.005'|
 |pexpect|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
+|php|8.4.3|8.4.4|app-devel|Compliance mode enabled, was '8.4.4'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picard|2.12.3|2.13.2|app-multimedia|Compliance mode enabled, was '2.13.2'|
 |picmi|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -2306,7 +2307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtcreator|14.0.1|15.0.1|app-devel|Compliance mode enabled, was '15.0.1'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
-|qtpy|2.1.0|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
+|qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.3|app-multimedia|Compliance mode enabled, was '1.5.3'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |quazip|0.9.1|1.4|runtime-common|Compliance mode enabled, was '1.4'|
@@ -2316,7 +2317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
-|rapidfuzz-cpp|2.0.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
+|rapidfuzz-cpp|2.0.0|3.3.2|runtime-common|Compliance mode enabled, was '3.3.2'|
 |rarian|0.8.1|0.8.6|app-doc|Compliance mode enabled, was '0.8.6'|
 |razergenie|0.9.0|1.2.0|app-devices|Compliance mode enabled, was '1.2.0'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
