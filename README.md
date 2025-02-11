@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739286653?label=Updated)
+![Relative date](https://img.shields.io/date/1739290429?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -320,7 +320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.16.1|1.20|app-admin|Compliance mode enabled, was '1.20'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
-|cryptography|40.0.0|44.0.0|lang-python|Compliance mode enabled, was '44.0.0'|
+|cryptography|40.0.0|44.0.1|lang-python|Compliance mode enabled, was '44.0.1'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
@@ -1530,7 +1530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4686|runtime-creativity|Compliance mode enabled, was '4686'|
+|llama.cpp|4615|4688|runtime-creativity|Compliance mode enabled, was '4688'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1567,7 +1567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|desktop-lxde|Compliance mode enabled, was '0.10.1'|
 |lxqt-build-tools|0.8.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxterminal|0.3.2|0.4.0|desktop-lxde|Compliance mode enabled, was '0.4.0'|
-|lychee|0.15.1|0.18.0|app-web|Compliance mode enabled, was '0.18.0'|
+|lychee|0.15.1|0.18.1|app-web|Compliance mode enabled, was '0.18.1'|
 |lyx|2.4.0|2.4.3|app-doc|Compliance mode enabled, was '2.4.3'|
 |lzd|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |lzip|1.24.1|1.25|app-utils|Compliance mode enabled, was '1.25'|
@@ -1818,8 +1818,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.25.1|0.26.1|app-devices|Compliance mode enabled, was '0.26.1'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
-|openssl-1.1|1.1.1w|3.4.0|runtime-cryptography|Compliance mode enabled, was '3.4.0'|
-|openssl-1.1+32|1.1.1q|3.4.0|runtime-optenv32|Compliance mode enabled, was '3.4.0'|
+|openssl|3.4.0|3.4.1|runtime-cryptography|Compliance mode enabled, was '3.4.1'|
+|openssl+32|3.4.0|3.4.1|runtime-optenv32|Compliance mode enabled, was '3.4.1'|
+|openssl-1.1|1.1.1w|3.4.1|runtime-cryptography|Compliance mode enabled, was '3.4.1'|
+|openssl-1.1+32|1.1.1q|3.4.1|runtime-optenv32|Compliance mode enabled, was '3.4.1'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.0|runtime-common|Compliance mode enabled, was '12.0.0'|
@@ -2930,7 +2932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xkeyboard-config|2.40|2.44|runtime-display|Compliance mode enabled, was '2.44'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
 |xmlrpc-c|1.54.06|1.60.04|runtime-common|Compliance mode enabled, was '1.60.04'|
-|xmlsec|1.2.36|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
+|xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
 |xray|25.1.30|25.2.9|app-network|Compliance mode enabled, was '25.2.9'|
