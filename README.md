@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739280029?label=Updated)
+![Relative date](https://img.shields.io/date/1739282999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1729,7 +1729,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|nodejs-20|20.18.2|20.18.3|lang-js|Compliance mode enabled, was '20.18.3'|
 |nodejs-22|22.13.1|22.14.0|lang-js|Compliance mode enabled, was '22.14.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.0|1.18.2|lang-ruby|Compliance mode enabled, was '1.18.2'|
@@ -2933,6 +2932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.60.04|runtime-common|Compliance mode enabled, was '1.60.04'|
 |xmlsec|1.2.36|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
+|xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
 |xray|25.1.30|25.2.9|app-network|Compliance mode enabled, was '25.2.9'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
