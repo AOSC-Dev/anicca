@@ -2957,6 +2957,7 @@
 ["picard","2.12.3","2.13.2","app-multimedia",1734400021,["Compliance mode enabled, was '2.13.2'"]],
 ["gpodder","3.11.4","3.11.5","app-multimedia",1722228729,["Compliance mode enabled, was '3.11.5'"]],
 ["twolame","0.3.13","0.4.0","app-multimedia",1678950872,["Compliance mode enabled, was '0.4.0'"]],
+["handbrake","1.9.0","1.9.1","app-multimedia",1735219529,["Compliance mode enabled, was '1.9.1'"]],
 ["openh264","2.5.0","2.6.0","app-multimedia",1731640291,[]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
