@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739326261?label=Updated)
+![Relative date](https://img.shields.io/date/1739330146?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -227,7 +227,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|2.13.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
-|cava|0.10.3|0.10.4|app-multimedia|Compliance mode enabled, was '0.10.4'|
 |cbindgen|0.27.0|0.28.0|lang-rust|Compliance mode enabled, was '0.28.0'|
 |ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
 |ccls|0.20240202|0.20241108|app-devel|Compliance mode enabled, was '0.20241108'|
@@ -369,7 +368,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
-|difftastic|0.62.0|0.63.0|app-utils|Compliance mode enabled, was '0.63.0'|
 |digikam|8.4.0|8.5.0|desktop-kde|Compliance mode enabled, was '8.5.0'|
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -477,7 +475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fast-float|7.0.0|8.0.0|runtime-common|Compliance mode enabled, was '8.0.0'|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
-|fastfetch|2.36.0|2.36.1|app-utils|Compliance mode enabled, was '2.36.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -1593,7 +1590,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.9|lang-python|Compliance mode enabled, was '1.3.9'|
 |malcontent|0.10.5|0.13.0|runtime-desktop|Compliance mode enabled, was '0.13.0'|
 |man-pages|6.9.1|6.10|runtime-data||
-|mangohud|0.7.2|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'|
 |mangohud+32|0.7.2|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |marble|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mariadb|11.4.3|11.8.0|app-database|Compliance mode enabled, was '11.8.0'|
@@ -1734,7 +1730,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|4.9|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|nodejs-22|22.13.1|22.14.0|lang-js|Compliance mode enabled, was '22.14.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.0|1.18.2|lang-ruby|Compliance mode enabled, was '1.18.2'|
 |nomino|1.3.1|1.6.0|app-utils|Compliance mode enabled, was '1.6.0'|
@@ -1805,7 +1800,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.14-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.14-ga -> 17.0.2)|
-|openjdk-8|8u442-ga|8u452-b01|lang-java||
+|openjdk-8|8u442-ga|8u452-b02|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
@@ -2119,7 +2114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|podman|5.3.2|5.4.0|app-containers||
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
 |poetry|1.8.3|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
@@ -2781,7 +2775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.27.0|5.28.0|app-network|Compliance mode enabled, was '5.28.0'|
-|v2ray-rules-dat|202501302211|202502102212|runtime-data|Compliance mode enabled, was '202502102212'<br>Versions not comparable: `202501302211` and `202502102212`|
+|v2ray-rules-dat|202501302211|202502112211|runtime-data|Compliance mode enabled, was '202502112211'<br>Versions not comparable: `202501302211` and `202502112211`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
@@ -2801,7 +2795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1043|9.1.1105|app-editors|Compliance mode enabled, was '9.1.1105'|
+|vim|9.1.1043|9.1.1106|app-editors|Compliance mode enabled, was '9.1.1106'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2961,7 +2955,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.9.4|1.18.3|lang-python|Compliance mode enabled, was '1.18.3'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |yaz|5.34.0|5.34.3|runtime-web|Compliance mode enabled, was '5.34.3'|
-|yazi|25.2.7|25.2.11|app-utils|Compliance mode enabled, was '25.2.11'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.50|app-electronics|Compliance mode enabled, was '0.50'|
@@ -2978,7 +2971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
-|zeroconf|0.28.6|0.143.0|lang-python|Compliance mode enabled, was '0.143.0'|
+|zeroconf|0.28.6|0.144.1|lang-python|Compliance mode enabled, was '0.144.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
