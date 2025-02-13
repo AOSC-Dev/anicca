@@ -218,6 +218,7 @@
 ["qtermwidget","0.16.1","2.1.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.1.0'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.36.2","app-editors",1723441135,["Compliance mode enabled, was '1.36.2'"]],
+["vscodium","1.97.0.25037","1.97.1.25044","app-editors",1739246628,["Compliance mode enabled, was '1.97.1.25044'"]],
 ["sbcl","2.4.5","2.5.1","lang-lisp",1717074126,["Compliance mode enabled, was '2.5.1'"]],
 ["pylev","1.3.0","1.4.0","lang-python",1594100500,["Compliance mode enabled, was '1.4.0'"]],
 ["cock","0.6.0","0.11.0","lang-python",1607768363,["Compliance mode enabled, was '0.11.0'"]],
