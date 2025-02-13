@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739423600?label=Updated)
+![Relative date](https://img.shields.io/date/1739427226?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -1768,7 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrmypdf|16.5.0|16.9.0|app-doc|Compliance mode enabled, was '16.9.0'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.2.0|9.4.0|app-scientific|Compliance mode enabled, was '9.4.0'|
-|ofono|1.30|2.14|app-network|Compliance mode enabled, was '2.14'|
+|ofono|1.30|2.15|app-network|Compliance mode enabled, was '2.15'|
 |okteta|0.26.9|0.26.19|desktop-kde|Compliance mode enabled, was '0.26.19'|
 |okular|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
@@ -1859,7 +1859,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pango|1.52.2|1.56.1|runtime-desktop|Compliance mode enabled, was '1.56.1'|
 |pango+32|1.44.7|1.56.1|runtime-optenv32|Compliance mode enabled, was '1.56.1'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |pangomm-2.48|2.50.1|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
