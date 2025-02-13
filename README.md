@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739401536?label=Updated)
+![Relative date](https://img.shields.io/date/1739407159?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -749,7 +749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdf5|1.10.5|1.14.6|runtime-scientific|Compliance mode enabled, was '1.14.6'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
-|helm|3.16.1|3.17.0|app-containers|Compliance mode enabled, was '3.17.0'|
+|helm|3.16.1|3.17.1|app-containers|Compliance mode enabled, was '3.17.1'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
@@ -759,6 +759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hmcl|3.6.11|3.6.11.267|app-games|Compliance mode enabled, was '3.6.11.267'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
+|hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
@@ -1518,6 +1519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|runtime-optenv32|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.7.12 -> 5.19.17)|
 |linux+kernel|6.13.2|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.2 -> 5.19.17)|
 |linux+kernel+asahi|6.10.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.10.3 -> 5.19.17)|
+|linux+kernel+lts|6.12.13|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (6.12.13 -> 5.10.234)|
 |linux+kernel+rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'|
 |linux+kernel+retro+minimal|5.15.17|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (5.15.17 -> 5.10.234)|
@@ -1574,6 +1576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lziprecover|1.24|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lzlib|1.11|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |m17n-db|1.8.7|1.8.9|runtime-i18n|Compliance mode enabled, was '1.8.9'|
+|m17n-lib|1.8.4|1.8.5|runtime-i18n|Compliance mode enabled, was '1.8.5'|
 |m1n1|1.4.14|1.4.21|runtime-kernel||
 |m2crypto|0.38.0|0.43.0|lang-python|Compliance mode enabled, was '0.43.0'|
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
@@ -2790,7 +2793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1043|9.1.1106|app-editors|Compliance mode enabled, was '9.1.1106'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2975,7 +2977,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.2|lang-python|Compliance mode enabled, was '7.2'|
-|zoxide|0.9.4|0.9.6|app-utils|Compliance mode enabled, was '0.9.6'|
+|zoxide|0.9.4|0.9.7|app-utils|Compliance mode enabled, was '0.9.7'|
 |zram-generator|1.1.2|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zutils|1.7|1.14|app-utils|Compliance mode enabled, was '1.14'|
