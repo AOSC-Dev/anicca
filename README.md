@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739567345?label=Updated)
+![Relative date](https://img.shields.io/date/1739570973?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -72,7 +72,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.0.0|lang-python|Compliance mode enabled, was '3.49.0.0'|
-|apt|2.6.1|2.9.28|app-admin|Compliance mode enabled, was '2.9.28'|
+|apt|2.6.1|2.9.29|app-admin|Compliance mode enabled, was '2.9.29'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
@@ -2197,6 +2197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygccxml|2.1.0|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygit2|1.14.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
+|pyglet|1.3.2|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |pygments|2.18.0|2.19.1|lang-python|Compliance mode enabled, was '2.19.1'|
 |pygobject-3|3.48.2|3.51.0|lang-python|Compliance mode enabled, was '3.51.0'|
 |pygraphviz|1.5|1.14|lang-python|Compliance mode enabled, was '1.14'|
@@ -2205,7 +2206,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pylast|3.0.0|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
-|pylibacl|0.5.4|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|pylibacl|0.5.4|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'|
 |pylint|2.14.4|3.3.4|lang-python|Compliance mode enabled, was '3.3.4'|
 |pylsqpack|0.3.18|0.3.19|lang-python|Compliance mode enabled, was '0.3.19'|
 |pymarkups|3.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
