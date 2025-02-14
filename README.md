@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739509820?label=Updated)
+![Relative date](https://img.shields.io/date/1739513641?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -210,7 +210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
-|calibre|7.24.0|7.25.0|app-doc|Compliance mode enabled, was '7.25.0'|
+|calibre|7.24.0|7.26.0|app-doc|Compliance mode enabled, was '7.26.0'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -1534,7 +1534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4710|runtime-creativity|Compliance mode enabled, was '4710'|
+|llama.cpp|4615|4713|runtime-creativity|Compliance mode enabled, was '4713'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
