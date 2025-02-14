@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739542197?label=Updated)
+![Relative date](https://img.shields.io/date/1739545841?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -469,7 +469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exiv2|0.27.5|0.28.4|runtime-imaging|Compliance mode enabled, was '0.28.4'|
 |expat|2.6.2|2.6.4|runtime-common|Compliance mode enabled, was '2.6.4'|
 |expat+32|2.6.2|2.6.4|runtime-optenv32|Compliance mode enabled, was '2.6.4'|
-|extra-cmake-modules|5.115.0|6.10.0|app-devel|Compliance mode enabled, was '6.10.0'|
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
 |eza|0.19.0|0.20.21|app-utils|Compliance mode enabled, was '0.20.21'|
@@ -735,7 +734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
 |gupnp-igd|0.2.5|1.6.0|desktop-gnome|Compliance mode enabled, was '1.6.0'|
 |guvcview|2.1.0|2.2.1|app-devices|Compliance mode enabled, was '2.2.1'|
-|gvfs|1.50.2|1.57.1|desktop-gnome|Compliance mode enabled, was '1.57.1'|
+|gvfs|1.50.2|1.57.2|desktop-gnome|Compliance mode enabled, was '1.57.2'|
 |gwc|0.21<br>+19|0.22+06|app-multimedia|Compliance mode enabled, was '0.22-06'|
 |gwenhywfar|5.10.2|5.12.0|runtime-network|Compliance mode enabled, was '5.12.0'|
 |gwenview|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
