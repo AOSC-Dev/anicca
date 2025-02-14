@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739493562?label=Updated)
+![Relative date](https://img.shields.io/date/1739499100?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -850,7 +850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
-|jmol|14.30.0|16.3.7|app-scientific|Compliance mode enabled, was '16.3.7'|
+|jmol|14.30.0|16.3.9|app-scientific|Compliance mode enabled, was '16.3.9'|
 |josepy|1.13.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |json-c+32|0.13.1<br>+20180305|0.18|runtime-optenv32|Compliance mode enabled, was '0.18'|
 |json-glib|1.8.0|1.10.6|runtime-common|Compliance mode enabled, was '1.10.6'|
@@ -1165,7 +1165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktuberling|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kturtle|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kubectl|1.31.0|1.32.2|app-containers|Compliance mode enabled, was '1.32.2'|
-|kubo|0.29.0|0.33.1|app-network|Compliance mode enabled, was '0.33.1'|
+|kubo|0.29.0|0.33.2|app-network|Compliance mode enabled, was '0.33.2'|
 |kubrick|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kunitconversion|5.115.0|6.10.0|desktop-kde|Compliance mode enabled, was '6.10.0'|
 |kvantum|1.0.10|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
@@ -2384,7 +2384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-ffi|1.17.0|1.17.1|lang-ruby|Compliance mode enabled, was '1.17.1'|
 |ruby-gettext|3.2.9|3.5.1|lang-ruby|Compliance mode enabled, was '3.5.1'|
 |ruby-pkg-config|1.5.8|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
-|runc|1.1.14|1.2.4|app-admin|Compliance mode enabled, was '1.2.4'|
+|runc|1.1.14|1.2.5|app-admin|Compliance mode enabled, was '1.2.5'|
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
