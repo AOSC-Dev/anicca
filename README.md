@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739596284?label=Updated)
+![Relative date](https://img.shields.io/date/1739599928?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -191,7 +191,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
 |brltty|6.6|6.7|app-a11y|Compliance mode enabled, was '6.7'|
 |brotlipy|0.7.0|1.0.9.2|lang-python|Compliance mode enabled, was '1.0.9.2'|
-|btrfs-progs|6.12|6.13|app-admin|Compliance mode enabled, was '6.13'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -1198,7 +1197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
 |lazarus|3.2|3.8|lang-pascal|Compliance mode enabled, was '3.8'|
 |lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
-|lazygit|0.44.1|0.45.2|app-vcs|Compliance mode enabled, was '0.45.2'|
+|lazygit|0.44.1|0.46.0|app-vcs|Compliance mode enabled, was '0.46.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.9|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
@@ -2907,6 +2906,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-clipman-plugin|1.6.6|1.6.7|desktop-xfce|Compliance mode enabled, was '1.6.7'|
 |xfce4-cpufreq-plugin|1.2.8|1.2.9|desktop-xfce|Compliance mode enabled, was '1.2.9'|
 |xfce4-cpugraph-plugin|1.2.10|1.2.11|desktop-xfce|Compliance mode enabled, was '1.2.11'|
+|xfce4-diskperf-plugin|2.7.0|2.7.1|desktop-xfce|Compliance mode enabled, was '2.7.1'|
 |xfce4-fsguard-plugin|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-genmon-plugin|4.2.0|4.2.1|desktop-xfce|Compliance mode enabled, was '4.2.1'|
 |xfce4-mailwatch-plugin|1.3.1|1.3.2|desktop-xfce|Compliance mode enabled, was '1.3.2'|
