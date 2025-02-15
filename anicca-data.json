@@ -507,7 +507,7 @@
 ["bottle","0.12.18","0.13.2","lang-python",1581796620,["Compliance mode enabled, was '0.13.2'"]],
 ["python-dbusmock","0.22.0","0.34.2","lang-python",1678950872,["Compliance mode enabled, was '0.34.2'"]],
 ["pbr","6.0.0","6.1.1.0~b1","lang-python",1724639794,["Compliance mode enabled, was '6.1.1.0b1'"]],
-["poetry-core","1.9.0","2.0.1","lang-python",1724687573,["Compliance mode enabled, was '2.0.1'"]],
+["poetry-core","1.9.0","2.1.0","lang-python",1724687573,["Compliance mode enabled, was '2.1.0'"]],
 ["keystoneauth1","5.7.0","5.9.1","lang-python",1724639794,["Compliance mode enabled, was '5.9.1'"]],
 ["diff-match-patch","20200713","20241021","lang-python",1572507782,["Compliance mode enabled, was '20241021'"]],
 ["python-lz4","2.1.6","4.4.3","lang-python",1549919969,["Compliance mode enabled, was '4.4.3'"]],
