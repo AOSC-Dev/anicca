@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739632020?label=Updated)
+![Relative date](https://img.shields.io/date/1739635921?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -809,6 +809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick+7|7.1.1<br>+32|7.1.1+43|app-utils|Compliance mode enabled, was '7.1.1-43'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
+|img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
 |imhex|1.35.4|1.36.2|app-editors|Compliance mode enabled, was '1.36.2'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
@@ -1335,7 +1336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkomparediff2|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |libksane|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |libksba|1.6.6|1.6.7|runtime-cryptography|Compliance mode enabled, was '1.6.7'|
-|libkscreen|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
 |libksieve|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |libksquirrel-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libksysguard|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
@@ -2117,7 +2117,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
-|poetry|1.8.3|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
+|poetry|1.8.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |poetry-core|1.9.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
