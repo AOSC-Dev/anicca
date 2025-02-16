@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739672368?label=Updated)
+![Relative date](https://img.shields.io/date/1739675932?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -261,7 +261,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.264|133.0.6943.98|app-web|Compliance mode enabled, was '133.0.6943.98'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.9.1|3.9.2|app-devel|Compliance mode enabled, was '3.9.2'|
 |cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
 |cinnamon|5.8.3|6.4.7|groups|Compliance mode enabled, was '6.4.7'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -1165,7 +1164,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ktorrent-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ktouch|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|ktrip|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ktuberling|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kturtle|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kubectl|1.31.0|1.32.2|app-containers|Compliance mode enabled, was '1.32.2'|
@@ -1696,8 +1694,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |ncdu|1.16|2.7|app-utils|Compliance mode enabled, was '2.7'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250208|runtime-common|Compliance mode enabled, was '6.5-20250208'|
-|ncurses+32|6.4|6.5+20250208|runtime-optenv32|Compliance mode enabled, was '6.5-20250208'|
+|ncurses|6.4|6.5+20250215|runtime-common|Compliance mode enabled, was '6.5-20250215'|
+|ncurses+32|6.4|6.5+20250215|runtime-optenv32|Compliance mode enabled, was '6.5-20250215'|
 |nemo|5.8.3|6.4.4|desktop-cinnamon|Compliance mode enabled, was '6.4.4'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
