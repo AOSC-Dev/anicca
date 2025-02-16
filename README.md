@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739700572?label=Updated)
+![Relative date](https://img.shields.io/date/1739703990?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -308,7 +308,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containers-common|0.61.1|0.62.0|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |coreboot-utils|24.08|24.12|app-admin|Compliance mode enabled, was '24.12'|
-|corefreq|20170301|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'<br>Possible downgrade from the current version (20170301 -> 2.0.0)|
+|corefreq|20170301|2.0.1|app-utils|Compliance mode enabled, was '2.0.1'<br>Possible downgrade from the current version (20170301 -> 2.0.1)|
 |corrosion|0.4.10|0.5.1|app-devel|Compliance mode enabled, was '0.5.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
 |cpp-utilities|5.20.0|5.27.3|runtime-common|Compliance mode enabled, was '5.27.3'|
@@ -1040,7 +1040,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |klamav-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |klcddimmer-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kldap|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|kleopatra|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |klettres|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |klickety|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |klines|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
