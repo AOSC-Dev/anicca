@@ -218,7 +218,7 @@
 ["openexr","3.1.8","3.3.2","runtime-imaging",1687941313,["Compliance mode enabled, was '3.3.2'"]],
 ["lxqt-build-tools","0.8.0","2.1.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.1.0'"]],
 ["qtermwidget","0.16.1","2.1.0","desktop-lxqt",1610261237,["Compliance mode enabled, was '2.1.0'"]],
-["vim","9.1.1106","9.1.1113","app-editors",1739403770,["Compliance mode enabled, was '9.1.1113'"]],
+["vim","9.1.1106","9.1.1114","app-editors",1739403770,["Compliance mode enabled, was '9.1.1114'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.36.2","app-editors",1723441135,["Compliance mode enabled, was '1.36.2'"]],
 ["vscodium","1.97.0.25037","1.97.2.25045","app-editors",1739246628,["Compliance mode enabled, was '1.97.2.25045'"]],
