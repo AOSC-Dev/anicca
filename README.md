@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739679113?label=Updated)
+![Relative date](https://img.shields.io/date/1739682703?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -23,7 +23,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ada|2.9.1|3.1.0|runtime-web|Compliance mode enabled, was '3.1.0'|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004r|desktop-fonts|Compliance mode enabled, was '2.004R'<br>Possible downgrade from the current version (2.004 -> 2.004r)|
-|adobe-source-han-serif|2.002|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'|
+|adobe-source-han-serif|2.003|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'<br>Possible downgrade from the current version (2.003 -> 2.003r)|
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
@@ -1174,6 +1174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvantum|1.0.10|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
 |kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kvkbd-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|kvpnc-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kwallet|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kwallet-pam|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
 |kwalletmanager|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1528,7 +1529,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'|
 |linux+kernel+retro+minimal|5.15.17|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (5.15.17 -> 5.10.234)|
-|linux-firmware|20250208|20250211|runtime-kernel||
 |linux-kernel|6.13.2|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.2 -> 5.19.17)|
 |linux-kernel-lts|6.12.13|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.13 -> 5.19.17)|
 |linux-kernel-rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
@@ -2971,7 +2971,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.172.11|0.173.10|app-editors|Compliance mode enabled, was '0.173.10'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.145.0|lang-python|Compliance mode enabled, was '0.145.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
