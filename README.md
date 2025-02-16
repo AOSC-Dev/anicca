@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739722313?label=Updated)
+![Relative date](https://img.shields.io/date/1739725620?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2899,6 +2899,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20230318|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
+|xfce4-battery-plugin|1.1.5|1.1.6|desktop-xfce|Compliance mode enabled, was '1.1.6'|
 |xfce4-calculator-plugin|0.7.2|0.7.3|desktop-xfce|Compliance mode enabled, was '0.7.3'|
 |xfce4-clipman-plugin|1.6.6|1.6.7|desktop-xfce|Compliance mode enabled, was '1.6.7'|
 |xfce4-cpufreq-plugin|1.2.8|1.2.9|desktop-xfce|Compliance mode enabled, was '1.2.9'|

@@ -2254,6 +2254,7 @@
 ["xfmpc","0.3.1","0.3.0","desktop-xfce",1734759343,["Compliance mode enabled, was '0.3.0'","Possible downgrade from the current version (0.3.1 -> 0.3.0)"]],
 ["xfce4-stopwatch-plugin","0.5.0","0.5.2","desktop-xfce",1627014309,["Compliance mode enabled, was '0.5.2'"]],
 ["xfce4-xkb-plugin","0.8.3","0.8.5","desktop-xfce",1675145503,["Compliance mode enabled, was '0.8.5'"]],
+["xfce4-battery-plugin","1.1.5","1.1.6","desktop-xfce",1706025816,["Compliance mode enabled, was '1.1.6'"]],
 ["xfce4-mpc-plugin","0.5.3","0.5.5","desktop-xfce",1706025816,["Compliance mode enabled, was '0.5.5'"]],
 ["catfish","4.18.0","4.20.0","desktop-xfce",1706025816,["Compliance mode enabled, was '4.20.0'"]],
 ["xfce4-notes-plugin","1.11.0","1.11.2","desktop-xfce",1715161763,["Compliance mode enabled, was '1.11.2'"]],
