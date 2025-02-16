@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739743716?label=Updated)
+![Relative date](https://img.shields.io/date/1739747400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2119,8 +2119,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
-|poetry|1.8.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|poetry-core|1.9.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
+|poetry|1.8.3|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
+|poetry-core|1.9.0|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |polkit-agent-tde-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2778,7 +2778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.27.0|5.29.0|app-network|Compliance mode enabled, was '5.29.0'|
-|v2ray-rules-dat|202501302211|202502152211|runtime-data|Compliance mode enabled, was '202502152211'<br>Versions not comparable: `202501302211` and `202502152211`|
+|v2ray-rules-dat|202501302211|202502162210|runtime-data|Compliance mode enabled, was '202502162210'<br>Versions not comparable: `202501302211` and `202502162210`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
