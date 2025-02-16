@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739675932?label=Updated)
+![Relative date](https://img.shields.io/date/1739679113?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1164,6 +1164,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ktorrent-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ktouch|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
+|ktrip|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ktuberling|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kturtle|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kubectl|1.31.0|1.32.2|app-containers|Compliance mode enabled, was '1.32.2'|
@@ -1173,7 +1174,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvantum|1.0.10|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
 |kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kvkbd-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kvpnc-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kwallet|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kwallet-pam|5.27.11|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
 |kwalletmanager|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
