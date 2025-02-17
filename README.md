@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739765579?label=Updated)
+![Relative date](https://img.shields.io/date/1739769103?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -66,6 +66,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
+|aoscbootstrap|0.8.1|0.8.2|app-utils|Compliance mode enabled, was '0.8.2'|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
 |apicula|0.14|0.15|app-electronics|Compliance mode enabled, was '0.15'|
 |apparmor|3.0.8|4.0.3|app-admin|Compliance mode enabled, was '4.0.3'|
@@ -73,7 +74,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.0.0|lang-python|Compliance mode enabled, was '3.49.0.0'|
-|apt|2.6.1|2.9.29+exp2|app-admin|Compliance mode enabled, was '2.9.29+exp2'|
+|apt|2.6.1|2.9.30|app-admin|Compliance mode enabled, was '2.9.30'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
