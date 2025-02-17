@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739783545?label=Updated)
+![Relative date](https://img.shields.io/date/1739787096?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2758,7 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
-|unrar|6.2.2|7.1.3|app-utils|Compliance mode enabled, was '7.1.3'|
+|unrar|6.2.2|7.1.4|app-utils|Compliance mode enabled, was '7.1.4'|
 |unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
 |unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |upower|1.90.6|1.90.7|app-admin|Compliance mode enabled, was '1.90.7'|
@@ -2833,6 +2833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|2024.12.30.00|2025.02.10.00|app-utils|Compliance mode enabled, was '2025.02.10.00'|
 |wavpack+32|5.2.0|5.8.1|runtime-optenv32|Compliance mode enabled, was '5.8.1'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
+|wayland-protocols|1.40|1.41|app-devel|Compliance mode enabled, was '1.41'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
@@ -2923,6 +2924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-wavelan-plugin|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
 |xfce4-whiskermenu-plugin|2.8.3|2.9.1|desktop-xfce|Compliance mode enabled, was '2.9.1'|
 |xfce4-xkb-plugin|0.8.3|0.8.5|desktop-xfce|Compliance mode enabled, was '0.8.5'|
+|xfdesktop|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |xfe|1.46.1|2.0|app-utils|Compliance mode enabled, was '2.0'|
 |xfmpc|0.3.1|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.3.1 -> 0.3.0)|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
