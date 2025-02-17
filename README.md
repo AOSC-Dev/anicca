@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739819066?label=Updated)
+![Relative date](https://img.shields.io/date/1739823148?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1582,7 +1582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-db|1.8.7|1.8.9|runtime-i18n|Compliance mode enabled, was '1.8.9'|
 |m17n-lib|1.8.4|1.8.5|runtime-i18n|Compliance mode enabled, was '1.8.5'|
 |m1n1|1.4.14|1.4.21|runtime-kernel||
-|m2crypto|0.38.0|0.43.0|lang-python|Compliance mode enabled, was '0.43.0'|
+|m2crypto|0.38.0|0.44.0|lang-python|Compliance mode enabled, was '0.44.0'|
 |m2r|0.2.1|0.3.1|app-doc|Compliance mode enabled, was '0.3.1'|
 |m3u8|0.7.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |m4rie|20200125|20250103|runtime-scientific|Compliance mode enabled, was '20250103'|
@@ -1618,7 +1618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |mcfly|0.9.2|0.9.3|app-utils|Compliance mode enabled, was '0.9.3'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
-|mdbook|0.4.40|0.4.44|app-doc|Compliance mode enabled, was '0.4.44'|
+|mdbook|0.4.40|0.4.45|app-doc|Compliance mode enabled, was '0.4.45'|
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |meld|3.22.2|3.22.3|desktop-gnome|Compliance mode enabled, was '3.22.3'|
@@ -1680,7 +1680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mupdf|1.24.10|1.25.4|app-doc|Compliance mode enabled, was '1.25.4'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
 |mutter|42.4|47.5|desktop-gnome|Compliance mode enabled, was '47.5'|
-|mvfst|2024.12.30.00|2025.02.10.00|runtime-network|Compliance mode enabled, was '2025.02.10.00'|
+|mvfst|2024.12.30.00|2025.02.17.00|runtime-network|Compliance mode enabled, was '2025.02.17.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -1830,7 +1830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.0|runtime-common|Compliance mode enabled, was '12.0.0'|
 |openvpn|2.5.4|2.6.13|app-network|Compliance mode enabled, was '2.6.13'|
-|openvswitch|3.0.3|3.4.1|app-network|Compliance mode enabled, was '3.4.1'|
+|openvswitch|3.0.3|3.5.0|app-network|Compliance mode enabled, was '3.5.0'|
 |optipng|0.7.7|0.7.8|app-utils|Compliance mode enabled, was '0.7.8'|
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
@@ -2830,7 +2830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wangle|2024.12.30.00|2025.02.17.00|runtime-network|Compliance mode enabled, was '2025.02.17.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
-|watchman|2024.12.30.00|2025.02.10.00|app-utils|Compliance mode enabled, was '2025.02.10.00'|
+|watchman|2024.12.30.00|2025.02.17.00|app-utils|Compliance mode enabled, was '2025.02.17.00'|
 |wavpack+32|5.2.0|5.8.1|runtime-optenv32|Compliance mode enabled, was '5.8.1'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wayland-protocols|1.40|1.41|app-devel|Compliance mode enabled, was '1.41'|
