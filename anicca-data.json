@@ -2974,7 +2974,7 @@
 ["rhythmbox","3.4.7","3.4.8","app-multimedia",1718074232,["Compliance mode enabled, was '3.4.8'"]],
 ["zvm","0.8.5","6.0.0","lang-ziglang",1737622468,["Compliance mode enabled, was '6.0.0'"]],
 ["sqlitebrowser","3.12.1","83649a3-3357","app-database",1620461770,["Compliance mode enabled, was '83649a3-3357'"]],
-["postgresql","13.17","17.3","app-database",1731825625,["Compliance mode enabled, was '17.3'"]],
+["postgresql","13.19","17.3","app-database",1739763862,["Compliance mode enabled, was '17.3'"]],
 ["mariadb","11.4.3","11.8.1","app-database",1723950739,["Compliance mode enabled, was '11.8.1'"]],
 ["kyotocabinet","1.2.79","1.2.80","app-database",1600106563,["Compliance mode enabled, was '1.2.80'"]],
 ["tdb","1.4.10","1.4.13","app-database",1716802930,["Compliance mode enabled, was '1.4.13'"]],

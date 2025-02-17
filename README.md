@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739762321?label=Updated)
+![Relative date](https://img.shields.io/date/1739765579?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2134,7 +2134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |postfix|3.7.3|3.9.2|app-web|Compliance mode enabled, was '3.9.2'|
-|postgresql|13.17|17.3|app-database|Compliance mode enabled, was '17.3'|
+|postgresql|13.19|17.3|app-database|Compliance mode enabled, was '17.3'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |power-profiles-daemon|0.21|0.23|app-admin|Compliance mode enabled, was '0.23'|
 |powerdevil|5.27.12|6.3.0|desktop-kde|Compliance mode enabled, was '6.3.0'|
