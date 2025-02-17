@@ -2461,7 +2461,7 @@
 ["tali","40.8","40.9","desktop-gnome",1663210244,["Compliance mode enabled, was '40.9'"]],
 ["gnome-initial-setup","42.2","47.4","desktop-gnome",1663210243,["Compliance mode enabled, was '47.4'"]],
 ["glibmm","2.66.2","2.83.1","desktop-gnome",1643987215,["Compliance mode enabled, was '2.83.1'"]],
-["xdg-desktop-portal-gnome","42.3","47.2","desktop-gnome",1663210251,["Compliance mode enabled, was '47.2'"]],
+["xdg-desktop-portal-gnome","42.3","47.3","desktop-gnome",1663210251,["Compliance mode enabled, was '47.3'"]],
 ["gnome-weather","42.0","47.0","desktop-gnome",1663210243,["Compliance mode enabled, was '47.0'"]],
 ["gtkmm-4","4.14.0","4.17.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.17.0'"]],
 ["gupnp-dlna","0.10.5","0.12.0","desktop-gnome",1466916541,["Compliance mode enabled, was '0.12.0'"]],
