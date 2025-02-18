@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739866439?label=Updated)
+![Relative date](https://img.shields.io/date/1739869866?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1127,7 +1127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krename-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kreversi|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |krfb|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|krita|5.2.2|5.2.9|app-creativity|Compliance mode enabled, was '5.2.9'|
 |kross|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kruler|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |krunner|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -1825,6 +1824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.25.1|0.26.1|app-devices|Compliance mode enabled, was '0.26.1'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
+|openssh|9.9p1|9.9p2|app-network|Compliance mode enabled, was '9.9p2'|
 |openssl-1.1|1.1.1w|3.4.1|runtime-cryptography|Compliance mode enabled, was '3.4.1'|
 |openssl-1.1+32|1.1.1q|3.4.1|runtime-optenv32|Compliance mode enabled, was '3.4.1'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
@@ -2776,7 +2776,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
-|uv|0.6.0|0.6.1|lang-python|Compliance mode enabled, was '0.6.1'|
 |v2ray|5.28.0|5.29.0|app-network|Compliance mode enabled, was '5.29.0'|
 |v2ray-rules-dat|202501302211|202502172211|runtime-data|Compliance mode enabled, was '202502172211'<br>Versions not comparable: `202501302211` and `202502172211`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
@@ -2990,7 +2989,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zutils|1.7|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |zvbi|0.2.35|0.2.43|runtime-multimedia|Compliance mode enabled, was '0.2.43'|
-|zvm|0.8.5|6.0.0|lang-ziglang|Compliance mode enabled, was '6.0.0'|
 |zxing-cpp|2.2.1|2.3.0|app-utils|Compliance mode enabled, was '2.3.0'|
 |zxtune|5053|5081|app-multimedia|Compliance mode enabled, was '5081'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
