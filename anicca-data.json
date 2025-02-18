@@ -74,6 +74,7 @@
 ["iftop","1.0pre4","0.17","app-network",1473801480,["Compliance mode enabled, was '0.17'","Possible downgrade from the current version (1.0pre4 -> 0.17)"]],
 ["siege","4.0.7","4.1.7","app-network",1600577920,["Compliance mode enabled, was '4.1.7'"]],
 ["nftables","1.0.9","1.1.1","app-network",1600577920,["Compliance mode enabled, was '1.1.1'"]],
+["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
 ["varnish","7.5.0","7.6.1","app-network",1718805904,["Compliance mode enabled, was '7.6.1'"]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["strongswan","5.9.4","6.0.0","app-network",1635182670,["Compliance mode enabled, was '6.0.0'"]],
