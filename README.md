@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739898749?label=Updated)
+![Relative date](https://img.shields.io/date/1739902497?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -32,6 +32,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
 |aiohttp|3.7.4.post0|3.11.12|lang-python|Compliance mode enabled, was '3.11.12'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
+|akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |akonadi-calendar|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |akonadi-calendar-tools|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1000,6 +1001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.12|6.3.1|desktop-kde|Compliance mode enabled, was '6.3.1'|
 |khtml|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |ki18n|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|kicad|8.0.8|8.0.9|app-electronics|Compliance mode enabled, was '8.0.9'|
 |kiconthemes|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -2486,6 +2488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundkonverter-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
+|soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.6|app-web|Compliance mode enabled, was '1.0.6'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
@@ -2715,7 +2718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio-websocket|0.11.1|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |trivy|0.55.0|0.59.1|app-devel|Compliance mode enabled, was '0.59.1'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
-|trove-classifiers|2024.1.31|2025.1.15.22|lang-python|Compliance mode enabled, was '2025.1.15.22'|
+|trove-classifiers|2024.1.31|2025.2.18.16|lang-python|Compliance mode enabled, was '2025.2.18.16'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
