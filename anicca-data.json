@@ -2083,6 +2083,7 @@
 ["zola","0.19.2","0.20.0","app-web",1723786574,["Compliance mode enabled, was '0.20.0'"]],
 ["firefox","135.0","135.0.1","app-web",1738846120,["Compliance mode enabled, was '135.0.1'"]],
 ["dovecot","2.3.21","2.4.0","app-web",1723046029,["Compliance mode enabled, was '2.4.0'"]],
+["lychee","0.15.1","0.18.1","app-web",1715444831,["Compliance mode enabled, was '0.18.1'"]],
 ["qownnotes","22.6.1","25.2.7","app-web",1659588927,["Compliance mode enabled, was '25.2.7'"]],
 ["neomutt","20241114","20250113","app-web",1732592154,["Compliance mode enabled, was '20250113'"]],
 ["chromium","131.0.6778.264","133.0.6943.98","app-web",1736556819,["Compliance mode enabled, was '133.0.6943.98'"]],
