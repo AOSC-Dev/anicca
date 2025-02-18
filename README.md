@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739887852?label=Updated)
+![Relative date](https://img.shields.io/date/1739891490?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2518,8 +2518,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
 |sqlalchemy|1.2.18|2.0.38|lang-python|Compliance mode enabled, was '2.0.38'|
 |sqlcipher|4.5.6|4.6.1|app-database|Compliance mode enabled, was '4.6.1'|
-|sqlite|3.46.1|3.49.0|app-database|Compliance mode enabled, was '3.49.0'|
-|sqlite+32|3.32.3|3.49.0|runtime-optenv32|Compliance mode enabled, was '3.49.0'|
+|sqlite|3.46.1|3.49.1|app-database|Compliance mode enabled, was '3.49.1'|
+|sqlite+32|3.32.3|3.49.1|runtime-optenv32|Compliance mode enabled, was '3.49.1'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.9.2|app-penetration|Compliance mode enabled, was '1.9.2'|
