@@ -114,6 +114,7 @@
 ["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["gigolo","0.5.3","0.5.4","app-network",1706025816,["Compliance mode enabled, was '0.5.4'"]],
+["noip","2.1.9","3.0.0","app-network",1723362514,["Compliance mode enabled, was '3.0.0'"]],
 ["fping","5.1","5.3","app-network",1711266244,["Compliance mode enabled, was '5.3'"]],
 ["iptraf-ng","1.1.4","1.2.2","app-network",1473801763,["Compliance mode enabled, was '1.2.2'"]],
 ["socat","1.8.0.0","1.8.0.2","app-network",1715027680,["Compliance mode enabled, was '1.8.0.2'"]],
