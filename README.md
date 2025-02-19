@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739956288?label=Updated)
+![Relative date](https://img.shields.io/date/1739959858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -14,7 +14,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |abseil-cpp|20240722.0|20250127.0|runtime-common|Compliance mode enabled, was '20250127.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
-|acbs|20250219|20241103|app-devel|Compliance mode enabled, was '20241103'<br>Possible downgrade from the current version (20250219 -> 20241103)|
 |accerciser|3.40.0|3.46.2|desktop-gnome|Compliance mode enabled, was '3.46.2'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.7.0|3.8.1|app-utils|Compliance mode enabled, was '3.8.1'|
@@ -521,8 +520,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatbuffers|2.0.6|25.2.10|runtime-common|Compliance mode enabled, was '25.2.10'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.3|runtime-scientific|Compliance mode enabled, was '3.1.3'|
-|flit|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
-|flit-core|3.9.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
+|flit|3.9.0|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
+|flit-core|3.9.0|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |fltk|1.3.5|1.4.1|runtime-desktop|Compliance mode enabled, was '1.4.1'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.3|app-multimedia|Compliance mode enabled, was '2.4.3'|
