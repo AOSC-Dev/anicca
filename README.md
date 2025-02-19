@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739920224?label=Updated)
+![Relative date](https://img.shields.io/date/1739925589?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -376,7 +376,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
-|discord|0.0.85|0.0.86|app-web|Compliance mode enabled, was '0.0.86'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.3.1|desktop-kde|Compliance mode enabled, was '6.3.1'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -685,6 +684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.161.0|lang-python|Compliance mode enabled, was '2.161.0'|
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|133.0.6943.98|133.0.6943.126|app-web|Compliance mode enabled, was '133.0.6943.126'|
 |goreleaser|2.2.0|2.7.0|lang-golang|Compliance mode enabled, was '2.7.0'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gparted|1.6.0|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
@@ -1739,7 +1739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
-|nokogiri|1.18.0|1.18.2|lang-ruby|Compliance mode enabled, was '1.18.2'|
+|nokogiri|1.18.0|1.18.3|lang-ruby|Compliance mode enabled, was '1.18.3'|
 |nomino|1.3.1|1.6.0|app-utils|Compliance mode enabled, was '1.6.0'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
