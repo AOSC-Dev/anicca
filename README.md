@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739995863?label=Updated)
+![Relative date](https://img.shields.io/date/1739999399?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -154,7 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.13.3|lang-python|Compliance mode enabled, was '4.13.3'|
 |benchmark|1.8.2|1.9.1|runtime-common|Compliance mode enabled, was '1.9.1'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|bili-sync|2.1.1|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
+|bili-sync|2.1.1|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |bind|9.20.4|9.20.6|app-network|Compliance mode enabled, was '9.20.6'|
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
 |binutils+32|2.42|2.44|runtime-optenv32|Compliance mode enabled, was '2.44'|
@@ -177,8 +177,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.36.23|lang-python|Compliance mode enabled, was '1.36.23'|
-|botocore|1.34.133|1.36.23|lang-python|Compliance mode enabled, was '1.36.23'|
+|boto3|1.20.26|1.36.24|lang-python|Compliance mode enabled, was '1.36.24'|
+|botocore|1.34.133|1.36.24|lang-python|Compliance mode enabled, was '1.36.24'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.18|app-utils|Compliance mode enabled, was '51.18'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.18)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -2358,12 +2358,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
-|rocm-bandwidth-test|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
-|rocm-cmake|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
-|rocm-llvm|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
-|rocm-smi-lib|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
-|rocminfo|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
-|rocr-runtime|6.0.2|6.3.2|runtime-rocm|Compliance mode enabled, was '6.3.2'|
+|rocm-bandwidth-test|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocm-cmake|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocm-llvm|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocm-smi-lib|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocminfo|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocr-runtime|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
 |rocs|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden|24.12|24.12.1|app-creativity|Compliance mode enabled, was '24.12.1'|
@@ -2861,7 +2861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |winetricks|20240105|20250102|app-emulation|Compliance mode enabled, was '20250102'|
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
-|wireshark|4.4.0|4.4.3|app-network|Compliance mode enabled, was '4.4.3'|
+|wireshark|4.4.0|4.4.4|app-network|Compliance mode enabled, was '4.4.4'|
 |wlroots|0.17.4|0.18.2|runtime-display|Compliance mode enabled, was '0.18.2'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.6-stable|runtime-cryptography|Compliance mode enabled, was '5.7.6-stable'|
