@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739967458?label=Updated)
+![Relative date](https://img.shields.io/date/1739971077?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -480,6 +480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fast-float|7.0.0|8.0.0|runtime-common|Compliance mode enabled, was '8.0.0'|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
+|fastfetch|2.36.1|2.37.0|app-utils|Compliance mode enabled, was '2.37.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
@@ -1308,7 +1309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libid3tag|0.15.1b|0.16.3|runtime-multimedia|Compliance mode enabled, was '0.16.3'|
 |libid3tag+32|0.15.1b|0.16.3|runtime-optenv32|Compliance mode enabled, was '0.16.3'|
 |libidn+32|1.33|1.42|runtime-optenv32|Compliance mode enabled, was '1.42'|
-|libindi|2.1.1|2.1.2|runtime-scientific|Compliance mode enabled, was '2.1.2'|
+|libindi|2.1.1|2.1.2.1|runtime-scientific|Compliance mode enabled, was '2.1.2.1'|
 |libinput|1.27.0|1.27.1|runtime-devices|Compliance mode enabled, was '1.27.1'|
 |libintl-perl|1.29|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
@@ -1401,7 +1402,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.47|runtime-optenv32|Compliance mode enabled, was '1.6.47'|
 |libpng-1.6+32|1.6.43|1.6.47|runtime-optenv32|Compliance mode enabled, was '1.6.47'|
 |libportal|0.9.0|0.9.1|runtime-desktop|Compliance mode enabled, was '0.9.1'|
-|libppd|2.0.0|2.1.0|runtime-doc|Compliance mode enabled, was '2.1.0'|
+|libppd|2.0.0|2.1.1|runtime-doc|Compliance mode enabled, was '2.1.1'|
 |libpqxx|6.4.5|7.10.0|runtime-database|Compliance mode enabled, was '7.10.0'|
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
@@ -1541,7 +1542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4739|runtime-creativity|Compliance mode enabled, was '4739'|
+|llama.cpp|4615|4743|runtime-creativity|Compliance mode enabled, was '4743'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -2923,7 +2924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-terminal|1.1.3|1.1.4|desktop-xfce|Compliance mode enabled, was '1.1.4'|
 |xfce4-timer-plugin|1.7.2|1.7.3|desktop-xfce|Compliance mode enabled, was '1.7.3'|
 |xfce4-wavelan-plugin|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
-|xfce4-whiskermenu-plugin|2.8.3|2.9.1|desktop-xfce|Compliance mode enabled, was '2.9.1'|
+|xfce4-whiskermenu-plugin|2.8.3|2.9.2|desktop-xfce|Compliance mode enabled, was '2.9.2'|
 |xfce4-xkb-plugin|0.8.3|0.8.5|desktop-xfce|Compliance mode enabled, was '0.8.5'|
 |xfdesktop|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |xfe|1.46.1|2.0|app-utils|Compliance mode enabled, was '2.0'|
