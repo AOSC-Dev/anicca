@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739999399?label=Updated)
+![Relative date](https://img.shields.io/date/1740003103?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2025,7 +2025,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
 |perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
 |perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
-|perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.146|lang-perl|Compliance mode enabled, was '0.146'|
 |perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
 |perl-proc-processtable|0.56|0.636|lang-perl|Compliance mode enabled, was '0.636'|
@@ -2235,7 +2234,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt6-webengine|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
-|pyscard|1.9.9|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.16|lang-python|Compliance mode enabled, was '5.15.16'|
 |pysmbc|1.0.22|1.0.25.1|lang-python|Compliance mode enabled, was '1.0.25.1'|
@@ -2370,7 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
-|rpm|4.18.0|4.20.0-release|app-admin|Compliance mode enabled, was '4.20.0-release'|
+|rpm|4.18.0|4.20.1-release|app-admin|Compliance mode enabled, was '4.20.1-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |rsa|4.0|4.9|lang-python|Compliance mode enabled, was '4.9'|
 |rt-tests|2.6|2.8|app-utils|Compliance mode enabled, was '2.8'|
@@ -2513,7 +2511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxcontrib-websupport|1.2.4|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
-|spirv-headers|1.3.283.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
 |spirv-llvm-translator|18.1.0|19.1.4|app-devel|Compliance mode enabled, was '19.1.4'|
 |spirv-tools|1.3.275.0|2024.3|runtime-display|Compliance mode enabled, was '2024.3'|
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
