@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1739949052?label=Updated)
+![Relative date](https://img.shields.io/date/1739952845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -14,6 +14,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |abseil-cpp|20240722.0|20250127.0|runtime-common|Compliance mode enabled, was '20250127.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
+|acbs|20250219|20241103|app-devel|Compliance mode enabled, was '20241103'<br>Possible downgrade from the current version (20250219 -> 20241103)|
 |accerciser|3.40.0|3.46.2|desktop-gnome|Compliance mode enabled, was '3.46.2'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.7.0|3.8.1|app-utils|Compliance mode enabled, was '3.8.1'|
@@ -262,7 +263,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.264|133.0.6943.126|app-web|Compliance mode enabled, was '133.0.6943.126'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.9.2|3.9.3|app-devel|Compliance mode enabled, was '3.9.3'|
 |cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
 |cinnamon|5.8.3|6.4.7|groups|Compliance mode enabled, was '6.4.7'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -685,7 +685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.161.0|lang-python|Compliance mode enabled, was '2.161.0'|
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|133.0.6943.98|133.0.6943.126|app-web|Compliance mode enabled, was '133.0.6943.126'|
 |goreleaser|2.2.0|2.7.0|lang-golang|Compliance mode enabled, was '2.7.0'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |gparted|1.6.0|1.7.0|app-admin|Compliance mode enabled, was '1.7.0'|
@@ -2289,7 +2288,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
 |qdiskinfo|0.3|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.3 -> 0.1)|
-|qemu|9.2.0|9.2.1|app-virtualization|Compliance mode enabled, was '9.2.1'|
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
 |qhull|7.2.0|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'|
 |qjackctl|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
