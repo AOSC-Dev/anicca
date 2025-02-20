@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740039213?label=Updated)
+![Relative date](https://img.shields.io/date/1740042646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1390,6 +1390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.1|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
+|libphonenumber|8.13.38|8.13.55|runtime-i18n|Compliance mode enabled, was '8.13.55'|
 |libpinyin|2.6.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
@@ -1913,7 +1914,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-data-inheritable|0.08|0.10|lang-perl|Compliance mode enabled, was '0.10'|
 |perl-class-inspector|1.28|1.36|lang-perl|Compliance mode enabled, was '1.36'|
 |perl-class-method-modifiers|2.12|2.15|lang-perl|Compliance mode enabled, was '2.15'|
-|perl-class-methodmaker|2.24|2.25|lang-perl|Compliance mode enabled, was '2.25'|
 |perl-class-singleton|1.5|1.6|lang-perl|Compliance mode enabled, was '1.6'|
 |perl-clone|0.46|0.47|lang-perl|Compliance mode enabled, was '0.47'|
 |perl-common-sense|3.74|3.75|lang-perl|Compliance mode enabled, was '3.75'|
