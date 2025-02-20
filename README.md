@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740060617?label=Updated)
+![Relative date](https://img.shields.io/date/1740064306?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2129,7 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19<br>+20140130|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |postfix|3.7.3|3.10.0|app-web|Compliance mode enabled, was '3.10.0'|
-|postgresql|13.19|17.3|app-database|Compliance mode enabled, was '17.3'|
+|postgresql|13.19|17.4|app-database|Compliance mode enabled, was '17.4'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |power-profiles-daemon|0.21|0.30|app-admin|Compliance mode enabled, was '0.30'|
 |powerdevil|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
@@ -2533,7 +2533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|24.3|24.4|app-scientific|Compliance mode enabled, was '24.4'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|stevedore|5.2.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
+|stevedore|5.2.0|5.4.1|lang-python|Compliance mode enabled, was '5.4.1'|
 |sticky|1.20|1.24|desktop-cinnamon|Compliance mode enabled, was '1.24'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
@@ -2656,7 +2656,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
 |thunderbird|128.7.0|128.7.1|app-web||
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
-|tigervnc|1.14.1|1.15.0|app-network||
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
