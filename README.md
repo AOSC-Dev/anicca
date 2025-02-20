@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740049795?label=Updated)
+![Relative date](https://img.shields.io/date/1740053817?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2095,7 +2095,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-pa|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-pk-updates|0.3.2|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-sdk|5.27.12.1|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
-|plasma-settings|22.06|24.02.0|desktop-kde|Compliance mode enabled, was '24.02.0'|
+|plasma-settings|22.06|25.02.0|desktop-kde|Compliance mode enabled, was '25.02.0'|
 |plasma-systemmonitor|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-thunderbolt|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-vault|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
