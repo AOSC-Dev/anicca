@@ -2730,7 +2730,6 @@
 ["iozone","3.492","3.507","app-admin",1641887332,["Compliance mode enabled, was '3.507'"]],
 ["power-profiles-daemon","0.21","0.30","app-admin",1715831466,["Compliance mode enabled, was '0.30'"]],
 ["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
-["gparted","1.6.0","1.7.0","app-admin",1709533599,["Compliance mode enabled, was '1.7.0'"]],
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
 ["cups-browsed","2.0.1","2.1.1","app-admin",1727401649,["Compliance mode enabled, was '2.1.1'"]],
 ["seatd","0.8.0","0.9.1","app-admin",1709617339,["Compliance mode enabled, was '0.9.1'"]],
