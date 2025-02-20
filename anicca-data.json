@@ -970,7 +970,6 @@
 ["shaderc","2023.7","2024.4","app-devel",1700548607,["Compliance mode enabled, was '2024.4'"]],
 ["repo","2.45","2.52","app-devel",1717055917,["Compliance mode enabled, was '2.52'"]],
 ["gammaray","2.11.2","3.1.0","app-devel",1601267869,["Compliance mode enabled, was '3.1.0'"]],
-["capstone","5.0.3","5.0.5","app-devel",1734602480,["Compliance mode enabled, was '5.0.5'"]],
 ["sunxi-tools","1.4.2+git20220729","1.4.2","app-devel",1669531930,["Compliance mode enabled, was '1.4.2'"]],
 ["vasm","1.9f","2.0.a","app-devel",1710150622,["Compliance mode enabled, was '2.0.a'"]],
 ["radare2","5.9.4","5.9.8","app-devel",1728365718,["Compliance mode enabled, was '5.9.8'"]],
