@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740089527?label=Updated)
+![Relative date](https://img.shields.io/date/1740093155?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -539,6 +539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
 |fplll|5.4.5|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
+|fprintd|1.94.4|1.94.5|app-admin|Compliance mode enabled, was '1.94.5'|
 |frameworkintegration|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
@@ -945,6 +946,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdegraphics-mobipocket|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdegraphics-thumbnailers|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdelibs4support|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|kdenetwork-filesharing|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdenlive|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdepim-addons|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdepim-runtime|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1734,7 +1736,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.0|1.18.3|lang-ruby|Compliance mode enabled, was '1.18.3'|
-|nomino|1.3.1|1.6.0|app-utils|Compliance mode enabled, was '1.6.0'|
+|nomino|1.3.1|1.6.1|app-utils|Compliance mode enabled, was '1.6.1'|
 |normaliz|3.6.3|3.10.4|app-scientific|Compliance mode enabled, was '3.10.4'|
 |noto-fonts|24.8.1|24.9.1|desktop-fonts||
 |novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
