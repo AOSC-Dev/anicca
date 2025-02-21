@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740168714?label=Updated)
+![Relative date](https://img.shields.io/date/1740172206?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2793,7 +2793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1117|9.1.1129|app-editors|Compliance mode enabled, was '9.1.1129'|
+|vim|9.1.1117|9.1.1134|app-editors|Compliance mode enabled, was '9.1.1134'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2817,11 +2817,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-extensionlayer|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
 |vulkan-headers|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
 |vulkan-headers+32|1.3.283.0|1.4.309|runtime-optenv32|Compliance mode enabled, was '1.4.309'|
-|vulkan-loader|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
-|vulkan-loader+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
+|vulkan-loader|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
+|vulkan-loader+32|1.3.283.0|1.4.309|runtime-optenv32|Compliance mode enabled, was '1.4.309'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
-|vulkan-utility-libraries|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
+|vulkan-utility-libraries|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
 |vulkan-validationlayers|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2024.12.30.00|2025.02.17.00|runtime-network|Compliance mode enabled, was '2025.02.17.00'|
