@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740144018?label=Updated)
+![Relative date](https://img.shields.io/date/1740146857?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2814,8 +2814,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.78.3|runtime-desktop|Compliance mode enabled, was '0.78.3'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
-|vulkan-headers|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
-|vulkan-headers+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
+|vulkan-headers|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
+|vulkan-headers+32|1.3.283.0|1.4.309|runtime-optenv32|Compliance mode enabled, was '1.4.309'|
 |vulkan-loader|1.3.283.0|1.4.307|runtime-display|Compliance mode enabled, was '1.4.307'|
 |vulkan-loader+32|1.3.283.0|1.4.307|runtime-optenv32|Compliance mode enabled, was '1.4.307'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
