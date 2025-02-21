@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740172206?label=Updated)
+![Relative date](https://img.shields.io/date/1740175932?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -367,7 +367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.24.5|2.25.2|app-devel|Compliance mode enabled, was '2.25.2'|
+|devscripts|2.24.5|2.25.3|app-devel|Compliance mode enabled, was '2.25.3'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.2.0|app-network|Compliance mode enabled, was '10.2.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -636,7 +636,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-calculator|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-calendar|42.2|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-characters|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
-|gnome-chess|42.1|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-clocks|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |gnome-color-manager|3.36.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |gnome-contacts|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
