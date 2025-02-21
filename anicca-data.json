@@ -428,7 +428,7 @@
 ["django","5.0.3","5.1.6","lang-python",1712767628,["Compliance mode enabled, was '5.1.6'"]],
 ["twisted","21.2.0","24.11.0","lang-python",1616134410,["Compliance mode enabled, was '24.11.0'"]],
 ["jinja2","3.1.4","3.1.5","lang-python",1730451094,["Compliance mode enabled, was '3.1.5'"]],
-["oslo-config","9.5.0","9.7.0","lang-python",1724639794,["Compliance mode enabled, was '9.7.0'"]],
+["oslo-config","9.5.0","9.7.1","lang-python",1724639794,["Compliance mode enabled, was '9.7.1'"]],
 ["zeroconf","0.28.6","0.145.1","lang-python",1605077701,["Compliance mode enabled, was '0.145.1'"]],
 ["oslo-serialization","5.4.0","5.7.0","lang-python",1724639794,["Compliance mode enabled, was '5.7.0'"]],
 ["wcwidth","0.1.8","0.2.13","lang-python",1581796622,["Compliance mode enabled, was '0.2.13'"]],
