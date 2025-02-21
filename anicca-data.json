@@ -1918,6 +1918,7 @@
 ["man-pages","6.9.1","6.11","runtime-data",1732090831,[]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
+["aosc-os-repository-data","20250120","20250221","runtime-data",1737350880,["Compliance mode enabled, was '20250221'"]],
 ["libqalculate","4.5.1","5.5.0","runtime-scientific",1721223235,["Compliance mode enabled, was '5.5.0'"]],
 ["m4rie","20200125","20250103","runtime-scientific",1701855911,["Compliance mode enabled, was '20250103'"]],
 ["nlopt","2.7.1","2.10.0","runtime-scientific",1674445969,["Compliance mode enabled, was '2.10.0'"]],
