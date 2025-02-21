@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740121877?label=Updated)
+![Relative date](https://img.shields.io/date/1740125639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1494,7 +1494,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwmf|0.2.8.4|0.2.13|runtime-imaging|Compliance mode enabled, was '0.2.13'|
 |libwnck-3|40.1|43.2|runtime-desktop|Compliance mode enabled, was '43.2'|
 |libwpd|0.10.2|0.10.3|runtime-productivity|Compliance mode enabled, was '0.10.3'|
-|libwpe|1.12.2|1.16.2|runtime-web|Compliance mode enabled, was '1.16.2'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.78|lang-perl|Compliance mode enabled, was '6.78'|
 |libx86|1.1|3.5|runtime-common|Compliance mode enabled, was '3.5'|
@@ -2811,7 +2810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |volk-meta-loader|1.3.283.0|1.4.304.1|runtime-display|Compliance mode enabled, was '1.4.304.1'|
 |volk-meta-loader+32|1.3.283.0|1.4.304.1|runtime-optenv32|Compliance mode enabled, was '1.4.304.1'|
-|vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscodium|1.97.0.25037|1.97.2.25045|app-editors|Compliance mode enabled, was '1.97.2.25045'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
@@ -2988,6 +2986,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.2|lang-python|Compliance mode enabled, was '7.2'|
+|zotero|7.0.12|7.0.13|app-productivity|Compliance mode enabled, was '7.0.13'|
 |zoxide|0.9.4|0.9.7|app-utils|Compliance mode enabled, was '0.9.7'|
 |zram-generator|1.1.2|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
