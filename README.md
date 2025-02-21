@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740132685?label=Updated)
+![Relative date](https://img.shields.io/date/1740136037?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2226,12 +2226,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-hooks|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |pypsutil|5.8.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
-|pyqt-builder|1.12.1|1.18.0|lang-python|Compliance mode enabled, was '1.18.0'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
 |pyqt5-sip|12.9.0|12.17.0|lang-python|Compliance mode enabled, was '12.17.0'|
-|pyqt6|6.7.0|6.8.1|lang-python|Compliance mode enabled, was '6.8.1'|
-|pyqt6-sip|13.6.0|13.10.0|lang-python|Compliance mode enabled, was '13.10.0'|
-|pyqt6-webengine|6.7.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |pyscard|1.9.9|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
@@ -2302,9 +2298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.16|5.15.15-lts-lgpl|runtime-desktop|Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)|
-|qt-6|6.7.3|6.8.2|runtime-desktop|Compliance mode enabled, was '6.8.2'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|qtcreator|14.0.1|15.0.1|app-devel|Compliance mode enabled, was '15.0.1'|
 |qtermwidget|0.16.1|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
@@ -2451,7 +2445,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
-|sip|6.8.3|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |skanpage|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -2832,6 +2825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
 |watchman|2024.12.30.00|2025.02.17.00|app-utils|Compliance mode enabled, was '2025.02.17.00'|
 |wavpack+32|5.2.0|5.8.1|runtime-optenv32|Compliance mode enabled, was '5.8.1'|
+|waybar|0.11.0|0.12.0|app-utils|Compliance mode enabled, was '0.12.0'|
 |wayland+32|1.23.0|1.23.1|runtime-optenv32|Compliance mode enabled, was '1.23.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
@@ -2943,7 +2937,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xournalpp|1.2.5|1.2.6|runtime-productivity|Compliance mode enabled, was '1.2.6'|
 |xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
-|xray|25.2.21|25.2.18|app-network|Compliance mode enabled, was '25.2.18'<br>Possible downgrade from the current version (25.2.21 -> 25.2.18)|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
