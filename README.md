@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740098569?label=Updated)
+![Relative date](https://img.shields.io/date/1740104016?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -593,6 +593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghidra|11.2.1_build|11.3.1_build|app-devel||
+|ghostscript|9.54.0|10.04.0|app-doc|Compliance mode enabled, was '10.04.0'|
 |ghostscript+32|9.27|10.04.0|runtime-optenv32|Compliance mode enabled, was '10.04.0'|
 |ghostwriter|24.05.2|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |giac|1.9.0<br>+998|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+998 -> 1.9.0)|
@@ -745,8 +746,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |handbrake|1.9.0|1.9.1|app-multimedia|Compliance mode enabled, was '1.9.1'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|10.2.0|runtime-desktop|Compliance mode enabled, was '10.2.0'|
-|harfbuzz+32|2.6.7|10.2.0|runtime-optenv32|Compliance mode enabled, was '10.2.0'|
+|harfbuzz|8.4.0|10.3.0|runtime-desktop|Compliance mode enabled, was '10.3.0'|
+|harfbuzz+32|2.6.7|10.3.0|runtime-optenv32|Compliance mode enabled, was '10.3.0'|
 |haruna|0.12.3|1.3.2|desktop-kde|Compliance mode enabled, was '1.3.2'|
 |hatchling|1.21.1|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'<br>Possible downgrade from the current version (1.21.1 -> 1.14.0)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
@@ -1621,6 +1622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |meld|3.22.2|3.22.3|desktop-gnome|Compliance mode enabled, was '3.22.3'|
+|memcached|1.6.36|1.6.37|app-admin|Compliance mode enabled, was '1.6.37'|
 |mercurial|6.8.1|6.9.2|app-vcs|Compliance mode enabled, was '6.9.2'|
 |merkuro|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mesa|24.3.4|25.0.0|runtime-display||
@@ -2484,6 +2486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundkonverter-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |soundtouch+32|1.9.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
+|soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.6|app-web|Compliance mode enabled, was '1.0.6'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
@@ -2839,6 +2842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
+|weechat|4.5.1|4.5.2|app-web|Compliance mode enabled, was '4.5.2'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
 |wesnoth|1.16.10|1.18.4|app-games|Compliance mode enabled, was '1.18.4'|
