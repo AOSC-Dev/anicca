@@ -403,7 +403,6 @@
 ["sip","6.8.3","6.10.0","lang-python",1721223235,["Compliance mode enabled, was '6.10.0'"]],
 ["jsonlines","1.2.0","4.0.0","lang-python",1615174551,["Compliance mode enabled, was '4.0.0'"]],
 ["wxpython","4.2.1","4.2.2","lang-python",1706855338,["Compliance mode enabled, was '4.2.2'"]],
-["pydantic","2.6.0","2.10.6","lang-python",1708762785,["Compliance mode enabled, was '2.10.6'"]],
 ["cachetools","3.1.0","5.5.2","lang-python",1549988067,["Compliance mode enabled, was '5.5.2'"]],
 ["beautifulsoup4","4.10.0","4.13.3","lang-python",1637636757,["Compliance mode enabled, was '4.13.3'"]],
 ["lxml-html-clean","0.2.2","0.4.1","lang-python",1728366112,["Compliance mode enabled, was '0.4.1'"]],
