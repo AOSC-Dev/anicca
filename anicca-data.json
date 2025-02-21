@@ -1992,7 +1992,7 @@
 ["libnfs","4.0.0","6.0.2","runtime-network",1550458535,["Compliance mode enabled, was '6.0.2'"]],
 ["libssh","0.8.9","0.11.1","runtime-network",1550547634,["Compliance mode enabled, was '0.11.1'"]],
 ["mvfst","2024.12.30.00","2025.02.17.00","runtime-network",1737164791,["Compliance mode enabled, was '2025.02.17.00'"]],
-["gsoap","2.8.124","2.8.136","runtime-network",1678522480,["Compliance mode enabled, was '2.8.136'"]],
+["gsoap","2.8.124","2.8.137","runtime-network",1678522480,["Compliance mode enabled, was '2.8.137'"]],
 ["libnfnetlink","1.0.1","1.0.2","runtime-network",1678950872,["Compliance mode enabled, was '1.0.2'"]],
 ["libdnet","1.12","1.18.0","runtime-network",1488077516,["Compliance mode enabled, was '1.18.0'"]],
 ["libofono-qt","0.54+git20190116","1.30","runtime-network",1678950872,["Compliance mode enabled, was '1.30'"]],
