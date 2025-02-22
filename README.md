@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740219026?label=Updated)
+![Relative date](https://img.shields.io/date/1740222440?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -223,7 +223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
 |cargo-audit|0.21.0|0.21.1|lang-rust|Compliance mode enabled, was '0.21.1'|
-|cargo-c|0.10.2|0.10.9+cargo-0.85.0|lang-rust|Compliance mode enabled, was '0.10.9+cargo-0.85.0'|
+|cargo-c|0.10.2|0.10.10+cargo-0.86.0|lang-rust|Compliance mode enabled, was '0.10.10+cargo-0.86.0'|
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
@@ -360,7 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|18.4|18.9.1|app-games|Compliance mode enabled, was '18.9.1'|
 |debconf|1.5.87|1.5.89|app-admin|Compliance mode enabled, was '1.5.89'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
-|decorator|4.3.2|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
+|decorator|4.3.2|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |delve|1.23.0|1.24.0|lang-golang|Compliance mode enabled, was '1.24.0'|
 |deno|1.44.1|2.2.1|lang-js|Compliance mode enabled, was '2.2.1'|
@@ -374,7 +374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
-|digikam|8.4.0|8.5.0|desktop-kde|Compliance mode enabled, was '8.5.0'|
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
@@ -1384,7 +1383,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compliance mode enabled, was '1.30'|
 |libogg|1.3.4|1.3.5|runtime-multimedia|Compliance mode enabled, was '1.3.5'|
 |libogg+32|1.3.4|1.3.5|runtime-optenv32|Compliance mode enabled, was '1.3.5'|
-|liboggz|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
+|liboggz|1.1.1|1.1.3|runtime-multimedia|Compliance mode enabled, was '1.1.3'|
 |libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |liborcus|0.19.2|0.20.0|runtime-productivity|Compliance mode enabled, was '0.20.0'|
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
