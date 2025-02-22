@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740204883?label=Updated)
+![Relative date](https://img.shields.io/date/1740208292?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -937,6 +937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kddockwidgets|1.3.1|2.2.1|runtime-desktop|Compliance mode enabled, was '2.2.1'|
 |kde-cli-tools|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |kde-dev-scripts|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
+|kde-dev-utils|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kde-gtk-config|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |kde-inotify-survey|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kdebugsettings|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -2383,7 +2384,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pkg-config|1.5.8|1.5.9|lang-ruby|Compliance mode enabled, was '1.5.9'|
 |runc|1.1.14|1.2.5|app-admin|Compliance mode enabled, was '1.2.5'|
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
-|rustc|1.84.1|1.85.0|lang-rust|Compliance mode enabled, was '1.85.0'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|0.44.1|desktop-gnome|Compliance mode enabled, was '0.44.1'|
@@ -2824,7 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2024.12.30.00|2025.02.17.00|runtime-network|Compliance mode enabled, was '2025.02.17.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
-|warzone2100|4.1.3|4.5.5|app-games|Compliance mode enabled, was '4.5.5'|
+|warzone2100|4.5.3|4.5.5|app-games||
 |watchman|2024.12.30.00|2025.02.17.00|app-utils|Compliance mode enabled, was '2025.02.17.00'|
 |wavpack+32|5.2.0|5.8.1|runtime-optenv32|Compliance mode enabled, was '5.8.1'|
 |waybar|0.11.0|0.12.0|app-utils|Compliance mode enabled, was '0.12.0'|
