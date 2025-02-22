@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740226634?label=Updated)
+![Relative date](https://img.shields.io/date/1740230159?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -223,7 +223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
 |cargo-audit|0.21.0|0.21.1|lang-rust|Compliance mode enabled, was '0.21.1'|
-|cargo-c|0.10.2|0.10.10+cargo-0.86.0|lang-rust|Compliance mode enabled, was '0.10.10+cargo-0.86.0'|
+|cargo-c|0.10.2|0.10.11+cargo-0.86.0|lang-rust|Compliance mode enabled, was '0.10.11+cargo-0.86.0'|
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
@@ -1642,7 +1642,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mimalloc|2.1.7|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minetest|5.7.0|5.11.0|app-games||
-|minicom|2.8|2.9|app-utils|Compliance mode enabled, was '2.9'|
+|minicom|2.8|2.10|app-utils|Compliance mode enabled, was '2.10'|
 |minikube|1.34.0|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
 |miniserve|0.26.0|0.29.0|app-web|Compliance mode enabled, was '0.29.0'|
 |miniupnpc|2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
