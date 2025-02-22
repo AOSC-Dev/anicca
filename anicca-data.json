@@ -2867,7 +2867,7 @@
 ["libuhd","4.5.0.0","4.8.0.0","runtime-ham",1700797896,["Compliance mode enabled, was '4.8.0.0'"]],
 ["tortoisehg","6.6.3","6.9","app-vcs",1716735995,["Compliance mode enabled, was '6.9'"]],
 ["git-cliff","2.7.0","2.8.0","app-vcs",1735347831,["Compliance mode enabled, was '2.8.0'"]],
-["lazygit","0.44.1","0.47.0","app-vcs",1732763881,["Compliance mode enabled, was '0.47.0'"]],
+["lazygit","0.44.1","0.47.1","app-vcs",1732763881,["Compliance mode enabled, was '0.47.1'"]],
 ["mercurial","6.8.1","6.9.2","app-vcs",1728998119,["Compliance mode enabled, was '6.9.2'"]],
 ["rest","0.8.1","0.9.1","runtime-web",1663210241,["Compliance mode enabled, was '0.9.1'"]],
 ["webkit2gtk","2.44.2","2.46.6","runtime-web",1721223235,["Compliance mode enabled, was '2.46.6'"]],
