@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740184751?label=Updated)
+![Relative date](https://img.shields.io/date/1740190311?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -442,7 +442,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
-|elfutils|0.191|0.192|app-utils|Compliance mode enabled, was '0.192'|
 |elfutils+32|0.166|0.192|runtime-optenv32|Compliance mode enabled, was '0.192'|
 |elinks|0.17.1.1|0.18.0|app-web|Compliance mode enabled, was '0.18.0'|
 |elisa|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -458,7 +457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |espeak-ng|1.51.1|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
-|etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eudev+32|3.1.5|3.2.14|runtime-optenv32|Compliance mode enabled, was '3.2.14'|
 |eventviews|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
@@ -2581,7 +2579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |targetcli-fb|2.1.54|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
 |tarsnap|1.0.39|1.0.40|app-admin|Compliance mode enabled, was '1.0.40'|
 |tastymenu-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|tauri-cli|2.2.4|2.2.7|lang-rust|Compliance mode enabled, was '2.2.7'|
 |tbb|2021.11.0|2022.0.0|runtime-common|Compliance mode enabled, was '2022.0.0'|
 |tbb+32|4.4u4|2022.0.0|runtime-optenv32|Compliance mode enabled, was '2022.0.0'|
 |tcl|8.6.14|9.0.1|lang-tcl|Compliance mode enabled, was '9.0.1'|
