@@ -694,7 +694,6 @@
 ["openjpeg-legacy+32","1.5.2","2.5.3","runtime-optenv32",1461476411,["Compliance mode enabled, was '2.5.3'"]],
 ["libxkbcommon+32","0.9.1","1.7.0","runtime-optenv32",1536466042,["Compliance mode enabled, was '1.7.0'"]],
 ["srtp+32","1.5.4","2.6.0","runtime-optenv32",1461476834,["Compliance mode enabled, was '2.6.0'"]],
-["vulkan-tools+32","1.3.283.0","1.3.298","runtime-optenv32",1720036326,["Compliance mode enabled, was '1.3.298'"]],
 ["libbluray+32","1.2.1","1.3.4","runtime-optenv32",1582663928,["Compliance mode enabled, was '1.3.4'"]],
 ["libshout+32","2.4.3","2.4.6","runtime-optenv32",1600624175,["Compliance mode enabled, was '2.4.6'"]],
 ["taglib+32","1.11","2.0.2","runtime-optenv32",1461510763,["Compliance mode enabled, was '2.0.2'"]],
