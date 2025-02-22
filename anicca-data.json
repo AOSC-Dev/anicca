@@ -618,6 +618,7 @@
 ["libxnvctrl+32","545.23.06","570.86.16","runtime-optenv32",1698709672,["Compliance mode enabled, was '570.86.16'"]],
 ["libgpg-error+32","1.41","1.51","runtime-optenv32",1614667661,["Compliance mode enabled, was '1.51'"]],
 ["gstreamer-1-0+32","1.16.2","1.24.12","runtime-optenv32",1582652906,["Compliance mode enabled, was '1.24.12'"]],
+["libcap+32","2.31","20071031","runtime-optenv32",1581009557,["Compliance mode enabled, was '20071031'"]],
 ["libva+32","2.15.0","2.22.0","runtime-optenv32",1663359145,["Compliance mode enabled, was '2.22.0'"]],
 ["giflib+32","5.1.8","5.2.2","runtime-optenv32",1461475613,["Compliance mode enabled, was '5.2.2'"]],
 ["libusb+32","1.0.23","1.0.27","runtime-optenv32",1535775892,["Compliance mode enabled, was '1.0.27'"]],
