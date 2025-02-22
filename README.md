@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740211937?label=Updated)
+![Relative date](https://img.shields.io/date/1740215501?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1543,7 +1543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4753|runtime-creativity|Compliance mode enabled, was '4753'|
+|llama.cpp|4615|4754|runtime-creativity|Compliance mode enabled, was '4754'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1849,7 +1849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
-|owntone|28.9|28.11|app-multimedia|Compliance mode enabled, was '28.11'|
+|owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |oxygen-icons|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |oxygen-sounds|5.25.3|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
@@ -2090,6 +2090,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |plasma-browser-integration|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
+|plasma-desktop|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-disks|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-firewall|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |plasma-framework|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
