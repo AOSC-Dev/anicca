@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740344759?label=Updated)
+![Relative date](https://img.shields.io/date/1740348699?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -779,7 +779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.126.0|lang-python|Compliance mode enabled, was '6.126.0'|
+|hypothesis-python|6.97.4|6.127.0|lang-python|Compliance mode enabled, was '6.127.0'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -1406,7 +1406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.2|runtime-web|Compliance mode enabled, was '0.9.2'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
-|libreoffice|25.2.0.3|25.2.1.1|app-productivity|Compliance mode enabled, was '25.2.1.1'|
+|libreoffice|25.2.0.3|25.2.1.2|app-productivity|Compliance mode enabled, was '25.2.1.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
 |librsvg+32|2.40.21|2.59.2|runtime-optenv32|Compliance mode enabled, was '2.59.2'|
@@ -2124,7 +2124,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polkit-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
-|polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |poppler+32|0.66.0|25.02.0|runtime-optenv32|Compliance mode enabled, was '25.02.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.16|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
@@ -2650,7 +2649,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
-|tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tint2|16.7|17.0.2|desktop-wm|Compliance mode enabled, was '17.0.2'|
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
