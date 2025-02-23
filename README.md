@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740319569?label=Updated)
+![Relative date](https://img.shields.io/date/1740323349?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -740,7 +740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenhywfar|5.10.2|5.12.0|runtime-network|Compliance mode enabled, was '5.12.0'|
 |gwenview|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|handbrake|1.9.0|1.9.1|app-multimedia|Compliance mode enabled, was '1.9.1'|
+|handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.3.0|runtime-desktop|Compliance mode enabled, was '10.3.0'|
 |harfbuzz+32|2.6.7|10.3.0|runtime-optenv32|Compliance mode enabled, was '10.3.0'|
@@ -758,7 +758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.11|3.6.11.268|app-games|Compliance mode enabled, was '3.6.11.268'|
+|hmcl|3.6.11|3.6.11.269|app-games|Compliance mode enabled, was '3.6.11.269'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
