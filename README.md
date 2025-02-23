@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740298388?label=Updated)
+![Relative date](https://img.shields.io/date/1740301837?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -508,7 +508,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.39|app-utils|Compliance mode enabled, was '3.39'|
-|fira-font|4.202|4.106|desktop-fonts|Compliance mode enabled, was '4.106'<br>Possible downgrade from the current version (4.202 -> 4.106)|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |fizz|2024.12.30.00|2025.02.17.00|app-network|Compliance mode enabled, was '2025.02.17.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
@@ -539,7 +538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
 |fplll|5.4.5|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
-|fprintd|1.94.4|1.94.5|app-admin|Compliance mode enabled, was '1.94.5'|
 |frameworkintegration|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
@@ -808,8 +806,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
 |iio-sensor-proxy|3.5|3.6|app-utils|Compliance mode enabled, was '3.6'|
-|imagemagick|6.9.13<br>+16|6.9.13+21|app-utils|Compliance mode enabled, was '6.9.13-21'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+43|app-utils|Compliance mode enabled, was '7.1.1-43'|
+|imagemagick|6.9.13<br>+16|6.9.13+22|app-utils|Compliance mode enabled, was '6.9.13-22'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+44|app-utils|Compliance mode enabled, was '7.1.1-44'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
@@ -1279,7 +1277,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfilezilla|0.45.0|0.38.1|runtime-web|Compliance mode enabled, was '0.38.1'<br>Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfishsound|1.0.0|1.0.1|runtime-multimedia|Compliance mode enabled, was '1.0.1'|
 |libfm|1.3.0.2|1.4.0|desktop-lxde|Compliance mode enabled, was '1.4.0'|
-|libfprint|1.94.4|1.94.9|runtime-devices|Compliance mode enabled, was '1.94.9'|
 |libftdi|1.4|1.5|runtime-devices|Compliance mode enabled, was '1.5'|
 |libgcrypt+32|1.9.1|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libgcrypt-static|1.10.3|1.11.0|runtime-cryptography|Compliance mode enabled, was '1.11.0'|
@@ -2144,7 +2141,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.0|app-shells|Compliance mode enabled, was '7.5.0'|
 |poxml|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|ppp|2.4.9|2.5.2|app-network|Compliance mode enabled, was '2.5.2'|
 |ppsspp|1.18.1<br>+git20250206|1.18.1|app-games|Compliance mode enabled, was '1.18.1'|
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
