@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740271405?label=Updated)
+![Relative date](https://img.shields.io/date/1740277132?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -330,7 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250216.0|app-devel|Compliance mode enabled, was '6.1.20250216.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250216.0)|
+|ctags|20191203|6.1.20250223.0|app-devel|Compliance mode enabled, was '6.1.20250223.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250223.0)|
 |cuda|12.6.3|12.8.0|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
@@ -449,7 +449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant-2|2.3.1|2.8.2|app-i18n|Compliance mode enabled, was '2.8.2'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|endless-sky|0.10.10|0.10.11|app-games|Compliance mode enabled, was '0.10.11'|
+|endless-sky|0.10.10|0.10.12|app-games|Compliance mode enabled, was '0.10.12'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
@@ -2769,7 +2769,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.29.0|5.29.1|app-network|Compliance mode enabled, was '5.29.1'|
-|v2ray-rules-dat|202501302211|202502212211|runtime-data|Compliance mode enabled, was '202502212211'<br>Versions not comparable: `202501302211` and `202502212211`|
+|v2ray-rules-dat|202501302211|202502222210|runtime-data|Compliance mode enabled, was '202502222210'<br>Versions not comparable: `202501302211` and `202502222210`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
