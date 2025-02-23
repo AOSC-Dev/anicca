@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740301837?label=Updated)
+![Relative date](https://img.shields.io/date/1740305518?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -297,7 +297,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
 |colorama|0.4.3|0.4.6|lang-python|Compliance mode enabled, was '0.4.6'|
-|colord-kde|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
@@ -372,7 +371,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcpcd|10.0.8|10.2.0|app-network|Compliance mode enabled, was '10.2.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
 |dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
-|dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
 |digikam-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -2355,7 +2353,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
 |rocminfo|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
 |rocr-runtime|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocs|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden|24.12|24.12.1|app-creativity|Compliance mode enabled, was '24.12.1'|
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2453,7 +2450,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smartdns|35|46|app-network|Compliance mode enabled, was '46'|
 |smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
-|smb4k-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
 |smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
 |smpeg+32|0.4.5|2.0.0|runtime-optenv32|Compliance mode enabled, was '2_0_0'|
@@ -2814,7 +2810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
 |vulkan-utility-libraries|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
-|vulkan-validationlayers|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2024.12.30.00|2025.02.17.00|runtime-network|Compliance mode enabled, was '2025.02.17.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
@@ -2840,7 +2835,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |wildmidi+32|0.4.3|0.4.6|runtime-optenv32|Compliance mode enabled, was '0.4.6'|
-|wiliwili|1.5.0|1.5.1|app-multimedia|Compliance mode enabled, was '1.5.1'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wine|9.22|10.2|app-emulation||
 |winetricks|20240105|20250102|app-emulation|Compliance mode enabled, was '20250102'|
