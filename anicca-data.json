@@ -2776,6 +2776,7 @@
 ["windowmaker","0.95.9+git20220812","0.96.0","desktop-wm",1678604483,["Compliance mode enabled, was '0.96.0'"]],
 ["twm","1.0.11","1.0.12","desktop-wm",1600753401,["Compliance mode enabled, was '1.0.12'"]],
 ["xcompmgr","1.1.8","1.1.10","desktop-wm",1565983209,["Compliance mode enabled, was '1.1.10'"]],
+["lutris","0.5.18","0.5.19","app-games",1735219543,["Compliance mode enabled, was '0.5.19'"]],
 ["dolphin-emu","2407","2412","app-games",1723477347,["Compliance mode enabled, was '2412'"]],
 ["taisei","1.3.2","1.4.2","app-games",1631079133,["Compliance mode enabled, was '1.4.2'"]],
 ["wesnoth","1.16.10","1.18.4","app-games",1700797896,["Compliance mode enabled, was '1.18.4'"]],
