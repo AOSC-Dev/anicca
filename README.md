@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740388451?label=Updated)
+![Relative date](https://img.shields.io/date/1740391975?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1399,7 +1399,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libproxy|0.5.6|0.5.9|runtime-network|Compliance mode enabled, was '0.5.9'|
 |libpwquality|1.4.2|1.4.5|runtime-cryptography|Compliance mode enabled, was '1.4.5'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
-|libqalculate|4.5.1|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
+|libqalculate|4.5.1|5.5.1|runtime-scientific|Compliance mode enabled, was '5.5.1'|
 |libqmi|1.30.8|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqtxdg|3.6.0|4.1.0|runtime-desktop|Compliance mode enabled, was '4.1.0'|
@@ -1590,7 +1590,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
 |mako|1.1.4|1.3.9|lang-python|Compliance mode enabled, was '1.3.9'|
 |malcontent|0.10.5|0.13.0|runtime-desktop|Compliance mode enabled, was '0.13.0'|
-|man-pages|6.9.1|6.11|runtime-data||
+|man-pages|6.9.1|6.12|runtime-data||
 |mangohud+32|0.7.2|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |marble|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mariadb|11.4.3|11.8.1|app-database|Compliance mode enabled, was '11.8.1'|
@@ -2130,7 +2130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postfix|3.7.3|3.10.0|app-web|Compliance mode enabled, was '3.10.0'|
 |postgresql|13.19|17.4|app-database|Compliance mode enabled, was '17.4'|
 |potracegui-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|power-profiles-daemon|0.21|0.30|app-admin|Compliance mode enabled, was '0.30'|
 |powerdevil|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.0|app-shells|Compliance mode enabled, was '7.5.0'|
@@ -2436,6 +2435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
+|sing-box|1.11.4|1.11.3|app-network|Compliance mode enabled, was '1.11.3'<br>Possible downgrade from the current version (1.11.4 -> 1.11.3)|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
