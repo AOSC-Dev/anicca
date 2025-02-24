@@ -1211,6 +1211,7 @@
 ["virtiofsd","1.13.0","1.13.1","app-virtualization",1737266302,["Compliance mode enabled, was '1.13.1'"]],
 ["virglrenderer","0.10.4","1.1.0","app-virtualization",1693486148,["Compliance mode enabled, was '1.1.0'"]],
 ["virt-manager","4.1.0","5.0.0","app-virtualization",1694574450,["Compliance mode enabled, was '5.0.0'"]],
+["qemu","9.2.1","9.2.2","app-virtualization",1739951279,["Compliance mode enabled, was '9.2.2'"]],
 ["virtualbox","7.1.6a","7.1.6","app-virtualization",1739181299,["Compliance mode enabled, was '7.1.6'"]],
 ["variety","0.7.1","0.8.12","app-utils",1551388520,["Compliance mode enabled, was '0.8.12'"]],
 ["zbar","0.23.90","0.23.93","app-utils",1551388660,["Compliance mode enabled, was '0.23.93'"]],
