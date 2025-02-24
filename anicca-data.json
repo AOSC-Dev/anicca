@@ -1932,7 +1932,7 @@
 ["wcslib","8.3","8.4","runtime-scientific",1721639869,["Compliance mode enabled, was '8.4'"]],
 ["libmsym","0.2.3","0.2.4.2","runtime-scientific",1540624790,["Compliance mode enabled, was '0.2.4.2'"]],
 ["libindi","2.1.1","2.1.2.1","runtime-scientific",1738992340,["Compliance mode enabled, was '2.1.2.1'"]],
-["suitesparse","7.6.1","7.8.3","runtime-scientific",1710816632,["Compliance mode enabled, was '7.8.3'"]],
+["suitesparse","7.6.1","7.9.0","runtime-scientific",1710816632,["Compliance mode enabled, was '7.9.0'"]],
 ["fann","20190109","2.2.0","runtime-scientific",1570905465,["Compliance mode enabled, was '2.2.0'","Possible downgrade from the current version (20190109 -> 2.2.0)"]],
 ["givaro","4.2.0","4.2.1","runtime-scientific",1711174555,["Compliance mode enabled, was '4.2.1'"]],
 ["soci","4.0.1","4.0.3","runtime-database",1614161811,["Compliance mode enabled, was '4.0.3'"]],
