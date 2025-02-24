@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740357730?label=Updated)
+![Relative date](https://img.shields.io/date/1740363450?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -713,7 +713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-bad-1-0+32|1.16.2|1.24.12|runtime-optenv32|Compliance mode enabled, was '1.24.12'|
 |gst-plugins-base-1-0+32|1.16.2|1.24.12|runtime-optenv32|Compliance mode enabled, was '1.24.12'|
 |gst-plugins-good-1-0+32|1.16.2|1.24.12|runtime-optenv32|Compliance mode enabled, was '1.24.12'|
-|gst-plugins-ugly-1-0+32|1.16.2|1.25.50|runtime-optenv32|Compliance mode enabled, was '1.25.50'|
+|gst-plugins-ugly-1-0+32|1.16.2|1.25.90|runtime-optenv32|Compliance mode enabled, was '1.25.90'|
 |gstreamer-1-0+32|1.16.2|1.24.12|runtime-optenv32|Compliance mode enabled, was '1.24.12'|
 |gtest|1.10.0<br>+git20210513|1.16.0|app-devel|Compliance mode enabled, was '1.16.0'|
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32|Compliance mode enabled, was '2.24.33'|
@@ -1292,6 +1292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
 |libgpiod|1.4.2|2.2.1|runtime-devices|Compliance mode enabled, was '2.2.1'|
 |libgravatar|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
+|libgsf|1.14.47|1.14.53|desktop-gnome|Compliance mode enabled, was '1_14_53'|
 |libgtop|2.38.0|2.41.3|desktop-gnome|Compliance mode enabled, was '2.41.3'|
 |libguestfs|1.54.0|1.55.6|runtime-virtualization|Compliance mode enabled, was '1.55.6'|
 |libgweather|4.1.0|4.4.4|desktop-gnome|Compliance mode enabled, was '4.4.4'|
@@ -2760,7 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.29.0|5.29.1|app-network|Compliance mode enabled, was '5.29.1'|
-|v2ray-rules-dat|202501302211|202502222210|runtime-data|Compliance mode enabled, was '202502222210'<br>Versions not comparable: `202501302211` and `202502222210`|
+|v2ray-rules-dat|202501302211|202502232211|runtime-data|Compliance mode enabled, was '202502232211'<br>Versions not comparable: `202501302211` and `202502232211`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
