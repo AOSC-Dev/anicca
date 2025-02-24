@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740428116?label=Updated)
+![Relative date](https://img.shields.io/date/1740431429?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -419,6 +419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.11.0|1.13.2|app-doc|Compliance mode enabled, was '1_13_2'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
+|dpkg|1.22.14|1.22.15|app-admin|Compliance mode enabled, was '1.22.15'|
 |dracut-ng|105|106|app-admin|Compliance mode enabled, was '106'|
 |dragon|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |drkonqi|5.27.12|6.3.1.1|desktop-kde|Compliance mode enabled, was '6.3.1.1'|
@@ -777,7 +778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.127.1|lang-python|Compliance mode enabled, was '6.127.1'|
+|hypothesis-python|6.97.4|6.127.2|lang-python|Compliance mode enabled, was '6.127.2'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
