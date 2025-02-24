@@ -5,7 +5,6 @@
 ["gitdb","4.0.11","4.0.12","runtime-vcs",1721588575,["Compliance mode enabled, was '4.0.12'"]],
 ["gitpython","3.1.35","3.1.44","runtime-vcs",1695691631,["Compliance mode enabled, was '3.1.44'"]],
 ["sqlmap","1.8.8","1.9.2","app-penetration",1723092772,["Compliance mode enabled, was '1.9.2'"]],
-["sing-box","1.11.4","1.11.3","app-network",1740390465,["Compliance mode enabled, was '1.11.3'","Possible downgrade from the current version (1.11.4 -> 1.11.3)"]],
 ["rtmpdump","20151223","2.4+20151223.gitfa8646d.1","app-network",1696572712,["Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'","Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)"]],
 ["xpra","6.1.2","6.2.3","app-network",1727581856,["Compliance mode enabled, was '6.2.3'"]],
 ["gssproxy","0.8.2","0.9.2","app-network",1600577920,["Compliance mode enabled, was '0.9.2'"]],
