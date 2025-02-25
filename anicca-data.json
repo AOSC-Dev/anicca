@@ -2911,7 +2911,7 @@
 ["topgrade","11.0.2","16.0.2","app-admin",1683301918,["Compliance mode enabled, was '16.0.2'"]],
 ["clamav","1.4.1","1.4.2","app-admin",1728221544,["Compliance mode enabled, was '1.4.2'"]],
 ["appstream","1.0.3","1.0.4","app-admin",1735016113,["Compliance mode enabled, was '1.0.4'"]],
-["damo","2.4.7","2.6.8","app-admin",1724095000,["Compliance mode enabled, was '2.6.8'"]],
+["damo","2.4.7","2.6.9","app-admin",1724095000,["Compliance mode enabled, was '2.6.9'"]],
 ["sudo","1.9.16","1.9.16p2","app-admin",1725356657,["Compliance mode enabled, was '1_9_16p2'","Possible downgrade from the current version (1.9.16 -> 1.9.16p2)"]],
 ["partclone","0.3.20","0.3.33","app-admin",1660376240,["Compliance mode enabled, was '0.3.33'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
