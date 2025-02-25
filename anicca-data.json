@@ -1836,7 +1836,7 @@
 ["openjfx-21","21.0.5+0","21.0.7+0","lang-java",1727335039,["Compliance mode enabled, was '21.0.7+0'"]],
 ["openjdk-8","8u442-ga","8u452-b03","lang-java",1737688300,[]],
 ["openjdk-11","11.0.25-ga","11.0.18","lang-java",1729943545,["Possible downgrade from the current version (11.0.25-ga -> 11.0.18)"]],
-["gradle","8.12.0","8.12.1","lang-java",1736489515,["Compliance mode enabled, was '8.12.1'"]],
+["gradle","8.12.0","8.13.0","lang-java",1736489515,["Compliance mode enabled, was '8.13.0'"]],
 ["apache-maven","3.9.8","3.9.9","lang-java",1718629776,["Compliance mode enabled, was '3.9.9'"]],
 ["openjfx-23","23-ga","23.0.2-ga","lang-java",1726912753,[]],
 ["linux+kernel+asahi","6.12.12","5.19.17","runtime-kernel",1739708219,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.12.12 -> 5.19.17)"]],
