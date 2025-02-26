@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740604260?label=Updated)
+![Relative date](https://img.shields.io/date/1740607871?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1955,7 +1955,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-fcgi|0.78|0.82|lang-perl|Compliance mode enabled, was '0.82'|
 |perl-file-basedir|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
 |perl-file-copy-recursive|0.44|0.45|lang-perl|Compliance mode enabled, was '0.45'|
-|perl-file-listing|6.04|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-file-mimeinfo|0.28<br>+03|0.35|lang-perl|Compliance mode enabled, was '0.35'|
 |perl-file-next|1.16|1.18|lang-perl|Compliance mode enabled, was '1.18'|
 |perl-file-sharedir-install|0.13|0.14|lang-perl|Compliance mode enabled, was '0.14'|
@@ -2382,7 +2381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rygel|0.40.4|0.44.1|desktop-gnome|Compliance mode enabled, was '0.44.1'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|20150112|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (20150112 -> 1.0)|
-|s3transfer|0.5.0|0.11.2|lang-python|Compliance mode enabled, was '0.11.2'|
+|s3transfer|0.5.0|0.11.3|lang-python|Compliance mode enabled, was '0.11.3'|
 |sagemath|10.4|10.5|app-scientific|Compliance mode enabled, was '10.5'|
 |samba|4.17.2|4.21.4|app-network|Compliance mode enabled, was '4.21.4'|
 |samtools|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
@@ -2421,8 +2420,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|75.8.1|lang-python|Compliance mode enabled, was '75.8.1'|
-|setuptools-python3|75.8.0|75.8.1|lang-python|Compliance mode enabled, was '75.8.1'|
+|setuptools-python2|44.1.0|75.8.2|lang-python|Compliance mode enabled, was '75.8.2'|
+|setuptools-python3|75.8.0|75.8.2|lang-python|Compliance mode enabled, was '75.8.2'|
 |setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
 |setuptools-scm|8.1.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
@@ -2940,6 +2939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.9.4|1.18.3|lang-python|Compliance mode enabled, was '1.18.3'|
 |yaspin|1.2.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |yaz|5.34.0|5.34.4|runtime-web|Compliance mode enabled, was '5.34.4'|
+|yazi|25.2.11|25.2.26|app-utils|Compliance mode enabled, was '25.2.26'|
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.50|app-electronics|Compliance mode enabled, was '0.50'|
@@ -2955,7 +2955,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.174.6|0.174.8|app-editors|Compliance mode enabled, was '0.174.8'|
+|zed|0.174.6|0.175.5|app-editors|Compliance mode enabled, was '0.175.5'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.145.1|lang-python|Compliance mode enabled, was '0.145.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
