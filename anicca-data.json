@@ -160,6 +160,7 @@
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]],
 ["alembic","1.8.6","1.8.8","runtime-creativity",1710216829,["Compliance mode enabled, was '1.8.8'"]],
+["snapd-glib","1.65","1.66","runtime-admin",1724293055,["Compliance mode enabled, was '1.66'"]],
 ["gsasl","1.8.1","2.2.1","runtime-admin",1582088953,["Compliance mode enabled, was '2.2.1'"]],
 ["asahi-common","20250130","20231113-aosc","runtime-admin",1740327598,["Compliance mode enabled, was '20231113-aosc'","Possible downgrade from the current version (20250130 -> 20231113-aosc)"]],
 ["libsysstat","0.4.4","1.1.0","runtime-admin",1610261237,["Compliance mode enabled, was '1.1.0'"]],
