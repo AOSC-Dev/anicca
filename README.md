@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740582866?label=Updated)
+![Relative date](https://img.shields.io/date/1740586413?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2705,6 +2705,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.2.18.16|lang-python|Compliance mode enabled, was '2025.2.18.16'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
+|tsukimi|0.19.4|0.19.3|app-multimedia|Compliance mode enabled, was '0.19.3'<br>Possible downgrade from the current version (0.19.4 -> 0.19.3)|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|

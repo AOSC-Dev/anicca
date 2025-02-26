@@ -592,6 +592,7 @@
 ["qtractor","0.9.23","1.5.3","app-multimedia",1630350073,["Compliance mode enabled, was '1.5.3'"]],
 ["xjadeo","0.8.13","0.8.14","app-multimedia",1702632600,["Compliance mode enabled, was '0.8.14'"]],
 ["vorbis-tools","1.4.0","1.4.2","app-multimedia",1722221884,["Compliance mode enabled, was '1.4.2'"]],
+["tsukimi","0.19.4","0.19.3","app-multimedia",1740583252,["Compliance mode enabled, was '0.19.3'","Possible downgrade from the current version (0.19.4 -> 0.19.3)"]],
 ["picard","2.12.3","2.13.3","app-multimedia",1734400021,["Compliance mode enabled, was '2.13.3'"]],
 ["qsynth","1.0.1","1.0.2","app-multimedia",1726730103,["Compliance mode enabled, was '1.0.2'"]],
 ["vlc","3.0.21","3.0.21+1","app-multimedia",1737436557,["Compliance mode enabled, was '3.0.21-1'"]],
