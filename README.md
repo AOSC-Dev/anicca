@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740596936?label=Updated)
+![Relative date](https://img.shields.io/date/1740600820?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -763,6 +763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
+|html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |httpcore|1.0.5|1.0.7|lang-python|Compliance mode enabled, was '1.0.7'|
@@ -771,7 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2022.0.0|2024.0.1|app-creativity|Compliance mode enabled, was '2024.0.1'|
-|hugo|0.143.1|0.144.2|app-web|Compliance mode enabled, was '0.144.2'|
+|hugo|0.143.1|0.145.0|app-web|Compliance mode enabled, was '0.145.0'|
 |humanize|0.5.1|4.12.1|lang-python|Compliance mode enabled, was '4.12.1'|
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwinfo|23.2|23.3|app-utils|Compliance mode enabled, was '23.3'|
@@ -809,7 +810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
-|imhex|1.35.4|1.37.3|app-editors|Compliance mode enabled, was '1.37.3'|
+|imhex|1.35.4|1.37.4|app-editors|Compliance mode enabled, was '1.37.4'|
 |imlib2|1.5.1|1.12.3|runtime-imaging|Compliance mode enabled, was '1.12.3'|
 |imlib2+32|1.4.8|1.12.3|runtime-optenv32|Compliance mode enabled, was '1.12.3'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
@@ -831,7 +832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.11|app-network|Compliance mode enabled, was '1.8.11'|
 |iptraf-ng|1.1.4|1.2.2|app-network|Compliance mode enabled, was '1.2.2'|
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
-|ipython|8.28.0|9.0.0~b1|lang-python|Compliance mode enabled, was '9.0.0b1'|
+|ipython|8.28.0|9.0.0~b2|lang-python|Compliance mode enabled, was '9.0.0b2'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
@@ -1606,7 +1607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
-|matplotlib-inline|0.1.7|9.0.0~b1|lang-python|Compliance mode enabled, was '9.0.0b1'|
+|matplotlib-inline|0.1.7|9.0.0~b2|lang-python|Compliance mode enabled, was '9.0.0b2'|
 |maturin|1.8.1|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
@@ -2701,7 +2702,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.2.18.16|lang-python|Compliance mode enabled, was '2025.2.18.16'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
-|tsukimi|0.19.4|0.19.3|app-multimedia|Compliance mode enabled, was '0.19.3'<br>Possible downgrade from the current version (0.19.4 -> 0.19.3)|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
@@ -2781,7 +2781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1144|9.1.1151|app-editors|Compliance mode enabled, was '9.1.1151'|
+|vim|9.1.1144|9.1.1152|app-editors|Compliance mode enabled, was '9.1.1152'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
