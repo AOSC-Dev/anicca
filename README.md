@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740589841?label=Updated)
+![Relative date](https://img.shields.io/date/1740593878?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -387,7 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|27.3.1|28.0.0|app-containers||
+|docker|27.3.1|28.0.1|app-containers||
 |docker-buildx|0.18.0|0.21.1|app-containers|Compliance mode enabled, was '0.21.1'|
 |docker-compose|2.30.3|2.33.1|app-containers|Compliance mode enabled, was '2.33.1'|
 |dolphin|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -649,7 +649,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
 |gnome-online-accounts|3.44.0|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-shell|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
@@ -2263,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
 |pytools|2019.1|2025.1.1|lang-python|Compliance mode enabled, was '2025.1.1'|
 |pytz|2024.2|2025.1|lang-python|Compliance mode enabled, was '2025.1'|
-|pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |pyutil|3.3.0|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
 |pywbem|0.13.0|1.7.2|lang-python|Compliance mode enabled, was '1.7.2'|
