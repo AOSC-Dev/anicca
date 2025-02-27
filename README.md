@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740690690?label=Updated)
+![Relative date](https://img.shields.io/date/1740694316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -97,6 +97,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ast-grep|0.33.0|0.35.0|app-devel|Compliance mode enabled, was '0.35.0'|
 |astroid|2.12.2|4.0.0~a0|lang-python|Compliance mode enabled, was '4.0.0a0'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|astyle|3.6.6|3.6.7|app-devel|Compliance mode enabled, was '3.6.7'|
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32|Compliance mode enabled, was '2.38.0'|
 |at-spi2-core|2.52.0|2.55.2|desktop-gnome|Compliance mode enabled, was '2.55.2'|
 |at-spi2-core+32|2.26.3|2.55.2|runtime-optenv32|Compliance mode enabled, was '2.55.2'|
@@ -2147,7 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.10.1|app-productivity|Compliance mode enabled, was '0.10.1'|
-|prettytable|0.7.2|3.15.0|lang-python|Compliance mode enabled, was '3.15.0'|
+|prettytable|0.7.2|3.15.1|lang-python|Compliance mode enabled, was '3.15.1'|
 |print-manager|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |prison5|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |privoxy|3.0.34|4.0.0|app-network|Compliance mode enabled, was '4.0.0'|
@@ -2189,7 +2190,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
 |pydantic|2.6.0|2.10.6|lang-python|Compliance mode enabled, was '2.10.6'|
-|pydantic-core|2.16.1|2.30.0|lang-python|Compliance mode enabled, was '2.30.0'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
@@ -2744,7 +2744,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uncrustify|0.78.1|0.80.1|app-devel|Compliance mode enabled, was '0.80.1'|
 |unibilium|2.1.1|2.1.2|runtime-common|Compliance mode enabled, was '2.1.2'|
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
-|unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |unifont|16.0.01|16.0.02|desktop-fonts|Compliance mode enabled, was '16.0.02'|
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
@@ -2767,7 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40.4|runtime-optenv32|Compliance mode enabled, was '2.40.4'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
-|v2ray|5.29.0|5.29.1|app-network|Compliance mode enabled, was '5.29.1'|
+|v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
 |v2ray-rules-dat|202501302211|202502262212|runtime-data|Compliance mode enabled, was '202502262212'<br>Versions not comparable: `202501302211` and `202502262212`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
