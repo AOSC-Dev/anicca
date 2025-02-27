@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740683307?label=Updated)
+![Relative date](https://img.shields.io/date/1740687292?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -852,7 +852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jbig2dec|0.18|0.20|runtime-imaging|Compliance mode enabled, was '0.20'|
 |jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
-|jeepney|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
+|jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |jellyfish|1.1.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
 |jenkins|2.468|2.499|app-admin|Compliance mode enabled, was '2.499'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
@@ -985,6 +985,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keystoneauth1|5.7.0|5.10.0|lang-python|Compliance mode enabled, was '5.10.0'|
 |keystoneclient|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |kfilemetadata|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|kfind|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kfloppy|23.04.3|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kfourinline|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kgamma|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
@@ -1610,7 +1611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.39.2|runtime-creativity|Compliance mode enabled, was '1.39.2'|
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
-|matplotlib|3.8.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
+|matplotlib|3.8.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
 |matplotlib-inline|0.1.7|8.32.0|lang-python|Compliance mode enabled, was '8.32.0'|
 |maturin|1.8.1|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
@@ -2688,6 +2689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
 |tracker|3.7.3|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
+|tracker-miners|3.3.1|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
 |translate-toolkit|2.3.1|3.15.0|lang-python|Compliance mode enabled, was '3.15.0'|
