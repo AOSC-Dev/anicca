@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740759200?label=Updated)
+![Relative date](https://img.shields.io/date/1740762704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -986,7 +986,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
 |keysmith|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |keystoneauth1|5.7.0|5.10.0|lang-python|Compliance mode enabled, was '5.10.0'|
-|keystoneclient|5.4.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
+|keystoneclient|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |kfilemetadata|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kfind|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kfloppy|23.04.3|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -1608,7 +1608,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |marble|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mariadb|11.4.3|11.8.1|app-database|Compliance mode enabled, was '11.8.1'|
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
-|markdownpart|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |marshmallow|3.20.2|3.26.1|lang-python|Compliance mode enabled, was '3.26.1'|
 |mat2|0.13.0|0.13.5|app-utils|Compliance mode enabled, was '0.13.5'|
 |materialx|1.38.8|1.39.2|runtime-creativity|Compliance mode enabled, was '1.39.2'|
@@ -2452,6 +2451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |skanpage|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
+|slick-greeter|2.0.4|2.0.9|desktop-displaymanagers|Compliance mode enabled, was '2.0.9'|
 |slirp4netns|1.2.2|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
