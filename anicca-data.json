@@ -2912,7 +2912,6 @@
 ["etckeeper","1.18.21","1.18.22","app-admin",1720408788,["Compliance mode enabled, was '1.18.22'"]],
 ["squashfuse","0.1.105","0.5.2","app-admin",1663359141,["Compliance mode enabled, was '0.5.2'"]],
 ["bubblewrap","0.10.0","0.11.0","app-admin",1723734185,["Compliance mode enabled, was '0.11.0'"]],
-["squashfs-tools-ng","1.3.1","1.3.2","app-admin",1716292186,["Compliance mode enabled, was '1.3.2'"]],
 ["topgrade","11.0.2","16.0.2","app-admin",1683301918,["Compliance mode enabled, was '16.0.2'"]],
 ["clamav","1.4.1","1.4.2","app-admin",1728221544,["Compliance mode enabled, was '1.4.2'"]],
 ["appstream","1.0.3","1.0.4","app-admin",1735016113,["Compliance mode enabled, was '1.0.4'"]],
