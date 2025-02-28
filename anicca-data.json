@@ -1406,6 +1406,7 @@
 ["castxml","0.6.8","0.6.11","app-devel",1723474823,["Compliance mode enabled, was '0.6.11'"]],
 ["yubioath-desktop","5.1.0","7.1.1","app-devices",1638828828,["Compliance mode enabled, was '7.1.1'"]],
 ["pcsc-tools","1.7.1","1.7.2","app-devices",1710339782,["Compliance mode enabled, was '1.7.2'"]],
+["bluez","5.77","5.79","app-devices",1721227495,["Compliance mode enabled, was '5.79'"]],
 ["lirc","0.9.4d","0.10.2","app-devices",1486922787,["Compliance mode enabled, was '0.10.2'"]],
 ["yubikey-manager-qt","1.2.1","1.2.6","app-devices",1619621628,["Compliance mode enabled, was '1.2.6'"]],
 ["yubico-pam","2.26","2.27","app-devices",1530843556,["Compliance mode enabled, was '2.27'"]],
