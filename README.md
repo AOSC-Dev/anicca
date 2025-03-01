@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740866963?label=Updated)
+![Relative date](https://img.shields.io/date/1740870657?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -653,7 +653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
-|gnome-online-accounts|3.44.0|3.53.1|desktop-gnome|Compliance mode enabled, was '3.53.1'|
+|gnome-online-accounts|3.44.0|3.53.2|desktop-gnome|Compliance mode enabled, was '3.53.2'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
@@ -683,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |go|1.23.1|1.24.0|lang-golang||
 |go-md2man|2.0.5|2.0.6|app-doc|Compliance mode enabled, was '2.0.6'|
 |gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
-|goffice|0.10.48|0.10.57|runtime-productivity|Compliance mode enabled, was '0.10.57'|
+|goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
 |google-api-python-client|1.7.11|2.162.0|lang-python|Compliance mode enabled, was '2.162.0'|
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
@@ -1987,7 +1987,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.21|lang-perl|Compliance mode enabled, was '13.21'|
+|perl-image-exiftool|12.50|13.22|lang-perl|Compliance mode enabled, was '13.22'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
