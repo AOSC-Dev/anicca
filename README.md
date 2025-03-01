@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740859857?label=Updated)
+![Relative date](https://img.shields.io/date/1740863283?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1549,7 +1549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4793|runtime-creativity|Compliance mode enabled, was '4793'|
+|llama.cpp|4615|4798|runtime-creativity|Compliance mode enabled, was '4798'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|14.0.6|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1567,6 +1567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
 |lskat|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |lsof|4.99.3|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
+|lsp-plugins|1.2.20|1.2.21|app-multimedia|Compliance mode enabled, was '1.2.21'|
 |ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
@@ -2796,7 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1153|9.1.1160|app-editors|Compliance mode enabled, was '9.1.1160'|
+|vim|9.1.1153|9.1.1163|app-editors|Compliance mode enabled, was '9.1.1163'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
