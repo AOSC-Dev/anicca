@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740795730?label=Updated)
+![Relative date](https://img.shields.io/date/1740799545?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -749,8 +749,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|10.3.0|runtime-desktop|Compliance mode enabled, was '10.3.0'|
-|harfbuzz+32|2.6.7|10.3.0|runtime-optenv32|Compliance mode enabled, was '10.3.0'|
+|harfbuzz|8.4.0|10.4.0|runtime-desktop|Compliance mode enabled, was '10.4.0'|
+|harfbuzz+32|2.6.7|10.4.0|runtime-optenv32|Compliance mode enabled, was '10.4.0'|
 |haruna|0.12.3|1.3.3|desktop-kde|Compliance mode enabled, was '1.3.3'|
 |hatchling|1.21.1|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'<br>Possible downgrade from the current version (1.21.1 -> 1.14.0)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
@@ -827,6 +827,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|intel-compute-runtime|24.52.32224.5|25.05.32567.17|runtime-scientific|Compliance mode enabled, was '25.05.32567.17'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.5.6|2.7.11|app-devel|Compliance mode enabled, was '2.7.11'|
 |intel-media-driver|24.4.4|25.1.2|runtime-multimedia|Compliance mode enabled, was '25.1.2'|
@@ -1208,7 +1209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |lazarus|3.2|3.8|lang-pascal|Compliance mode enabled, was '3.8'|
 |lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
-|lazygit|0.44.1|0.47.2|app-vcs|Compliance mode enabled, was '0.47.2'|
+|lazygit|0.44.1|0.48.0|app-vcs|Compliance mode enabled, was '0.48.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.9|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
@@ -2773,7 +2774,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
-|v2ray-rules-dat|202501302211|202502272213|runtime-data|Compliance mode enabled, was '202502272213'<br>Versions not comparable: `202501302211` and `202502272213`|
+|v2ray-rules-dat|202501302211|202502282212|runtime-data|Compliance mode enabled, was '202502282212'<br>Versions not comparable: `202501302211` and `202502282212`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
