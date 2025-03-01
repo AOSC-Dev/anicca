@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740863283?label=Updated)
+![Relative date](https://img.shields.io/date/1740866963?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -261,7 +261,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.264|133.0.6943.141|app-web|Compliance mode enabled, was '133.0.6943.141'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.9.5|3.9.4|app-devel|Compliance mode enabled, was '3.9.4'<br>Possible downgrade from the current version (3.9.5 -> 3.9.4)|
 |cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
 |cinnamon|5.8.3|6.4.8|desktop-cinnamon|Compliance mode enabled, was '6.4.8'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -1901,7 +1900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.187|app-games|Compliance mode enabled, was '2.3.187'|
+|pcsx2|1.6.0<br>+git20210825|2.3.188|app-games|Compliance mode enabled, was '2.3.188'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
@@ -2816,7 +2815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscodium|1.97.0.25037|1.97.2.25045|app-editors|Compliance mode enabled, was '1.97.2.25045'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.78.3|runtime-desktop|Compliance mode enabled, was '0.78.3'|
+|vte|0.68.0|0.78.4|runtime-desktop|Compliance mode enabled, was '0.78.4'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
 |vulkan-headers|1.3.283.0|1.4.309|runtime-display|Compliance mode enabled, was '1.4.309'|
