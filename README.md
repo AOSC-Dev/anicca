@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740888864?label=Updated)
+![Relative date](https://img.shields.io/date/1740892270?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1658,7 +1658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.1|app-network|Compliance mode enabled, was '2.3.1'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|mise|2025.2.8|2025.2.9|app-devel|Compliance mode enabled, was '2025.2.9'|
+|mise|2025.2.8|2025.3.0|app-devel|Compliance mode enabled, was '2025.3.0'|
 |mitmproxy|11.0.0|11.1.3|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -2777,7 +2777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |util-macros+32|999|1.20.2|runtime-optenv32|Compliance mode enabled, was '1.20.2'<br>Possible downgrade from the current version (999 -> 1.20.2)|
 |v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
-|v2ray-rules-dat|202501302211|202502282212|runtime-data|Compliance mode enabled, was '202502282212'<br>Versions not comparable: `202501302211` and `202502282212`|
+|v2ray-rules-dat|202501302211|202503012211|runtime-data|Compliance mode enabled, was '202503012211'<br>Versions not comparable: `202501302211` and `202503012211`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.18.0|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
