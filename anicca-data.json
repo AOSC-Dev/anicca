@@ -616,6 +616,7 @@
 ["yesplaymusic","0.4.8+2","0.2.1","app-multimedia",1719324646,["Compliance mode enabled, was '0.2.1'","Possible downgrade from the current version (0.4.8+2 -> 0.2.1)"]],
 ["gwc","0.21+19","0.22+06","app-multimedia",1499677281,["Compliance mode enabled, was '0.22-06'"]],
 ["milkytracker","1.04.00","1.05.01","app-multimedia",1722264196,["Compliance mode enabled, was '1.05.01'"]],
+["faac","1.29.9.2","1.30","app-multimedia",1530178630,["Compliance mode enabled, was '1.30'"]],
 ["gpodder","3.11.4","3.11.5","app-multimedia",1722228729,["Compliance mode enabled, was '3.11.5'"]],
 ["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["kodi-pvr-iptvsimple","19.2.2","22.4.2-piers","app-multimedia",1670210804,["Compliance mode enabled, was '22.4.2-Piers'"]],
