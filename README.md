@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740928279?label=Updated)
+![Relative date](https://img.shields.io/date/1740931857?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1112,6 +1112,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kreversi|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |krfb|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kross|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|kruler|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |krunner|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |krusader|2.7.2|2.9.0|desktop-kde|Compliance mode enabled, was '2.9.0'|
 |krusader-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1853,6 +1854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-build|1.92|2.84|lang-perl|Compliance mode enabled, was '2.84'|
 |perl-alien-libxml2|0.11|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
+|perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-app-cpanminus|1.7044|1.7048|lang-perl|Compliance mode enabled, was '1.7048'|
 |perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
 |perl-authen-sasl|2.1401|2.1700|lang-perl|Compliance mode enabled, was '2.1700'|
@@ -2270,6 +2272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
+|renderdoc|1.36|1.37|app-devel|Compliance mode enabled, was '1.37'|
 |repo|2.45|2.52|app-devel|Compliance mode enabled, was '2.52'|
 |reportlab|3.5.50|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |reptyr|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
