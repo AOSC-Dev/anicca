@@ -1278,7 +1278,7 @@
 ["calver","2022.06.26","2022.6.26","lang-python",1708256695,["Compliance mode enabled, was '2022.6.26'"]],
 ["pycairo","1.18.2","1.27.0","lang-python",1573873782,["Compliance mode enabled, was '1.27.0'"]],
 ["xcffib","0.7.0","1.7.1","lang-python",1551288643,["Compliance mode enabled, was '1.7.1'"]],
-["levenshtein","0.12.0","0.26.1","lang-python",1479402071,["Compliance mode enabled, was '0.26.1'"]],
+["levenshtein","0.12.0","0.27.1","lang-python",1479402071,["Compliance mode enabled, was '0.27.1'"]],
 ["pyotherside","1.5.9","1.6.2","lang-python",1581796622,["Compliance mode enabled, was '1.6.2'"]],
 ["python-ldap3","2.9","2.9.1","lang-python",1618998184,["Compliance mode enabled, was '2.9.1'"]],
 ["pywbem","0.13.0","1.7.2","lang-python",1551200606,["Compliance mode enabled, was '1.7.2'"]],
