@@ -1808,7 +1808,7 @@
 ["perl-fcgi","0.78","0.82","lang-perl",1457399178,["Compliance mode enabled, was '0.82'"]],
 ["perl-xml-twig","3.52","3.53","lang-perl",1530196414,["Compliance mode enabled, was '3.53'"]],
 ["perl-canary-stability","2012","2013","lang-perl",1530196415,["Compliance mode enabled, was '2013'"]],
-["perl-date-manip","6.82","6.96","lang-perl",1596489156,["Compliance mode enabled, was '6.96'"]],
+["perl-date-manip","6.82","6.97","lang-perl",1596489156,["Compliance mode enabled, was '6.97'"]],
 ["perl-mozilla-ca","20180117","20250202","lang-perl",1522294837,["Compliance mode enabled, was '20250202'"]],
 ["perl-net-ssleay","1.85","1.94","lang-perl",1530196414,["Compliance mode enabled, was '1.94'"]],
 ["perl-namespace-autoclean","0.29","0.31","lang-perl",1596485704,["Compliance mode enabled, was '0.31'"]],
