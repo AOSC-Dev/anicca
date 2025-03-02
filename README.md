@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740903160?label=Updated)
+![Relative date](https://img.shields.io/date/1740906646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -272,7 +272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |clamav|1.4.1|1.4.2|app-admin|Compliance mode enabled, was '1.4.2'|
-|clash-verge-rev|2.0.3|2.1.2|app-network|Compliance mode enabled, was '2.1.2'|
 |clazy|1.11|1.13|app-devel|Compliance mode enabled, was '1.13'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
@@ -1222,7 +1221,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
 |level-zero|1.19.2|1.20.2|runtime-common|Compliance mode enabled, was '1.20.2'|
 |levenshtein|0.12.0|0.26.1|lang-python|Compliance mode enabled, was '0.26.1'|
-|lfortran|0.45.0|0.46.0|app-devel|Compliance mode enabled, was '0.46.0'|
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
@@ -2417,13 +2415,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-gfx|2.0.25|2.0.27|runtime-multimedia|Compliance mode enabled, was '2.0.27'|
 |sdl-sound|1.0.3|2.0.4|runtime-multimedia|Compliance mode enabled, was '2.0.4'|
 |sdl-sound+32|1.0.3|2.0.4|runtime-optenv32|Compliance mode enabled, was '2.0.4'|
-|sdl-ttf|2.0.11|2.24.0|runtime-multimedia|Compliance mode enabled, was '2.24.0'|
-|sdl-ttf+32|2.0.11|2.24.0|runtime-optenv32|Compliance mode enabled, was '2.24.0'|
+|sdl-ttf|2.0.11|3.2.0|runtime-multimedia|Compliance mode enabled, was '3.2.0'|
+|sdl-ttf+32|2.0.11|3.2.0|runtime-optenv32|Compliance mode enabled, was '3.2.0'|
 |sdl2|2.30.4|3.2.4|runtime-multimedia|Compliance mode enabled, was '3.2.4'|
-|sdl2-image|2.0.5|3.2.0|runtime-multimedia|Compliance mode enabled, was '3.2.0'|
+|sdl2-image|2.0.5|3.2.2|runtime-multimedia|Compliance mode enabled, was '3.2.2'|
 |sdl2-mixer|2.0.4|2.8.1|runtime-multimedia|Compliance mode enabled, was '2.8.1'|
 |sdl2-net|2.0.1|2.2.0|runtime-multimedia|Compliance mode enabled, was '2.2.0'|
-|sdl2-ttf|2.22.0|2.24.0|runtime-multimedia|Compliance mode enabled, was '2.24.0'|
+|sdl2-ttf|2.22.0|3.2.0|runtime-multimedia|Compliance mode enabled, was '3.2.0'|
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |secretstorage|3.3.0|3.3.3|lang-python|Compliance mode enabled, was '3.3.3'|
