@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740876354?label=Updated)
+![Relative date](https://img.shields.io/date/1740882010?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -328,11 +328,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.16.1|1.20|app-admin|Compliance mode enabled, was '1.20'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
-|cryptography|40.0.0|44.0.1|lang-python|Compliance mode enabled, was '44.0.1'|
+|cryptography|40.0.0|44.0.2|lang-python|Compliance mode enabled, was '44.0.2'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250223.0|app-devel|Compliance mode enabled, was '6.1.20250223.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250223.0)|
+|ctags|20191203|6.1.20250302.0|app-devel|Compliance mode enabled, was '6.1.20250302.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250302.0)|
 |cuda|12.6.3|12.8.0|app-devel||
 |cups+32|2.3.3|2.4.11|runtime-optenv32|Compliance mode enabled, was '2.4.11'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
@@ -747,6 +747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenhywfar|5.10.2|5.12.0|runtime-network|Compliance mode enabled, was '5.12.0'|
 |gwenview|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|gzdoom|4.14.0|4.14.1|app-games|Compliance mode enabled, was '4.14.1'|
 |handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|10.4.0|runtime-desktop|Compliance mode enabled, was '10.4.0'|
