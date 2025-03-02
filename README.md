@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740906646?label=Updated)
+![Relative date](https://img.shields.io/date/1740910226?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -690,6 +690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.7.0|lang-golang|Compliance mode enabled, was '2.7.0'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
+|goverlay|1.2|1.3|app-utils|Compliance mode enabled, was '1.3'|
 |gperftools|2.13|2.16|app-devel|Compliance mode enabled, was '2.16'|
 |gpgme|1.23.2|1.24.2|runtime-cryptography|Compliance mode enabled, was '1.24.2'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
@@ -1241,8 +1242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|25|runtime-wasi|Compliance mode enabled, was '25'|
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|libcap|2.73|20071031|runtime-common|Compliance mode enabled, was '20071031'|
-|libcap+32|2.31|20071031|runtime-optenv32|Compliance mode enabled, was '20071031'|
+|libcap+32|2.31|2.73|runtime-optenv32|Compliance mode enabled, was '2.73'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
 |libcdio|2.1.0|2.2.0|runtime-devices|Compliance mode enabled, was '2.2.0'|
@@ -2222,7 +2222,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopenssl|23.1.1|25.0.0|lang-python|Compliance mode enabled, was '25.0.0'|
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
+|pypdf|4.0.1|5.3.1|lang-python|Compliance mode enabled, was '5.3.1'|
 |pypdf2|1.26.0|5.3.0|lang-python|Compliance mode enabled, was '5.3.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |pyperf|2.5.0|2.8.1|lang-python|Compliance mode enabled, was '2.8.1'|
