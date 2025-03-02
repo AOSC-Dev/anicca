@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740913598?label=Updated)
+![Relative date](https://img.shields.io/date/1740917767?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1739,7 +1739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|runtime-common|Compliance mode enabled, was '0.52.24'|
 |nfs-utils|2.6.2|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |nftables|1.0.9|1.1.1|app-network|Compliance mode enabled, was '1.1.1'|
-|nghttp2|1.58.0|1.64.0|runtime-web|Compliance mode enabled, was '1.64.0'|
+|nghttp2|1.58.0|1.65.0|runtime-web|Compliance mode enabled, was '1.65.0'|
 |nghttp3|1.3.0|1.8.0|runtime-web|Compliance mode enabled, was '1.8.0'|
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
 |ngtcp2|1.5.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
@@ -2206,6 +2206,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygments|2.18.0|2.19.1|lang-python|Compliance mode enabled, was '2.19.1'|
 |pygobject-3|3.48.2|3.51.0|lang-python|Compliance mode enabled, was '3.51.0'|
 |pygraphviz|1.5|1.14|lang-python|Compliance mode enabled, was '1.14'|
+|pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyicu|2.13.1|2.14|lang-python|Compliance mode enabled, was '2.14'|
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pylast|3.0.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
