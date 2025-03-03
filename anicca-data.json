@@ -1515,7 +1515,6 @@
 ["readline+32","8.2.1","8.2.13","runtime-optenv32",1716037929,["Compliance mode enabled, was '8.2.13'"]],
 ["libssh2+32","1.9.0","1.11.1","runtime-optenv32",1461466060,["Compliance mode enabled, was '1.11.1'"]],
 ["nss+32","3.107","3.109","runtime-optenv32",1740919517,["Compliance mode enabled, was '3.109'"]],
-["glib+32","2.83.3","2.82.5","runtime-optenv32",1740919529,["Compliance mode enabled, was '2.82.5'","Possible downgrade from the current version (2.83.3 -> 2.82.5)"]],
 ["libid3tag+32","0.15.1b","0.16.3","runtime-optenv32",1461478089,["Compliance mode enabled, was '0.16.3'"]],
 ["libmodplug+32","0.8.8.5","0.8.9.0","runtime-optenv32",1461474867,["Compliance mode enabled, was '0.8.9.0'"]],
 ["mpg123+32","1.32.8","1.32.10","runtime-optenv32",1730365887,["Compliance mode enabled, was '1.32.10'"]],
