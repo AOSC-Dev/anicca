@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741014737?label=Updated)
+![Relative date](https://img.shields.io/date/1741018471?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1703,6 +1703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
 |nss|3.107|3.109|runtime-cryptography|Compliance mode enabled, was '3.109'|
+|nss+32|3.107|3.109|runtime-optenv32|Compliance mode enabled, was '3.109'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
@@ -1841,7 +1842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.198|app-games|Compliance mode enabled, was '2.3.198'|
+|pcsx2|1.6.0<br>+git20210825|2.3.199|app-games|Compliance mode enabled, was '2.3.199'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
@@ -2057,7 +2058,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |plzip|1.11|1.12|app-utils|Compliance mode enabled, was '1.12'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
-|pmbootstrap|3.2.0|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
