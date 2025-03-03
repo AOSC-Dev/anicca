@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741036256?label=Updated)
+![Relative date](https://img.shields.io/date/1741039841?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1157,7 +1157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.29.0|0.33.2|app-network|Compliance mode enabled, was '0.33.2'|
 |kubrick|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kunitconversion|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
-|kvantum|1.0.10|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
+|kvantum|1.0.10|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
 |kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kvkbd-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kvpnc-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1317,7 +1317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libktorrent|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
 |liblo|0.29|0.32|runtime-multimedia|Compliance mode enabled, was '0.32'|
-|liblouis|3.12.0|3.32.0|runtime-a11y|Compliance mode enabled, was '3.32.0'|
+|liblouis|3.12.0|3.33.0|runtime-a11y|Compliance mode enabled, was '3.33.0'|
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
 |libluv|1.47.0<br>+0|1.50.0+1|lang-lua|Compliance mode enabled, was '1.50.0-1'|
 |libmanette|0.2.6|0.2.9|runtime-devices|Compliance mode enabled, was '0.2.9'|
@@ -2150,7 +2150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pymediainfo|5.0.3|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
 |pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
-|pynput|1.7.6|1.7.8|lang-python|Compliance mode enabled, was '1.7.8'|
+|pynput|1.7.6|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |pyopengl|3.1.5|3.1.9~a2|lang-python|Compliance mode enabled, was '3.1.9a2'|
 |pyopenssl|23.1.1|25.0.0|lang-python|Compliance mode enabled, was '25.0.0'|
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
@@ -2350,7 +2350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-ttf+32|2.0.11|3.2.0|runtime-optenv32|Compliance mode enabled, was '3.2.0'|
 |sdl2|2.30.4|2.32.2|runtime-multimedia|Compliance mode enabled, was '2.32.2'|
 |sdl2+32|2.30.4|2.32.2|runtime-optenv32|Compliance mode enabled, was '2.32.2'|
-|sdl2-image|2.0.5|3.2.2|runtime-multimedia|Compliance mode enabled, was '3.2.2'|
+|sdl2-image|2.0.5|3.2.4|runtime-multimedia|Compliance mode enabled, was '3.2.4'|
 |sdl2-mixer|2.0.4|2.8.1|runtime-multimedia|Compliance mode enabled, was '2.8.1'|
 |sdl2-net|2.0.1|2.2.0|runtime-multimedia|Compliance mode enabled, was '2.2.0'|
 |sdl2-ttf|2.22.0|3.2.0|runtime-multimedia|Compliance mode enabled, was '3.2.0'|
