@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1740989805?label=Updated)
+![Relative date](https://img.shields.io/date/1740993288?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1461,6 +1461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwmf|0.2.8.4|0.2.13|runtime-imaging|Compliance mode enabled, was '0.2.13'|
 |libwnck-3|40.1|43.2|runtime-desktop|Compliance mode enabled, was '43.2'|
 |libwpd|0.10.2|0.10.3|runtime-productivity|Compliance mode enabled, was '0.10.3'|
+|libwpe|1.12.2|1.16.2|runtime-web|Compliance mode enabled, was '1.16.2'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.78|lang-perl|Compliance mode enabled, was '6.78'|
 |libx86|1.1|3.7|runtime-common|Compliance mode enabled, was '3.7'|
@@ -2751,7 +2752,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.4.304.1|runtime-optenv32|Compliance mode enabled, was '1.4.304.1'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpl-gpu-rt|25.1.2|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
-|vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscodium|1.97.0.25037|1.97.2.25045|app-editors|Compliance mode enabled, was '1.97.2.25045'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.78.4|runtime-desktop|Compliance mode enabled, was '0.78.4'|
