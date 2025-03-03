@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741008148?label=Updated)
+![Relative date](https://img.shields.io/date/1741011240?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1439,8 +1439,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libuv|1.48.0|1.50.0|runtime-common|Compliance mode enabled, was '1.50.0'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvarlink|23|24|runtime-common|Compliance mode enabled, was '24'|
-|libvirt|10.5.0|11.0.0|app-virtualization|Compliance mode enabled, was '11.0.0'|
-|libvirt-python|10.5.0|11.0.0|runtime-virtualization|Compliance mode enabled, was '11.0.0'|
+|libvirt|10.5.0|11.1.0|app-virtualization|Compliance mode enabled, was '11.1.0'|
+|libvirt-python|10.5.0|11.1.0|runtime-virtualization|Compliance mode enabled, was '11.1.0'|
 |libvisio|0.1.7|0.1.8|runtime-productivity|Compliance mode enabled, was '0.1.8'|
 |libvisual|0.4.0|0.4.2|runtime-multimedia|Compliance mode enabled, was '0.4.2'|
 |libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
@@ -1609,7 +1609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mkvtoolnix|87.0|90.0|app-multimedia|Compliance mode enabled, was '90.0'|
 |mlt|7.26.0|7.30.0|runtime-multimedia|Compliance mode enabled, was '7.30.0'|
 |mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
-|mock|2.0.0|5.1.0|lang-python|Compliance mode enabled, was '5.1.0'|
+|mock|2.0.0|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |mocp|2.6.0~svn.r3005|2.5.2|app-multimedia|Compliance mode enabled, was '2.5.2'<br>Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)|
 |modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
 |modemmanager-qt|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -1724,7 +1724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.2.0|9.4.0|app-scientific|Compliance mode enabled, was '9.4.0'|
 |ofono|1.30|2.15|app-network|Compliance mode enabled, was '2.15'|
-|okteta|0.26.9|0.26.19|desktop-kde|Compliance mode enabled, was '0.26.19'|
+|okteta|0.26.9|0.26.20|desktop-kde|Compliance mode enabled, was '0.26.20'|
 |okular|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
