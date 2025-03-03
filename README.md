@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741011240?label=Updated)
+![Relative date](https://img.shields.io/date/1741014737?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -502,6 +502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.39|app-utils|Compliance mode enabled, was '3.39'|
+|firefox|135.0.1|136.0|app-web|Compliance mode enabled, was '136.0'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |fizz|2024.12.30.00|2025.02.24.00|app-network|Compliance mode enabled, was '2025.02.24.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
@@ -706,7 +707,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-vnc|1.3.1|1.5.0|desktop-gnome|Compliance mode enabled, was '1.5.0'|
 |gtk3-tqt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtkd|3.10.0|3.11.0|desktop-gnome|Compliance mode enabled, was '3.11.0'|
+|gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
+|gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
@@ -1495,7 +1498,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4800|runtime-creativity|Compliance mode enabled, was '4800'|
+|llama.cpp|4615|4801|runtime-creativity|Compliance mode enabled, was '4801'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
@@ -1700,7 +1703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
 |nss|3.107|3.109|runtime-cryptography|Compliance mode enabled, was '3.109'|
-|nss+32|3.107|3.109|runtime-optenv32|Compliance mode enabled, was '3.109'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
