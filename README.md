@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741039841?label=Updated)
+![Relative date](https://img.shields.io/date/1741043543?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -642,7 +642,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
-|gnome-shell|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
+|gnome-shell|42.4|47.5|desktop-gnome|Compliance mode enabled, was '47.5'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-software|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
@@ -1658,7 +1658,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|neofetch|7.3.11|7.1.0|app-utils|Compliance mode enabled, was '7.1.0'<br>Possible downgrade from the current version (7.3.11 -> 7.1.0)|
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.33.0|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
