@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741018471?label=Updated)
+![Relative date](https://img.shields.io/date/1741021949?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1080,7 +1080,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kontact|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |kontactinterface|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
-|kontrast|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |konversation|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |konversation-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kooldock-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2393,7 +2392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|smartdns|35|46|app-network|Compliance mode enabled, was '46'|
+|smartdns|35|46.1|app-network|Compliance mode enabled, was '46.1'|
 |smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
 |smb4k-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
@@ -2861,6 +2860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xournalpp|1.2.5|1.2.6|runtime-productivity|Compliance mode enabled, was '1.2.6'|
 |xpra|6.1.2|6.2.3|app-network|Compliance mode enabled, was '6.2.3'|
+|xray|25.2.21|25.3.3|app-network|Compliance mode enabled, was '25.3.3'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
