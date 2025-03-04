@@ -1573,6 +1573,7 @@
 ["xarchiver","0.5.4.15","0.5.4.23","app-utils",1600708589,["Compliance mode enabled, was '0.5.4.23'"]],
 ["plzip","1.11","1.12","app-utils",1710565374,["Compliance mode enabled, was '1.12'"]],
 ["fzf","0.55.0","0.60.3","app-utils",1727015619,["Compliance mode enabled, was '0.60.3'"]],
+["deskflow","1.19.0","1.20.0","app-utils",1738772575,["Compliance mode enabled, was '1.20.0'"]],
 ["ttyd","1.6.3","1.7.7","app-utils",1537076216,["Compliance mode enabled, was '1.7.7'"]],
 ["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
 ["roxterm","3.15.0","3.15.3","app-utils",1716292615,["Compliance mode enabled, was '3.15.3'"]],
