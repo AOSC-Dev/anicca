@@ -796,6 +796,7 @@
 ["v2raya","2.2.6.3","2.2.6.6","app-network",1738768783,["Compliance mode enabled, was '2.2.6.6'"]],
 ["realmd","0.17.1","0.16.3","app-network",1678351353,["Compliance mode enabled, was '0.16.3'","Possible downgrade from the current version (0.17.1 -> 0.16.3)"]],
 ["lighttpd","1.4.76","1.4.77","app-network",1722186388,["Compliance mode enabled, was '1.4.77'"]],
+["fbthrift","2024.12.30.00","2025.03.03.00","app-network",1737164791,["Compliance mode enabled, was '2025.03.03.00'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["synergy","1.11.1","2.3.2","app-network",1585097716,["Compliance mode enabled, was '2.3.2'"]],
 ["miniupnpc","2.1","2.3.1","app-network",1528905474,["Compliance mode enabled, was '2.3.1'"]],
