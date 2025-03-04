@@ -76,7 +76,7 @@
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
 ["rarian","0.8.1","0.8.6","app-doc",1678950872,["Compliance mode enabled, was '0.8.6'"]],
 ["apache-maven","3.9.8","3.9.9","lang-java",1718629776,["Compliance mode enabled, was '3.9.9'"]],
-["openjdk-8","8u442-ga","8u452-b03","lang-java",1737688300,[]],
+["openjdk-8","8u442-ga","8u452-b04","lang-java",1737688300,[]],
 ["openjdk-17","17.0.14-ga","17.0.2","lang-java",1737688300,["Possible downgrade from the current version (17.0.14-ga -> 17.0.2)"]],
 ["openjfx-21","21.0.5+0","21.0.7+0","lang-java",1727335039,["Compliance mode enabled, was '21.0.7+0'"]],
 ["openjdk-11","11.0.25-ga","11.0.18","lang-java",1729943545,["Possible downgrade from the current version (11.0.25-ga -> 11.0.18)"]],
