@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741122721?label=Updated)
+![Relative date](https://img.shields.io/date/1741126239?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -256,7 +256,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.264|133.0.6943.141|app-web|Compliance mode enabled, was '133.0.6943.141'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.9.6|3.9.5|app-devel|Compliance mode enabled, was '3.9.5'<br>Possible downgrade from the current version (3.9.6 -> 3.9.5)|
 |cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
 |cinnamon|5.8.3|6.4.8|desktop-cinnamon|Compliance mode enabled, was '6.4.8'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -1230,7 +1229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
 |libchewing|0.5.1|0.9.1|runtime-i18n|Compliance mode enabled, was '0.9.1'|
-|libclc|18.1.8|19.1.7|runtime-devices|Compliance mode enabled, was '19.1.7'|
+|libclc|18.1.8|20.1.0|runtime-devices|Compliance mode enabled, was '20.1.0'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.7.3|runtime-common|Compliance mode enabled, was '1.7.3'|
@@ -1502,13 +1501,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4615|4820|runtime-creativity|Compliance mode enabled, was '4820'|
+|llama.cpp|4615|4823|runtime-creativity|Compliance mode enabled, was '4823'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm+32|18.1.8|19.1.7|runtime-optenv32|Compliance mode enabled, was '19.1.7'|
-|llvm-18|18.1.8|19.1.7|app-devel|Compliance mode enabled, was '19.1.7'|
-|llvm-19|19.1.6|19.1.7|app-devel|Compliance mode enabled, was '19.1.7'|
-|llvm-runtime+wasi|18.1.8|19.1.7|runtime-wasi|Compliance mode enabled, was '19.1.7'|
+|llvm+32|18.1.8|20.1.0|runtime-optenv32|Compliance mode enabled, was '20.1.0'|
+|llvm-18|18.1.8|20.1.0|app-devel|Compliance mode enabled, was '20.1.0'|
+|llvm-19|19.1.6|20.1.0|app-devel|Compliance mode enabled, was '20.1.0'|
+|llvm-runtime+wasi|18.1.8|20.1.0|runtime-wasi|Compliance mode enabled, was '20.1.0'|
 |lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
@@ -1644,7 +1643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |muparser|2.2.6.1|2.3.5|runtime-common|Compliance mode enabled, was '2.3.5'|
 |mupdf|1.24.10|1.25.4|app-doc|Compliance mode enabled, was '1.25.4'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
-|mutter|42.4|47.5|desktop-gnome|Compliance mode enabled, was '47.5'|
+|mutter|42.4|47.6|desktop-gnome|Compliance mode enabled, was '47.6'|
 |mvfst|2024.12.30.00|2025.03.03.00|runtime-network|Compliance mode enabled, was '2025.03.03.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
@@ -2464,7 +2463,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlmap|1.8.8|1.9.2|app-penetration|Compliance mode enabled, was '1.9.2'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
-|squashfuse|0.1.105|0.5.2|app-admin|Compliance mode enabled, was '0.5.2'|
+|squashfuse|0.1.105|0.6.0|app-admin|Compliance mode enabled, was '0.6.0'|
 |squid|5.7|7.0.1|app-web|Compliance mode enabled, was '7.0.1'|
 |sra-tools|3.0.3|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
@@ -2516,7 +2515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.13.1|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'|
 |taglib+32|1.13.1|2.0.2|runtime-optenv32|Compliance mode enabled, was '2.0.2'|
 |tagparser|11.5.1|12.4.0|runtime-multimedia|Compliance mode enabled, was '12.4.0'|
-|tailscale|1.80.0|1.80.2|app-network|Compliance mode enabled, was '1.80.2'|
+|tailscale|1.80.0|1.80.3|app-network|Compliance mode enabled, was '1.80.3'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.4.2|2.4.3|runtime-common|Compliance mode enabled, was '2.4.3'|
@@ -2897,7 +2896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.174.6|0.176.1|app-editors|Compliance mode enabled, was '0.176.1'|
+|zed|0.174.6|0.176.2|app-editors|Compliance mode enabled, was '0.176.2'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.145.1|lang-python|Compliance mode enabled, was '0.145.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
