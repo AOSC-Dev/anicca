@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741108241?label=Updated)
+![Relative date](https://img.shields.io/date/1741112143?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -418,7 +418,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
 |dpkg|1.22.14|1.22.15|app-admin|Compliance mode enabled, was '1.22.15'|
-|dracut-ng|105|106|app-admin|Compliance mode enabled, was '106'|
 |dragon|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |drkonqi|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
@@ -2147,7 +2146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyicu|2.13.1|2.14|lang-python|Compliance mode enabled, was '2.14'|
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|pylast|3.0.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
+|pylast|3.0.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pylibacl|0.5.4|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |pylint|2.14.4|3.3.4|lang-python|Compliance mode enabled, was '3.3.4'|
