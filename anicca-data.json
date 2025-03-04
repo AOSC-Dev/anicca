@@ -1069,6 +1069,7 @@
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,["Compliance mode enabled, was '6.0.11'"]],
 ["python-kaitaistruct","0.9","0.10","lang-python",1618998184,["Compliance mode enabled, was '0.10'"]],
 ["twisted","21.2.0","24.11.0","lang-python",1616134410,["Compliance mode enabled, was '24.11.0'"]],
+["matplotlib","3.8.0","3.10.1","lang-python",1696572712,["Compliance mode enabled, was '3.10.1'"]],
 ["alabaster","0.7.12","1.0.0","lang-python",1549919968,["Compliance mode enabled, was '1.0.0'"]],
 ["pyrfc3339","1.1","2.0.1","lang-python",1530553511,["Compliance mode enabled, was '2.0.1'"]],
 ["cymem","2.0.5","2.0.11","lang-python",1637636760,["Compliance mode enabled, was '2.0.11'"]],
