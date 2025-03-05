@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741205644?label=Updated)
+![Relative date](https://img.shields.io/date/1741209056?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -768,7 +768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.127.6|lang-python|Compliance mode enabled, was '6.127.6'|
+|hypothesis-python|6.97.4|6.127.7|lang-python|Compliance mode enabled, was '6.127.7'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -1579,8 +1579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.9|lang-python|Compliance mode enabled, was '1.3.9'|
 |malcontent|0.10.5|0.13.0|runtime-desktop|Compliance mode enabled, was '0.13.0'|
 |man-pages|6.9.1|6.12|runtime-data||
-|mangohud|0.8.0|0.8.1|app-utils|Compliance mode enabled, was '0.8.1'|
-|mangohud+32|0.8.0|0.8.1|runtime-optenv32|Compliance mode enabled, was '0.8.1'|
 |marble|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mariadb|11.4.3|11.8.1|app-database|Compliance mode enabled, was '11.8.1'|
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
@@ -2153,7 +2151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.4|lang-python|Compliance mode enabled, was '7.45.4'|
 |pydantic|2.6.0|2.10.6|lang-python|Compliance mode enabled, was '2.10.6'|
-|pydantic-core|2.16.1|2.30.0|lang-python|Compliance mode enabled, was '2.30.0'|
+|pydantic-core|2.16.1|2.31.0|lang-python|Compliance mode enabled, was '2.31.0'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
@@ -2622,6 +2620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-media-tags-plugin|0.3.0|0.5.0|desktop-xfce|Compliance mode enabled, was '0.5.0'|
 |thunar-shares-plugin|0.3.2|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
+|thunderbird|128.7.1|128.8.0|app-web||
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
