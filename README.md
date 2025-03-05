@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741180842?label=Updated)
+![Relative date](https://img.shields.io/date/1741183889?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -428,6 +428,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.8|runtime-vcs|Compliance mode enabled, was '0.22.8'|
 |dune|3.4.1|3.17.2|lang-ocaml|Compliance mode enabled, was '3.17.2'|
+|dunst|1.12.1|1.12.2|app-utils|Compliance mode enabled, was '1.12.2'|
 |duplicity|3.0.1|3.0.4.1|app-utils|Compliance mode enabled, was '3.0.4.1'|
 |easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
 |edencommon|2024.12.30.00|2025.03.03.00|runtime-common|Compliance mode enabled, was '2025.03.03.00'|
@@ -1579,6 +1580,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.9|lang-python|Compliance mode enabled, was '1.3.9'|
 |malcontent|0.10.5|0.13.0|runtime-desktop|Compliance mode enabled, was '0.13.0'|
 |man-pages|6.9.1|6.12|runtime-data||
+|mangohud|0.8.0|0.8.1|app-utils|Compliance mode enabled, was '0.8.1'|
+|mangohud+32|0.8.0|0.8.1|runtime-optenv32|Compliance mode enabled, was '0.8.1'|
 |marble|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |mariadb|11.4.3|11.8.1|app-database|Compliance mode enabled, was '11.8.1'|
 |markdown|3.3.4|3.7|lang-python|Compliance mode enabled, was '3.7'|
