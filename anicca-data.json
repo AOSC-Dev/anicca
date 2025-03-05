@@ -2646,6 +2646,7 @@
 ["irrlicht","1.8.4","1.8.5","runtime-games",1468504030,["Compliance mode enabled, was '1.8.5'"]],
 ["black-hole-solver","1.10.1","1.14.0","runtime-games",1613805828,["Compliance mode enabled, was '1.14.0'"]],
 ["lazarus","3.2","3.8","lang-pascal",1711727725,["Compliance mode enabled, was '3.8'"]],
+["zig","0.13.0","0.14.0","lang-ziglang",1721226526,["Compliance mode enabled, was '0.14.0'"]],
 ["opencv","4.9.0","4.11.0","runtime-scientific",1738981173,["Compliance mode enabled, was '4.11.0'"]],
 ["givaro","4.2.0","4.2.1","runtime-scientific",1711174555,["Compliance mode enabled, was '4.2.1'"]],
 ["suitesparse","7.6.1","7.10.0","runtime-scientific",1710816632,["Compliance mode enabled, was '7.10.0'"]],
