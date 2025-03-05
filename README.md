@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741212648?label=Updated)
+![Relative date](https://img.shields.io/date/1741216410?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -75,7 +75,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
 |archlinux-keyring|20241015|20250123.1|runtime-data|Compliance mode enabled, was '20250123.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
-|argcomplete|3.5.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
+|argcomplete|3.5.0|3.6.0|lang-python|Compliance mode enabled, was '3.6.0'|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
 |arianna|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |ark|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
@@ -637,7 +637,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-initial-setup|42.2|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-keyring|40.0|46.2|desktop-gnome|Compliance mode enabled, was '46.2'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
-|gnome-mahjongg|3.38.3|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-maps|42.3|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
