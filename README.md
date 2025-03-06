@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741291928?label=Updated)
+![Relative date](https://img.shields.io/date/1741295443?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2761,7 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
 |virtualbox|7.1.6a|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
-|virtualenv|20.27.1|20.29.2|lang-python|Compliance mode enabled, was '20.29.2'|
+|virtualenv|20.27.1|20.29.3|lang-python|Compliance mode enabled, was '20.29.3'|
 |vkd3d+32|1.9|1.15|runtime-optenv32|Compliance mode enabled, was '1.15'|
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
