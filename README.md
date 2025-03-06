@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741221732?label=Updated)
+![Relative date](https://img.shields.io/date/1741227555?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -526,6 +526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |folly|2024.12.30.00|2025.03.03.00|runtime-common|Compliance mode enabled, was '2025.03.03.00'|
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
+|font-manager|0.9.2|0.9.3|app-utils|Compliance mode enabled, was '0.9.3'|
 |fontconfig|2.15.0|2.16.0|runtime-desktop|Compliance mode enabled, was '2.16.0'|
 |fontconfig+32|2.15.0|2.16.0|runtime-optenv32|Compliance mode enabled, was '2.16.0'|
 |fonttools|4.53.1|4.56.0|desktop-fonts|Compliance mode enabled, was '4.56.0'|
@@ -571,6 +572,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit-plugins|42.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gegl-0.4|0_4_48|0_4_54|runtime-imaging||
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
+|genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
 |geoipupdate|7.0.1|7.1.0|app-network|Compliance mode enabled, was '7.1.0'|
@@ -1272,6 +1274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
 |libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
+|libgpiod|1.4.2|2.2.1|runtime-devices|Compliance mode enabled, was '2.2.1'|
 |libgravatar|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
 |libgsf|1.14.47|1.14.53|desktop-gnome|Compliance mode enabled, was '1_14_53'|
 |libgtop|2.38.0|2.41.3|desktop-gnome|Compliance mode enabled, was '2.41.3'|
@@ -2731,7 +2734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.6.3|0.6.4|lang-python|Compliance mode enabled, was '0.6.4'|
 |v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
-|v2ray-rules-dat|202501302211|202503042212|runtime-data|Compliance mode enabled, was '202503042212'<br>Versions not comparable: `202501302211` and `202503042212`|
+|v2ray-rules-dat|202501302211|202503052212|runtime-data|Compliance mode enabled, was '202503052212'<br>Versions not comparable: `202501302211` and `202503052212`|
 |v2raya|2.2.6.3|2.2.6.6|app-network|Compliance mode enabled, was '2.2.6.6'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
