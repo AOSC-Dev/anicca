@@ -2857,6 +2857,7 @@
 ["aardvark-dns","1.13.1","1.14.0","app-admin",1731759292,["Compliance mode enabled, was '1.14.0'"]],
 ["packagekit","1.2.8","1.3.0","app-admin",1706859113,["Compliance mode enabled, was '1.3.0'"]],
 ["runc","1.1.14","1.2.5","app-admin",1727015619,["Compliance mode enabled, was '1.2.5'"]],
+["deb-installer","0.1.8","0.1.7","app-admin",1741257284,["Compliance mode enabled, was '0.1.7'","Possible downgrade from the current version (0.1.8 -> 0.1.7)"]],
 ["lxc","6.0.1","6.0.3","app-admin",1723477262,["Compliance mode enabled, was '6.0.3'"]],
 ["osinfo-db-tools","1.10.0","1.12.0","app-admin",1694574450,["Compliance mode enabled, was '1.12.0'"]],
 ["shadow","4.17.2","4.17.3","app-admin",1737808754,["Compliance mode enabled, was '4.17.3'"]],
