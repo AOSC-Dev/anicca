@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741284885?label=Updated)
+![Relative date](https://img.shields.io/date/1741287976?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -581,6 +581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|gh|2.68.0|2.68.1|app-devel|Compliance mode enabled, was '2.68.1'|
 |ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghidra|11.2.1_build|11.3.1_build|app-devel||
@@ -810,6 +811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-compute-runtime|24.52.32224.5|25.05.32567.17|runtime-scientific|Compliance mode enabled, was '25.05.32567.17'|
+|intel-gmmlib|22.6.0|22.7.0|runtime-devices|Compliance mode enabled, was '22.7.0'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.5.6|2.7.11|app-devel|Compliance mode enabled, was '2.7.11'|
 |intel-media-driver|24.4.4|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
@@ -2050,7 +2052,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |pimcommon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |pip|22.3.1|25.0.1|lang-python|Compliance mode enabled, was '25.0.1'|
-|pipewire|1.2.7|1.4.0|app-multimedia|Compliance mode enabled, was '1.4.0'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |pixman|0.43.0|0.44.2|runtime-display|Compliance mode enabled, was '0.44.2'|
@@ -2419,7 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
-|skanlite|23.08.5|24.12.2|desktop-kde|Compliance mode enabled, was '24.12.2'|
+|skanlite|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |skanpage|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |slick-greeter|2.0.4|2.0.9|desktop-displaymanagers|Compliance mode enabled, was '2.0.9'|
 |slirp4netns|1.2.2|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
