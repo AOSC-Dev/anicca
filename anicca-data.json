@@ -2717,7 +2717,6 @@
 ["vice","3.5","3.9","app-emulation",1617969757,["Compliance mode enabled, was '3.9'"]],
 ["simh","3.11+1","3.12+2","app-emulation",1570478208,["Compliance mode enabled, was '3.12-2'"]],
 ["bochs","2.8","3.0","app-emulation",1715915466,["Compliance mode enabled, was '3.0'"]],
-["waydroid","1.4.3","1.5.0","app-emulation",1724314612,["Compliance mode enabled, was '1.5.0'"]],
 ["winetricks","20240105","20250102","app-emulation",1708444603,["Compliance mode enabled, was '20250102'"]],
 ["spike","1.1.0+git20240708","1.1.0","app-emulation",1721227330,["Compliance mode enabled, was '1.1.0'"]],
 ["wine","10.1","10.2","app-emulation",1740919529,[]],
