@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741367448?label=Updated)
+![Relative date](https://img.shields.io/date/1741371235?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -360,7 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|1.44.1|2.2.3|lang-js|Compliance mode enabled, was '2.2.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
-|deskflow|1.19.0|1.20.0|app-utils|Compliance mode enabled, was '1.20.0'|
+|deskflow|1.19.0|1.20.1|app-utils|Compliance mode enabled, was '1.20.1'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.5|app-devel|Compliance mode enabled, was '2.25.5'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -380,6 +380,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|3.1.1|3.1.5|app-admin|Compliance mode enabled, was '3.1.5'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.110.0|lang-dlang|Compliance mode enabled, was '2.110.0'|
+|dnscontrol|4.16.0|4.17.0|app-network|Compliance mode enabled, was '4.17.0'|
 |dnscrypt|2.1.5|2.1.7|app-network|Compliance mode enabled, was '2.1.7'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -418,7 +419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.11.0|1.13.2|app-doc|Compliance mode enabled, was '1_13_2'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
-|dpkg|1.22.14|1.22.16|app-admin|Compliance mode enabled, was '1.22.16'|
+|dpkg|1.22.14|1.22.17|app-admin|Compliance mode enabled, was '1.22.17'|
 |dragon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |drkonqi|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
@@ -748,7 +749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |highway|1.1.0|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.11|3.6.11.270|app-games|Compliance mode enabled, was '3.6.11.270'|
+|hmcl|3.6.11|3.6.11.271|app-games|Compliance mode enabled, was '3.6.11.271'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.24.4|app-doc|Compliance mode enabled, was '3.24.4'|
@@ -1631,7 +1632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|mise|2025.2.8|2025.3.1|app-devel|Compliance mode enabled, was '2025.3.1'|
+|mise|2025.2.8|2025.3.2|app-devel|Compliance mode enabled, was '2025.3.2'|
 |mitmproxy|11.0.0|11.1.3|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
