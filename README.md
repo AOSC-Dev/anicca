@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741381572?label=Updated)
+![Relative date](https://img.shields.io/date/1741385257?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1391,6 +1391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.12.0|4.1.0|desktop-lxqt|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.2|runtime-web|Compliance mode enabled, was '0.9.2'|
 |libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
+|libreoffice|25.2.1.2|25.2.2.1|groups|Compliance mode enabled, was '25.2.2.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
 |librsvg|2.59.2|2.59.91|runtime-imaging|Compliance mode enabled, was '2.59.91'|
@@ -2640,7 +2641,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk|8.6.10|9.0.1|lang-tcl|Compliance mode enabled, was '9.0.1'|
 |tl-expected|1.0.0|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
 |tlp|1.6.1|1.8.0|app-admin|Compliance mode enabled, was '1.8.0'|
-|tofrodos|1.7.13|1.8.3|app-utils|Compliance mode enabled, was '1.8.3'|
 |tokodon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |toml|0.10.1|0.10.2|lang-python|Compliance mode enabled, was '0.10.2'|
 |tomli|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
