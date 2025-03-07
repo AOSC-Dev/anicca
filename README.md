@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741331572?label=Updated)
+![Relative date](https://img.shields.io/date/1741335275?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -161,7 +161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |bluedevil|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
-|bluez|5.77|5.79|app-devices|Compliance mode enabled, was '5.79'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |bochs|2.8|3.0|app-emulation|Compliance mode enabled, was '3.0'|
@@ -283,7 +282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|334|app-admin|Compliance mode enabled, was '334'|
+|cockpit|286.1|334.1|app-admin|Compliance mode enabled, was '334.1'|
 |cockpit-machines|284.1|328|app-admin|Compliance mode enabled, was '328'|
 |cockpit-podman|63|102|app-admin|Compliance mode enabled, was '102'|
 |code-server|4.93.1|4.97.2|app-utils|Compliance mode enabled, was '4.97.2'|
@@ -815,7 +814,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
 |intel-graphics-compiler|2.5.6|2.7.11|app-devel|Compliance mode enabled, was '2.7.11'|
 |intel-media-driver|24.4.4|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
-|inxi|3.3.31<br>+2|3.3.37+1|app-utils|Compliance mode enabled, was '3.3.37-1'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -1626,7 +1624,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |milou|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |mimalloc|2.1.7|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
-|minetest|5.7.0|5.11.0|app-games||
 |minicom|2.8|2.10|app-utils|Compliance mode enabled, was '2.10'|
 |minikube|1.34.0|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
 |miniserve|0.26.0|0.29.0|app-web|Compliance mode enabled, was '0.29.0'|
@@ -1825,7 +1822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
-|osu-lazer|2025.304.0|2025.306.0|app-games|Compliance mode enabled, was '2025.306.0'|
 |owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |oxygen-icons|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -2758,7 +2754,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1176|9.1.1179|app-editors|Compliance mode enabled, was '9.1.1179'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
