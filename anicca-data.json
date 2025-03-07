@@ -1047,7 +1047,7 @@
 ["beaker","1.11.0","1.13.0","lang-python",1614161777,["Compliance mode enabled, was '1.13.0'"]],
 ["terminaltables","3.1.0","3.1.10","lang-python",1678950872,["Compliance mode enabled, was '3.1.10'"]],
 ["mock","2.0.0","5.2.0","lang-python",1472818590,["Compliance mode enabled, was '5.2.0'"]],
-["pycurl","7.45.3","7.45.4","lang-python",1718898410,["Compliance mode enabled, was '7.45.4'"]],
+["pycurl","7.45.3","7.45.6","lang-python",1718898410,["Compliance mode enabled, was '7.45.6'"]],
 ["setuptools-scm","8.1.0","8.2.0","lang-python",1732598160,["Compliance mode enabled, was '8.2.0'"]],
 ["chardet","3.0.4","5.2.0","lang-python",1499435661,["Compliance mode enabled, was '5.2.0'"]],
 ["jeepney","0.6.0","0.9.0","lang-python",1609330974,["Compliance mode enabled, was '0.9.0'"]],
