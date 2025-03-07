@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741349958?label=Updated)
+![Relative date](https://img.shields.io/date/1741353622?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -517,7 +517,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.1.3|runtime-scientific|Compliance mode enabled, was '3.1.3'|
 |flit|3.9.0|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
-|flit-core|3.9.0|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |fltk|1.3.5|1.4.2|runtime-desktop|Compliance mode enabled, was '1.4.2'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.3|app-multimedia|Compliance mode enabled, was '2.4.3'|
@@ -1177,6 +1176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwidgetsaddons|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kwin|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |kwindowsystem|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|kwordquiz|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kwrited|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |kxmleditor-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kxmlgui|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -2096,6 +2096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-agent-tde-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polkit-kde-agent-1|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
+|polkit-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
