@@ -1368,6 +1368,7 @@
 ["clazy","1.11","1.13","app-devel",1678601014,["Compliance mode enabled, was '1.13'"]],
 ["avr-libc","2.0.0","2_2_1-release","app-devel",1634066043,["Compliance mode enabled, was '2_2_1-release'"]],
 ["aspnetcore-targeting-pack-6.0","6.0.30","6.0.36","app-devel",1716597653,["Compliance mode enabled, was '6.0.36'"]],
+["lfortran","0.46.0","0.47.0","app-devel",1740905613,["Compliance mode enabled, was '0.47.0'"]],
 ["gcc+cross","13.2.0+glibc2.38+6","14.2.0","app-devel",1723639610,["Compliance mode enabled, was '14.2.0'"]],
 ["upx","4.2.4","5.0.0","app-devel",1728351756,["Compliance mode enabled, was '5.0.0'"]],
 ["gtest","1.10.0+git20210513","1.16.0","app-devel",1621313528,["Compliance mode enabled, was '1.16.0'"]],
