@@ -2637,7 +2637,6 @@
 ["libuv","1.48.0","1.50.0","runtime-common",1708762981,["Compliance mode enabled, was '1.50.0'"]],
 ["libbloom","1.6","2.0","runtime-common",1600146739,["Compliance mode enabled, was '2.0'"]],
 ["ffcall","2.4","2.5","runtime-common",1722580416,["Compliance mode enabled, was '2.5'"]],
-["libcpuid","0.5.1","0.7.1","runtime-common",1641887332,["Compliance mode enabled, was '0.7.1'"]],
 ["attr","2.4.48","2.5.2","runtime-common",1530852073,["Compliance mode enabled, was '2.5.2'"]],
 ["libdispatch","5.6.1","5.9.2-release","runtime-common",1652958880,["Compliance mode enabled, was '5.9.2-RELEASE'"]],
 ["etl","1.2.2","1.5.3","runtime-common",1555643076,["Compliance mode enabled, was '1.5.3'"]],
