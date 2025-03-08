@@ -1028,7 +1028,6 @@
 ["novaclient","18.6.0","18.8.0","lang-python",1724639794,["Compliance mode enabled, was '18.8.0'"]],
 ["jmespath","0.10.0","1.0.1","lang-python",1616123331,["Compliance mode enabled, was '1.0.1'"]],
 ["pydrive2","1.20.0","1.21.3","lang-python",1724639794,["Compliance mode enabled, was '1.21.3'"]],
-["humanize","0.5.1","4.12.1","lang-python",1499692896,["Compliance mode enabled, was '4.12.1'"]],
 ["pysmbc","1.0.22","1.0.25.1","lang-python",1600671246,["Compliance mode enabled, was '1.0.25.1'"]],
 ["pycryptopp","0.7.1","0.5.29","lang-python",1473089332,["Compliance mode enabled, was '0.5.29'","Possible downgrade from the current version (0.7.1 -> 0.5.29)"]],
 ["setuptools-rust","1.9.0","1.10.2","lang-python",1719323131,["Compliance mode enabled, was '1.10.2'"]],
