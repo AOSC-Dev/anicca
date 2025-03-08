@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741450301?label=Updated)
+![Relative date](https://img.shields.io/date/1741453499?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -353,7 +353,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.112|runtime-admin|Compliance mode enabled, was '0.112'|
 |dbus-glib+32|0.110|0.112|runtime-optenv32|Compliance mode enabled, was '0.112'|
 |dbus-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|ddcutil|2.1.4|2.2.0|app-utils|Compliance mode enabled, was '2.2.0'|
 |ddnet|18.4|19.0|app-games|Compliance mode enabled, was '19.0'|
 |debconf|1.5.87|1.5.90|app-admin|Compliance mode enabled, was '1.5.90'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
@@ -1636,6 +1635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mise|2025.2.8|2025.3.2|app-devel|Compliance mode enabled, was '2025.3.2'|
+|mitmproxy|11.0.0|11.1.3|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|87.0|90.0|app-multimedia|Compliance mode enabled, was '90.0'|
@@ -1760,7 +1760,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.20|desktop-kde|Compliance mode enabled, was '0.26.20'|
 |okular|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.14.518|1.15.0|app-admin|Compliance mode enabled, was '1.15.0'|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7650-250121-affa790|app-games|Compliance mode enabled, was '1.91.0.7650-250121-affa790'|
@@ -2630,7 +2629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunar-media-tags-plugin|0.3.0|0.5.0|desktop-xfce|Compliance mode enabled, was '0.5.0'|
 |thunar-shares-plugin|0.3.2|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |thunar-vcs-plugin|0.2.0|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'|
-|thunderbird|128.7.1|128.8.0|app-web||
+|thunderbird|136.0|128.8.0|app-web|Compliance mode enabled, was '128.8.0'<br>Possible downgrade from the current version (136.0 -> 128.8.0)|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
