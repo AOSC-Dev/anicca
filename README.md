@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741407174?label=Updated)
+![Relative date](https://img.shields.io/date/1741410481?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -40,6 +40,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-contacts|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-import-wizard|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-mime|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
+|akonadi-notes|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-search|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadiconsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akregator|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1528,6 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
 |lskat|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |lsof|4.99.3|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
+|lsp-plugins|1.2.20|1.2.21|app-multimedia|Compliance mode enabled, was '1.2.21'|
 |ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lttng-ust|2.13.5|2.13.8|runtime-common|Compliance mode enabled, was '2.13.8'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
@@ -2050,6 +2052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |piklab-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |pillow|10.4.0|11.1.0|lang-python|Compliance mode enabled, was '11.1.0'|
 |pim-data-exporter|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
+|pim-sieve-editor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |pimcommon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |pip|22.3.1|25.0.1|lang-python|Compliance mode enabled, was '25.0.1'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
@@ -2812,7 +2815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.1|10.2|app-emulation||
+|wine|10.1|10.3|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-regdb|2024.10.07|2025.02.20|app-network|Compliance mode enabled, was '2025.02.20'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
