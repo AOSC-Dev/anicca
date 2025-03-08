@@ -2542,6 +2542,7 @@
 ["uthash","2.1.0","2.3.0","runtime-common",1603951135,["Compliance mode enabled, was '2.3.0'"]],
 ["onig","6.9.5+rev1","6.9.10","runtime-common",1600321917,["Compliance mode enabled, was '6.9.10'"]],
 ["robin-hood-hashing","3.11.4","3.11.5","runtime-common",1641887627,["Compliance mode enabled, was '3.11.5'"]],
+["tinyxml2","10.0.0","10.1.0","runtime-common",1727581856,["Compliance mode enabled, was '10.1.0'"]],
 ["re2","2024-06-01","2024-07-02","runtime-common",1737436557,[]],
 ["libxmlb","0.3.15","0.3.21","runtime-common",1710347212,["Compliance mode enabled, was '0.3.21'"]],
 ["liburcu","0.14.0","0.15.1","runtime-common",1707183493,["Compliance mode enabled, was '0.15.1'"]],
