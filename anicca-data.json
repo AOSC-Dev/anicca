@@ -1465,7 +1465,7 @@
 ["android-simg2img","1.1.4","1.1.5","app-devices",1594020997,["Compliance mode enabled, was '1.1.5'"]],
 ["newflasher","52","57","app-devices",1658966837,["Compliance mode enabled, was '57'"]],
 ["tilp","1.17","1.18","app-devices",1678950872,["Compliance mode enabled, was '1.18'"]],
-["vscodium","1.97.0.25037","1.97.2.25045","app-editors",1739246628,["Compliance mode enabled, was '1.97.2.25045'"]],
+["vscodium","1.97.0.25037","1.98.0.25067","app-editors",1739246628,["Compliance mode enabled, was '1.98.0.25067'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.37.4","app-editors",1723441135,["Compliance mode enabled, was '1.37.4'"]],
 ["vscode","1.97.2","1.98.0","app-editors",1739637214,["Compliance mode enabled, was '1.98.0'"]],
