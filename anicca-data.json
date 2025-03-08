@@ -1443,6 +1443,7 @@
 ["arduino-avr-core","1.8.3","1.8.6","app-devel",1634066043,["Compliance mode enabled, was '1.8.6'"]],
 ["shaderc","2023.7","2025.1","app-devel",1700548607,["Compliance mode enabled, was '2025.1'"]],
 ["llvm-19","19.1.6","20.1.0","app-devel",1734960768,["Compliance mode enabled, was '20.1.0'"]],
+["autobuild4","4.7.13","4.7.14","app-devel",1741329378,["Compliance mode enabled, was '4.7.14'"]],
 ["orc","0.4.32","0.4.41","app-devel",1600577920,["Compliance mode enabled, was '0.4.41'"]],
 ["ast-grep","0.33.0","0.35.0","app-devel",1736066761,["Compliance mode enabled, was '0.35.0'"]],
 ["bcc","0.30.0","0.33.0","app-devel",1715740238,["Compliance mode enabled, was '0.33.0'"]],
