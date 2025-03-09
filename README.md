@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741500735?label=Updated)
+![Relative date](https://img.shields.io/date/1741503948?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -95,7 +95,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.13|lang-dotnet|Compliance mode enabled, was '8.0.13'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.33.0|0.35.0|app-devel|Compliance mode enabled, was '0.35.0'|
+|ast-grep|0.33.0|0.36.0|app-devel|Compliance mode enabled, was '0.36.0'|
 |astroid|2.12.2|4.0.0~a0|lang-python|Compliance mode enabled, was '4.0.0a0'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |astyle|3.6.6|3.6.7|app-devel|Compliance mode enabled, was '3.6.7'|
@@ -530,7 +530,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |folly|2024.12.30.00|2025.03.03.00|runtime-common|Compliance mode enabled, was '2025.03.03.00'|
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
-|font-manager|0.9.2|0.9.4|app-utils|Compliance mode enabled, was '0.9.4'|
 |fontconfig|2.15.0|2.16.0|runtime-desktop|Compliance mode enabled, was '2.16.0'|
 |fontconfig+32|2.15.0|2.16.0|runtime-optenv32|Compliance mode enabled, was '2.16.0'|
 |fonttools|4.53.1|4.56.0|desktop-fonts|Compliance mode enabled, was '4.56.0'|
@@ -2605,7 +2604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tealdeer|1.6.1|1.7.1|app-doc|Compliance mode enabled, was '1.7.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.11.1|5.12.1|app-web|Compliance mode enabled, was '5.12.1'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2616,7 +2614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |tevent|0.16.1|0.16.2|runtime-common|Compliance mode enabled, was '0.16.2'|
-|texlive|20240312|2024|app-doc|Compliance mode enabled, was '2024'<br>Possible downgrade from the current version (20240312 -> 2024)|
+|texlive|20240312|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20240312 -> 2025)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
 |texstudio|4.0.2|4.8.6|app-doc|Compliance mode enabled, was '4.8.6'|
 |texworks|0.6.6|0.6.10|app-doc|Compliance mode enabled, was '0.6.10'|
@@ -2814,7 +2812,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
 |wikipedia|1.4.0|1.4.5|lang-python|Compliance mode enabled, was '1.4.5'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.1|10.3|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireless-regdb|2024.10.07|2025.02.20|app-network|Compliance mode enabled, was '2025.02.20'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
