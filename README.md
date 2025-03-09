@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741487405?label=Updated)
+![Relative date](https://img.shields.io/date/1741489954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -169,7 +169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |boost|1.83.0|1.87.0|runtime-common|Compliance mode enabled, was '1.87.0'|
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
-|botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
 |boto3|1.20.26|1.37.9|lang-python|Compliance mode enabled, was '1.37.9'|
 |botocore|1.34.133|1.37.9|lang-python|Compliance mode enabled, was '1.37.9'|
@@ -673,7 +672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls+32|3.8.7|3.8.9|runtime-optenv32|Compliance mode enabled, was '3.8.9'|
 |go|1.23.1|1.24.1|lang-golang||
 |go-md2man|2.0.5|2.0.6|app-doc|Compliance mode enabled, was '2.0.6'|
-|gobject-introspection|1.80.0|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
 |godot|4.3|4.4|app-devel|Compliance mode enabled, was '4.4'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
@@ -1744,7 +1742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia-open|570.124.04<br>+utils570.124.04|570.124.06|runtime-display|Compliance mode enabled, was '570.124.06'|
 |nvm|0.39.7|0.40.1|lang-js|Compliance mode enabled, was '0.40.1'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
-|obs-studio|31.0.1|31.0.2|app-multimedia|Compliance mode enabled, was '31.0.2'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2265,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|11.10.1|app-doc|Compliance mode enabled, was '11.10.1'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
-|qpwgraph|0.8.1|0.8.2|app-multimedia|Compliance mode enabled, was '0.8.2'|
 |qqc2-desktop-style|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
@@ -2701,7 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |typos|1.29.10|1.30.1|app-utils|Compliance mode enabled, was '1.30.1'|
-|typst|0.13.0|0.13.1|app-doc|Compliance mode enabled, was '0.13.1'|
 |uboot-tools|2024.10|2025.01|app-utils|Compliance mode enabled, was '2025.01'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|runtime-data|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
@@ -2849,6 +2844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal-gnome|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
 |xdg-desktop-portal-kde|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
+|xdm|1.1.16|1.1.17|desktop-displaymanagers|Compliance mode enabled, was '1.1.17'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-evdev|2.10.6|2.11.0|runtime-display|Compliance mode enabled, was '2.11.0'|
