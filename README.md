@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741551029?label=Updated)
+![Relative date](https://img.shields.io/date/1741554313?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -422,7 +422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.11.0|1.13.2|app-doc|Compliance mode enabled, was '1_13_2'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|24.11|runtime-network|Compliance mode enabled, was '24.11'|
-|dpkg|1.22.14|1.22.17|app-admin|Compliance mode enabled, was '1.22.17'|
+|dpkg|1.22.14|1.22.18|app-admin|Compliance mode enabled, was '1.22.18'|
 |dragon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |drkonqi|5.27.12|6.3.2|desktop-kde|Compliance mode enabled, was '6.3.2'|
 |drumstick|2.9.0|2.10.0|app-creativity|Compliance mode enabled, was '2.10.0'|
@@ -2441,6 +2441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
+|sonic-visualiser|4.4|5.2|app-multimedia|Compliance mode enabled, was '5.2'|
 |sonivox|3.6.12|3.6.15|runtime-multimedia|Compliance mode enabled, was '3.6.15'|
 |sonnet|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |sord|0.16.4|0.16.18|runtime-common|Compliance mode enabled, was '0.16.18'|
