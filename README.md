@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741475218?label=Updated)
+![Relative date](https://img.shields.io/date/1741480640?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1608,7 +1608,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |mcfly|0.9.2|0.9.3|app-utils|Compliance mode enabled, was '0.9.3'|
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
-|mdbook|0.4.40|0.4.45|app-doc|Compliance mode enabled, was '0.4.45'|
+|mdbook|0.4.40|0.4.46|app-doc|Compliance mode enabled, was '0.4.46'|
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |meld|3.22.2|3.22.3|desktop-gnome|Compliance mode enabled, was '3.22.3'|
@@ -2119,7 +2119,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ppsspp|1.18.1<br>+git20250206|1.18.1|app-games|Compliance mode enabled, was '1.18.1'|
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
-|presenterm|0.5.0|0.10.1|app-productivity|Compliance mode enabled, was '0.10.1'|
+|presenterm|0.5.0|0.11.0|app-productivity|Compliance mode enabled, was '0.11.0'|
 |prettytable|0.7.2|3.15.1|lang-python|Compliance mode enabled, was '3.15.1'|
 |print-manager|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |prison5|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
