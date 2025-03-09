@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741507985?label=Updated)
+![Relative date](https://img.shields.io/date/1741511145?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -610,8 +610,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib-networking|2.72.2|2.80.1|runtime-common|Compliance mode enabled, was '2.80.1'|
 |glibc|2.40|2.41|core-libs|Compliance mode enabled, was '2.41'|
 |glibc+32|2.40|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
-|glibmm|2.66.2|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
-|glibmm-2.68|2.78.0|2.82.0|desktop-gnome|Compliance mode enabled, was '2.82.0'|
+|glibmm|2.66.2|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
+|glibmm-2.68|2.78.0|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |glslang|13.1.1|15.1.0|app-imaging|Compliance mode enabled, was '15.1.0'|
 |glslang+32|13.1.1|15.1.0|runtime-optenv32|Compliance mode enabled, was '15.1.0'|
@@ -810,10 +810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
-|intel-compute-runtime|24.52.32224.5|25.05.32567.17|runtime-scientific|Compliance mode enabled, was '25.05.32567.17'|
-|intel-gmmlib|22.6.0|22.7.0|runtime-devices|Compliance mode enabled, was '22.7.0'|
 |intel-gpu-tools|1.29|1.30|app-admin|Compliance mode enabled, was '1.30'|
-|intel-graphics-compiler|2.5.6|2.7.11|app-devel|Compliance mode enabled, was '2.7.11'|
 |intel-media-driver|24.4.4|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -1201,7 +1198,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
-|level-zero|1.19.2|1.20.2|runtime-common|Compliance mode enabled, was '1.20.2'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
 |lfortran|0.46.0|0.47.0|app-devel|Compliance mode enabled, was '0.47.0'|
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
@@ -1620,7 +1616,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.0.1|runtime-display|Compliance mode enabled, was '25.0.1'|
 |messagelib|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |metacity|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
-|metee|4.3.0|4.3.1|runtime-devices|Compliance mode enabled, was '4.3.1'|
 |mgba|0.10.4|0.10.5|app-games|Compliance mode enabled, was '0.10.5'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
 |midori|9.0|11.5|app-web|Compliance mode enabled, was '11.5'|
