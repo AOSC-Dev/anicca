@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741493502?label=Updated)
+![Relative date](https://img.shields.io/date/1741496951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -773,6 +773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
 |hypothesis-python|6.97.4|6.127.9|lang-python|Compliance mode enabled, was '6.127.9'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
+|i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
 |ibus|1.5.25|1.5.31|app-i18n|Compliance mode enabled, was '1.5.31'|
@@ -1682,8 +1683,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.0|app-scientific|Compliance mode enabled, was '3.2.0'|
 |ncdu|1.16|2.8|app-utils|Compliance mode enabled, was '2.8'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250301|runtime-common|Compliance mode enabled, was '6.5-20250301'|
-|ncurses+32|6.4|6.5+20250301|runtime-optenv32|Compliance mode enabled, was '6.5-20250301'|
+|ncurses|6.4|6.5+20250308|runtime-common|Compliance mode enabled, was '6.5-20250308'|
+|ncurses+32|6.4|6.5+20250308|runtime-optenv32|Compliance mode enabled, was '6.5-20250308'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2399,8 +2400,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|75.8.2|lang-python|Compliance mode enabled, was '75.8.2'|
-|setuptools-python3|75.8.0|75.8.2|lang-python|Compliance mode enabled, was '75.8.2'|
+|setuptools-python2|44.1.0|75.9.1|lang-python|Compliance mode enabled, was '75.9.1'|
+|setuptools-python3|75.8.0|75.9.1|lang-python|Compliance mode enabled, was '75.9.1'|
 |setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
 |setuptools-scm|8.1.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
