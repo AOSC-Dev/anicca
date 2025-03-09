@@ -1387,7 +1387,6 @@
 ["gnu-efi","3.0.18","4.0.0","app-devel",1736994611,["Compliance mode enabled, was '4.0.0'"]],
 ["autoconf-archive","2023.02.20","2024.10.16","app-devel",1715607609,["Compliance mode enabled, was '2024.10.16'"]],
 ["gperftools","2.13","2.16.90","app-devel",1696572712,["Compliance mode enabled, was '2.16.90'"]],
-["highlight","4.12","4.15","app-devel",1722328885,["Compliance mode enabled, was '4.15'"]],
 ["radare2","5.9.4","5.9.8","app-devel",1728365718,["Compliance mode enabled, was '5.9.8'"]],
 ["corrosion","0.4.10","0.5.1","app-devel",1721093359,["Compliance mode enabled, was '0.5.1'"]],
 ["cuda","12.6.3","12.8.1","app-devel",1737358583,[]],
