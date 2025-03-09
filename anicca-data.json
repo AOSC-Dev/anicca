@@ -85,6 +85,7 @@
 ["openjfx-23","23-ga","23.0.2-ga","lang-java",1726912753,[]],
 ["openjfx-11","11.0.20+1","11.0.18","lang-java",1697240554,["Compliance mode enabled, was '11.0.18'","Possible downgrade from the current version (11.0.20+1 -> 11.0.18)"]],
 ["gradle","8.12.0","8.13.0","lang-java",1736489515,["Compliance mode enabled, was '8.13.0'"]],
+["openjfx-17","17.0.13+0","17.0.15+0","lang-java",1723449868,["Compliance mode enabled, was '17.0.15+0'"]],
 ["gnome-font-viewer","42.0","47.0","desktop-gnome",1663210243,["Compliance mode enabled, was '47.0'"]],
 ["glycin","1.1.4","1.1.6","desktop-gnome",1738565706,["Compliance mode enabled, was '1.1.6'"]],
 ["simple-scan","42.1","46.0","desktop-gnome",1663210244,["Compliance mode enabled, was '46.0'"]],
