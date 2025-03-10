@@ -288,7 +288,6 @@
 ["glibc","2.40","2.41","core-libs",1733826087,["Compliance mode enabled, was '2.41'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
 ["trinity-default-settings","2023.07.1r","2024.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.11.0'"]],
-["bash-startup","0.7.1","0.7.0","runtime-data",1741590790,["Compliance mode enabled, was '0.7.0'","Possible downgrade from the current version (0.7.1 -> 0.7.0)"]],
 ["archlinux-keyring","20241015","20250123.1","runtime-data",1729578196,["Compliance mode enabled, was '20250123.1'"]],
 ["spdx-licenses","3.25.0","3.26.0","runtime-data",1732414619,["Compliance mode enabled, was '3.26.0'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
