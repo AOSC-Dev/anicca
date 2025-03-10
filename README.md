@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741626672?label=Updated)
+![Relative date](https://img.shields.io/date/1741630496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -511,7 +511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.39|app-utils|Compliance mode enabled, was '3.39'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
-|fizz|2024.12.30.00|2025.03.03.00|app-network|Compliance mode enabled, was '2025.03.03.00'|
+|fizz|2024.12.30.00|2025.03.10.00|app-network|Compliance mode enabled, was '2025.03.10.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
@@ -530,7 +530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fmt|10.2.1|11.1.4|runtime-common|Compliance mode enabled, was '11.1.4'|
 |fnm|1.37.2|1.38.1|lang-js|Compliance mode enabled, was '1.38.1'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
-|folly|2024.12.30.00|2025.03.03.00|runtime-common|Compliance mode enabled, was '2025.03.03.00'|
+|folly|2024.12.30.00|2025.03.10.00|runtime-common|Compliance mode enabled, was '2025.03.10.00'|
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
 |fontconfig|2.15.0|2.16.0|runtime-desktop|Compliance mode enabled, was '2.16.0'|
 |fontconfig+32|2.15.0|2.16.0|runtime-optenv32|Compliance mode enabled, was '2.16.0'|
@@ -1741,6 +1741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
+|ocaml-fmt|0.9.0|0.10.0|lang-ocaml|Compliance mode enabled, was '0.10.0'|
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
 |ocaml-num|1.3|1.5|lang-ocaml|Compliance mode enabled, was '1.5'|
 |ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
@@ -2209,7 +2210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-augeas|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-build|1.2.1|1.2.2|lang-python|Compliance mode enabled, was '1.2.2'|
 |python-cloudflare|2.8.15|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
-|python-cssselect|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
+|python-cssselect|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-daemonize|2.5.0|3.10.0|lang-python|Compliance mode enabled, was '3.10.0'|
 |python-dbusmock|0.22.0|0.34.3|lang-python|Compliance mode enabled, was '0.34.3'|
 |python-djvulibre|0.8.6|0.8.8|lang-python|Compliance mode enabled, was '0.8.8'|
@@ -2788,10 +2789,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
 |vulkan-validationlayers|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2024.12.30.00|2025.03.03.00|runtime-network|Compliance mode enabled, was '2025.03.03.00'|
+|wangle|2024.12.30.00|2025.03.10.00|runtime-network|Compliance mode enabled, was '2025.03.10.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
-|watchman|2024.12.30.00|2025.03.03.00|app-utils|Compliance mode enabled, was '2025.03.03.00'|
+|watchman|2024.12.30.00|2025.03.10.00|app-utils|Compliance mode enabled, was '2025.03.10.00'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
