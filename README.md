@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741561554?label=Updated)
+![Relative date](https://img.shields.io/date/1741567020?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -318,6 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cppcheck|2.8|2.17.0|app-devel|Compliance mode enabled, was '2.17.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
+|cpu-x|5.1.2|5.1.3|app-utils|Compliance mode enabled, was '5.1.3'|
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|8.0.6|app-devel|Compliance mode enabled, was '8.0.6'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
@@ -857,6 +858,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
+|just|1.39.0|1.40.0|app-devel|Compliance mode enabled, was '1.40.0'|
 |k3b|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |k3b-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |k9copy-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
