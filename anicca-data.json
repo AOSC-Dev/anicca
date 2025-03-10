@@ -1906,6 +1906,7 @@
 ["perl-yaml-tiny","1.73","1.76","lang-perl",1612155063,["Compliance mode enabled, was '1.76'"]],
 ["perl-list-moreutils","0.428","0.430","lang-perl",1530196414,["Compliance mode enabled, was '0.430'"]],
 ["perl-digest-hmac","1.03","1.05","lang-perl",1678950872,["Compliance mode enabled, was '1.05'"]],
+["perl-crypt-openssl-guess","0.11","0.15","lang-perl",1531878868,["Compliance mode enabled, was '0.15'"]],
 ["perl-xml-libxslt","1.96","2.003000","lang-perl",1530196414,["Compliance mode enabled, was '2.003000'"]],
 ["perl-file-next","1.16","1.18","lang-perl",1488649548,["Compliance mode enabled, was '1.18'"]],
 ["perl-extutils-helpers","0.026","0.028","lang-perl",1678950872,["Compliance mode enabled, was '0.028'"]],
