@@ -2752,7 +2752,7 @@
 ["libtiff","4.4.0","4.7.0","runtime-imaging",1509079104,["Compliance mode enabled, was '4.7.0'"]],
 ["jasper","2.0.21","4.2.4","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.4'"]],
 ["openimageio","2.4.17.0","3.0.4.0","runtime-imaging",1702112652,["Compliance mode enabled, was '3.0.4.0'"]],
-["babl","0.1.108","0.1.110","runtime-imaging",1710250223,["Compliance mode enabled, was '0_1_110'"]],
+["babl","0.1.108","0.1.112","runtime-imaging",1710250223,["Compliance mode enabled, was '0_1_112'"]],
 ["openjpeg","2.5.2","2.5.3","runtime-imaging",1716597707,["Compliance mode enabled, was '2.5.3'"]],
 ["jbig2dec","0.18","0.20","runtime-imaging",1599723147,["Compliance mode enabled, was '0.20'"]],
 ["coin","4.0.0+git20220828","4.0.3","runtime-imaging",1674446327,["Compliance mode enabled, was '4.0.3'"]],
