@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741637571?label=Updated)
+![Relative date](https://img.shields.io/date/1741641064?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1666,7 +1666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mupdf|1.24.10|1.25.4|app-doc|Compliance mode enabled, was '1.25.4'|
 |musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
 |mutter|42.4|47.6|desktop-gnome|Compliance mode enabled, was '47.6'|
-|mvfst|2024.12.30.00|2025.03.03.00|runtime-network|Compliance mode enabled, was '2025.03.03.00'|
+|mvfst|2024.12.30.00|2025.03.10.00|runtime-network|Compliance mode enabled, was '2025.03.10.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -2162,7 +2162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
-|pygccxml|2.1.0|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
+|pygccxml|2.1.0|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |pygit2|1.14.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |pyglet|1.3.2|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |pygments|2.18.0|2.19.1|lang-python|Compliance mode enabled, was '2.19.1'|
@@ -2695,7 +2695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
-|typos|1.29.10|1.30.1|app-utils|Compliance mode enabled, was '1.30.1'|
+|typos|1.29.10|1.30.2|app-utils|Compliance mode enabled, was '1.30.2'|
 |uboot-tools|2024.10|2025.01|app-utils|Compliance mode enabled, was '2025.01'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|runtime-data|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
