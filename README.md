@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741597862?label=Updated)
+![Relative date](https://img.shields.io/date/1741601463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -288,7 +288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|286.1|334.1|app-admin|Compliance mode enabled, was '334.1'|
-|cockpit-machines|284.1|328|app-admin|Compliance mode enabled, was '328'|
+|cockpit-machines|284.1|328.1|app-admin|Compliance mode enabled, was '328.1'|
 |cockpit-podman|63|102|app-admin|Compliance mode enabled, was '102'|
 |code-server|4.93.1|4.97.2|app-utils|Compliance mode enabled, was '4.97.2'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -800,8 +800,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
 |iio-sensor-proxy|3.5|3.6|app-utils|Compliance mode enabled, was '3.6'|
-|imagemagick|6.9.13<br>+16|6.9.13+22|app-utils|Compliance mode enabled, was '6.9.13-22'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+44|app-utils|Compliance mode enabled, was '7.1.1-44'|
+|imagemagick|6.9.13<br>+16|6.9.13+23|app-utils|Compliance mode enabled, was '6.9.13-23'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+45|app-utils|Compliance mode enabled, was '7.1.1-45'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
