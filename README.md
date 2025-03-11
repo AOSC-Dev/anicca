@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741666527?label=Updated)
+![Relative date](https://img.shields.io/date/1741669981?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1583,7 +1583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m64py|0.2.5|0.3.0|app-games|Compliance mode enabled, was '0.3.0'|
 |mac-fdisk|0.1|0.1.orig|app-admin|Compliance mode enabled, was '0.1.orig'<br>Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |macchina|6.1.8|6.4.0|app-utils|Compliance mode enabled, was '6.4.0'|
-|magic-wormhole|0.11.2|0.17.0|app-network|Compliance mode enabled, was '0.17.0'|
+|magic-wormhole|0.11.2|0.18.0|app-network|Compliance mode enabled, was '0.18.0'|
 |mailcommon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mailimporter|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
