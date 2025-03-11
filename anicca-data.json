@@ -629,6 +629,7 @@
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
 ["rubberband","1.9.2","4.0.0","app-multimedia",1630350072,["Compliance mode enabled, was '4.0.0'"]],
 ["guitarix","0.44.1","0.46.0","app-multimedia",1726503576,["Compliance mode enabled, was '0.46.0'"]],
+["mpd","0.23.17","0.24","app-multimedia",1738218301,["Compliance mode enabled, was '0.24'"]],
 ["fluida.lv2","0.9.2","0.9.3","app-multimedia",1727190828,["Compliance mode enabled, was '0.9.3'"]],
 ["mpg123","1.32.8","1.32.10","app-multimedia",1730365887,["Compliance mode enabled, was '1.32.10'"]],
 ["handbrake","1.9.0","1.9.2","app-multimedia",1735219529,["Compliance mode enabled, was '1.9.2'"]],
