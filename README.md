@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741723948?label=Updated)
+![Relative date](https://img.shields.io/date/1741727313?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -171,8 +171,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.37.10|lang-python|Compliance mode enabled, was '1.37.10'|
-|botocore|1.34.133|1.37.10|lang-python|Compliance mode enabled, was '1.37.10'|
+|boto3|1.20.26|1.37.11|lang-python|Compliance mode enabled, was '1.37.11'|
+|botocore|1.34.133|1.37.11|lang-python|Compliance mode enabled, was '1.37.11'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.20|app-utils|Compliance mode enabled, was '51.20'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.20)|
 |bottom|0.9.6|0.10.2|app-admin|Compliance mode enabled, was '0.10.2'|
@@ -616,7 +616,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibc+32|2.40|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |glibmm|2.66.2|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glibmm-2.68|2.78.0|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
-|glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |glslang|13.1.1|15.1.0|app-imaging|Compliance mode enabled, was '15.1.0'|
 |glslang+32|13.1.1|15.1.0|runtime-optenv32|Compliance mode enabled, was '15.1.0'|
 |glycin|1.1.4|1.1.6|desktop-gnome|Compliance mode enabled, was '1.1.6'|
@@ -2092,6 +2091,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po-debconf|1.0.21|1.0.21+nmu1|app-admin|Compliance mode enabled, was '1.0.21+nmu1'<br>Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)|
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.4.0|5.4.1|app-containers||
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
 |poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
 |poetry|1.8.3|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
@@ -2486,7 +2486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.4.304.0|2024.3|runtime-display|Compliance mode enabled, was '2024.3'|
 |spirv-tools+32|1.4.304.0|2024.3|runtime-optenv32|Compliance mode enabled, was '2024.3'|
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
-|sqlalchemy|1.2.18|2.0.38|lang-python|Compliance mode enabled, was '2.0.38'|
+|sqlalchemy|1.2.18|2.0.39|lang-python|Compliance mode enabled, was '2.0.39'|
 |sqlcipher|4.5.6|4.6.1|app-database|Compliance mode enabled, was '4.6.1'|
 |sqlite|3.46.1|3.49.1|app-database|Compliance mode enabled, was '3.49.1'|
 |sqlite+32|3.46.1|3.49.1|runtime-optenv32|Compliance mode enabled, was '3.49.1'|
@@ -2942,7 +2942,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
 |zstd-static|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |zutils|1.7|1.14|app-utils|Compliance mode enabled, was '1.14'|
-|zvbi|0.2.35|0.2.44|runtime-multimedia|Compliance mode enabled, was '0.2.44'|
 |zxing-cpp|2.2.1|2.3.0|app-utils|Compliance mode enabled, was '2.3.0'|
 |zxtune|5053|5090|app-multimedia|Compliance mode enabled, was '5090'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
