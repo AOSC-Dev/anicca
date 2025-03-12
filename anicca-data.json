@@ -1578,6 +1578,7 @@
 ["portaudio+32","19.7.0","190600.20161030","runtime-optenv32",1740919509,["Compliance mode enabled, was '190600_20161030'"]],
 ["libass+32","0.17.2","0.17.3","runtime-optenv32",1740919509,["Compliance mode enabled, was '0.17.3'"]],
 ["glslang+32","13.1.1","15.1.0","runtime-optenv32",1740919515,["Compliance mode enabled, was '15.1.0'"]],
+["libxslt+32","1.1.42","1.1.43","runtime-optenv32",1740919515,["Compliance mode enabled, was '1.1.43'"]],
 ["at-spi2-core+32","2.52.0","2.55.2","runtime-optenv32",1740919513,["Compliance mode enabled, was '2.55.2'"]],
 ["elfutils+32","0.191","0.192","runtime-optenv32",1461460954,["Compliance mode enabled, was '0.192'"]],
 ["fluidsynth+32","2.3.6","2.4.3","runtime-optenv32",1740919516,["Compliance mode enabled, was '2.4.3'"]],
