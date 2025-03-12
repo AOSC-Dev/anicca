@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741767420?label=Updated)
+![Relative date](https://img.shields.io/date/1741770766?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -65,7 +65,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-maven|3.9.8|3.9.9|lang-java|Compliance mode enabled, was '3.9.9'|
-|apicula|0.14|0.15|app-electronics|Compliance mode enabled, was '0.15'|
+|apicula|0.14|0.16|app-electronics|Compliance mode enabled, was '0.16'|
 |apparmor|3.0.8|4.0.3|app-admin|Compliance mode enabled, was '4.0.3'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.3|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
@@ -1162,7 +1162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |ktuberling|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kturtle|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|kubectl|1.31.0|1.32.2|app-containers|Compliance mode enabled, was '1.32.2'|
+|kubectl|1.31.0|1.32.3|app-containers|Compliance mode enabled, was '1.32.3'|
 |kubo|0.29.0|0.33.2|app-network|Compliance mode enabled, was '0.33.2'|
 |kubrick|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kunitconversion|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -1865,6 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patool|1.12|4.0.0|app-utils|Compliance mode enabled, was '4.0.0'|
 |pavucontrol-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |pbr|6.0.0|6.1.1|lang-python|Compliance mode enabled, was '6.1.1'|
+|pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |pcp|6.0.1|6.3.3|app-utils|Compliance mode enabled, was '6.3.3'|
