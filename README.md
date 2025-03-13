@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741868353?label=Updated)
+![Relative date](https://img.shields.io/date/1741872261?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -107,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
-|attrs|23.2.0|25.2.0|lang-python|Compliance mode enabled, was '25.2.0'|
+|attrs|23.2.0|25.3.0|lang-python|Compliance mode enabled, was '25.3.0'|
 |audacity|3.7.0|3.7.2|app-creativity|Compliance mode enabled, was '3.7.2'|
 |audiocd-kio|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
@@ -487,6 +487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
 |fb303|2024.12.30.00|2025.03.10.00|runtime-network|Compliance mode enabled, was '2025.03.10.00'|
 |fbthrift|2024.12.30.00|2025.03.10.00|app-network|Compliance mode enabled, was '2025.03.10.00'|
+|fcft|3.3.0|3.3.1|runtime-display|Compliance mode enabled, was '3.3.1'|
 |fcgi|2.4.2|2.4.4|runtime-web|Compliance mode enabled, was '2.4.4'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.31.5712.102|app-i18n|Compliance mode enabled, was '2.31.5712.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
@@ -2274,6 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|1.0.1|1.0.2|app-multimedia|Compliance mode enabled, was '1.0.2'|
 |qt-5|5.15.16|5.15.15-lts-lgpl|runtime-desktop|Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|qtcreator|15.0.1|16.0.0|app-devel|Compliance mode enabled, was '16.0.0'|
 |qterminal|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtermwidget|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
@@ -2671,7 +2673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker-miners|3.3.1|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
-|translate-toolkit|2.3.1|3.15.0|lang-python|Compliance mode enabled, was '3.15.0'|
+|translate-toolkit|2.3.1|3.15.1|lang-python|Compliance mode enabled, was '3.15.1'|
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
@@ -2686,7 +2688,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
 |trivy|0.55.0|0.60.0|app-devel|Compliance mode enabled, was '0.60.0'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
-|trove-classifiers|2024.1.31|2025.3.3.18|lang-python|Compliance mode enabled, was '2025.3.3.18'|
+|trove-classifiers|2024.1.31|2025.3.13.13|lang-python|Compliance mode enabled, was '2025.3.13.13'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
