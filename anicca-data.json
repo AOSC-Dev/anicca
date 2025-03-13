@@ -195,6 +195,7 @@
 ["gnome-shell","42.4","47.5","desktop-gnome",1716197175,["Compliance mode enabled, was '47.5'"]],
 ["eog","42.3","47.0","desktop-gnome",1663210248,["Compliance mode enabled, was '47.0'"]],
 ["libgee","0.20.6","0.20.8","desktop-gnome",1718200679,["Compliance mode enabled, was '0.20.8'"]],
+["sushi","42.0","46.0","desktop-gnome",1663210250,["Compliance mode enabled, was '46.0'"]],
 ["deja-dup","42.9","47.0","desktop-gnome",1663210249,["Compliance mode enabled, was '47.0'"]],
 ["adwaita-qt","1.4.1","1.4.2","desktop-gnome",1663210249,["Compliance mode enabled, was '1.4.2'"]],
 ["gnome-characters","42.0","47.0","desktop-gnome",1663210242,["Compliance mode enabled, was '47.0'"]],
