@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741832421?label=Updated)
+![Relative date](https://img.shields.io/date/1741836236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -11,7 +11,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.13.1|1.14.0|app-admin|Compliance mode enabled, was '1.14.0'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
-|ab-download-manager|1.5.3|1.5.4|app-web|Compliance mode enabled, was '1.5.4'|
 |abakus-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |abseil-cpp|20240722.0|20250127.0|runtime-common|Compliance mode enabled, was '20250127.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
@@ -678,7 +677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |godot|4.3|4.4|app-devel|Compliance mode enabled, was '4.4'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.163.0|lang-python|Compliance mode enabled, was '2.163.0'|
+|google-api-python-client|1.7.11|2.164.0|lang-python|Compliance mode enabled, was '2.164.0'|
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.2.0|2.7.0|lang-golang|Compliance mode enabled, was '2.7.0'|
@@ -2827,7 +2826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireshark|4.4.0|4.4.5|app-network|Compliance mode enabled, was '4.4.5'|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.7.6-stable|runtime-cryptography|Compliance mode enabled, was '5.7.6-stable'|
-|wpebackend-fdo|1.12.1|1.14.4|runtime-web|Compliance mode enabled, was '1.14.4'|
+|wpebackend-fdo|1.12.1|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.17.2|lang-python|Compliance mode enabled, was '1.17.2'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
