@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741872261?label=Updated)
+![Relative date](https://img.shields.io/date/1741875126?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1499,20 +1499,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
 |link-grammar|5.10.1|5.99.42|app-i18n|Compliance mode enabled, was '5.99.42'|
-|linux+api|6.12.15|6.12.18|core-devel|Compliance mode enabled, was '6.12.18'|
-|linux+api+32|6.12.7|6.12.18|runtime-optenv32|Compliance mode enabled, was '6.12.18'|
+|linux+api|6.12.15|6.12.19|core-devel|Compliance mode enabled, was '6.12.19'|
+|linux+api+32|6.12.7|6.12.19|runtime-optenv32|Compliance mode enabled, was '6.12.19'|
 |linux+kernel|6.13.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.3 -> 5.19.17)|
 |linux+kernel+asahi|6.12.12|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.12 -> 5.19.17)|
-|linux+kernel+lts|6.12.15|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (6.12.15 -> 5.10.234)|
+|linux+kernel+lts|6.12.15|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'<br>Possible downgrade from the current version (6.12.15 -> 5.10.235)|
 |linux+kernel+rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
-|linux+kernel+retro|5.10.204|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'|
-|linux+kernel+retro+minimal|5.15.17|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (5.15.17 -> 5.10.234)|
+|linux+kernel+retro|5.10.204|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'|
+|linux+kernel+retro+minimal|5.15.17|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'<br>Possible downgrade from the current version (5.15.17 -> 5.10.235)|
 |linux-firmware|20250220|20250311|runtime-kernel||
 |linux-kernel|6.13.3|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.13.3 -> 5.19.17)|
 |linux-kernel-lts|6.12.15|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.15 -> 5.19.17)|
 |linux-kernel-rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'|
-|linux-kernel-retro-minimal|5.15.17|5.10.234|runtime-kernel|Compliance mode enabled, was '5.10.234'<br>Possible downgrade from the current version (5.15.17 -> 5.10.234)|
+|linux-kernel-retro|5.10.204|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'|
+|linux-kernel-retro-minimal|5.15.17|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'<br>Possible downgrade from the current version (5.15.17 -> 5.10.235)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
@@ -1722,6 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
+|nodejs-20|20.18.3|20.19.0|lang-js|Compliance mode enabled, was '20.19.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.0|1.18.3|lang-ruby|Compliance mode enabled, was '1.18.3'|
 |nomino|1.3.1|1.6.1|app-utils|Compliance mode enabled, was '1.6.1'|
