@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741958373?label=Updated)
+![Relative date](https://img.shields.io/date/1741961473?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1369,7 +1369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.4|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.5|desktop-gnome|Compliance mode enabled, was '2.0.5'|
-|libphonenumber|8.13.38|9.0.0|runtime-i18n|Compliance mode enabled, was '9.0.0'|
+|libphonenumber|8.13.38|9.0.1|runtime-i18n|Compliance mode enabled, was '9.0.1'|
 |libpinyin|2.6.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
@@ -1510,7 +1510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4882|runtime-creativity|Compliance mode enabled, was '4882'|
+|llama.cpp|4879|4886|runtime-creativity|Compliance mode enabled, was '4886'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.0|runtime-optenv32|Compliance mode enabled, was '20.1.0'|
@@ -1660,7 +1660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |mupdf|1.24.10|1.25.4|app-doc|Compliance mode enabled, was '1.25.4'|
-|musescore|4.3.2|4.4.4|app-creativity|Compliance mode enabled, was '4.4.4'|
+|musescore|4.3.2|4.5|app-creativity|Compliance mode enabled, was '4.5'|
 |mutter|42.4|47.6|desktop-gnome|Compliance mode enabled, was '47.6'|
 |mvfst|2024.12.30.00|2025.03.10.00|runtime-network|Compliance mode enabled, was '2025.03.10.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
