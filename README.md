@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741940202?label=Updated)
+![Relative date](https://img.shields.io/date/1741943546?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -495,6 +495,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedbackd|0.2.1|0.7.0|desktop-gnome|Compliance mode enabled, was '0.7.0'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown-netease|1.0.3|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
+|fend|1.5.5|1.5.6|app-utils|Compliance mode enabled, was '1.5.6'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1|7.1.1|app-multimedia|Compliance mode enabled, was '7.1.1'|
 |ffmpeg+32|7.1|7.1.1|runtime-optenv32|Compliance mode enabled, was '7.1.1'|
@@ -653,7 +654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|47.5|desktop-gnome|Compliance mode enabled, was '47.5'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
-|gnome-software|42.4|47.4|desktop-gnome|Compliance mode enabled, was '47.4'|
+|gnome-software|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-sudoku|42.0|47.1.1|desktop-gnome|Compliance mode enabled, was '47.1.1'|
 |gnome-system-monitor|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
@@ -1175,6 +1176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kwayland-integration|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |kweather|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
+|kweathercore|0.7|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kwidgetsaddons|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
 |kwin|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |kwindowsystem|5.115.0|6.11.0|desktop-kde|Compliance mode enabled, was '6.11.0'|
@@ -1334,7 +1336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblxqt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |libmanette|0.2.6|0.2.9|runtime-devices|Compliance mode enabled, was '0.2.9'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
-|libmediaart|1.9.4|1.9.7|runtime-multimedia|Compliance mode enabled, was '1.9.7'|
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
 |libmikmod|3.3.11.1|3.3.12|runtime-multimedia|Compliance mode enabled, was '3.3.12'|
 |libmikmod+32|3.3.11.1|3.3.12|runtime-optenv32|Compliance mode enabled, was '3.3.12'|
