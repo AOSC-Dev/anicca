@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741907464?label=Updated)
+![Relative date](https://img.shields.io/date/1741912876?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1872,7 +1872,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|pcp|6.0.1|6.3.3|app-utils|Compliance mode enabled, was '6.3.3'|
+|pcp|6.0.1|6.3.4|app-utils|Compliance mode enabled, was '6.3.4'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcre2|10.44|10.45|runtime-common|Compliance mode enabled, was '10.45'|
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
@@ -2133,7 +2133,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.5.1|app-gis|Compliance mode enabled, was '9.5.1'|
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
-|protobuf|25.2|30.0|runtime-common|Compliance mode enabled, was '30.0'|
+|protobuf|25.2|30.1|runtime-common|Compliance mode enabled, was '30.1'|
 |protobuf-c|1.5.0|1.5.1|runtime-common|Compliance mode enabled, was '1.5.1'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstoedit|3.75|4.02|app-doc|Compliance mode enabled, was '4.02'|
@@ -2266,7 +2266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
-|qownnotes|22.6.1|25.3.1|app-web|Compliance mode enabled, was '25.3.1'|
+|qownnotes|22.6.1|25.3.3|app-web|Compliance mode enabled, was '25.3.3'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
