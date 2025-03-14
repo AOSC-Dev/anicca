@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741965170?label=Updated)
+![Relative date](https://img.shields.io/date/1741968807?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -55,6 +55,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |analitza|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
+|android-udev|20241109|20250314|runtime-devices|Compliance mode enabled, was '20250314'|
 |angelfish|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.18.3|app-admin|Compliance mode enabled, was '2.18.3'|
@@ -242,7 +243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certifi|2024.7.4|2025.1.31|lang-python|Compliance mode enabled, was '2025.1.31'|
 |cervisia|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
-|cfitsio|3.450|4.5.0|runtime-imaging|Compliance mode enabled, was '4.5.0'|
+|cfitsio|3.450|4.6.0|runtime-imaging|Compliance mode enabled, was '4.6.0'|
 |cgal|5.2|6.0.1|runtime-scientific|Compliance mode enabled, was '6.0.1'|
 |cgns|4.2.0|4.5.0|app-devel|Compliance mode enabled, was '4.5.0'|
 |chardet|3.0.4|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
@@ -617,7 +618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
 |gnome-applets|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
-|gnome-backgrounds|42.0|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|gnome-backgrounds|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-builder|42.1|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-calculator|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
