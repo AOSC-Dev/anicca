@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741990290?label=Updated)
+![Relative date](https://img.shields.io/date/1741993974?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -582,7 +582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|ghc|9.4.8|9.12.1-release|lang-haskell|Compliance mode enabled, was '9.12.1-release'|
+|ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghidra|11.2.1_build|11.3.1_build|app-devel||
 |ghostscript|9.54.0|10.05.0|app-doc|Compliance mode enabled, was '10.05.0'|
@@ -811,7 +811,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|intel-compute-runtime|25.05.32567.17|25.09.32961.5|runtime-scientific|Compliance mode enabled, was '25.09.32961.5'|
 |intel-gpu-tools|1.29|2.0|app-admin|Compliance mode enabled, was '2.0'|
+|intel-graphics-compiler|2.7.11|2.8.3|app-devel|Compliance mode enabled, was '2.8.3'|
 |intel-media-driver|24.4.4|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -851,7 +853,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |jsonpointer|2.3|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |jsonrpc-glib|3.42.0|3.44.1|runtime-common|Compliance mode enabled, was '3.44.1'|
-|jsonschema|3.2.0|0.0.1|lang-python|Compliance mode enabled, was '0.0.1'<br>Possible downgrade from the current version (3.2.0 -> 0.0.1)|
 |juk|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.7.2|lang-python|Compliance mode enabled, was '5.7.2'|
@@ -1205,6 +1206,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
+|libadwaita|1.6.4|1.7.0|desktop-gnome|Compliance mode enabled, was '1.7.0'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
 |libart-lgpl|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libasr|1.0.4|7.6.0p1|runtime-network|Compliance mode enabled, was '7.6.0p1'|
@@ -1330,7 +1332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
 |libluv|1.47.0<br>+0|1.50.0+1|lang-lua|Compliance mode enabled, was '1.50.0-1'|
 |liblxqt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|libmanette|0.2.6|0.2.9|runtime-devices|Compliance mode enabled, was '0.2.9'|
+|libmanette|0.2.6|0.2.11|runtime-devices|Compliance mode enabled, was '0.2.11'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
 |libmediaart|1.9.4|1.9.7|runtime-multimedia|Compliance mode enabled, was '1.9.7'|
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
