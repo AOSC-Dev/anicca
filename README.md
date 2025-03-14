@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741986604?label=Updated)
+![Relative date](https://img.shields.io/date/1741990290?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -593,6 +593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
+|git|2.48.1|2.49.0|app-vcs|Compliance mode enabled, was '2.49.0'|
 |git-absorb|0.6.17|0.7.0|app-devel|Compliance mode enabled, was '0.7.0'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cinnabar|0.6.3|0.7.1|app-vcs|Compliance mode enabled, was '0.7.1'|
@@ -2402,7 +2403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
 |setuptools-python2|44.1.0|76.0.0|lang-python|Compliance mode enabled, was '76.0.0'|
 |setuptools-python3|75.8.0|76.0.0|lang-python|Compliance mode enabled, was '76.0.0'|
-|setuptools-rust|1.9.0|1.10.2|lang-python|Compliance mode enabled, was '1.10.2'|
+|setuptools-rust|1.9.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |setuptools-scm|8.1.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
