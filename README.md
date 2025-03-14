@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1741929122?label=Updated)
+![Relative date](https://img.shields.io/date/1741936363?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -461,7 +461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eventviews|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |evince|42.3|46.3.1|desktop-gnome|Compliance mode enabled, was '46.3.1'|
 |evolution|3.44.4|3.54.3|desktop-gnome|Compliance mode enabled, was '3.54.3'|
-|evolution-data-server|3.44.4|3.55.3|desktop-gnome|Compliance mode enabled, was '3.55.3'|
+|evolution-data-server|3.44.4|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |evolution-ews|3.42.0|3.55.3|desktop-gnome|Compliance mode enabled, was '3.55.3'|
 |executing|2.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
@@ -1196,6 +1196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lazygit|0.44.1|0.48.0|app-vcs|Compliance mode enabled, was '0.48.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
+|ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
 |ldc|1.38.0|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |ldns|1.8.3|1.8.4|runtime-network|Compliance mode enabled, was '1.8.4'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
