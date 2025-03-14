@@ -2450,7 +2450,6 @@
 ["pangomm","2.46.3","2.56.1","runtime-desktop",1663210250,["Compliance mode enabled, was '2.56.1'"]],
 ["malcontent","0.10.5","0.13.0","runtime-desktop",1713504759,["Compliance mode enabled, was '0.13.0'"]],
 ["pango","1.56.1","1.56.2","runtime-desktop",1739425064,["Compliance mode enabled, was '1.56.2'"]],
-["lazygit","0.44.1","0.48.0","app-vcs",1732763881,["Compliance mode enabled, was '0.48.0'"]],
 ["mercurial","6.8.1","6.9.3","app-vcs",1728998119,["Compliance mode enabled, was '6.9.3'"]],
 ["git-cinnabar","0.6.3","0.7.1","app-vcs",1721832254,["Compliance mode enabled, was '0.7.1'"]],
 ["tortoisehg","6.6.3","6.9","app-vcs",1716735995,["Compliance mode enabled, was '6.9'"]],
