@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742005107?label=Updated)
+![Relative date](https://img.shields.io/date/1742008819?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1880,6 +1880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
+|pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |perl|5.36.3|5.40.1|lang-perl|Compliance mode enabled, was '5.40.1'|
@@ -2227,6 +2228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-hpack|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |python-kaitaistruct|0.9|0.10|lang-python|Compliance mode enabled, was '0.10'|
 |python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
+|python-linux-procfs|0.7.1|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |python-ly|0.9.7|0.9.9|lang-python|Compliance mode enabled, was '0.9.9'|
 |python-lz4|2.1.6|4.4.3|lang-python|Compliance mode enabled, was '4.4.3'|
 |python-markdown-math|0.6|0.8|lang-python|Compliance mode enabled, was '0.8'|
