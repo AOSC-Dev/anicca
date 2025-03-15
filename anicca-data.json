@@ -1383,7 +1383,7 @@
 ["arcanist","2024.35","2022.37","app-devel",1739246654,["Compliance mode enabled, was '2022.37'","Possible downgrade from the current version (2024.35 -> 2022.37)"]],
 ["sccache","0.3.3","0.10.0","app-devel",1680558295,["Compliance mode enabled, was '0.10.0'"]],
 ["dotnet-templates-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
-["gobject-introspection","1.80.0","1.82.0","app-devel",1711178014,["Compliance mode enabled, was '1.82.0'"]],
+["gobject-introspection","1.80.0","1.84.0","app-devel",1711178014,["Compliance mode enabled, was '1.84.0'"]],
 ["gnu-efi","3.0.18","4.0.0","app-devel",1736994611,["Compliance mode enabled, was '4.0.0'"]],
 ["autoconf-archive","2023.02.20","2024.10.16","app-devel",1715607609,["Compliance mode enabled, was '2024.10.16'"]],
 ["gperftools","2.13","2.16.90","app-devel",1696572712,["Compliance mode enabled, was '2.16.90'"]],
