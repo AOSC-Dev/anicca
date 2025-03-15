@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742015469?label=Updated)
+![Relative date](https://img.shields.io/date/1742019234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1785,7 +1785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.14-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.14-ga -> 17.0.2)|
-|openjdk-8|8u442-ga|8u452-b04|lang-java||
+|openjdk-8|8u442-ga|8u452-b06|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
@@ -2920,7 +2920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.177.7|0.177.9|app-editors|Compliance mode enabled, was '0.177.9'|
+|zed|0.177.8|0.177.9|app-editors|Compliance mode enabled, was '0.177.9'|
 |zenity|3.42.1|4.1.90|desktop-gnome|Compliance mode enabled, was '4.1.90'|
 |zeroconf|0.28.6|0.146.1|lang-python|Compliance mode enabled, was '0.146.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
