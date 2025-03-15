@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742036872?label=Updated)
+![Relative date](https://img.shields.io/date/1742040998?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -651,7 +651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-system-monitor|42.0|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
-|gnome-tour|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|gnome-tour|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-usage|3.38.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-user-docs|42.0|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
 |gnome-user-share|3.34.0|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
@@ -2404,7 +2404,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2023.7|2025.1|app-devel|Compliance mode enabled, was '2025.1'|
 |shadow|4.17.2|4.17.3|app-admin|Compliance mode enabled, was '4.17.3'|
-|shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shotcut|21.08.11|25.03.13|app-creativity|Compliance mode enabled, was '25.03.13'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
 |showmethekey|1.14.0|1.18.1|app-utils|Compliance mode enabled, was '1.18.1'|
