@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742065509?label=Updated)
+![Relative date](https://img.shields.io/date/1742069587?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -507,6 +507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firefox|136.0|136.0.1|app-web|Compliance mode enabled, was '136.0.1'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
+|five-or-more|3.32.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |fizz|2024.12.30.00|2025.03.10.00|app-network|Compliance mode enabled, was '2025.03.10.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
@@ -1248,7 +1249,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts|Compliance mode enabled, was '8.1.2'|
 |libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
-|libetebase|0.5.6|0.5.7|runtime-cryptography|Compliance mode enabled, was '0.5.7'|
 |libetonyek|0.1.9|0.1.12|runtime-productivity|Compliance mode enabled, was '0.1.12'|
 |libevdev|1.11.0|1.13.3|runtime-devices|Compliance mode enabled, was '1.13.3'|
 |libexif|0.6.22|0.6.25|runtime-imaging|Compliance mode enabled, was '0.6.25'|
@@ -2759,7 +2759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1198|9.1.1205|app-editors|Compliance mode enabled, was '9.1.1205'|
+|vim|9.1.1198|9.1.1206|app-editors|Compliance mode enabled, was '9.1.1206'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
