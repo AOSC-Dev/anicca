@@ -1723,7 +1723,7 @@
 ["lziprecover","1.24","1.25","app-utils",1722261588,["Compliance mode enabled, was '1.25'"]],
 ["zutils","1.7","1.14","app-utils",1527856914,["Compliance mode enabled, was '1.14'"]],
 ["yara","4.5.0","4.5.2","app-utils",1712767296,["Compliance mode enabled, was '4.5.2'"]],
-["nvchecker","2.15.1","2.16","app-utils",1728440417,["Compliance mode enabled, was '2.16'"]],
+["nvchecker","2.15.1","2.17","app-utils",1728440417,["Compliance mode enabled, was '2.17'"]],
 ["xterm","390","397","app-utils",1712719207,["Compliance mode enabled, was '397'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
 ["xscreensaver","6.08","6.09","app-utils",1710984964,["Compliance mode enabled, was '6.09'"]],
