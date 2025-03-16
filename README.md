@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742148774?label=Updated)
+![Relative date](https://img.shields.io/date/1742152067?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -714,6 +714,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-3|3.24.6|3.24.9|desktop-gnome|Compliance mode enabled, was '3.24.9'|
 |gtkmm-4|4.14.0|4.16.0|desktop-gnome|Compliance mode enabled, was '4.16.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
+|gtkspellcheck|4.0.5|5.0.3|lang-python|Compliance mode enabled, was '5.0.3'|
 |gtranslator|46.1|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
 |guitarix|0.44.1|0.46.0|app-multimedia|Compliance mode enabled, was '0.46.0'|
@@ -1635,7 +1636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mitmproxy|11.0.0|11.1.3|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
-|mkvtoolnix|87.0|90.0|app-multimedia|Compliance mode enabled, was '90.0'|
+|mkvtoolnix|87.0|91.0|app-multimedia|Compliance mode enabled, was '91.0'|
 |mlt|7.26.0|7.30.0|runtime-multimedia|Compliance mode enabled, was '7.30.0'|
 |mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
 |mock|2.0.0|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
@@ -1672,7 +1673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
-|nautilus|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
+|nautilus|42.2|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
@@ -1736,7 +1737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
 |numix-icon-theme-circle|24.10.22|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
-|numpy|1.26.4|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
+|numpy|1.26.4|2.2.4|lang-python|Compliance mode enabled, was '2.2.4'|
 |nut|2.7.4|2.8.2.2393|app-admin|Compliance mode enabled, was '2.8.2.2393'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
 |nvidia-open|570.124.04<br>+utils570.124.04|570.124.06|runtime-display|Compliance mode enabled, was '570.124.06'|
@@ -1865,6 +1866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|4.0.0|app-utils|Compliance mode enabled, was '4.0.0'|
 |pavucontrol-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
+|pbr|6.0.0|6.1.1|lang-python|Compliance mode enabled, was '6.1.1'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
@@ -2399,6 +2401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.4|app-network|Compliance mode enabled, was '4.6.4'|
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
+|setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
 |setuptools-python2|44.1.0|76.0.0|lang-python|Compliance mode enabled, was '76.0.0'|
 |setuptools-python3|75.8.0|76.0.0|lang-python|Compliance mode enabled, was '76.0.0'|
 |setuptools-rust|1.9.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
