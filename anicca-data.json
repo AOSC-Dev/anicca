@@ -1499,6 +1499,7 @@
 ["0ad","0.0.26","0.27.0","app-games",1721223235,["Compliance mode enabled, was '0.27.0'"]],
 ["nethack","3.6.6","3.6.7_released","app-games",1631079132,["Compliance mode enabled, was '3.6.7_Released'"]],
 ["scummvm","2.8.1","2.9.0","app-games",1725420791,["Compliance mode enabled, was '2.9.0'"]],
+["melonds","1.0rc","0.9.5","app-games",1742098818,["Possible downgrade from the current version (1.0rc -> 0.9.5)"]],
 ["yuzu","1582","1732","app-games",1700797896,["Compliance mode enabled, was '1732'"]],
 ["lincity-ng","2.9.0","2.0","app-games",1706433133,["Compliance mode enabled, was '2.0'","Possible downgrade from the current version (2.9.0 -> 2.0)"]],
 ["unrpyc","1.1.6","2.0.2","app-games",1631079134,["Compliance mode enabled, was '2.0.2'"]],
