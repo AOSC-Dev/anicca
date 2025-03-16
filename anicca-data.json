@@ -1263,6 +1263,7 @@
 ["keystoneauth1","5.7.0","5.10.0","lang-python",1724639794,["Compliance mode enabled, was '5.10.0'"]],
 ["cython","3.0.10","3.0.12","lang-python",1716292092,["Compliance mode enabled, was '3.0.12'"]],
 ["diff-match-patch","20200713","20241021","lang-python",1572507782,["Compliance mode enabled, was '20241021'"]],
+["pam-python","1.0.7","1.0.8","lang-python",1594193185,["Compliance mode enabled, was '1.0.8'"]],
 ["pathlib2","2.3.5","2.3.7.post1","lang-python",1581796621,["Compliance mode enabled, was '2.3.7.post1'"]],
 ["rsa","4.0","4.9","lang-python",1549987770,["Compliance mode enabled, was '4.9'"]],
 ["cryptography","40.0.0","44.0.2","lang-python",1701237875,["Compliance mode enabled, was '44.0.2'"]],
