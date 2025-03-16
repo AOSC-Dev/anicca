@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742159288?label=Updated)
+![Relative date](https://img.shields.io/date/1742163053?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -473,6 +473,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.11.1|2.11.2|app-multimedia|Compliance mode enabled, was '2.11.2'|
 |faad2+32|2.11.1|2.11.2|runtime-optenv32|Compliance mode enabled, was '2.11.2'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
+|fakeroot|1.37|1.37.1|app-utils|Compliance mode enabled, was '1.37.1'|
 |falkon|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
@@ -1844,6 +1845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
+|pandoc|3.6.3|3.6.4|app-doc|Compliance mode enabled, was '3.6.4'|
 |pango|1.56.1|1.56.3|runtime-desktop|Compliance mode enabled, was '1.56.3'|
 |pango+32|1.56.1|1.56.3|runtime-optenv32|Compliance mode enabled, was '1.56.3'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
@@ -2764,7 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.1|runtime-scientific|Compliance mode enabled, was '1-12-1'|
-|vim|9.1.1198|9.1.1206|app-editors|Compliance mode enabled, was '9.1.1206'|
+|vim|9.1.1198|9.1.1215|app-editors|Compliance mode enabled, was '9.1.1215'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2837,7 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
 |xapian-core|1.4.18|1.4.27|runtime-common|Compliance mode enabled, was '1.4.27'|
 |xapps|2.8.2|2.8.8|runtime-desktop|Compliance mode enabled, was '2.8.8'|
-|xarchiver|0.5.4.15|0.5.4.23|app-utils|Compliance mode enabled, was '0.5.4.23'|
+|xarchiver|0.5.4.15|0.5.4.24|app-utils|Compliance mode enabled, was '0.5.4.24'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
 |xcffib|0.7.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
