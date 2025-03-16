@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742141480?label=Updated)
+![Relative date](https://img.shields.io/date/1742144901?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -640,12 +640,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-maps|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.2.0|desktop-gnome|Compliance mode enabled, was '4.2.0'|
-|gnome-online-accounts|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
+|gnome-online-accounts|3.44.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |gnome-settings-daemon|42.2|47.2|desktop-gnome|Compliance mode enabled, was '47.2'|
-|gnome-shell|42.4|47.5|desktop-gnome|Compliance mode enabled, was '47.5'|
+|gnome-shell|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-shell-extension-gsconnect|53|58|desktop-gnome|Compliance mode enabled, was '58'|
 |gnome-shell-extensions|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-software|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1666,7 +1666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |mupdf|1.24.10|1.25.5|app-doc|Compliance mode enabled, was '1.25.5'|
 |musescore|4.3.2|4.5|app-creativity|Compliance mode enabled, was '4.5'|
-|mutter|42.4|47.6|desktop-gnome|Compliance mode enabled, was '47.6'|
+|mutter|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |mvfst|2024.12.30.00|2025.03.10.00|runtime-network|Compliance mode enabled, was '2025.03.10.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
@@ -1877,7 +1877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.223|app-games|Compliance mode enabled, was '2.3.223'|
+|pcsx2|1.6.0<br>+git20210825|2.3.225|app-games|Compliance mode enabled, was '2.3.225'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
