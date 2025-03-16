@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742119877?label=Updated)
+![Relative date](https://img.shields.io/date/1742123139?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -767,7 +767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.129.2|lang-python|Compliance mode enabled, was '6.129.2'|
+|hypothesis-python|6.97.4|6.129.3|lang-python|Compliance mode enabled, was '6.129.3'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -812,7 +812,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gpu-tools|1.29|2.0|app-admin|Compliance mode enabled, was '2.0'|
 |intel-graphics-compiler|2.7.11|2.8.3|app-devel|Compliance mode enabled, was '2.8.3'|
 |intel-media-driver|24.4.4|25.1.3|runtime-multimedia|Compliance mode enabled, was '25.1.3'|
-|iosevka-fonts|33.0.1|33.1.0|desktop-fonts|Compliance mode enabled, was '33.1.0'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -1828,7 +1827,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
-|osu-lazer|2025.310.0|2025.316.0|app-games|Compliance mode enabled, was '2025.316.0'|
 |owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |oxygen-icons|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
@@ -2192,7 +2190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopenssl|23.1.1|25.0.0|lang-python|Compliance mode enabled, was '25.0.0'|
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|5.3.1|lang-python|Compliance mode enabled, was '5.3.1'|
+|pypdf|4.0.1|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
 |pypdf2|1.26.0|5.3.1|lang-python|Compliance mode enabled, was '5.3.1'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |pyperf|2.5.0|2.9.0|lang-python|Compliance mode enabled, was '2.9.0'|
@@ -2939,7 +2937,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.0|lang-python|Compliance mode enabled, was '5.0'|
 |zope-interface|5.4.0|7.2|lang-python|Compliance mode enabled, was '7.2'|
-|zotero|7.0.14|7.0.15|app-productivity|Compliance mode enabled, was '7.0.15'|
 |zram-generator|1.1.2|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
