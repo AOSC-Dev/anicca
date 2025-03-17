@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742182057?label=Updated)
+![Relative date](https://img.shields.io/date/1742184851?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -32,13 +32,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.18.8|app-utils|Compliance mode enabled, was '0.18.8'|
-|aiohttp|3.7.4.post0|3.11.13|lang-python|Compliance mode enabled, was '3.11.13'|
+|aiohttp|3.7.4.post0|3.11.14|lang-python|Compliance mode enabled, was '3.11.14'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-calendar|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-calendar-tools|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-contacts|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
+|akonadi-import-wizard|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-mime|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-notes|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-search|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1545,7 +1546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.31|app-admin|Compliance mode enabled, was '2.03.31'|
 |lxc|6.0.1|6.0.3|app-admin|Compliance mode enabled, was '6.0.3'|
 |lxcfs|3.0.3|6.0.3|app-admin|Compliance mode enabled, was '6.0.3'|
-|lxgwcleargothic-font|0.300.4|0.340|desktop-fonts|Compliance mode enabled, was '0.340'|
+|lxgwcleargothic-font|0.300.4|0.341|desktop-fonts|Compliance mode enabled, was '0.341'|
 |lxgwneoxihei-font|1.213|1.214|desktop-fonts|Compliance mode enabled, was '1.214'|
 |lximage-qt|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
@@ -1588,7 +1589,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
 |mako|1.1.4|1.3.9|lang-python|Compliance mode enabled, was '1.3.9'|
-|mako-notification-daemon|1.9.0|1.10.0|app-utils|Compliance mode enabled, was '1.10.0'|
 |malcontent|0.10.5|0.13.0|runtime-desktop|Compliance mode enabled, was '0.13.0'|
 |marble|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mariadb|11.4.3|11.8.1|app-database|Compliance mode enabled, was '11.8.1'|
