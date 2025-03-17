@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742213912?label=Updated)
+![Relative date](https://img.shields.io/date/1742217738?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1512,7 +1512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4896|runtime-creativity|Compliance mode enabled, was '4896'|
+|llama.cpp|4879|4902|runtime-creativity|Compliance mode enabled, was '4902'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.0|runtime-optenv32|Compliance mode enabled, was '20.1.0'|
@@ -1542,7 +1542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.31|app-admin|Compliance mode enabled, was '2.03.31'|
 |lxc|6.0.1|6.0.3|app-admin|Compliance mode enabled, was '6.0.3'|
 |lxcfs|3.0.3|6.0.3|app-admin|Compliance mode enabled, was '6.0.3'|
-|lxgwcleargothic-font|0.300.4|0.341|desktop-fonts|Compliance mode enabled, was '0.341'|
+|lxgwcleargothic-font|0.300.4|0.341.1|desktop-fonts|Compliance mode enabled, was '0.341.1'|
 |lxgwneoxihei-font|1.213|1.214|desktop-fonts|Compliance mode enabled, was '1.214'|
 |lximage-qt|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
 |lxml|4.7.1|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
@@ -2839,7 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.10|desktop-wm|Compliance mode enabled, was '1.1.10'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
-|xdg-desktop-portal-gnome|42.3|47.3|desktop-gnome|Compliance mode enabled, was '47.3'|
+|xdg-desktop-portal-gnome|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |xdg-desktop-portal-kde|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xdm|1.1.16|1.1.17|desktop-displaymanagers|Compliance mode enabled, was '1.1.17'|
@@ -2882,6 +2882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfmpc|0.3.1|0.3.0|desktop-xfce|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.3.1 -> 0.3.0)|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xfsprogs|6.9.0|6.13.0|app-admin|Compliance mode enabled, was '6.13.0'|
+|xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xiccd|0.3.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
