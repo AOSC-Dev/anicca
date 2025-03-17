@@ -2707,6 +2707,7 @@
 ["libqalculate","4.5.1","5.5.2","runtime-scientific",1721223235,["Compliance mode enabled, was '5.5.2'"]],
 ["dssim","3.3.1","3.4.0","app-imaging",1723454509,["Compliance mode enabled, was '3.4.0'"]],
 ["glslang","13.1.1","15.1.0","app-imaging",1699859032,["Compliance mode enabled, was '15.1.0'"]],
+["gifski","1.32.0","1.33.0","app-imaging",1721488462,["Compliance mode enabled, was '1.33.0'"]],
 ["xviewer","3.4.6","3.4.8","app-imaging",1725589960,["Compliance mode enabled, was '3.4.8'"]],
 ["cairosvg","2.5.2","2.7.1","app-imaging",1658966837,["Compliance mode enabled, was '2.7.1'"]],
 ["embree","4.3.1","4.3.3","app-imaging",1711170353,["Compliance mode enabled, was '4.3.3'"]],
