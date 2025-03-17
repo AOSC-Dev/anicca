@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742166717?label=Updated)
+![Relative date](https://img.shields.io/date/1742172354?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -706,7 +706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gstreamer|1.24.12|1.26.0|runtime-multimedia|Compliance mode enabled, was '1.26.0'|
 |gtest|1.10.0<br>+git20210513|1.16.0|app-devel|Compliance mode enabled, was '1.16.0'|
-|gtk-4|4.16.12|4.18.1|desktop-gnome|Compliance mode enabled, was '4.18.1'|
+|gtk-4|4.16.12|4.18.2|desktop-gnome|Compliance mode enabled, was '4.18.2'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-qt-engine|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gtk-vnc|1.3.1|1.5.0|desktop-gnome|Compliance mode enabled, was '1.5.0'|
@@ -1879,7 +1879,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.2|app-devices|Compliance mode enabled, was '1.7.2'|
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.225|app-games|Compliance mode enabled, was '2.3.225'|
+|pcsx2|1.6.0<br>+git20210825|2.3.228|app-games|Compliance mode enabled, was '2.3.228'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
@@ -2171,7 +2171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
-|pygccxml|2.1.0|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|pygccxml|2.1.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |pygit2|1.14.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |pyglet|1.3.2|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |pygments|2.18.0|2.19.1|lang-python|Compliance mode enabled, was '2.19.1'|
