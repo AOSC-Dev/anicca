@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742228180?label=Updated)
+![Relative date](https://img.shields.io/date/1742231529?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -16,7 +16,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
 |accerciser|3.40.0|3.46.2|desktop-gnome|Compliance mode enabled, was '3.46.2'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
-|ack|3.7.0|3.8.1|app-utils|Compliance mode enabled, was '3.8.1'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
 |acl+32|2.3.1|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
 |acme|2.10.0|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
@@ -2664,7 +2663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqt3|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tqtinterface|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |trace-cmd|3.3|3.3.1|app-utils|Compliance mode enabled, was '3.3.1'|
-|tracker|3.7.3|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
+|tracker|3.7.3|3.9.1|desktop-gnome|Compliance mode enabled, was '3.9.1'|
 |tracker-miners|3.3.1|3.8.2|desktop-gnome|Compliance mode enabled, was '3.8.2'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
