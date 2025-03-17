@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742172354?label=Updated)
+![Relative date](https://img.shields.io/date/1742178119?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -59,6 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |angelfish|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.18.3|app-admin|Compliance mode enabled, was '2.18.3'|
+|anyio|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |aom|3.11.0|3.12.0|runtime-multimedia|Compliance mode enabled, was '3.12.0'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
@@ -592,6 +593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
+|gimp|2.10.38|3.0.0|app-creativity|Compliance mode enabled, was '3_0_0'|
 |git|2.48.1|2.49.0|app-vcs|Compliance mode enabled, was '2.49.0'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cinnabar|0.6.3|0.7.1|app-vcs|Compliance mode enabled, was '0.7.1'|
@@ -601,7 +603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitpython|3.1.35|3.1.44|runtime-vcs|Compliance mode enabled, was '3.1.44'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
-|gjs|1.74.0|1.82.1|desktop-gnome|Compliance mode enabled, was '1.82.1'|
+|gjs|1.74.0|1.84.0|desktop-gnome|Compliance mode enabled, was '1.84.0'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glances|4.0.5|4.3.0.8|app-admin|Compliance mode enabled, was '4.3.0.8'|
 |glib+32|2.83.3|2.84.0|runtime-optenv32|Compliance mode enabled, was '2.84.0'|
@@ -1223,7 +1225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap|2.73|2.75|runtime-common|Compliance mode enabled, was '2.75'|
 |libcap+32|2.73|2.75|runtime-optenv32|Compliance mode enabled, was '2.75'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|libcbor|0.8.0|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
+|libcbor|0.8.0|0.12.0|runtime-common|Compliance mode enabled, was '0.12.0'|
 |libcdio|2.1.0|2.2.0|runtime-devices|Compliance mode enabled, was '2.2.0'|
 |libcdio+32|2.1.0|2.2.0|runtime-optenv32|Compliance mode enabled, was '2.2.0'|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)|
