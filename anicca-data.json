@@ -582,7 +582,7 @@
 ["squid","5.7","7.0.1","app-web",1669533924,["Compliance mode enabled, was '7.0.1'"]],
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
 ["hexchat","2.16.1","2.16.2","app-web",1655338775,["Compliance mode enabled, was '2.16.2'"]],
-["firefox","136.0","136.0.1","app-web",1741164171,["Compliance mode enabled, was '136.0.1'"]],
+["firefox","136.0","136.0.2","app-web",1741164171,["Compliance mode enabled, was '136.0.2'"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
 ["certbot-dns-cloudflare","2.10.0","3.3.0","app-web",1716728302,["Compliance mode enabled, was '3.3.0'"]],
 ["qownnotes","22.6.1","25.3.3","app-web",1659588927,["Compliance mode enabled, was '25.3.3'"]],
