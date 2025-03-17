@@ -2813,7 +2813,7 @@
 ["libfido2","1.13.0","1.15.0","runtime-devices",1696572712,["Compliance mode enabled, was '1.15.0'"]],
 ["libwacom","2.4.0","2.14.0","runtime-devices",1663359144,["Compliance mode enabled, was '2.14.0'"]],
 ["sane-backends","1.0.32","1.3.1","runtime-devices",1738981173,["Compliance mode enabled, was '1.3.1'"]],
-["libnvme","1.11","1.11.1","runtime-devices",1731475744,["Compliance mode enabled, was '1.11.1'"]],
+["libnvme","1.11","1.12","runtime-devices",1731475744,["Compliance mode enabled, was '1.12'"]],
 ["usbredir","0.8.0","0.15.0","runtime-devices",1570906865,["Compliance mode enabled, was '0.15.0'"]],
 ["libserialport","0.1.1","0.1.2","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.2'"]],
 ["libticables2","1.3.4","1.3.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.3.5'"]],
