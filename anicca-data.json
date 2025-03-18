@@ -809,7 +809,6 @@
 ["genyo-font","1.501","2.100","desktop-fonts",1596222727,["Compliance mode enabled, was '2.100'"]],
 ["un-fonts","1.0.2","1.0.2+080608","desktop-fonts",1678950872,["Compliance mode enabled, was '1.0.2-080608'"]],
 ["lxgwcleargothic-font","0.300.4","0.342","desktop-fonts",1715870557,["Compliance mode enabled, was '0.342'"]],
-["adobe-source-sans","3.052","3.052r","desktop-fonts",1706083317,["Compliance mode enabled, was '3.052R'","Possible downgrade from the current version (3.052 -> 3.052r)"]],
 ["maple-font","7.0","6.4.1","desktop-fonts",1742212992,["Compliance mode enabled, was '6.4.1'","Possible downgrade from the current version (7.0 -> 6.4.1)"]],
 ["adobe-source-han-sans","2.004","2.004r","desktop-fonts",1619721201,["Compliance mode enabled, was '2.004R'","Possible downgrade from the current version (2.004 -> 2.004r)"]],
 ["noto-fonts","24.8.1","20201206-phase3","desktop-fonts",1723470481,[]],
