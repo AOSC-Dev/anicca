@@ -1236,7 +1236,6 @@
 ["pygccxml","2.1.0","3.0.2","lang-python",1614161777,["Compliance mode enabled, was '3.0.2'"]],
 ["netifaces","0.10.9","0.11.0","lang-python",1549919968,["Compliance mode enabled, was '0.11.0'"]],
 ["zfec","1.5.3","1.6.0.0","lang-python",1530283385,["Compliance mode enabled, was '1.6.0.0'"]],
-["pygments","2.18.0","2.19.1","lang-python",1728547929,["Compliance mode enabled, was '2.19.1'"]],
 ["m2crypto","0.38.0","0.44.0","lang-python",1629690194,["Compliance mode enabled, was '0.44.0'"]],
 ["rfc3986","1.4.0","2.0.0","lang-python",1595301997,["Compliance mode enabled, was '2.0.0'"]],
 ["lxml-html-clean","0.2.2","0.4.1","lang-python",1728366112,["Compliance mode enabled, was '0.4.1'"]],
