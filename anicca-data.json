@@ -157,6 +157,7 @@
 ["gnote","42.1","47.2","desktop-gnome",1663210250,["Compliance mode enabled, was '47.2'"]],
 ["zenity","3.42.1","4.1.90","desktop-gnome",1663210251,["Compliance mode enabled, was '4.1.90'"]],
 ["libchamplain","0.12.20","0.12.21","desktop-gnome",1573873806,["Compliance mode enabled, was '0.12.21'"]],
+["alacarte","3.54.0","3.54.1","desktop-gnome",1729158587,["Compliance mode enabled, was '3.54.1'"]],
 ["template-glib","3.28.0","3.36.3","desktop-gnome",1521262132,["Compliance mode enabled, was '3.36.3'"]],
 ["gnome-packagekit","3.32.0","43.0","desktop-gnome",1571163275,["Compliance mode enabled, was '43.0'"]],
 ["gnome-maps","42.3","48.0","desktop-gnome",1663210243,["Compliance mode enabled, was '48.0'"]],
