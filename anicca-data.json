@@ -2662,7 +2662,7 @@
 ["czmq","4.2.0","4.2.1","runtime-common",1550439885,["Compliance mode enabled, was '4.2.1'"]],
 ["lttng-ust","2.13.5","2.13.8","runtime-common",1707183493,["Compliance mode enabled, was '2.13.8'"]],
 ["catch2","2.13.8","3.8.0","runtime-common",1645499841,["Compliance mode enabled, was '3.8.0'"]],
-["folly","2024.12.30.00","2025.03.10.00","runtime-common",1737164791,["Compliance mode enabled, was '2025.03.10.00'"]],
+["folly","2024.12.30.00","2025.03.17.00","runtime-common",1737164791,["Compliance mode enabled, was '2025.03.17.00'"]],
 ["mimalloc","2.1.7","3.0.1","runtime-common",1729158361,["Compliance mode enabled, was '3.0.1'"]],
 ["snappy","1.1.8","1.2.1","runtime-common",1582091924,["Compliance mode enabled, was '1.2.1'"]],
 ["volk","2.5.0","3.2.0","runtime-common",1637636760,["Compliance mode enabled, was '3.2.0'"]],
