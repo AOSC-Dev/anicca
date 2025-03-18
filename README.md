@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742328778?label=Updated)
+![Relative date](https://img.shields.io/date/1742332328?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -46,7 +46,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadiconsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akregator|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
-|alacarte|3.54.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -389,7 +388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|27.3.1|28.0.1|app-containers||
-|docker-buildx|0.18.0|0.21.3|app-containers|Compliance mode enabled, was '0.21.3'|
+|docker-buildx|0.18.0|0.22.0|app-containers|Compliance mode enabled, was '0.22.0'|
 |docker-compose|2.30.3|2.34.0|app-containers|Compliance mode enabled, was '2.34.0'|
 |dolphin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |dolphin-emu|2407|2503|app-games|Compliance mode enabled, was '2503'|
@@ -1692,7 +1691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neon+32|0.33.0|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
 |nestopia|1.52.1|1.53.0|app-games|Compliance mode enabled, was '1.53.0'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
-|netavark|1.13.0|1.14.0|runtime-containers|Compliance mode enabled, was '1.14.0'|
+|netavark|1.13.0|1.14.1|runtime-containers|Compliance mode enabled, was '1.14.1'|
 |netcat|1.219|1.228|app-network|Compliance mode enabled, was '1.228'|
 |netcdf|4.7.4|4.9.3|runtime-scientific|Compliance mode enabled, was '4.9.3'|
 |netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
@@ -1739,6 +1738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.2.4|lang-python|Compliance mode enabled, was '2.2.4'|
 |nut|2.7.4|2.8.2.2393|app-admin|Compliance mode enabled, was '2.8.2.2393'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
+|nvidia|570.124.04|570.133.07|runtime-display|Compliance mode enabled, was '570.133.07'|
 |nvidia-open|570.124.04<br>+utils570.124.04|570.124.06|runtime-display|Compliance mode enabled, was '570.124.06'|
 |nvm|0.39.7|0.40.2|lang-js|Compliance mode enabled, was '0.40.2'|
 |nvme-cli|2.11|2.12|app-admin|Compliance mode enabled, was '2.12'|
