@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742304286?label=Updated)
+![Relative date](https://img.shields.io/date/1742307147?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1633,7 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
 |minuet|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|mise|2025.2.8|2025.3.3|app-devel|Compliance mode enabled, was '2025.3.3'|
+|mise|2025.2.8|2025.3.6|app-devel|Compliance mode enabled, was '2025.3.6'|
 |mitmproxy|11.0.0|11.1.3|app-network||
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -2566,6 +2566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tclap|1.2.2|1.2.5|runtime-common|Compliance mode enabled, was '1.2.5'|
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
+|tcsh|6.24.12|6.24.15|app-shells|Compliance mode enabled, was '6.24.15'|
 |tdb|1.4.10|1.4.13|app-database|Compliance mode enabled, was '1.4.13'|
 |tde-common-cmake|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tde-i18n|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2737,11 +2738,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |urllib3|2.2.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
-|usage|2.0.3|2.0.5|app-utils|Compliance mode enabled, was '2.0.5'|
+|usage|2.0.3|2.0.6|app-utils|Compliance mode enabled, was '2.0.6'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
+|util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
+|util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.6.6|0.6.7|lang-python|Compliance mode enabled, was '0.6.7'|
 |v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
