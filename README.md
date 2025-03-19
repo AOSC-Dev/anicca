@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742411411?label=Updated)
+![Relative date](https://img.shields.io/date/1742415311?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -258,7 +258,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|chromium|131.0.6778.264|134.0.6998.88|app-web|Compliance mode enabled, was '134.0.6998.88'|
+|chromium|131.0.6778.264|134.0.6998.117|app-web|Compliance mode enabled, was '134.0.6998.117'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
@@ -1748,7 +1748,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvtop|3.1.0<br>+git20250220|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
-|ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
 |ocaml-fmt|0.9.0|0.10.0|lang-ocaml|Compliance mode enabled, was '0.10.0'|
 |ocaml-graphics|5.1.0|5.1.2|lang-ocaml|Compliance mode enabled, was '5.1.2'|
