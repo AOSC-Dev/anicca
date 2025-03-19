@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742404299?label=Updated)
+![Relative date](https://img.shields.io/date/1742408200?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -231,7 +231,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |cbindgen|0.27.0|0.28.0|lang-rust|Compliance mode enabled, was '0.28.0'|
 |ccache|4.10.2|4.11.1|app-devel|Compliance mode enabled, was '4.11.1'|
-|ccid|1.5.1|1.6.1|runtime-devices|Compliance mode enabled, was '1.6.1'|
+|ccid|1.5.1|1.6.2|runtime-devices|Compliance mode enabled, was '1.6.2'|
 |ccls|0.20240202|0.20241108|app-devel|Compliance mode enabled, was '0.20241108'|
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
@@ -388,7 +388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|27.3.1|28.0.1|app-containers||
+|docker|27.3.1|28.0.2|app-containers||
 |docker-buildx|0.18.0|0.22.0|app-containers|Compliance mode enabled, was '0.22.0'|
 |docker-compose|2.30.3|2.34.0|app-containers|Compliance mode enabled, was '2.34.0'|
 |dolphin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -583,6 +583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|gh|2.68.1|2.69.0|app-devel|Compliance mode enabled, was '2.69.0'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghidra|11.2.1_build|11.3.1_build|app-devel||
@@ -798,8 +799,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ignition|2.20.0|2.21.0|app-admin|Compliance mode enabled, was '2.21.0'|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
 |iio-sensor-proxy|3.5|3.7|app-utils|Compliance mode enabled, was '3.7'|
-|imagemagick|6.9.13<br>+16|6.9.13+23|app-utils|Compliance mode enabled, was '6.9.13-23'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+45|app-utils|Compliance mode enabled, was '7.1.1-45'|
+|imagemagick|6.9.13<br>+16|6.9.13+24|app-utils|Compliance mode enabled, was '6.9.13-24'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+46|app-utils|Compliance mode enabled, was '7.1.1-46'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
