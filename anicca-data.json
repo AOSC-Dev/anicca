@@ -1407,6 +1407,7 @@
 ["versioningit","3.0.0","3.1.2","app-devel",1708685051,["Compliance mode enabled, was '3.1.2'"]],
 ["cgns","4.2.0","4.5.0","app-devel",1639826391,["Compliance mode enabled, was '4.5.0'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
+["xsd","4.1.0~alpha11","4.2.0","app-devel",1614161812,["Compliance mode enabled, was '4.2.0'"]],
 ["spirv-llvm-translator","18.1.0","20.1.0","app-devel",1721226526,["Compliance mode enabled, was '20.1.0'"]],
 ["aspnetcore-runtime-6.0","6.0.30","6.0.36","app-devel",1716597653,["Compliance mode enabled, was '6.0.36'"]],
 ["asio","1.18.1","1.30.2","app-devel",1614161782,["Compliance mode enabled, was '1.30.2'"]],
