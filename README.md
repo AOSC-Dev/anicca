@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742483560?label=Updated)
+![Relative date](https://img.shields.io/date/1742487261?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1654,6 +1654,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mpfr|4.2.1|4.2.2|core-libs|Compliance mode enabled, was '4.2.2'|
+|mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
 |mpg123+32|1.32.8|1.32.10|runtime-optenv32|Compliance mode enabled, was '1.32.10'|
 |mplayerthumbs-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2542,6 +2544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |svt-av1|2.3.0|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
+|swaylock|1.8.0|1.8.1|app-utils|Compliance mode enabled, was '1.8.1'|
 |sweeper|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |swell-foop|41.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
@@ -2836,6 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxmaxima|24.11.0|25.01.0|app-scientific|Compliance mode enabled, was '25.01.0'|
 |wxpython|4.2.1|4.2.2|lang-python|Compliance mode enabled, was '4.2.2'|
 |wxwidgets|3.2.4|3.2.7|runtime-desktop|Compliance mode enabled, was '3.2.7'|
+|x264|0<br>+git20241027|3213|runtime-multimedia|Compliance mode enabled, was '3213'|
 |x264+32|0<br>+git20241027|3213|runtime-optenv32|Compliance mode enabled, was '3213'|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|3.6|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
