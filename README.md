@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742487261?label=Updated)
+![Relative date](https://img.shields.io/date/1742490663?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -386,6 +386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.110.0|lang-dlang|Compliance mode enabled, was '2.110.0'|
 |dnscrypt|2.1.5|2.1.7|app-network|Compliance mode enabled, was '2.1.7'|
+|dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -1714,7 +1715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-strongswan|1.5.2|1.6.2|app-network|Compliance mode enabled, was '1.6.2'|
 |networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |networkx|2.8.5|3.4.2|lang-python|Compliance mode enabled, was '3.4.2'|
-|newflasher|52|57|app-devices|Compliance mode enabled, was '57'|
+|newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |newt|0.52.23|0.52.25|runtime-common|Compliance mode enabled, was '0.52.25'|
 |nfs-utils|2.6.2|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |nftables|1.0.9|1.1.1|app-network|Compliance mode enabled, was '1.1.1'|
@@ -2414,8 +2415,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|77.0.1|lang-python|Compliance mode enabled, was '77.0.1'|
-|setuptools-python3|75.8.0|77.0.1|lang-python|Compliance mode enabled, was '77.0.1'|
+|setuptools-python2|44.1.0|77.0.3|lang-python|Compliance mode enabled, was '77.0.3'|
+|setuptools-python3|75.8.0|77.0.3|lang-python|Compliance mode enabled, was '77.0.3'|
 |setuptools-rust|1.9.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |setuptools-scm|8.1.0|8.2.1|lang-python|Compliance mode enabled, was '8.2.1'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
@@ -2662,7 +2663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomlkit|0.7.0|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |topgrade|11.0.2|16.0.2|app-admin|Compliance mode enabled, was '16.0.2'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
-|tor|0.4.8.13|0.4.8.14|app-network|Compliance mode enabled, was '0.4.8.14'|
+|tor|0.4.8.13|0.4.8.15|app-network|Compliance mode enabled, was '0.4.8.15'|
 |tork-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tornado|6.4.1|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
 |tortoisehg|6.6.3|6.9|app-vcs|Compliance mode enabled, was '6.9'|
