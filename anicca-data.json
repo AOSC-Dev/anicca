@@ -727,6 +727,7 @@
 ["zvbi","0.2.35","0.2.44","runtime-multimedia",1678950872,["Compliance mode enabled, was '0.2.44'"]],
 ["sonivox","3.6.12","3.6.15","runtime-multimedia",1723366283,["Compliance mode enabled, was '3.6.15'"]],
 ["libsndfile","1.2.0","1.2.2","runtime-multimedia",1722221884,["Compliance mode enabled, was '1.2.2'"]],
+["vpl-gpu-rt","25.1.3","25.1.4","runtime-multimedia",1741002872,["Compliance mode enabled, was '25.1.4'"]],
 ["liblo","0.29","0.32","runtime-multimedia",1508991786,["Compliance mode enabled, was '0.32'"]],
 ["libsidplay","1.36.59","2.1.1","runtime-multimedia",1678950872,["Compliance mode enabled, was '2.1.1'"]],
 ["mlt","7.26.0","7.30.0","runtime-multimedia",1727581856,["Compliance mode enabled, was '7.30.0'"]],
