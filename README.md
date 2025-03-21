@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742569897?label=Updated)
+![Relative date](https://img.shields.io/date/1742573596?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -360,7 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deb-installer|0.1.8|0.1.9|app-admin|Compliance mode enabled, was '0.1.9'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
-|deja-dup|42.9|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
+|deja-dup|42.9|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |delve|1.23.0|1.24.1|lang-golang|Compliance mode enabled, was '1.24.1'|
 |deno|1.44.1|2.2.4|lang-js|Compliance mode enabled, was '2.2.4'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
@@ -820,6 +820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-gmmlib|22.7.0|22.7.1|runtime-devices|Compliance mode enabled, was '22.7.1'|
 |intel-media-driver|24.4.4|25.1.4|runtime-multimedia|Compliance mode enabled, was '25.1.4'|
+|intel-oneapi-basekit|2025.0.1|2025.1.0|app-devel|Compliance mode enabled, was '2025.1.0'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -1471,7 +1472,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
 |libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
 |libvpl|2.14.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
-|libwacom|2.4.0|2.14.0|runtime-devices|Compliance mode enabled, was '2.14.0'|
+|libwacom|2.4.0|2.15.0|runtime-devices|Compliance mode enabled, was '2.15.0'|
 |libwebp|1.3.1|1.5.0|runtime-imaging|Compliance mode enabled, was '1.5.0'|
 |libwebp+32|1.3.1|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |libwebsockets|4.3.3|4.3.5|runtime-web|Compliance mode enabled, was '4.3.5'|
@@ -1519,6 +1520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-retro|5.10.204|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'|
 |linux-kernel-retro-minimal|5.15.17|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'<br>Possible downgrade from the current version (5.15.17 -> 5.10.235)|
 |linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
+|linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llama.cpp|4879|4930|runtime-creativity|Compliance mode enabled, was '4930'|
