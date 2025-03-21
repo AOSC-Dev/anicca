@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742563244?label=Updated)
+![Relative date](https://img.shields.io/date/1742566390?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -209,7 +209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
-|calibre|7.24.0|7.26.0|app-doc|Compliance mode enabled, was '7.26.0'|
+|calibre|7.24.0|8.0.1|app-doc|Compliance mode enabled, was '8.0.1'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -1819,7 +1819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |openra|20210321|20250303|app-games|Compliance mode enabled, was '20250303'|
 |openrazer|3.10.0|3.10.1|app-devices|Compliance mode enabled, was '3.10.1'|
-|opensc|0.25.1|0.26.1|app-devices|Compliance mode enabled, was '0.26.1'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
 |openssl-1.1|1.1.1w|3.4.1|runtime-cryptography|Compliance mode enabled, was '3.4.1'|
@@ -2803,8 +2802,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.80.0|runtime-desktop|Compliance mode enabled, was '0.80.0'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
 |vulkan-extensionlayer|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
-|vulkan-headers|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
-|vulkan-headers+32|1.3.283.0|1.4.310|runtime-optenv32|Compliance mode enabled, was '1.4.310'|
+|vulkan-headers|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
+|vulkan-headers+32|1.3.283.0|1.4.311|runtime-optenv32|Compliance mode enabled, was '1.4.311'|
 |vulkan-loader|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
 |vulkan-loader+32|1.3.283.0|1.4.310|runtime-optenv32|Compliance mode enabled, was '1.4.310'|
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
