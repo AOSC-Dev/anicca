@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742512301?label=Updated)
+![Relative date](https://img.shields.io/date/1742517774?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -261,7 +261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|131.0.6778.264|134.0.6998.117|app-web|Compliance mode enabled, was '134.0.6998.117'|
 |chrony|4.5|4.6.1|app-admin|Compliance mode enabled, was '4.6.1'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|cifs-utils|7.0|7.2|app-network|Compliance mode enabled, was '7.2'|
+|cifs-utils|7.0|7.3|app-network|Compliance mode enabled, was '7.3'|
 |cinnamon|5.8.3|6.4.8|desktop-cinnamon|Compliance mode enabled, was '6.4.8'|
 |cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |cinnamon-desktop|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
@@ -1163,7 +1163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktuberling|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kturtle|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kubectl|1.31.0|1.32.3|app-containers|Compliance mode enabled, was '1.32.3'|
-|kubo|0.29.0|0.33.2|app-network|Compliance mode enabled, was '0.33.2'|
+|kubo|0.29.0|0.34.0|app-network|Compliance mode enabled, was '0.34.0'|
 |kubrick|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kunitconversion|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kvantum|1.0.10|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
@@ -1198,7 +1198,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldb|2.9.2|2.9.1|app-database|Compliance mode enabled, was '2.9.1'<br>Possible downgrade from the current version (2.9.2 -> 2.9.1)|
-|ldc|1.38.0|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
+|ldc|1.38.0|1.40.1|lang-dlang|Compliance mode enabled, was '1.40.1'|
 |ldns|1.8.3|1.8.4|runtime-network|Compliance mode enabled, was '1.8.4'|
 |leatherman|1.9.1|1.12.13|runtime-common|Compliance mode enabled, was '1.12.13'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
