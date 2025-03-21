@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742523703?label=Updated)
+![Relative date](https://img.shields.io/date/1742527551?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -72,7 +72,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.1.0|lang-python|Compliance mode enabled, was '3.49.1.0'|
-|apt|2.6.1|2.9.33|app-admin|Compliance mode enabled, was '2.9.33'|
+|apt|2.6.1|2.9.34|app-admin|Compliance mode enabled, was '2.9.34'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
@@ -482,7 +482,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
-|fastfetch|2.39.0|2.39.1|app-utils|Compliance mode enabled, was '2.39.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
