@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742548413?label=Updated)
+![Relative date](https://img.shields.io/date/1742552028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -784,7 +784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.17|app-i18n|Compliance mode enabled, was '1.5.17'|
 |ibus-chewing|1.6.1|2.1.4|app-i18n|Compliance mode enabled, was '2.1.4'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
-|ibus-libpinyin|1.12.0|1.16.0|app-i18n|Compliance mode enabled, was '1.16.0'|
+|ibus-libpinyin|1.12.0|1.16.1|app-i18n|Compliance mode enabled, was '1.16.1'|
 |ibus-m17n|1.4.7|1.4.35|app-i18n|Compliance mode enabled, was '1.4.35'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
 |ibus-rime|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
@@ -2550,7 +2550,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |svt-av1|2.3.0|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
-|swaylock|1.8.0|1.8.1|app-utils|Compliance mode enabled, was '1.8.1'|
 |sweeper|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |swell-foop|41.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
