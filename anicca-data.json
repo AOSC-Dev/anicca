@@ -2914,7 +2914,7 @@
 ["b43-firmware-installer","20160210","019","app-admin",1678950872,["Compliance mode enabled, was '019'","Possible downgrade from the current version (20160210 -> 019)"]],
 ["iozone","3.492","3.507","app-admin",1641887332,["Compliance mode enabled, was '3.507'"]],
 ["audit","4.0.2","4.0.3","app-admin",1733052396,["Compliance mode enabled, was '4.0.3'"]],
-["bcachefs-tools","1.9.4","1.20.0","app-admin",1721277532,["Compliance mode enabled, was '1.20.0'"]],
+["bcachefs-tools","1.9.4","1.25.0","app-admin",1721277532,["Compliance mode enabled, was '1.25.0'"]],
 ["kexec-tools","2.0.29","2.0.30","app-admin",1728875871,["Compliance mode enabled, was '2.0.30'"]],
 ["dbus","1.14.10","1.16.2","app-admin",1709829586,["Compliance mode enabled, was '1.16.2'"]],
 ["cloud-init","24.4.1","25.1","app-admin",1739035453,["Compliance mode enabled, was '25.1'"]],
