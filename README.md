@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742631159?label=Updated)
+![Relative date](https://img.shields.io/date/1742634675?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -647,7 +647,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-keyring|40.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-logs|3.36.0|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |gnome-mahjongg|3.38.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|gnome-maps|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|gnome-maps|42.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.2.0|desktop-gnome|Compliance mode enabled, was '4.2.0'|
 |gnome-online-accounts|3.44.0|3.54.1|desktop-gnome|Compliance mode enabled, was '3.54.1'|
@@ -1345,6 +1345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.11|runtime-devices|Compliance mode enabled, was '0.2.11'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
 |libmediaart|1.9.4|1.9.7|runtime-multimedia|Compliance mode enabled, was '1.9.7'|
+|libmediainfo|24.12|25.03|runtime-multimedia|Compliance mode enabled, was '25.03'|
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
 |libmikmod|3.3.11.1|3.3.12|runtime-multimedia|Compliance mode enabled, was '3.3.12'|
 |libmikmod+32|3.3.11.1|3.3.12|runtime-optenv32|Compliance mode enabled, was '3.3.12'|
@@ -1625,6 +1626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdbook|0.4.40|0.4.47|app-doc|Compliance mode enabled, was '0.4.47'|
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
+|mediainfo|24.12|25.03|app-multimedia|Compliance mode enabled, was '25.03'|
 |meld|3.22.2|3.22.3|desktop-gnome|Compliance mode enabled, was '3.22.3'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
@@ -1700,6 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20250315|runtime-common|Compliance mode enabled, was '6.5-20250315'|
 |ncurses+32|6.4|6.5+20250315|runtime-optenv32|Compliance mode enabled, was '6.5-20250315'|
+|ndctl|80|81|app-admin|Compliance mode enabled, was '81'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
