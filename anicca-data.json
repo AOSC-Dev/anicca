@@ -912,7 +912,6 @@
 ["stubby","0.3.0","0.4.3","app-network",1594095410,["Compliance mode enabled, was '0.4.3'"]],
 ["privoxy","3.0.34","4.0.0","app-network",1710986202,["Compliance mode enabled, was '4.0.0'"]],
 ["kea","2.6.1","2.7.6","app-network",1739617246,["Compliance mode enabled, was '2.7.6'"]],
-["scapy","2.5.0","2.6.1","app-network",1716390068,["Compliance mode enabled, was '2.6.1'"]],
 ["iperf3","3.17.1","3.18","app-network",1718471614,["Compliance mode enabled, was '3.18'"]],
 ["slurm","0.4.4","0.5.1","app-network",1600577920,["Compliance mode enabled, was '0.5.1'"]],
 ["sshpass","1.06","1.10","app-network",1552787668,["Compliance mode enabled, was '1.10'"]],
