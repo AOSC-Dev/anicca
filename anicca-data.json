@@ -296,6 +296,7 @@
 ["mpfr","4.2.1","4.2.2","core-libs",1704260445,["Compliance mode enabled, was '4.2.2'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
 ["trinity-default-settings","2023.07.1r","2024.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.11.0'"]],
+["tzdata","2025a","2025b","runtime-data",1737435601,["Compliance mode enabled, was '2025b'"]],
 ["archlinux-keyring","20241015","20250123.1","runtime-data",1729578196,["Compliance mode enabled, was '20250123.1'"]],
 ["spdx-licenses","3.25.0","3.26.0","runtime-data",1732414619,["Compliance mode enabled, was '3.26.0'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
