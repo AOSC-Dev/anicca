@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742620374?label=Updated)
+![Relative date](https://img.shields.io/date/1742624026?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2474,7 +2474,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|sonic-visualiser|4.4|5.2|app-multimedia|Compliance mode enabled, was '5.2'|
+|sonic-visualiser|4.4|5.2.1|app-multimedia|Compliance mode enabled, was '5.2.1'|
 |sonivox|3.6.12|3.6.15|runtime-multimedia|Compliance mode enabled, was '3.6.15'|
 |sonnet|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |sord|0.16.4|0.16.18|runtime-common|Compliance mode enabled, was '0.16.18'|
@@ -2760,6 +2760,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |urllib3|2.2.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
+|usage|2.0.3|2.0.6|app-utils|Compliance mode enabled, was '2.0.6'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
