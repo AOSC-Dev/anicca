@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742604135?label=Updated)
+![Relative date](https://img.shields.io/date/1742609859?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -358,6 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |dbus-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ddnet|18.4|19.0|app-games|Compliance mode enabled, was '19.0'|
+|ddrescue|1.29|1.29.1|app-utils|Compliance mode enabled, was '1.29.1'|
 |deb-installer|0.1.8|0.1.9|app-admin|Compliance mode enabled, was '0.1.9'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
@@ -1847,7 +1848,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
-|osu-lazer|2025.316.0|2025.321.0|app-games|Compliance mode enabled, was '2025.321.0'|
 |owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |oxygen-icons|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
@@ -2102,7 +2102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-systemmonitor|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-thunderbolt|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-vault|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
-|plasma-wayland-protocols|1.10.0|1.16.0|desktop-kde|Compliance mode enabled, was '1.16.0'|
+|plasma-wayland-protocols|1.10.0|1.17.0|desktop-kde|Compliance mode enabled, was '1.17.0'|
 |plasma-welcome|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-workspace|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-workspace-wallpapers|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
@@ -2699,6 +2699,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
 |tree-sitter|0.24.3|0.25.3|app-devel|Compliance mode enabled, was '0.25.3'|
 |tree-sitter-c|0.23.1|0.23.5|runtime-editors|Compliance mode enabled, was '0.23.5'|
+|tree-sitter-lua|0.2.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'|
+|tree-sitter-markdown|0.3.2|0.4.1|runtime-editors|Compliance mode enabled, was '0.4.1'|
 |tree-sitter-query|0.4.0|0.1.0|runtime-editors|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.4.0 -> 0.1.0)|
 |tree-sitter-vim|0.4.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.0 -> 0.3.0)|
 |tree-sitter-vimdoc|3.0.0|1.0.0|runtime-editors|Compliance mode enabled, was '1.0.0'<br>Possible downgrade from the current version (3.0.0 -> 1.0.0)|
@@ -2868,7 +2870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcompmgr|1.1.8|1.1.10|desktop-wm|Compliance mode enabled, was '1.1.10'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal-gnome|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|xdg-desktop-portal-gtk|1.15.2|1.15.3|app-admin|Compliance mode enabled, was '1.15.3'|
 |xdg-desktop-portal-kde|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xdm|1.1.16|1.1.17|desktop-displaymanagers|Compliance mode enabled, was '1.1.17'|
