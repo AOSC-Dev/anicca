@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742749687?label=Updated)
+![Relative date](https://img.shields.io/date/1742753570?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -844,6 +844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iwd|3.2|3.4|app-network|Compliance mode enabled, was '3.4'|
 |ixion|0.19.0|0.20.0|runtime-scientific|Compliance mode enabled, was '0.20.0'|
 |j4-dmenu-desktop|2.17|3.2|app-utils|Compliance mode enabled, was '3.2'|
+|jansson|2.14|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |janus|1.0.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |jasper|2.0.21|4.2.4|runtime-imaging|Compliance mode enabled, was '4.2.4'|
 |jbig2dec|0.18|0.20|runtime-imaging|Compliance mode enabled, was '0.20'|
@@ -1713,7 +1714,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.33.0|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
-|nestopia|1.52.1|1.53.0|app-games|Compliance mode enabled, was '1.53.0'|
+|nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.14.1|runtime-containers|Compliance mode enabled, was '1.14.1'|
 |netcat|1.219|1.228|app-network|Compliance mode enabled, was '1.228'|
@@ -2242,6 +2243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|lang-python|Compliance mode enabled, was '3.20'|
 |pysolfc|2.12.0|3.2.0|app-games|Compliance mode enabled, was '3.2.0'|
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
+|pytest|8.2.2|8.3.5|lang-python|Compliance mode enabled, was '8.3.5'|
 |python-3|3.10.13|3.13.2|lang-python|Compliance mode enabled, was '3.13.2'|
 |python-augeas|1.0.3|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |python-build|1.2.1|1.2.2|lang-python|Compliance mode enabled, was '1.2.2'|
@@ -2542,7 +2544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sslh|1.19c|2.1.4|app-network|Compliance mode enabled, was '2.1.4'|
 |sssd|2.9.5|2.10.2|app-admin|Compliance mode enabled, was '2.10.2'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
-|stellarium|24.3|24.4|app-scientific|Compliance mode enabled, was '24.4'|
+|stellarium|24.3|25.1|app-scientific|Compliance mode enabled, was '25.1'|
 |stellarsolver|2.5|2.6|app-scientific|Compliance mode enabled, was '2.6'|
 |step|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |stevedore|5.2.0|5.4.1|lang-python|Compliance mode enabled, was '5.4.1'|
@@ -2799,7 +2801,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1198|9.1.1231|app-editors|Compliance mode enabled, was '9.1.1231'|
+|vim|9.1.1198|9.1.1232|app-editors|Compliance mode enabled, was '9.1.1232'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
