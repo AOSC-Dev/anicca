@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742717684?label=Updated)
+![Relative date](https://img.shields.io/date/1742721079?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1021,6 +1021,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-admin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-extras|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-fuse|5.0.1|5.1.0|desktop-kde|Compliance mode enabled, was '5.1.0'|
+|kio-gdrive|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-zeroconf|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kiosktool-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kipi-plugins|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1492,6 +1493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libx86emu|3.5|3.7|runtime-common|Compliance mode enabled, was '3.7'|
 |libxcrypt+32|4.4.37|4.4.38|runtime-optenv32|Compliance mode enabled, was '4.4.38'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
+|libxfce4util|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.13.6|runtime-common|Compliance mode enabled, was '2.13.6'|
 |libxml2+32|2.10.4|2.13.6|runtime-optenv32|Compliance mode enabled, was '2.13.6'|
