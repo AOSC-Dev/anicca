@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742727972?label=Updated)
+![Relative date](https://img.shields.io/date/1742732180?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -471,6 +471,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exfatprogs|1.2.5|1.2.8|app-admin|Compliance mode enabled, was '1.2.8'|
 |exim|4.98|4.98.1|app-web|Compliance mode enabled, was '4.98.1'|
 |exiv2|0.27.5|0.28.5|runtime-imaging|Compliance mode enabled, was '0.28.5'|
+|expandvars|0.12.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |expat+32|2.6.2|2.7.0|runtime-optenv32|Compliance mode enabled, was '2.7.0'|
 |extra-cmake-modules|5.115.0|6.12.0|app-devel|Compliance mode enabled, was '6.12.0'|
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
@@ -2568,7 +2569,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |svt-av1|2.3.0|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
-|swaylock|1.8.1|1.8.2|app-utils|Compliance mode enabled, was '1.8.2'|
 |sweeper|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |swell-foop|41.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
