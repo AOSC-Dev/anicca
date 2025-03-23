@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742713835?label=Updated)
+![Relative date](https://img.shields.io/date/1742717684?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1021,7 +1021,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-admin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-extras|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-fuse|5.0.1|5.1.0|desktop-kde|Compliance mode enabled, was '5.1.0'|
-|kio-gdrive|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kio-zeroconf|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kiosktool-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kipi-plugins|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1741,6 +1740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
+|nnn|5.0|5.1|app-utils|Compliance mode enabled, was '5.1'|
 |nodejs-20|20.18.3|20.19.0|lang-js|Compliance mode enabled, was '20.19.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.4|1.18.5|lang-ruby|Compliance mode enabled, was '1.18.5'|
@@ -2893,6 +2893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfce4-panel|4.20.3|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
+|xfconf|4.20.0|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
 |xfe|1.46.1|2.0.1|app-utils|Compliance mode enabled, was '2.0.1'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xfsprogs|6.9.0|6.13.0|app-admin|Compliance mode enabled, was '6.13.0'|
