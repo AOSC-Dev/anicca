@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742753570?label=Updated)
+![Relative date](https://img.shields.io/date/1742756827?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -208,7 +208,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|calf|0.90.3|0.90.4|app-multimedia|Compliance mode enabled, was '0.90.4'|
+|calf|0.90.3|0.90.5|app-multimedia|Compliance mode enabled, was '0.90.5'|
 |calibre|7.24.0|8.0.1|app-doc|Compliance mode enabled, was '8.0.1'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -219,7 +219,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
-|capstone|5.0.3|5.0.5|app-devel|Compliance mode enabled, was '5.0.5'|
+|capstone|5.0.3|5.0.6|app-devel|Compliance mode enabled, was '5.0.6'|
 |cargo-audit|0.21.0|0.21.2|lang-rust|Compliance mode enabled, was '0.21.2'|
 |cargo-c|0.10.2|0.10.11+cargo-0.86.0|lang-rust|Compliance mode enabled, was '0.10.11+cargo-0.86.0'|
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
