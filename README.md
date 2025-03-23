@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742685032?label=Updated)
+![Relative date](https://img.shields.io/date/1742690770?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -332,7 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250316.0|app-devel|Compliance mode enabled, was '6.1.20250316.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250316.0)|
+|ctags|20191203|6.1.20250323.0|app-devel|Compliance mode enabled, was '6.1.20250323.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250323.0)|
 |cuda|12.6.3|12.8.1|app-devel||
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -781,7 +781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.130.1|lang-python|Compliance mode enabled, was '6.130.1'|
+|hypothesis-python|6.97.4|6.130.2|lang-python|Compliance mode enabled, was '6.130.2'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -2779,7 +2779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |v2ray|5.29.0|5.29.2|app-network|Compliance mode enabled, was '5.29.2'|
-|v2ray-rules-dat|202501302211|202503212212|runtime-data|Compliance mode enabled, was '202503212212'<br>Versions not comparable: `202501302211` and `202503212212`|
+|v2ray-rules-dat|202501302211|202503222211|runtime-data|Compliance mode enabled, was '202503222211'<br>Versions not comparable: `202501302211` and `202503222211`|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |v4l2loopback|0.13.2|0.14.0|app-utils|Compliance mode enabled, was '0.14.0'|
@@ -2821,7 +2821,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.0|runtime-desktop|Compliance mode enabled, was '0.80.0'|
 |vtk|9.3.0|9.4.1|app-scientific|Compliance mode enabled, was '9.4.1'|
-|vulkan-extensionlayer|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
+|vulkan-extensionlayer|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |vulkan-headers|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |vulkan-headers+32|1.3.283.0|1.4.311|runtime-optenv32|Compliance mode enabled, was '1.4.311'|
 |vulkan-loader|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
@@ -2829,7 +2829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools|1.3.283.0|1.3.298|app-utils|Compliance mode enabled, was '1.3.298'|
 |vulkan-tools+32|1.3.283.0|1.3.298|runtime-optenv32|Compliance mode enabled, was '1.3.298'|
 |vulkan-utility-libraries|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
-|vulkan-validationlayers|1.3.283.0|1.4.310|runtime-display|Compliance mode enabled, was '1.4.310'|
+|vulkan-validationlayers|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2024.12.30.00|2025.03.17.00|runtime-network|Compliance mode enabled, was '2025.03.17.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
