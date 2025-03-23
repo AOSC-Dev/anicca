@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742742546?label=Updated)
+![Relative date](https://img.shields.io/date/1742746400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -336,6 +336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cuda|12.6.3|12.8.1|app-devel||
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
+|cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
 |curtsies|0.3.4|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cymem|2.0.5|2.0.11|lang-python|Compliance mode enabled, was '2.0.11'|
@@ -1031,7 +1032,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemmodels|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kitemviews|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kiten|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|kitinerary|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kitty|0.38.1|0.40.1|app-utils|Compliance mode enabled, was '0.40.1'|
 |kiwisolver|1.0.1|1.4.8|lang-python|Compliance mode enabled, was '1.4.8'|
 |kjobwidgets|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
@@ -1986,7 +1986,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-html-form|6.03|6.12|lang-perl|Compliance mode enabled, was '6.12'|
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
 |perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
-|perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
