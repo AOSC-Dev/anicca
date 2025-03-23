@@ -151,7 +151,7 @@
 ["libgnome-games-support","1.8.2","2.0.1","desktop-gnome",1663210249,["Compliance mode enabled, was '2.0.1'"]],
 ["hitori","3.38.4","44.0","desktop-gnome",1663210243,["Compliance mode enabled, was '44.0'"]],
 ["gnome-video-effects","0.4.3","0.6.0","desktop-gnome",1486746011,["Compliance mode enabled, was '0.6.0'"]],
-["gtkmm-4","4.14.0","4.16.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.16.0'"]],
+["gtkmm-4","4.14.0","4.18.0","desktop-gnome",1716688630,["Compliance mode enabled, was '4.18.0'"]],
 ["gvfs","1.50.2","1.57.2","desktop-gnome",1663210210,["Compliance mode enabled, was '1.57.2'"]],
 ["folks","0.15.5","0.15.9","desktop-gnome",1663210253,["Compliance mode enabled, was '0.15.9'"]],
 ["gnote","42.1","47.2","desktop-gnome",1663210250,["Compliance mode enabled, was '47.2'"]],
