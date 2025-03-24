@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742840082?label=Updated)
+![Relative date](https://img.shields.io/date/1742843341?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1623,8 +1623,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |maturin|1.8.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
-|mbedtls|2.16.7|3.6.2|runtime-cryptography|Compliance mode enabled, was '3.6.2'|
-|mbedtls+32|2.16.7|3.6.2|runtime-optenv32|Compliance mode enabled, was '3.6.2'|
+|mbedtls|2.16.7|3.6.3|runtime-cryptography|Compliance mode enabled, was '3.6.3'|
+|mbedtls+32|2.16.7|3.6.3|runtime-optenv32|Compliance mode enabled, was '3.6.3'|
 |mbox-importer|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mc|4.8.32|4.8.33|app-utils|Compliance mode enabled, was '4.8.33'|
 |mccabe|0.6.1|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
@@ -2835,10 +2835,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |vulkan-validationlayers|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2024.12.30.00|2025.03.17.00|runtime-network|Compliance mode enabled, was '2025.03.17.00'|
+|wangle|2024.12.30.00|2025.03.24.00|runtime-network|Compliance mode enabled, was '2025.03.24.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
-|watchman|2024.12.30.00|2025.03.17.00|app-utils|Compliance mode enabled, was '2025.03.17.00'|
+|watchman|2024.12.30.00|2025.03.24.00|app-utils|Compliance mode enabled, was '2025.03.24.00'|
 |wayland-protocols|1.41|1.42|app-devel|Compliance mode enabled, was '1.42'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
@@ -2887,6 +2887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal-gnome|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |xdg-desktop-portal-kde|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
+|xdg-desktop-portal-termfilechooser|1.0.1|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xdm|1.1.16|1.1.17|desktop-displaymanagers|Compliance mode enabled, was '1.1.17'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
