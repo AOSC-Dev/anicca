@@ -2819,6 +2819,7 @@
 ["libipt","2.1.1","2.1.2","runtime-devices",1737341442,["Compliance mode enabled, was '2.1.2'"]],
 ["intel-gmmlib","22.7.0","22.7.1","runtime-devices",1741508327,["Compliance mode enabled, was '22.7.1'"]],
 ["libusb-compat","0.1.5","0.1.8","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.8'"]],
+["libinput","1.27.1","1.28.0","runtime-devices",1740707240,["Compliance mode enabled, was '1.28.0'"]],
 ["libcec","6.0.2","7.0.0","runtime-devices",1708227122,["Compliance mode enabled, was '7.0.0'"]],
 ["libfido2","1.13.0","1.15.0","runtime-devices",1696572712,["Compliance mode enabled, was '1.15.0'"]],
 ["libwacom","2.4.0","2.15.0","runtime-devices",1663359144,["Compliance mode enabled, was '2.15.0'"]],
