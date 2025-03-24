@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742800405?label=Updated)
+![Relative date](https://img.shields.io/date/1742804281?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -319,7 +319,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cppcheck|2.8|2.17.0|app-devel|Compliance mode enabled, was '2.17.0'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
-|cpu-x|5.1.3|5.2.0|app-utils|Compliance mode enabled, was '5.2.0'|
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|8.0.6|app-devel|Compliance mode enabled, was '8.0.6'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
@@ -1388,7 +1387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.4|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.0.7|desktop-gnome|Compliance mode enabled, was '2.0.7'|
 |libphonenumber|8.13.38|9.0.1|runtime-i18n|Compliance mode enabled, was '9.0.1'|
-|libpinyin|2.6.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
+|libpinyin|2.6.0|2.10.1|runtime-i18n|Compliance mode enabled, was '2.10.1'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
 |libpng|1.6.44|1.6.47|runtime-imaging|Compliance mode enabled, was '1.6.47'|
@@ -1633,7 +1632,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
-|mercurial|6.8.1|6.9.4|app-vcs|Compliance mode enabled, was '6.9.4'|
 |merkuro|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mesa|25.0.1|25.0.2|runtime-display||
 |mesa+32|25.0.1|25.0.2|runtime-optenv32||
@@ -1907,6 +1905,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
 |pcsx2|1.6.0<br>+git20210825|2.3.238|app-games|Compliance mode enabled, was '2.3.238'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
+|pdfminer|20240706|20250324|app-doc|Compliance mode enabled, was '20250324'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
@@ -2760,7 +2759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
-|unrar|6.2.2|7.1.5|app-utils|Compliance mode enabled, was '7.1.5'|
+|unrar|6.2.2|7.1.6|app-utils|Compliance mode enabled, was '7.1.6'|
 |unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
 |unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |upower|1.90.6|1.90.7|app-admin|Compliance mode enabled, was '1.90.7'|
