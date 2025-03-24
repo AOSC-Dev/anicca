@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742771487?label=Updated)
+![Relative date](https://img.shields.io/date/1742777057?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -604,7 +604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gifski|1.32.0|1.33.0|app-imaging|Compliance mode enabled, was '1.33.0'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
-|gimp|2.10.38|3.0.0|app-creativity|Compliance mode enabled, was '3_0_0'|
+|gimp|2.10.38|3.0.2|app-creativity|Compliance mode enabled, was '3_0_2'|
 |git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cinnabar|0.6.3|0.7.1|app-vcs|Compliance mode enabled, was '0.7.1'|
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
@@ -745,8 +745,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gzdoom|4.14.0|4.14.1|app-games|Compliance mode enabled, was '4.14.1'|
 |handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|10.4.0|runtime-desktop|Compliance mode enabled, was '10.4.0'|
-|harfbuzz+32|8.4.0|10.4.0|runtime-optenv32|Compliance mode enabled, was '10.4.0'|
+|harfbuzz|8.4.0|11.0.0|runtime-desktop|Compliance mode enabled, was '11.0.0'|
+|harfbuzz+32|8.4.0|11.0.0|runtime-optenv32|Compliance mode enabled, was '11.0.0'|
 |haruna|0.12.3|1.3.3|desktop-kde|Compliance mode enabled, was '1.3.3'|
 |hatchling|1.21.1|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'<br>Possible downgrade from the current version (1.21.1 -> 1.14.0)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
