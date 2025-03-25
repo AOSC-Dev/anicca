@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742901046?label=Updated)
+![Relative date](https://img.shields.io/date/1742905102?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1670,6 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
 |more-itertools|4.3.0|10.6.0|lang-python|Compliance mode enabled, was '10.6.0'|
 |mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
+|mousepad|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mpfr|4.2.1|4.2.2|core-libs|Compliance mode enabled, was '4.2.2'|
@@ -2555,6 +2556,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sticky|1.20|1.24|desktop-cinnamon|Compliance mode enabled, was '1.24'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
+|strace|6.13|6.14|app-devel|Compliance mode enabled, was '6.14'|
 |strawberry|1.0.23|1.2.7|app-multimedia|Compliance mode enabled, was '1.2.7'|
 |streamlink|6.7.4|7.1.3|app-multimedia|Compliance mode enabled, was '7.1.3'|
 |strongswan|5.9.4|6.0.1|app-network|Compliance mode enabled, was '6.0.1'|
@@ -2731,7 +2733,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
 |ttf-vlgothic|20200720|20220612|desktop-fonts|Compliance mode enabled, was '20220612'|
 |ttyd|1.6.3|1.7.7|app-utils|Compliance mode enabled, was '1.7.7'|
-|tuned|2.24.1|2.25.1|app-admin|Compliance mode enabled, was '2.25.1'|
 |twin-style-fahrenheit|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twin-style-machbunt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |twisted|21.2.0|24.11.0|lang-python|Compliance mode enabled, was '24.11.0'|
