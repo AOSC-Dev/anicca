@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742897640?label=Updated)
+![Relative date](https://img.shields.io/date/1742901046?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -91,6 +91,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asahi-common|20250130|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20250130 -> 20231113-aosc)|
 |asio|1.18.1|1.30.2|app-devel|Compliance mode enabled, was '1.30.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
+|aspnetcore-runtime-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-runtime-8.0|8.0.10|8.0.14|lang-dotnet|Compliance mode enabled, was '8.0.14'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.14|lang-dotnet|Compliance mode enabled, was '8.0.14'|
@@ -151,7 +152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|3.1.0|app-productivity|Compliance mode enabled, was '3.1.0'|
 |bear|3.1.4|3.1.6|app-devel|Compliance mode enabled, was '3.1.6'|
 |beautifulsoup4|4.10.0|4.13.3|lang-python|Compliance mode enabled, was '4.13.3'|
-|benchmark|1.8.2|1.9.1|runtime-common|Compliance mode enabled, was '1.9.1'|
+|benchmark|1.8.2|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |bind|9.20.4|9.20.7|app-network|Compliance mode enabled, was '9.20.7'|
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
