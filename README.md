@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742940713?label=Updated)
+![Relative date](https://img.shields.io/date/1742944261?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -323,7 +323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|8.0.6|app-devel|Compliance mode enabled, was '8.0.6'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
-|criu|3.19|4.0|app-admin|Compliance mode enabled, was '4.0'|
+|criu|3.19|4.1|app-admin|Compliance mode enabled, was '4.1'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
 |crun|1.16.1|1.20|app-admin|Compliance mode enabled, was '1.20'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
@@ -2790,7 +2790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |v2ray|5.29.0|5.29.3|app-network|Compliance mode enabled, was '5.29.3'|
-|v2ray-rules-dat|202501302211|202503242212|runtime-data|Compliance mode enabled, was '202503242212'<br>Versions not comparable: `202501302211` and `202503242212`|
+|v2ray-rules-dat|202501302211|202503252212|runtime-data|Compliance mode enabled, was '202503252212'<br>Versions not comparable: `202501302211` and `202503252212`|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |v4l2loopback|0.13.2|0.14.0|app-utils|Compliance mode enabled, was '0.14.0'|
