@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742915525?label=Updated)
+![Relative date](https://img.shields.io/date/1742919141?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -394,7 +394,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|27.3.1|28.0.2|app-containers||
+|docker|27.3.1|28.0.3|app-containers||
 |docker-buildx|0.18.0|0.22.0|app-containers|Compliance mode enabled, was '0.22.0'|
 |docker-compose|2.30.3|2.34.0|app-containers|Compliance mode enabled, was '2.34.0'|
 |dolphin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2530,7 +2530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools+32|1.4.304.0|2024.3|runtime-optenv32|Compliance mode enabled, was '2024.3'|
 |spread-sheet-widget|0.3|0.10|runtime-productivity|Compliance mode enabled, was '0.10'|
 |sqlalchemy|1.2.18|2.0.39|lang-python|Compliance mode enabled, was '2.0.39'|
-|sqlcipher|4.5.6|4.6.1|app-database|Compliance mode enabled, was '4.6.1'|
+|sqlcipher|4.5.6|4.7.0|app-database|Compliance mode enabled, was '4.7.0'|
 |sqlite|3.46.1|3.49.1|app-database|Compliance mode enabled, was '3.49.1'|
 |sqlite+32|3.46.1|3.49.1|runtime-optenv32|Compliance mode enabled, was '3.49.1'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
