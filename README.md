@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742912051?label=Updated)
+![Relative date](https://img.shields.io/date/1742915525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1578,6 +1578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-config|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
 |lxqt-globalkeys|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxqt-menu-data|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
+|lxqt-notificationd|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
 |lxqt-panel|1.4.0|2.1.4|desktop-lxqt|Compliance mode enabled, was '2.1.4'|
 |lxqt-policykit|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxqt-powermanagement|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
