@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742863531?label=Updated)
+![Relative date](https://img.shields.io/date/1742869324?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1268,7 +1268,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
 |libetebase|0.5.6|0.5.7|runtime-cryptography|Compliance mode enabled, was '0.5.7'|
 |libetonyek|0.1.9|0.1.12|runtime-productivity|Compliance mode enabled, was '0.1.12'|
-|libevdev|1.11.0|1.13.3|runtime-devices|Compliance mode enabled, was '1.13.3'|
+|libevdev|1.11.0|1.13.4|runtime-devices|Compliance mode enabled, was '1.13.4'|
 |libexif|0.6.22|0.6.25|runtime-imaging|Compliance mode enabled, was '0.6.25'|
 |libexif+32|0.6.22|0.6.25|runtime-optenv32|Compliance mode enabled, was '0.6.25'|
 |libffado|2.4.4|2.4.9|runtime-multimedia|Compliance mode enabled, was '2.4.9'|
@@ -1535,7 +1535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4948|runtime-creativity|Compliance mode enabled, was '4948'|
+|llama.cpp|4879|4951|runtime-creativity|Compliance mode enabled, was '4951'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -2569,6 +2569,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunshine|2025.122.141614|0.5.0|app-multimedia|Compliance mode enabled, was '0.5.0'<br>Possible downgrade from the current version (2025.122.141614 -> 0.5.0)|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
+|superslicer|2.5.60.0|2.7.61.0|app-creativity|Compliance mode enabled, was '2.7.61.0'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |svt-av1|2.3.0|3.0.2|runtime-multimedia|Compliance mode enabled, was '3.0.2'|
@@ -2767,7 +2768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
 |unrar|6.2.2|7.1.6|app-utils|Compliance mode enabled, was '7.1.6'|
 |unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
-|unshield|1.4.3|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
+|unshield|1.4.3|1.6.0|app-utils|Compliance mode enabled, was '1.6.0'|
 |upower|1.90.6|1.90.7|app-admin|Compliance mode enabled, was '1.90.7'|
 |upx|4.2.4|5.0.0|app-devel|Compliance mode enabled, was '5.0.0'|
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
@@ -2785,7 +2786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.6.8|0.6.9|lang-python|Compliance mode enabled, was '0.6.9'|
 |v2ray|5.29.0|5.29.3|app-network|Compliance mode enabled, was '5.29.3'|
-|v2ray-rules-dat|202501302211|202503232213|runtime-data|Compliance mode enabled, was '202503232213'<br>Versions not comparable: `202501302211` and `202503232213`|
+|v2ray-rules-dat|202501302211|202503242212|runtime-data|Compliance mode enabled, was '202503242212'<br>Versions not comparable: `202501302211` and `202503242212`|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
 |v4l2loopback|0.13.2|0.14.0|app-utils|Compliance mode enabled, was '0.14.0'|
