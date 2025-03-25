@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742876240?label=Updated)
+![Relative date](https://img.shields.io/date/1742879520?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -226,6 +226,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
+|castxml|0.6.8|0.6.11|app-devel|Compliance mode enabled, was '0.6.11'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|2.13.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
@@ -439,6 +440,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dulwich|0.21.6|0.22.8|runtime-vcs|Compliance mode enabled, was '0.22.8'|
 |dune|3.4.1|3.17.2|lang-ocaml|Compliance mode enabled, was '3.17.2'|
 |duplicity|3.0.1|3.0.4.1|app-utils|Compliance mode enabled, was '3.0.4.1'|
+|easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
 |ed|1.21|1.21.1|app-editors|Compliance mode enabled, was '1.21.1'|
 |edencommon|2024.12.30.00|2025.03.24.00|runtime-common|Compliance mode enabled, was '2025.03.24.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
@@ -824,6 +826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-gmmlib|22.7.0|22.7.1|runtime-devices|Compliance mode enabled, was '22.7.1'|
+|intel-media-driver|24.4.4|25.1.4|runtime-multimedia|Compliance mode enabled, was '25.1.4'|
 |intel-oneapi-basekit|2025.0.1|2025.1.0|app-devel|Compliance mode enabled, was '2025.1.0'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -1763,6 +1766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.2.2393|app-admin|Compliance mode enabled, was '2.8.2.2393'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
 |nvidia|570.124.04|570.133.07|runtime-display|Compliance mode enabled, was '570.133.07'|
+|nvidia-open|570.124.04<br>+utils570.124.04|570.133.07|runtime-display|Compliance mode enabled, was '570.133.07'|
 |nvm|0.39.7|0.40.2|lang-js|Compliance mode enabled, was '0.40.2'|
 |nvme-cli|2.11|2.12|app-admin|Compliance mode enabled, was '2.12'|
 |nvtop|3.1.0<br>+git20250220|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
@@ -2218,7 +2222,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopengl|3.1.5|3.1.9~a2|lang-python|Compliance mode enabled, was '3.1.9a2'|
 |pyopenssl|23.1.1|25.0.0|lang-python|Compliance mode enabled, was '25.0.0'|
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
-|pyparsing|3.2.1|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
+|pyparsing|3.2.1|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|4.0.1|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
 |pypdf2|1.26.0|5.4.0|lang-python|Compliance mode enabled, was '5.4.0'|
@@ -2904,6 +2908,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xinit|1.4.2|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
+|xkeyboard-config|2.40|2.44|runtime-display|Compliance mode enabled, was '2.44'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
 |xmlrpc-c|1.54.06|1.60.04|runtime-common|Compliance mode enabled, was '1.60.04'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
