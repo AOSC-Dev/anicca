@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743009059?label=Updated)
+![Relative date](https://img.shields.io/date/1743012958?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -177,7 +177,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
 |boto3|1.20.26|1.37.20|lang-python|Compliance mode enabled, was '1.37.20'|
 |botocore|1.34.133|1.37.20|lang-python|Compliance mode enabled, was '1.37.20'|
-|bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |bpftrace|0.21.1|0.23.0|app-admin|Compliance mode enabled, was '0.23.0'|
@@ -684,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |go|1.23.1|1.24.1|lang-golang||
 |go-md2man|2.0.5|2.0.6|app-doc|Compliance mode enabled, was '2.0.6'|
 |gobject-introspection|1.80.0|1.84.0|app-devel|Compliance mode enabled, was '1.84.0'|
-|godot|4.3|4.4|app-devel|Compliance mode enabled, was '4.4'|
+|godot|4.3|4.4.1|app-devel|Compliance mode enabled, was '4.4.1'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
 |google-api-python-client|1.7.11|2.165.0|lang-python|Compliance mode enabled, was '2.165.0'|
@@ -1534,7 +1533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4961|runtime-creativity|Compliance mode enabled, was '4961'|
+|llama.cpp|4879|4963|runtime-creativity|Compliance mode enabled, was '4963'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -1674,6 +1673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.3|0.6.4|desktop-xfce|Compliance mode enabled, was '0.6.4'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mpd|0.24.1|0.24.2|app-multimedia|Compliance mode enabled, was '0.24.2'|
 |mpfr|4.2.1|4.2.2|core-libs|Compliance mode enabled, was '4.2.2'|
 |mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
@@ -1718,6 +1718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.33.0|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
+|neovim|0.10.4|0.11.0|app-editors|Compliance mode enabled, was '0.11.0'|
 |nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.14.1|runtime-containers|Compliance mode enabled, was '1.14.1'|
@@ -1908,8 +1909,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
-|pcsclite|1.9.9|2.3.1|app-devices|Compliance mode enabled, was '2.3.1'|
-|pcsx2|1.6.0<br>+git20210825|2.3.240|app-games|Compliance mode enabled, was '2.3.240'|
+|pcsclite|1.9.9|2.3.2|app-devices|Compliance mode enabled, was '2.3.2'|
+|pcsx2|1.6.0<br>+git20210825|2.3.241|app-games|Compliance mode enabled, was '2.3.241'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250324|app-doc|Compliance mode enabled, was '20250324'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2811,7 +2812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1198|9.1.1238|app-editors|Compliance mode enabled, was '9.1.1238'|
+|vim|9.1.1198|9.1.1240|app-editors|Compliance mode enabled, was '9.1.1240'|
 |virglrenderer|0.10.4|1.1.0|app-virtualization|Compliance mode enabled, was '1.1.0'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
@@ -2947,6 +2948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
+|zed|0.178.5|0.179.2|app-editors|Compliance mode enabled, was '0.179.2'|
 |zeroconf|0.28.6|0.146.1|lang-python|Compliance mode enabled, was '0.146.1'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
