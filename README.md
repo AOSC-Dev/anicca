@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742973221?label=Updated)
+![Relative date](https://img.shields.io/date/1742977017?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -572,7 +572,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc+cross|13.2.0<br>+glibc2.38<br>+6|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
-|gcompris|4.3|25.0.12|app-games|Compliance mode enabled, was '25.0.12'|
 |gcr|3.41.1|4.4.0.1|desktop-gnome|Compliance mode enabled, was '4.4.0.1'|
 |gdal|3.10.1|3.10.2|runtime-gis|Compliance mode enabled, was '3.10.2'|
 |gdm|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1202,6 +1201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lapack|3.12.0|3.12.1|app-scientific|Compliance mode enabled, was '3.12.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
+|latx|1.5.3-rc1|1.6.0|app-emulation||
 |layer-shell-qt|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |lazarus|3.2|3.8|lang-pascal|Compliance mode enabled, was '3.8'|
 |lazy-object-proxy|1.7.1|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
@@ -1547,7 +1547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lowdown|1.1.2|2.0.2|app-doc|Compliance mode enabled, was '2_0_2'|
 |lpsolve|5.5.2.5|5.6.23|app-scientific|Compliance mode enabled, was '5.6.23'|
 |lrs|071a|073|app-scientific|Compliance mode enabled, was '073'|
-|lrzsz|0.12.21|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'<br>Possible downgrade from the current version (0.12.21 -> 0.12.21.orig)|
+|lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
 |lskat|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |lsof|4.99.3|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
 |lsp-plugins|1.2.20|1.2.21|app-multimedia|Compliance mode enabled, was '1.2.21'|
@@ -1579,7 +1579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-notificationd|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
 |lxqt-panel|1.4.0|2.1.4|desktop-lxqt|Compliance mode enabled, was '2.1.4'|
 |lxqt-policykit|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|lxqt-powermanagement|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxqt-qtplugin|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |lxqt-runner|1.4.0|2.1.2|desktop-lxqt|Compliance mode enabled, was '2.1.2'|
 |lxqt-session|1.4.0|2.1.1|desktop-lxqt|Compliance mode enabled, was '2.1.1'|
@@ -1650,7 +1649,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |milou|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |mimalloc|2.1.7|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
-|minicom|2.8|2.10|app-utils|Compliance mode enabled, was '2.10'|
 |minikube|1.34.0|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
