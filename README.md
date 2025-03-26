@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742965925?label=Updated)
+![Relative date](https://img.shields.io/date/1742969747?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -289,7 +289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|336|app-admin|Compliance mode enabled, was '336'|
+|cockpit|286.1|336.1|app-admin|Compliance mode enabled, was '336.1'|
 |cockpit-machines|284.1|329|app-admin|Compliance mode enabled, was '329'|
 |cockpit-podman|63|103|app-admin|Compliance mode enabled, was '103'|
 |code-server|4.93.1|4.98.2|app-utils|Compliance mode enabled, was '4.98.2'|
@@ -1949,7 +1949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.66|lang-perl|Compliance mode enabled, was '1.66'|
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
 |perl-datetime-locale|1.26|1.44|lang-perl|Compliance mode enabled, was '1.44'|
-|perl-datetime-timezone|2.62|2.64|lang-perl|Compliance mode enabled, was '2.64'|
+|perl-datetime-timezone|2.62|2.65|lang-perl|Compliance mode enabled, was '2.65'|
 |perl-dbd-mysql|4.052|5.011|lang-perl|Compliance mode enabled, was '5.011'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
 |perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
