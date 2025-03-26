@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743005752?label=Updated)
+![Relative date](https://img.shields.io/date/1743009059?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -444,7 +444,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |edencommon|2024.12.30.00|2025.03.24.00|runtime-common|Compliance mode enabled, was '2025.03.24.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
-|eglexternalplatform|1.1|1.2|runtime-display|Compliance mode enabled, was '1.2'|
+|eglexternalplatform|1.1|1.2.1|runtime-display|Compliance mode enabled, was '1.2.1'|
 |elfutils|0.191|0.192|app-utils|Compliance mode enabled, was '0.192'|
 |elfutils+32|0.191|0.192|runtime-optenv32|Compliance mode enabled, was '0.192'|
 |elinks|0.17.1.1|0.18.0|app-web|Compliance mode enabled, was '0.18.0'|
@@ -825,6 +825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|53|58|app-devel|Compliance mode enabled, was '58'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|intel-compute-runtime|25.09.32961.5|25.09.32961.7|runtime-scientific|Compliance mode enabled, was '25.09.32961.7'|
 |intel-gmmlib|22.7.0|22.7.1|runtime-devices|Compliance mode enabled, was '22.7.1'|
 |intel-media-driver|24.4.4|25.1.4|runtime-multimedia|Compliance mode enabled, was '25.1.4'|
 |intel-oneapi-basekit|2025.0.1|2025.1.0|app-devel|Compliance mode enabled, was '2025.1.0'|
@@ -2376,6 +2377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |roxterm|3.15.0|3.15.3|app-utils|Compliance mode enabled, was '3.15.3'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
+|rpi-firmware-boot|1.20250305|1.20250326|runtime-kernel||
 |rpm|4.18.0|4.20.1-release|app-admin|Compliance mode enabled, was '4.20.1-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
 |rsa|4.0|4.9|lang-python|Compliance mode enabled, was '4.9'|
@@ -2481,7 +2483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapd|2.65.1|2.68.3|app-admin|Compliance mode enabled, was '2.68.3'|
 |snapd-glib|1.65|1.67|runtime-admin|Compliance mode enabled, was '1.67'|
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compliance mode enabled, was '0.1'|
-|snappy|1.1.8|1.2.1|runtime-common|Compliance mode enabled, was '1.2.1'|
+|snappy|1.1.8|1.2.2|runtime-common|Compliance mode enabled, was '1.2.2'|
 |sniffio|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |snowball|2.1.0|2.2.0|runtime-common|Compliance mode enabled, was '2.2.0'|
 |snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
@@ -2655,7 +2657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|1.13.0|1.13.1|app-web|Compliance mode enabled, was '1.13.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.12.3|5.12.6|app-web|Compliance mode enabled, was '5.12.6'|
+|telegram-desktop|5.12.3|5.13.0|app-web|Compliance mode enabled, was '5.13.0'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
