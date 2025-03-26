@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1742944261?label=Updated)
+![Relative date](https://img.shields.io/date/1742949761?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1638,6 +1638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
+|mercurial|6.9.4|7.0|app-vcs|Compliance mode enabled, was '7.0'|
 |merkuro|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mesa|25.0.1|25.0.2|runtime-display||
 |mesa+32|25.0.1|25.0.2|runtime-optenv32||
@@ -2446,8 +2447,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|78.0.2|lang-python|Compliance mode enabled, was '78.0.2'|
-|setuptools-python3|75.8.0|78.0.2|lang-python|Compliance mode enabled, was '78.0.2'|
+|setuptools-python2|44.1.0|78.1.0|lang-python|Compliance mode enabled, was '78.1.0'|
+|setuptools-python3|75.8.0|78.1.0|lang-python|Compliance mode enabled, was '78.1.0'|
 |setuptools-rust|1.9.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |setuptools-scm|8.1.0|8.2.1|lang-python|Compliance mode enabled, was '8.2.1'|
 |sfml|2.5.1|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
