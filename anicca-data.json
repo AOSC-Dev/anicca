@@ -1990,7 +1990,6 @@
 ["pari","2.13.1","2.17.2","app-scientific",1614161813,["Compliance mode enabled, was '2.17.2'"]],
 ["vtk","9.3.0","9.4.1","app-scientific",1738981173,["Compliance mode enabled, was '9.4.1'"]],
 ["lapack","3.12.0","3.12.1","app-scientific",1712158730,["Compliance mode enabled, was '3.12.1'"]],
-["geant4","11.3.0","11.3.1","app-scientific",1734062914,["Compliance mode enabled, was '11.3.1'"]],
 ["polymake","3.3","4.13","app-scientific",1551335260,["Compliance mode enabled, was '4.13'"]],
 ["abyss","2.1.5","2.3.10","app-scientific",1550979960,["Compliance mode enabled, was '2.3.10'"]],
 ["qhull","7.2.0","8.0.2","app-scientific",1469511087,["Compliance mode enabled, was '8.0.2'"]],
