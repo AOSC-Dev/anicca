@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743001958?label=Updated)
+![Relative date](https://img.shields.io/date/1743005752?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -470,7 +470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |executing|2.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |exempi|2.5.1|2.6.5|runtime-imaging|Compliance mode enabled, was '2.6.5'|
 |exfatprogs|1.2.5|1.2.8|app-admin|Compliance mode enabled, was '1.2.8'|
-|exim|4.98|4.98.1|app-web|Compliance mode enabled, was '4.98.1'|
+|exim|4.98|4.98.2|app-web|Compliance mode enabled, was '4.98.2'|
 |exiv2|0.27.5|0.28.5|runtime-imaging|Compliance mode enabled, was '0.28.5'|
 |expandvars|0.12.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |expat+32|2.6.2|2.7.0|runtime-optenv32|Compliance mode enabled, was '2.7.0'|
@@ -1787,7 +1787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrmypdf|16.5.0|16.10.0|app-doc|Compliance mode enabled, was '16.10.0'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.2.0|9.4.0|app-scientific|Compliance mode enabled, was '9.4.0'|
-|ofono|1.30|2.15|app-network|Compliance mode enabled, was '2.15'|
+|ofono|1.30|2.16|app-network|Compliance mode enabled, was '2.16'|
 |okteta|0.26.9|0.26.20|desktop-kde|Compliance mode enabled, was '0.26.20'|
 |okular|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
