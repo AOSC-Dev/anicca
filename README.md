@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743016198?label=Updated)
+![Relative date](https://img.shields.io/date/1743019951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -360,6 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |dbus-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |ddnet|18.4|19.0|app-games|Compliance mode enabled, was '19.0'|
+|deadbeef|1.9.6|1.10.0|app-multimedia|Compliance mode enabled, was '1.10.0'|
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -2165,7 +2166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
 |proj|9.2.1|9.6.0|app-gis|Compliance mode enabled, was '9.6.0'|
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
-|protobuf|25.2|30.1|runtime-common|Compliance mode enabled, was '30.1'|
+|protobuf|25.2|30.2|runtime-common|Compliance mode enabled, was '30.2'|
 |protobuf-c|1.5.0|1.5.1|runtime-common|Compliance mode enabled, was '1.5.1'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstoedit|3.75|4.02|app-doc|Compliance mode enabled, was '4.02'|
