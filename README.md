@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743084729?label=Updated)
+![Relative date](https://img.shields.io/date/1743088341?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -369,7 +369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|1.44.1|2.2.5|lang-js|Compliance mode enabled, was '2.2.5'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
-|deskflow|1.19.0|1.20.1|app-utils|Compliance mode enabled, was '1.20.1'|
+|deskflow|1.19.0|1.21.0|app-utils|Compliance mode enabled, was '1.21.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.5|app-devel|Compliance mode enabled, was '2.25.5'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -389,7 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|3.1.1|3.1.6|app-admin|Compliance mode enabled, was '3.1.6'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.110.0|lang-dlang|Compliance mode enabled, was '2.110.0'|
-|dnscrypt|2.1.5|2.1.7|app-network|Compliance mode enabled, was '2.1.7'|
+|dnscrypt|2.1.5|2.1.8|app-network|Compliance mode enabled, was '2.1.8'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -477,6 +477,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |extra-cmake-modules|5.115.0|6.12.0|app-devel|Compliance mode enabled, was '6.12.0'|
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
+|f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.29.9.2|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
 |faad2|2.11.1|2.11.2|app-multimedia|Compliance mode enabled, was '2.11.2'|
@@ -514,7 +515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.39|app-utils|Compliance mode enabled, was '3.39'|
-|firefox|136.0.2|136.0.3|app-web|Compliance mode enabled, was '136.0.3'|
+|firefox|136.0.2|136.0.4|app-web|Compliance mode enabled, was '136.0.4'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
@@ -1533,7 +1534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4974|runtime-creativity|Compliance mode enabled, was '4974'|
+|llama.cpp|4879|4977|runtime-creativity|Compliance mode enabled, was '4977'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -2242,6 +2243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyscard|1.9.9|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.16|lang-python|Compliance mode enabled, was '5.15.16'|
+|pyside6|6.8.2.1|6.8.3|lang-python|Compliance mode enabled, was '6.8.3'|
 |pysmbc|1.0.22|1.0.25.1|lang-python|Compliance mode enabled, was '1.0.25.1'|
 |pysocks|1.6.8|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pysol-cards|0.14.2|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
