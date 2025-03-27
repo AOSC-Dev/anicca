@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743042086?label=Updated)
+![Relative date](https://img.shields.io/date/1743046044?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1472,7 +1472,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb-compat|0.1.5|0.1.8|runtime-devices|Compliance mode enabled, was '0.1.8'|
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32|Compliance mode enabled, was '0.1.8'|
 |libusbmuxd|2.0.2|2.1.0|runtime-devices|Compliance mode enabled, was '2.1.0'|
-|libutf8proc|2.9.0|2.10.0|runtime-i18n|Compliance mode enabled, was '2.10.0'|
 |libuv|1.48.0|1.50.0|runtime-common|Compliance mode enabled, was '1.50.0'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvarlink|23|24|runtime-common|Compliance mode enabled, was '24'|
@@ -1721,7 +1720,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20250113|app-web|Compliance mode enabled, was '20250113'|
 |neon|0.33.0|0.34.0|runtime-web|Compliance mode enabled, was '0.34.0'|
 |neon+32|0.33.0|0.34.0|runtime-optenv32|Compliance mode enabled, was '0.34.0'|
-|neovim|0.10.4|0.11.0|app-editors|Compliance mode enabled, was '0.11.0'|
 |nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.14.1|runtime-containers|Compliance mode enabled, was '1.14.1'|
@@ -2724,13 +2722,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.24.3|0.25.3|app-devel|Compliance mode enabled, was '0.25.3'|
-|tree-sitter-c|0.23.1|0.23.5|runtime-editors|Compliance mode enabled, was '0.23.5'|
-|tree-sitter-lua|0.2.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'|
-|tree-sitter-markdown|0.3.2|0.4.1|runtime-editors|Compliance mode enabled, was '0.4.1'|
-|tree-sitter-query|0.4.0|0.5.1|runtime-editors|Compliance mode enabled, was '0.5.1'|
-|tree-sitter-vim|0.4.0|0.5.0|runtime-editors|Compliance mode enabled, was '0.5.0'|
-|tree-sitter-vimdoc|3.0.0|3.0.1|runtime-editors|Compliance mode enabled, was '3.0.1'|
 |trinity-default-settings|2023.07.1r|2024.11.0|runtime-data|Compliance mode enabled, was '2024.11.0'|
 |trio|0.24.0|0.29.0|lang-python|Compliance mode enabled, was '0.29.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
