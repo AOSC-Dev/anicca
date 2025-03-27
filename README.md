@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743046044?label=Updated)
+![Relative date](https://img.shields.io/date/1743048917?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -974,7 +974,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
 |kdnssd|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kdoctools|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|kdpkg-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kdsme|1.2.8|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
 |kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
 |kea|2.6.1|2.7.7|app-network|Compliance mode enabled, was '2.7.7'|
@@ -2111,7 +2110,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-mobile|5.27.5|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-nano|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-nm|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
-|plasma-pa|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-pk-updates|0.3.2|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-sdk|5.27.12.1|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-settings|22.06|25.02.0|desktop-kde|Compliance mode enabled, was '25.02.0'|
