@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743036206?label=Updated)
+![Relative date](https://img.shields.io/date/1743042086?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -232,6 +232,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
 |cbindgen|0.27.0|0.28.0|lang-rust|Compliance mode enabled, was '0.28.0'|
+|cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.10.2|4.11.2|app-devel|Compliance mode enabled, was '4.11.2'|
 |ccid|1.5.1|1.6.2|runtime-devices|Compliance mode enabled, was '1.6.2'|
 |ccls|0.20240202|0.20241108|app-devel|Compliance mode enabled, was '0.20241108'|
@@ -442,7 +443,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.17.2|lang-ocaml|Compliance mode enabled, was '3.17.2'|
 |duplicity|3.0.1|3.0.4.1|app-utils|Compliance mode enabled, was '3.0.4.1'|
 |easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
-|ed|1.21|1.21.1|app-editors|Compliance mode enabled, was '1.21.1'|
 |edencommon|2024.12.30.00|2025.03.24.00|runtime-common|Compliance mode enabled, was '2025.03.24.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
@@ -2728,9 +2728,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree-sitter-c|0.23.1|0.23.5|runtime-editors|Compliance mode enabled, was '0.23.5'|
 |tree-sitter-lua|0.2.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'|
 |tree-sitter-markdown|0.3.2|0.4.1|runtime-editors|Compliance mode enabled, was '0.4.1'|
-|tree-sitter-query|0.4.0|0.1.0|runtime-editors|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.4.0 -> 0.1.0)|
-|tree-sitter-vim|0.4.0|0.3.0|runtime-editors|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.0 -> 0.3.0)|
-|tree-sitter-vimdoc|3.0.0|1.0.0|runtime-editors|Compliance mode enabled, was '1.0.0'<br>Possible downgrade from the current version (3.0.0 -> 1.0.0)|
+|tree-sitter-query|0.4.0|0.5.1|runtime-editors|Compliance mode enabled, was '0.5.1'|
+|tree-sitter-vim|0.4.0|0.5.0|runtime-editors|Compliance mode enabled, was '0.5.0'|
+|tree-sitter-vimdoc|3.0.0|3.0.1|runtime-editors|Compliance mode enabled, was '3.0.1'|
 |trinity-default-settings|2023.07.1r|2024.11.0|runtime-data|Compliance mode enabled, was '2024.11.0'|
 |trio|0.24.0|0.29.0|lang-python|Compliance mode enabled, was '0.29.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
