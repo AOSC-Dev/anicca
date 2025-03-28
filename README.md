@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743117072?label=Updated)
+![Relative date](https://img.shields.io/date/1743122558?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1914,7 +1914,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.2|app-devices|Compliance mode enabled, was '2.3.2'|
-|pcsx2|1.6.0<br>+git20210825|2.3.242|app-games|Compliance mode enabled, was '2.3.242'|
+|pcsx2|1.6.0<br>+git20210825|2.3.245|app-games|Compliance mode enabled, was '2.3.245'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250327|app-doc|Compliance mode enabled, was '20250327'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2282,7 +2282,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2025.1.1|lang-python|Compliance mode enabled, was '2025.1.1'|
+|pytools|2019.1|2025.1.2|lang-python|Compliance mode enabled, was '2025.1.2'|
 |pytz|2024.2|2025.2|lang-python|Compliance mode enabled, was '2025.2'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
@@ -2357,7 +2357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reportlab|3.5.50|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
-|restic|0.17.1|0.17.3|app-utils|Compliance mode enabled, was '0.17.3'|
+|restic|0.17.1|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
 |retext|7.2.2|8.1.0|app-editors|Compliance mode enabled, was '8.1.0'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rhash|1.4.4|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
