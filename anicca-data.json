@@ -2521,6 +2521,7 @@
 ["ristretto","0.13.3","0.13.4","desktop-xfce",1742452156,["Compliance mode enabled, was '0.13.4'"]],
 ["libxfce4util","4.20.0","4.20.1","desktop-xfce",1734759343,["Compliance mode enabled, was '4.20.1'"]],
 ["xfce4-panel","4.20.3","4.21.0","desktop-xfce",1742452156,["Compliance mode enabled, was '4.21.0'"]],
+["orage","4.20.0","4.20.1","desktop-xfce",1742452156,["Compliance mode enabled, was '4.20.1'"]],
 ["xfce4-session","4.20.0","4.20.2","desktop-xfce",1734759343,["Compliance mode enabled, was '4.20.2'"]],
 ["catfish","4.18.0","4.20.0","desktop-xfce",1706025816,["Compliance mode enabled, was '4.20.0'"]],
 ["mousepad","0.6.3","0.6.4","desktop-xfce",1734759343,["Compliance mode enabled, was '0.6.4'"]],
