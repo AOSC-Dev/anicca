@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743168098?label=Updated)
+![Relative date](https://img.shields.io/date/1743171094?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1193,7 +1193,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kwayland-integration|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |kweather|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|kweathercore|0.7|25.03.80|desktop-kde|Compliance mode enabled, was '25.03.80'|
+|kweathercore|0.7|25.03.90|desktop-kde|Compliance mode enabled, was '25.03.90'|
 |kwidgetsaddons|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kwin|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |kwindowsystem|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
@@ -2104,7 +2104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
-|plasma-angelfish|22.06|25.03.80|desktop-kde|Compliance mode enabled, was '25.03.80'|
+|plasma-angelfish|22.06|25.03.90|desktop-kde|Compliance mode enabled, was '25.03.90'|
 |plasma-browser-integration|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-desktop|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |plasma-disks|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
@@ -2509,7 +2509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundkonverter-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |soupsieve|1.8.0|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |sozu|0.15.2|1.0.6|app-web|Compliance mode enabled, was '1.0.6'|
-|spacebar|23.01.0|25.03.80|desktop-kde|Compliance mode enabled, was '25.03.80'|
+|spacebar|23.01.0|25.03.90|desktop-kde|Compliance mode enabled, was '25.03.90'|
 |spake2|0.8|0.9|lang-python|Compliance mode enabled, was '0.9'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
