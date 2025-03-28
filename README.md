@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743160240?label=Updated)
+![Relative date](https://img.shields.io/date/1743164268?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -291,7 +291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|336.1|app-admin|Compliance mode enabled, was '336.1'|
+|cockpit|286.1|336.2|app-admin|Compliance mode enabled, was '336.2'|
 |cockpit-machines|284.1|329|app-admin|Compliance mode enabled, was '329'|
 |cockpit-podman|63|103|app-admin|Compliance mode enabled, was '103'|
 |code-server|4.93.1|4.98.2|app-utils|Compliance mode enabled, was '4.98.2'|
@@ -1766,7 +1766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
 |nss+32|3.107|3.109|runtime-optenv32|Compliance mode enabled, was '3.109'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
-|nuclei|3.3.10|3.4.0|app-utils|Compliance mode enabled, was '3.4.0'|
+|nuclei|3.3.10|3.4.1|app-utils|Compliance mode enabled, was '3.4.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
