@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743149757?label=Updated)
+![Relative date](https://img.shields.io/date/1743153160?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -328,7 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
 |criu|3.19|4.1|app-admin|Compliance mode enabled, was '4.1'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
-|crun|1.16.1|1.20|app-admin|Compliance mode enabled, was '1.20'|
+|crun|1.16.1|1.21|app-admin|Compliance mode enabled, was '1.21'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|44.0.2|lang-python|Compliance mode enabled, was '44.0.2'|
@@ -368,7 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |delve|1.23.0|1.24.1|lang-golang|Compliance mode enabled, was '1.24.1'|
-|deno|1.44.1|2.2.5|lang-js|Compliance mode enabled, was '2.2.5'|
+|deno|1.44.1|2.2.6|lang-js|Compliance mode enabled, was '2.2.6'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.19.0|1.21.0|app-utils|Compliance mode enabled, was '1.21.0'|
@@ -2661,7 +2661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tdmtheme|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |tealdeer|1.6.1|1.7.2|app-doc|Compliance mode enabled, was '1.7.2'|
-|teams-for-linux|1.13.0|1.13.1|app-web|Compliance mode enabled, was '1.13.1'|
+|teams-for-linux|1.13.0|1.13.2|app-web|Compliance mode enabled, was '1.13.2'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
@@ -2727,7 +2727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2024.11.0|runtime-data|Compliance mode enabled, was '2024.11.0'|
 |trio|0.24.0|0.29.0|lang-python|Compliance mode enabled, was '0.29.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.60.0|app-devel|Compliance mode enabled, was '0.60.0'|
+|trivy|0.55.0|0.61.0|app-devel|Compliance mode enabled, was '0.61.0'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.3.19.19|lang-python|Compliance mode enabled, was '2025.3.19.19'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
