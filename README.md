@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743132607?label=Updated)
+![Relative date](https://img.shields.io/date/1743135219?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -72,7 +72,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.1.0|lang-python|Compliance mode enabled, was '3.49.1.0'|
-|apt|2.6.1|2.9.34|app-admin|Compliance mode enabled, was '2.9.34'|
+|apt|2.6.1|2.9.35|app-admin|Compliance mode enabled, was '2.9.35'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
@@ -373,7 +373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.19.0|1.21.0|app-utils|Compliance mode enabled, was '1.21.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.24.5|2.25.5|app-devel|Compliance mode enabled, was '2.25.5'|
+|devscripts|2.24.5|2.25.6|app-devel|Compliance mode enabled, was '2.25.6'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.2.2|app-network|Compliance mode enabled, was '10.2.2'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -2188,7 +2188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.1.7|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |pyasn1|0.4.8|0.6.1|lang-python|Compliance mode enabled, was '0.6.1'|
-|pyasn1-modules|0.2.8|0.4.1|lang-python|Compliance mode enabled, was '0.4.1'|
+|pyasn1-modules|0.2.8|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |pyatspi|2.38.2|2.46.1|lang-python|Compliance mode enabled, was '2.46.1'|
 |pyaudio|0.2.11|0.2.14|lang-python|Compliance mode enabled, was '0.2.14'|
 |pybind11|2.11.1|2.13.6|lang-python|Compliance mode enabled, was '2.13.6'|
