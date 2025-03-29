@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743250610?label=Updated)
+![Relative date](https://img.shields.io/date/1743254280?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -500,7 +500,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.31.5712.102|app-i18n|Compliance mode enabled, was '2.31.5712.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
 |fcron|3.3.1|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.3.1 -> 3.3.0)|
-|feedbackd|0.2.1|0.8.0|desktop-gnome|Compliance mode enabled, was '0.8.0'|
+|feedbackd|0.2.1|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |feedparser|6.0.8|6.0.11|lang-python|Compliance mode enabled, was '6.0.11'|
 |feeluown-netease|1.0.3|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
 |fend|1.5.5|1.5.6|app-utils|Compliance mode enabled, was '1.5.6'|
@@ -1541,7 +1541,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4988|runtime-creativity|Compliance mode enabled, was '4988'|
+|llama.cpp|4879|4990|runtime-creativity|Compliance mode enabled, was '4990'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -2520,7 +2520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdlog|1.14.1|1.15.2|runtime-common|Compliance mode enabled, was '1.15.2'|
 |spdx-licenses|3.25.0|3.26.0|runtime-data|Compliance mode enabled, was '3.26.0'|
-|speakersafetyd|1.0.2|1.1.1|app-multimedia|Compliance mode enabled, was '1.1.1'|
+|speakersafetyd|1.0.2|1.1.2|app-multimedia|Compliance mode enabled, was '1.1.2'|
 |spectacle|22.12.3|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |speech-dispatcher|0.11.2|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
 |speedometer|2.8|2.9|app-network|Compliance mode enabled, was '2.9'|
