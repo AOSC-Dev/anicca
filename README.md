@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743209041?label=Updated)
+![Relative date](https://img.shields.io/date/1743214759?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1042,7 +1042,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kiten|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kitinerary|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|kitty|0.38.1|0.40.1|app-utils|Compliance mode enabled, was '0.40.1'|
+|kitty|0.38.1|0.41.0|app-utils|Compliance mode enabled, was '0.41.0'|
 |kiwisolver|1.0.1|1.4.8|lang-python|Compliance mode enabled, was '1.4.8'|
 |kjobwidgets|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kjournald|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1539,7 +1539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4987|runtime-creativity|Compliance mode enabled, was '4987'|
+|llama.cpp|4879|4988|runtime-creativity|Compliance mode enabled, was '4988'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -1829,7 +1829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.14-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.14-ga -> 17.0.2)|
-|openjdk-8|8u442-ga|8u452-b06|lang-java||
+|openjdk-8|8u442-ga|8u462-b00|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
@@ -2919,7 +2919,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.44|runtime-display|Compliance mode enabled, was '2.44'|
 |xl2tpd|1.3.15|1.3.18|app-network|Compliance mode enabled, was '1.3.18'|
-|xmlrpc-c|1.54.06|1.60.04|runtime-common|Compliance mode enabled, was '1.60.04'|
+|xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |xmlto|0.0.28|0.0.29|app-doc|Compliance mode enabled, was '0.0.29'|
 |xournalpp|1.2.5|1.2.6|runtime-productivity|Compliance mode enabled, was '1.2.6'|
