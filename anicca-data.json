@@ -2650,7 +2650,7 @@
 ["libcuckoo","0.3","0.3.1","runtime-common",1650696758,["Compliance mode enabled, was '0.3.1'"]],
 ["capnproto","0.10.2","1.1.0","runtime-common",1660503158,["Compliance mode enabled, was '1.1.0'"]],
 ["libvarlink","23","24","runtime-common",1678351353,["Compliance mode enabled, was '24'"]],
-["spdlog","1.14.1","1.15.1","runtime-common",1715758898,["Compliance mode enabled, was '1.15.1'"]],
+["spdlog","1.14.1","1.15.2","runtime-common",1715758898,["Compliance mode enabled, was '1.15.2'"]],
 ["libtirpc","1.3.1","1.3.6","runtime-common",1608367947,["Compliance mode enabled, was '1.3.6'"]],
 ["protobuf-c","1.5.0","1.5.1","runtime-common",1737436557,["Compliance mode enabled, was '1.5.1'"]],
 ["libcork","1.0.0~rc3","0.15.0","runtime-common",1673495966,["Compliance mode enabled, was '0.15.0'","Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)"]],
