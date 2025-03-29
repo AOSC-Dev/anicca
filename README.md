@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743221714?label=Updated)
+![Relative date](https://img.shields.io/date/1743225076?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1222,6 +1222,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |less|661|668|app-utils|Compliance mode enabled, was '668'|
 |level-zero|1.21.2|1.21.7|runtime-common|Compliance mode enabled, was '1.21.7'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
+|lfortran|0.49.0|0.50.0|app-devel|Compliance mode enabled, was '0.50.0'|
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
@@ -1794,7 +1795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocamlbuild|0.14.1|0.16.1|lang-ocaml|Compliance mode enabled, was '0.16.1'|
 |ocrmypdf|16.5.0|16.10.0|app-doc|Compliance mode enabled, was '16.10.0'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
-|octave|9.2.0|9.4.0|app-scientific|Compliance mode enabled, was '9.4.0'|
+|octave|9.2.0|10.1.0|app-scientific|Compliance mode enabled, was '10.1.0'|
 |ofono|1.30|2.16|app-network|Compliance mode enabled, was '2.16'|
 |okteta|0.26.9|0.26.20|desktop-kde|Compliance mode enabled, was '0.26.20'|
 |okular|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2343,7 +2344,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rclone|1.68.0|1.69.1|app-web|Compliance mode enabled, was '1.69.1'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdfind|1.6.0|1.7.0|app-utils|Compliance mode enabled, was '1.7.0'|
-|rdflib|6.2.0|7.1.3|lang-python|Compliance mode enabled, was '7.1.3'|
+|rdflib|6.2.0|7.1.4|lang-python|Compliance mode enabled, was '7.1.4'|
 |rdma-core|51.0|56.0|app-admin|Compliance mode enabled, was '56.0'|
 |re2|2024-06-01|2024-07-02|runtime-common||
 |re2c|3.1|4.1|runtime-common|Compliance mode enabled, was '4.1'|
