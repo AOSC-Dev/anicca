@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743286220?label=Updated)
+![Relative date](https://img.shields.io/date/1743289817?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1366,7 +1366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmicrohttpd|0.9.71|1.0.1|runtime-web|Compliance mode enabled, was '1.0.1'|
 |libmikmod|3.3.11.1|3.3.12|runtime-multimedia|Compliance mode enabled, was '3.3.12'|
 |libmikmod+32|3.3.11.1|3.3.12|runtime-optenv32|Compliance mode enabled, was '3.3.12'|
-|libmirage|3.2.7|3.2.9|runtime-multimedia|Compliance mode enabled, was '3.2.9'|
+|libmirage|3.2.7|3.2.10|runtime-multimedia|Compliance mode enabled, was '3.2.10'|
 |libmodplug|0.8.8.5|0.8.9.0|runtime-multimedia|Compliance mode enabled, was '0.8.9.0'|
 |libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32|Compliance mode enabled, was '0.8.9.0'|
 |libmpcdec|0.1~r495|0.1r495|runtime-multimedia|Compliance mode enabled, was '0.1~r495'|
@@ -2314,7 +2314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.4|app-multimedia|Compliance mode enabled, was '2.2.4'|
-|qownnotes|22.6.1|25.3.4|app-web|Compliance mode enabled, was '25.3.4'|
+|qownnotes|22.6.1|25.3.5|app-web|Compliance mode enabled, was '25.3.5'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
