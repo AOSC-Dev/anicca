@@ -1494,7 +1494,7 @@
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.37.4","app-editors",1723441135,["Compliance mode enabled, was '1.37.4'"]],
 ["zed","0.178.5","0.179.4","app-editors",1742482252,["Compliance mode enabled, was '0.179.4'"]],
-["vim","9.1.1198","9.1.1255","app-editors",1741836276,["Compliance mode enabled, was '9.1.1255'"]],
+["vim","9.1.1198","9.1.1258","app-editors",1741836276,["Compliance mode enabled, was '9.1.1258'"]],
 ["linux+api","6.12.15","6.12.21","core-devel",1740307704,["Compliance mode enabled, was '6.12.21'"]],
 ["freecell-solver","6.2.0","6.12.0","app-games",1631079130,["Compliance mode enabled, was '6.12.0'"]],
 ["unnamed-sdvx-clone","0.5.0","0.6.0","app-games",1631079133,["Compliance mode enabled, was '0.6.0'"]],
