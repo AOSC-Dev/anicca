@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743289817?label=Updated)
+![Relative date](https://img.shields.io/date/1743295773?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -558,6 +558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.9.0|3.14.1|app-network|Compliance mode enabled, was '3.14.1'|
 |freetds|1.00.112|1.4.26|runtime-database|Compliance mode enabled, was '1.4.26'|
+|frescobaldi|3.3.0|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
 |fscan|2.0.0|2.0.0-build4|app-utils|Compliance mode enabled, was '2.0.0-build4'<br>Possible downgrade from the current version (2.0.0 -> 2.0.0-build4)|
@@ -1785,7 +1786,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvme-cli|2.11|2.12|app-admin|Compliance mode enabled, was '2.12'|
 |nvtop|3.1.0<br>+git20250220|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
-|obs-studio|31.0.2|31.0.3|app-multimedia|Compliance mode enabled, was '31.0.3'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
 |ocaml-cmdliner|1.2.0|1.3.0|lang-ocaml|Compliance mode enabled, was '1.3.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
@@ -2800,7 +2800,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.29.0|5.29.3|app-network|Compliance mode enabled, was '5.29.3'|
-|v2ray-rules-dat|202501302211|202503282213|runtime-data|Compliance mode enabled, was '202503282213'<br>Versions not comparable: `202501302211` and `202503282213`|
+|v2ray-rules-dat|202501302211|202503292212|runtime-data|Compliance mode enabled, was '202503292212'<br>Versions not comparable: `202501302211` and `202503292212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
