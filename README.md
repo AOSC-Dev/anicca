@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743329473?label=Updated)
+![Relative date](https://img.shields.io/date/1743332779?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -817,8 +817,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ignition|2.20.0|2.21.0|app-admin|Compliance mode enabled, was '2.21.0'|
 |igraph|0.7.1|0.10.15|runtime-scientific|Compliance mode enabled, was '0.10.15'|
 |iio-sensor-proxy|3.5|3.7|app-utils|Compliance mode enabled, was '3.7'|
-|imagemagick|6.9.13<br>+16|6.9.13+24|app-utils|Compliance mode enabled, was '6.9.13-24'|
-|imagemagick+7|7.1.1<br>+32|7.1.1+46|app-utils|Compliance mode enabled, was '7.1.1-46'|
+|imagemagick|6.9.13<br>+16|6.9.13+25|app-utils|Compliance mode enabled, was '6.9.13-25'|
+|imagemagick+7|7.1.1<br>+32|7.1.1+47|app-utils|Compliance mode enabled, was '7.1.1-47'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
