@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743301681?label=Updated)
+![Relative date](https://img.shields.io/date/1743305640?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -197,6 +197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bulky|3.4|3.6|desktop-cinnamon|Compliance mode enabled, was '3.6'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
 |bup|0.30|0.33.7|app-utils|Compliance mode enabled, was '0.33.7'|
+|byobu|6.12|6.13|app-utils|Compliance mode enabled, was '6.13'|
 |bzip3|1.4.0|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
@@ -336,7 +337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250323.0|app-devel|Compliance mode enabled, was '6.1.20250323.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250323.0)|
+|ctags|20191203|6.1.20250330.0|app-devel|Compliance mode enabled, was '6.1.20250330.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250330.0)|
 |cuda|12.6.3|12.8.1|app-devel||
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -830,7 +831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |incus|6.10.1|6.11.0|app-containers|Compliance mode enabled, was '6.11.0'|
 |inetutils|2.5|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |iniconfig|2.0.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|inih|53|58|app-devel|Compliance mode enabled, was '58'|
+|inih|53|59|app-devel|Compliance mode enabled, was '59'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-compute-runtime|25.09.32961.5|25.09.32961.7|runtime-scientific|Compliance mode enabled, was '25.09.32961.7'|
