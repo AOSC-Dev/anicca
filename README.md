@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743295773?label=Updated)
+![Relative date](https://img.shields.io/date/1743301681?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1544,7 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|4991|runtime-creativity|Compliance mode enabled, was '4991'|
+|llama.cpp|4879|4992|runtime-creativity|Compliance mode enabled, was '4992'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -1672,7 +1672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|87.0|91.0|app-multimedia|Compliance mode enabled, was '91.0'|
 |mlt|7.26.0|7.30.0|runtime-multimedia|Compliance mode enabled, was '7.30.0'|
-|mlterm|3.8.9|3.9.3|app-utils|Compliance mode enabled, was '3.9.3'|
+|mlterm|3.8.9|3.9.4|app-utils|Compliance mode enabled, was '3.9.4'|
 |mock|2.0.0|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |mocp|2.6.0~svn.r3005|2.5.2|app-multimedia|Compliance mode enabled, was '2.5.2'<br>Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)|
 |modemmanager|1.18.12|1.22.0|app-network|Compliance mode enabled, was '1.22.0'|
@@ -1717,8 +1717,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.16|2.8|app-utils|Compliance mode enabled, was '2.8'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250322|runtime-common|Compliance mode enabled, was '6.5-20250322'|
-|ncurses+32|6.4|6.5+20250322|runtime-optenv32|Compliance mode enabled, was '6.5-20250322'|
+|ncurses|6.4|6.5+20250329|runtime-common|Compliance mode enabled, was '6.5-20250329'|
+|ncurses+32|6.4|6.5+20250329|runtime-optenv32|Compliance mode enabled, was '6.5-20250329'|
 |ndctl|80|81|app-admin|Compliance mode enabled, was '81'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
