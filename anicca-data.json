@@ -599,7 +599,7 @@
 ["certbot-apache","2.10.0","3.3.0","app-web",1716728517,["Compliance mode enabled, was '3.3.0'"]],
 ["sozu","0.15.2","1.0.6","app-web",1696572712,["Compliance mode enabled, was '1.0.6'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
-["teams-for-linux","1.13.0","1.14.1","app-web",1742195024,["Compliance mode enabled, was '1.14.1'"]],
+["teams-for-linux","1.13.0","1.14.2","app-web",1742195024,["Compliance mode enabled, was '1.14.2'"]],
 ["dovecot","2.3.21","2.4.0","app-web",1723046029,["Compliance mode enabled, was '2.4.0'"]],
 ["postfix","3.7.3","3.10.1","app-web",1721223235,["Compliance mode enabled, was '3.10.1'"]],
 ["certbot-nginx","2.10.0","3.3.0","app-web",1716728325,["Compliance mode enabled, was '3.3.0'"]],
