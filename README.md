@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743369104?label=Updated)
+![Relative date](https://img.shields.io/date/1743372719?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -715,7 +715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grpc|1.64.0|1.71.0|app-network|Compliance mode enabled, was '1.71.0'|
 |grub-btrfs|4.13|4.10.2|app-utils|Compliance mode enabled, was '4.10.2'<br>Possible downgrade from the current version (4.13 -> 4.10.2)|
-|gsasl|1.10.0|2.2.1|runtime-admin|Compliance mode enabled, was '2.2.1'|
+|gsasl|1.10.0|2.2.2|runtime-admin|Compliance mode enabled, was '2.2.2'|
 |gsettings-desktop-schemas|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
 |gsm|1.0.19|1.0.22|runtime-multimedia|Compliance mode enabled, was '1.0.22'|
@@ -2343,6 +2343,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |radare2|5.9.4|5.9.8|app-devel|Compliance mode enabled, was '5.9.8'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
+|ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
 |rapidfuzz-cpp|2.0.0|3.3.2|runtime-common|Compliance mode enabled, was '3.3.2'|
 |rarian|0.8.1|0.8.6|app-doc|Compliance mode enabled, was '0.8.6'|
