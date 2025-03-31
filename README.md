@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743441037?label=Updated)
+![Relative date](https://img.shields.io/date/1743444945?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1093,7 +1093,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotes|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |knotifications|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |knotifyconfig|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|knowit-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knutclient-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kodi-pvr-iptvsimple|19.2.2|22.4.2-piers|app-multimedia|Compliance mode enabled, was '22.4.2-Piers'|
 |koffice-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -2144,7 +2143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pocketsphinx|5~prealpha|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5~prealpha -> 0.8)|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
-|poedit|3.4.1|3.5.2-oss|app-i18n|Compliance mode enabled, was '3.5.2-oss'|
+|poedit|3.4.1|3.6-oss|app-i18n|Compliance mode enabled, was '3.6-oss'|
 |poetry|1.8.3|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |poetry-core|1.9.0|2.1.2|lang-python|Compliance mode enabled, was '2.1.2'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -2833,7 +2832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
 |virtualbox|7.1.6a|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
-|virtualenv|20.27.1|20.29.3|lang-python|Compliance mode enabled, was '20.29.3'|
+|virtualenv|20.27.1|20.30.0|lang-python|Compliance mode enabled, was '20.30.0'|
 |vkd3d+32|1.9|1.15|runtime-optenv32|Compliance mode enabled, was '1.15'|
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
@@ -2858,8 +2857,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |vulkan-validationlayers|1.3.283.0|1.4.311|runtime-display|Compliance mode enabled, was '1.4.311'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
+|wangle|2025.03.24.00|2025.03.31.00|runtime-network|Compliance mode enabled, was '2025.03.31.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
+|watchman|2025.03.24.00|2025.03.31.00|app-utils|Compliance mode enabled, was '2025.03.31.00'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
