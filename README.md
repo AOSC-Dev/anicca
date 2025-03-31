@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743434028?label=Updated)
+![Relative date](https://img.shields.io/date/1743437702?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -496,7 +496,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python|Compliance mode enabled, was '3.2'|
-|fbthrift|2025.03.10.00|2025.03.24.00|app-network|Compliance mode enabled, was '2025.03.24.00'|
+|fb303|2025.03.24.00|2025.03.31.00|runtime-network|Compliance mode enabled, was '2025.03.31.00'|
+|fbthrift|2025.03.10.00|2025.03.31.00|app-network|Compliance mode enabled, was '2025.03.31.00'|
 |fcgi|2.4.2|2.4.4|runtime-web|Compliance mode enabled, was '2.4.4'|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.31.5712.102|app-i18n|Compliance mode enabled, was '2.31.5712.102'|
 |fcitx5-pinyin-zhwiki|0.2.3|0.2.5|app-i18n||
@@ -788,7 +789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.130.5|lang-python|Compliance mode enabled, was '6.130.5'|
+|hypothesis-python|6.97.4|6.130.6|lang-python|Compliance mode enabled, was '6.130.6'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -860,7 +861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
-|jellyfish|1.1.1|1.1.3|lang-python|Compliance mode enabled, was '1.1.3'|
+|jellyfish|1.1.1|1.1.4|lang-python|Compliance mode enabled, was '1.1.4'|
 |jenkins|2.468|2.503|app-admin|Compliance mode enabled, was '2.503'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.6|lang-python|Compliance mode enabled, was '3.1.6'|
@@ -2006,7 +2007,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.00|lang-perl|Compliance mode enabled, was '7.00'|
-|perl-image-exiftool|12.50|13.25|lang-perl|Compliance mode enabled, was '13.25'|
+|perl-image-exiftool|12.50|13.26|lang-perl|Compliance mode enabled, was '13.26'|
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
@@ -2376,7 +2377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlwrap|0.43|0.46.1|runtime-common|Compliance mode enabled, was '0.46.1'|
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
-|rockbox-utility|3.15<br>+final|3.15-final|app-utils|Compliance mode enabled, was '3.15-final'|
+|rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
 |rocm-bandwidth-test|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
 |rocm-cmake|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
 |rocm-llvm|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
@@ -2502,6 +2503,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowballstemmer|1.2.1|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |socat|1.8.0.0|1.8.0.3|app-network|Compliance mode enabled, was '1.8.0.3'|
 |soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
+|sof-firmware|2025.01|2025.01.1|runtime-kernel|Compliance mode enabled, was '2025.01.1'|
+|sof-tools|2.12|2.12.1|app-multimedia|Compliance mode enabled, was '2.12.1'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |sonic-visualiser|4.4|5.2.1|app-multimedia|Compliance mode enabled, was '5.2.1'|
@@ -2561,6 +2564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
 |srtp|2.6.0|2.7.0|runtime-multimedia|Compliance mode enabled, was '2.7.0'|
 |ss-tproxy|4.6.1|4.8.3|app-network|Compliance mode enabled, was '4.8.3'|
+|sscg|3.0.5|3.0.6|app-cryptography|Compliance mode enabled, was '3.0.6'|
 |sshfs|3.6.0|3.7.3|app-network|Compliance mode enabled, was '3.7.3'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|1.19c|2.1.4|app-network|Compliance mode enabled, was '2.1.4'|
@@ -2929,6 +2933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xournalpp|1.2.5|1.2.6|runtime-productivity|Compliance mode enabled, was '1.2.6'|
 |xpra|6.1.2|6.2.5|app-network|Compliance mode enabled, was '6.2.5'|
+|xray|25.3.6|25.3.31|app-network|Compliance mode enabled, was '25.3.31'|
 |xrdp|0.10.2|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xreader|4.2.2|4.2.3|app-doc|Compliance mode enabled, was '4.2.3'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
