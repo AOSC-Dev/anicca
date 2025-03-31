@@ -993,6 +993,7 @@
 ["pivy","0.6.8","0.6.10","lang-python",1697385082,["Compliance mode enabled, was '0.6.10'"]],
 ["python-augeas","1.0.3","1.2.0","lang-python",1505710017,["Compliance mode enabled, was '1.2.0'"]],
 ["urlgrabber","3.10.2","4.1.0","lang-python",1530283385,["Compliance mode enabled, was '4.1.0'"]],
+["termcolor","2.5.0","3.0.0","lang-python",1740215462,["Compliance mode enabled, was '3.0.0'"]],
 ["networkx","2.8.5","3.4.2","lang-python",1663210209,["Compliance mode enabled, was '3.4.2'"]],
 ["ptyprocess","0.6.0","0.7.0","lang-python",1530553512,["Compliance mode enabled, was '0.7.0'"]],
 ["pyyaml","6.0.1","6.0.2","lang-python",1718935933,["Compliance mode enabled, was '6.0.2'"]],

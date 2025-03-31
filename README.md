@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743427413?label=Updated)
+![Relative date](https://img.shields.io/date/1743430311?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2679,6 +2679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telly-skout|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |template-glib|3.28.0|3.36.3|desktop-gnome|Compliance mode enabled, was '3.36.3'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
+|termcolor|2.5.0|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |tevent|0.16.1|0.16.2|runtime-common|Compliance mode enabled, was '0.16.2'|
 |texlive|20250308|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20250308 -> 2025)|
