@@ -604,6 +604,7 @@
 ["teams-for-linux","1.13.0","1.14.2","app-web",1742195024,["Compliance mode enabled, was '1.14.2'"]],
 ["dovecot","2.3.21","2.4.0","app-web",1723046029,["Compliance mode enabled, was '2.4.0'"]],
 ["postfix","3.7.3","3.10.1","app-web",1721223235,["Compliance mode enabled, was '3.10.1'"]],
+["discord","0.0.89","0.0.90","app-web",1742860646,["Compliance mode enabled, was '0.0.90'"]],
 ["certbot-nginx","2.10.0","3.3.0","app-web",1716728325,["Compliance mode enabled, was '3.3.0'"]],
 ["kvirc","5.0.0","5.2.6","app-web",1554223928,["Compliance mode enabled, was '5.2.6'"]],
 ["exim","4.98","4.98.2","app-web",1721395453,["Compliance mode enabled, was '4.98.2'"]],
