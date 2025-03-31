@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743409088?label=Updated)
+![Relative date](https://img.shields.io/date/1743412395?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2317,7 +2317,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
-|qpwgraph|0.8.2|0.8.3|app-multimedia|Compliance mode enabled, was '0.8.3'|
 |qqc2-desktop-style|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
@@ -2784,7 +2783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrar|6.2.2|7.1.6|app-utils|Compliance mode enabled, was '7.1.6'|
 |unrpyc|1.1.6|2.0.2|app-games|Compliance mode enabled, was '2.0.2'|
 |unshield|1.4.3|1.6.0|app-utils|Compliance mode enabled, was '1.6.0'|
-|upower|1.90.6|1.90.7|app-admin|Compliance mode enabled, was '1.90.7'|
+|upower|1.90.6|1.90.8|app-admin|Compliance mode enabled, was '1.90.8'|
 |upx|4.2.4|5.0.0|app-devel|Compliance mode enabled, was '5.0.0'|
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
