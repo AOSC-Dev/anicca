@@ -2979,7 +2979,7 @@
 ["cloud-init","24.4.1","25.1.1","app-admin",1739035453,["Compliance mode enabled, was '25.1.1'"]],
 ["systemd","257.2","256","app-admin",1736556781,["Compliance mode enabled, was '256'","Possible downgrade from the current version (257.2 -> 256)"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
-["nut","2.7.4","2.8.2.2624","app-admin",1625211684,["Compliance mode enabled, was '2.8.2.2624'"]],
+["nut","2.7.4","2.8.2.2628","app-admin",1625211684,["Compliance mode enabled, was '2.8.2.2628'"]],
 ["exfatprogs","1.2.5","1.2.8","app-admin",1723631352,["Compliance mode enabled, was '1.2.8'"]],
 ["cockpit","286.1","336.2","app-admin",1678351353,["Compliance mode enabled, was '336.2'"]],
 ["rpm","4.18.0","4.20.1-release","app-admin",1669533924,["Compliance mode enabled, was '4.20.1-release'"]],
