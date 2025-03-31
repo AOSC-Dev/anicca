@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743376242?label=Updated)
+![Relative date](https://img.shields.io/date/1743381967?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -393,6 +393,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|3.1.1|3.1.6|app-admin|Compliance mode enabled, was '3.1.6'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.110.0|lang-dlang|Compliance mode enabled, was '2.110.0'|
+|dnscontrol|4.17.0|4.18.0|app-network|Compliance mode enabled, was '4.18.0'|
 |dnscrypt|2.1.5|2.1.8|app-network|Compliance mode enabled, was '2.1.8'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -1235,7 +1236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
 |libadwaita|1.6.4|1.7.0|desktop-gnome|Compliance mode enabled, was '1.7.0'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
-|libarchive|3.7.7|3.7.8|runtime-common|Compliance mode enabled, was '3.7.8'|
+|libarchive|3.7.7|3.7.9|runtime-common|Compliance mode enabled, was '3.7.9'|
 |libart-lgpl|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |libasr|1.0.4|7.6.0p1|runtime-network|Compliance mode enabled, was '7.6.0p1'|
 |libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
@@ -1549,7 +1550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.6.3|1.7.11|app-admin|Compliance mode enabled, was '1.7.11'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5001|runtime-creativity|Compliance mode enabled, was '5001'|
+|llama.cpp|4879|5002|runtime-creativity|Compliance mode enabled, was '5002'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.1|runtime-optenv32|Compliance mode enabled, was '20.1.1'|
@@ -2220,7 +2221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
-|pyflakes|3.2.0|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
+|pyflakes|3.2.0|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygccxml|2.1.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |pygit2|1.14.1|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
@@ -2806,8 +2807,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
+|uv|0.6.10|0.6.11|lang-python|Compliance mode enabled, was '0.6.11'|
 |v2ray|5.29.0|5.29.3|app-network|Compliance mode enabled, was '5.29.3'|
-|v2ray-rules-dat|202501302211|202503292212|runtime-data|Compliance mode enabled, was '202503292212'<br>Versions not comparable: `202501302211` and `202503292212`|
+|v2ray-rules-dat|202501302211|202503302212|runtime-data|Compliance mode enabled, was '202503302212'<br>Versions not comparable: `202501302211` and `202503302212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
