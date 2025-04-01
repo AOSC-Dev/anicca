@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743498798?label=Updated)
+![Relative date](https://img.shields.io/date/1743502496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -554,6 +554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freecell-solver|6.2.0|6.12.0|app-games|Compliance mode enabled, was '6.12.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
+|freerdp|3.9.0|3.14.1|app-network|Compliance mode enabled, was '3.14.1'|
 |freetds|1.00.112|1.4.26|runtime-database|Compliance mode enabled, was '1.4.26'|
 |frescobaldi|3.3.0|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -1859,6 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
+|osu-lazer|2025.321.0|2025.401.0|app-games|Compliance mode enabled, was '2025.401.0'|
 |owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |oxygen-icons|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
@@ -1946,7 +1948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-date-manip|6.82|6.97|lang-perl|Compliance mode enabled, was '6.97'|
 |perl-datetime|1.52|1.66|lang-perl|Compliance mode enabled, was '1.66'|
 |perl-datetime-format-strptime|1.77|1.79|lang-perl|Compliance mode enabled, was '1.79'|
-|perl-datetime-locale|1.26|1.44|lang-perl|Compliance mode enabled, was '1.44'|
+|perl-datetime-locale|1.26|1.45|lang-perl|Compliance mode enabled, was '1.45'|
 |perl-datetime-timezone|2.62|2.65|lang-perl|Compliance mode enabled, was '2.65'|
 |perl-dbd-mysql|4.052|5.011|lang-perl|Compliance mode enabled, was '5.011'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
