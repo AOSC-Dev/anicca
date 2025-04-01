@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743542037?label=Updated)
+![Relative date](https://img.shields.io/date/1743545505?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -176,8 +176,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.37.24|lang-python|Compliance mode enabled, was '1.37.24'|
-|botocore|1.34.133|1.37.24|lang-python|Compliance mode enabled, was '1.37.24'|
+|boto3|1.20.26|1.37.25|lang-python|Compliance mode enabled, was '1.37.25'|
+|botocore|1.34.133|1.37.25|lang-python|Compliance mode enabled, was '1.37.25'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2973,7 +2973,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstd-static|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |zutils|1.7|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |zvbi|0.2.35|0.2.44|runtime-multimedia|Compliance mode enabled, was '0.2.44'|
-|zvm|0.8.6|0.8.5|lang-ziglang|Compliance mode enabled, was '0.8.5'<br>Possible downgrade from the current version (0.8.6 -> 0.8.5)|
 |zxing-cpp|2.2.1|2.3.0|app-utils|Compliance mode enabled, was '2.3.0'|
 |zxtune|5053|5090|app-multimedia|Compliance mode enabled, was '5090'|
 |zziplib|0.13.75|0.13.78|runtime-common|Compliance mode enabled, was '0.13.78'|
