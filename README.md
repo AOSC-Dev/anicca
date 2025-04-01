@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743520453?label=Updated)
+![Relative date](https://img.shields.io/date/1743524029?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -166,7 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |bluedevil|5.27.12|6.3.3|desktop-kde|Compliance mode enabled, was '6.3.3'|
 |blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
-|bluez|5.79|5.80|app-devices|Compliance mode enabled, was '5.80'|
+|bluez|5.79|5.81|app-devices|Compliance mode enabled, was '5.81'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |bochs|2.8|3.0|app-emulation|Compliance mode enabled, was '3.0'|
@@ -1831,6 +1831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy|1.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy+32|1.5.2|2.5.3|runtime-optenv32|Compliance mode enabled, was '2.5.3'|
+|openmpi|4.1.6|5.0.7|app-scientific|Compliance mode enabled, was '5.0.7'|
 |openmpt|0.6.4|0.7.13|app-multimedia|Compliance mode enabled, was '0.7.13'|
 |openmw|0.48.0<br>+git20240902|0.48.0|app-games|Compliance mode enabled, was '0.48.0'|
 |openpgl|0.5.0|0.7.0|runtime-creativity|Compliance mode enabled, was '0.7.0'|
@@ -2683,7 +2684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|thunderbird|136.0|128.8.1|app-web|Compliance mode enabled, was '128.8.1'<br>Possible downgrade from the current version (136.0 -> 128.8.1)|
+|thunderbird|136.0|128.9.0|app-web|Compliance mode enabled, was '128.9.0'<br>Possible downgrade from the current version (136.0 -> 128.9.0)|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
@@ -2722,6 +2723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
 |translate-toolkit|2.3.1|3.15.1|lang-python|Compliance mode enabled, was '3.15.1'|
+|transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
