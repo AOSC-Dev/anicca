@@ -608,7 +608,7 @@
 ["exim","4.98","4.98.2","app-web",1721395453,["Compliance mode enabled, was '4.98.2'"]],
 ["certbot","2.11.0","3.3.0","app-web",1717723307,["Compliance mode enabled, was '3.3.0'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
-["chromium","131.0.6778.264","134.0.6998.165","app-web",1736556819,["Compliance mode enabled, was '134.0.6998.165'"]],
+["chromium","131.0.6778.264","135.0.7049.52","app-web",1736556819,["Compliance mode enabled, was '135.0.7049.52'"]],
 ["i2pd","2.41.0","2.56.0","app-web",1647420912,["Compliance mode enabled, was '2.56.0'"]],
 ["icewm","3.6.0","3.7.3","desktop-wm",1718676203,["Compliance mode enabled, was '3.7.3'"]],
 ["xcompmgr","1.1.8","1.1.10","desktop-wm",1565983209,["Compliance mode enabled, was '1.1.10'"]],
