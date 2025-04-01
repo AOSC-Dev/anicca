@@ -951,7 +951,6 @@
 ["iwd","3.2","3.5","app-network",1732863969,["Compliance mode enabled, was '3.5'"]],
 ["wireless-regdb","2024.10.07","2025.02.20","app-network",1732999837,["Compliance mode enabled, was '2025.02.20'"]],
 ["iptables","1.8.8","1.8.11","app-network",1674452376,["Compliance mode enabled, was '1.8.11'"]],
-["freerdp","3.9.0","3.14.1","app-network",1733052382,["Compliance mode enabled, was '3.14.1'"]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["fizz","2025.03.24.00","2025.03.31.00","app-network",1743403515,["Compliance mode enabled, was '2025.03.31.00'"]],
 ["firewalld","2.2.1","2.3.0","app-network",1722267199,["Compliance mode enabled, was '2.3.0'"]],
