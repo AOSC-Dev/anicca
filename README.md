@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743606733?label=Updated)
+![Relative date](https://img.shields.io/date/1743610444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -216,7 +216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |calindori|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
 |calls|46.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|calver|2022.06.26|2025.4.1|lang-python|Compliance mode enabled, was '2025.4.1'|
+|calver|2022.06.26|2025.4.2|lang-python|Compliance mode enabled, was '2025.4.2'|
 |camlp4|4.14<br>+1|5.3+1|lang-ocaml|Compliance mode enabled, was '5.3+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -387,7 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
-|django|5.0.3|5.1.8|lang-python|Compliance mode enabled, was '5.1.8'|
+|django|5.0.3|5.2|lang-python|Compliance mode enabled, was '5.2'|
 |dkms|3.1.1|3.1.6|app-admin|Compliance mode enabled, was '3.1.6'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
@@ -480,6 +480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |extra-cmake-modules|5.115.0|6.12.0|app-devel|Compliance mode enabled, was '6.12.0'|
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
+|eza|0.20.24|0.21.0|app-utils|Compliance mode enabled, was '0.21.0'|
 |f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.29.9.2|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
@@ -1535,7 +1536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5026|runtime-creativity|Compliance mode enabled, was '5026'|
+|llama.cpp|4879|5029|runtime-creativity|Compliance mode enabled, was '5029'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.2|runtime-optenv32|Compliance mode enabled, was '20.1.2'|
