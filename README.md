@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743570850?label=Updated)
+![Relative date](https://img.shields.io/date/1743574630?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -786,7 +786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.130.6|lang-python|Compliance mode enabled, was '6.130.6'|
+|hypothesis-python|6.97.4|6.130.7|lang-python|Compliance mode enabled, was '6.130.7'|
 |hysteria|2.5.1|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
@@ -1319,6 +1319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
 |libjpeg-turbo+32|3.0.4|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
+|libjxl|0.10.2|0.11.1|runtime-imaging|Compliance mode enabled, was '0.11.1'|
 |libkcddb|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |libkcompactdisc|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |libkdcraw|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
