@@ -1537,6 +1537,7 @@
 ["openra","20210321","20250330","app-games",1631079132,["Compliance mode enabled, was '20250330'"]],
 ["gcompris","4.3","25.0.12","app-games",1737358274,["Compliance mode enabled, was '25.0.12'"]],
 ["oolite","1.90","1.91.0.7654-250401-fdfe76b","app-games",1599209349,["Compliance mode enabled, was '1.91.0.7654-250401-fdfe76b'"]],
+["cabal-install","3.10.3.0","3.14.1.1","lang-haskell",1711355899,["Compliance mode enabled, was '3.14.1.1'"]],
 ["ghc","9.4.8","9.12.2-release","lang-haskell",1711355899,["Compliance mode enabled, was '9.12.2-release'"]],
 ["libxnvctrl+32","565.57.01","570.86.16","runtime-optenv32",1740919512,["Compliance mode enabled, was '570.86.16'"]],
 ["libxml2+32","2.10.4","2.14.0","runtime-optenv32",1669533924,["Compliance mode enabled, was '2.14.0'"]],
