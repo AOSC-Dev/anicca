@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743689526?label=Updated)
+![Relative date](https://img.shields.io/date/1743693105?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1244,6 +1244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|25|runtime-wasi|Compliance mode enabled, was '25'|
 |libcaldav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
+|libcamera|0.4.0|0.5.0|runtime-devices|Compliance mode enabled, was '0.5.0'|
 |libcap|2.73|2.75|runtime-common|Compliance mode enabled, was '2.75'|
 |libcap+32|2.73|2.75|runtime-optenv32|Compliance mode enabled, was '2.75'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1503,8 +1504,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxfce4ui|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |libxfce4util|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
-|libxml2|2.10.4|2.14.0|runtime-common|Compliance mode enabled, was '2.14.0'|
-|libxml2+32|2.10.4|2.14.0|runtime-optenv32|Compliance mode enabled, was '2.14.0'|
+|libxml2|2.10.4|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
+|libxml2+32|2.10.4|2.14.1|runtime-optenv32|Compliance mode enabled, was '2.14.1'|
 |libxnvctrl|565.57.01|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'|
 |libxnvctrl+32|565.57.01|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'|
 |libxslt|1.1.42|1.1.43|runtime-common|Compliance mode enabled, was '1.1.43'|
@@ -2337,7 +2338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdfind|1.6.0|1.7.0|app-utils|Compliance mode enabled, was '1.7.0'|
 |rdflib|6.2.0|7.1.4|lang-python|Compliance mode enabled, was '7.1.4'|
-|rdma-core|51.0|56.0|app-admin|Compliance mode enabled, was '56.0'|
+|rdma-core|51.0|56.1|app-admin|Compliance mode enabled, was '56.1'|
 |re2|2024-06-01|2024-07-02|runtime-common||
 |re2c|3.1|4.1|runtime-common|Compliance mode enabled, was '4.1'|
 |readline|8.2.1|8.2.13|runtime-common|Compliance mode enabled, was '8.2.13'|
@@ -2400,8 +2401,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pkg-config|1.5.8|1.6.0|lang-ruby|Compliance mode enabled, was '1.6.0'|
 |runc|1.1.14|1.2.6|app-admin|Compliance mode enabled, was '1.2.6'|
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
-|rustc|1.85.0|1.85.1|lang-rust|Compliance mode enabled, was '1.85.1'|
-|rustc+32|1.85.0|1.85.1|runtime-optenv32|Compliance mode enabled, was '1.85.1'|
+|rustc|1.85.0|1.86.0|lang-rust|Compliance mode enabled, was '1.86.0'|
+|rustc+32|1.85.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|0.44.2|desktop-gnome|Compliance mode enabled, was '0.44.2'|
