@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743714730?label=Updated)
+![Relative date](https://img.shields.io/date/1743718250?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1662,7 +1662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |minikube|1.34.0|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
-|miniupnpd|2.3.5|2.3.7|app-network|Compliance mode enabled, was '2.3.7'|
+|miniupnpd|2.3.5|2.3.8|app-network|Compliance mode enabled, was '2.3.8'|
 |minuet|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |mise|2025.2.8|2025.4.0|app-devel|Compliance mode enabled, was '2025.4.0'|
 |mitmproxy|11.0.0|11.1.3|app-network||
@@ -2295,7 +2295,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyzmq|22.3.0|26.3.0|lang-python|Compliance mode enabled, was '26.3.0'|
 |qalculate-tde-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |qca|2.3.4|2.3.9|runtime-cryptography|Compliance mode enabled, was '2.3.9'|
-|qcoro|0.10.0|0.11.0|runtime-desktop|Compliance mode enabled, was '0.11.0'|
+|qcoro|0.10.0|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
 |qdiskinfo|0.3|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.3 -> 0.1)|
@@ -2306,7 +2306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.4|app-multimedia|Compliance mode enabled, was '2.2.4'|
-|qownnotes|22.6.1|25.4.0|app-web|Compliance mode enabled, was '25.4.0'|
+|qownnotes|22.6.1|25.4.1|app-web|Compliance mode enabled, was '25.4.1'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.0.0|app-doc|Compliance mode enabled, was '12.0.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
