@@ -2728,7 +2728,7 @@
 ["gifski","1.32.0","1.33.0","app-imaging",1721488462,["Compliance mode enabled, was '1.33.0'"]],
 ["xviewer","3.4.6","3.4.8","app-imaging",1725589960,["Compliance mode enabled, was '3.4.8'"]],
 ["cairosvg","2.5.2","2.7.1","app-imaging",1658966837,["Compliance mode enabled, was '2.7.1'"]],
-["embree","4.3.1","4.3.3","app-imaging",1711170353,["Compliance mode enabled, was '4.3.3'"]],
+["embree","4.3.1","4.4.0","app-imaging",1711170353,["Compliance mode enabled, was '4.4.0'"]],
 ["dbus-glib","0.110","0.114","runtime-admin",1522267404,["Compliance mode enabled, was '0.114'"]],
 ["gsasl","1.10.0","2.2.2","runtime-admin",1742452140,["Compliance mode enabled, was '2.2.2'"]],
 ["libaal","1.0.7","24\"","runtime-admin",1678601027,["Compliance mode enabled, was '24\"'"]],
