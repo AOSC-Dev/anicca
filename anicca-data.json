@@ -1316,7 +1316,7 @@
 ["pysol-cards","0.14.2","0.18.1","lang-python",1631079140,["Compliance mode enabled, was '0.18.1'"]],
 ["pyasn1","0.4.8","0.6.1","lang-python",1581796621,["Compliance mode enabled, was '0.6.1'"]],
 ["flake8","7.0.0","7.2.0","lang-python",1718100850,["Compliance mode enabled, was '7.2.0'"]],
-["pyzmq","22.3.0","26.3.0","lang-python",1637636761,["Compliance mode enabled, was '26.3.0'"]],
+["pyzmq","22.3.0","26.4.0","lang-python",1637636761,["Compliance mode enabled, was '26.4.0'"]],
 ["cssselect2","0.6.0","0.8.0","lang-python",1658966837,["Compliance mode enabled, was '0.8.0'"]],
 ["gtkspellcheck","4.0.5","5.0.3","lang-python",1495855632,["Compliance mode enabled, was '5.0.3'"]],
 ["psutils","3.3.2","3.3.9","lang-python",1707299111,["Compliance mode enabled, was '3.3.9'"]],
