@@ -1056,7 +1056,7 @@
 ["humanize","0.5.1","4.12.2","lang-python",1499692896,["Compliance mode enabled, was '4.12.2'"]],
 ["pysmbc","1.0.22","1.0.25.1","lang-python",1600671246,["Compliance mode enabled, was '1.0.25.1'"]],
 ["pycryptopp","0.7.1","0.5.29","lang-python",1473089332,["Compliance mode enabled, was '0.5.29'","Possible downgrade from the current version (0.7.1 -> 0.5.29)"]],
-["setuptools-rust","1.9.0","1.11.0","lang-python",1719323131,["Compliance mode enabled, was '1.11.0'"]],
+["setuptools-rust","1.9.0","1.11.1","lang-python",1719323131,["Compliance mode enabled, was '1.11.1'"]],
 ["boto3","1.20.26","1.37.27","lang-python",1616123331,["Compliance mode enabled, was '1.37.27'"]],
 ["b2sdk","2.5.0","2.8.0","lang-python",1724639794,["Compliance mode enabled, was '2.8.0'"]],
 ["pandas","2.1.2","2.2.3","lang-python",1700797896,["Compliance mode enabled, was '2.2.3'"]],
