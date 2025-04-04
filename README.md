@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743757924?label=Updated)
+![Relative date](https://img.shields.io/date/1743761659?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -923,7 +923,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcachegrind|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kcalc|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kcalendarcore|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|kcalutils|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kcharselect|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kchmviewer-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |kclock|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1797,7 +1796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.2.0|10.1.0|app-scientific|Compliance mode enabled, was '10.1.0'|
 |ofono|1.30|2.16|app-network|Compliance mode enabled, was '2.16'|
-|okteta|0.26.9|0.26.20|desktop-kde|Compliance mode enabled, was '0.26.20'|
+|okteta|0.26.9|0.26.21|desktop-kde|Compliance mode enabled, was '0.26.21'|
 |okular|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onefetch|2.21.0|2.23.1|app-utils|Compliance mode enabled, was '2.23.1'|
