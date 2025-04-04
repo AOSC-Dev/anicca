@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743797556?label=Updated)
+![Relative date](https://img.shields.io/date/1743801188?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -36,7 +36,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |akonadi|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|akonadi-calendar|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-calendar-tools|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-contacts|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |akonadi-import-wizard|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
