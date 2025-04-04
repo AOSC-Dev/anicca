@@ -2508,6 +2508,7 @@
 ["mercurial","6.9.4","7.0","app-vcs",1742801254,["Compliance mode enabled, was '7.0'"]],
 ["git-cinnabar","0.6.3","0.7.2","app-vcs",1721832254,["Compliance mode enabled, was '0.7.2'"]],
 ["tortoisehg","6.6.3","6.9","app-vcs",1716735995,["Compliance mode enabled, was '6.9'"]],
+["gitoxide","0.41.0","0.42.0","app-vcs",1737535934,["Compliance mode enabled, was '0.42.0'"]],
 ["git-cliff","2.7.0","2.8.0","app-vcs",1735347831,["Compliance mode enabled, was '2.8.0'"]],
 ["kicad","9.0.1","9.99.0","app-electronics",1743467379,["Compliance mode enabled, was '9.99.0'"]],
 ["apicula","0.14","0.18","app-electronics",1728142856,["Compliance mode enabled, was '0.18'"]],
