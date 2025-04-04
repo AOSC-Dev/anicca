@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743733409?label=Updated)
+![Relative date](https://img.shields.io/date/1743737265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -276,6 +276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clamav|1.4.1|1.4.2|app-admin|Compliance mode enabled, was '1.4.2'|
 |clash-verge-rev|2.1.2|2.2.2|app-network|Compliance mode enabled, was '2.2.2'|
 |clazy|1.11|1.13|app-devel|Compliance mode enabled, was '1.13'|
+|cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |click|8.1.7|8.1.8|lang-python|Compliance mode enabled, was '8.1.8'|
 |clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
@@ -763,6 +764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
 |helm|3.16.1|3.17.2|app-containers|Compliance mode enabled, was '3.17.2'|
+|help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
