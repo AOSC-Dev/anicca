@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743786747?label=Updated)
+![Relative date](https://img.shields.io/date/1743790496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2682,7 +2682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
-|thunderbird|136.0|128.9.0|app-web|Compliance mode enabled, was '128.9.0'<br>Possible downgrade from the current version (136.0 -> 128.9.0)|
+|thunderbird|136.0|128.9.1|app-web|Compliance mode enabled, was '128.9.1'<br>Possible downgrade from the current version (136.0 -> 128.9.1)|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
