@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743952324?label=Updated)
+![Relative date](https://img.shields.io/date/1743956051?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -220,7 +220,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |capnproto|0.10.2|1.1.0|runtime-common|Compliance mode enabled, was '1.1.0'|
-|capstone|5.0.3|5.0.6|app-devel|Compliance mode enabled, was '5.0.6'|
 |cargo-audit|0.21.0|0.21.2|lang-rust|Compliance mode enabled, was '0.21.2'|
 |cargo-c|0.10.2|0.10.12+cargo-0.87.0|lang-rust|Compliance mode enabled, was '0.10.12+cargo-0.87.0'|
 |cargo-release|0.25.10|0.25.17|lang-rust|Compliance mode enabled, was '0.25.17'|
@@ -2213,7 +2212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pylibacl|0.5.4|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |pylint|2.14.4|3.3.6|lang-python|Compliance mode enabled, was '3.3.6'|
-|pylsqpack|0.3.18|0.3.19|lang-python|Compliance mode enabled, was '0.3.19'|
+|pylsqpack|0.3.18|0.3.20|lang-python|Compliance mode enabled, was '0.3.20'|
 |pymarkups|3.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |pymediainfo|5.0.3|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
 |pymysql|0.9.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
@@ -2742,6 +2741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typed-ast|1.4.3|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |uboot-tools|2024.10|2025.01|app-utils|Compliance mode enabled, was '2025.01'|
+|ubuntu-keyring|2021.03.26|2023.11.28.1|runtime-data|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.18.0|runtime-scientific|Compliance mode enabled, was '1.18.0'|
 |udiskie|2.5.3|2.5.7|app-utils|Compliance mode enabled, was '2.5.7'|
