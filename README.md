@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743973964?label=Updated)
+![Relative date](https://img.shields.io/date/1743977535?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -461,6 +461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |espeak-ng|1.51.1|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
+|etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |evince|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |evolution|3.44.4|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
@@ -2106,6 +2107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-mobile|5.27.5|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-nano|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-nm|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
+|plasma-pa|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-pk-updates|0.3.2|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-sdk|5.27.12.1|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-settings|22.06|25.02.0|desktop-kde|Compliance mode enabled, was '25.02.0'|
