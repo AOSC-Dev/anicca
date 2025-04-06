@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743970369?label=Updated)
+![Relative date](https://img.shields.io/date/1743973964?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -27,6 +27,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.003|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'<br>Possible downgrade from the current version (2.003 -> 2.003r)|
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
+|adplug|2.3.3|2.4|runtime-multimedia|Compliance mode enabled, was '2.4'|
 |adwaita-icon-theme|47.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
@@ -460,7 +461,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |espeak-ng|1.51.1|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
-|etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |evince|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |evolution|3.44.4|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
@@ -893,6 +893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalzium|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kamera|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kamoso|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
+|kanagram|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kapidox|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |kapman|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kapptemplate|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2105,7 +2106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-mobile|5.27.5|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-nano|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-nm|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
-|plasma-pa|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-pk-updates|0.3.2|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-sdk|5.27.12.1|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |plasma-settings|22.06|25.02.0|desktop-kde|Compliance mode enabled, was '25.02.0'|
@@ -2587,7 +2587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
 |symbols-nerd-font|3.2.1|3.3.0|desktop-fonts|Compliance mode enabled, was '3.3.0'|
 |sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
-|synaptic|0.91.5<br>+nmu2|0.91.6|app-admin|Compliance mode enabled, was '0.91.6'|
+|synaptic|0.91.5<br>+nmu2|0.91.7|app-admin|Compliance mode enabled, was '0.91.7'|
 |syndication|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
@@ -2784,7 +2784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|v2ray|5.29.0|5.29.3|app-network|Compliance mode enabled, was '5.29.3'|
+|v2ray|5.29.0|5.30.0|app-network|Compliance mode enabled, was '5.30.0'|
 |v2ray-rules-dat|202501302211|202504052212|runtime-data|Compliance mode enabled, was '202504052212'<br>Versions not comparable: `202501302211` and `202504052212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
