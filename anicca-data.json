@@ -1992,6 +1992,7 @@
 ["libapt-pkg-perl","0.1.36","0.1.40","lang-perl",1565712149,["Compliance mode enabled, was '0.1.40'"]],
 ["perl-mime-lite","3.030","3.033","lang-perl",1678950872,["Compliance mode enabled, was '3.033'"]],
 ["perl-role-tiny","2.001004","2.002004","lang-perl",1596485705,["Compliance mode enabled, was '2.002004'"]],
+["perl-module-runtime","0.016","0.017","lang-perl",1590972725,["Compliance mode enabled, was '0.017'"]],
 ["bullet","2.88","3.25","app-scientific",1551292850,["Compliance mode enabled, was '3.25'"]],
 ["wxmaxima","24.11.0","25.01.0","app-scientific",1737646066,["Compliance mode enabled, was '25.01.0'"]],
 ["singular","4.1.1","2024.06.03","app-scientific",1531831895,["Compliance mode enabled, was '2024.06.03'"]],
