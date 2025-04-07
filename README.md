@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744002793?label=Updated)
+![Relative date](https://img.shields.io/date/1744006634?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -696,6 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goreleaser|2.2.0|2.8.2|lang-golang|Compliance mode enabled, was '2.8.2'|
 |gost|2.11.5|2.12.0|app-network|Compliance mode enabled, was '2.12.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
+|gperf|3.1|3.2|app-utils|Compliance mode enabled, was '3.2'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gradle|8.12.0|8.13.0|lang-java|Compliance mode enabled, was '8.13.0'|
@@ -755,7 +756,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz|8.4.0|11.0.1|runtime-desktop|Compliance mode enabled, was '11.0.1'|
 |harfbuzz+32|8.4.0|11.0.1|runtime-optenv32|Compliance mode enabled, was '11.0.1'|
 |haruna|0.12.3|1.3.3|desktop-kde|Compliance mode enabled, was '1.3.3'|
-|hatchling|1.21.1|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'<br>Possible downgrade from the current version (1.21.1 -> 1.14.0)|
+|hatchling|1.21.1|1.14.1|lang-python|Compliance mode enabled, was '1.14.1'<br>Possible downgrade from the current version (1.21.1 -> 1.14.1)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
@@ -2824,6 +2825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.283.0|1.4.309.0|runtime-display|Compliance mode enabled, was '1.4.309.0'|
 |volk-meta-loader+32|1.3.283.0|1.4.309.0|runtime-optenv32|Compliance mode enabled, was '1.4.309.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
+|vpl-gpu-rt|25.1.4|25.2.0|runtime-multimedia|Compliance mode enabled, was '25.2.0'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscodium|1.97.0.25037|1.99.02289|app-editors|Compliance mode enabled, was '1.99.02289'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
