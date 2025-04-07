@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743999268?label=Updated)
+![Relative date](https://img.shields.io/date/1744002793?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2156,7 +2156,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |presenterm|0.5.0|0.12.0|app-productivity|Compliance mode enabled, was '0.12.0'|
 |prettytable|0.7.2|3.16.0|lang-python|Compliance mode enabled, was '3.16.0'|
 |print-manager|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|prismlauncher|9.2|9.3|app-games|Compliance mode enabled, was '9.3'|
 |prison5|5.115.0|6.12.0|desktop-kde|Compliance mode enabled, was '6.12.0'|
 |privoxy|3.0.34|4.0.0|app-network|Compliance mode enabled, was '4.0.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
