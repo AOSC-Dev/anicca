@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1743986712?label=Updated)
+![Relative date](https://img.shields.io/date/1743992777?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -570,7 +570,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gammaray|2.11.2|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
-|gawk|5.3.1|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc+cross|13.2.0<br>+glibc2.38<br>+6|14.2.0|app-devel|Compliance mode enabled, was '14.2.0'|
 |gcdemu|3.2.4|3.2.6|app-multimedia|Compliance mode enabled, was '3.2.6'|
@@ -2164,7 +2163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |proj|9.2.1|9.6.0|app-gis|Compliance mode enabled, was '9.6.0'|
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
 |protobuf|25.2|30.2|runtime-common|Compliance mode enabled, was '30.2'|
-|protobuf-c|1.5.0|1.5.1|runtime-common|Compliance mode enabled, was '1.5.1'|
+|protobuf-c|1.5.0|1.5.2|runtime-common|Compliance mode enabled, was '1.5.2'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstoedit|3.75|4.02|app-doc|Compliance mode enabled, was '4.02'|
 |psutils|3.3.2|3.3.9|lang-python|Compliance mode enabled, was '3.3.9'|
@@ -2789,7 +2788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.29.0|5.30.0|app-network|Compliance mode enabled, was '5.30.0'|
-|v2ray-rules-dat|202501302211|202504052212|runtime-data|Compliance mode enabled, was '202504052212'<br>Versions not comparable: `202501302211` and `202504052212`|
+|v2ray-rules-dat|202501302211|202504062212|runtime-data|Compliance mode enabled, was '202504062212'<br>Versions not comparable: `202501302211` and `202504062212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
