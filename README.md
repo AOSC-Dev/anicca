@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744032348?label=Updated)
+![Relative date](https://img.shields.io/date/1744035152?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -160,7 +160,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.43.1|2.44|runtime-optenvw64|Compliance mode enabled, was '2.44'|
 |bird|2.15.1|3.1.0|app-network|Compliance mode enabled, was '3.1.0'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
-|bleachbit|4.6.2|4.9.1|app-utils|Compliance mode enabled, was '4.9.1'|
 |blender|4.0.2|4.4.0|app-creativity|Compliance mode enabled, was '4.4.0'|
 |blinken|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |bluedevil|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
@@ -371,7 +370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|1.44.1|2.2.8|lang-js|Compliance mode enabled, was '2.2.8'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
-|deskflow|1.19.0|1.21.1|app-utils|Compliance mode enabled, was '1.21.1'|
+|deskflow|1.19.0|1.21.2|app-utils|Compliance mode enabled, was '1.21.2'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.8|app-devel|Compliance mode enabled, was '2.25.8'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
@@ -2949,6 +2948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
+|zed|0.180.2|0.180.3|app-editors|Compliance mode enabled, was '0.180.3'|
 |zeroconf|0.28.6|0.146.3|lang-python|Compliance mode enabled, was '0.146.3'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
