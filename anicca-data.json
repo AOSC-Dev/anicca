@@ -720,7 +720,7 @@
 ["svt-av1","2.3.0","3.0.2","runtime-multimedia",1730806346,["Compliance mode enabled, was '3.0.2'"]],
 ["portaudio","19.7.0","190600.20161030","runtime-multimedia",1727789009,["Compliance mode enabled, was '190600_20161030'"]],
 ["sdl2-ttf","2.22.0","3.2.2","runtime-multimedia",1731475768,["Compliance mode enabled, was '3.2.2'"]],
-["intel-media-driver","24.4.4","25.1.4","runtime-multimedia",1735559365,["Compliance mode enabled, was '25.1.4'"]],
+["intel-media-driver","24.4.4","25.2.0","runtime-multimedia",1735559365,["Compliance mode enabled, was '25.2.0'"]],
 ["avisynthplus","3.7.3","3.7.4","runtime-multimedia",1708685133,["Compliance mode enabled, was '3.7.4'"]],
 ["liboggz","1.1.1","1.1.3","runtime-multimedia",1678950872,["Compliance mode enabled, was '1.1.3'"]],
 ["spandsp","0.0.6","3.0.0","runtime-multimedia",1663210209,["Compliance mode enabled, was '3.0.0'"]],
