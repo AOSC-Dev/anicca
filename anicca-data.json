@@ -1441,6 +1441,7 @@
 ["qtcreator","15.0.1","16.0.0","app-devel",1740134451,["Compliance mode enabled, was '16.0.0'"]],
 ["extra-cmake-modules","5.115.0","6.12.0","app-devel",1714377107,["Compliance mode enabled, was '6.12.0'"]],
 ["ctags","20191203","6.1.20250406.0","app-devel",1575779059,["Compliance mode enabled, was '6.1.20250406.0'","Possible downgrade from the current version (20191203 -> 6.1.20250406.0)"]],
+["clinfo","3.0.23.01.25","3.0.25.02.14","app-devel",1721453818,["Compliance mode enabled, was '3.0.25.02.14'"]],
 ["geany","2.0","2.0.0","app-devel",1713876035,["Compliance mode enabled, was '2.0.0'"]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,["Compliance mode enabled, was '1.10'"]],
 ["dotnet-sdk-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
