@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744006634?label=Updated)
+![Relative date](https://img.shields.io/date/1744010092?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -821,8 +821,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imath|3.1.11|3.1.12|runtime-display|Compliance mode enabled, was '3.1.12'|
 |img2pdf|0.5.1|0.6.0|app-doc|Compliance mode enabled, was '0.6.0'|
 |imhex|1.35.4|1.37.4|app-editors|Compliance mode enabled, was '1.37.4'|
-|imlib2|1.5.1|1.12.4|runtime-imaging|Compliance mode enabled, was '1.12.4'|
-|imlib2+32|1.5.1|1.12.4|runtime-optenv32|Compliance mode enabled, was '1.12.4'|
+|imlib2|1.5.1|1.12.5|runtime-imaging|Compliance mode enabled, was '1.12.5'|
+|imlib2+32|1.5.1|1.12.5|runtime-optenv32|Compliance mode enabled, was '1.12.5'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |incremental|17.5.0|24.7.2|lang-python|Compliance mode enabled, was '24.7.2'|
