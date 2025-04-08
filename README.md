@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744100156?label=Updated)
+![Relative date](https://img.shields.io/date/1744103614?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -28,6 +28,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adplug|2.3.3|2.4|runtime-multimedia|Compliance mode enabled, was '2.4'|
+|adw-gtk3|5.7|5.8|desktop-themes|Compliance mode enabled, was '5.8'|
 |adwaita-icon-theme|47.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
@@ -198,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bzip3|1.4.0|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
 |c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
-|cabal-install|3.10.3.0|3.14.1.1|lang-haskell|Compliance mode enabled, was '3.14.1.1'|
+|cabal-install|3.10.3.0|3.14.2.0|lang-haskell|Compliance mode enabled, was '3.14.2.0'|
 |cachecontrol|0.14.0|0.14.2|lang-python|Compliance mode enabled, was '0.14.2'|
 |cachetools|3.1.0|6.0.0~b2|lang-python|Compliance mode enabled, was '6.0.0b2'|
 |caddy|2.8.4|2.9.1|app-web|Compliance mode enabled, was '2.9.1'|
@@ -1287,6 +1288,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.1|desktop-gnome|Compliance mode enabled, was '2.0.1'|
 |libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
+|libgpg-error|1.51|1.52|runtime-cryptography|Compliance mode enabled, was '1.52'|
+|libgpg-error+32|1.51|1.52|runtime-optenv32|Compliance mode enabled, was '1.52'|
 |libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
 |libgpiod|1.4.2|2.2.1|runtime-devices|Compliance mode enabled, was '2.2.1'|
 |libgravatar|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
