@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744118657?label=Updated)
+![Relative date](https://img.shields.io/date/1744121641?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -786,7 +786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
-|ibus|1.5.25|1.5.31|app-i18n|Compliance mode enabled, was '1.5.31'|
+|ibus|1.5.25|1.5.32|app-i18n|Compliance mode enabled, was '1.5.32'|
 |ibus-anthy|1.5.13|1.5.17|app-i18n|Compliance mode enabled, was '1.5.17'|
 |ibus-chewing|1.6.1|2.1.4|app-i18n|Compliance mode enabled, was '2.1.4'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
@@ -853,7 +853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |jellyfish|1.1.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|jenkins|2.468|2.504|app-admin|Compliance mode enabled, was '2.504'|
+|jenkins|2.468|2.505|app-admin|Compliance mode enabled, was '2.505'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.6|lang-python|Compliance mode enabled, was '3.1.6'|
 |jiter|0.8.2|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
@@ -1830,8 +1830,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openra|20210321|20250330|app-games|Compliance mode enabled, was '20250330'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
-|openssl-1.1|1.1.1w|3.4.1|runtime-cryptography|Compliance mode enabled, was '3.4.1'|
-|openssl-1.1+32|1.1.1w|3.4.1|runtime-optenv32|Compliance mode enabled, was '3.4.1'|
+|openssl|3.4.1|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
+|openssl+32|3.4.1|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
+|openssl-1.1|1.1.1w|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
+|openssl-1.1+32|1.1.1w|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.1|runtime-common|Compliance mode enabled, was '12.0.1'|
@@ -2186,7 +2188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2025.1|lang-python|Compliance mode enabled, was '2025.1'|
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.6|lang-python|Compliance mode enabled, was '7.45.6'|
-|pydantic|2.6.0|2.11.2|lang-python|Compliance mode enabled, was '2.11.2'|
+|pydantic|2.6.0|2.11.3|lang-python|Compliance mode enabled, was '2.11.3'|
 |pydantic-core|2.16.1|2.33.1|lang-python|Compliance mode enabled, was '2.33.1'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
