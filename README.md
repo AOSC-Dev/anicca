@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744121641?label=Updated)
+![Relative date](https://img.shields.io/date/1744125167?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -196,7 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bup|0.30|0.33.7|app-utils|Compliance mode enabled, was '0.33.7'|
 |byobu|6.12|6.13|app-utils|Compliance mode enabled, was '6.13'|
 |bzip3|1.4.0|1.5.1|app-utils|Compliance mode enabled, was '1.5.1'|
-|c-ares|1.28.1|1.34.4|runtime-network|Compliance mode enabled, was '1.34.4'|
+|c-ares|1.28.1|1.34.5|runtime-network|Compliance mode enabled, was '1.34.5'|
 |c-blosc|1.21.5|1.21.6|runtime-common|Compliance mode enabled, was '1.21.6'|
 |cabal-install|3.10.3.0|3.14.2.0|lang-haskell|Compliance mode enabled, was '3.14.2.0'|
 |cachecontrol|0.14.0|0.14.2|lang-python|Compliance mode enabled, was '0.14.2'|
@@ -2340,6 +2340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
+|remmina|1.4.39|1.4.40|app-network|Compliance mode enabled, was '1.4.40'|
 |repo|2.45|2.53|app-devel|Compliance mode enabled, was '2.53'|
 |reportlab|3.5.50|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
@@ -2838,7 +2839,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
 |watchman|2025.03.24.00|2025.04.07.00|app-utils|Compliance mode enabled, was '2025.04.07.00'|
-|wayland-protocols|1.42|1.43|app-devel|Compliance mode enabled, was '1.43'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
