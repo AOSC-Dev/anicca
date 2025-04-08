@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744110684?label=Updated)
+![Relative date](https://img.shields.io/date/1744114744?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -28,7 +28,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adplug|2.3.3|2.4|runtime-multimedia|Compliance mode enabled, was '2.4'|
-|adw-gtk3|5.7|5.8|desktop-themes|Compliance mode enabled, was '5.8'|
 |adwaita-icon-theme|47.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
@@ -745,7 +744,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |gwenview-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |gzdoom|4.14.0|4.14.1|app-games|Compliance mode enabled, was '4.14.1'|
-|handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|11.0.1|runtime-desktop|Compliance mode enabled, was '11.0.1'|
 |harfbuzz+32|8.4.0|11.0.1|runtime-optenv32|Compliance mode enabled, was '11.0.1'|
@@ -1755,7 +1753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss|3.109|3.110|runtime-cryptography|Compliance mode enabled, was '3.110'|
 |nss+32|3.107|3.110|runtime-optenv32|Compliance mode enabled, was '3.110'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
-|nuclei|3.3.10|3.4.1|app-utils|Compliance mode enabled, was '3.4.1'|
+|nuclei|3.3.10|3.4.2|app-utils|Compliance mode enabled, was '3.4.2'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
@@ -1900,7 +1898,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.260|app-games|Compliance mode enabled, was '2.3.260'|
+|pcsx2|1.6.0<br>+git20210825|2.3.261|app-games|Compliance mode enabled, was '2.3.261'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250327|app-doc|Compliance mode enabled, was '20250327'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2227,6 +2225,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypsutil|5.8.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
 |pyqt-builder|1.18.0|1.18.1|lang-python|Compliance mode enabled, was '1.18.1'|
 |pyqt5|5.15.5|5.15.11|lang-python|Compliance mode enabled, was '5.15.11'|
+|pyqt6|6.8.1|6.9.0|lang-python|Compliance mode enabled, was '6.9.0'|
+|pyqt6-webengine|6.8.0|6.9.0|lang-python|Compliance mode enabled, was '6.9.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |pyscard|1.9.9|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
