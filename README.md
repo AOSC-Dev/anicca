@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744169421?label=Updated)
+![Relative date](https://img.shields.io/date/1744172082?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -614,7 +614,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
-|gitoxide|0.41.0|0.42.0|app-vcs|Compliance mode enabled, was '0.42.0'|
 |gitpython|3.1.35|3.1.44|runtime-vcs|Compliance mode enabled, was '3.1.44'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.74.0|1.84.1|desktop-gnome|Compliance mode enabled, was '1.84.1'|
@@ -2160,6 +2159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
 |protobuf|25.2|30.2|runtime-common|Compliance mode enabled, was '30.2'|
 |protobuf-c|1.5.0|1.5.2|runtime-common|Compliance mode enabled, was '1.5.2'|
+|psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstoedit|3.75|4.02|app-doc|Compliance mode enabled, was '4.02'|
 |psutils|3.3.2|3.3.9|lang-python|Compliance mode enabled, was '3.3.9'|
 |psycopg2|2.8.6|2.9.10|lang-python|Compliance mode enabled, was '2.9.10'|
