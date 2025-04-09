@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744190006?label=Updated)
+![Relative date](https://img.shields.io/date/1744193755?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1671,6 +1671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.3|0.6.5|desktop-xfce|Compliance mode enabled, was '0.6.5'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mpd|0.24.2|0.24.3|app-multimedia|Compliance mode enabled, was '0.24.3'|
 |mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
 |mpg123+32|1.32.8|1.32.10|runtime-optenv32|Compliance mode enabled, was '1.32.10'|
@@ -1834,6 +1835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openra|20210321|20250330|app-games|Compliance mode enabled, was '20250330'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
+|openssh|9.9p2|10.0p1|app-network|Compliance mode enabled, was '10.0p1'|
 |openssl-1.1|1.1.1w|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |openssl-1.1+32|1.1.1w|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
