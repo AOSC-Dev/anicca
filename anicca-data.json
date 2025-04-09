@@ -1491,6 +1491,7 @@
 ["vscodium","1.99.02277","1.99.12370","app-editors",1744038002,["Compliance mode enabled, was '1.99.12370'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["imhex","1.35.4","1.37.4","app-editors",1723441135,["Compliance mode enabled, was '1.37.4'"]],
+["zed","0.180.4","0.181.5","app-editors",1744179698,["Compliance mode enabled, was '0.181.5'"]],
 ["vscode","1.99.0","1.99.1","app-editors",1743812929,["Compliance mode enabled, was '1.99.1'"]],
 ["vim","9.1.1198","9.1.1288","app-editors",1741836276,["Compliance mode enabled, was '9.1.1288'"]],
 ["linux+api","6.12.21","6.12.22","core-devel",1743470477,["Compliance mode enabled, was '6.12.22'"]],
