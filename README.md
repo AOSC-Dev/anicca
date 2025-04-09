@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744193755?label=Updated)
+![Relative date](https://img.shields.io/date/1744197152?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1292,8 +1292,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.1|desktop-gnome|Compliance mode enabled, was '2.0.1'|
 |libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
-|libgpg-error|1.51|1.52|runtime-cryptography|Compliance mode enabled, was '1.52'|
-|libgpg-error+32|1.51|1.52|runtime-optenv32|Compliance mode enabled, was '1.52'|
+|libgpg-error|1.51|1.53|runtime-cryptography|Compliance mode enabled, was '1.53'|
+|libgpg-error+32|1.51|1.53|runtime-optenv32|Compliance mode enabled, was '1.53'|
 |libgphoto2|2.5.30|2.5.31|runtime-devices|Compliance mode enabled, was '2.5.31'|
 |libgpiod|1.4.2|2.2.1|runtime-devices|Compliance mode enabled, was '2.2.1'|
 |libgravatar|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
