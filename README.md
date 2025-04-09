@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744233097?label=Updated)
+![Relative date](https://img.shields.io/date/1744236702?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -175,8 +175,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.37.30|lang-python|Compliance mode enabled, was '1.37.30'|
-|botocore|1.34.133|1.37.30|lang-python|Compliance mode enabled, was '1.37.30'|
+|boto3|1.20.26|1.37.31|lang-python|Compliance mode enabled, was '1.37.31'|
+|botocore|1.34.133|1.37.31|lang-python|Compliance mode enabled, was '1.37.31'|
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -834,6 +834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.7.0|22.7.1|runtime-devices|Compliance mode enabled, was '22.7.1'|
 |intel-media-driver|24.4.4|25.2.0|runtime-multimedia|Compliance mode enabled, was '25.2.0'|
 |intel-oneapi-basekit|2025.0.1|2025.1.0|app-devel|Compliance mode enabled, was '2025.1.0'|
+|inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
