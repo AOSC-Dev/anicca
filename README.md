@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744301662?label=Updated)
+![Relative date](https://img.shields.io/date/1744305099?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -283,7 +283,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.4.1|25.1.1|app-admin|Compliance mode enabled, was '25.1.1'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
-|cmake|3.31.6|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'|
+|cmake|3.31.6|4.0.1|app-devel|Compliance mode enabled, was '4.0.1'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -366,7 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debianutils|5.7|5.21|app-utils|Compliance mode enabled, was '5.21'|
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|delve|1.24.0|1.24.1|lang-golang|Compliance mode enabled, was '1.24.1'|
+|delve|1.24.0|1.24.2|lang-golang|Compliance mode enabled, was '1.24.2'|
 |deno|1.44.1|2.2.8|lang-js|Compliance mode enabled, was '2.2.8'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
@@ -2766,7 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
-|urllib3|2.2.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
+|urllib3|2.2.1|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
 |usage|2.0.3|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
