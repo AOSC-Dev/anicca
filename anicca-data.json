@@ -2665,7 +2665,7 @@
 ["pugixml","1.14","1.15","runtime-common",1732422172,["Compliance mode enabled, was '1.15'"]],
 ["leatherman","1.9.1","1.12.13","runtime-common",1577611130,["Compliance mode enabled, was '1.12.13'"]],
 ["rustc-demangle","0.1.21","0.1.24","runtime-common",1631400099,["Compliance mode enabled, was '0.1.24'"]],
-["level-zero","1.21.2","1.21.8","runtime-common",1742194745,["Compliance mode enabled, was '1.21.8'"]],
+["level-zero","1.21.2","1.21.9","runtime-common",1742194745,["Compliance mode enabled, was '1.21.9'"]],
 ["json-glib","1.8.0","1.10.6","runtime-common",1718636947,["Compliance mode enabled, was '1.10.6'"]],
 ["libgnt","2.14.0","2.14.3","runtime-common",1620878457,["Compliance mode enabled, was '2.14.3'"]],
 ["czmq","4.2.0","4.2.1","runtime-common",1550439885,["Compliance mode enabled, was '4.2.1'"]],
