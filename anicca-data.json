@@ -299,6 +299,7 @@
 ["glibc","2.40","2.41","core-libs",1733826087,["Compliance mode enabled, was '2.41'"]],
 ["iso-codes","4.4","4.17.0","runtime-data",1579792514,["Compliance mode enabled, was '4.17.0'"]],
 ["trinity-default-settings","2023.07.1r","2024.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2024.11.0'"]],
+["debian-archive-keyring","2023.4","2025.1","runtime-data",1716563854,["Compliance mode enabled, was '2025.1'"]],
 ["spdx-licenses","3.25.0","3.26.0","runtime-data",1732414619,["Compliance mode enabled, was '3.26.0'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
 ["unicode-ucd","15.1.0","16.0.0","runtime-data",1711964533,["Compliance mode enabled, was '16.0.0'"]],
