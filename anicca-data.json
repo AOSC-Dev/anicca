@@ -128,7 +128,7 @@
 ["gnome-builder","42.1","48.0","desktop-gnome",1713504759,["Compliance mode enabled, was '48.0'"]],
 ["geary","44.1","46.0","desktop-gnome",1721223235,["Compliance mode enabled, was '46.0'"]],
 ["gupnp-av","0.12.11","0.14.3","desktop-gnome",1549262739,["Compliance mode enabled, was '0.14.3'"]],
-["gnome-software","42.4","48.0","desktop-gnome",1713504759,["Compliance mode enabled, was '48.0'"]],
+["gnome-software","42.4","48.1","desktop-gnome",1713504759,["Compliance mode enabled, was '48.1'"]],
 ["at-spi2-core","2.52.0","2.56.1","desktop-gnome",1711610718,["Compliance mode enabled, was '2.56.1'"]],
 ["libgksu","2.0.13~pre1","2.0.12","desktop-gnome",1689323111,["Compliance mode enabled, was '2.0.12'","Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)"]],
 ["epiphany","42.4","48.0","desktop-gnome",1663210210,["Compliance mode enabled, was '48.0'"]],

@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744291513?label=Updated)
+![Relative date](https://img.shields.io/date/1744294334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -669,7 +669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-shell-extension-gsconnect|53|62|desktop-gnome|Compliance mode enabled, was '62'|
 |gnome-shell-extensions|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|gnome-software|42.4|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|gnome-software|42.4|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-sudoku|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-system-monitor|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
