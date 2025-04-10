@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744287608?label=Updated)
+![Relative date](https://img.shields.io/date/1744291513?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -399,7 +399,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|27.3.1|28.0.4|app-containers||
 |docker-buildx|0.18.0|0.22.0|app-containers|Compliance mode enabled, was '0.22.0'|
-|docker-compose|2.30.3|2.34.0|app-containers|Compliance mode enabled, was '2.34.0'|
+|docker-compose|2.30.3|2.35.0|app-containers|Compliance mode enabled, was '2.35.0'|
 |dolphin|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |dolphin-emu|2407|2503|app-games|Compliance mode enabled, was '2503'|
 |dolphin-plugins|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1526,7 +1526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'|
 |linux+kernel+retro+minimal|5.15.17|5.10.235|runtime-kernel|Compliance mode enabled, was '5.10.235'<br>Possible downgrade from the current version (5.15.17 -> 5.10.235)|
-|linux-firmware|20250220|20250311|runtime-kernel||
+|linux-firmware|20250220|20250410|runtime-kernel||
 |linux-kernel|6.14.1|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.1 -> 5.19.17)|
 |linux-kernel-lts|6.12.15|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.15 -> 5.19.17)|
 |linux-kernel-rc|6.14.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.0 -> 5.19.17)|
