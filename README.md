@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744405832?label=Updated)
+![Relative date](https://img.shields.io/date/1744409562?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -366,7 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |delve|1.24.0|1.24.2|lang-golang|Compliance mode enabled, was '1.24.2'|
-|deno|1.44.1|2.2.8|lang-js|Compliance mode enabled, was '2.2.8'|
+|deno|1.44.1|2.2.9|lang-js|Compliance mode enabled, was '2.2.9'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.19.0|1.21.2|app-utils|Compliance mode enabled, was '1.21.2'|
@@ -671,7 +671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
 |gnome-tour|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-usage|3.38.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
-|gnome-user-docs|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|gnome-user-docs|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-user-share|3.34.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -835,7 +835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptraf-ng|1.1.4|1.2.2|app-network|Compliance mode enabled, was '1.2.2'|
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
-|iso-codes|4.4|4.17.0|runtime-data|Compliance mode enabled, was '4.17.0'|
+|iso-codes|4.4|4.18.0|runtime-data|Compliance mode enabled, was '4.18.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |itinerary|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -2290,7 +2290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.4|app-multimedia|Compliance mode enabled, was '2.2.4'|
-|qownnotes|22.6.1|25.4.1|app-web|Compliance mode enabled, was '25.4.1'|
+|qownnotes|22.6.1|25.4.2|app-web|Compliance mode enabled, was '25.4.2'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.1.0|app-doc|Compliance mode enabled, was '12.1.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
