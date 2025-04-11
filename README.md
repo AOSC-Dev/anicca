@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744355516?label=Updated)
+![Relative date](https://img.shields.io/date/1744359302?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -465,9 +465,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |evince|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|evolution|3.44.4|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
-|evolution-data-server|3.44.4|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
-|evolution-ews|3.42.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
+|evolution|3.44.4|3.56.1|desktop-gnome|Compliance mode enabled, was '3.56.1'|
+|evolution-data-server|3.44.4|3.56.1|desktop-gnome|Compliance mode enabled, was '3.56.1'|
+|evolution-ews|3.42.0|3.56.1|desktop-gnome|Compliance mode enabled, was '3.56.1'|
 |executing|2.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |exempi|2.5.1|2.6.6|runtime-imaging|Compliance mode enabled, was '2.6.6'|
 |exfatprogs|1.2.5|1.2.8|app-admin|Compliance mode enabled, was '1.2.8'|
@@ -541,8 +541,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |folly|2025.03.24.00|2025.04.07.00|runtime-common|Compliance mode enabled, was '2025.04.07.00'|
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
-|fontconfig|2.15.0|2.16.1|runtime-desktop|Compliance mode enabled, was '2.16.1'|
-|fontconfig+32|2.15.0|2.16.1|runtime-optenv32|Compliance mode enabled, was '2.16.1'|
+|fontconfig|2.15.0|2.16.2|runtime-desktop|Compliance mode enabled, was '2.16.2'|
+|fontconfig+32|2.15.0|2.16.2|runtime-optenv32|Compliance mode enabled, was '2.16.2'|
 |fonttools|4.53.1|4.57.0|desktop-fonts|Compliance mode enabled, was '4.57.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|10.0.1|10.0.3|app-web|Compliance mode enabled, was '10.0.3'|
