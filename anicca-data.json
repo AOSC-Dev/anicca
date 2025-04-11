@@ -1883,7 +1883,7 @@
 ["perl-class-methodmaker","2.24","2.25","lang-perl",1488651432,["Compliance mode enabled, was '2.25'"]],
 ["perl-path-tiny","0.108","0.148","lang-perl",1535557394,["Compliance mode enabled, was '0.148'"]],
 ["perl-term-progressbar","2.22","2.23","lang-perl",1530196414,["Compliance mode enabled, was '2.23'"]],
-["perl-dbd-mysql","4.052","5.011","lang-perl",1718898521,["Compliance mode enabled, was '5.011'"]],
+["perl-dbd-mysql","4.052","5.012","lang-perl",1718898521,["Compliance mode enabled, was '5.012'"]],
 ["perl-www-mechanize","1.91","2.19","lang-perl",1551145817,["Compliance mode enabled, was '2.19'"]],
 ["perl-authen-sasl","2.1401","2.1700","lang-perl",1536763311,["Compliance mode enabled, was '2.1700'"]],
 ["libintl-perl","1.29","1.35","lang-perl",1530196415,["Compliance mode enabled, was '1.35'"]],
