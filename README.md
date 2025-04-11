@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744398595?label=Updated)
+![Relative date](https://img.shields.io/date/1744402445?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -321,7 +321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|8.0.6|app-devel|Compliance mode enabled, was '8.0.6'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
-|criu|3.19|4.1|app-admin|Compliance mode enabled, was '4.1'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
 |crun|1.16.1|1.21|app-admin|Compliance mode enabled, was '1.21'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
@@ -387,7 +386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |django|5.0.3|5.2|lang-python|Compliance mode enabled, was '5.2'|
-|dkms|3.1.1|3.1.7|app-admin|Compliance mode enabled, was '3.1.7'|
+|dkms|3.1.1|3.1.8|app-admin|Compliance mode enabled, was '3.1.8'|
 |dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscrypt|2.1.7|2.1.8|app-network|Compliance mode enabled, was '2.1.8'|
@@ -771,6 +770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
+|hugo|0.146.1|0.146.2|app-web|Compliance mode enabled, was '0.146.2'|
 |humanize|0.5.1|4.12.2|lang-python|Compliance mode enabled, was '4.12.2'|
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwinfo|23.2|23.5|app-utils|Compliance mode enabled, was '23.5'|
