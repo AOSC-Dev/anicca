@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744380720?label=Updated)
+![Relative date](https://img.shields.io/date/1744384328?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1212,7 +1212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libaal|1.0.7|24"|runtime-admin|Compliance mode enabled, was '24"'|
-|libadwaita|1.6.4|1.7.0|desktop-gnome|Compliance mode enabled, was '1.7.0'|
+|libadwaita|1.6.4|1.7.1|desktop-gnome|Compliance mode enabled, was '1.7.1'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl|Compliance mode enabled, was '0.1.40'|
 |libarchive|3.7.7|3.7.9|runtime-common|Compliance mode enabled, was '3.7.9'|
 |libart-lgpl|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
@@ -1341,7 +1341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
 |libluv|1.47.0<br>+0|1.50.0+1|lang-lua|Compliance mode enabled, was '1.50.0-1'|
 |liblxqt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|libmanette|0.2.6|0.2.11|runtime-devices|Compliance mode enabled, was '0.2.11'|
+|libmanette|0.2.6|0.2.12|runtime-devices|Compliance mode enabled, was '0.2.12'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
 |libmbim|1.30.0|1.32.0|runtime-devices|Compliance mode enabled, was '1.32.0'|
 |libmediaart|1.9.4|1.9.7|runtime-multimedia|Compliance mode enabled, was '1.9.7'|
@@ -2357,12 +2357,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
-|rocm-bandwidth-test|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocm-cmake|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocm-llvm|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocm-smi-lib|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocminfo|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
-|rocr-runtime|6.0.2|6.3.3|runtime-rocm|Compliance mode enabled, was '6.3.3'|
+|rocm-bandwidth-test|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
+|rocm-cmake|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
+|rocm-llvm|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
+|rocm-smi-lib|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
+|rocminfo|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
+|rocr-runtime|6.0.2|6.4.0|runtime-rocm|Compliance mode enabled, was '6.4.0'|
 |rocs|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden|24.12|24.12.1|app-creativity|Compliance mode enabled, was '24.12.1'|
