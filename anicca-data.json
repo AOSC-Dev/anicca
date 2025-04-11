@@ -1742,7 +1742,7 @@
 ["fio","3.35","3.39","app-utils",1696572712,["Compliance mode enabled, was '3.39'"]],
 ["iio-sensor-proxy","3.5","3.7","app-utils",1724909354,["Compliance mode enabled, was '3.7'"]],
 ["hdsentinel","0.17","020c","app-utils",1553836459,["Compliance mode enabled, was '020c'"]],
-["debianutils","5.7","5.21","app-utils",1673935786,["Compliance mode enabled, was '5.21'"]],
+["debianutils","5.7","5.22","app-utils",1673935786,["Compliance mode enabled, was '5.22'"]],
 ["appres","1.0.6","1.0.7","app-utils",1716006601,["Compliance mode enabled, was '1.0.7'"]],
 ["tofrodos","1.7.13","1.8.3","app-utils",1510033857,["Compliance mode enabled, was '1.8.3'"]],
 ["paq8o","9","10t","app-utils",1470117122,["Compliance mode enabled, was '10t'"]],
