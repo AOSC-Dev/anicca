@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744366434?label=Updated)
+![Relative date](https://img.shields.io/date/1744369881?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -271,7 +271,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
 |clamav|1.4.1|1.4.2|app-admin|Compliance mode enabled, was '1.4.2'|
-|clash-verge-rev|2.2.2|2.2.3|app-network|Compliance mode enabled, was '2.2.3'|
 |clazy|1.11|1.13|app-devel|Compliance mode enabled, was '1.13'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
@@ -1476,6 +1475,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvoikko|4.3.1|4.3.2|runtime-i18n|Compliance mode enabled, was '4.3.2'|
 |libvpl|2.14.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
 |libvpx|1.15.0|1.15.1|runtime-multimedia|Compliance mode enabled, was '1.15.1'|
+|libvpx+32|1.15.0|1.15.1|runtime-optenv32|Compliance mode enabled, was '1.15.1'|
 |libwacom|2.4.0|2.15.0|runtime-devices|Compliance mode enabled, was '2.15.0'|
 |libwebp|1.3.1|1.5.0|runtime-imaging|Compliance mode enabled, was '1.5.0'|
 |libwebp+32|1.3.1|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
@@ -2843,7 +2843,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
-|wesnoth|1.16.10|1.18.4|app-games|Compliance mode enabled, was '1.18.4'|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
