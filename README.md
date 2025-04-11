@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744342176?label=Updated)
+![Relative date](https://img.shields.io/date/1744344855?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -210,7 +210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|app-imaging|Compliance mode enabled, was '2.7.1'|
 |calendarsupport|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |calf|0.90.3|0.90.6|app-multimedia|Compliance mode enabled, was '0.90.6'|
-|calibre|8.1.1|8.2.1|app-doc|Compliance mode enabled, was '8.2.1'|
+|calibre|8.1.1|8.2.100|app-doc|Compliance mode enabled, was '8.2.100'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |callaudiod|0.1.4|0.1.10|app-admin|Compliance mode enabled, was '0.1.10'|
@@ -1890,7 +1890,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
-|pcp|6.0.1|6.3.7|app-utils|Compliance mode enabled, was '6.3.7'|
+|pcp|6.0.1|6.3.8|app-utils|Compliance mode enabled, was '6.3.8'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcre2|10.44|10.45|runtime-common|Compliance mode enabled, was '10.45'|
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
