@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744395320?label=Updated)
+![Relative date](https://img.shields.io/date/1744398595?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -180,7 +180,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.13.2|lang-python|Compliance mode enabled, was '0.13.2'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|bpftrace|0.21.1|0.23.0|app-admin|Compliance mode enabled, was '0.23.0'|
+|bpftrace|0.21.1|0.23.1|app-admin|Compliance mode enabled, was '0.23.1'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |breeze-grub|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
@@ -290,7 +290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|336.2|app-admin|Compliance mode enabled, was '336.2'|
 |cockpit-machines|284.1|329|app-admin|Compliance mode enabled, was '329'|
 |cockpit-podman|63|103|app-admin|Compliance mode enabled, was '103'|
-|code-server|4.93.1|4.99.1|app-utils|Compliance mode enabled, was '4.99.1'|
+|code-server|4.93.1|4.99.2|app-utils|Compliance mode enabled, was '4.99.2'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
