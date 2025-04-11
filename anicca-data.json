@@ -1,5 +1,6 @@
 [
 ["msbuild","16.6+xamarinxplat.2020.04.29.14.43","16.10.1+xamarinxplat.2021.05.26.14.00","lang-dotnet",1594100500,["Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'"]],
+["mono","6.12.0.206","6.14.0","lang-dotnet",1716726802,["Compliance mode enabled, was '6.14.0'"]],
 ["dotnet-apphost-pack-6.0","6.0.30","6.0.36","lang-dotnet",1716597653,["Compliance mode enabled, was '6.0.36'"]],
 ["dotnet-runtime-8.0","8.0.10","8.0.15","lang-dotnet",1724293390,["Compliance mode enabled, was '8.0.15'"]],
 ["dotnet8","8.0.403","8.0.408","lang-dotnet",1728671024,["Compliance mode enabled, was '8.0.408'"]],
@@ -1312,7 +1313,6 @@
 ["python-openid","2.2.5","3.2","lang-python",1488430705,["Compliance mode enabled, was '3.2'"]],
 ["pyasn1-modules","0.2.8","0.4.2","lang-python",1581796621,["Compliance mode enabled, was '0.4.2'"]],
 ["pathspec","0.11.0","0.12.1","lang-python",1676525877,["Compliance mode enabled, was '0.12.1'"]],
-["typed-ast","1.4.3","1.5.5","lang-python",1637636761,["Compliance mode enabled, was '1.5.5'"]],
 ["trove-classifiers","2024.1.31","2025.3.19.19","lang-python",1708256695,["Compliance mode enabled, was '2025.3.19.19'"]],
 ["simplejson","3.16.0","3.20.1","lang-python",1531753542,["Compliance mode enabled, was '3.20.1'"]],
 ["constantly","15.1.0","23.10.4","lang-python",1678950872,["Compliance mode enabled, was '23.10.4'"]],
