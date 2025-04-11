@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744369881?label=Updated)
+![Relative date](https://img.shields.io/date/1744373929?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -628,7 +628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
 |glslang|13.1.1|15.2.0|app-imaging|Compliance mode enabled, was '15.2.0'|
 |glslang+32|13.1.1|15.2.0|runtime-optenv32|Compliance mode enabled, was '15.2.0'|
-|glycin|1.1.4|1.2.0|desktop-gnome|Compliance mode enabled, was '1.2.0'|
+|glycin|1.1.4|1.2.1|desktop-gnome|Compliance mode enabled, was '1.2.1'|
 |gmic|3.2.6|3.5.3|runtime-imaging|Compliance mode enabled, was '3.5.3'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
@@ -1735,6 +1735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
 |ngtcp2|1.5.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
+|nlohmann-json|3.11.3|3.12.0|runtime-common|Compliance mode enabled, was '3.12.0'|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.93|7.95|app-network|Compliance mode enabled, was '7.95'|
 |nnn|5.0|5.1|app-utils|Compliance mode enabled, was '5.1'|
