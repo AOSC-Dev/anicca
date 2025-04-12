@@ -162,7 +162,7 @@
 ["alacarte","3.54.0","3.54.1","desktop-gnome",1729158587,["Compliance mode enabled, was '3.54.1'"]],
 ["template-glib","3.28.0","3.36.3","desktop-gnome",1521262132,["Compliance mode enabled, was '3.36.3'"]],
 ["gnome-packagekit","3.32.0","43.0","desktop-gnome",1571163275,["Compliance mode enabled, was '43.0'"]],
-["gnome-maps","42.3","48.1","desktop-gnome",1663210243,["Compliance mode enabled, was '48.1'"]],
+["gnome-maps","42.3","48.2","desktop-gnome",1663210243,["Compliance mode enabled, was '48.2'"]],
 ["grilo-plugins","0.3.15","0.3.16","desktop-gnome",1716298204,["Compliance mode enabled, was '0.3.16'"]],
 ["rygel","0.40.4","0.44.2","desktop-gnome",1716298204,["Compliance mode enabled, was '0.44.2'"]],
 ["gnome-session","42.0","48.0","desktop-gnome",1663210241,["Compliance mode enabled, was '48.0'"]],
