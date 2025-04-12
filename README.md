@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744424494?label=Updated)
+![Relative date](https://img.shields.io/date/1744428399?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2300,7 +2300,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.16|5.15.15-lts-lgpl|runtime-desktop|Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)|
 |qt-6|6.8.2|6.9.0|runtime-desktop|Compliance mode enabled, was '6.9.0'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|qtcreator|15.0.1|16.0.1|app-devel|Compliance mode enabled, was '16.0.1'|
 |qterminal|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtermwidget|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
@@ -2814,7 +2813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.3.283.0|1.4.309.0|runtime-optenv32|Compliance mode enabled, was '1.4.309.0'|
 |vorbis-tools|1.4.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscode|1.99.0|1.99.2|app-editors|Compliance mode enabled, was '1.99.2'|
 |vscodium|1.99.02277|1.99.22418|app-editors|Compliance mode enabled, was '1.99.22418'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.0|runtime-desktop|Compliance mode enabled, was '0.80.0'|
