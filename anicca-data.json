@@ -867,7 +867,7 @@
 ["networkmanager-iodine","1.2.0+git20220728","1.2.0","app-network",1663359140,["Compliance mode enabled, was '1.2.0'"]],
 ["lldpd","1.0.18","1.0.19","app-network",1729158390,["Compliance mode enabled, was '1.0.19'"]],
 ["kubo","0.33.2","0.34.1","app-network",1744297688,["Compliance mode enabled, was '0.34.1'"]],
-["v2ray","5.29.0","5.30.0","app-network",1740109530,["Compliance mode enabled, was '5.30.0'"]],
+["v2ray","5.29.3","5.30.0","app-network",1744428764,["Compliance mode enabled, was '5.30.0'"]],
 ["iw","5.19","6.9","app-network",1674452376,["Compliance mode enabled, was '6.9'"]],
 ["nsd","4.7.0","4.11.1.rel","app-network",1696572712,["Compliance mode enabled, was '4_11_1_REL'"]],
 ["wireguard","1","0.0.20191219","app-network",1576936460,["Compliance mode enabled, was '0.0.20191219'","Possible downgrade from the current version (1 -> 0.0.20191219)"]],
