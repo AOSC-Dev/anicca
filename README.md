@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744564290?label=Updated)
+![Relative date](https://img.shields.io/date/1744568015?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -685,6 +685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.38.0|lang-python|Compliance mode enabled, was '2.38.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
+|gperf|3.2|3.2.1|app-utils|Compliance mode enabled, was '3.2.1'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gradle|8.12.0|8.13.0|lang-java|Compliance mode enabled, was '8.13.0'|
@@ -2284,7 +2285,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.4|app-multimedia|Compliance mode enabled, was '2.2.4'|
-|qownnotes|22.6.1|25.4.2|app-web|Compliance mode enabled, was '25.4.2'|
+|qownnotes|22.6.1|25.4.3|app-web|Compliance mode enabled, was '25.4.3'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.1.0|app-doc|Compliance mode enabled, was '12.1.0'|
 |qps|2.8.0|2.10.0|desktop-lxqt|Compliance mode enabled, was '2.10.0'|
