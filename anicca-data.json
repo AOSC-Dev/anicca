@@ -2801,7 +2801,6 @@
 ["libticonv","1.1.4","1.1.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.5'"]],
 ["libcdio-paranoia","10.2+2.0.1","2.0.2","runtime-devices",1639821978,["Compliance mode enabled, was '2.0.2'","Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)"]],
 ["libcl","2.3.2","2.3.3","runtime-devices",1715585686,["Compliance mode enabled, was '2.3.3'"]],
-["libtpms","0.9.6","0.10.0","runtime-devices",1681635425,["Compliance mode enabled, was '0.10.0'"]],
 ["libftdi","1.4","1.5","runtime-devices",1531513820,["Compliance mode enabled, was '1.5'"]],
 ["metee","4.3.1","5.0.0","runtime-devices",1741508327,["Compliance mode enabled, was '5.0.0'"]],
 ["libgpiod","1.4.2","2.2.1","runtime-devices",1582089665,["Compliance mode enabled, was '2.2.1'"]],
