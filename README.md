@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744575086?label=Updated)
+![Relative date](https://img.shields.io/date/1744578648?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1679,7 +1679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |mupdf|1.24.10|1.25.6|app-doc|Compliance mode enabled, was '1.25.6'|
 |musescore|4.3.2|4.5.1|app-creativity|Compliance mode enabled, was '4.5.1'|
-|mutter|42.4|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|mutter|42.4|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |mvfst|2025.03.24.00|2025.04.07.00|runtime-network|Compliance mode enabled, was '2025.04.07.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.29.2|app-database|Compliance mode enabled, was '1.29.2'|
@@ -2273,6 +2273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyyaml|6.0.1|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
 |pyzmq|22.3.0|26.4.0|lang-python|Compliance mode enabled, was '26.4.0'|
+|q4wine|1.3.13|1.4.0|app-emulation|Compliance mode enabled, was '1.4.0'|
 |qalculate-tde-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |qca|2.3.4|2.3.9|runtime-cryptography|Compliance mode enabled, was '2.3.9'|
 |qcoro|0.10.0|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
