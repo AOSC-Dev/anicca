@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744550475?label=Updated)
+![Relative date](https://img.shields.io/date/1744553380?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -531,8 +531,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flit-core|3.9.0|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
 |fltk|1.3.5|1.4.2|runtime-desktop|Compliance mode enabled, was '1.4.2'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
-|fluidsynth|2.3.6|2.4.4|app-multimedia|Compliance mode enabled, was '2.4.4'|
-|fluidsynth+32|2.3.6|2.4.4|runtime-optenv32|Compliance mode enabled, was '2.4.4'|
+|fluidsynth|2.3.6|2.4.5|app-multimedia|Compliance mode enabled, was '2.4.5'|
+|fluidsynth+32|2.3.6|2.4.5|runtime-optenv32|Compliance mode enabled, was '2.4.5'|
 |fmt|10.2.1|11.1.4|runtime-common|Compliance mode enabled, was '11.1.4'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |folly|2025.03.24.00|2025.04.07.00|runtime-common|Compliance mode enabled, was '2025.04.07.00'|
@@ -759,7 +759,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.25.2|app-doc|Compliance mode enabled, was '3.25.2'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
-|html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.20|1.21|app-scientific|Compliance mode enabled, was '1.21'|
 |httpcore|1.0.5|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
@@ -1075,7 +1074,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knotifyconfig|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |knowit-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |knutclient-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|kodi-pvr-iptvsimple|19.2.2|22.4.2-piers|app-multimedia|Compliance mode enabled, was '22.4.2-Piers'|
+|kodi-pvr-iptvsimple|19.2.2|22.5.0-piers|app-multimedia|Compliance mode enabled, was '22.5.0-Piers'|
 |koffice-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |koko|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |kolf|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
@@ -1265,7 +1264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffi+32|3.4.7|3.4.8|runtime-optenv32|Compliance mode enabled, was '3.4.8'|
 |libfido2|1.13.0|1.15.0|runtime-devices|Compliance mode enabled, was '1.15.0'|
 |libfilezilla|0.45.0|0.38.1|runtime-web|Compliance mode enabled, was '0.38.1'<br>Possible downgrade from the current version (0.45.0 -> 0.38.1)|
-|libfishsound|1.0.0|1.0.1|runtime-multimedia|Compliance mode enabled, was '1.0.1'|
 |libfm|1.3.0.2|1.4.0|desktop-lxde|Compliance mode enabled, was '1.4.0'|
 |libfm-qt|1.4.0|2.1.0|desktop-lxqt|Compliance mode enabled, was '2.1.0'|
 |libfreeaptx|0.1.1|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
@@ -1397,7 +1395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqtxdg|3.12.0|4.1.0|desktop-lxqt|Compliance mode enabled, was '4.1.0'|
 |libquotient|0.8.2|0.9.3|runtime-web|Compliance mode enabled, was '0.9.3'|
-|libraw|0.20.0|0.21.3|runtime-imaging|Compliance mode enabled, was '0.21.3'|
+|libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
 |libreoffice|25.2.2.2|25.2.3.1|groups|Compliance mode enabled, was '25.2.3.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
@@ -1412,7 +1410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
 |libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
-|libsidplayfp|1.8.8|2.12.0|runtime-multimedia|Compliance mode enabled, was '2.12.0'|
+|libsidplayfp|1.8.8|2.13.0|runtime-multimedia|Compliance mode enabled, was '2.13.0'|
 |libsigc++|2.10.8|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
 |libsigc++-3.0|3.4.0|3.6.0|runtime-common|Compliance mode enabled, was '3.6.0'|
 |libsigsegv|2.12|2.14|runtime-common|Compliance mode enabled, was '2.14'|
@@ -1448,6 +1446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtirpc|1.3.1|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtorrent-rasterbar|2.0.10|2.0.11|runtime-web|Compliance mode enabled, was '2.0.11'|
+|libtpms|0.9.6|0.10.0|runtime-devices|Compliance mode enabled, was '0.10.0'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.8.0.0|runtime-ham|Compliance mode enabled, was '4.8.0.0'|
 |libunistring|0.9.10|1.3|runtime-common|Compliance mode enabled, was '1.3'|
@@ -2479,7 +2478,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |sonic-visualiser|4.4|5.2.1|app-multimedia|Compliance mode enabled, was '5.2.1'|
-|sonivox|3.6.12|3.6.15|runtime-multimedia|Compliance mode enabled, was '3.6.15'|
+|sonivox|3.6.12|3.6.16|runtime-multimedia|Compliance mode enabled, was '3.6.16'|
 |sonnet|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |sord|0.16.4|0.16.18|runtime-common|Compliance mode enabled, was '0.16.18'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
