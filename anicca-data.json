@@ -555,7 +555,7 @@
 ["ibus","1.5.25","1.5.32","app-i18n",1633153813,["Compliance mode enabled, was '1.5.32'"]],
 ["ibus-qt","1.3.3","1.3.4","app-i18n",1721223235,["Compliance mode enabled, was '1.3.4'"]],
 ["ibus-anthy","1.5.13","1.5.17","app-i18n",1633153817,["Compliance mode enabled, was '1.5.17'"]],
-["uim","1.8.8","1.9.0","app-i18n",1530303859,["Compliance mode enabled, was '1.9.0'"]],
+["uim","1.8.8","1.9.1","app-i18n",1530303859,["Compliance mode enabled, was '1.9.1'"]],
 ["ibus-m17n","1.4.7","1.4.36","app-i18n",1633153814,["Compliance mode enabled, was '1.4.36'"]],
 ["fcitx5-configtool","5.1.8","5.1.9","app-i18n",1737781666,["Compliance mode enabled, was '5.1.9'"]],
 ["ibus-uniemoji","0.6.0","0.7.0","app-i18n",1479402122,["Compliance mode enabled, was '0.7.0'"]],
