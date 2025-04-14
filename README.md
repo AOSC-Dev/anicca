@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744607684?label=Updated)
+![Relative date](https://img.shields.io/date/1744611489?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -511,7 +511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
 |file-roller|3.42.0|44.5|desktop-gnome|Compliance mode enabled, was '44.5'|
 |filelight|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|filelight-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.39|app-utils|Compliance mode enabled, was '3.39'|
@@ -1230,7 +1229,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap|2.73|2.76|runtime-common|Compliance mode enabled, was '2.76'|
 |libcap+32|2.73|2.76|runtime-optenv32|Compliance mode enabled, was '2.76'|
 |libcarddav|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|libcava|0.10.3|0.10.4|runtime-multimedia|Compliance mode enabled, was '0.10.4'|
 |libcdio|2.1.0|2.2.0|runtime-devices|Compliance mode enabled, was '2.2.0'|
 |libcdio+32|2.1.0|2.2.0|runtime-optenv32|Compliance mode enabled, was '2.2.0'|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)|
@@ -1452,7 +1450,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtpms|0.9.6|0.10.0|runtime-devices|Compliance mode enabled, was '0.10.0'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.8.0.0|runtime-ham|Compliance mode enabled, was '4.8.0.0'|
-|libunistring|0.9.10|1.3|runtime-common|Compliance mode enabled, was '1.3'|
 |libupnp|1.14.16|1.14.20|runtime-network|Compliance mode enabled, was '1.14.20'|
 |liburcu|0.14.0|0.15.1|runtime-common|Compliance mode enabled, was '0.15.1'|
 |liburing|2.6|2.9|runtime-common|Compliance mode enabled, was '2.9'|
