@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744625650?label=Updated)
+![Relative date](https://img.shields.io/date/1744629034?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -302,7 +302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.3|lang-python|Compliance mode enabled, was '3.13.3'|
-|configshell-fb|1.1.30|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
+|configshell-fb|1.1.30|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |conky|1.22.0|1.22.1|app-utils|Compliance mode enabled, was '1.22.1'|
 |conmon|2.1.12|2.1.13|app-admin|Compliance mode enabled, was '2.1.13'|
@@ -1896,6 +1896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250327|app-doc|Compliance mode enabled, was '20250327'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
+|peazip|10.3.0|10.4.0|app-utils|Compliance mode enabled, was '10.4.0'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
