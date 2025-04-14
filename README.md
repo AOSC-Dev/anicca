@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744650672?label=Updated)
+![Relative date](https://img.shields.io/date/1744654605?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -52,8 +52,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
-|alsa-ucm-conf|1.2.12|1.2.13|runtime-multimedia|Compliance mode enabled, was '1.2.13'|
+|alsa-lib|1.2.13|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
+|alsa-lib+32|1.2.13|1.2.14|runtime-optenv32|Compliance mode enabled, was '1.2.14'|
+|alsa-ucm-conf|1.2.12|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
 |alsa-ucm-conf-asahi|6|8|runtime-multimedia|Compliance mode enabled, was '8'|
+|alsa-utils|1.2.13|1.2.14|app-multimedia|Compliance mode enabled, was '1.2.14'|
 |amarok-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
 |an-anime-game-launcher|3.13.0|3.13.1|app-games|Compliance mode enabled, was '3.13.1'|
@@ -1727,7 +1730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |newt|0.52.23|0.52.25|runtime-common|Compliance mode enabled, was '0.52.25'|
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
-|nftables|1.0.9|1.1.1|app-network|Compliance mode enabled, was '1.1.1'|
+|nftables|1.0.9|1.1.2|app-network|Compliance mode enabled, was '1.1.2'|
 |nghttp2|1.58.0|1.65.0|runtime-web|Compliance mode enabled, was '1.65.0'|
 |nghttp3|1.3.0|1.8.0|runtime-web|Compliance mode enabled, was '1.8.0'|
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
@@ -1789,7 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.73.0|lang-python|Compliance mode enabled, was '1.73.0'|
+|openai-python|1.63.2|1.74.0|lang-python|Compliance mode enabled, was '1.74.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |openblas|0.3.28|0.3.29|app-scientific|Compliance mode enabled, was '0.3.29'|
@@ -2900,7 +2903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfconf|4.20.0|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
 |xfe|1.46.1|2.0.1|app-utils|Compliance mode enabled, was '2.0.1'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
-|xfsprogs|6.12.0|6.14.0|app-admin|Compliance mode enabled, was '6.14.0'|
+|xfsprogs|6.13.0|6.14.0|app-admin|Compliance mode enabled, was '6.14.0'|
 |xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xiccd|0.3.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
