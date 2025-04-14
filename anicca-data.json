@@ -1327,7 +1327,7 @@
 ["pyenchant","2.0.0","3.2.2","lang-python",1530553512,["Compliance mode enabled, was '3.2.2'"]],
 ["ujson","1.35","1.36","lang-python",1477781007,["Compliance mode enabled, was '1.36'"]],
 ["cock","0.6.0","0.11.0","lang-python",1607768363,["Compliance mode enabled, was '0.11.0'"]],
-["zeroconf","0.28.6","0.146.3","lang-python",1605077701,["Compliance mode enabled, was '0.146.3'"]],
+["zeroconf","0.28.6","0.146.4","lang-python",1605077701,["Compliance mode enabled, was '0.146.4'"]],
 ["python-tabulate","0.8.3","0.9.0","lang-python",1551501524,["Compliance mode enabled, was '0.9.0'"]],
 ["calver","2022.06.26","2025.4.2","lang-python",1708256695,["Compliance mode enabled, was '2025.4.2'"]],
 ["pycairo","1.18.2","1.27.0","lang-python",1573873782,["Compliance mode enabled, was '1.27.0'"]],
