@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744744258?label=Updated)
+![Relative date](https://img.shields.io/date/1744747952?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1813,6 +1813,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.25-ga|11.0.18|lang-java|Possible downgrade from the current version (11.0.25-ga -> 11.0.18)|
 |openjdk-17|17.0.14-ga|17.0.2|lang-java|Possible downgrade from the current version (17.0.14-ga -> 17.0.2)|
+|openjdk-24|24-ga|24.0.1-ga|lang-java||
 |openjdk-8|8u442-ga|8u462-b00|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.18|lang-java|Compliance mode enabled, was '11.0.18'<br>Possible downgrade from the current version (11.0.20+1 -> 11.0.18)|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
@@ -2788,6 +2789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala|0.56.17|0.56.18|app-devel|Compliance mode enabled, was '0.56.18'|
 |vala-panel-appmenu|0.7.4|24.05|runtime-desktop|Compliance mode enabled, was '24.05'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
+|vapoursynth|70.11|71|app-multimedia|Compliance mode enabled, was '71'|
 |variety|0.7.1|0.8.13|app-utils|Compliance mode enabled, was '0.8.13'|
 |varnish|7.5.0|7.7.0|app-network|Compliance mode enabled, was '7.7.0'|
 |vasm|1.9f|2.0.a|app-devel|Compliance mode enabled, was '2.0.a'|
