@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744729901?label=Updated)
+![Relative date](https://img.shields.io/date/1744733520?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -437,7 +437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duktape|2.5.0|2.7.0|lang-js|Compliance mode enabled, was '2.7.0'|
 |dulwich|0.21.6|0.22.8|runtime-vcs|Compliance mode enabled, was '0.22.8'|
-|dune|3.4.1|3.18.0|lang-ocaml|Compliance mode enabled, was '3.18.0'|
+|dune|3.4.1|3.18.1|lang-ocaml|Compliance mode enabled, was '3.18.1'|
 |duplicity|3.0.1|3.0.4.1|app-utils|Compliance mode enabled, was '3.0.4.1'|
 |easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
 |edencommon|2025.03.24.00|2025.04.14.00|runtime-common|Compliance mode enabled, was '2025.04.14.00'|
@@ -852,7 +852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |jellyfish|1.1.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|jenkins|2.468|2.505|app-admin|Compliance mode enabled, was '2.505'|
+|jenkins|2.468|2.506|app-admin|Compliance mode enabled, was '2.506'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.6|lang-python|Compliance mode enabled, was '3.1.6'|
 |jiter|0.8.2|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
@@ -2672,6 +2672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
+|thunderbird|137.0.1|137.0.2|app-web|Compliance mode enabled, was '137.0.2'|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
@@ -2804,7 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virt-manager|4.1.0|5.0.0|app-virtualization|Compliance mode enabled, was '5.0.0'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
-|virtualbox|7.1.6a|7.1.6|app-virtualization|Compliance mode enabled, was '7.1.6'|
+|virtualbox|7.1.6a|7.1.8|app-virtualization|Compliance mode enabled, was '7.1.8'|
 |virtualenv|20.27.1|20.30.0|lang-python|Compliance mode enabled, was '20.30.0'|
 |vkd3d+32|1.9|1.15|runtime-optenv32|Compliance mode enabled, was '1.15'|
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
