@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744737044?label=Updated)
+![Relative date](https://img.shields.io/date/1744740893?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -156,7 +156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beaker|1.11.0|1.13.0|lang-python|Compliance mode enabled, was '1.13.0'|
 |beancount|2.2.1|3.1.0|app-productivity|Compliance mode enabled, was '3.1.0'|
 |bear|3.1.4|3.1.6|app-devel|Compliance mode enabled, was '3.1.6'|
-|beautifulsoup4|4.10.0|4.13.3|lang-python|Compliance mode enabled, was '4.13.3'|
+|beautifulsoup4|4.10.0|4.13.4|lang-python|Compliance mode enabled, was '4.13.4'|
 |benchmark|1.8.2|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |bind|9.20.4|9.20.7|app-network|Compliance mode enabled, was '9.20.7'|
@@ -698,7 +698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grantleetheme|23.08.5|24.12.3|desktop-kde|Compliance mode enabled, was '24.12.3'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
 |graphicsmagick|1.3.43|1.3.45|app-utils|Compliance mode enabled, was '1.3.45'|
-|greenlet|1.1.2|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
+|greenlet|1.1.2|3.2.0|lang-python|Compliance mode enabled, was '3.2.0'|
 |greybird|3.23.3|3.23.4|desktop-themes|Compliance mode enabled, was '3.23.4'|
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
