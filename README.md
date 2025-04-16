@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744805932?label=Updated)
+![Relative date](https://img.shields.io/date/1744809838?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -159,7 +159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.13.4|lang-python|Compliance mode enabled, was '4.13.4'|
 |benchmark|1.8.2|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
 |bibletime-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
-|bind|9.20.4|9.20.7|app-network|Compliance mode enabled, was '9.20.7'|
+|bind|9.20.4|9.20.8|app-network|Compliance mode enabled, was '9.20.8'|
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
 |binutils+32|2.43.1|2.44|runtime-optenv32|Compliance mode enabled, was '2.44'|
 |binutils+w64|2.43.1|2.44|runtime-optenvw64|Compliance mode enabled, was '2.44'|
@@ -1513,7 +1513,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.76|1.4.79|app-network|Compliance mode enabled, was '1.4.79'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.21|6.12.23|core-devel|Compliance mode enabled, was '6.12.23'|
 |linux+api+32|6.12.7|6.12.23|runtime-optenv32|Compliance mode enabled, was '6.12.23'|
 |linux+kernel|6.14.1|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.1 -> 5.19.17)|
 |linux+kernel+asahi|6.12.12|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.12 -> 5.19.17)|
@@ -1736,9 +1735,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |nftables|1.0.9|1.1.2|app-network|Compliance mode enabled, was '1.1.2'|
 |nghttp2|1.58.0|1.65.0|runtime-web|Compliance mode enabled, was '1.65.0'|
-|nghttp3|1.3.0|1.8.0|runtime-web|Compliance mode enabled, was '1.8.0'|
+|nghttp3|1.3.0|1.9.0|runtime-web|Compliance mode enabled, was '1.9.0'|
+|nginx|1.27.4|1.27.5|app-web|Compliance mode enabled, was '1.27.5'|
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
-|ngtcp2|1.5.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
+|ngtcp2|1.5.0|1.12.0|runtime-web|Compliance mode enabled, was '1.12.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
 |nlohmann-json|3.11.3|3.12.0|runtime-common|Compliance mode enabled, was '3.12.0'|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
