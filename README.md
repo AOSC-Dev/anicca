@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744791352?label=Updated)
+![Relative date](https://img.shields.io/date/1744794887?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -101,7 +101,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.15|lang-dotnet|Compliance mode enabled, was '8.0.15'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.36.2|0.37.0|app-devel|Compliance mode enabled, was '0.37.0'|
 |astroid|2.12.2|4.0.0~a0|lang-python|Compliance mode enabled, was '4.0.0a0'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |astyle|3.6.6|3.6.8|app-devel|Compliance mode enabled, was '3.6.8'|
@@ -560,6 +559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.3.0|4.0.1|app-multimedia|Compliance mode enabled, was '4.0.1'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
+|frp|0.61.2|0.62.0|app-network|Compliance mode enabled, was '0.62.0'|
 |fscan|2.0.0|2.0.1|app-utils|Compliance mode enabled, was '2.0.1'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-3|3.16.2|3.17.1|app-admin|Compliance mode enabled, was '3.17.1'|
@@ -760,7 +760,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.12|3.6.12.275|app-games|Compliance mode enabled, was '3.6.12.275'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.25.2|app-doc|Compliance mode enabled, was '3.25.2'|
@@ -2926,7 +2925,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xrdp|0.10.2|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xreader|4.2.2|4.2.5|app-doc|Compliance mode enabled, was '4.2.5'|
 |xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
-|xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
 |xsimd|10.0.0|13.2.0|runtime-common|Compliance mode enabled, was '13.2.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
 |xterm|390|398|app-utils|Compliance mode enabled, was '398'|
