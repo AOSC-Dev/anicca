@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744764274?label=Updated)
+![Relative date](https://img.shields.io/date/1744770446?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -385,7 +385,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.36.0|app-utils|Compliance mode enabled, was '2.36.0'|
-|discord|0.0.90|0.0.91|app-web|Compliance mode enabled, was '0.0.91'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -594,7 +593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.3|desktop-gnome|Compliance mode enabled, was '0.14.3'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|gh|2.69.0|2.70.0|app-devel|Compliance mode enabled, was '2.70.0'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghidra|11.2.1_build|11.3.2_build|app-devel||
@@ -690,7 +688,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.167.0|lang-python|Compliance mode enabled, was '2.167.0'|
 |google-auth|1.6.3|2.39.0|lang-python|Compliance mode enabled, was '2.39.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|135.0.7049.84|135.0.7049.95|app-web|Compliance mode enabled, was '135.0.7049.95'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperf|3.2|3.2.1|app-utils|Compliance mode enabled, was '3.2.1'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
@@ -1731,6 +1728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkx|2.8.5|3.4.2|lang-python|Compliance mode enabled, was '3.4.2'|
 |newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |newt|0.52.23|0.52.25|runtime-common|Compliance mode enabled, was '0.52.25'|
+|nexttrace|1.3.7|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |nftables|1.0.9|1.1.2|app-network|Compliance mode enabled, was '1.1.2'|
 |nghttp2|1.58.0|1.65.0|runtime-web|Compliance mode enabled, was '1.65.0'|
@@ -1903,7 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.272|app-games|Compliance mode enabled, was '2.3.272'|
+|pcsx2|1.6.0<br>+git20210825|2.3.274|app-games|Compliance mode enabled, was '2.3.274'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250327|app-doc|Compliance mode enabled, was '20250327'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
