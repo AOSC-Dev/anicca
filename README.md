@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744784261?label=Updated)
+![Relative date](https://img.shields.io/date/1744787650?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1629,6 +1629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdadm|4.2|4.3|app-admin|Compliance mode enabled, was '4.3'|
 |mdbook|0.4.40|0.4.48|app-doc|Compliance mode enabled, was '0.4.48'|
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
+|mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |mediainfo|24.12|25.03|app-multimedia|Compliance mode enabled, was '25.03'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
@@ -1993,6 +1994,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-socket-inet6|2.72|2.73|lang-perl|Compliance mode enabled, was '2.73'|
 |perl-io-socket-ssl|2.062|2.089|lang-perl|Compliance mode enabled, was '2.089'|
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
+|perl-io-tty|1.13<br>+01|1.20|lang-perl|Compliance mode enabled, was '1.20'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl|Compliance mode enabled, was '20231003.0'|
 |perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
@@ -2317,6 +2319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qutebrowser|3.5.0<br>+pdfjs5.1.91|3.5.0|app-web|Compliance mode enabled, was '3.5.0'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
+|r|4.4.3|4.5.0|app-scientific|Compliance mode enabled, was '4.5.0'|
 |radare2|5.9.4|5.9.8|app-devel|Compliance mode enabled, was '5.9.8'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
