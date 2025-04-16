@@ -1719,6 +1719,7 @@
 ["ipmitool","1.8.18","1.8.19","app-utils",1488653406,["Compliance mode enabled, was '1_8_19'"]],
 ["aide","0.16.2","0.19","app-utils",1600710259,["Compliance mode enabled, was '0.19'"]],
 ["dieharder","3.31.1","3.31.1_20110601-1","app-utils",1488654975,["Compliance mode enabled, was '3.31.1_20110601-1'"]],
+["fastfetch","2.40.4","2.41.0","app-utils",1744220509,["Compliance mode enabled, was '2.41.0'"]],
 ["convmv","2.05","2.06","app-utils",1522638153,["Compliance mode enabled, was '2.06'"]],
 ["xiccd","0.3.0","0.4.1","app-utils",1603857800,["Compliance mode enabled, was '0.4.1'"]],
 ["imagemagick+7","7.1.1+32","7.1.1+47","app-utils",1716621038,["Compliance mode enabled, was '7.1.1-47'"]],
