@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744801854?label=Updated)
+![Relative date](https://img.shields.io/date/1744805932?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -826,6 +826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-compute-runtime|25.09.32961.5|25.09.32961.7|runtime-scientific|Compliance mode enabled, was '25.09.32961.7'|
 |intel-gmmlib|22.7.0|22.7.1|runtime-devices|Compliance mode enabled, was '22.7.1'|
+|intel-graphics-compiler|2.8.3|2.10.8|app-devel|Compliance mode enabled, was '2.10.8'|
 |intel-media-driver|24.4.4|25.2.0|runtime-multimedia|Compliance mode enabled, was '25.2.0'|
 |intel-oneapi-basekit|2025.0.1|2025.1.0|app-devel|Compliance mode enabled, was '2025.1.0'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
@@ -1531,7 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5142|runtime-creativity|Compliance mode enabled, was '5142'|
+|llama.cpp|4879|5143|runtime-creativity|Compliance mode enabled, was '5143'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.3|runtime-optenv32|Compliance mode enabled, was '20.1.3'|
@@ -1906,7 +1907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
 |pcsx2|1.6.0<br>+git20210825|2.3.274|app-games|Compliance mode enabled, was '2.3.274'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
-|pdfminer|20240706|20250327|app-doc|Compliance mode enabled, was '20250327'|
+|pdfminer|20240706|20250416|app-doc|Compliance mode enabled, was '20250416'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peazip|10.3.0|10.4.0|app-utils|Compliance mode enabled, was '10.4.0'|
 |peewee|3.17.1|3.17.9|lang-python|Compliance mode enabled, was '3.17.9'|
