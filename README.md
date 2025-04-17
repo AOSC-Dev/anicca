@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1744881164?label=Updated)
+![Relative date](https://img.shields.io/date/1744884768?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2320,7 +2320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.4|app-multimedia|Compliance mode enabled, was '1.5.4'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
-|qtxdg-tools|3.12.0|4.1.0|desktop-lxqt|Compliance mode enabled, was '4.1.0'|
+|qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |qutebrowser|3.5.0<br>+pdfjs5.1.91|3.5.0|app-web|Compliance mode enabled, was '3.5.0'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
