@@ -869,6 +869,7 @@
 ["udns","0.5","0.6","app-network",1721195636,["Compliance mode enabled, was '0.6'"]],
 ["frp","0.61.2","0.62.0","app-network",1741771038,["Compliance mode enabled, was '0.62.0'"]],
 ["openvswitch","3.0.3","3.5.0","app-network",1577974572,["Compliance mode enabled, was '3.5.0'"]],
+["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
 ["varnish","7.5.0","7.7.0","app-network",1718805904,["Compliance mode enabled, was '7.7.0'"]],
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
