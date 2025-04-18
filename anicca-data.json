@@ -64,7 +64,7 @@
 ["qpdf","11.9.0","12.1.0","app-doc",1712074122,["Compliance mode enabled, was '12.1.0'"]],
 ["doxygen","1.11.0","1.13.2","app-doc",1720957491,["Compliance mode enabled, was '1_13_2'"]],
 ["mupdf","1.24.10","1.25.6","app-doc",1728997610,["Compliance mode enabled, was '1.25.6'"]],
-["calibre","8.1.1","8.2.100","app-doc",1744012436,["Compliance mode enabled, was '8.2.100'"]],
+["calibre","8.1.1","8.3.0","app-doc",1744012436,["Compliance mode enabled, was '8.3.0'"]],
 ["gutenprint","5.3.4","5.3.5","app-doc",1620461776,["Compliance mode enabled, was '5.3.5'"]],
 ["sphinxcontrib-websupport","1.2.4","2.0.0","app-doc",1620461778,["Compliance mode enabled, was '2.0.0'"]],
 ["m2r","0.2.1","0.3.1","app-doc",1609312655,["Compliance mode enabled, was '0.3.1'"]],
