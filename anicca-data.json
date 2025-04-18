@@ -338,7 +338,7 @@
 ["libwpg","0.3.3","0.3.4","runtime-productivity",1549304004,["Compliance mode enabled, was '0.3.4'"]],
 ["kubectl","1.32.2","1.32.3","app-containers",1744297687,["Compliance mode enabled, was '1.32.3'"]],
 ["helm","3.17.1","3.17.3","app-containers",1744297687,["Compliance mode enabled, was '3.17.3'"]],
-["docker","28.0.4","28.1.0","app-containers",1744451678,[]],
+["docker","28.0.4","28.1.1","app-containers",1744451678,[]],
 ["containerd","2.0.2","2.0.5","app-containers",1744297686,["Compliance mode enabled, was '2.0.5'"]],
 ["docker-buildx","0.22.0","0.23.0","app-containers",1744451678,["Compliance mode enabled, was '0.23.0'"]],
 ["buildah","1.39.2","1.39.4","app-containers",1742010843,["Compliance mode enabled, was '1.39.4'"]],
