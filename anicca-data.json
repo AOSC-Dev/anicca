@@ -973,7 +973,7 @@
 ["pynput","1.7.6","1.8.1","lang-python",1658966837,["Compliance mode enabled, was '1.8.1'"]],
 ["markdown","3.3.4","3.8","lang-python",1619939089,["Compliance mode enabled, was '3.8'"]],
 ["fuse-python","0.3.1","1.0.9","lang-python",1530718722,["Compliance mode enabled, was '1.0.9'"]],
-["hypothesis-python","6.97.4","6.131.5","lang-python",1706859511,["Compliance mode enabled, was '6.131.5'"]],
+["hypothesis-python","6.97.4","6.131.6","lang-python",1706859511,["Compliance mode enabled, was '6.131.6'"]],
 ["pysocks","1.6.8","1.7.1","lang-python",1530294048,["Compliance mode enabled, was '1.7.1'"]],
 ["coloredlogs","10.0","15.0.1","lang-python",1658966837,["Compliance mode enabled, was '15.0.1'"]],
 ["python-cssselect","1.0.3","1.3.0","lang-python",1530292643,["Compliance mode enabled, was '1.3.0'"]],
