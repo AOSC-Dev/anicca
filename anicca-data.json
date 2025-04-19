@@ -2649,7 +2649,7 @@
 ["glib-networking","2.72.2","2.80.1","runtime-common",1663210244,["Compliance mode enabled, was '2.80.1'"]],
 ["libmspack","0.10.1alpha","0.11.0","runtime-common",1616134410,["Compliance mode enabled, was '0.11.0'"]],
 ["sord","0.16.4","0.16.18","runtime-common",1577431822,["Compliance mode enabled, was '0.16.18'"]],
-["cpp-utilities","5.20.0","5.28.0","runtime-common",1678601022,["Compliance mode enabled, was '5.28.0'"]],
+["cpp-utilities","5.20.0","5.28.1","runtime-common",1678601022,["Compliance mode enabled, was '5.28.1'"]],
 ["libbinio","1.5","1.4","runtime-common",1741749311,["Compliance mode enabled, was '1.4'","Possible downgrade from the current version (1.5 -> 1.4)"]],
 ["xsimd","10.0.0","13.2.0","runtime-common",1678601022,["Compliance mode enabled, was '13.2.0'"]],
 ["libconfig","1.7.2","1.7.3","runtime-common",1531411177,["Compliance mode enabled, was '1.7.3'"]],
