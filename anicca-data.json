@@ -678,7 +678,7 @@
 ["mediainfo","24.12","25.03","app-multimedia",1735011968,["Compliance mode enabled, was '25.03'"]],
 ["alsa-utils","1.2.13","1.2.14","app-multimedia",1736563704,["Compliance mode enabled, was '1.2.14'"]],
 ["streamlink","6.7.4","7.2.0","app-multimedia",1718473109,["Compliance mode enabled, was '7.2.0'"]],
-["sunshine","2025.122.141614","2025.414.181259","app-multimedia",1730185056,["Compliance mode enabled, was '2025.414.181259'"]],
+["sunshine","2025.122.141614","2025.419.214817","app-multimedia",1730185056,["Compliance mode enabled, was '2025.419.214817'"]],
 ["zxtune","5053","5090","app-multimedia",1700797896,["Compliance mode enabled, was '5090'"]],
 ["cdemu-daemon","3.2.4","3.2.7","app-multimedia",1582652906,["Compliance mode enabled, was '3.2.7'"]],
 ["smpeg","0.4.5","2.0.0","app-multimedia",1678950872,["Compliance mode enabled, was '2_0_0'"]],
