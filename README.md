@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745039560?label=Updated)
+![Relative date](https://img.shields.io/date/1745043369?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -662,7 +662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
 |gnome-session|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|gnome-settings-daemon|42.2|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|gnome-settings-daemon|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-shell|42.4|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-shell-extension-gsconnect|53|62|desktop-gnome|Compliance mode enabled, was '62'|
 |gnome-shell-extensions|42.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
@@ -938,6 +938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kddockwidgets|1.3.1|2.2.3|runtime-desktop|Compliance mode enabled, was '2.2.3'|
 |kde-cli-tools|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |kde-dev-scripts|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|kde-dev-utils|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kde-gtk-config|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |kde-inotify-survey|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kdebugsettings|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
