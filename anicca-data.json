@@ -803,7 +803,7 @@
 ["libffado","2.4.4","2.4.9","runtime-multimedia",1600321916,["Compliance mode enabled, was '2.4.9'"]],
 ["libaacs","0.11.0","0.11.1","runtime-multimedia",1627113315,["Compliance mode enabled, was '0.11.1'"]],
 ["gsm","1.0.19","1.0.22","runtime-multimedia",1600577920,["Compliance mode enabled, was '1.0.22'"]],
-["mycli","1.23.2","1.29.2","app-database",1620461770,["Compliance mode enabled, was '1.29.2'"]],
+["mycli","1.23.2","1.30.0","app-database",1620461770,["Compliance mode enabled, was '1.30.0'"]],
 ["postgresql","13.19","17.4","app-database",1739763862,["Compliance mode enabled, was '17.4'"]],
 ["tinycdb","0.78","0.81","app-database",1678950872,["Compliance mode enabled, was '0.81'"]],
 ["redis","7.4.0","8.0-m04-int","app-database",1722327345,["Compliance mode enabled, was '8.0-m04-int'"]],
