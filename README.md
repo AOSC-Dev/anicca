@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745155256?label=Updated)
+![Relative date](https://img.shields.io/date/1745158312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -523,6 +523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
+|fish|4.0.1|4.0.2|app-shells|Compliance mode enabled, was '4.0.2'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |fizz|2025.03.24.00|2025.04.14.00|app-network|Compliance mode enabled, was '2025.04.14.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
@@ -1410,6 +1411,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libreoffice|25.2.2.2|25.2.3.1|groups|Compliance mode enabled, was '25.2.3.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
+|librsvg|2.59.2|2.60.0|runtime-imaging|Compliance mode enabled, was '2.60.0'|
 |librsvg+32|2.59.2|2.60.0|runtime-optenv32|Compliance mode enabled, was '2.60.0'|
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
@@ -1897,7 +1899,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partitionmanager|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |passt|2024_10_30.ee7d0b6|2025_04_15.2340bbf|app-network||
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
-|patch-ng|1.17.4|1.18.1|lang-python|Compliance mode enabled, was '1.18.1'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|4.0.0|app-utils|Compliance mode enabled, was '4.0.0'|
