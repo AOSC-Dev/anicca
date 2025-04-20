@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745104337?label=Updated)
+![Relative date](https://img.shields.io/date/1745110056?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -335,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250413.0|app-devel|Compliance mode enabled, was '6.1.20250413.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250413.0)|
+|ctags|20191203|6.1.20250420.0|app-devel|Compliance mode enabled, was '6.1.20250420.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250420.0)|
 |cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -391,7 +391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |django|5.0.3|5.2|lang-python|Compliance mode enabled, was '5.2'|
 |dkms|3.1.1|3.1.8|app-admin|Compliance mode enabled, was '3.1.8'|
-|dlib|19.20.0|19.24.6|lang-python|Compliance mode enabled, was '19.24.6'|
+|dlib|19.20.0|19.24.8|lang-python|Compliance mode enabled, was '19.24.8'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscrypt|2.1.7|2.1.8|app-network|Compliance mode enabled, was '2.1.8'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
@@ -1768,7 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
 |numix-icon-theme-circle|24.10.22|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
-|numpy|1.26.4|2.2.4|lang-python|Compliance mode enabled, was '2.2.4'|
+|numpy|1.26.4|2.2.5|lang-python|Compliance mode enabled, was '2.2.5'|
 |nut|2.7.4|2.8.2.2628|app-admin|Compliance mode enabled, was '2.8.2.2628'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
 |nvidia|570.133.07|575.51.02|runtime-display|Compliance mode enabled, was '575.51.02'|
@@ -2797,7 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.29.3|5.30.0|app-network|Compliance mode enabled, was '5.30.0'|
-|v2ray-rules-dat|202501302211|202504182212|runtime-data|Compliance mode enabled, was '202504182212'<br>Versions not comparable: `202501302211` and `202504182212`|
+|v2ray-rules-dat|202501302211|202504192212|runtime-data|Compliance mode enabled, was '202504192212'<br>Versions not comparable: `202501302211` and `202504192212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
 |v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
