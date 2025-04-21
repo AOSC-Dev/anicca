@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745266358?label=Updated)
+![Relative date](https://img.shields.io/date/1745269895?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -401,6 +401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker-buildx|0.22.0|0.23.0|app-containers|Compliance mode enabled, was '0.23.0'|
 |docker-compose|2.35.0|2.35.1|app-containers|Compliance mode enabled, was '2.35.1'|
 |dolphin|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|dolphin-emu|2503|2503a|app-games|Compliance mode enabled, was '2503a'<br>Possible downgrade from the current version (2503 -> 2503a)|
 |dolphin-plugins|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |dolphin-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
@@ -1520,7 +1521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5164|runtime-creativity|Compliance mode enabled, was '5164'|
+|llama.cpp|4879|5165|runtime-creativity|Compliance mode enabled, was '5165'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.3|runtime-optenv32|Compliance mode enabled, was '20.1.3'|
