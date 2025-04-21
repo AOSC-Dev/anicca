@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745209010?label=Updated)
+![Relative date](https://img.shields.io/date/1745212371?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1812,13 +1812,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.5.0|runtime-imaging|Compliance mode enabled, was '3.0.5.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.25-ga|11.0.28+0|lang-java||
-|openjdk-17|17.0.14-ga|17.0.15+6|lang-java||
-|openjdk-21|21.0.6-ga|21.0.7+6|lang-java||
+|openjdk-11|11.0.27-ga|11.0.28+0|lang-java||
+|openjdk-17|17.0.15-ga|17.0.15+6|lang-java||
+|openjdk-21|21.0.7-ga|21.0.7+6|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
-|openjdk-24|24-ga|24.0.1+9|lang-java||
-|openjdk-8|8u442-ga|8u462-b00|lang-java||
+|openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
+|openjdk-8|8u452-ga|8u462-b00|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.28+0|lang-java|Compliance mode enabled, was '11.0.28+0'|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
