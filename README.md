@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745212371?label=Updated)
+![Relative date](https://img.shields.io/date/1745216181?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -479,7 +479,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |extra-cmake-modules|5.115.0|6.13.0|app-devel|Compliance mode enabled, was '6.13.0'|
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.8~a1|lang-python|Compliance mode enabled, was '0.9.8a1'|
-|eza|0.21.0|0.21.1|app-utils|Compliance mode enabled, was '0.21.1'|
 |f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
 |faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
 |faac+32|1.29.9.2|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
@@ -521,7 +520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
 |firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
-|fish|4.0.1|4.0.2|app-shells|Compliance mode enabled, was '4.0.2'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |fizz|2025.03.24.00|2025.04.14.00|app-network|Compliance mode enabled, was '2025.04.14.00'|
 |flac|1.4.3|1.5.0|app-multimedia|Compliance mode enabled, was '1.5.0'|
@@ -690,7 +688,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.39.0|lang-python|Compliance mode enabled, was '2.39.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
-|gperf|3.2|3.3|app-utils|Compliance mode enabled, was '3.3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |granatier|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -1853,8 +1850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|8.2.0|lang-python|Compliance mode enabled, was '8.2.0'|
-|osu-lazer|2025.418.1|2025.420.0|app-games|Compliance mode enabled, was '2025.420.0'|
-|ouch|0.5.1|0.6.0|app-utils|Compliance mode enabled, was '0.6.0'|
+|ouch|0.5.1|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |owntone|28.9|28.12|app-multimedia|Compliance mode enabled, was '28.12'|
 |oxygen|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |oxygen-icons|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
