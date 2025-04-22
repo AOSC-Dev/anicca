@@ -2503,6 +2503,7 @@
 ["git-cinnabar","0.6.3","0.7.2","app-vcs",1721832254,["Compliance mode enabled, was '0.7.2'"]],
 ["tortoisehg","6.6.3","6.9","app-vcs",1716735995,["Compliance mode enabled, was '6.9'"]],
 ["git-cliff","2.7.0","2.8.0","app-vcs",1735347831,["Compliance mode enabled, was '2.8.0'"]],
+["gtkwave","3.3.121","3.3.122","app-electronics",1731071287,["Compliance mode enabled, was '3.3.122'"]],
 ["apicula","0.14","0.18","app-electronics",1728142856,["Compliance mode enabled, was '0.18'"]],
 ["yosys","0.45","0.52","app-electronics",1728142856,["Compliance mode enabled, was '0.52'"]],
 ["verilator","5.026","5.034","app-electronics",1721488325,["Compliance mode enabled, was '5.034'"]],
