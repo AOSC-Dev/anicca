@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745338431?label=Updated)
+![Relative date](https://img.shields.io/date/1745341926?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1654,7 +1654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mokutil|0.6.0|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |mono|6.12.0.206|6.14.0|lang-dotnet|Compliance mode enabled, was '6.14.0'|
 |monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
-|more-itertools|4.3.0|10.6.0|lang-python|Compliance mode enabled, was '10.6.0'|
+|more-itertools|4.3.0|10.7.0|lang-python|Compliance mode enabled, was '10.7.0'|
 |mouseemu|0.16|0.16.orig|app-utils|Compliance mode enabled, was '0.16.orig'<br>Possible downgrade from the current version (0.16 -> 0.16.orig)|
 |mousepad|0.6.3|0.6.5|desktop-xfce|Compliance mode enabled, was '0.6.5'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
@@ -2284,7 +2284,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
 |qdiskinfo|0.3|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.3 -> 0.1)|
-|qemu|9.2.2|9.2.3|app-virtualization|Compliance mode enabled, was '9.2.3'|
+|qemu|9.2.2|10.0.0|app-virtualization|Compliance mode enabled, was '10.0.0'|
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
 |qhull|7.2.0|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'|
 |qjackctl|1.0.1|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
