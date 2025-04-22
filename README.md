@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745277102?label=Updated)
+![Relative date](https://img.shields.io/date/1745282679?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -64,7 +64,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|ansible|2.12.1|2.18.4|app-admin|Compliance mode enabled, was '2.18.4'|
+|ansible|2.12.1|2.18.5|app-admin|Compliance mode enabled, was '2.18.5'|
 |anyio|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |aom|3.11.0|3.12.1|runtime-multimedia|Compliance mode enabled, was '3.12.1'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
@@ -2343,7 +2343,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
 |reportlab|3.5.50|4.4.0|lang-python|Compliance mode enabled, was '4.4.0'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
-|rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
 |retext|7.2.2|8.1.0|app-editors|Compliance mode enabled, was '8.1.0'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
