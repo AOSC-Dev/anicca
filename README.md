@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745349014?label=Updated)
+![Relative date](https://img.shields.io/date/1745352855?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -348,7 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.10|3.0.12|lang-python|Compliance mode enabled, was '3.0.12'|
 |cython-0.29|0.29.36|3.0.12|lang-python|Compliance mode enabled, was '3.0.12'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|damo|2.4.7|2.7.6|app-admin|Compliance mode enabled, was '2.7.6'|
+|damo|2.4.7|2.7.7|app-admin|Compliance mode enabled, was '2.7.7'|
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.7.17|app-utils|Compliance mode enabled, was '2.7.17'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
@@ -2200,7 +2200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygobject-3|3.48.2|3.52.3|lang-python|Compliance mode enabled, was '3.52.3'|
 |pygraphviz|1.5|1.14|lang-python|Compliance mode enabled, was '1.14'|
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|pyicu|2.13.1|2.15.1|lang-python|Compliance mode enabled, was '2.15.1'|
+|pyicu|2.13.1|2.15.2|lang-python|Compliance mode enabled, was '2.15.2'|
 |pyiso8601|0.1.13|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pylast|3.0.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
 |pylev|1.3.0|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
@@ -2801,7 +2801,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14|app-utils|Compliance mode enabled, was '0.14'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1198|9.1.1330|app-editors|Compliance mode enabled, was '9.1.1330'|
+|vim|9.1.1198|9.1.1336|app-editors|Compliance mode enabled, was '9.1.1336'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
 |virtualenv|20.27.1|20.30.0|lang-python|Compliance mode enabled, was '20.30.0'|
@@ -2816,7 +2816,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpl-gpu-rt|25.2.0|25.2.1|runtime-multimedia|Compliance mode enabled, was '25.2.1'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.99.22418|1.99.32562|app-editors|Compliance mode enabled, was '1.99.32562'|
+|vscodium|1.99.22418|1.99.32704|app-editors|Compliance mode enabled, was '1.99.32704'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.1|runtime-desktop|Compliance mode enabled, was '0.80.1'|
 |vtk|9.3.0|9.4.2|app-scientific|Compliance mode enabled, was '9.4.2'|
