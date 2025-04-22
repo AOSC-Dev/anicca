@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745320269?label=Updated)
+![Relative date](https://img.shields.io/date/1745324349?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -63,6 +63,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |analitza|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.18.5|app-admin|Compliance mode enabled, was '2.18.5'|
 |anyio|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |aom|3.11.0|3.12.1|runtime-multimedia|Compliance mode enabled, was '3.12.1'|
@@ -1723,7 +1724,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |newt|0.52.23|0.52.25|runtime-common|Compliance mode enabled, was '0.52.25'|
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
-|nftables|1.0.9|1.1.2|app-network|Compliance mode enabled, was '1.1.2'|
+|nftables|1.0.9|1.1.3|app-network|Compliance mode enabled, was '1.1.3'|
 |nghttp2|1.58.0|1.65.0|runtime-web|Compliance mode enabled, was '1.65.0'|
 |nghttp3|1.3.0|1.9.0|runtime-web|Compliance mode enabled, was '1.9.0'|
 |nginx|1.27.4|1.27.5|app-web|Compliance mode enabled, was '1.27.5'|
@@ -2659,6 +2660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |termcolor|2.5.0|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
+|testresources|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |tevent|0.16.1|0.16.2|runtime-common|Compliance mode enabled, was '0.16.2'|
 |texlive|20250308|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20250308 -> 2025)|
 |texmaker|5.1.2|6.0.0|app-doc|Compliance mode enabled, was '6.0.0'|
