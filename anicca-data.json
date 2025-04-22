@@ -1658,7 +1658,7 @@
 ["scour","0.37","0.38.2","app-utils",1530843556,["Compliance mode enabled, was '0.38.2'"]],
 ["xarchiver","0.5.4.15","0.5.4.25","app-utils",1600708589,["Compliance mode enabled, was '0.5.4.25'"]],
 ["plzip","1.11","1.12","app-utils",1710565374,["Compliance mode enabled, was '1.12'"]],
-["fzf","0.60.0","0.61.2","app-utils",1744297688,["Compliance mode enabled, was '0.61.2'"]],
+["fzf","0.60.0","0.61.3","app-utils",1744297688,["Compliance mode enabled, was '0.61.3'"]],
 ["deskflow","1.19.0","1.21.2","app-utils",1738772575,["Compliance mode enabled, was '1.21.2'"]],
 ["ttyd","1.6.3","1.7.7","app-utils",1537076216,["Compliance mode enabled, was '1.7.7'"]],
 ["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
