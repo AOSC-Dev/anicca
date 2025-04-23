@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745403176?label=Updated)
+![Relative date](https://img.shields.io/date/1745406665?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -291,9 +291,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|336.2|app-admin|Compliance mode enabled, was '336.2'|
-|cockpit-machines|284.1|329|app-admin|Compliance mode enabled, was '329'|
-|cockpit-podman|63|103|app-admin|Compliance mode enabled, was '103'|
+|cockpit|286.1|337|app-admin|Compliance mode enabled, was '337'|
+|cockpit-machines|284.1|330|app-admin|Compliance mode enabled, was '330'|
+|cockpit-podman|63|104|app-admin|Compliance mode enabled, was '104'|
 |code-server|4.93.1|4.99.3|app-utils|Compliance mode enabled, was '4.99.3'|
 |codeine-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
@@ -305,7 +305,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configparser|3.7.3|3.13.3|lang-python|Compliance mode enabled, was '3.13.3'|
-|configshell-fb|1.1.30|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |conky|1.22.0|1.22.1|app-utils|Compliance mode enabled, was '1.22.1'|
 |conmon|2.1.12|2.1.13|app-admin|Compliance mode enabled, was '2.1.13'|
