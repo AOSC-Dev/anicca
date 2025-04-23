@@ -2026,7 +2026,7 @@
 ["websockets","12.0","1.4.4","lang-python",1714209798,["Compliance mode enabled, was '1.4.4'","Possible downgrade from the current version (12.0 -> 1.4.4)"]],
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,["Compliance mode enabled, was '6.0.11'"]],
 ["setuptools-python2","44.1.0","79.0.0","lang-python",1678950872,["Compliance mode enabled, was '79.0.0'"]],
-["m2crypto","0.38.0","0.45.0","lang-python",1629690194,["Compliance mode enabled, was '0.45.0'"]],
+["m2crypto","0.38.0","0.45.1","lang-python",1629690194,["Compliance mode enabled, was '0.45.1'"]],
 ["python-ldap3","2.9","2.9.1","lang-python",1618998184,["Compliance mode enabled, was '2.9.1'"]],
 ["dateutil","2.8.2","2.9.0.post0","lang-python",1531879946,["Compliance mode enabled, was '2.9.0.post0'"]],
 ["pyx","0.14.1","0.16","lang-python",1451875709,["Compliance mode enabled, was '0.16'"]],
