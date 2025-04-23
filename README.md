@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745428300?label=Updated)
+![Relative date](https://img.shields.io/date/1745432140?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -699,7 +699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |gringo|5.7.1|5.8.0|app-devel|Compliance mode enabled, was '5.8.0'|
-|grpc|1.64.0|1.71.0|app-network|Compliance mode enabled, was '1.71.0'|
+|grpc|1.64.0|1.72.0|app-network|Compliance mode enabled, was '1.72.0'|
 |grub-btrfs|4.13|4.10.2|app-utils|Compliance mode enabled, was '4.10.2'<br>Possible downgrade from the current version (4.13 -> 4.10.2)|
 |gsasl|1.10.0|2.2.2|runtime-admin|Compliance mode enabled, was '2.2.2'|
 |gsettings-desktop-schemas|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1784,7 +1784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.75.0|lang-python|Compliance mode enabled, was '1.75.0'|
+|openai-python|1.63.2|1.76.0|lang-python|Compliance mode enabled, was '1.76.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.0|runtime-imaging|Compliance mode enabled, was '7.9.0'|
@@ -1990,6 +1990,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
+|perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-json-xs|4.0<br>+00|4.03|lang-perl|Compliance mode enabled, was '4.03'|
 |perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
 |perl-lwp-mediatypes|6.02|6.04|lang-perl|Compliance mode enabled, was '6.04'|
@@ -2817,8 +2818,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.3.283.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
 |vulkan-loader|1.3.283.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
 |vulkan-loader+32|1.3.283.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
-|vulkan-tools|1.3.283.0|1.4.312|app-utils|Compliance mode enabled, was '1.4.312'|
-|vulkan-tools+32|1.3.283.0|1.4.312|runtime-optenv32|Compliance mode enabled, was '1.4.312'|
+|vulkan-tools|1.3.283.0|1.4.313|app-utils|Compliance mode enabled, was '1.4.313'|
+|vulkan-tools+32|1.3.283.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
 |vulkan-utility-libraries|1.3.283.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
 |vulkan-validationlayers|1.3.283.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
@@ -2933,7 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.180.4|0.182.11|app-editors|Compliance mode enabled, was '0.182.11'|
+|zed|0.180.4|0.183.10|app-editors|Compliance mode enabled, was '0.183.10'|
 |zeroconf|0.28.6|0.146.5|lang-python|Compliance mode enabled, was '0.146.5'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
