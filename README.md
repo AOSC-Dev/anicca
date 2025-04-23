@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745375136?label=Updated)
+![Relative date](https://img.shields.io/date/1745379195?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1163,7 +1163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |ktuberling|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kturtle|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|kubectl|1.32.2|1.32.3|app-containers|Compliance mode enabled, was '1.32.3'|
+|kubectl|1.32.2|1.32.4|app-containers|Compliance mode enabled, was '1.32.4'|
 |kubo|0.33.2|0.34.1|app-network|Compliance mode enabled, was '0.34.1'|
 |kubrick|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kunitconversion|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
@@ -1423,6 +1423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspelling|0.4.6|0.4.8|desktop-gnome|Compliance mode enabled, was '0.4.8'|
 |libspiro|0.5.20150702|20240903|runtime-creativity|Compliance mode enabled, was '20240903'|
 |libspnav|0.2.3|1.2|runtime-devices|Compliance mode enabled, was '1.2'|
+|libssh|0.8.9|0.11.1|runtime-network|Compliance mode enabled, was '0.11.1'|
 |libssh+32|0.8.9|0.11.1|runtime-optenv32|Compliance mode enabled, was '0.11.1'|
 |libssh2|1.9.0|1.11.1|runtime-network|Compliance mode enabled, was '1.11.1'|
 |libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
@@ -1974,6 +1975,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-vfs|1.083|1.084|lang-perl|Compliance mode enabled, was '1.084'|
 |perl-gnome2-wnck|0.16|0.18|lang-perl|Compliance mode enabled, was '0.18'|
 |perl-gtk2|1.2499|1.24993|lang-perl|Compliance mode enabled, was '1.24993'|
+|perl-gtk2-unique|0.05|0.07|lang-perl|Compliance mode enabled, was '0.07'|
 |perl-html-form|6.03|6.12|lang-perl|Compliance mode enabled, was '6.12'|
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
 |perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
