@@ -2151,7 +2151,7 @@
 ["trove-classifiers","2024.1.31","2025.4.11.15","lang-python",1708256695,["Compliance mode enabled, was '2025.4.11.15'"]],
 ["tikzplotlib","0.9.8","0.10.1","lang-python",1614653546,["Compliance mode enabled, was '0.10.1'"]],
 ["pycups","1.9.74","2.0.4","lang-python",1549919969,["Compliance mode enabled, was '2.0.4'"]],
-["pygit2","1.14.1","1.17.0","lang-python",1713876035,["Compliance mode enabled, was '1.17.0'"]],
+["pygit2","1.14.1","1.18.0","lang-python",1713876035,["Compliance mode enabled, was '1.18.0'"]],
 ["pyscard","1.9.9","2.2.2","lang-python",1581796622,["Compliance mode enabled, was '2.2.2'"]],
 ["mechanize","0.4.5","0.4.10","lang-python",1581796621,["Compliance mode enabled, was '0.4.10'"]],
 ["rfc3986","1.4.0","2.0.0","lang-python",1595301997,["Compliance mode enabled, was '2.0.0'"]],
