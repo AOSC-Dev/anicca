@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745514664?label=Updated)
+![Relative date](https://img.shields.io/date/1745518471?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -686,7 +686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |godot|4.3|4.4.1|app-devel|Compliance mode enabled, was '4.4.1'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.167.0|lang-python|Compliance mode enabled, was '2.167.0'|
+|google-api-python-client|1.7.11|2.168.0|lang-python|Compliance mode enabled, was '2.168.0'|
 |google-auth|1.6.3|2.39.0|lang-python|Compliance mode enabled, was '2.39.0'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
@@ -2446,6 +2446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shaderc|2023.7|2025.2|app-devel|Compliance mode enabled, was '2025.2'|
 |shadow|4.17.2|4.17.4|app-admin|Compliance mode enabled, was '4.17.4'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
+|shotcut|25.03.29|25.04.24|app-creativity|Compliance mode enabled, was '25.04.24'|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
