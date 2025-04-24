@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745485954?label=Updated)
+![Relative date](https://img.shields.io/date/1745489697?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1519,7 +1519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5174|runtime-creativity|Compliance mode enabled, was '5174'|
+|llama.cpp|4879|5176|runtime-creativity|Compliance mode enabled, was '5176'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.3|runtime-optenv32|Compliance mode enabled, was '20.1.3'|
@@ -1602,6 +1602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdownpart|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |marshmallow|3.20.2|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |mat2|0.13.0|0.13.5|app-utils|Compliance mode enabled, was '0.13.5'|
+|mate-panel|1.28.4|1.28.5|desktop-mate|Compliance mode enabled, was '1.28.5'|
 |materialx|1.38.8|1.39.3|runtime-creativity|Compliance mode enabled, was '1.39.3'|
 |mathemagics-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
@@ -1740,7 +1741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |noto-fonts|24.8.1|20201206-phase3|desktop-fonts||
 |novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
-|nsd|4.7.0|4.11.1.rel|app-network|Compliance mode enabled, was '4_11_1_REL'|
+|nsd|4.7.0|4.12.0.rel|app-network|Compliance mode enabled, was '4_12_0_REL'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
@@ -1769,7 +1770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-re|1.11.0|1.13.3|lang-ocaml|Compliance mode enabled, was '1.13.3'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.16.1|lang-ocaml|Compliance mode enabled, was '0.16.1'|
-|ocrmypdf|16.5.0|16.10.0|app-doc|Compliance mode enabled, was '16.10.0'|
+|ocrmypdf|16.5.0|16.10.1|app-doc|Compliance mode enabled, was '16.10.1'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
 |octave|9.2.0|10.1.0|app-scientific|Compliance mode enabled, was '10.1.0'|
 |ofono|1.30|2.16|app-network|Compliance mode enabled, was '2.16'|
@@ -2747,11 +2748,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uml-utilities|20070815.4|20070815.4.orig|app-utils|Compliance mode enabled, was '20070815.4.orig'<br>Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
 |unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
-|unbound|1.19.2|1.22.0|app-network||
+|unbound|1.19.2|1.23.0|app-network||
 |uncrustify|0.78.1|0.80.1|app-devel|Compliance mode enabled, was '0.80.1'|
 |unibilium|2.1.1|2.1.2|runtime-common|Compliance mode enabled, was '2.1.2'|
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
-|unidecode|1.0.23|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
+|unidecode|1.0.23|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
