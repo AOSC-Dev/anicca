@@ -647,7 +647,6 @@
 ["perl-io-tee","0.65","0.66","lang-perl",1590975699,["Compliance mode enabled, was '0.66'"]],
 ["perl-module-pluggable","5.2","6.3","lang-perl",1457398434,["Compliance mode enabled, was '6.3'"]],
 ["perl-cairo","1.106","1.109","lang-perl",1457374744,["Compliance mode enabled, was '1.109'"]],
-["perl-term-readkey","2.37","2.38","lang-perl",1530196414,["Compliance mode enabled, was '2.38'"]],
 ["perl-list-moreutils","0.428","0.430","lang-perl",1530196414,["Compliance mode enabled, was '0.430'"]],
 ["perl-www-mechanize","1.91","2.19","lang-perl",1551145817,["Compliance mode enabled, was '2.19'"]],
 ["perl-email-simple","2.216","2.218","lang-perl",1530196415,["Compliance mode enabled, was '2.218'"]],
