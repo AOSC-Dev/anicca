@@ -569,6 +569,7 @@
 ["arc-kde","20180614","20220908","desktop-themes",1530724053,["Compliance mode enabled, was '20220908'"]],
 ["numix-icon-theme","24.09.18","25.01.31","desktop-themes",1731123056,["Compliance mode enabled, was '25.01.31'"]],
 ["greybird","3.23.3","3.23.4","desktop-themes",1721832063,["Compliance mode enabled, was '3.23.4'"]],
+["adw-gtk3","5.10","6.0","desktop-themes",1745016737,["Compliance mode enabled, was '6.0'"]],
 ["pango","1.56.1","1.56.3","runtime-desktop",1739425064,["Compliance mode enabled, was '1.56.3'"]],
 ["ayatana-indicator-messages","0.8.2","24.5.1","runtime-desktop",1619939107,["Compliance mode enabled, was '24.5.1'"]],
 ["libayatana-appindicator","0.5.93","0.5.94","runtime-desktop",1725115550,["Compliance mode enabled, was '0.5.94'"]],
@@ -2482,7 +2483,6 @@
 ["lsof","4.99.3","4.99.4","app-utils",1730861140,["Compliance mode enabled, was '4.99.4'"]],
 ["acl","2.3.1","2.3.2","app-utils",1641882995,["Compliance mode enabled, was '2.3.2'"]],
 ["file","5.45","5.46","app-utils",1715027422,["Compliance mode enabled, was '5.46'"]],
-["ncdu","1.16","2.8","app-utils",1640146620,["Compliance mode enabled, was '2.8'"]],
 ["ncompress","4.2.4.6","5.0","app-utils",1600708565,["Compliance mode enabled, was '5.0'"]],
 ["zxing-cpp","2.2.1","2.3.0","app-utils",1724127185,["Compliance mode enabled, was '2.3.0'"]],
 ["liblouis","3.12.0","3.33.0","runtime-a11y",1577438505,["Compliance mode enabled, was '3.33.0'"]],
@@ -2957,6 +2957,7 @@
 ["tauri-cli","2.4.1","2.5.0","lang-rust",1743673161,["Compliance mode enabled, was '2.5.0'"]],
 ["cargo-c","0.10.2","0.10.12+cargo-0.87.0","lang-rust",1720034717,["Compliance mode enabled, was '0.10.12+cargo-0.87.0'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
+["rust-bindgen","0.69.4","0.71.1","lang-rust",1721277711,["Compliance mode enabled, was '0.71.1'"]],
 ["cargo-audit","0.21.0","0.21.2","lang-rust",1731247327,["Compliance mode enabled, was '0.21.2'"]],
 ["cargo-release","0.25.10","0.25.18","lang-rust",1720105719,["Compliance mode enabled, was '0.25.18'"]]
 ]
