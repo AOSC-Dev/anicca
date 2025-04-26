@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745683924?label=Updated)
+![Relative date](https://img.shields.io/date/1745687376?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -636,7 +636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmic|3.2.6|3.5.3|runtime-imaging|Compliance mode enabled, was '3.5.3'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
-|gnome-applets|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
+|gnome-applets|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
@@ -663,7 +663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-nibbles|3.38.2|4.2.2|desktop-gnome|Compliance mode enabled, was '4.2.2'|
 |gnome-online-accounts|3.44.0|3.54.2|desktop-gnome|Compliance mode enabled, was '3.54.2'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|gnome-panel|3.44.0|3.54.0|desktop-gnome|Compliance mode enabled, was '3.54.0'|
+|gnome-panel|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |gnome-session|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-settings-daemon|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-shell|42.4|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
@@ -1858,7 +1858,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |oxygen-icons|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |oxygen-sounds|5.25.3|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
-|p-vector|0.10.0|0.9.2|app-admin|Compliance mode enabled, was '0.9.2'<br>Possible downgrade from the current version (0.10.0 -> 0.9.2)|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
 |packagekit|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
@@ -2078,7 +2077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |pidgin|2.14.13|2.14.14|app-web|Compliance mode enabled, was '2.14.14'|
-|pikepdf|8.15.1|9.7.0|app-doc|Compliance mode enabled, was '9.7.0'|
 |piklab-trinity|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |pillow|10.4.0|11.2.1|lang-python|Compliance mode enabled, was '11.2.1'|
 |pim-data-exporter|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -2400,7 +2398,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
 |rustc+32|1.85.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
-|rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|0.44.2|desktop-gnome|Compliance mode enabled, was '0.44.2'|
 |rz-ghidra|0.7.0|0.8.0|app-devel|Compliance mode enabled, was '0.8.0'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
@@ -2538,7 +2535,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.46.1|3.49.1|app-database|Compliance mode enabled, was '3.49.1'|
 |sqlite+32|3.46.1|3.49.1|runtime-optenv32|Compliance mode enabled, was '3.49.1'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
-|sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.9.4|app-penetration|Compliance mode enabled, was '1.9.4'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
