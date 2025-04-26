@@ -2545,7 +2545,7 @@
 ["ffmpegthumbnailer","2.2.2","2.2.3","app-multimedia",1573506354,["Compliance mode enabled, was '2.2.3'"]],
 ["calf","0.90.3","0.90.6","app-multimedia",1729943652,["Compliance mode enabled, was '0.90.6'"]],
 ["mjpegtools","2.1.0","2.2.1","app-multimedia",1678950872,["Compliance mode enabled, was '2.2.1'"]],
-["streamlink","6.7.4","7.2.0","app-multimedia",1718473109,["Compliance mode enabled, was '7.2.0'"]],
+["streamlink","6.7.4","7.3.0","app-multimedia",1718473109,["Compliance mode enabled, was '7.3.0'"]],
 ["sunshine","2025.122.141614","2025.426.10137","app-multimedia",1730185056,["Compliance mode enabled, was '2025.426.10137'"]],
 ["qtractor","0.9.23","1.5.4","app-multimedia",1630350073,["Compliance mode enabled, was '1.5.4'"]],
 ["yesplaymusic","0.4.8+2","0.2.1","app-multimedia",1719324646,["Compliance mode enabled, was '0.2.1'","Possible downgrade from the current version (0.4.8+2 -> 0.2.1)"]],
