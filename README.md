@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745658683?label=Updated)
+![Relative date](https://img.shields.io/date/1745662265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -547,6 +547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.15.0|2.16.2|runtime-optenv32|Compliance mode enabled, was '2.16.2'|
 |fonttools|4.53.1|4.57.0|desktop-fonts|Compliance mode enabled, was '4.57.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
+|foot|1.22.0|1.22.1|app-utils|Compliance mode enabled, was '1.22.1'|
 |forgejo|10.0.1|11.0.0|app-web|Compliance mode enabled, was '11.0.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
@@ -1117,7 +1118,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpkpass|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kplotting|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kpmcore|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|kpty|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kpublictransport|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kqtquickcharts|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kquickcharts|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
@@ -1683,6 +1683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
 |mupdf|1.24.10|1.25.6|app-doc|Compliance mode enabled, was '1.25.6'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
+|mutter|42.4|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |mvfst|2025.03.24.00|2025.04.21.00|runtime-network|Compliance mode enabled, was '2025.04.21.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.31.1|app-database|Compliance mode enabled, was '1.31.1'|
