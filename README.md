@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745651467?label=Updated)
+![Relative date](https://img.shields.io/date/1745655216?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -615,7 +615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
-|gitoxide|0.42.0|0.43.0|app-vcs|Compliance mode enabled, was '0.43.0'|
+|gitoxide|0.42.0|0.44.0|app-vcs|Compliance mode enabled, was '0.44.0'|
 |gitpython|3.1.35|3.1.44|runtime-vcs|Compliance mode enabled, was '3.1.44'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.74.0|1.84.2|desktop-gnome|Compliance mode enabled, was '1.84.2'|
@@ -626,7 +626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib+32|2.83.3|2.84.1|runtime-optenv32|Compliance mode enabled, was '2.84.1'|
 |glib-networking|2.72.2|2.80.1|runtime-common|Compliance mode enabled, was '2.80.1'|
 |glibc|2.40|2.41|core-libs|Compliance mode enabled, was '2.41'|
-|glibc+32|2.40|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |glibmm|2.66.2|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glibmm-2.68|2.78.0|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
@@ -1696,6 +1695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
+|ncdu|1.16|2.8|app-utils|Compliance mode enabled, was '2.8'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20250419|runtime-common|Compliance mode enabled, was '6.5-20250419'|
 |ncurses+32|6.4|6.5+20250419|runtime-optenv32|Compliance mode enabled, was '6.5-20250419'|
@@ -2540,7 +2540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlmap|1.8.8|1.9.4|app-penetration|Compliance mode enabled, was '1.9.4'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
-|squashfuse|0.1.105|0.6.0|app-admin|Compliance mode enabled, was '0.6.0'|
+|squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
 |squid|5.7|7.0.1|app-web|Compliance mode enabled, was '7.0.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
