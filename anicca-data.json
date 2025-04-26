@@ -292,6 +292,7 @@
 ["uthash","2.1.0","2.3.0","runtime-common",1603951135,["Compliance mode enabled, was '2.3.0'"]],
 ["rustc-demangle","0.1.21","0.1.24","runtime-common",1631400099,["Compliance mode enabled, was '0.1.24'"]],
 ["libconfig","1.7.2","1.7.3","runtime-common",1531411177,["Compliance mode enabled, was '1.7.3'"]],
+["boost","1.83.0","1.88.0","runtime-common",1721353887,["Compliance mode enabled, was '1.88.0'"]],
 ["libmspack","0.10.1alpha","0.11.0","runtime-common",1616134410,["Compliance mode enabled, was '0.11.0'"]],
 ["libsigsegv","2.12","2.14","runtime-common",1523464139,["Compliance mode enabled, was '2.14'"]],
 ["abseil-cpp","20240722.0","20250127.1","runtime-common",1737436557,["Compliance mode enabled, was '20250127.1'"]],
@@ -2620,6 +2621,7 @@
 ["libqtxdg","3.12.0","4.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '4.2.0'"]],
 ["lxqt-menu-data","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lximage-qt","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
+["lxqt-notificationd","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-archiver","0.9.1","1.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '1.2.0'"]],
 ["lxqt-admin","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-config","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
@@ -2955,7 +2957,6 @@
 ["tauri-cli","2.4.1","2.5.0","lang-rust",1743673161,["Compliance mode enabled, was '2.5.0'"]],
 ["cargo-c","0.10.2","0.10.12+cargo-0.87.0","lang-rust",1720034717,["Compliance mode enabled, was '0.10.12+cargo-0.87.0'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
-["rust-bindgen","0.69.4","0.71.1","lang-rust",1721277711,["Compliance mode enabled, was '0.71.1'"]],
 ["cargo-audit","0.21.0","0.21.2","lang-rust",1731247327,["Compliance mode enabled, was '0.21.2'"]],
 ["cargo-release","0.25.10","0.25.18","lang-rust",1720105719,["Compliance mode enabled, was '0.25.18'"]]
 ]
