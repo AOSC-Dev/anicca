@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745777613?label=Updated)
+![Relative date](https://img.shields.io/date/1745780765?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -766,7 +766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |highlight|4.12|4.15|app-devel|Compliance mode enabled, was '4.15'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.12|3.6.12.276|app-games|Compliance mode enabled, was '3.6.12.276'|
+|hmcl|3.6.12|3.6.12.278|app-games|Compliance mode enabled, was '3.6.12.278'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |hplip|3.22.4|3.25.2|app-doc|Compliance mode enabled, was '3.25.2'|
@@ -2452,8 +2452,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|79.0.1|lang-python|Compliance mode enabled, was '79.0.1'|
-|setuptools-python3|75.8.0|79.0.1|lang-python|Compliance mode enabled, was '79.0.1'|
+|setuptools-python2|44.1.0|80.0.0|lang-python|Compliance mode enabled, was '80.0.0'|
+|setuptools-python3|75.8.0|80.0.0|lang-python|Compliance mode enabled, was '80.0.0'|
 |setuptools-rust|1.9.0|1.11.1|lang-python|Compliance mode enabled, was '1.11.1'|
 |setuptools-scm|8.1.0|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |sfml|2.5.1|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
@@ -2594,7 +2594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
 |swig|4.3.0|4.3.1|app-devel|Compliance mode enabled, was '4.3.1'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
-|sympy|1.12|1.13.3|lang-python|Compliance mode enabled, was '1.13.3'|
+|sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |syndication|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
