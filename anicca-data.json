@@ -170,6 +170,7 @@
 ["passt","2024_10_30.ee7d0b6","2025_04_15.2340bbf","app-network",1731759292,[]],
 ["ser2net","3.5","4.6.4","app-network",1528905473,["Compliance mode enabled, was '4.6.4'"]],
 ["grpc","1.64.0","1.72.0","app-network",1737436557,["Compliance mode enabled, was '1.72.0'"]],
+["sing-box","1.11.8","1.11.9","app-network",1745171748,["Compliance mode enabled, was '1.11.9'"]],
 ["miniupnpd","2.3.5","2.3.9","app-network",1710565425,["Compliance mode enabled, was '2.3.9'"]],
 ["cifs-utils","7.0","7.3","app-network",1723367638,["Compliance mode enabled, was '7.3'"]],
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
