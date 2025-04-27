@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745741608?label=Updated)
+![Relative date](https://img.shields.io/date/1745745158?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -166,6 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bird|2.15.1|3.1.0|app-network|Compliance mode enabled, was '3.1.0'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
 |blender|4.0.2|4.4.1|app-creativity|Compliance mode enabled, was '4.4.1'|
+|blinken|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |bluedevil|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
 |bluez|5.79|5.82|app-devices|Compliance mode enabled, was '5.82'|
@@ -2040,7 +2041,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-path-tiny|0.108|0.148|lang-perl|Compliance mode enabled, was '0.148'|
 |perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
 |perl-proc-processtable|0.56|0.636|lang-perl|Compliance mode enabled, was '0.636'|
-|perl-regexp-common|2017060201|2024080801|lang-perl|Compliance mode enabled, was '2024080801'|
 |perl-role-tiny|2.001004|2.002004|lang-perl|Compliance mode enabled, was '2.002004'|
 |perl-specio|0.46|0.50|lang-perl|Compliance mode enabled, was '0.50'|
 |perl-string-util|1.31|1.35|lang-perl|Compliance mode enabled, was '1.35'|
@@ -2135,7 +2135,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polkit-tqt|14.1.2|14.1.3|desktop-trinity|Compliance mode enabled, was '14.1.3'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
-|polymake|3.3|4.13|app-scientific|Compliance mode enabled, was '4.13'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
