@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745856911?label=Updated)
+![Relative date](https://img.shields.io/date/1745860335?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2751,7 +2751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-tools|2024.10|2025.04|app-utils|Compliance mode enabled, was '2025.04'|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|runtime-data|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
-|ucx|1.15.0|1.18.0|runtime-scientific|Compliance mode enabled, was '1.18.0'|
+|ucx|1.15.0|1.18.1|runtime-scientific|Compliance mode enabled, was '1.18.1'|
 |udiskie|2.5.3|2.5.7|app-utils|Compliance mode enabled, was '2.5.7'|
 |udns|0.5|0.6|app-network|Compliance mode enabled, was '0.6'|
 |ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|

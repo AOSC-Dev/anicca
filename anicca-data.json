@@ -2652,7 +2652,7 @@
 ["libqalculate","4.5.1","5.5.2","runtime-scientific",1721223235,["Compliance mode enabled, was '5.5.2'"]],
 ["fann","20190109","2.2.0","runtime-scientific",1570905465,["Compliance mode enabled, was '2.2.0'","Possible downgrade from the current version (20190109 -> 2.2.0)"]],
 ["avogadrolibs","1.95.1","1.100.0","runtime-scientific",1630574838,["Compliance mode enabled, was '1.100.0'"]],
-["ucx","1.15.0","1.18.0","runtime-scientific",1710080139,["Compliance mode enabled, was '1.18.0'"]],
+["ucx","1.15.0","1.18.1","runtime-scientific",1710080139,["Compliance mode enabled, was '1.18.1'"]],
 ["libnova","0.15.0","0.16","runtime-scientific",1706625158,["Compliance mode enabled, was '0.16'"]],
 ["flint","2.5.2","3.2.1","runtime-scientific",1456091383,["Compliance mode enabled, was '3.2.1'"]],
 ["cddlib","0.94j","0.94m","runtime-scientific",1531513132,["Compliance mode enabled, was '0.94m'"]],
