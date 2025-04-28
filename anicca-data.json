@@ -249,6 +249,7 @@
 ["confuse","3.2.2","3.3","runtime-common",1535215578,["Compliance mode enabled, was '3.3'"]],
 ["etl","1.2.2","1.5.3","runtime-common",1555643076,["Compliance mode enabled, was '1.5.3'"]],
 ["xerces-c","3.2.3","3.3.0","runtime-common",1721223235,["Compliance mode enabled, was '3.3.0'"]],
+["unibilium","2.1.1","2.1.2","runtime-common",1708762981,["Compliance mode enabled, was '2.1.2'"]],
 ["rinutils","0.4.1","0.10.3","runtime-common",1678950872,["Compliance mode enabled, was '0.10.3'"]],
 ["xsimd","10.0.0","13.2.0","runtime-common",1678601022,["Compliance mode enabled, was '13.2.0'"]],
 ["level-zero","1.21.9","1.22.0","runtime-common",1745171665,["Compliance mode enabled, was '1.22.0'"]],
