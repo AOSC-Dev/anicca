@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745871235?label=Updated)
+![Relative date](https://img.shields.io/date/1745874660?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1531,7 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5205|runtime-creativity|Compliance mode enabled, was '5205'|
+|llama.cpp|4879|5211|runtime-creativity|Compliance mode enabled, was '5211'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.3|runtime-optenv32|Compliance mode enabled, was '20.1.3'|
@@ -2287,7 +2287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyyaml|6.0.1|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
 |pyzmq|22.3.0|26.4.0|lang-python|Compliance mode enabled, was '26.4.0'|
-|q4wine|1.3.13|1.4.1|app-emulation|Compliance mode enabled, was '1.4.1'|
+|q4wine|1.3.13|1.4.2|app-emulation|Compliance mode enabled, was '1.4.2'|
 |qalculate-tde-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qca|2.3.4|2.3.9|runtime-cryptography|Compliance mode enabled, was '2.3.9'|
 |qcoro|0.10.0|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
@@ -2925,7 +2925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xray|25.3.6|25.3.31|app-network|Compliance mode enabled, was '25.3.31'|
 |xrdp|0.10.2|0.10.3|app-network|Compliance mode enabled, was '0.10.3'|
 |xreader|4.2.2|4.2.5|app-doc|Compliance mode enabled, was '4.2.5'|
-|xscreensaver|6.08|6.09|app-utils|Compliance mode enabled, was '6.09'|
+|xscreensaver|6.08|6.10.1|app-utils|Compliance mode enabled, was '6.10.1'|
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
 |xsimd|10.0.0|13.2.0|runtime-common|Compliance mode enabled, was '13.2.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
