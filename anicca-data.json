@@ -1923,7 +1923,7 @@
 ["yarl","1.9.4","1.20.0","lang-python",1718719163,["Compliance mode enabled, was '1.20.0'"]],
 ["pyside6","6.8.2.1","6.9.0","lang-python",1740134451,["Compliance mode enabled, was '6.9.0'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
-["cachecontrol","0.14.0","0.14.2","lang-python",1724687573,["Compliance mode enabled, was '0.14.2'"]],
+["cachecontrol","0.14.0","0.14.3","lang-python",1724687573,["Compliance mode enabled, was '0.14.3'"]],
 ["attrs","23.2.0","25.3.0","lang-python",1718936001,["Compliance mode enabled, was '25.3.0'"]],
 ["stopit","0+git20190827","1.1.2","lang-python",1614351126,["Compliance mode enabled, was '1.1.2'"]],
 ["pyutil","3.3.0","3.3.6","lang-python",1663072304,["Compliance mode enabled, was '3.3.6'"]],
