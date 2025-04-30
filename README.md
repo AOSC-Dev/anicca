@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746040251?label=Updated)
+![Relative date](https://img.shields.io/date/1746044001?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1395,8 +1395,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpinyin|2.6.0|2.10.1|runtime-i18n|Compliance mode enabled, was '2.10.1'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.349.0|runtime-multimedia|Compliance mode enabled, was '7.349.0'|
-|libpng|1.6.44|1.6.47|runtime-imaging|Compliance mode enabled, was '1.6.47'|
-|libpng+32|1.6.44|1.6.47|runtime-optenv32|Compliance mode enabled, was '1.6.47'|
+|libpng|1.6.44|1.6.48|runtime-imaging|Compliance mode enabled, was '1.6.48'|
+|libpng+32|1.6.44|1.6.48|runtime-optenv32|Compliance mode enabled, was '1.6.48'|
 |libportal|0.9.0|0.9.1|runtime-desktop|Compliance mode enabled, was '0.9.1'|
 |libppd|2.0.0|2.1.1|runtime-doc|Compliance mode enabled, was '2.1.1'|
 |libpqxx|6.4.5|7.10.1|runtime-database|Compliance mode enabled, was '7.10.1'|
@@ -1643,8 +1643,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |mercurial|6.9.4|7.0.1|app-vcs|Compliance mode enabled, was '7.0.1'|
 |merkuro|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|mesa-amber|21.3.9|25.0.4|runtime-display|Compliance mode enabled, was '25.0.4'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.0.4|runtime-display|Compliance mode enabled, was '25.0.4'|
+|mesa|25.0.4|25.0.5|runtime-display||
+|mesa+32|25.0.4|25.0.5|runtime-optenv32||
+|mesa-amber|21.3.9|25.0.5|runtime-display|Compliance mode enabled, was '25.0.5'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.0.5|runtime-display|Compliance mode enabled, was '25.0.5'|
 |messagelib|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
@@ -2307,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.6.5|2.2.5|app-multimedia|Compliance mode enabled, was '2.2.5'|
-|qownnotes|22.6.1|25.4.5|app-web|Compliance mode enabled, was '25.4.5'|
+|qownnotes|22.6.1|25.5.0|app-web|Compliance mode enabled, was '25.5.0'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.1.0|app-doc|Compliance mode enabled, was '12.1.0'|
 |qps|2.8.0|2.11.0|desktop-lxqt|Compliance mode enabled, was '2.11.0'|
@@ -2587,7 +2589,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.10.2|runtime-scientific|Compliance mode enabled, was '7.10.2'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.430.12938|app-multimedia|Compliance mode enabled, was '2025.430.12938'|
+|sunshine|2025.122.141614|2025.430.173338|app-multimedia|Compliance mode enabled, was '2025.430.173338'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
 |superslicer|2.7.61.0|2.7.61.2|app-creativity|Compliance mode enabled, was '2.7.61.2'|
@@ -2738,7 +2740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2024.11.0|runtime-data|Compliance mode enabled, was '2024.11.0'|
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.61.1|app-devel|Compliance mode enabled, was '0.61.1'|
+|trivy|0.55.0|0.62.0|app-devel|Compliance mode enabled, was '0.62.0'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.4.28.22|lang-python|Compliance mode enabled, was '2025.4.28.22'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
