@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746007949?label=Updated)
+![Relative date](https://img.shields.io/date/1746011529?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -775,7 +775,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |httpcore|1.0.5|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
-|httplib2|0.19.0|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |httpx|0.27.0|0.28.1|lang-python|Compliance mode enabled, was '0.28.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |humanize|0.5.1|4.12.2|lang-python|Compliance mode enabled, was '4.12.2'|
@@ -1532,7 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5223|runtime-creativity|Compliance mode enabled, was '5223'|
+|llama.cpp|4879|5228|runtime-creativity|Compliance mode enabled, was '5228'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.4|runtime-optenv32|Compliance mode enabled, was '20.1.4'|
@@ -2036,7 +2035,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-server|2.009|2.014|lang-perl|Compliance mode enabled, was '2.014'|
 |perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
-|perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
 |perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
 |perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.063|lang-perl|Compliance mode enabled, was '1.063'|
@@ -2482,7 +2480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |smartdns|35|46.1|app-network|Compliance mode enabled, was '46.1'|
-|smartmontools|7.3|7.4|app-admin|Compliance mode enabled, was '7.4'|
+|smartmontools|7.3|7.5|app-admin|Compliance mode enabled, was '7.5'|
 |smb4k-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |smmap|5.0.0|6.0.0|runtime-vcs|Compliance mode enabled, was '6.0.0'|
 |smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
@@ -2795,7 +2793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|uv|0.6.17|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|uv|0.6.17|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'|
 |v2ray-rules-dat|202501302211|202504292213|runtime-data|Compliance mode enabled, was '202504292213'<br>Versions not comparable: `202501302211` and `202504292213`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
