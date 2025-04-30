@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745984039?label=Updated)
+![Relative date](https://img.shields.io/date/1745986435?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -375,7 +375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.19.0|1.21.2|app-utils|Compliance mode enabled, was '1.21.2'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.24.5|2.25.10|app-devel|Compliance mode enabled, was '2.25.10'|
+|devscripts|2.24.5|2.25.11|app-devel|Compliance mode enabled, was '2.25.11'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.2.2|app-network|Compliance mode enabled, was '10.2.2'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -1454,6 +1454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtorrent-rasterbar|2.0.10|2.0.11|runtime-web|Compliance mode enabled, was '2.0.11'|
 |libtpms|0.9.6|0.10.0|runtime-devices|Compliance mode enabled, was '0.10.0'|
+|libtracefs|1.8.1|1.8.2|runtime-admin|Compliance mode enabled, was '1.8.2'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.8.0.0|runtime-ham|Compliance mode enabled, was '4.8.0.0'|
 |libunistring|0.9.10|1.3|runtime-common|Compliance mode enabled, was '1.3'|
