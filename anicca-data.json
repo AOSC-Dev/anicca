@@ -1682,6 +1682,7 @@
 ["akonadi-mime","23.08.5","25.04.0","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.0'"]],
 ["libkeduvocdocument","23.08.5","25.04.0","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.0'"]],
 ["akonadi-calendar-tools","23.08.5","25.04.0","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.0'"]],
+["kfloppy","23.04.3","25.04.0","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.0'"]],
 ["kitinerary","23.08.5","25.04.0","desktop-kde",1743603399,["Compliance mode enabled, was '25.04.0'"]],
 ["kio-gdrive","23.08.5","25.04.0","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.0'"]],
 ["kdepim-addons","23.08.5","25.04.0","desktop-kde",1724293055,["Compliance mode enabled, was '25.04.0'"]],
