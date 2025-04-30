@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1745986435?label=Updated)
+![Relative date](https://img.shields.io/date/1745989981?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1549,7 +1549,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
 |lskat|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |lsof|4.99.3|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
-|lsp-plugins|1.2.20|1.2.21|app-multimedia|Compliance mode enabled, was '1.2.21'|
 |ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lttng-ust|2.13.5|2.13.9|runtime-common|Compliance mode enabled, was '2.13.9'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
@@ -2091,8 +2090,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pip|22.3.1|25.1|lang-python|Compliance mode enabled, was '25.1'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|pixman|0.43.0|0.44.2|runtime-display|Compliance mode enabled, was '0.44.2'|
-|pixman+32|0.43.0|0.44.2|runtime-optenv32|Compliance mode enabled, was '0.44.2'|
+|pixman|0.43.0|0.46.0|runtime-display|Compliance mode enabled, was '0.46.0'|
+|pixman+32|0.43.0|0.46.0|runtime-optenv32|Compliance mode enabled, was '0.46.0'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
@@ -2310,7 +2309,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |qt-5|5.15.16|5.15.15-lts-lgpl|runtime-desktop|Possible downgrade from the current version (5.15.16 -> 5.15.15-lts-lgpl)|
-|qt-6|6.8.2|6.9.0|runtime-desktop|Compliance mode enabled, was '6.9.0'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qterminal|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |qtermwidget|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
