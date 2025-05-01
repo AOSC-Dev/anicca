@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746112311?label=Updated)
+![Relative date](https://img.shields.io/date/1746116020?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1711,7 +1711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
-|ncdu|1.16|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
+|ncdu|1.16|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
 |ncurses|6.4|6.5+20250426|runtime-common|Compliance mode enabled, was '6.5-20250426'|
 |ncurses+32|6.4|6.5+20250426|runtime-optenv32|Compliance mode enabled, was '6.5-20250426'|
@@ -1861,7 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
 |orage|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |orc+32|0.4.32|0.4.41|runtime-optenv32|Compliance mode enabled, was '0.4.41'|
-|orca|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|orca|42.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |osinfo-db|20240701|20250124|app-admin|Compliance mode enabled, was '20250124'|
 |osinfo-db-tools|1.10.0|1.12.0|app-admin|Compliance mode enabled, was '1.12.0'|
 |oslo-config|9.5.0|9.7.1|lang-python|Compliance mode enabled, was '9.7.1'|
