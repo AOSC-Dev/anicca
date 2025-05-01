@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746097818?label=Updated)
+![Relative date](https://img.shields.io/date/1746101919?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -549,7 +549,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.15.0|2.16.2|runtime-optenv32|Compliance mode enabled, was '2.16.2'|
 |fonttools|4.53.1|4.57.0|desktop-fonts|Compliance mode enabled, was '4.57.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
-|foot|1.22.2|1.22.3|app-utils|Compliance mode enabled, was '1.22.3'|
 |forgejo|10.0.1|11.0.0|app-web|Compliance mode enabled, was '11.0.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
@@ -755,6 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz|8.4.0|11.2.0|runtime-desktop|Compliance mode enabled, was '11.2.0'|
 |harfbuzz+32|8.4.0|11.2.0|runtime-optenv32|Compliance mode enabled, was '11.2.0'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
+|hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatchling|1.21.1|1.14.1|lang-python|Compliance mode enabled, was '1.14.1'<br>Possible downgrade from the current version (1.21.1 -> 1.14.1)|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
@@ -1099,7 +1099,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kompose-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kongress|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |konqueror|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|konquest|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |konsole|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kontact|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kontactinterface|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
