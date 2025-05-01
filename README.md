@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746094460?label=Updated)
+![Relative date](https://img.shields.io/date/1746097818?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2802,8 +2802,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uv|0.7.0|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |v2ray-rules-dat|202501302211|202504302213|runtime-data|Compliance mode enabled, was '202504302213'<br>Versions not comparable: `202501302211` and `202504302213`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
-|v4l-utils|1.22.1|1.28.1|app-multimedia|Compliance mode enabled, was '1.28.1'|
-|v4l-utils+32|1.22.1|1.28.1|runtime-optenv32|Compliance mode enabled, was '1.28.1'|
+|v4l-utils|1.22.1|1.30.0|app-multimedia|Compliance mode enabled, was '1.30.0'|
+|v4l-utils+32|1.22.1|1.30.0|runtime-optenv32|Compliance mode enabled, was '1.30.0'|
 |v4l2loopback|0.13.2|0.14.0|app-utils|Compliance mode enabled, was '0.14.0'|
 |vala|0.56.17|0.56.18|app-devel|Compliance mode enabled, was '0.56.18'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
@@ -2892,7 +2892,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapian-core|1.4.18|1.4.29|runtime-common|Compliance mode enabled, was '1.4.29'|
 |xapps|2.8.2|2.8.8|runtime-desktop|Compliance mode enabled, was '2.8.8'|
 |xarchiver|0.5.4.15|0.5.4.25|app-utils|Compliance mode enabled, was '0.5.4.25'|
-|xcaddy|0.4.1|0.4.4|app-web|Compliance mode enabled, was '0.4.4'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
 |xcffib|0.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
