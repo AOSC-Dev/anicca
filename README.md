@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746162774?label=Updated)
+![Relative date](https://img.shields.io/date/1746166657?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -168,7 +168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bitwarden|2025.3.1|2025.4.2|app-utils|Compliance mode enabled, was '2025.4.2'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
 |bleachbit|4.6.2|5.0.0|app-utils|Compliance mode enabled, was '5.0.0'|
-|blender|4.0.2|4.4.1|app-creativity|Compliance mode enabled, was '4.4.1'|
+|blender|4.0.2|4.4.3|app-creativity|Compliance mode enabled, was '4.4.3'|
 |blinken|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |bluedevil|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
 |blueprint-compiler|0.12.0|0.16.0|app-devel|Compliance mode enabled, was '0.16.0'|
