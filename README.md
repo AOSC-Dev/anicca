@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746202490?label=Updated)
+![Relative date](https://img.shields.io/date/1746205839?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1779,7 +1779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
 |nvidia|570.133.07|575.51.02|groups|Compliance mode enabled, was '575.51.02'|
-|nvidia-open|570.133.07<br>+utils570.133.07|575.51.02|runtime-display|Compliance mode enabled, was '575.51.02'|
+|nvidia-open|570.133.07<br>+utils570.133.07|575.51.03|runtime-display|Compliance mode enabled, was '575.51.03'|
 |nvme-cli|2.11|2.13|app-admin|Compliance mode enabled, was '2.13'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
@@ -2354,11 +2354,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode|3.7.14|3.7.15|app-utils|Compliance mode enabled, was '3.7.15'|
 |recode+32|3.7.14|3.7.15|runtime-optenv32|Compliance mode enabled, was '3.7.15'|
 |recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
-|redis|7.4.0|8.0-m04-int|app-database|Compliance mode enabled, was '8.0-m04-int'|
+|redis|7.4.0|8.0.0|app-database|Compliance mode enabled, was '8.0.0'|
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |remmina|1.4.39|1.4.40|app-network|Compliance mode enabled, was '1.4.40'|
+|renderdoc|1.37|1.38|app-devel|Compliance mode enabled, was '1.38'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
 |reportlab|3.5.50|4.4.0|lang-python|Compliance mode enabled, was '4.4.0'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
