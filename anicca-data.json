@@ -1386,6 +1386,7 @@
 ["nut","2.7.4","2.8.3","app-admin",1625211684,["Compliance mode enabled, was '2.8.3'"]],
 ["linyaps-web-store-installer","1.6.3","1.6.6","app-admin",1728744031,["Compliance mode enabled, was '1.6.6'"]],
 ["lvm2","2.03.14","2.03.31","app-admin",1641887332,["Compliance mode enabled, was '2.03.31'"]],
+["coreboot-utils","24.08","25.03","app-admin",1725467532,["Compliance mode enabled, was '25.03'"]],
 ["memcached","1.6.36","1.6.38","app-admin",1740020459,["Compliance mode enabled, was '1.6.38'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["apt","3.0.0","3.0.1","app-admin",1745067544,["Compliance mode enabled, was '3.0.1'"]],
