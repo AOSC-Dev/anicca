@@ -2349,6 +2349,7 @@
 ["clzip","1.14","1.15","app-utils",1720958783,["Compliance mode enabled, was '1.15'"]],
 ["util-linux","2.40.4","2.41","app-utils",1737808785,["Compliance mode enabled, was '2.41'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
+["mission-center","0.6.2","1.0.0","app-utils",1740461461,["Compliance mode enabled, was '1.0.0'"]],
 ["conky","1.22.0","1.22.1","app-utils",1741944861,["Compliance mode enabled, was '1.22.1'"]],
 ["clipit","1.4.2","1.4.5","app-utils",1678950872,["Compliance mode enabled, was '1.4.5'"]],
 ["progress","0.16","0.17","app-utils",1674452224,["Compliance mode enabled, was '0.17'"]],
