@@ -2177,7 +2177,6 @@
 ["setuptools-scm","8.1.0","8.3.1","lang-python",1732598160,["Compliance mode enabled, was '8.3.1'"]],
 ["prettytable","0.7.2","3.16.0","lang-python",1678950872,["Compliance mode enabled, was '3.16.0'"]],
 ["deprecated","1.2.14","1.2.18","lang-python",1722488599,["Compliance mode enabled, was '1.2.18'"]],
-["pygccxml","2.1.0","3.0.2","lang-python",1614161777,["Compliance mode enabled, was '3.0.2'"]],
 ["sqlparse","0.4.1","0.5.3","lang-python",1620896944,["Compliance mode enabled, was '0.5.3'"]],
 ["ipy","0.83","1.01","lang-python",1469779218,["Compliance mode enabled, was '1.01'"]],
 ["structlog","19.1.0","25.3.0","lang-python",1551206457,["Compliance mode enabled, was '25.3.0'"]],
