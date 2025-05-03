@@ -193,7 +193,7 @@
 ["libvarlink","23","24","runtime-common",1678351353,["Compliance mode enabled, was '24'"]],
 ["onig","6.9.5+rev1","6.9.10","runtime-common",1600321917,["Compliance mode enabled, was '6.9.10'"]],
 ["tbb","2021.11.0","2022.1.0","runtime-common",1716736819,["Compliance mode enabled, was '2022.1.0'"]],
-["fmt","10.2.1","11.1.4","runtime-common",1715758898,["Compliance mode enabled, was '11.1.4'"]],
+["fmt","10.2.1","11.2.0","runtime-common",1715758898,["Compliance mode enabled, was '11.2.0'"]],
 ["cppdap","1.58.0+a","1.58.0-a","runtime-common",1707464829,["Compliance mode enabled, was '1.58.0-a'"]],
 ["libdeflate","1.19","1.23","runtime-common",1704452201,["Compliance mode enabled, was '1.23'"]],
 ["glib","2.84.0","2.84.1","runtime-common",1741342310,["Compliance mode enabled, was '2.84.1'"]],
