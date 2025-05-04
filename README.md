@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746353510?label=Updated)
+![Relative date](https://img.shields.io/date/1746357022?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -22,7 +22,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acme|2.10.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |acpi|1.7|1.8|app-utils|Compliance mode enabled, was '1.8'|
 |acpica-unix|20250404|20240322|app-devel|Compliance mode enabled, was '20240322'<br>Possible downgrade from the current version (20250404 -> 20240322)|
-|ada|2.9.1|3.2.4|runtime-web|Compliance mode enabled, was '3.2.4'|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004r|desktop-fonts|Compliance mode enabled, was '2.004R'<br>Possible downgrade from the current version (2.004 -> 2.004r)|
 |adobe-source-han-serif|2.003|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'<br>Possible downgrade from the current version (2.003 -> 2.003r)|
@@ -1250,8 +1249,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.8|runtime-common|Compliance mode enabled, was '1.8'|
 |libcork|1.0.0~rc3|0.15.0|runtime-common|Compliance mode enabled, was '0.15.0'<br>Possible downgrade from the current version (1.0.0~rc3 -> 0.15.0)|
+|libcpuid|0.7.1|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libcupsfilters|2.0.0|2.1.1|runtime-doc|Compliance mode enabled, was '2.1.1'|
+|libde265|1.0.15|1.0.16|runtime-multimedia|Compliance mode enabled, was '1.0.16'|
 |libdeflate|1.19|1.23|runtime-common|Compliance mode enabled, was '1.23'|
 |libdiscid|0.6.2|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |libdispatch|5.6.1|6.1-release|runtime-common|Compliance mode enabled, was '6.1-RELEASE'|
@@ -1615,7 +1616,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib|3.8.0|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
-|matplotlib-inline|0.1.7|9.2.0|lang-python|Compliance mode enabled, was '9.2.0'|
 |maturin|1.8.1|1.8.3|lang-python|Compliance mode enabled, was '1.8.3'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
@@ -1817,14 +1817,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.6.1|runtime-imaging|Compliance mode enabled, was '3.0.6.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.27-ga|11.0.28+0|lang-java||
+|openjdk-11|11.0.27-ga|11.0.28+1|lang-java||
 |openjdk-17|17.0.15-ga|17.0.16+1|lang-java||
 |openjdk-21|21.0.7-ga|21.0.8+1|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
 |openjdk-8|8u452-ga|8u462-b01|groups||
-|openjfx-11|11.0.20<br>+1|11.0.28+0|lang-java|Compliance mode enabled, was '11.0.28+0'|
+|openjfx-11|11.0.20<br>+1|11.0.28+1|lang-java|Compliance mode enabled, was '11.0.28+1'|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
@@ -1892,7 +1892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |passim|0.1.9|0.1.10|app-network|Compliance mode enabled, was '0.1.10'|
-|passt|2024_10_30.ee7d0b6|2025_04_15.2340bbf|app-network||
+|passt|2024_10_30.ee7d0b6|2025_05_03.587980c|app-network||
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
 |patch-ng|1.17.4|1.18.1|lang-python|Compliance mode enabled, was '1.18.1'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
@@ -2719,7 +2719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toxcore|0.2.18|0.2.20|app-web|Compliance mode enabled, was '0.2.20'|
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqca|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|tqdm|4.62.3|4.67.1|lang-python|Compliance mode enabled, was '4.67.1'|
 |tqt3|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tqtinterface|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |trace-cmd|3.3|3.3.2|app-utils|Compliance mode enabled, was '3.3.2'|
