@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746313869?label=Updated)
+![Relative date](https://img.shields.io/date/1746319808?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1649,7 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|mise|2025.2.8|2025.4.12|app-devel|Compliance mode enabled, was '2025.4.12'|
+|mise|2025.2.8|2025.5.0|app-devel|Compliance mode enabled, was '2025.5.0'|
 |mission-center|0.6.2|1.0.0|app-utils|Compliance mode enabled, was '1.0.0'|
 |mitmproxy|11.0.0|12.0.0|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
@@ -1704,8 +1704,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.16|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250426|runtime-common|Compliance mode enabled, was '6.5-20250426'|
-|ncurses+32|6.4|6.5+20250426|runtime-optenv32|Compliance mode enabled, was '6.5-20250426'|
+|ncurses|6.4|6.5+20250503|runtime-common|Compliance mode enabled, was '6.5-20250503'|
+|ncurses+32|6.4|6.5+20250503|runtime-optenv32|Compliance mode enabled, was '6.5-20250503'|
 |ndctl|80|81|app-admin|Compliance mode enabled, was '81'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -1910,7 +1910,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.314|app-games|Compliance mode enabled, was '2.3.314'|
+|pcsx2|1.6.0<br>+git20210825|2.3.317|app-games|Compliance mode enabled, was '2.3.317'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250416|app-doc|Compliance mode enabled, was '20250416'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2202,7 +2202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydantic-core|2.16.1|2.34.1|lang-python|Compliance mode enabled, was '2.34.1'|
 |pydot|1.4.1|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
-|pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
