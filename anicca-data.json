@@ -789,6 +789,7 @@
 ["perl-net-dbus","1.1.0","1.2.0","lang-perl",1457405987,["Compliance mode enabled, was '1.2.0'"]],
 ["perl-email-mime","1.946","1.954","lang-perl",1530196415,["Compliance mode enabled, was '1.954'"]],
 ["perl-http-cookies","6.01","6.11","lang-perl",1678950872,["Compliance mode enabled, was '6.11'"]],
+["perl-proc-processtable","0.56","0.636","lang-perl",1551145217,["Compliance mode enabled, was '0.636'"]],
 ["perl-par-dist","0.52","0.53","lang-perl",1718471582,["Compliance mode enabled, was '0.53'"]],
 ["perl-class-method-modifiers","2.12","2.15","lang-perl",1631079139,["Compliance mode enabled, was '2.15'"]],
 ["perl-http-date","6.02","6.06","lang-perl",1678950872,["Compliance mode enabled, was '6.06'"]],
