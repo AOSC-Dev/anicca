@@ -365,7 +365,6 @@
 ["linux+kernel+rc","6.15.0","5.19.17","runtime-kernel",1745634995,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.15.0 -> 5.19.17)"]],
 ["linux-kernel-retro","5.10.204","5.10.237","runtime-kernel",1721223931,["Compliance mode enabled, was '5.10.237'"]],
 ["linux+kernel","6.14.5","5.19.17","runtime-kernel",1746242871,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.14.5 -> 5.19.17)"]],
-["chromium","135.0.7049.95","136.0.7103.59","app-web",1745287154,["Compliance mode enabled, was '136.0.7103.59'"]],
 ["rtv","1.27.0","1.27.1","app-web",1634534087,["Compliance mode enabled, was '1.27.1'"]],
 ["rclone","1.69.1","1.69.2","app-web",1744084135,["Compliance mode enabled, was '1.69.2'"]],
 ["i2pd","2.41.0","2.56.0","app-web",1647420912,["Compliance mode enabled, was '2.56.0'"]],
