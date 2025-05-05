@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746479579?label=Updated)
+![Relative date](https://img.shields.io/date/1746483202?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2283,7 +2283,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|lang-python|Compliance mode enabled, was '2.4.2'|
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
-|pytools|2019.1|2025.1.2|lang-python|Compliance mode enabled, was '2025.1.2'|
+|pytools|2019.1|2025.1.3|lang-python|Compliance mode enabled, was '2025.1.3'|
 |pytz|2024.2|2025.2|lang-python|Compliance mode enabled, was '2025.2'|
 |pyudev|0.24.1|0.24.3|lang-python|Compliance mode enabled, was '0.24.3'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
@@ -2542,6 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxcontrib-websupport|1.2.4|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxext-opengraph|0.9.1|0.10.0|app-doc|Compliance mode enabled, was '0.10.0'|
+|spice|0.15.2|0.16.0|runtime-virtualization|Compliance mode enabled, was '0.16.0'|
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
 |spirv-headers|1.4.309.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
@@ -2835,6 +2836,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|volk-meta-loader|1.4.309.0|1.4.313.0|runtime-display|Compliance mode enabled, was '1.4.313.0'|
+|volk-meta-loader+32|1.4.309.0|1.4.313.0|runtime-optenv32|Compliance mode enabled, was '1.4.313.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscodium|1.99.32704|1.99.32846|app-editors|Compliance mode enabled, was '1.99.32846'|
@@ -2842,19 +2845,19 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.80.1|runtime-desktop|Compliance mode enabled, was '0.80.1'|
 |vtk|9.3.0|9.4.2|app-scientific|Compliance mode enabled, was '9.4.2'|
 |vulkan-extensionlayer|1.4.309.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
-|vulkan-headers|1.4.309.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
-|vulkan-headers+32|1.4.309.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
-|vulkan-loader|1.4.309.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
-|vulkan-loader+32|1.4.309.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
+|vulkan-headers|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
+|vulkan-headers+32|1.4.309.0|1.4.314|runtime-optenv32|Compliance mode enabled, was '1.4.314'|
+|vulkan-loader|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
+|vulkan-loader+32|1.4.309.0|1.4.314|runtime-optenv32|Compliance mode enabled, was '1.4.314'|
 |vulkan-tools|1.4.309.0|1.4.313|app-utils|Compliance mode enabled, was '1.4.313'|
 |vulkan-tools+32|1.4.309.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
-|vulkan-utility-libraries|1.4.309.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
+|vulkan-utility-libraries|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
 |vulkan-validationlayers|1.4.309.0|1.4.313|runtime-display|Compliance mode enabled, was '1.4.313'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2025.03.24.00|2025.04.28.00|runtime-network|Compliance mode enabled, was '2025.04.28.00'|
+|wangle|2025.03.24.00|2025.05.05.00|runtime-network|Compliance mode enabled, was '2025.05.05.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
-|watchman|2025.03.24.00|2025.04.28.00|groups|Compliance mode enabled, was '2025.04.28.00'|
+|watchman|2025.03.24.00|2025.05.05.00|groups|Compliance mode enabled, was '2025.05.05.00'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
