@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746433113?label=Updated)
+![Relative date](https://img.shields.io/date/1746436403?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1198,7 +1198,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |layer-shell-qt|5.27.12|6.3.4|desktop-kde|Compliance mode enabled, was '6.3.4'|
-|lazarus|3.2|3.8|lang-pascal|Compliance mode enabled, was '3.8'|
+|lazarus|3.2|4.0|lang-pascal|Compliance mode enabled, was '4.0'|
 |lazy-object-proxy|1.7.1|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |lazygit|0.48.0|0.50.0|app-vcs|Compliance mode enabled, was '0.50.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
@@ -1304,7 +1304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libintl-perl|1.29|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
 |libipt|2.1.1|2.1.2|runtime-devices|Compliance mode enabled, was '2.1.2'|
-|libiscsi|1.18.0|1.20.1|runtime-network|Compliance mode enabled, was '1.20.1'|
+|libiscsi|1.18.0|1.20.2|runtime-network|Compliance mode enabled, was '1.20.2'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
@@ -1660,7 +1660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.24.0|app-network|Compliance mode enabled, was '1.24.0'|
 |modemmanager-qt|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |mokutil|0.6.0|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
-|mold|2.38.0|2.38.1|app-devel|Compliance mode enabled, was '2.38.1'|
+|mold|2.38.0|2.39.0|app-devel|Compliance mode enabled, was '2.39.0'|
 |mono|6.12.0.206|6.14.1|lang-dotnet|Compliance mode enabled, was '6.14.1'|
 |monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
 |more-itertools|4.3.0|10.7.0|lang-python|Compliance mode enabled, was '10.7.0'|
@@ -1757,6 +1757,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
+|nss|3.110|3.111|runtime-cryptography|Compliance mode enabled, was '3.111'|
+|nss+32|3.110|3.111|runtime-optenv32|Compliance mode enabled, was '3.111'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nufraw|0.43<br>+3|0.42|runtime-imaging|Compliance mode enabled, was '0.42'<br>Possible downgrade from the current version (0.43+3 -> 0.42)|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
