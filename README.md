@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746468789?label=Updated)
+![Relative date](https://img.shields.io/date/1746472289?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -906,7 +906,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kblackbox|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kblocks|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbookmarks|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
-|kbookreader-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbounce|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbreakout|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbruch|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -2827,7 +2826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vim|9.1.1343|9.1.1365|app-editors|Compliance mode enabled, was '9.1.1365'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
-|virtualenv|20.27.1|20.30.0|lang-python|Compliance mode enabled, was '20.30.0'|
+|virtualenv|20.27.1|20.31.0|lang-python|Compliance mode enabled, was '20.31.0'|
 |vkd3d+32|1.9|1.15|runtime-optenv32|Compliance mode enabled, was '1.15'|
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
