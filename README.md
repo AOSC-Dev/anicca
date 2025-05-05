@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746406091?label=Updated)
+![Relative date](https://img.shields.io/date/1746412312?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1527,7 +1527,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|4879|5277|runtime-creativity|Compliance mode enabled, was '5277'|
+|llama.cpp|4879|5280|runtime-creativity|Compliance mode enabled, was '5280'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.4|runtime-optenv32|Compliance mode enabled, was '20.1.4'|
@@ -2810,7 +2810,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |varnish|7.5.0|7.7.0|app-network|Compliance mode enabled, was '7.7.0'|
 |vasm|1.9f|2.0.b|app-devel|Compliance mode enabled, was '2.0.b'|
 |vba-m|2.1.8|2.1.11|app-games|Compliance mode enabled, was '2.1.11'|
-|vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |verdict|1.4.1|1.4.3|runtime-scientific|Compliance mode enabled, was '1.4.3'|
 |verilator|5.026|5.036|app-electronics|Compliance mode enabled, was '5.036'|
