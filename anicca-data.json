@@ -1862,7 +1862,7 @@
 ["setroot","2.0.2","2.0.3","desktop-wm",1585799570,["Compliance mode enabled, was '2.0.3'"]],
 ["icewm","3.6.0","3.7.4","desktop-wm",1718676203,["Compliance mode enabled, was '3.7.4'"]],
 ["herbstluftwm","0.7.2","0.9.5","desktop-wm",1585799570,["Compliance mode enabled, was '0.9.5'"]],
-["twm","1.0.11","1.0.13","desktop-wm",1600753401,["Compliance mode enabled, was '1.0.13'"]],
+["twm","1.0.11","1.0.13.1","desktop-wm",1600753401,["Compliance mode enabled, was '1.0.13.1'"]],
 ["tint2","16.7","17.0.2","desktop-wm",1569732139,["Compliance mode enabled, was '17.0.2'"]],
 ["windowmaker","0.95.9+git20220812","0.96.0","desktop-wm",1678604483,["Compliance mode enabled, was '0.96.0'"]],
 ["emerald","0.8.12.4","0.8.18","desktop-wm",1457021062,["Compliance mode enabled, was '0.8.18'"]],
