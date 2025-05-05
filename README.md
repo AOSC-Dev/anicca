@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746472289?label=Updated)
+![Relative date](https://img.shields.io/date/1746476039?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -179,8 +179,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.7.1|runtime-cryptography|Compliance mode enabled, was '3.7.1'|
-|boto3|1.20.26|1.38.8|lang-python|Compliance mode enabled, was '1.38.8'|
-|botocore|1.34.133|1.38.8|lang-python|Compliance mode enabled, was '1.38.8'|
+|boto3|1.20.26|1.38.9|lang-python|Compliance mode enabled, was '1.38.9'|
+|botocore|1.34.133|1.38.9|lang-python|Compliance mode enabled, was '1.38.9'|
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -824,6 +824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-compute-runtime|25.13.33276.16|25.13.33276.19|runtime-scientific|Compliance mode enabled, was '25.13.33276.19'|
+|intel-gmmlib|22.7.1|22.7.2|runtime-devices|Compliance mode enabled, was '22.7.2'|
 |intel-media-driver|25.1.4|25.2.1|runtime-multimedia|Compliance mode enabled, was '25.2.1'|
 |intel-oneapi-basekit|2025.1.0|2025.1.1|app-devel|Compliance mode enabled, was '2025.1.1'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
@@ -906,6 +907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kblackbox|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kblocks|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbookmarks|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
+|kbookreader-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbounce|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbreakout|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kbruch|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -2589,7 +2591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.10.2|runtime-scientific|Compliance mode enabled, was '7.10.2'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.505.20918|app-multimedia|Compliance mode enabled, was '2025.505.20918'|
+|sunshine|2025.122.141614|2025.505.170601|app-multimedia|Compliance mode enabled, was '2025.505.170601'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
 |superslicer|2.7.61.0|2.7.61.2|app-creativity|Compliance mode enabled, was '2.7.61.2'|
