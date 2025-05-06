@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746569524?label=Updated)
+![Relative date](https://img.shields.io/date/1746573195?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -788,7 +788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.131.11|lang-python|Compliance mode enabled, was '6.131.11'|
+|hypothesis-python|6.97.4|6.131.12|lang-python|Compliance mode enabled, was '6.131.12'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -834,6 +834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|25.1.4|25.2.1|runtime-multimedia|Compliance mode enabled, was '25.2.1'|
 |intel-oneapi-basekit|2025.1.0|2025.1.1|app-devel|Compliance mode enabled, was '2025.1.1'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
+|iotop|1.28|1.29|app-utils|Compliance mode enabled, was '1.29'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -980,7 +981,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdnssd|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kdoctools|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kdpkg-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|kdsme|1.2.8|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
+|kdsme|1.2.8|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
 |kea|2.6.1|2.7.8|app-network|Compliance mode enabled, was '2.7.8'|
 |keditbookmarks|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -1012,6 +1013,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |khtml|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |ki18n|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
+|kicad|9.0.1|9.0.2|app-electronics|Compliance mode enabled, was '9.0.2'|
 |kiconthemes|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -2357,7 +2359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode|3.7.14|3.7.15|app-utils|Compliance mode enabled, was '3.7.15'|
 |recode+32|3.7.14|3.7.15|runtime-optenv32|Compliance mode enabled, was '3.7.15'|
 |recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
-|redis|7.4.0|8.0.0|app-database|Compliance mode enabled, was '8.0.0'|
+|redis|7.4.0|8.0.1-int|app-database|Compliance mode enabled, was '8.0.1-int'|
 |redsocks2|0.67<br>+git20201229|0.1|app-network|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.11.6|lang-python|Compliance mode enabled, was '2024.11.6'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
@@ -2976,6 +2978,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zed|0.183.10|0.184.10|app-editors|Compliance mode enabled, was '0.184.10'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfec|1.5.3|1.6.0.0|lang-python|Compliance mode enabled, was '1.6.0.0'|
+|zfs|2.3.1|2.3.2|app-admin|Compliance mode enabled, was '2.3.2'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib+32|2.2.3|2.2.4|runtime-optenv32|Compliance mode enabled, was '2.2.4'|
