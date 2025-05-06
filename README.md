@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746540731?label=Updated)
+![Relative date](https://img.shields.io/date/1746544474?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -79,7 +79,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.1.0|lang-python|Compliance mode enabled, was '3.49.1.0'|
-|apt|3.0.0|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
@@ -1078,7 +1077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knetwalk|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |knewstuff|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |knights|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|knights-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knmap-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knotes|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |knotifications|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
@@ -2793,7 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
-|urwid|2.1.2|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
+|urwid|2.1.2|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |usage|2.0.3|2.1.1|app-utils|Compliance mode enabled, was '2.1.1'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
