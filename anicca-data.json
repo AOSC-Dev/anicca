@@ -2618,7 +2618,7 @@
 ["docbook-dtd","4.5","5.1","app-doc",1629103930,["Compliance mode enabled, was '5.1'"]],
 ["texstudio","4.8.6","4.8.7","app-doc",1744454846,["Compliance mode enabled, was '4.8.7'"]],
 ["scdoc","1.11.2","1.11.3","app-doc",1641132477,["Compliance mode enabled, was '1.11.3'"]],
-["pdfminer","20240706","20250416","app-doc",1722488599,["Compliance mode enabled, was '20250416'"]],
+["pdfminer","20240706","20250506","app-doc",1722488599,["Compliance mode enabled, was '20250506'"]],
 ["sphinxcontrib-qthelp","1.0.3","2.0.0","app-doc",1584399126,["Compliance mode enabled, was '2.0.0'"]],
 ["lyx","2.4.0","2.4.3","app-doc",1718013264,["Compliance mode enabled, was '2.4.3'"]],
 ["sphinxcontrib-devhelp","1.0.2","2.0.0","app-doc",1584399079,["Compliance mode enabled, was '2.0.0'"]],
