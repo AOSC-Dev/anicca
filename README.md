@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746492319?label=Updated)
+![Relative date](https://img.shields.io/date/1746498503?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1728,6 +1728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netease-cloud-music-gtk|2.5.0|2.5.1|app-multimedia|Compliance mode enabled, was '2.5.1'|
 |nethack|3.6.6|3.6.7_released|app-games|Compliance mode enabled, was '3.6.7_Released'|
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
+|netpbm|10.73.34|11.10.00|app-utils|Compliance mode enabled, was '11.10.00'|
 |netstandard-targeting-pack-2.1|8.0.403|8.0.408|lang-dotnet|Compliance mode enabled, was '8.0.408'|
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
@@ -2304,6 +2305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qdiskinfo|0.3|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.3 -> 0.1)|
 |qemu|9.2.2|10.0.0|app-virtualization|Compliance mode enabled, was '10.0.0'|
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
+|qhull|7.2.0|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'|
 |qjackctl|1.0.1|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
 |qmlkonsole|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
