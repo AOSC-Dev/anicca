@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746538036?label=Updated)
+![Relative date](https://img.shields.io/date/1746540731?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -13,9 +13,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |ab-download-manager|1.5.5|1.5.6|app-web|Compliance mode enabled, was '1.5.6'|
 |abakus-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|abbs-update-checksum|0.4.1|0.4.0|app-devel|Compliance mode enabled, was '0.4.0'<br>Possible downgrade from the current version (0.4.1 -> 0.4.0)|
 |abseil-cpp|20240722.0|20250127.1|runtime-common|Compliance mode enabled, was '20250127.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
-|acbs|20250417|20250506|app-devel|Compliance mode enabled, was '20250506'|
 |accerciser|3.40.0|3.46.2|desktop-gnome|Compliance mode enabled, was '3.46.2'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.7.0|3.8.2|app-utils|Compliance mode enabled, was '3.8.2'|
@@ -1107,6 +1107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopeninghours|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kopete|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kopete-otr-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|korganizer|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kosmindoormap|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |kpackage|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kparts|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
@@ -2101,7 +2102,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman+32|0.43.0|0.46.0|runtime-optenv32|Compliance mode enabled, was '0.46.0'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
-|pkgsite-tools|0.3.4|0.7.2|app-utils|Compliance mode enabled, was '0.7.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
