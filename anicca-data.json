@@ -723,6 +723,7 @@
 ["sdl2-mixer","2.0.4","2.8.1","runtime-multimedia",1549304004,["Compliance mode enabled, was '2.8.1'"]],
 ["avisynthplus","3.7.3","3.7.5","runtime-multimedia",1708685133,["Compliance mode enabled, was '3.7.5'"]],
 ["speex","1.2.0","1.2.1","runtime-multimedia",1710999875,["Compliance mode enabled, was '1.2.1'"]],
+["zita-alsa-pcmi","0.3.2","0.6.1","runtime-multimedia",1541091646,["Compliance mode enabled, was '0.6.1'"]],
 ["intel-media-driver","25.1.4","25.2.1","runtime-multimedia",1745032371,["Compliance mode enabled, was '25.2.1'"]],
 ["sdl2-image","2.0.5","3.2.4","runtime-multimedia",1565150273,["Compliance mode enabled, was '3.2.4'"]],
 ["liblo","0.29","0.32","runtime-multimedia",1508991786,["Compliance mode enabled, was '0.32'"]],
