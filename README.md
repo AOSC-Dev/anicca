@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746645043?label=Updated)
+![Relative date](https://img.shields.io/date/1746648780?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -157,7 +157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|3.1.0|app-productivity|Compliance mode enabled, was '3.1.0'|
 |bear|3.1.4|3.1.6|app-devel|Compliance mode enabled, was '3.1.6'|
 |beautifulsoup4|4.10.0|4.13.4|lang-python|Compliance mode enabled, was '4.13.4'|
-|benchmark|1.8.2|1.9.2|runtime-common|Compliance mode enabled, was '1.9.2'|
+|benchmark|1.8.2|1.9.3|runtime-common|Compliance mode enabled, was '1.9.3'|
 |bibletime-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bind|9.20.4|9.20.8|app-network|Compliance mode enabled, was '9.20.8'|
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
@@ -180,8 +180,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.0|runtime-cryptography|Compliance mode enabled, was '3.8.0'|
-|boto3|1.20.26|1.38.10|lang-python|Compliance mode enabled, was '1.38.10'|
-|botocore|1.34.133|1.38.10|lang-python|Compliance mode enabled, was '1.38.10'|
+|boto3|1.20.26|1.38.11|lang-python|Compliance mode enabled, was '1.38.11'|
+|botocore|1.34.133|1.38.11|lang-python|Compliance mode enabled, was '1.38.11'|
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
@@ -2747,7 +2747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
 |trivy|0.55.0|0.62.1|app-devel|Compliance mode enabled, was '0.62.1'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
-|trove-classifiers|2024.1.31|2025.5.1.12|lang-python|Compliance mode enabled, was '2025.5.1.12'|
+|trove-classifiers|2024.1.31|2025.5.7.19|lang-python|Compliance mode enabled, was '2025.5.7.19'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
