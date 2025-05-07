@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746637890?label=Updated)
+![Relative date](https://img.shields.io/date/1746641756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1281,6 +1281,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfm-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |libfreeaptx|0.1.1|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libftdi|1.4|1.5|runtime-devices|Compliance mode enabled, was '1.5'|
+|libgcrypt|1.11.0|1.11.1|runtime-cryptography|Compliance mode enabled, was '1.11.1'|
+|libgcrypt+32|1.11.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
 |libgee|0.20.6|0.20.8|desktop-gnome|Compliance mode enabled, was '0.20.8'|
 |libgeotiff|1.5.1|1.7.4|runtime-gis|Compliance mode enabled, was '1.7.4'|
 |libgig|4.4.0|4.4.1|runtime-multimedia|Compliance mode enabled, was '4.4.1'|
@@ -1640,10 +1642,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |mercurial|6.9.4|7.0.2|app-vcs|Compliance mode enabled, was '7.0.2'|
 |merkuro|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|mesa|25.0.4|25.0.5|runtime-display||
-|mesa+32|25.0.4|25.0.5|runtime-optenv32||
-|mesa-amber|21.3.9|25.0.5|runtime-display|Compliance mode enabled, was '25.0.5'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.0.5|runtime-display|Compliance mode enabled, was '25.0.5'|
+|mesa|25.0.4|25.1.0|runtime-display||
+|mesa+32|25.0.4|25.1.0|runtime-optenv32||
+|mesa-amber|21.3.9|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
 |messagelib|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
@@ -1948,7 +1950,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-convert-asn1|0.27|0.34|lang-perl|Compliance mode enabled, was '0.34'|
 |perl-crypt-openssl-guess|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-crypt-openssl-random|0.15|0.17|lang-perl|Compliance mode enabled, was '0.17'|
-|perl-crypt-openssl-rsa|0.33|0.34|lang-perl|Compliance mode enabled, was '0.34'|
+|perl-crypt-openssl-rsa|0.33|0.35|lang-perl|Compliance mode enabled, was '0.35'|
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compliance mode enabled, was '0.72'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compliance mode enabled, was '2.183'|
 |perl-data-optlist|0.110|0.114|lang-perl|Compliance mode enabled, was '0.114'|
@@ -2909,6 +2911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-evdev|2.10.6|2.11.0|runtime-display|Compliance mode enabled, was '2.11.0'|
+|xf86-input-libinput|1.4.0|1.5.0|runtime-display|Compliance mode enabled, was '1.5.0'|
 |xf86-input-wacom|1.2.0|1.2.3|runtime-display|Compliance mode enabled, was '1.2.3'|
 |xf86-video-intel|2.99.917<br>+git20230318|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
