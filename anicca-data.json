@@ -8,7 +8,7 @@
 ["scapy","2.5.0","2.6.1","app-network",1716390068,["Compliance mode enabled, was '2.6.1'"]],
 ["unbound","1.19.2","1.23.0","app-network",1709998421,[]],
 ["fizz","2025.03.24.00","2025.05.05.00","app-network",1743403515,["Compliance mode enabled, was '2025.05.05.00'"]],
-["iwd","3.2","3.7","app-network",1732863969,["Compliance mode enabled, was '3.7'"]],
+["iwd","3.2","3.8","app-network",1732863969,["Compliance mode enabled, was '3.8'"]],
 ["networkmanager-strongswan","1.5.2","1.6.2","app-network",1590862929,["Compliance mode enabled, was '1.6.2'"]],
 ["smartdns","35","46.1","app-network",1640828077,["Compliance mode enabled, was '46.1'"]],
 ["ser2net","3.5","4.6.4","app-network",1528905473,["Compliance mode enabled, was '4.6.4'"]],
