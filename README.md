@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746655915?label=Updated)
+![Relative date](https://img.shields.io/date/1746659596?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -287,9 +287,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|337|app-admin|Compliance mode enabled, was '337'|
-|cockpit-machines|284.1|330|app-admin|Compliance mode enabled, was '330'|
-|cockpit-podman|63|104|app-admin|Compliance mode enabled, was '104'|
+|cockpit|286.1|338|app-admin|Compliance mode enabled, was '338'|
+|cockpit-machines|284.1|331|app-admin|Compliance mode enabled, was '331'|
+|cockpit-podman|63|105|app-admin|Compliance mode enabled, was '105'|
 |code-server|4.93.1|4.99.4|app-utils|Compliance mode enabled, was '4.99.4'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
@@ -2131,7 +2131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-workspace-wallpapers|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasmatube|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
-|platformdirs|2.5.2|4.3.7|lang-python|Compliance mode enabled, was '4.3.7'|
+|platformdirs|2.5.2|4.3.8|lang-python|Compliance mode enabled, was '4.3.8'|
 |plocate|1.1.22|1.1.23|app-utils|Compliance mode enabled, was '1.1.23'|
 |plymouth-kcm|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plzip|1.11|1.12|app-utils|Compliance mode enabled, was '1.12'|
