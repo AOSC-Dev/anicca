@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746573195?label=Updated)
+![Relative date](https://img.shields.io/date/1746578833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1503,8 +1503,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxfce4ui|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |libxfce4util|4.20.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
-|libxkbcommon|1.8.1|1.9.1|runtime-display|Compliance mode enabled, was '1.9.1'|
-|libxkbcommon+32|1.7.0|1.9.1|runtime-optenv32|Compliance mode enabled, was '1.9.1'|
+|libxkbcommon|1.8.1|1.9.2|runtime-display|Compliance mode enabled, was '1.9.2'|
+|libxkbcommon+32|1.7.0|1.9.2|runtime-optenv32|Compliance mode enabled, was '1.9.2'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.14.2|runtime-common|Compliance mode enabled, was '2.14.2'|
 |libxml2+32|2.10.4|2.14.2|runtime-optenv32|Compliance mode enabled, was '2.14.2'|
