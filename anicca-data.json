@@ -1397,7 +1397,7 @@
 ["git-cliff","2.7.0","2.8.0","app-vcs",1735347831,["Compliance mode enabled, was '2.8.0'"]],
 ["git-cinnabar","0.6.3","0.7.2","app-vcs",1721832254,["Compliance mode enabled, was '0.7.2'"]],
 ["tortoisehg","6.6.3","7.0.1","app-vcs",1716735995,["Compliance mode enabled, was '7.0.1'"]],
-["mercurial","6.9.4","7.0.1","app-vcs",1742801254,["Compliance mode enabled, was '7.0.1'"]],
+["mercurial","6.9.4","7.0.2","app-vcs",1742801254,["Compliance mode enabled, was '7.0.2'"]],
 ["lazygit","0.48.0","0.50.0","app-vcs",1741963136,["Compliance mode enabled, was '0.50.0'"]],
 ["openjdk-17","17.0.15-ga","17.0.16+2","lang-java",1745211922,[]],
 ["openjdk-22","22.0.2-ga","22.0.2+9","lang-java",1745211922,[]],
