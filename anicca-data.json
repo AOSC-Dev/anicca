@@ -812,7 +812,7 @@
 ["avr-binutils","2.37","2.44","app-devel",1634066043,["Compliance mode enabled, was '2.44'"]],
 ["rz-ghidra","0.7.0","0.8.0","app-devel",1738309012,["Compliance mode enabled, was '0.8.0'"]],
 ["bear","3.1.4","3.1.6","app-devel",1737436557,["Compliance mode enabled, was '3.1.6'"]],
-["gettext","0.24","0.24.1","app-devel",1740505371,["Compliance mode enabled, was '0.24.1'"]],
+["gettext","0.24","0.25","app-devel",1740505371,["Compliance mode enabled, was '0.25'"]],
 ["cutter","2.3.4","2.4.0","app-devel",1712501970,["Compliance mode enabled, was '2.4.0'"]],
 ["versioningit","3.0.0","3.1.2","app-devel",1708685051,["Compliance mode enabled, was '3.1.2'"]],
 ["uncrustify","0.78.1","0.80.1","app-devel",1704791250,["Compliance mode enabled, was '0.80.1'"]],
