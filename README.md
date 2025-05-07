@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746605882?label=Updated)
+![Relative date](https://img.shields.io/date/1746609208?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -662,6 +662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-online-accounts|3.44.0|3.54.2|desktop-gnome|Compliance mode enabled, was '3.54.2'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
+|gnome-session|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-settings-daemon|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-shell|42.4|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-shell-extension-gsconnect|53|62|desktop-gnome|Compliance mode enabled, was '62'|
@@ -1798,7 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
-|oolite|1.90|1.91.0.7669-250505-6b11f83|app-games|Compliance mode enabled, was '1.91.0.7669-250505-6b11f83'|
+|oolite|1.90|1.91.0.7670-250506-294a50d|app-games|Compliance mode enabled, was '1.91.0.7670-250506-294a50d'|
 |opam|2.1.6|2.3.0|lang-ocaml|Compliance mode enabled, was '2.3.0'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
@@ -2796,7 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |urlgrabber|3.10.2|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
-|urwid|2.1.2|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|urwid|2.1.2|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |usage|2.0.3|2.1.1|app-utils|Compliance mode enabled, was '2.1.1'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
