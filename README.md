@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746589052?label=Updated)
+![Relative date](https://img.shields.io/date/1746591314?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -831,7 +831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|25.1.4|25.2.1|runtime-multimedia|Compliance mode enabled, was '25.2.1'|
 |intel-oneapi-basekit|2025.1.0|2025.1.1|app-devel|Compliance mode enabled, was '2025.1.1'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
-|iotop|1.28|1.29|app-utils|Compliance mode enabled, was '1.29'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
@@ -2746,7 +2745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2024.11.0|runtime-data|Compliance mode enabled, was '2024.11.0'|
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.62.0|app-devel|Compliance mode enabled, was '0.62.0'|
+|trivy|0.55.0|0.62.1|app-devel|Compliance mode enabled, was '0.62.1'|
 |trollius|2.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |trove-classifiers|2024.1.31|2025.5.1.12|lang-python|Compliance mode enabled, was '2025.5.1.12'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
@@ -2807,7 +2806,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|v2ray-rules-dat|202501302211|202505052213|runtime-data|Compliance mode enabled, was '202505052213'<br>Versions not comparable: `202501302211` and `202505052213`|
+|v2ray-rules-dat|202501302211|202505062213|runtime-data|Compliance mode enabled, was '202505062213'<br>Versions not comparable: `202501302211` and `202505062213`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
