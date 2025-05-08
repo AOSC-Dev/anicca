@@ -1187,7 +1187,7 @@
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["certifi","2024.7.4","2025.4.26","lang-python",1720103195,["Compliance mode enabled, was '2025.4.26'"]],
 ["cryptography","40.0.0","44.0.3","lang-python",1701237875,["Compliance mode enabled, was '44.0.3'"]],
-["virtualenv","20.27.1","20.31.1","lang-python",1732598160,["Compliance mode enabled, was '20.31.1'"]],
+["virtualenv","20.27.1","20.31.2","lang-python",1732598160,["Compliance mode enabled, was '20.31.2'"]],
 ["boto3","1.20.26","1.38.11","lang-python",1616123331,["Compliance mode enabled, was '1.38.11'"]],
 ["typogrify","2.0.7","2.1.0","lang-python",1619939089,["Compliance mode enabled, was '2.1.0'"]],
 ["stopit","0+git20190827","1.1.2","lang-python",1614351126,["Compliance mode enabled, was '1.1.2'"]],
