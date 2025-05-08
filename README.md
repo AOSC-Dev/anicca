@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746706845?label=Updated)
+![Relative date](https://img.shields.io/date/1746710915?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -962,7 +962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kdev-php|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdev-python|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kdevelop|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|kdevelop|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdevelop-pg-qt|2.2.1|2.4.0|desktop-kde|Compliance mode enabled, was '2.4.0'|
 |kdewebkit|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kdf|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1189,7 +1189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kwayland-integration|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |kweather|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kweathercore|0.7|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|kweathercore|0.7|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kwidgetsaddons|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |kwin|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |kwindowsystem|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
@@ -2106,7 +2106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
-|plasma-angelfish|22.06|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|plasma-angelfish|22.06|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |plasma-browser-integration|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-desktop|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-disks|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -2519,7 +2519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
 |soupsieve|1.8.0|2.7|lang-python|Compliance mode enabled, was '2.7'|
 |sozu|0.15.2|1.0.6|app-web|Compliance mode enabled, was '1.0.6'|
-|spacebar|23.01.0|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
+|spacebar|23.01.0|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdlog|1.14.1|1.15.2|runtime-common|Compliance mode enabled, was '1.15.2'|
