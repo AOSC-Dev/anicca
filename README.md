@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746677783?label=Updated)
+![Relative date](https://img.shields.io/date/1746681175?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -567,7 +567,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-python|0.3.1|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
-|fwupd|2.0.9|2.0.8|app-admin|Compliance mode enabled, was '2.0.8'<br>Possible downgrade from the current version (2.0.9 -> 2.0.8)|
 |fzf|0.60.0|0.62.0|app-utils|Compliance mode enabled, was '0.62.0'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
@@ -1918,7 +1917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.325|app-games|Compliance mode enabled, was '2.3.325'|
+|pcsx2|1.6.0<br>+git20210825|2.3.331|app-games|Compliance mode enabled, was '2.3.331'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
