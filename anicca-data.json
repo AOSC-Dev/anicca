@@ -999,6 +999,7 @@
 ["jedi","0.18.1","0.19.2","lang-python",1626504939,["Compliance mode enabled, was '0.19.2'"]],
 ["pyside6","6.8.2.1","6.9.0","lang-python",1746182477,["Compliance mode enabled, was '6.9.0'"]],
 ["py-filelock","3.14.0","3.18.0","lang-python",1717069213,["Compliance mode enabled, was '3.18.0'"]],
+["numpy","1.26.4","2.2.5","lang-python",1716538095,["Compliance mode enabled, was '2.2.5'"]],
 ["async-timeout","4.0.2","5.0.1","lang-python",1595861753,["Compliance mode enabled, was '5.0.1'"]],
 ["pygame","2.5.2","2.6.1","lang-python",1715847709,["Compliance mode enabled, was '2.6.1'"]],
 ["netifaces","0.10.9","0.11.0","lang-python",1549919968,["Compliance mode enabled, was '0.11.0'"]],
