@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746684973?label=Updated)
+![Relative date](https://img.shields.io/date/1746688437?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -78,7 +78,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.3|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apsw|3.30.1|3.49.2.0|lang-python|Compliance mode enabled, was '3.49.2.0'|
-|apt|3.0.0|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |aqbanking|6.2.2|6.6.0|runtime-productivity|Compliance mode enabled, was '6.6.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2024.35|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2024.35 -> 2022.37)|
@@ -608,7 +607,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.32.0|1.33.0|app-imaging|Compliance mode enabled, was '1.33.0'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
 |gimp|2.10.38|3.0.2|app-creativity|Compliance mode enabled, was '3.0.2'|
-|git-branchless|0.9.0|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |git-cinnabar|0.6.3|0.7.2|app-vcs|Compliance mode enabled, was '0.7.2'|
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
@@ -1899,7 +1897,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.04.0|desktop-kde|Compliance mode enabled, was '25.04.0'|
 |passim|0.1.9|0.1.10|app-network|Compliance mode enabled, was '0.1.10'|
-|passt|2024_10_30.ee7d0b6|2025_05_03.587980c|app-network||
+|passt|2024_10_30.ee7d0b6|2025_05_07.eea8a76|app-network||
 |pastel|0.2.0|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
 |patch-ng|1.17.4|1.18.1|lang-python|Compliance mode enabled, was '1.18.1'|
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
