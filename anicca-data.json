@@ -140,6 +140,7 @@
 ["perl-module-build-tiny","0.039","0.051","lang-perl",1678950872,["Compliance mode enabled, was '0.051'"]],
 ["perl-text-csv-xs","1.38","1.60","lang-perl",1551145658,["Compliance mode enabled, was '1.60'"]],
 ["perl-file-mimeinfo","0.28+03","0.35","lang-perl",1530196414,["Compliance mode enabled, was '0.35'"]],
+["perl-encode-imaputf7","1.05","1.06","lang-perl",1678950872,["Compliance mode enabled, was '1.06'"]],
 ["perl-xml-twig","3.52","3.53","lang-perl",1530196414,["Compliance mode enabled, was '3.53'"]],
 ["perl-try-tiny","0.30","0.32","lang-perl",1530196414,["Compliance mode enabled, was '0.32'"]],
 ["perl-email-mime","1.946","1.954","lang-perl",1530196415,["Compliance mode enabled, was '1.954'"]],
