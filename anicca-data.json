@@ -988,7 +988,6 @@
 ["keystoneauth1","5.7.0","5.10.0","lang-python",1724639794,["Compliance mode enabled, was '5.10.0'"]],
 ["pymarkups","3.0.0","4.1.1","lang-python",1530553511,["Compliance mode enabled, was '4.1.1'"]],
 ["pyotherside","1.5.9","1.6.2","lang-python",1581796622,["Compliance mode enabled, was '1.6.2'"]],
-["pyiso8601","0.1.13","2.1.0","lang-python",1604819537,["Compliance mode enabled, was '2.1.0'"]],
 ["scikit-build-core","0.11.1","0.11.2","lang-python",1744299460,["Compliance mode enabled, was '0.11.2'"]],
 ["testresources","2.0.1","2.0.2","lang-python",1682100878,["Compliance mode enabled, was '2.0.2'"]],
 ["pyopengl","3.1.5","3.1.9~a2","lang-python",1581796622,["Compliance mode enabled, was '3.1.9a2'"]],
