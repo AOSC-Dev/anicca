@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746751615?label=Updated)
+![Relative date](https://img.shields.io/date/1746757752?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -677,7 +677,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnote|42.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnu-efi|3.0.18|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'|
 |gnuchess|6.2.9|6.2.11|app-games|Compliance mode enabled, was '6.2.11'|
-|gnupg|2.5.5|2.5.6|app-cryptography|Compliance mode enabled, was '2.5.6'|
 |gnustep-base|1.28.0|1.31.1|runtime-gnustep|Compliance mode enabled, was '1_31_1'|
 |gnustep-make|2.9.0|2.9.3|runtime-gnustep|Compliance mode enabled, was '2_9_3'|
 |gnutls|3.8.7|3.8.9|runtime-cryptography|Compliance mode enabled, was '3.8.9'|
@@ -1080,6 +1079,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knmap-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knotes|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |knotifications|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
+|knotifyconfig|5.115.0|6.13.0|desktop-kde|Compliance mode enabled, was '6.13.0'|
 |knowit-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knutclient-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kodi|21.2|21.1|app-multimedia|Compliance mode enabled, was '21.1'<br>Possible downgrade from the current version (21.2 -> 21.1)|
@@ -1529,7 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5306|runtime-creativity|Compliance mode enabled, was '5306'|
+|llama.cpp|5298|5318|runtime-creativity|Compliance mode enabled, was '5318'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.4|runtime-optenv32|Compliance mode enabled, was '20.1.4'|
@@ -1913,7 +1913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.331|app-games|Compliance mode enabled, was '2.3.331'|
+|pcsx2|1.6.0<br>+git20210825|2.3.333|app-games|Compliance mode enabled, was '2.3.333'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
