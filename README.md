@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746821589?label=Updated)
+![Relative date](https://img.shields.io/date/1746825049?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2838,13 +2838,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.80.1|runtime-desktop|Compliance mode enabled, was '0.80.1'|
 |vtk|9.3.0|9.4.2|app-scientific|Compliance mode enabled, was '9.4.2'|
 |vulkan-extensionlayer|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
-|vulkan-headers|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
-|vulkan-headers+32|1.4.309.0|1.4.314|runtime-optenv32|Compliance mode enabled, was '1.4.314'|
-|vulkan-loader|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
-|vulkan-loader+32|1.4.309.0|1.4.314|runtime-optenv32|Compliance mode enabled, was '1.4.314'|
+|vulkan-headers|1.4.309.0|1.4.315|runtime-display|Compliance mode enabled, was '1.4.315'|
+|vulkan-headers+32|1.4.309.0|1.4.315|runtime-optenv32|Compliance mode enabled, was '1.4.315'|
+|vulkan-loader|1.4.309.0|1.4.315|runtime-display|Compliance mode enabled, was '1.4.315'|
+|vulkan-loader+32|1.4.309.0|1.4.315|runtime-optenv32|Compliance mode enabled, was '1.4.315'|
 |vulkan-tools|1.4.309.0|1.4.313|app-utils|Compliance mode enabled, was '1.4.313'|
 |vulkan-tools+32|1.4.309.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
-|vulkan-utility-libraries|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
+|vulkan-utility-libraries|1.4.309.0|1.4.315|runtime-display|Compliance mode enabled, was '1.4.315'|
 |vulkan-validationlayers|1.4.309.0|1.4.314|runtime-display|Compliance mode enabled, was '1.4.314'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.03.24.00|2025.05.05.00|runtime-network|Compliance mode enabled, was '2025.05.05.00'|
