@@ -2791,6 +2791,7 @@
 ["abseil-cpp","20240722.0","20250127.1","runtime-common",1737436557,["Compliance mode enabled, was '20250127.1'"]],
 ["jsonrpc-glib","3.42.0","3.44.1","runtime-common",1663210242,["Compliance mode enabled, was '3.44.1'"]],
 ["nspr","4.35","4.36","runtime-common",1680558295,["Compliance mode enabled, was '4.36'"]],
+["lzlib","1.11","1.15","runtime-common",1570905164,["Compliance mode enabled, was '1.15'"]],
 ["libsigsegv","2.12","2.15","runtime-common",1523464139,["Compliance mode enabled, was '2.15'"]],
 ["rustc-demangle","0.1.21","0.1.24","runtime-common",1631400099,["Compliance mode enabled, was '0.1.24'"]],
 ["tbb","2021.11.0","2022.1.0","runtime-common",1716736819,["Compliance mode enabled, was '2022.1.0'"]],
