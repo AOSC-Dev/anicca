@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746848067?label=Updated)
+![Relative date](https://img.shields.io/date/1746850375?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1459,6 +1459,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libunistring|0.9.10|1.3|runtime-common|Compliance mode enabled, was '1.3'|
 |libupnp|1.14.16|1.14.21|runtime-network|Compliance mode enabled, was '1.14.21'|
 |liburcu|0.14.0|0.15.2|runtime-common|Compliance mode enabled, was '0.15.2'|
+|liburing|2.6|2.9|runtime-common|Compliance mode enabled, was '2.9'|
 |libusb+32|1.0.23|1.0.28|runtime-optenv32|Compliance mode enabled, was '1.0.28'|
 |libusb-compat|0.1.5|0.1.8|runtime-devices|Compliance mode enabled, was '0.1.8'|
 |libusb-compat+32|0.1.5|0.1.8|runtime-optenv32|Compliance mode enabled, was '0.1.8'|
@@ -2584,6 +2585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
 |stunnel|5.73|5.74|app-network|Compliance mode enabled, was '5.74'|
 |subtitleripper|0.3.4|0.3|app-multimedia|Compliance mode enabled, was '0.3'<br>Possible downgrade from the current version (0.3.4 -> 0.3)|
+|sudo|1.9.16|1.9.16p2|app-admin|Compliance mode enabled, was '1_9_16p2'<br>Possible downgrade from the current version (1.9.16 -> 1.9.16p2)|
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.10.3|runtime-scientific|Compliance mode enabled, was '7.10.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
