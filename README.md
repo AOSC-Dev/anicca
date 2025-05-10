@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746875166?label=Updated)
+![Relative date](https://img.shields.io/date/1746879515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -146,7 +146,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |balz|1.20|.55|app-utils|Compliance mode enabled, was '.55'|
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
 |baobab|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|bash-startup|0.7.2|0.7.1|runtime-data|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (0.7.2 -> 0.7.1)|
 |basket-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
 |bcachefs-tools|1.9.4|1.25.2|app-admin|Compliance mode enabled, was '1.25.2'|
@@ -193,6 +192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |breeze-plymouth|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |brltty|6.6|6.7|app-a11y|Compliance mode enabled, was '6.7'|
+|btop|1.4.2|1.4.3|app-utils|Compliance mode enabled, was '1.4.3'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
