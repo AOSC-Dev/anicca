@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1746893632?label=Updated)
+![Relative date](https://img.shields.io/date/1746897011?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1627,8 +1627,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |mercurial|6.9.4|7.0.2|app-vcs|Compliance mode enabled, was '7.0.2'|
 |merkuro|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mesa|25.0.4|25.1.0|runtime-display||
-|mesa+32|25.0.4|25.1.0|runtime-optenv32||
 |mesa-amber|21.3.9|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
 |messagelib|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1707,7 +1705,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |neochat|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |neofetch|7.3.11|7.1.0|app-utils|Compliance mode enabled, was '7.1.0'<br>Possible downgrade from the current version (7.3.11 -> 7.1.0)|
-|neomutt|20241114|20250404|app-web|Compliance mode enabled, was '20250404'|
+|neomutt|20241114|20250510|app-web|Compliance mode enabled, was '20250510'|
 |neon|0.33.0|0.34.2|runtime-web|Compliance mode enabled, was '0.34.2'|
 |neon+32|0.33.0|0.34.2|runtime-optenv32|Compliance mode enabled, was '0.34.2'|
 |nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
@@ -1785,6 +1783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.21|desktop-kde|Compliance mode enabled, was '0.26.21'|
 |okular|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
+|oma|1.16.6|1.17.1|app-admin|Compliance mode enabled, was '1.17.1'|
 |onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7670-250506-294a50d|app-games|Compliance mode enabled, was '1.91.0.7670-250506-294a50d'|
