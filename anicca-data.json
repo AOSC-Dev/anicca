@@ -2084,7 +2084,7 @@
 ["certbot","2.11.0","4.0.0","groups",1717723307,["Compliance mode enabled, was '4.0.0'"]],
 ["toxcore","0.2.18","0.2.20","app-web",1655338775,["Compliance mode enabled, was '0.2.20'"]],
 ["forgejo","11.0.0","11.0.1","app-web",1746182393,["Compliance mode enabled, was '11.0.1'"]],
-["qownnotes","22.6.1","25.5.3","app-web",1659588927,["Compliance mode enabled, was '25.5.3'"]],
+["qownnotes","22.6.1","25.5.4","app-web",1659588927,["Compliance mode enabled, was '25.5.4'"]],
 ["chromium","135.0.7049.95","136.0.7103.92","app-web",1745287154,["Compliance mode enabled, was '136.0.7103.92'"]],
 ["nginx","1.27.4","1.28.0","app-web",1738821267,["Compliance mode enabled, was '1.28.0'"]],
 ["midori","9.0","11.5.2","app-web",1569636491,["Compliance mode enabled, was '11.5.2'"]],
