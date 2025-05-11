@@ -2625,6 +2625,7 @@
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
 ["sanlock","3.8.5","4.0.0","app-admin",1694574450,["Compliance mode enabled, was '4.0.0'"]],
 ["bubblewrap","0.10.0","0.11.0","app-admin",1723734185,["Compliance mode enabled, was '0.11.0'"]],
+["flatpak","1.16.0","1.16.1","app-admin",1736474036,["Compliance mode enabled, was '1.16.1'"]],
 ["sudo","1.9.16","1.9.16p2","app-admin",1725356657,["Compliance mode enabled, was '1_9_16p2'","Possible downgrade from the current version (1.9.16 -> 1.9.16p2)"]],
 ["lxc","6.0.1","6.0.4","app-admin",1723477262,["Compliance mode enabled, was '6.0.4'"]],
 ["quota-tools","4.09","4.10","app-admin",1673935786,["Compliance mode enabled, was '4.10'"]],
