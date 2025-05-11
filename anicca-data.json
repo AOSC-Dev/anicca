@@ -1180,6 +1180,7 @@
 ["stopit","0+git20190827","1.1.2","lang-python",1614351126,["Compliance mode enabled, was '1.1.2'"]],
 ["toml","0.10.1","0.10.2","lang-python",1603832583,["Compliance mode enabled, was '0.10.2'"]],
 ["python-cloudflare","2.8.15","4.1.0","lang-python",1615174551,["Compliance mode enabled, was '4.1.0'"]],
+["pbr","6.0.0","6.1.1","lang-python",1724639794,["Compliance mode enabled, was '6.1.1'"]],
 ["pydantic","2.6.0","2.11.4","lang-python",1708762785,["Compliance mode enabled, was '2.11.4'"]],
 ["beaker","1.11.0","1.13.0","lang-python",1614161777,["Compliance mode enabled, was '1.13.0'"]],
 ["josepy","1.13.0","2.0.0","lang-python",1678950872,["Compliance mode enabled, was '2.0.0'"]],
