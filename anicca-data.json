@@ -2195,6 +2195,7 @@
 ["gnome-calculator","42.2","48.1","desktop-gnome",1663210242,["Compliance mode enabled, was '48.1'"]],
 ["gnome-themes-standard","3.27.90","3.28","desktop-gnome",1521217900,["Compliance mode enabled, was '3.28'"]],
 ["calls","46.0","48.1","desktop-gnome",1710812823,["Compliance mode enabled, was '48.1'"]],
+["gnome-disk-utility","42.0","46.1","desktop-gnome",1663210243,["Compliance mode enabled, was '46.1'"]],
 ["gupnp-av","0.12.11","0.14.3","desktop-gnome",1549262739,["Compliance mode enabled, was '0.14.3'"]],
 ["gdome2","0.8.1+debian","0.8.1","desktop-gnome",1714457871,["Compliance mode enabled, was '0.8.1'"]],
 ["amtk","5.5.1","5.6.1","desktop-gnome",1663210209,["Compliance mode enabled, was '5.6.1'"]],
