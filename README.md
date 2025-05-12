@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747010867?label=Updated)
+![Relative date](https://img.shields.io/date/1747017145?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -71,6 +71,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
+|aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apicula|0.14|0.18|app-electronics|Compliance mode enabled, was '0.18'|
 |apparmor|3.0.8|4.1.0-cherry-pick-point|app-admin|Compliance mode enabled, was '4.1.0-cherry-pick-point'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
@@ -1252,7 +1253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcuckoo|0.3|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |libcupsfilters|2.0.0|2.1.1|runtime-doc|Compliance mode enabled, was '2.1.1'|
 |libde265|1.0.15|1.0.16|runtime-multimedia|Compliance mode enabled, was '1.0.16'|
-|libdeflate|1.19|1.23|runtime-common|Compliance mode enabled, was '1.23'|
+|libdeflate|1.19|1.24|runtime-common|Compliance mode enabled, was '1.24'|
 |libdiscid|0.6.2|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |libdispatch|5.6.1|6.1-release|runtime-common|Compliance mode enabled, was '6.1-RELEASE'|
 |libdmtx|0.7.7|0.7.8|runtime-imaging|Compliance mode enabled, was '0.7.8'|
@@ -2410,7 +2411,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.12.0|lang-python|Compliance mode enabled, was '0.12.0'|
 |sagemath|10.4|10.6|app-scientific|Compliance mode enabled, was '10.6'|
-|sane-backends|1.0.32|1.3.1|runtime-devices|Compliance mode enabled, was '1.3.1'|
+|sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
@@ -2658,6 +2659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdetoys|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeutils|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tealdeer|1.6.1|1.7.2|app-doc|Compliance mode enabled, was '1.7.2'|
 |teams-for-linux|1.13.0|2.0.12|app-web|Compliance mode enabled, was '2.0.12'|
@@ -2788,7 +2790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|v2ray-rules-dat|202501302211|202505102212|runtime-data|Compliance mode enabled, was '202505102212'<br>Versions not comparable: `202501302211` and `202505102212`|
+|v2ray-rules-dat|202501302211|202505112212|runtime-data|Compliance mode enabled, was '202505112212'<br>Versions not comparable: `202501302211` and `202505112212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
