@@ -1859,7 +1859,7 @@
 ["lxqt-qtplugin","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-build-tools","0.13.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["openpgl","0.5.0","0.7.0","runtime-creativity",1691207555,["Compliance mode enabled, was '0.7.0'"]],
-["llama.cpp","5298","5349","runtime-creativity",1746611595,["Compliance mode enabled, was '5349'"]],
+["llama.cpp","5298","5350","runtime-creativity",1746611595,["Compliance mode enabled, was '5350'"]],
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["alembic","1.8.6","1.8.8","runtime-creativity",1743471806,["Compliance mode enabled, was '1.8.8'"]],
 ["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]],
