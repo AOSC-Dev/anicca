@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747177925?label=Updated)
+![Relative date](https://img.shields.io/date/1747183545?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -11,7 +11,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.13.1|1.14.0|app-admin|Compliance mode enabled, was '1.14.0'|
 |aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
-|ab-download-manager|1.5.5|1.5.8|app-web|Compliance mode enabled, was '1.5.8'|
+|ab-download-manager|1.5.5|1.6.1|app-web|Compliance mode enabled, was '1.6.1'|
 |abakus-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |abseil-cpp|20240722.0|20250127.1|runtime-common|Compliance mode enabled, was '20250127.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
@@ -171,6 +171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.79|5.82|app-devices|Compliance mode enabled, was '5.82'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
+|bochs|2.8|3.0|app-emulation|Compliance mode enabled, was '3.0'|
 |boinc|8.0.4|8.0.2|app-scientific|Compliance mode enabled, was '8.0.2'<br>Possible downgrade from the current version (8.0.4 -> 8.0.2)|
 |bomber|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |boost|1.83.0|1.88.0|runtime-common|Compliance mode enabled, was '1.88.0'|
@@ -2424,6 +2425,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
 |sbc+32|2.0|2.1|runtime-optenv32|Compliance mode enabled, was '2.1'|
+|sbcl|2.5.2|2.5.4|lang-lisp|Compliance mode enabled, was '2.5.4'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |scapy|2.5.0|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |sccache|0.3.3|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
@@ -2497,7 +2499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowball|2.1.0|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |snowballstemmer|1.2.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |socat|1.8.0.0|1.8.0.3|app-network|Compliance mode enabled, was '1.8.0.3'|
-|soci|4.0.1|4.0.3|runtime-database|Compliance mode enabled, was '4.0.3'|
+|soci|4.0.1|4.1.1|runtime-database|Compliance mode enabled, was '4.1.1'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sof-firmware|2025.01|2025.01.1|runtime-kernel|Compliance mode enabled, was '2025.01.1'|
 |sof-tools|2.12|2.12.1|app-multimedia|Compliance mode enabled, was '2.12.1'|
