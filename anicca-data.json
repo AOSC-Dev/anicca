@@ -939,6 +939,7 @@
 ["ocaml-cmdliner","1.2.0","1.3.0","lang-ocaml",1715073538,["Compliance mode enabled, was '1.3.0'"]],
 ["ocamlbuild","0.14.1","0.16.1","lang-ocaml",1715073538,["Compliance mode enabled, was '0.16.1'"]],
 ["ocaml-fmt","0.9.0","0.10.0","lang-ocaml",1715073538,["Compliance mode enabled, was '0.10.0'"]],
+["dune","3.4.1","3.18.2","lang-ocaml",1715073538,["Compliance mode enabled, was '3.18.2'"]],
 ["ocaml-re","1.11.0","1.13.3","lang-ocaml",1715073538,["Compliance mode enabled, was '1.13.3'"]],
 ["ocaml-csexp","1.5.1","1.5.2","lang-ocaml",1715073538,["Compliance mode enabled, was '1.5.2'"]],
 ["ocaml-graphics","5.1.0","5.1.2","lang-ocaml",1715073538,["Compliance mode enabled, was '5.1.2'"]],
