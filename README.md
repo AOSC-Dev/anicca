@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747235544?label=Updated)
+![Relative date](https://img.shields.io/date/1747239272?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -439,7 +439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.22.8|runtime-vcs|Compliance mode enabled, was '0.22.8'|
-|dune|3.4.1|3.18.2|lang-ocaml|Compliance mode enabled, was '3.18.2'|
 |duplicity|3.0.1|3.0.4.1|app-utils|Compliance mode enabled, was '3.0.4.1'|
 |easy-rsa|3.2.0|3.2.2|app-cryptography|Compliance mode enabled, was '3.2.2'|
 |edencommon|2025.03.24.00|2025.05.12.00|runtime-common|Compliance mode enabled, was '2025.05.12.00'|
@@ -1172,6 +1171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktextwidgets|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |ktimer|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |ktnef|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|ktoblzcheck|1.57|1.58|runtime-productivity|Compliance mode enabled, was '1.58'|
 |ktorrent|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |ktorrent-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ktouch|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1182,7 +1182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.33.2|0.34.1|app-network|Compliance mode enabled, was '0.34.1'|
 |kubrick|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kunitconversion|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
-|kvantum|1.0.10|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
+|kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
 |kvirc|5.0.0|5.2.6|app-web|Compliance mode enabled, was '5.2.6'|
 |kvkbd-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kvpnc-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
