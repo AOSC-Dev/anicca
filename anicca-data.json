@@ -325,7 +325,7 @@
 ["libfido2","1.13.0","1.16.0","runtime-devices",1743473069,["Compliance mode enabled, was '1.16.0'"]],
 ["libcl","2.3.2","2.3.3","runtime-devices",1715585686,["Compliance mode enabled, was '2.3.3'"]],
 ["libserialport","0.1.1","0.1.2","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.2'"]],
-["libcec","6.0.2","libcec-7.0.0","runtime-devices",1708227122,["Compliance mode enabled, was 'libcec-7.0.0'"]],
+["libcec","6.0.2","7.0.0","runtime-devices",1708227122,["Compliance mode enabled, was '7.0.0'"]],
 ["usbredir","0.8.0","0.15.0","runtime-devices",1570906865,["Compliance mode enabled, was '0.15.0'"]],
 ["libticonv","1.1.4","1.1.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.5'"]],
 ["libisoburn","1.5.2","1.5.6","runtime-devices",1577446802,["Compliance mode enabled, was '1.5.6'"]],
