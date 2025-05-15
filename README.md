@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747329168?label=Updated)
+![Relative date](https://img.shields.io/date/1747332974?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1181,7 +1181,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |ktuberling|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kturtle|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kubectl|1.32.2|1.33.0|app-containers|Compliance mode enabled, was '1.33.0'|
+|kubectl|1.32.2|1.33.1|app-containers|Compliance mode enabled, was '1.33.1'|
 |kubo|0.33.2|0.34.1|app-network|Compliance mode enabled, was '0.34.1'|
 |kubrick|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kunitconversion|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
@@ -2420,6 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pkg-config|1.5.8|1.6.2|lang-ruby|Compliance mode enabled, was '1.6.2'|
 |runc|1.2.6|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
 |rust-bindgen|0.69.4|0.71.1|lang-rust|Compliance mode enabled, was '0.71.1'|
+|rustc|1.86.0|1.87.0|lang-rust|Compliance mode enabled, was '1.87.0'|
 |rustc+32|1.85.0|1.86.0|runtime-optenv32|Compliance mode enabled, was '1.86.0'|
 |rustc-demangle|0.1.21|0.1.24|runtime-common|Compliance mode enabled, was '0.1.24'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|

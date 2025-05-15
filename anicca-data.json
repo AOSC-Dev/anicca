@@ -2510,7 +2510,7 @@
 ["podman","5.4.2","5.5.0","app-containers",1743763699,[]],
 ["containerd","2.0.2","2.1.0","app-containers",1744297686,["Compliance mode enabled, was '2.1.0'"]],
 ["incus","6.11.0","6.12.0","app-containers",1743413048,["Compliance mode enabled, was '6.12.0'"]],
-["kubectl","1.32.2","1.33.0","app-containers",1744297687,["Compliance mode enabled, was '1.33.0'"]],
+["kubectl","1.32.2","1.33.1","app-containers",1744297687,["Compliance mode enabled, was '1.33.1'"]],
 ["docker-buildx","0.22.0","0.23.0","app-containers",1744451678,["Compliance mode enabled, was '0.23.0'"]],
 ["docker","28.0.4","28.1.1","app-containers",1744451678,[]],
 ["rocm-smi-lib","6.0.2","6.4.0","runtime-rocm",1710608706,["Compliance mode enabled, was '6.4.0'"]],
@@ -2987,5 +2987,6 @@
 ["cargo-c","0.10.2","0.10.12+cargo-0.87.0","lang-rust",1720034717,["Compliance mode enabled, was '0.10.12+cargo-0.87.0'"]],
 ["cargo-smart-release","0.17.0","0.30.0","lang-rust",1681640167,["Compliance mode enabled, was '0.30.0'"]],
 ["rust-bindgen","0.69.4","0.71.1","lang-rust",1721277711,["Compliance mode enabled, was '0.71.1'"]],
+["rustc","1.86.0","1.87.0","lang-rust",1744015688,["Compliance mode enabled, was '1.87.0'"]],
 ["cargo-release","0.25.10","0.25.18","lang-rust",1720105719,["Compliance mode enabled, was '0.25.18'"]]
 ]
