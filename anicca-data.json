@@ -1407,7 +1407,7 @@
 ["audit","4.0.2","4.0.3","app-admin",1733052396,["Compliance mode enabled, was '4.0.3'"]],
 ["rtslib-fb","2.1.75","2.2.3","app-admin",1614669553,["Compliance mode enabled, was '2.2.3'"]],
 ["sanlock","3.8.5","4.0.0","app-admin",1694574450,["Compliance mode enabled, was '4.0.0'"]],
-["zfs","2.3.1","2.3.99","app-admin",1742097483,["Compliance mode enabled, was '2.3.99'"]],
+["zfs","2.3.1","2.3.2","app-admin",1742097483,["Compliance mode enabled, was '2.3.2'"]],
 ["cryfs","0.11.4","1.0.1","app-admin",1728366844,["Compliance mode enabled, was '1.0.1'"]],
 ["osinfo-db-tools","1.10.0","1.12.0","app-admin",1694574450,["Compliance mode enabled, was '1.12.0'"]],
 ["sbsigntool","0.9.4","0.9.5","app-admin",1600106563,["Compliance mode enabled, was '0.9.5'"]],
