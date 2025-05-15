@@ -169,6 +169,7 @@
 ["passt","2024_10_30.ee7d0b6","2025_05_12.8ec1341","app-network",1731759292,[]],
 ["ser2net","3.5","4.6.4","app-network",1528905473,["Compliance mode enabled, was '4.6.4'"]],
 ["grpc","1.64.0","1.72.0","app-network",1737436557,["Compliance mode enabled, was '1.72.0'"]],
+["miniupnpd","2.3.5","2.3.9","app-network",1710565425,["Compliance mode enabled, was '2.3.9'"]],
 ["cifs-utils","7.0","7.3","app-network",1746182477,["Compliance mode enabled, was '7.3'"]],
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
 ["apicula","0.14","0.18","app-electronics",1728142856,["Compliance mode enabled, was '0.18'"]],
