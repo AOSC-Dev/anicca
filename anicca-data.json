@@ -2484,7 +2484,6 @@
 ["fscan","2.0.0","2.0.1","app-utils",1738378679,["Compliance mode enabled, was '2.0.1'"]],
 ["nomino","1.3.1","1.6.1","app-utils",1680558295,["Compliance mode enabled, was '1.6.1'"]],
 ["cmix","20","21","app-utils",1710985220,["Compliance mode enabled, was '21'"]],
-["screen","5.0.1","5.0.0","app-utils",1747231501,["Compliance mode enabled, was '5.0.0'","Possible downgrade from the current version (5.0.1 -> 5.0.0)"]],
 ["dialog","1.3+20240619","1.3+20250116","app-utils",1720099389,["Compliance mode enabled, was '1.3-20250116'"]],
 ["caligula","0.4.5","0.4.8","app-utils",1715739687,["Compliance mode enabled, was '0.4.8'"]],
 ["yara","4.5.0","4.5.2","app-utils",1712767296,["Compliance mode enabled, was '4.5.2'"]],
