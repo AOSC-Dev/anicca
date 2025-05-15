@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747300409?label=Updated)
+![Relative date](https://img.shields.io/date/1747304118?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1797,6 +1797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.21|desktop-kde|Compliance mode enabled, was '0.26.21'|
 |okular|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
+|oma|1.17.2|1.17.3|app-admin|Compliance mode enabled, was '1.17.3'|
 |onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7671-250514-dc597d5|app-games|Compliance mode enabled, was '1.91.0.7671-250514-dc597d5'|
@@ -2125,7 +2126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-systemmonitor|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-thunderbolt|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-vault|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
-|plasma-wayland-protocols|1.10.0|1.17.0|desktop-kde|Compliance mode enabled, was '1.17.0'|
+|plasma-wayland-protocols|1.10.0|1.18.0|desktop-kde|Compliance mode enabled, was '1.18.0'|
 |plasma-welcome|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-workspace|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-workspace-wallpapers|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -2364,7 +2365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |remmina|1.4.39|1.4.40|app-network|Compliance mode enabled, was '1.4.40'|
 |renderdoc|1.37|1.38|app-devel|Compliance mode enabled, was '1.38'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
-|reportlab|3.5.50|4.4.0|lang-python|Compliance mode enabled, was '4.4.0'|
+|reportlab|3.5.50|4.4.1|lang-python|Compliance mode enabled, was '4.4.1'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
