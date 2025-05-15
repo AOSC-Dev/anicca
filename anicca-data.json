@@ -1909,7 +1909,7 @@
 ["cabal-install","3.10.3.0","3.14.2.0","lang-haskell",1711355899,["Compliance mode enabled, was '3.14.2.0'"]],
 ["ghc","9.4.8","9.12.2-release","lang-haskell",1711355899,["Compliance mode enabled, was '9.12.2-release'"]],
 ["pyopenssl","23.1.1","25.0.0","lang-python",1618998184,["Compliance mode enabled, was '25.0.0'"]],
-["tornado","6.4.1","6.4.2","lang-python",1718881443,["Compliance mode enabled, was '6.4.2'"]],
+["tornado","6.4.1","6.5","lang-python",1718881443,["Compliance mode enabled, was '6.5'"]],
 ["cli-helpers","1.1.0","2.4.0","lang-python",1551501525,["Compliance mode enabled, was '2.4.0'"]],
 ["dephell-specifier","0.2.2","0.3.0","lang-python",1609312655,["Compliance mode enabled, was '0.3.0'"]],
 ["six","1.16.0","1.17.0","lang-python",1551204055,["Compliance mode enabled, was '1.17.0'"]],
