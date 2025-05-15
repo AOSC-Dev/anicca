@@ -1045,7 +1045,6 @@
 ["libjpeg-turbo+32","3.0.4","3.1.0","runtime-optenv32",1740919517,["Compliance mode enabled, was '3.1.0'"]],
 ["vkd3d+32","1.9","1.15","runtime-optenv32",1670377181,["Compliance mode enabled, was '1.15'"]],
 ["libssh+32","0.8.9","0.11.1","runtime-optenv32",1740919540,["Compliance mode enabled, was '0.11.1'"]],
-["pango+32","1.56.1","1.56.3","runtime-optenv32",1740919529,["Compliance mode enabled, was '1.56.3'"]],
 ["libxnvctrl+32","565.57.01","570.86.16","runtime-optenv32",1740919512,["Compliance mode enabled, was '570.86.16'"]],
 ["fontconfig+32","2.15.0","2.16.2","runtime-optenv32",1740919515,["Compliance mode enabled, was '2.16.2'"]],
 ["x265+32","3.6","4.1","runtime-optenv32",1740919511,["Compliance mode enabled, was '4.1'"]],
