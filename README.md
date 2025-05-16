@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747422670?label=Updated)
+![Relative date](https://img.shields.io/date/1747426467?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -675,7 +675,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnote|42.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|gnu-efi|3.0.18|4.0.0|app-devel|Compliance mode enabled, was '4.0.0'|
+|gnu-efi|3.0.18|4.0.1|app-devel|Compliance mode enabled, was '4.0.1'|
 |gnuchess|6.2.9|6.2.11|app-games|Compliance mode enabled, was '6.2.11'|
 |gnustep-base|1.28.0|1.31.1|runtime-gnustep|Compliance mode enabled, was '1_31_1'|
 |gnustep-make|2.9.0|2.9.3|runtime-gnustep|Compliance mode enabled, was '2_9_3'|
@@ -1003,7 +1003,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgtk-qt3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kguiaddons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |khangman|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|khealthcertificate|22.11|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |khelpcenter|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kholidays|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |khotkeys|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -1770,7 +1769,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.2.5|lang-python|Compliance mode enabled, was '2.2.5'|
 |nut|2.7.4|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
-|nvidia|570.133.07|575.51.02|groups|Compliance mode enabled, was '575.51.02'|
+|nvidia|570.133.07|575.51.02|runtime-display|Compliance mode enabled, was '575.51.02'|
 |nvidia-open|570.133.07<br>+utils570.133.07|575.51.03|runtime-display|Compliance mode enabled, was '575.51.03'|
 |nvme-cli|2.11|2.13|app-admin|Compliance mode enabled, was '2.13'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
@@ -1825,7 +1824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
-|openjdk-8|8u452-ga|8u462-b02|groups||
+|openjdk-8|8u452-ga|8u462-b02|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.28+2|lang-java|Compliance mode enabled, was '11.0.28+2'|
 |openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
 |openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
@@ -2734,7 +2733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.8.0|app-utils|Compliance mode enabled, was '0.8.0'<br>Possible downgrade from the current version (20161208 -> 0.8.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.25.3|0.25.4|groups|Compliance mode enabled, was '0.25.4'|
+|tree-sitter|0.25.3|0.25.4|app-devel|Compliance mode enabled, was '0.25.4'|
 |tree-sitter-query|0.5.1|0.6.1|runtime-editors|Compliance mode enabled, was '0.6.1'|
 |tree-sitter-vim|0.5.0|0.6.0|runtime-editors|Compliance mode enabled, was '0.6.0'|
 |tree-sitter-vimdoc|3.0.1|4.0.0|runtime-editors|Compliance mode enabled, was '4.0.0'|
@@ -2855,7 +2854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wangle|2025.03.24.00|2025.05.12.00|runtime-network|Compliance mode enabled, was '2025.05.12.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
-|watchman|2025.03.24.00|2025.05.12.00|groups|Compliance mode enabled, was '2025.05.12.00'|
+|watchman|2025.03.24.00|2025.05.12.00|app-utils|Compliance mode enabled, was '2025.05.12.00'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
