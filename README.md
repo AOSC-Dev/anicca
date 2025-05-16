@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747433473?label=Updated)
+![Relative date](https://img.shields.io/date/1747437150?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1074,7 +1074,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmymoney-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knavalbattle|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |knemo-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|knetload-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetstats-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetwalk|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |knewstuff|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
@@ -1763,7 +1762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss|3.110|3.111|runtime-cryptography|Compliance mode enabled, was '3.111'|
 |nss+32|3.110|3.111|runtime-optenv32|Compliance mode enabled, was '3.111'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
-|nuclei|3.4.2|3.4.3|app-utils|Compliance mode enabled, was '3.4.3'|
+|nuclei|3.4.2|3.4.4|app-utils|Compliance mode enabled, was '3.4.4'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
 |numix-icon-theme-circle|24.10.22|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
