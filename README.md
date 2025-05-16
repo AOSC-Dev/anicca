@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747426467?label=Updated)
+![Relative date](https://img.shields.io/date/1747429947?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1003,6 +1003,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgtk-qt3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kguiaddons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |khangman|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|khealthcertificate|22.11|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |khelpcenter|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kholidays|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |khotkeys|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -1799,7 +1800,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|12.5.0|12.5.2|app-virtualization|Compliance mode enabled, was '12.5.2'|
-|openai-python|1.63.2|1.78.1|lang-python|Compliance mode enabled, was '1.78.1'|
+|openai-python|1.63.2|1.79.0|lang-python|Compliance mode enabled, was '1.79.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.0|runtime-imaging|Compliance mode enabled, was '7.9.0'|
@@ -2525,7 +2526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spectacle|22.12.3|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |speech-dispatcher|0.11.2|0.12.1|runtime-desktop|Compliance mode enabled, was '0.12.1'|
 |speedometer|2.8|2.9|app-network|Compliance mode enabled, was '2.9'|
-|speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.6.0|runtime-scientific|Compliance mode enabled, was '2.6.0'|
 |sphinx|7.0.1|8.2.3|app-doc|Compliance mode enabled, was '8.2.3'|
