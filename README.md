@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747368988?label=Updated)
+![Relative date](https://img.shields.io/date/1747372480?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -367,7 +367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.24.2|lang-golang|Compliance mode enabled, was '1.24.2'|
-|deno|1.44.1|2.3.1|lang-js|Compliance mode enabled, was '2.3.1'|
+|deno|1.44.1|2.3.2|lang-js|Compliance mode enabled, was '2.3.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
@@ -894,7 +894,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalk|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kalzium|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kamera|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kamoso|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kanagram|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kapidox|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kapman|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -2602,6 +2601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |sweeper|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|swell-foop|41.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |swiftclient|4.6.0|4.7.0|lang-python|Compliance mode enabled, was '4.7.0'|
 |swig|4.3.0|4.3.1|app-devel|Compliance mode enabled, was '4.3.1'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
