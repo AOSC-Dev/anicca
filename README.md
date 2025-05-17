@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747437150?label=Updated)
+![Relative date](https://img.shields.io/date/1747442788?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -832,7 +832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
-|iperf3|3.17.1|3.18|app-network|Compliance mode enabled, was '3.18'|
+|iperf3|3.17.1|3.19|app-network|Compliance mode enabled, was '3.19'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
 |iproute2|6.11.0|6.14.0|app-network|Compliance mode enabled, was '6.14.0'|
 |ipset|7.22|7.23|app-network|Compliance mode enabled, was '7.23'|
@@ -1074,6 +1074,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmymoney-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knavalbattle|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |knemo-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|knetload-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetstats-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetwalk|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |knewstuff|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
