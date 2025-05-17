@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747494667?label=Updated)
+![Relative date](https://img.shields.io/date/1747498332?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -835,7 +835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iperf3|3.17.1|3.19|app-network|Compliance mode enabled, was '3.19'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
 |iproute2|6.11.0|6.14.0|app-network|Compliance mode enabled, was '6.14.0'|
-|ipset|7.22|7.23|app-network|Compliance mode enabled, was '7.23'|
+|ipset|7.22|7.24|app-network|Compliance mode enabled, was '7.24'|
 |ipt2socks|1.1.3|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |iptables|1.8.8|1.8.11|app-network|Compliance mode enabled, was '1.8.11'|
 |iptraf-ng|1.1.4|1.2.2|app-network|Compliance mode enabled, was '1.2.2'|
@@ -1578,7 +1578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-globalkeys|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxqt-menu-data|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxqt-notificationd|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
-|lxqt-panel|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
+|lxqt-panel|1.4.0|2.2.1|desktop-lxqt|Compliance mode enabled, was '2.2.1'|
 |lxqt-policykit|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxqt-powermanagement|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxqt-qtplugin|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
@@ -2777,7 +2777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
 |unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unbound|1.19.2|1.23.0|app-network||
-|uncrustify|0.78.1|0.80.1|app-devel|Compliance mode enabled, was '0.80.1'|
+|uncrustify|0.78.1|0.81.0|app-devel|Compliance mode enabled, was '0.81.0'|
 |unibilium|2.1.1|2.1.2|runtime-common|Compliance mode enabled, was '2.1.2'|
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
 |unidecode|1.0.23|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
