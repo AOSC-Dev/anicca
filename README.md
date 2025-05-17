@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747519845?label=Updated)
+![Relative date](https://img.shields.io/date/1747523480?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -49,7 +49,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akregator|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |alacarte|3.54.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
-|alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |alsa-lib|1.2.13|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
@@ -694,7 +693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
-|gpsd|3.25|3.26|app-scientific|Compliance mode enabled, was '3.26'|
+|gpsd|3.25|3.26.1|app-scientific|Compliance mode enabled, was '3.26.1'|
 |gradle|8.13.0|8.14.0|lang-java|Compliance mode enabled, was '8.14.0'|
 |granatier|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |grantlee-editor|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -2807,7 +2806,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.4|0.7.5|lang-python|Compliance mode enabled, was '0.7.5'|
-|v2ray-rules-dat|202501302211|202505162213|runtime-data|Compliance mode enabled, was '202505162213'<br>Versions not comparable: `202501302211` and `202505162213`|
+|v2ray|5.31.0|5.32.0|app-network|Compliance mode enabled, was '5.32.0'|
+|v2ray-rules-dat|202501302211|202505172212|runtime-data|Compliance mode enabled, was '202505172212'<br>Versions not comparable: `202501302211` and `202505172212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
