@@ -2829,7 +2829,7 @@
 ["powershell","7.4.5","7.5.1","app-shells",1727880721,["Compliance mode enabled, was '7.5.1'"]],
 ["ngspice","35","44.2","app-electronics",1624316725,["Compliance mode enabled, was '44.2'"]],
 ["verilator","5.026","5.036","app-electronics",1721488325,["Compliance mode enabled, was '5.036'"]],
-["apicula","0.14","0.18","app-electronics",1728142856,["Compliance mode enabled, was '0.18'"]],
+["apicula","0.14","0.19","app-electronics",1728142856,["Compliance mode enabled, was '0.19'"]],
 ["gtkwave","3.3.121","3.3.124","app-electronics",1731071287,["Compliance mode enabled, was '3.3.124'"]],
 ["yosys","0.45","0.53","app-electronics",1728142856,["Compliance mode enabled, was '0.53'"]],
 ["cinnamon-menus","5.8.0","6.4.0","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.4.0'"]],

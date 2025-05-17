@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747455237?label=Updated)
+![Relative date](https://img.shields.io/date/1747458707?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -71,7 +71,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.11.0|desktop-themes|Compliance mode enabled, was '2024.11.0'|
 |aosc-media-writer|0.3.4|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
-|apicula|0.14|0.18|app-electronics|Compliance mode enabled, was '0.18'|
+|apicula|0.14|0.19|app-electronics|Compliance mode enabled, was '0.19'|
 |apparmor|3.0.8|4.1.0-cherry-pick-point|app-admin|Compliance mode enabled, was '4.1.0-cherry-pick-point'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.3|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
