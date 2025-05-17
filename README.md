@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747516309?label=Updated)
+![Relative date](https://img.shields.io/date/1747519845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1768,8 +1768,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.4|app-utils|Compliance mode enabled, was '3.4.4'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
+|numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
 |numix-icon-theme-circle|24.10.22|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
-|numpy|1.26.4|2.2.5|lang-python|Compliance mode enabled, was '2.2.5'|
+|numpy|1.26.4|2.2.6|lang-python|Compliance mode enabled, was '2.2.6'|
 |nut|2.7.4|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
 |nvidia|570.133.07|575.51.02|runtime-display|Compliance mode enabled, was '575.51.02'|
@@ -1877,7 +1878,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.7|app-devel|Compliance mode enabled, was '1.1.7'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.2.3|lang-python|Compliance mode enabled, was '2.2.3'|
-|pandoc|3.6.3|3.7|app-doc|Compliance mode enabled, was '3.7'|
+|pandoc|3.6.3|3.7.0.1|app-doc|Compliance mode enabled, was '3.7.0.1'|
 |pango|1.56.1|1.56.3|runtime-desktop|Compliance mode enabled, was '1.56.3'|
 |pango+32|1.56.1|1.56.3|runtime-optenv32|Compliance mode enabled, was '1.56.3'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
@@ -2313,6 +2314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
+|qpwgraph|0.9.1|0.9.2|app-multimedia|Compliance mode enabled, was '0.9.2'|
 |qqc2-desktop-style|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
