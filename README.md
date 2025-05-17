@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747462578?label=Updated)
+![Relative date](https://img.shields.io/date/1747465980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2591,7 +2591,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |sunshine|2025.122.141614|2025.514.173708|app-multimedia|Compliance mode enabled, was '2025.514.173708'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
-|supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
 |superslicer|2.7.61.0|2.7.61.3|app-creativity|Compliance mode enabled, was '2.7.61.3'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
