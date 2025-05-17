@@ -2879,7 +2879,7 @@
 ["materialx","1.38.8","1.39.3","runtime-creativity",1710216829,["Compliance mode enabled, was '1.39.3'"]],
 ["libspiro","0.5.20150702","20240903","runtime-creativity",1469877577,["Compliance mode enabled, was '20240903'"]],
 ["openpgl","0.5.0","0.7.0","runtime-creativity",1691207555,["Compliance mode enabled, was '0.7.0'"]],
-["llama.cpp","5298","5411","runtime-creativity",1746611595,["Compliance mode enabled, was '5411'"]],
+["llama.cpp","5298","5412","runtime-creativity",1746611595,["Compliance mode enabled, was '5412'"]],
 ["ptex","2.3.2","2.4.3","runtime-creativity",1565150273,["Compliance mode enabled, was '2.4.3'"]],
 ["gdmd","0.1.0+git20230214","script-0.1.0","lang-dlang",1716196956,["Compliance mode enabled, was 'script-0.1.0'","Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)"]],
 ["ldc","1.38.0","1.40.1","lang-dlang",1716215735,["Compliance mode enabled, was '1.40.1'"]],
