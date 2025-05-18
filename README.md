@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747556026?label=Updated)
+![Relative date](https://img.shields.io/date/1747559554?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -608,6 +608,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gifski|1.32.0|1.33.0|app-imaging|Compliance mode enabled, was '1.33.0'|
 |gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
+|gimp|3.0.2|3.0.4|app-creativity|Compliance mode enabled, was '3.0.4'|
 |git-cinnabar|0.6.3|0.7.2|app-vcs|Compliance mode enabled, was '0.7.2'|
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
 |gitdb|4.0.11|4.0.12|runtime-vcs|Compliance mode enabled, was '4.0.12'|
@@ -2605,6 +2606,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |sysstat|12.7.5|12.7.7|app-utils|Compliance mode enabled, was '12.7.7'|
+|systemd|257.2|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (257.2 -> 256)|
 |systemsettings|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |systemtap|5.2|5.3|app-utils|Compliance mode enabled, was '5.3'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
@@ -2919,7 +2921,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-session|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |xfce4-terminal|1.1.4|1.1.5|desktop-xfce|Compliance mode enabled, was '1.1.5'|
 |xfconf|4.20.0|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
-|xfe|1.46.1|2.0.1|app-utils|Compliance mode enabled, was '2.0.1'|
+|xfe|1.46.1|2.1|app-utils|Compliance mode enabled, was '2.1'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xiccd|0.3.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
