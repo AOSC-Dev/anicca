@@ -1336,6 +1336,7 @@
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
 ["firewalld","2.2.1","2.3.0","app-network",1722267199,["Compliance mode enabled, was '2.3.0'"]],
 ["strongswan","5.9.4","6.0.1","app-network",1635182670,["Compliance mode enabled, was '6.0.1'"]],
+["sing-box","1.11.11","1.11.10","app-network",1747579401,["Compliance mode enabled, was '1.11.10'","Possible downgrade from the current version (1.11.11 -> 1.11.10)"]],
 ["nftables","1.0.9","1.1.3","app-network",1600577920,["Compliance mode enabled, was '1.1.3'"]],
 ["netcat","1.219","1.229","app-network",1674452376,["Compliance mode enabled, was '1.229'"]],
 ["smartdns","35","46.1","app-network",1640828077,["Compliance mode enabled, was '46.1'"]],
