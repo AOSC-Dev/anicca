@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747541911?label=Updated)
+![Relative date](https://img.shields.io/date/1747545113?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -330,7 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |cssutils|1.0.2|2.11.1|lang-python|Compliance mode enabled, was '2.11.1'|
-|ctags|20191203|6.1.20250511.0|app-devel|Compliance mode enabled, was '6.1.20250511.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250511.0)|
+|ctags|20191203|6.1.20250518.0|app-devel|Compliance mode enabled, was '6.1.20250518.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250518.0)|
 |cuda|12.8.1|12.9.0|app-devel||
 |cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
@@ -2105,6 +2105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-firewall|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-framework|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |plasma-integration|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
+|plasma-mobile|5.27.5|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-nano|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-nm|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-pa|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
