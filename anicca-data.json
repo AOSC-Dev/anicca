@@ -1700,6 +1700,7 @@
 ["libnftnl","1.2.6","1.2.9","runtime-network",1608367947,["Compliance mode enabled, was '1.2.9'"]],
 ["arpack-ng","3.8.0","3.9.1","app-scientific",1616217700,["Compliance mode enabled, was '3.9.1'"]],
 ["bcftools","1.20","1.21","app-scientific",1717415676,["Compliance mode enabled, was '1.21'"]],
+["praat","6.4.30","6.4.33","app-scientific",1746069159,["Compliance mode enabled, was '6.4.33'"]],
 ["openmpi","4.1.6","5.0.7","app-scientific",1716736819,["Compliance mode enabled, was '5.0.7'"]],
 ["gap","4.10.2","4.14.0","app-scientific",1569912322,["Compliance mode enabled, was '4.14.0'"]],
 ["ncbi-blast+","2.13.0","2.16.0+","app-scientific",1555643138,["Compliance mode enabled, was '2.16.0+'"]],
