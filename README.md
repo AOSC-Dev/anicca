@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747588196?label=Updated)
+![Relative date](https://img.shields.io/date/1747592032?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -826,7 +826,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inkscape|1_4_1|1_4_2|app-creativity||
 |intel-media-driver|25.1.4|25.2.2|runtime-multimedia|Compliance mode enabled, was '25.2.2'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
-|iosevka-fonts|33.2.2|33.2.3|desktop-fonts|Compliance mode enabled, was '33.2.3'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.19|app-network|Compliance mode enabled, was '3.19'|
@@ -2303,7 +2302,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
-|qpwgraph|0.9.1|0.9.2|app-multimedia|Compliance mode enabled, was '0.9.2'|
 |qqc2-desktop-style|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
