@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747581074?label=Updated)
+![Relative date](https://img.shields.io/date/1747584762?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -100,7 +100,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.16|lang-dotnet|Compliance mode enabled, was '8.0.16'|
 |assimp|5.4.0|5.4.3|runtime-multimedia|Compliance mode enabled, was '5.4.3'|
-|ast-grep|0.36.2|0.38.1|app-devel|Compliance mode enabled, was '0.38.1'|
+|ast-grep|0.36.2|0.38.2|app-devel|Compliance mode enabled, was '0.38.2'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |astyle|3.6.6|3.6.9|app-devel|Compliance mode enabled, was '3.6.9'|
 |async-timeout|4.0.2|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
@@ -365,7 +365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debianutils|5.7|5.22|app-utils|Compliance mode enabled, was '5.22'|
 |debootstrap|1.0.140|1.0.141|app-utils|Compliance mode enabled, was '1.0.141'|
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
-|deja-dup|42.9|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|deja-dup|42.9|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.24.2|lang-golang|Compliance mode enabled, was '1.24.2'|
 |deno|1.44.1|2.3.3|lang-js|Compliance mode enabled, was '2.3.3'|
@@ -2470,7 +2470,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|48.1+2|desktop-gnome|Compliance mode enabled, was '48.1-2'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
-|sing-box|1.11.11|1.11.10|app-network|Compliance mode enabled, was '1.11.10'<br>Possible downgrade from the current version (1.11.11 -> 1.11.10)|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.10.0|6.11.0|lang-python|Compliance mode enabled, was '6.11.0'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
