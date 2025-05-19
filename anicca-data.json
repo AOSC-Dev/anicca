@@ -2209,7 +2209,7 @@
 ["sudo","1.9.16","1.9.16p2","app-admin",1725356657,["Compliance mode enabled, was '1_9_16p2'","Possible downgrade from the current version (1.9.16 -> 1.9.16p2)"]],
 ["rdma-core","51.0","57.0","app-admin",1716563534,["Compliance mode enabled, was '57.0'"]],
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
-["appstream","1.0.3","1.0.5","app-admin",1735016113,["Compliance mode enabled, was '1.0.5'"]],
+["appstream","1.0.4","1.0.5","app-admin",1747636150,["Compliance mode enabled, was '1.0.5'"]],
 ["conmon","2.1.12","2.1.13","app-admin",1721093861,["Compliance mode enabled, was '2.1.13'"]],
 ["squashfs-tools-ng","1.3.1","1.3.2","app-admin",1716292186,["Compliance mode enabled, was '1.3.2'"]],
 ["linyaps","1.6.3","1.8.0","app-admin",1739068944,["Compliance mode enabled, was '1.8.0'"]],
