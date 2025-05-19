@@ -1976,7 +1976,6 @@
 ["spice","0.15.2","0.16.0","runtime-virtualization",1694574450,["Compliance mode enabled, was '0.16.0'"]],
 ["libvirt-python","10.5.0","11.3.0","runtime-virtualization",1722229372,["Compliance mode enabled, was '11.3.0'"]],
 ["libguestfs","1.54.1","1.55.11","runtime-virtualization",1744297689,["Compliance mode enabled, was '1.55.11'"]],
-["spice-protocol","0.14.4","0.14.5","runtime-virtualization",1665300099,["Compliance mode enabled, was '0.14.5'"]],
 ["libgovirt","0.3.8","0.3.9","runtime-virtualization",1619939227,["Compliance mode enabled, was '0.3.9'"]],
 ["ruby-ffi","1.17.0","1.17.2","lang-ruby",1735985938,["Compliance mode enabled, was '1.17.2'"]],
 ["nokogiri","1.18.4","1.18.8","lang-ruby",1735985938,["Compliance mode enabled, was '1.18.8'"]],
