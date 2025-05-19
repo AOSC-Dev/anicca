@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747615782?label=Updated)
+![Relative date](https://img.shields.io/date/1747622634?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -746,6 +746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenhywfar|5.10.2|5.12.0|runtime-network|Compliance mode enabled, was '5.12.0'|
 |gwenview|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |gwenview-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
 |handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|11.2.1|runtime-desktop|Compliance mode enabled, was '11.2.1'|
@@ -1558,7 +1559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.32|app-admin|Compliance mode enabled, was '2.03.32'|
 |lxc|6.0.1|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
 |lxcfs|3.0.3|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
-|lxgwcleargothic-font|0.300.4|0.500|desktop-fonts|Compliance mode enabled, was '0.500'|
+|lxgwcleargothic-font|0.300.4|0.501|desktop-fonts|Compliance mode enabled, was '0.501'|
 |lxgwneoxihei-font|1.213|1.216.2|desktop-fonts|Compliance mode enabled, was '1.216.2'|
 |lxgwwenkai-font|1.510|1.511|desktop-fonts|Compliance mode enabled, was '1.511'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
@@ -2324,7 +2325,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qutebrowser|3.5.0<br>+pdfjs5.1.91|3.5.0|app-web|Compliance mode enabled, was '3.5.0'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
-|racket|8.16|8.17|lang-lisp|Compliance mode enabled, was '8.17'|
 |radare2|5.9.4|5.9.8|app-devel|Compliance mode enabled, was '5.9.8'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
@@ -2798,7 +2798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.31.0|5.32.0|app-network|Compliance mode enabled, was '5.32.0'|
-|v2ray-rules-dat|202501302211|202505172212|runtime-data|Compliance mode enabled, was '202505172212'<br>Versions not comparable: `202501302211` and `202505172212`|
+|v2ray-rules-dat|202501302211|202505182212|runtime-data|Compliance mode enabled, was '202505182212'<br>Versions not comparable: `202501302211` and `202505182212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
