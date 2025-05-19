@@ -767,6 +767,7 @@
 ["perl-glib-object-introspection","0.047","0.051","lang-perl",1550814485,["Compliance mode enabled, was '0.051'"]],
 ["perl-file-next","1.16","1.18","lang-perl",1488649548,["Compliance mode enabled, was '1.18'"]],
 ["perl-http-cookies","6.01","6.11","lang-perl",1678950872,["Compliance mode enabled, was '6.11'"]],
+["discord","0.0.94","0.0.95","app-web",1746502421,["Compliance mode enabled, was '0.0.95'"]],
 ["sozu","0.15.2","1.0.6","app-web",1696572712,["Compliance mode enabled, was '1.0.6'"]],
 ["firefox","138.0.1","138.0.4","app-web",1746691293,["Compliance mode enabled, was '138.0.4'"]],
 ["thunderbird","138.0","138.0.1","app-web",1746632382,["Compliance mode enabled, was '138.0.1'"]],
