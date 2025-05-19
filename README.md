@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747671356?label=Updated)
+![Relative date](https://img.shields.io/date/1747674757?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -482,8 +482,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.8~a5|lang-python|Compliance mode enabled, was '0.9.8a5'|
 |f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
-|faac|1.29.9.2|1.30|app-multimedia|Compliance mode enabled, was '1.30'|
-|faac+32|1.29.9.2|1.30|runtime-optenv32|Compliance mode enabled, was '1.30'|
+|faac|1.29.9.2|1.31.1|app-multimedia|Compliance mode enabled, was '1.31.1'|
+|faac+32|1.29.9.2|1.31.1|runtime-optenv32|Compliance mode enabled, was '1.31.1'|
 |faad2|2.11.1|2.11.2|app-multimedia|Compliance mode enabled, was '2.11.2'|
 |faad2+32|2.11.1|2.11.2|runtime-optenv32|Compliance mode enabled, was '2.11.2'|
 |facile|1.1.3|1.1.4|lang-ocaml|Compliance mode enabled, was '1.1.4'|
@@ -691,6 +691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goreleaser|2.8.2|2.9.0|lang-golang|Compliance mode enabled, was '2.9.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
+|gpgme|1.24.2|1.24.3|runtime-cryptography|Compliance mode enabled, was '1.24.3'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gpsd|3.25|3.26.1|app-scientific|Compliance mode enabled, was '3.26.1'|
 |gradle|8.13.0|8.14.0|lang-java|Compliance mode enabled, was '8.14.0'|
@@ -2911,7 +2912,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20230318|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
+|xfce4-battery-plugin|1.1.6|1.2.0|desktop-xfce|Compliance mode enabled, was '1.2.0'|
+|xfce4-calculator-plugin|0.7.3|0.8.0|desktop-xfce|Compliance mode enabled, was '0.8.0'|
+|xfce4-clipman-plugin|1.6.7|1.7.0|desktop-xfce|Compliance mode enabled, was '1.7.0'|
+|xfce4-cpufreq-plugin|1.2.9|1.3.0|desktop-xfce|Compliance mode enabled, was '1.3.0'|
+|xfce4-cpugraph-plugin|1.2.11|1.3.0|desktop-xfce|Compliance mode enabled, was '1.3.0'|
 |xfce4-dict|0.8.8|0.8.9|desktop-xfce|Compliance mode enabled, was '0.8.9'|
+|xfce4-diskperf-plugin|2.7.1|2.8.0|desktop-xfce|Compliance mode enabled, was '2.8.0'|
+|xfce4-fsguard-plugin|1.1.4|1.2.0|desktop-xfce|Compliance mode enabled, was '1.2.0'|
 |xfce4-panel|4.20.3|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
 |xfce4-pulseaudio-plugin|0.4.9|0.5.1|desktop-xfce|Compliance mode enabled, was '0.5.1'|
 |xfce4-session|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
