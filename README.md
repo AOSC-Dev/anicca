@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747714571?label=Updated)
+![Relative date](https://img.shields.io/date/1747718020?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -54,7 +54,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alligator|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |alsa-lib|1.2.13|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
 |alsa-lib+32|1.2.13|1.2.14|runtime-optenv32|Compliance mode enabled, was '1.2.14'|
-|alsa-ucm-conf|1.2.12|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
 |alsa-ucm-conf-asahi|6|8|runtime-multimedia|Compliance mode enabled, was '8'|
 |alsa-utils|1.2.13|1.2.14|app-multimedia|Compliance mode enabled, was '1.2.14'|
 |amarok-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -347,7 +346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.10|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |cython-0.29|0.29.36|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|damo|2.4.7|2.8.0|app-admin|Compliance mode enabled, was '2.8.0'|
+|damo|2.4.7|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.7.17|app-utils|Compliance mode enabled, was '2.7.17'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
@@ -1532,7 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5426|runtime-creativity|Compliance mode enabled, was '5426'|
+|llama.cpp|5298|5427|runtime-creativity|Compliance mode enabled, was '5427'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.5|runtime-optenv32|Compliance mode enabled, was '20.1.5'|
