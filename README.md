@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747764942?label=Updated)
+![Relative date](https://img.shields.io/date/1747768210?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2387,7 +2387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |roct-thunk-interface|6.0.0|6.2.4|runtime-rocm|Compliance mode enabled, was '6.2.4'|
 |rosegarden|24.12|24.12.1|app-creativity|Compliance mode enabled, was '24.12.1'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|roxterm|3.15.0|3.16.2|app-utils|Compliance mode enabled, was '3.16.2'|
+|roxterm|3.15.0|3.16.3|app-utils|Compliance mode enabled, was '3.16.3'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
 |rpm|4.18.0|4.20.1-release|app-admin|Compliance mode enabled, was '4.20.1-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
