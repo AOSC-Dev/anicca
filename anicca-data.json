@@ -1045,6 +1045,7 @@
 ["gh","2.72.0","2.73.0","app-devel",1746058136,["Compliance mode enabled, was '2.73.0'"]],
 ["cuda","12.8.1","12.9.0","app-devel",1744460209,[]],
 ["gcc+cross","13.2.0+glibc2.38+6","15.1.0","app-devel",1723639610,["Compliance mode enabled, was '15.1.0'"]],
+["valgrind","3.25.0","3.25.1","app-devel",1745931468,["Compliance mode enabled, was '3.25.1'"]],
 ["gobject-introspection","1.80.0","1.84.0","app-devel",1711178014,["Compliance mode enabled, was '1.84.0'"]],
 ["ast-grep","0.36.2","0.38.2","app-devel",1743849902,["Compliance mode enabled, was '0.38.2'"]],
 ["cmake","3.31.6","4.0.2","app-devel",1740506282,["Compliance mode enabled, was '4.0.2'"]],
