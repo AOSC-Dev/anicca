@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747729079?label=Updated)
+![Relative date](https://img.shields.io/date/1747732439?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -823,7 +823,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |incus|6.11.0|6.12.0|app-containers|Compliance mode enabled, was '6.12.0'|
 |inetutils|2.5|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |iniconfig|2.0.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
-|inih|53|60|app-devel|Compliance mode enabled, was '60'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |inkscape|1_4_1|1_4_2|app-creativity||
@@ -922,7 +921,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kclock|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kcm-wacomtablet|3.2.0|6.3.90|desktop-kde|Compliance mode enabled, was '6.3.90'|
 |kcmautostart-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|kcmutils|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kcodecs|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kcolorchooser|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
