@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747750431?label=Updated)
+![Relative date](https://img.shields.io/date/1747753955?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1670,6 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.3|0.6.5|desktop-xfce|Compliance mode enabled, was '0.6.5'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
+|mpd|0.24.3|0.24.4|app-multimedia|Compliance mode enabled, was '0.24.4'|
 |mpdecimal|4.0.0|4.0.1|runtime-common|Compliance mode enabled, was '4.0.1'|
 |mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
@@ -1688,7 +1689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multidict|5.1.0|6.4.4|lang-python|Compliance mode enabled, was '6.4.4'|
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |munkres|1.0.12|release-1.1.4|lang-python|Compliance mode enabled, was 'release-1.1.4'|
-|mupdf|1.24.10|1.26.0|app-doc|Compliance mode enabled, was '1.26.0'|
+|mupdf|1.24.10|1.26.1|app-doc|Compliance mode enabled, was '1.26.1'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
 |mutter|42.4|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |mvfst|2025.03.24.00|2025.05.19.00|runtime-network|Compliance mode enabled, was '2025.05.19.00'|
@@ -2457,8 +2458,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|80.7.1|lang-python|Compliance mode enabled, was '80.7.1'|
-|setuptools-python3|75.8.0|80.7.1|lang-python|Compliance mode enabled, was '80.7.1'|
+|setuptools-python2|44.1.0|80.8.0|lang-python|Compliance mode enabled, was '80.8.0'|
+|setuptools-python3|75.8.0|80.8.0|lang-python|Compliance mode enabled, was '80.8.0'|
 |setuptools-rust|1.9.0|1.11.1|lang-python|Compliance mode enabled, was '1.11.1'|
 |setuptools-scm|8.1.0|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |sfml|2.5.1|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
@@ -2668,7 +2669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tealdeer|1.6.1|1.7.2|app-doc|Compliance mode enabled, was '1.7.2'|
-|teams-for-linux|1.13.0|2.0.13|app-web|Compliance mode enabled, was '2.0.13'|
+|teams-for-linux|1.13.0|2.0.14|app-web|Compliance mode enabled, was '2.0.14'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telegram-desktop|5.14.2|5.14.3|app-web|Compliance mode enabled, was '5.14.3'|
@@ -2691,7 +2692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |thunar|4.20.2|4.20.3|desktop-xfce|Compliance mode enabled, was '4.20.3'|
-|thunderbird|138.0|138.0.1|app-web|Compliance mode enabled, was '138.0.1'|
+|thunderbird|138.0|138.0.2|app-web|Compliance mode enabled, was '138.0.2'|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tikzplotlib|0.9.8|0.10.1|lang-python|Compliance mode enabled, was '0.10.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
