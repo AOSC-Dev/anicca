@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747822472?label=Updated)
+![Relative date](https://img.shields.io/date/1747825949?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -829,7 +829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inkscape|1_4_1|1_4_2|app-creativity||
 |intel-compute-runtime|25.13.33276.19|25.18.33578.6|runtime-scientific|Compliance mode enabled, was '25.18.33578.6'|
 |intel-graphics-compiler|2.10.10|2.11.7|app-devel|Compliance mode enabled, was '2.11.7'|
-|intel-media-driver|25.1.4|25.2.2|runtime-multimedia|Compliance mode enabled, was '25.2.2'|
+|intel-media-driver|25.1.4|25.2.3|runtime-multimedia|Compliance mode enabled, was '25.2.3'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -1638,8 +1638,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |mercurial|6.9.4|7.0.2|app-vcs|Compliance mode enabled, was '7.0.2'|
 |merkuro|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mesa-amber|21.3.9|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.0|runtime-display|Compliance mode enabled, was '25.1.0'|
+|mesa|25.1.0|25.1.1|runtime-display||
+|mesa+32|25.1.0|25.1.1|runtime-optenv32||
+|mesa-amber|21.3.9|25.1.1|runtime-display|Compliance mode enabled, was '25.1.1'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.1|runtime-display|Compliance mode enabled, was '25.1.1'|
 |messagelib|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
@@ -2671,7 +2673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|1.13.0|2.0.14|app-web|Compliance mode enabled, was '2.0.14'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|5.14.2|5.14.3|app-web|Compliance mode enabled, was '5.14.3'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
