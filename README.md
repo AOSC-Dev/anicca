@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747815416?label=Updated)
+![Relative date](https://img.shields.io/date/1747818898?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -227,7 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
 |castxml|0.6.8|0.6.11|app-devel|Compliance mode enabled, was '0.6.11'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
-|catfish|4.18.0|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
+|catfish|4.18.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |cbindgen|0.28.0|0.29.0|lang-rust|Compliance mode enabled, was '0.29.0'|
 |cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.10.2|4.11.3|app-devel|Compliance mode enabled, was '4.11.3'|
@@ -607,7 +607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gifski|1.32.0|1.33.0|app-imaging|Compliance mode enabled, was '1.33.0'|
-|gigolo|0.5.3|0.5.4|app-network|Compliance mode enabled, was '0.5.4'|
+|gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |git-cinnabar|0.6.3|0.7.2|app-vcs|Compliance mode enabled, was '0.7.2'|
 |git-cliff|2.7.0|2.8.0|app-vcs|Compliance mode enabled, was '2.8.0'|
 |git-review|2.4.0|2.5.0|app-devel|Compliance mode enabled, was '2.5.0'|
@@ -1057,6 +1057,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmag|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmahjongg|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmail|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|kmail-account-wizard|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmailtransport|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmbox|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmediaplayer|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
