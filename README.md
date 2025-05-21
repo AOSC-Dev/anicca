@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747811552?label=Updated)
+![Relative date](https://img.shields.io/date/1747815416?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -389,7 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
-|dnscrypt|2.1.7|2.1.10|app-network|Compliance mode enabled, was '2.1.10'|
+|dnscrypt|2.1.7|2.1.11|app-network|Compliance mode enabled, was '2.1.11'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docbook-sgml|0|4.5|app-doc|Compliance mode enabled, was '4.5'|
@@ -1057,7 +1057,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmag|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmahjongg|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmail|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kmail-account-wizard|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmailtransport|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmbox|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kmediaplayer|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
@@ -1819,8 +1818,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|3.0.6.1|runtime-imaging|Compliance mode enabled, was '3.0.6.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.27-ga|11.0.28+2|lang-java||
-|openjdk-17|17.0.15-ga|17.0.16+3|lang-java||
-|openjdk-21|21.0.7-ga|21.0.8+3|lang-java||
+|openjdk-17|17.0.15-ga|17.0.16+4|lang-java||
+|openjdk-21|21.0.7-ga|21.0.8+4|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
@@ -2321,7 +2320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtermwidget|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
-|qtractor|0.9.23|1.5.4|app-multimedia|Compliance mode enabled, was '1.5.4'|
+|qtractor|0.9.23|1.5.5|app-multimedia|Compliance mode enabled, was '1.5.5'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
