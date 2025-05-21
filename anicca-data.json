@@ -1088,6 +1088,7 @@
 ["capstone","5.0.3","5.0.6","app-devel",1734602480,["Compliance mode enabled, was '5.0.6'"]],
 ["xsd","4.1.0~alpha11","4.2.0","app-devel",1614161812,["Compliance mode enabled, was '4.2.0'"]],
 ["crash","8.0.5","9.0.0","app-devel",1722992612,["Compliance mode enabled, was '9.0.0'"]],
+["intel-oneapi-basekit","2025.1.2","2025.1.3","app-devel",1747574548,["Compliance mode enabled, was '2025.1.3'"]],
 ["pam-wrapper","1.1.3","1.1.7","app-devel",1678950872,["Compliance mode enabled, was '1.1.7'"]],
 ["trivy","0.55.0","0.62.1","app-devel",1727017621,["Compliance mode enabled, was '0.62.1'"]],
 ["ccls","0.20240202","0.20241108","app-devel",1716130222,["Compliance mode enabled, was '0.20241108'"]],
