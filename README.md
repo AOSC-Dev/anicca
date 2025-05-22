@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747908876?label=Updated)
+![Relative date](https://img.shields.io/date/1747912261?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1313,8 +1313,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libiscsi|1.18.0|1.20.2|runtime-network|Compliance mode enabled, was '1.20.2'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
-|libjpeg-turbo|3.0.4|3.1.1-signtest|runtime-imaging|Compliance mode enabled, was '3.1.1-signtest'|
-|libjpeg-turbo+32|3.0.4|3.1.1-signtest|runtime-optenv32|Compliance mode enabled, was '3.1.1-signtest'|
+|libjpeg-turbo|3.0.4|3.1.0|runtime-imaging|Compliance mode enabled, was '3.1.0'|
+|libjpeg-turbo+32|3.0.4|3.1.0|runtime-optenv32|Compliance mode enabled, was '3.1.0'|
 |libkcddb|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |libkcompactdisc|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |libkdcraw|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1531,7 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5452|runtime-creativity|Compliance mode enabled, was '5452'|
+|llama.cpp|5298|5453|runtime-creativity|Compliance mode enabled, was '5453'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.5|runtime-optenv32|Compliance mode enabled, was '20.1.5'|
