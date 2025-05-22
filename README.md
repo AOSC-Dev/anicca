@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747916494?label=Updated)
+![Relative date](https://img.shields.io/date/1747920449?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1825,8 +1825,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
 |openjdk-8|8u452-ga|8u462-b02|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.28+2|lang-java|Compliance mode enabled, was '11.0.28+2'|
-|openjfx-17|17.0.13<br>+0|17.0.15+0|lang-java|Compliance mode enabled, was '17.0.15+0'|
-|openjfx-21|21.0.5<br>+0|21.0.7+0|lang-java|Compliance mode enabled, was '21.0.7+0'|
+|openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
+|openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
 |openjpeg-legacy|1.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
@@ -2985,6 +2985,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|desktop-gnome|Compliance mode enabled, was '42.2'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.53|app-electronics|Compliance mode enabled, was '0.53'|
+|yt-dlp|2025.04.30|2025.05.22|app-multimedia|Compliance mode enabled, was '2025.05.22'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
 |yubikey-manager|4.0.1|5.6.1|app-devices|Compliance mode enabled, was '5.6.1'|
