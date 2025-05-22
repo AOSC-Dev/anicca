@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747885219?label=Updated)
+![Relative date](https://img.shields.io/date/1747887445?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -706,7 +706,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |gringo|5.7.1|5.8.0|app-devel|Compliance mode enabled, was '5.8.0'|
-|grpc|1.64.0|1.72.0|app-network|Compliance mode enabled, was '1.72.0'|
 |grub-btrfs|4.13|4.10.2|app-utils|Compliance mode enabled, was '4.10.2'<br>Possible downgrade from the current version (4.13 -> 4.10.2)|
 |gsasl|1.10.0|2.2.2|runtime-admin|Compliance mode enabled, was '2.2.2'|
 |gsettings-desktop-schemas|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -723,7 +722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
 |gtk-4|4.18.4|4.18.5|desktop-gnome|Compliance mode enabled, was '4.18.5'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
-|gtk-layer-shell|0.9.0|0.9.1|runtime-desktop|Compliance mode enabled, was '0.9.1'|
+|gtk-layer-shell|0.9.0|0.9.2|runtime-desktop|Compliance mode enabled, was '0.9.2'|
 |gtk-qt-engine|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gtk-vnc|1.3.1|1.5.0|desktop-gnome|Compliance mode enabled, was '1.5.0'|
 |gtk3-tqt-engine|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1644,6 +1643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
 |midori|9.0|11.5.2|app-web|Compliance mode enabled, was '11.5.2'|
+|mihomo|1.19.8|1.19.9|app-network|Compliance mode enabled, was '1.19.9'|
 |milkytracker|1.04.00|1.05.01|app-multimedia|Compliance mode enabled, was '1.05.01'|
 |milou|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |mimalloc|2.1.7|3.0.3|runtime-common|Compliance mode enabled, was '3.0.3'|
@@ -2802,7 +2802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.31.0|5.32.0|app-network|Compliance mode enabled, was '5.32.0'|
-|v2ray-rules-dat|202501302211|202505202213|runtime-data|Compliance mode enabled, was '202505202213'<br>Versions not comparable: `202501302211` and `202505202213`|
+|v2ray-rules-dat|202501302211|202505212213|runtime-data|Compliance mode enabled, was '202505212213'<br>Versions not comparable: `202501302211` and `202505212213`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
