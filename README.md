@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747930449?label=Updated)
+![Relative date](https://img.shields.io/date/1747933916?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -687,7 +687,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
-|google-api-python-client|1.7.11|2.169.0|lang-python|Compliance mode enabled, was '2.169.0'|
+|google-api-python-client|1.7.11|2.170.0|lang-python|Compliance mode enabled, was '2.170.0'|
 |google-auth|1.6.3|2.40.2|lang-python|Compliance mode enabled, was '2.40.2'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.8.2|2.9.0|lang-golang|Compliance mode enabled, was '2.9.0'|
@@ -696,7 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpgme|1.24.2|1.24.3|runtime-cryptography|Compliance mode enabled, was '1.24.3'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gpsd|3.25|3.26.1|app-scientific|Compliance mode enabled, was '3.26.1'|
-|gradle|8.13.0|8.14.0|lang-java|Compliance mode enabled, was '8.14.0'|
+|gradle|8.13.0|8.14.1|lang-java|Compliance mode enabled, was '8.14.1'|
 |granatier|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |grantlee-editor|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |grantleetheme|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1208,7 +1208,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |lazarus|3.2|4.0|lang-pascal|Compliance mode enabled, was '4.0'|
 |lazy-object-proxy|1.7.1|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
-|lazygit|0.48.0|0.50.0|app-vcs|Compliance mode enabled, was '0.50.0'|
+|lazygit|0.48.0|0.51.0|app-vcs|Compliance mode enabled, was '0.51.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldc|1.38.0|1.40.1|lang-dlang|Compliance mode enabled, was '1.40.1'|
@@ -1651,7 +1651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mise|2025.5.6|2025.5.9|app-devel|Compliance mode enabled, was '2025.5.9'|
+|mise|2025.5.6|2025.5.10|app-devel|Compliance mode enabled, was '2025.5.10'|
 |mitmproxy|11.0.0|12.0.1|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
