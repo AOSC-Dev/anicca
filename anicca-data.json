@@ -866,7 +866,6 @@
 ["wlroots","0.18.2","0.19.0","runtime-display",1743558938,["Compliance mode enabled, was '0.19.0'"]],
 ["xinit","1.4.2","1.4.4","runtime-display",1699859032,["Compliance mode enabled, was '1.4.4'"]],
 ["vulkan-utility-libraries","1.4.309.0","1.4.315","runtime-display",1745746413,["Compliance mode enabled, was '1.4.315'"]],
-["xf86-video-intel","2.99.917+git20230318","2.99.917","runtime-display",1640823876,["Compliance mode enabled, was '2.99.917'"]],
 ["libxkbcommon","1.8.1","1.10.0","runtime-display",1745016839,["Compliance mode enabled, was '1.10.0'"]],
 ["util-macros","1.20.1","1.20.2","runtime-display",1716265534,["Compliance mode enabled, was '1.20.2'"]],
 ["volk-meta-loader","1.4.309.0","1.4.313.0","runtime-display",1745746413,["Compliance mode enabled, was '1.4.313.0'"]],
