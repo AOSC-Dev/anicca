@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747905223?label=Updated)
+![Relative date](https://img.shields.io/date/1747908876?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1838,6 +1838,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openra|20210321|20250330|app-games|Compliance mode enabled, was '20250330'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
+|openssh|10.0p1|10.0p2|app-network|Compliance mode enabled, was '10.0p2'|
 |openssl-1.1|1.1.1w|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |openssl-1.1+32|1.1.1w|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
@@ -2092,6 +2093,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |pimcommon|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |pip|22.3.1|25.1.1|lang-python|Compliance mode enabled, was '25.1.1'|
+|pipewire|1.4.2|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |pixman|0.43.0|0.46.0|runtime-display|Compliance mode enabled, was '0.46.0'|
@@ -2933,8 +2935,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-netload-plugin|1.4.2|1.5.0|desktop-xfce|Compliance mode enabled, was '1.5.0'|
 |xfce4-notes-plugin|1.11.2|1.12.0|desktop-xfce|Compliance mode enabled, was '1.12.0'|
 |xfce4-panel|4.20.3|4.21.0|desktop-xfce|Compliance mode enabled, was '4.21.0'|
-|xfce4-panel-profiles|1.0.15|1.1.0|desktop-xfce|Compliance mode enabled, was '1.1.0'|
+|xfce4-panel-profiles|1.0.15|1.1.1|desktop-xfce|Compliance mode enabled, was '1.1.1'|
 |xfce4-pulseaudio-plugin|0.4.9|0.5.1|desktop-xfce|Compliance mode enabled, was '0.5.1'|
+|xfce4-screenshooter|1.11.1|1.11.2|desktop-xfce|Compliance mode enabled, was '1.11.2'|
 |xfce4-sensors-plugin|1.4.5|1.5.0|desktop-xfce|Compliance mode enabled, was '1.5.0'|
 |xfce4-session|4.20.0|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |xfce4-smartbookmark-plugin|0.5.3|0.6.0|desktop-xfce|Compliance mode enabled, was '0.6.0'|
@@ -2995,6 +2998,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zed|0.186.8|0.187.5|app-editors|Compliance mode enabled, was '0.187.5'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.2|app-admin|Compliance mode enabled, was '2.3.2'|
+|zig|0.14.0|0.14.1|lang-ziglang|Compliance mode enabled, was '0.14.1'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
 |zlib+32|2.2.3|2.2.4|runtime-optenv32|Compliance mode enabled, was '2.2.4'|
