@@ -2663,7 +2663,6 @@
 ["qsynth","1.0.1","1.0.3","app-multimedia",1726730103,["Compliance mode enabled, was '1.0.3'"]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
 ["streamlink","6.7.4","7.3.0","app-multimedia",1718473109,["Compliance mode enabled, was '7.3.0'"]],
-["v4l-utils","1.22.1","1.30.1","app-multimedia",1657655180,["Compliance mode enabled, was '1.30.1'"]],
 ["feeluown","4.1.10","4.1.11","app-multimedia",1740247310,["Compliance mode enabled, was '4.1.11'"]],
 ["speakersafetyd","1.0.2","1.1.2","app-multimedia",1740327598,["Compliance mode enabled, was '1.1.2'"]],
 ["bluez-alsa","4.1.1","4.3.1","app-multimedia",1716478770,["Compliance mode enabled, was '4.3.1'"]],
