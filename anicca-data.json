@@ -2114,6 +2114,7 @@
 ["qscintilla","2.13.1","2.14.1","runtime-common",1637636759,["Compliance mode enabled, was '2.14.1'"]],
 ["utfcpp","3.2.1","4.0.6","runtime-common",1639826389,["Compliance mode enabled, was '4.0.6'"]],
 ["confuse","3.2.2","3.3","runtime-common",1535215578,["Compliance mode enabled, was '3.3'"]],
+["lucene++","3.0.8","3.0.9","runtime-common",1614161663,["Compliance mode enabled, was '3.0.9'"]],
 ["libmspack","0.10.1alpha","0.11.0","runtime-common",1616134410,["Compliance mode enabled, was '0.11.0'"]],
 ["tclap","1.2.2","1.2.5","runtime-common",1531444995,["Compliance mode enabled, was '1.2.5'"]],
 ["libgnt","2.14.0","2.14.3","runtime-common",1620878457,["Compliance mode enabled, was '2.14.3'"]],
