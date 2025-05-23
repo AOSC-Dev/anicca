@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1747995256?label=Updated)
+![Relative date](https://img.shields.io/date/1747998640?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -494,6 +494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fantasque-sans-mono-nerd-fonts|3.3.0|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
+|fastfetch|2.43.0|2.44.0|app-utils|Compliance mode enabled, was '2.44.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |fb303|2025.03.24.00|2025.05.19.00|runtime-network|Compliance mode enabled, was '2025.05.19.00'|
@@ -1208,7 +1209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |lazarus|3.2|4.0|lang-pascal|Compliance mode enabled, was '4.0'|
 |lazy-object-proxy|1.7.1|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
-|lazygit|0.48.0|0.51.0|app-vcs|Compliance mode enabled, was '0.51.0'|
+|lazygit|0.48.0|0.51.1|app-vcs|Compliance mode enabled, was '0.51.1'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldc|1.38.0|1.40.1|lang-dlang|Compliance mode enabled, was '1.40.1'|
@@ -1541,6 +1542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-19|19.1.6|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
 |llvm-runtime+wasi|18.1.8|20.1.5|runtime-wasi|Compliance mode enabled, was '20.1.5'|
 |lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
+|log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
