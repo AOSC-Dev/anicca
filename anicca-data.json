@@ -631,6 +631,7 @@
 ["perl-net-http","6.18","6.23","lang-perl",1530196414,["Compliance mode enabled, was '6.23'"]],
 ["perl-font-ttf","1.05","1.06","lang-perl",1678950872,["Compliance mode enabled, was '1.06'"]],
 ["perl-data-dumper","2.167+02","2.183","lang-perl",1530196415,["Compliance mode enabled, was '2.183'"]],
+["perl-json-xs","4.0+00","4.03","lang-perl",1550814485,["Compliance mode enabled, was '4.03'"]],
 ["perl-finance-quote","1.49","1.5301","lang-perl",1596485703,["Compliance mode enabled, was '1.5301'"]],
 ["perl-io-tee","0.65","0.66","lang-perl",1590975699,["Compliance mode enabled, was '0.66'"]],
 ["perl-yaml-tiny","1.73","1.76","lang-perl",1612155063,["Compliance mode enabled, was '1.76'"]],
