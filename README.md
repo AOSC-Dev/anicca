@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748110509?label=Updated)
+![Relative date](https://img.shields.io/date/1748113573?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -379,6 +379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
+|diffuse|0.9.0|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
 |diffutils|3.11|3.12|app-utils|Compliance mode enabled, was '3.12'|
 |digikam-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
@@ -425,7 +426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet8|8.0.403|8.0.410|lang-dotnet|Compliance mode enabled, was '8.0.410'|
 |double-conversion|3.3.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
 |dovecot|2.3.21|2.4.0|app-web|Compliance mode enabled, was '2.4.0'|
-|doxygen|1.11.0|1.13.2|app-doc|Compliance mode enabled, was '1_13_2'|
+|doxygen|1.11.0|1.14.0|app-doc|Compliance mode enabled, was '1_14_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|25.03|runtime-network|Compliance mode enabled, was '25.03'|
 |dpkg|1.22.18|1.22.19|app-admin|Compliance mode enabled, was '1.22.19'|
