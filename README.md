@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748153778?label=Updated)
+![Relative date](https://img.shields.io/date/1748157070?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1538,7 +1538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-18|18.1.8|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
 |llvm-19|19.1.6|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
 |llvm-runtime+wasi|18.1.8|20.1.5|runtime-wasi|Compliance mode enabled, was '20.1.5'|
-|lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1652,7 +1651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mise|2025.5.6|2025.5.11|app-devel|Compliance mode enabled, was '2025.5.11'|
+|mise|2025.5.6|2025.5.12|app-devel|Compliance mode enabled, was '2025.5.12'|
 |mission-center|1.0.0|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |mitmproxy|11.0.0|12.1.0|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
@@ -1696,7 +1695,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.31.2|app-database|Compliance mode enabled, was '1.31.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
-|n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanobind|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nautilus|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
