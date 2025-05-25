@@ -1958,6 +1958,7 @@
 ["libluv","1.47.0+0","1.51.0+1","lang-lua",1708762981,["Compliance mode enabled, was '1.51.0-1'"]],
 ["linux-firmware","20250425","20250509","runtime-kernel",1745854875,[]],
 ["linux+kernel+rc","6.15.0","5.19.17","runtime-kernel",1745634995,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.15.0 -> 5.19.17)"]],
+["linux+kernel+asahi","6.14.5","5.19.17","runtime-kernel",1745666792,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.14.5 -> 5.19.17)"]],
 ["sof-firmware","2025.01","2025.01.1","runtime-kernel",1738773732,["Compliance mode enabled, was '2025.01.1'"]],
 ["linux-kernel-rc","6.15.0","5.19.17","runtime-kernel",1747758722,["Compliance mode enabled, was '5.19.17'","Possible downgrade from the current version (6.15.0 -> 5.19.17)"]],
 ["linux-kernel-retro","5.10.204","5.10.237","runtime-kernel",1721223931,["Compliance mode enabled, was '5.10.237'"]],
