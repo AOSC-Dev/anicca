@@ -1612,7 +1612,7 @@
 ["fakeroot","1.37","1.37.1.2","app-utils",1737808765,["Compliance mode enabled, was '1.37.1.2'"]],
 ["corefreq","20170301","2.0.5","app-utils",1488654654,["Compliance mode enabled, was '2.0.5'","Possible downgrade from the current version (20170301 -> 2.0.5)"]],
 ["plocate","1.1.22","1.1.23","app-utils",1710436877,["Compliance mode enabled, was '1.1.23'"]],
-["mission-center","1.0.0","1.0.1","app-utils",1746501154,["Compliance mode enabled, was '1.0.1'"]],
+["mission-center","1.0.0","1.0.2","app-utils",1746501154,["Compliance mode enabled, was '1.0.2'"]],
 ["mouseemu","0.16","0.16.orig","app-utils",1528127162,["Compliance mode enabled, was '0.16.orig'","Possible downgrade from the current version (0.16 -> 0.16.orig)"]],
 ["hw-probe","1.6.5","1.6.6","app-utils",1692624794,["Compliance mode enabled, was '1.6.6'"]],
 ["aha","0.5","0.5.1","app-utils",1550980343,["Compliance mode enabled, was '0.5.1'"]],
