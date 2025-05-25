@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748211081?label=Updated)
+![Relative date](https://img.shields.io/date/1748214770?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1653,7 +1653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minuet|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |mise|2025.5.6|2025.5.12|app-devel|Compliance mode enabled, was '2025.5.12'|
 |mission-center|1.0.0|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
-|mitmproxy|11.0.0|12.1.0|app-network||
+|mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -2898,7 +2898,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wtforms|2.2.1|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
 |wxmaxima|24.11.0|25.04.0|app-scientific|Compliance mode enabled, was '25.04.0'|
 |wxpython|4.2.1|4.2.3|lang-python|Compliance mode enabled, was '4.2.3'|
-|wxwidgets|3.2.4|3.2.8|runtime-desktop|Compliance mode enabled, was '3.2.8'|
+|wxwidgets|3.2.4|3.2.8.1|runtime-desktop|Compliance mode enabled, was '3.2.8.1'|
 |x11vnc|0.9.16|0.9.17|app-network|Compliance mode enabled, was '0.9.17'|
 |x264|0<br>+git20241027|3218|runtime-multimedia|Compliance mode enabled, was '3218'|
 |x264+32|0<br>+git20241027|3218|runtime-optenv32|Compliance mode enabled, was '3218'|
