@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748193020?label=Updated)
+![Relative date](https://img.shields.io/date/1748196802?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -779,7 +779,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.131.27|lang-python|Compliance mode enabled, was '6.131.27'|
+|hypothesis-python|6.97.4|6.131.28|lang-python|Compliance mode enabled, was '6.131.28'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.56.0|app-web|Compliance mode enabled, was '2.56.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -2122,7 +2122,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-vault|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-wayland-protocols|1.10.0|1.18.0|desktop-kde|Compliance mode enabled, was '1.18.0'|
 |plasma-welcome|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
-|plasma-workspace|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-workspace-wallpapers|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasmatube|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |platformdirs|2.5.2|4.3.8|lang-python|Compliance mode enabled, was '4.3.8'|
@@ -2829,7 +2828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.2|app-utils|Compliance mode enabled, was '0.14.2'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1343|9.1.1406|app-editors|Compliance mode enabled, was '9.1.1406'|
+|vim|9.1.1343|9.1.1407|app-editors|Compliance mode enabled, was '9.1.1407'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virtiofsd|1.13.0|1.13.1|app-virtualization|Compliance mode enabled, was '1.13.1'|
 |virtualenv|20.27.1|20.31.2|lang-python|Compliance mode enabled, was '20.31.2'|
