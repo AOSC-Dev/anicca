@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748171245?label=Updated)
+![Relative date](https://img.shields.io/date/1748175545?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1377,6 +1377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liboggz|1.1.1|1.1.3|runtime-multimedia|Compliance mode enabled, was '1.1.3'|
 |libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |liborcus|0.19.2|0.20.1|runtime-productivity|Compliance mode enabled, was '0.20.1'|
+|libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
 |libp11|0.4.10|0.4.14|runtime-cryptography|Compliance mode enabled, was '0.4.14'|
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpaper|2.2.5|2.2.6|runtime-productivity|Compliance mode enabled, was '2.2.6'|
@@ -1697,7 +1698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanobind|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
-|nautilus|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|nautilus|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
@@ -1746,7 +1747,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.95|7.97|app-network|Compliance mode enabled, was '7.97'|
 |nnn|5.0|5.1|app-utils|Compliance mode enabled, was '5.1'|
-|nodejs-20|20.18.3|20.19.2|lang-js|Compliance mode enabled, was '20.19.2'|
 |nodejs-22|22.15.0|22.16.0|lang-js|Compliance mode enabled, was '22.16.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.4|1.18.8|lang-ruby|Compliance mode enabled, was '1.18.8'|
@@ -2397,7 +2397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtslib-fb|2.1.75|2.2.3|app-admin|Compliance mode enabled, was '2.2.3'|
 |rtv|1.27.0|1.27.1|app-web|Compliance mode enabled, was '1.27.1'|
-|ruamel-yaml|0.17.19|0.18.10|lang-python|Compliance mode enabled, was '0.18.10'|
+|ruamel-yaml|0.17.19|0.18.11|lang-python|Compliance mode enabled, was '0.18.11'|
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.4.2|3.4.4|lang-ruby|Compliance mode enabled, was '3.4.4'|
