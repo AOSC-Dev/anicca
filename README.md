@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748157070?label=Updated)
+![Relative date](https://img.shields.io/date/1748160832?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1454,7 +1454,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtracefs|1.8.1|1.8.2|runtime-admin|Compliance mode enabled, was '1.8.2'|
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libuhd|4.5.0.0|4.8.0.0|runtime-ham|Compliance mode enabled, was '4.8.0.0'|
-|libunistring|0.9.10|1.3|runtime-common|Compliance mode enabled, was '1.3'|
 |libunwind|1.8.1|1.8.2|runtime-common|Compliance mode enabled, was '1.8.2'|
 |libunwind+32|1.8.1|1.8.2|runtime-optenv32|Compliance mode enabled, was '1.8.2'|
 |libupnp|1.14.16|1.14.21|runtime-network|Compliance mode enabled, was '1.14.21'|
@@ -1538,6 +1537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-18|18.1.8|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
 |llvm-19|19.1.6|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
 |llvm-runtime+wasi|18.1.8|20.1.5|runtime-wasi|Compliance mode enabled, was '20.1.5'|
+|lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1695,6 +1695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.31.2|app-database|Compliance mode enabled, was '1.31.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
+|n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanobind|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nautilus|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
@@ -1741,6 +1742,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
 |ngtcp2|1.5.0|1.12.0|runtime-web|Compliance mode enabled, was '1.12.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
+|niri|25.05|25.05.1|desktop-wm|Compliance mode enabled, was '25.05.1'|
 |nlohmann-json|3.11.3|3.12.0|runtime-common|Compliance mode enabled, was '3.12.0'|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.95|7.97|app-network|Compliance mode enabled, was '7.97'|
