@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748196802?label=Updated)
+![Relative date](https://img.shields.io/date/1748199976?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1529,7 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5483|runtime-creativity|Compliance mode enabled, was '5483'|
+|llama.cpp|5298|5486|runtime-creativity|Compliance mode enabled, was '5486'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.5|runtime-optenv32|Compliance mode enabled, was '20.1.5'|
@@ -2122,6 +2122,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-vault|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-wayland-protocols|1.10.0|1.18.0|desktop-kde|Compliance mode enabled, was '1.18.0'|
 |plasma-welcome|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
+|plasma-workspace|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasma-workspace-wallpapers|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |plasmatube|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |platformdirs|2.5.2|4.3.8|lang-python|Compliance mode enabled, was '4.3.8'|
