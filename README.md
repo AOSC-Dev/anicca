@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748231030?label=Updated)
+![Relative date](https://img.shields.io/date/1748233214?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -524,7 +524,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firefox|138.0.1|138.0.4|app-web|Compliance mode enabled, was '138.0.4'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
-|firewalld|2.2.1|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |fizz|2025.03.24.00|2025.05.19.00|app-network|Compliance mode enabled, was '2025.05.19.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
@@ -1235,7 +1234,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap+32|2.73|2.76|runtime-optenv32|Compliance mode enabled, was '2.76'|
 |libcarddav|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libcdio|2.1.0|2.2.0|runtime-devices|Compliance mode enabled, was '2.2.0'|
-|libcdio+32|2.1.0|2.2.0|runtime-optenv32|Compliance mode enabled, was '2.2.0'|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)|
 |libcdr|0.1.7|0.1.8|runtime-imaging|Compliance mode enabled, was '0.1.8'|
 |libcec|6.0.2|7.0.0|runtime-devices|Compliance mode enabled, was '7.0.0'|
