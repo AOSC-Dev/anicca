@@ -950,7 +950,6 @@
 ["libavif","1.2.1","1.3.0","runtime-multimedia",1744180287,["Compliance mode enabled, was '1.3.0'"]],
 ["zita-alsa-pcmi","0.3.2","0.6.1","runtime-multimedia",1541091646,["Compliance mode enabled, was '0.6.1'"]],
 ["audiofile","0.3.6git20160829","0.3.6","runtime-multimedia",1745233543,["Compliance mode enabled, was '0.3.6'"]],
-["aalib","1.4rc5","1.2","runtime-multimedia",1678950872,["Compliance mode enabled, was '1.2'","Possible downgrade from the current version (1.4rc5 -> 1.2)"]],
 ["alsa-ucm-conf-asahi","6","8","runtime-multimedia",1740327598,["Compliance mode enabled, was '8'"]],
 ["rtaudio","5.1.0","6.0.1","runtime-multimedia",1630127736,["Compliance mode enabled, was '6.0.1'"]],
 ["libmodplug","0.8.8.5","0.8.9.0","runtime-multimedia",1678950872,["Compliance mode enabled, was '0.8.9.0'"]],
