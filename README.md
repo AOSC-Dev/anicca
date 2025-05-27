@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748355104?label=Updated)
+![Relative date](https://img.shields.io/date/1748358774?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -315,7 +315,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cppcheck|2.8|2.17.1|app-devel|Compliance mode enabled, was '2.17.1'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
-|cpu-x|5.3.0|5.3.1|app-utils|Compliance mode enabled, was '5.3.1'|
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|9.0.0|app-devel|Compliance mode enabled, was '9.0.0'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
@@ -1649,7 +1648,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |mise|2025.5.6|2025.5.14|app-devel|Compliance mode enabled, was '2025.5.14'|
-|mission-center|1.0.0|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2596,6 +2594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
+|sysprof|3.44.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |sysstat|12.7.5|12.7.7|app-utils|Compliance mode enabled, was '12.7.7'|
 |systemd|257.2|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (257.2 -> 256)|
 |systemsettings|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -2758,7 +2757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typogrify|2.0.7|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |u-boot-menu|4.2.3|4.2.4|app-admin|Compliance mode enabled, was '4.2.4'|
 |uboot-asahi|2024.10-1|2025.04-1|runtime-kernel||
-|ubuntu-keyring|2021.03.26|2023.11.28.1|runtime-data|Compliance mode enabled, was '2023.11.28.1'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.18.1|runtime-scientific|Compliance mode enabled, was '1.18.1'|
 |udiskie|2.5.3|2.5.7|app-utils|Compliance mode enabled, was '2.5.7'|
