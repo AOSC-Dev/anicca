@@ -878,7 +878,6 @@
 ["xf86-video-r128","6.12.1","6.10.0","runtime-display",1699859032,["Compliance mode enabled, was '6.10.0'","Possible downgrade from the current version (6.12.1 -> 6.10.0)"]],
 ["eglexternalplatform","1.1","1.2.1","runtime-display",1571332658,["Compliance mode enabled, was '1.2.1'"]],
 ["spirv-tools","1.4.309.0","2025.1","runtime-display",1745746413,["Compliance mode enabled, was '2025.1'"]],
-["nvidia","570.133.07","575.51.02","runtime-display",1744460209,["Compliance mode enabled, was '575.51.02'"]],
 ["pixman","0.43.0","0.46.0","runtime-display",1705659025,["Compliance mode enabled, was '0.46.0'"]],
 ["vkd3d","1.15","1.16","runtime-display",1740018851,["Compliance mode enabled, was '1.16'"]],
 ["libwm","20161006","1.3","runtime-display",1487870507,["Compliance mode enabled, was '1.3'","Possible downgrade from the current version (20161006 -> 1.3)"]],
@@ -2995,5 +2994,5 @@
 ["rosegarden","24.12","24.12.1","app-creativity",1733375989,["Compliance mode enabled, was '24.12.1'"]],
 ["mixxx","2.5.0","2.5.1","app-creativity",1745233543,["Compliance mode enabled, was '2.5.1'"]],
 ["lmms","1.2.2+git20250101","1.2.2","app-creativity",1736266291,["Compliance mode enabled, was '1.2.2'"]],
-["superslicer","2.7.61.0","2.7.61.3","app-creativity",1743063265,["Compliance mode enabled, was '2.7.61.3'"]]
+["superslicer","2.7.61.0","2.7.61.4","app-creativity",1743063265,["Compliance mode enabled, was '2.7.61.4'"]]
 ]
