@@ -2571,7 +2571,7 @@
 ["gmpy2","2.1.5","2.2.1","lang-python",1713946296,["Compliance mode enabled, was '2.2.1'"]],
 ["pyicu","2.13.1","2.15.2","lang-python",1721223235,["Compliance mode enabled, was '2.15.2'"]],
 ["pycountry","18.12.8","24.6.1","lang-python",1551165473,["Compliance mode enabled, was '24.6.1'"]],
-["jupyter-core","4.4.0","5.8.0","lang-python",1530718723,["Compliance mode enabled, was '5.8.0'"]],
+["jupyter-core","4.4.0","5.8.1","lang-python",1530718723,["Compliance mode enabled, was '5.8.1'"]],
 ["pynput","1.7.6","1.8.1","lang-python",1658966837,["Compliance mode enabled, was '1.8.1'"]],
 ["stevedore","5.2.0","5.4.1","lang-python",1724639794,["Compliance mode enabled, was '5.4.1'"]],
 ["webencodings","0.5","0.5.1","lang-python",1478270741,["Compliance mode enabled, was '0.5.1'"]],
