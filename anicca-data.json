@@ -1198,7 +1198,6 @@
 ["libgtop","2.38.0","2.41.3","desktop-gnome",1507005182,["Compliance mode enabled, was '2.41.3'"]],
 ["gtkd","3.10.0","3.11.0","desktop-gnome",1663210250,["Compliance mode enabled, was '3.11.0'"]],
 ["tracker-miners","3.3.1","3.9.0","desktop-gnome",1738981173,["Compliance mode enabled, was '3.9.0'"]],
-["sysprof","3.44.0","48.0","desktop-gnome",1663210241,["Compliance mode enabled, was '48.0'"]],
 ["devhelp","41.2","43.0","desktop-gnome",1663210241,["Compliance mode enabled, was '43.0'"]],
 ["orca","42.3","48.1","desktop-gnome",1663210241,["Compliance mode enabled, was '48.1'"]],
 ["evolution-ews","3.42.0","3.56.2","desktop-gnome",1716197175,["Compliance mode enabled, was '3.56.2'"]],
