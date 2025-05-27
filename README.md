@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748326670?label=Updated)
+![Relative date](https://img.shields.io/date/1748329958?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -746,6 +746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|8.4.0|11.2.1|runtime-optenv32|Compliance mode enabled, was '11.2.1'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
+|hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
@@ -947,6 +948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdegraphics-mobipocket|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdegraphics-thumbnailers|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdelibs4support|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
+|kdenetwork-filesharing|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdenlive|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdepim-addons|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdepim-runtime|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
