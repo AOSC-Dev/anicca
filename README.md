@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748306801?label=Updated)
+![Relative date](https://img.shields.io/date/1748312999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2447,8 +2447,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |service-identity|18.1.0|24.2.0|lang-python|Compliance mode enabled, was '24.2.0'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
-|setuptools-python2|44.1.0|80.8.0|lang-python|Compliance mode enabled, was '80.8.0'|
-|setuptools-python3|75.8.0|80.8.0|lang-python|Compliance mode enabled, was '80.8.0'|
+|setuptools-python2|44.1.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
+|setuptools-python3|75.8.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
 |setuptools-rust|1.9.0|1.11.1|lang-python|Compliance mode enabled, was '1.11.1'|
 |setuptools-scm|8.1.0|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |sfml|2.5.1|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
@@ -2795,8 +2795,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|v2ray|5.31.0|5.32.0|app-network|Compliance mode enabled, was '5.32.0'|
-|v2ray-rules-dat|202501302211|202505252212|runtime-data|Compliance mode enabled, was '202505252212'<br>Versions not comparable: `202501302211` and `202505252212`|
+|v2ray|5.31.0|5.33.0|app-network|Compliance mode enabled, was '5.33.0'|
+|v2ray-rules-dat|202501302211|202505262213|runtime-data|Compliance mode enabled, was '202505262213'<br>Versions not comparable: `202501302211` and `202505262213`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
