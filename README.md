@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748420159?label=Updated)
+![Relative date](https://img.shields.io/date/1748423686?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2978,7 +2978,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.45|0.53|app-electronics|Compliance mode enabled, was '0.53'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
-|yubikey-manager|4.0.1|5.6.1|app-devices|Compliance mode enabled, was '5.6.1'|
+|yubikey-manager|4.0.1|5.7.0|app-devices|Compliance mode enabled, was '5.7.0'|
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
 |yubioath-desktop|5.1.0|7.2.2|app-devices|Compliance mode enabled, was '7.2.2'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
