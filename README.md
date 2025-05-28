@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748434809?label=Updated)
+![Relative date](https://img.shields.io/date/1748438944?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1787,7 +1787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
-|oolite|1.90|1.91.0.7675-250528-eb6446b|app-games|Compliance mode enabled, was '1.91.0.7675-250528-eb6446b'|
+|oolite|1.90|1.91.0.7677-250528-09ed63a|app-games|Compliance mode enabled, was '1.91.0.7677-250528-09ed63a'|
 |opam|2.1.6|2.3.0|lang-ocaml|Compliance mode enabled, was '2.3.0'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
@@ -1806,7 +1806,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
 |opencore-amr+32|0.1.5|0.1.6|runtime-optenv32|Compliance mode enabled, was '0.1.6'|
 |opencryptoki|3.21.0|3.24.0|runtime-cryptography|Compliance mode enabled, was '3.24.0'|
-|opencsg|1.5.1|1.8.1|runtime-imaging|Compliance mode enabled, was '1.8.1'|
 |opencv|4.9.0|4.11.0|runtime-scientific|Compliance mode enabled, was '4.11.0'|
 |openexr|3.1.8|3.3.3|runtime-imaging|Compliance mode enabled, was '3.3.3'|
 |openfortivpn|1.18.0|1.23.1|app-network|Compliance mode enabled, was '1.23.1'|
@@ -2263,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-hglib|2.6.1|2.6.2|lang-python|Compliance mode enabled, was '2.6.2'|
 |python-hpack|4.0.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |python-kaitaistruct|0.9|0.10|lang-python|Compliance mode enabled, was '0.10'|
-|python-ldap3|2.9|2.9.1|lang-python|Compliance mode enabled, was '2.9.1'|
 |python-ly|0.9.7|0.9.9|lang-python|Compliance mode enabled, was '0.9.9'|
 |python-lz4|2.1.6|4.4.4|lang-python|Compliance mode enabled, was '4.4.4'|
 |python-markdown-math|0.6|0.9|lang-python|Compliance mode enabled, was '0.9'|
