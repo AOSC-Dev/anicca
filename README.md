@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748445182?label=Updated)
+![Relative date](https://img.shields.io/date/1748448825?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -544,7 +544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
 |fontconfig|2.15.0|2.16.2|runtime-desktop|Compliance mode enabled, was '2.16.2'|
 |fontconfig+32|2.15.0|2.16.2|runtime-optenv32|Compliance mode enabled, was '2.16.2'|
-|fonttools|4.53.1|4.58.0|desktop-fonts|Compliance mode enabled, was '4.58.0'|
+|fonttools|4.53.1|4.58.1|desktop-fonts|Compliance mode enabled, was '4.58.1'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|11.0.0|11.0.1|app-web|Compliance mode enabled, was '11.0.1'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
@@ -974,7 +974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdpkg-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdsme|1.2.8|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
-|kea|2.6.1|2.7.8|app-network|Compliance mode enabled, was '2.7.8'|
+|kea|2.6.1|2.7.9|app-network|Compliance mode enabled, was '2.7.9'|
 |keditbookmarks|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |keep-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kemoticons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
@@ -1262,7 +1262,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts|Compliance mode enabled, was '8.1.2'|
 |libesmtp|1.0.6|1.1.0|runtime-network|Compliance mode enabled, was '1.1.0'|
-|libetebase|0.5.6|0.5.7|runtime-cryptography|Compliance mode enabled, was '0.5.7'|
+|libetebase|0.5.6|0.5.8|runtime-cryptography|Compliance mode enabled, was '0.5.8'|
 |libetonyek|0.1.9|0.1.12|runtime-productivity|Compliance mode enabled, was '0.1.12'|
 |libexif|0.6.22|0.6.25|runtime-imaging|Compliance mode enabled, was '0.6.25'|
 |libexif+32|0.6.22|0.6.25|runtime-optenv32|Compliance mode enabled, was '0.6.25'|
@@ -1527,7 +1527,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5517|runtime-creativity|Compliance mode enabled, was '5517'|
+|llama.cpp|5298|5522|runtime-creativity|Compliance mode enabled, was '5522'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.5|runtime-optenv32|Compliance mode enabled, was '20.1.5'|
@@ -1649,7 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mise|2025.5.6|2025.5.14|app-devel|Compliance mode enabled, was '2025.5.14'|
+|mise|2025.5.6|2025.5.15|app-devel|Compliance mode enabled, was '2025.5.15'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.1|app-creativity|Compliance mode enabled, was '2.5.1'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2458,7 +2458,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shh|2025.4.12|2023.10.19|app-utils|Compliance mode enabled, was '2023.10.19'<br>Possible downgrade from the current version (2025.4.12 -> 2023.10.19)|
 |shotwell|0.31.4|0.32.10|desktop-gnome|Compliance mode enabled, was '0.32.10'|
-|showmethekey|1.18.1|1.18.2|app-utils|Compliance mode enabled, was '1.18.2'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
