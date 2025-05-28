@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748427299?label=Updated)
+![Relative date](https://img.shields.io/date/1748430652?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils|2.43.1|2.44|app-devel|Compliance mode enabled, was '2.44'|
 |binutils+32|2.43.1|2.44|runtime-optenv32|Compliance mode enabled, was '2.44'|
 |binutils+w64|2.43.1|2.44|runtime-optenvw64|Compliance mode enabled, was '2.44'|
-|bird|2.15.1|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
+|bird|2.15.1|3.1.2|app-network|Compliance mode enabled, was '3.1.2'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
 |blender|4.0.2|4.4.3|app-creativity|Compliance mode enabled, was '4.4.3'|
 |blinken|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1375,6 +1375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liboggz|1.1.1|1.1.3|runtime-multimedia|Compliance mode enabled, was '1.1.3'|
 |libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |liborcus|0.19.2|0.20.1|runtime-productivity|Compliance mode enabled, was '0.20.1'|
+|libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
 |libp11|0.4.10|0.4.14|runtime-cryptography|Compliance mode enabled, was '0.4.14'|
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpaper|2.2.5|2.2.6|runtime-productivity|Compliance mode enabled, was '2.2.6'|
@@ -1813,8 +1814,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|3.0.6.1|runtime-imaging|Compliance mode enabled, was '3.0.6.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.27-ga|11.0.28+3|lang-java||
-|openjdk-17|17.0.15-ga|17.0.16+4|lang-java||
-|openjdk-21|21.0.7-ga|21.0.8+4|lang-java||
+|openjdk-17|17.0.15-ga|17.0.16+5|lang-java||
+|openjdk-21|21.0.7-ga|21.0.8+5|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
