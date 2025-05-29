@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748510004?label=Updated)
+![Relative date](https://img.shields.io/date/1748513685?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -368,6 +368,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |delve|1.24.0|1.24.2|lang-golang|Compliance mode enabled, was '1.24.2'|
 |deno|1.44.1|2.3.3|lang-js|Compliance mode enabled, was '2.3.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|deploykit-backend|0.7.7|0.8.0|app-admin|Compliance mode enabled, was '0.8.0'|
+|deploykit-gui|0.9.7|0.10.0|app-admin|Compliance mode enabled, was '0.10.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.14|app-devel|Compliance mode enabled, was '2.25.14'|
@@ -386,6 +388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
+|dkcli|0.4.5|0.4.6|app-admin|Compliance mode enabled, was '0.4.6'|
 |dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscrypt|2.1.7|2.1.12|app-network|Compliance mode enabled, was '2.1.12'|
@@ -1625,6 +1628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdbook|0.4.40|0.4.51|app-doc|Compliance mode enabled, was '0.4.51'|
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
+|mediainfo|24.12|25.04|app-multimedia|Compliance mode enabled, was '25.04'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
