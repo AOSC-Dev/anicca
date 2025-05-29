@@ -1043,6 +1043,7 @@
 ["gringo","5.7.1","5.8.0","app-devel",1721588169,["Compliance mode enabled, was '5.8.0'"]],
 ["spirv-llvm-translator","18.1.0","20.1.2","app-devel",1721226526,["Compliance mode enabled, was '20.1.2'"]],
 ["qtcreator","16.0.1","16.0.2","app-devel",1744426717,["Compliance mode enabled, was '16.0.2'"]],
+["gh","2.73.0","2.74.0","app-devel",1747758075,["Compliance mode enabled, was '2.74.0'"]],
 ["cuda","12.8.1","12.9.0","app-devel",1744460209,[]],
 ["gcc+cross","13.2.0+glibc2.38+6","15.1.0","app-devel",1723639610,["Compliance mode enabled, was '15.1.0'"]],
 ["valgrind","3.25.0","3.25.1","app-devel",1745931468,["Compliance mode enabled, was '3.25.1'"]],
