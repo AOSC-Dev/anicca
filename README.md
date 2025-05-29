@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748535259?label=Updated)
+![Relative date](https://img.shields.io/date/1748538721?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1132,6 +1132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krfb|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kross|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kruler|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|krunner|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |krusader|2.7.2|2.9.0|desktop-kde|Compliance mode enabled, was '2.9.0'|
 |krusader-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksanecore|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1212,6 +1213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.38.0|1.40.1|lang-dlang|Compliance mode enabled, was '1.40.1'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |less|661|678|app-utils|Compliance mode enabled, was '678'|
+|level-zero|1.22.2|1.22.3|runtime-common|Compliance mode enabled, was '1.22.3'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
 |lib3mf|2.2.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
@@ -1530,7 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5533|runtime-creativity|Compliance mode enabled, was '5533'|
+|llama.cpp|5298|5535|runtime-creativity|Compliance mode enabled, was '5535'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -1770,7 +1772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.2.6|lang-python|Compliance mode enabled, was '2.2.6'|
 |nut|2.7.4|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
-|nvidia|570.133.07|575.51.02|runtime-display|Compliance mode enabled, was '575.51.02'|
+|nvidia|570.133.07|575.57.08|runtime-display|Compliance mode enabled, was '575.57.08'|
 |nvidia-open|570.133.07<br>+utils570.133.07|575.51.03|runtime-display|Compliance mode enabled, was '575.51.03'|
 |nvme-cli|2.11|2.14|app-admin|Compliance mode enabled, was '2.14'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
@@ -1800,7 +1802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|12.5.0|12.5.2|app-virtualization|Compliance mode enabled, was '12.5.2'|
-|openai-python|1.63.2|1.82.0|lang-python|Compliance mode enabled, was '1.82.0'|
+|openai-python|1.63.2|1.82.1|lang-python|Compliance mode enabled, was '1.82.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
