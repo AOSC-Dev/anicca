@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748495689?label=Updated)
+![Relative date](https://img.shields.io/date/1748499400?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -877,6 +877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kactivities|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kactivities-stats|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kactivitymanagerd|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
+|kaddressbook|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kaffeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kajongg|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kalarm|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1220,6 +1221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libass+32|0.17.2|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
 |libatomic-ops|7.8.0|7.8.2|runtime-common|Compliance mode enabled, was '7.8.2'|
 |libavif|1.2.1|1.3.0|runtime-multimedia|Compliance mode enabled, was '1.3.0'|
+|libayatana-appindicator|0.5.93|0.5.94|runtime-desktop|Compliance mode enabled, was '0.5.94'|
 |libbinio|1.5|1.4|runtime-common|Compliance mode enabled, was '1.4'<br>Possible downgrade from the current version (1.5 -> 1.4)|
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
@@ -1593,7 +1595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m64py|0.2.5|0.3.0|app-games|Compliance mode enabled, was '0.3.0'|
 |mac-fdisk|0.1|0.1.orig|app-admin|Compliance mode enabled, was '0.1.orig'<br>Possible downgrade from the current version (0.1 -> 0.1.orig)|
 |macchina|6.1.8|6.4.0|app-utils|Compliance mode enabled, was '6.4.0'|
-|magic-wormhole|0.11.2|0.18.0|app-network|Compliance mode enabled, was '0.18.0'|
+|magic-wormhole|0.11.2|0.19.0|app-network|Compliance mode enabled, was '0.19.0'|
 |mailcommon|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |mailimporter|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |maim|5.5.3|5.8.0|app-utils|Compliance mode enabled, was '5.8.0'|
