@@ -2874,6 +2874,7 @@
 ["cinnamon-settings-daemon","5.8.1","6.4.3","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.4.3'"]],
 ["bulky","3.4","3.6","desktop-cinnamon",1722227900,["Compliance mode enabled, was '3.6'"]],
 ["cinnamon-desktop","5.8.0","6.4.1","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.4.1'"]],
+["sticky","1.20","1.24","desktop-cinnamon",1718682201,["Compliance mode enabled, was '1.24'"]],
 ["cjs","5.8.0","128.0","desktop-cinnamon",1688952990,["Compliance mode enabled, was '128.0'"]],
 ["warpinator","1.6.3","1.8.8","desktop-cinnamon",1688952990,["Compliance mode enabled, was '1.8.8'"]],
 ["telepathy-glib","0.24.1","0.24.2","runtime-web",1678950872,["Compliance mode enabled, was '0.24.2'"]],
