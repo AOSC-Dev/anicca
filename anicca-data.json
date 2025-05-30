@@ -1704,6 +1704,7 @@
 ["ncbi-blast+","2.13.0","2.16.0+","app-scientific",1555643138,["Compliance mode enabled, was '2.16.0+'"]],
 ["abyss","2.1.5","2.3.10","app-scientific",1550979960,["Compliance mode enabled, was '2.3.10'"]],
 ["jmol","14.30.0","16.3.23","app-scientific",1575784109,["Compliance mode enabled, was '16.3.23'"]],
+["htslib","1.21","1.22","app-scientific",1745233730,["Compliance mode enabled, was '1.22'"]],
 ["octave","9.2.0","10.1.0","app-scientific",1743471806,["Compliance mode enabled, was '10.1.0'"]],
 ["bullet","2.88","3.25","app-scientific",1551292850,["Compliance mode enabled, was '3.25'"]],
 ["singular","4.1.1","2024.06.03","app-scientific",1531831895,["Compliance mode enabled, was '2024.06.03'"]],
