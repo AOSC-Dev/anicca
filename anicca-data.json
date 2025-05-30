@@ -1826,6 +1826,7 @@
 ["mbedtls+32","2.16.7","3.6.3.1","runtime-optenv32",1582091012,["Compliance mode enabled, was '3.6.3.1'"]],
 ["x265+32","3.6","4.1","runtime-optenv32",1740919511,["Compliance mode enabled, was '4.1'"]],
 ["ffmpeg+32","7.1","7.1.1","runtime-optenv32",1740919509,["Compliance mode enabled, was '7.1.1'"]],
+["libtiff+32","4.4.0","4.7.0","runtime-optenv32",1740919513,["Compliance mode enabled, was '4.7.0'"]],
 ["expat+32","2.6.2","2.7.1","runtime-optenv32",1716037929,["Compliance mode enabled, was '2.7.1'"]],
 ["game-music-emu+32","0.6.3","0.6.4","runtime-optenv32",1461474414,["Compliance mode enabled, was '0.6.4'"]],
 ["tcl+32","8.6.14","9.0.1","runtime-optenv32",1740919509,["Compliance mode enabled, was '9.0.1'"]],
