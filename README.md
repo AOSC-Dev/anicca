@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748565990?label=Updated)
+![Relative date](https://img.shields.io/date/1748572298?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -719,6 +719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.3|runtime-network|Compliance mode enabled, was '1.6.3'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gst-plugins-rs|0.13.5|0.13.6|runtime-multimedia|Compliance mode enabled, was '0.13.6'|
+|gstreamer|1.26.1|1.26.2|runtime-multimedia|Compliance mode enabled, was '1.26.2'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.9.0|0.9.2|runtime-desktop|Compliance mode enabled, was '0.9.2'|
@@ -1504,6 +1505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt+32|1.1.42|1.1.43|runtime-optenv32|Compliance mode enabled, was '1.1.43'|
 |libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
 |liferea|1.13.8|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
+|light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightdm-settings|2.0.4|2.0.7|desktop-displaymanagers|Compliance mode enabled, was '2.0.7'|
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
@@ -1530,7 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5537|runtime-creativity|Compliance mode enabled, was '5537'|
+|llama.cpp|5298|5538|runtime-creativity|Compliance mode enabled, was '5538'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -1730,6 +1732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
+|networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
 |networkmanager-qt|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |networkmanager-strongswan|1.6.1|1.6.2|app-network|Compliance mode enabled, was '1.6.2'|
 |networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
@@ -2568,7 +2571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarsolver|2.5|2.7|app-scientific|Compliance mode enabled, was '2.7'|
 |step|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |stevedore|5.2.0|5.4.1|lang-python|Compliance mode enabled, was '5.4.1'|
-|sticky|1.20|1.24|desktop-cinnamon|Compliance mode enabled, was '1.24'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.14|6.15|app-devel|Compliance mode enabled, was '6.15'|
