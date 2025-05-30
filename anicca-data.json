@@ -2587,7 +2587,7 @@
 ["typogrify","2.0.7","2.1.0","lang-python",1619939089,["Compliance mode enabled, was '2.1.0'"]],
 ["pyperf","2.5.0","2.9.0","lang-python",1678351353,["Compliance mode enabled, was '2.9.0'"]],
 ["pyzmq","22.3.0","26.4.0","lang-python",1637636761,["Compliance mode enabled, was '26.4.0'"]],
-["ruamel-yaml","0.17.19","0.18.11","lang-python",1618998184,["Compliance mode enabled, was '0.18.11'"]],
+["ruamel-yaml","0.17.19","0.18.12","lang-python",1618998184,["Compliance mode enabled, was '0.18.12'"]],
 ["cython","3.0.10","3.1.1","lang-python",1716292092,["Compliance mode enabled, was '3.1.1'"]],
 ["pypsutil","5.8.0","7.0.0","lang-python",1616134410,["Compliance mode enabled, was '7.0.0'"]],
 ["reportlab","3.5.50","4.4.1","lang-python",1600671246,["Compliance mode enabled, was '4.4.1'"]],
