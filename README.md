@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748611573?label=Updated)
+![Relative date](https://img.shields.io/date/1748614431?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -594,7 +594,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.5|desktop-gnome|Compliance mode enabled, was '0.14.5'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
-|gh|2.73.0|2.74.0|app-devel|Compliance mode enabled, was '2.74.0'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
 |ghostscript|9.54.0|10.05.1|app-doc|Compliance mode enabled, was '10.05.1'|
@@ -901,6 +900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |katomic|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kauth|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kbarcode-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|kbd|2.7.1|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |kbfx-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbibtex-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbiff-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1528,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5539|runtime-creativity|Compliance mode enabled, was '5539'|
+|llama.cpp|5298|5541|runtime-creativity|Compliance mode enabled, was '5541'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -1713,6 +1713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20241114|20250510|app-web|Compliance mode enabled, was '20250510'|
 |neon|0.33.0|0.34.2|runtime-web|Compliance mode enabled, was '0.34.2'|
 |neon+32|0.33.0|0.34.2|runtime-optenv32|Compliance mode enabled, was '0.34.2'|
+|neovim|0.11.1|0.11.2|app-editors|Compliance mode enabled, was '0.11.2'|
 |nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.15.1|runtime-containers|Compliance mode enabled, was '1.15.1'|
@@ -2204,6 +2205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
+|pyenchant|2.0.0|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygccxml|2.1.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
@@ -2409,6 +2411,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.13.0|lang-python|Compliance mode enabled, was '0.13.0'|
 |sagemath|10.4|10.6|app-scientific|Compliance mode enabled, was '10.6'|
+|samtools|1.21|1.22|app-scientific|Compliance mode enabled, was '1.22'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
