@@ -808,6 +808,7 @@
 ["certbot-apache","2.10.0","4.0.0","app-web",1716728517,["Compliance mode enabled, was '4.0.0'"]],
 ["wesnoth","1.18.4","1.18.5","app-games",1744367588,["Compliance mode enabled, was '1.18.5'"]],
 ["unnamed-sdvx-clone","0.5.0","0.6.0","app-games",1631079133,["Compliance mode enabled, was '0.6.0'"]],
+["osu-lazer","2025.424.0","2025.530.0","app-games",1745543405,["Compliance mode enabled, was '2025.530.0'"]],
 ["xiaohuixiangqi","0.1.1","0.1.2","app-games",1742097384,["Compliance mode enabled, was '0.1.2'"]],
 ["dolphin-emu","2503","2503a","app-games",1744817373,["Compliance mode enabled, was '2503a'","Possible downgrade from the current version (2503 -> 2503a)"]],
 ["endless-sky","0.10.10","0.10.12","app-games",1732421201,["Compliance mode enabled, was '0.10.12'"]],
