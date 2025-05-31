@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748668422?label=Updated)
+![Relative date](https://img.shields.io/date/1748672193?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -883,7 +883,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaddressbook|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kaffeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kajongg|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kalarm|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kalgebra|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kalk|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kalzium|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -2136,6 +2135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poco|1.14.1|1.14.2|runtime-network|Compliance mode enabled, was '1.14.2'|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |podofo|0.10.3|0.10.4|runtime-doc|Compliance mode enabled, was '0.10.4'|
+|poedit|3.4.1|3.6.3-oss|app-i18n|Compliance mode enabled, was '3.6.3-oss'|
 |poetry|1.8.3|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |poetry-core|1.9.0|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
