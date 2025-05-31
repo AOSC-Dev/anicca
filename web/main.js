@@ -4,16 +4,22 @@ async function renderDataTable() {
 
   const data = await fetch(dataUrl).then((response) => response.json());
 
-  const dataSet = data.map((row) => {
-    row[0] = `<a href="https://packages.aosc.io/packages/${row[0]}">${row[0]}</a>`;
-    row[1] = row[1].replaceAll("+", "<br>+");
-    return Object.values(row);
-  });
-
   const table = new DataTable("#pkgsupdate", {
     columns: [
-      { title: "Package" },
-      { title: "Repo Version" },
+      {
+        title: "Package",
+        render: (data, type) =>
+          type === "display"
+            ? `<a href="https://packages.aosc.io/packages/${data}">${data}</a>`
+            : data,
+      },
+      {
+        title: "Repo Version",
+        render: (data, type) =>
+          type === "display"
+            ? data.replaceAll("+", "<br>+")
+            : data,
+      },
       { title: "New Version" },
       { title: "Category" },
       {
@@ -44,7 +50,7 @@ async function renderDataTable() {
         },
       },
     },
-    data: dataSet,
+    data,
   });
 
   table.page.len(25).draw();
