@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748652320?label=Updated)
+![Relative date](https://img.shields.io/date/1748658514?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -185,7 +185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|bpftrace|0.21.1|0.23.3|app-admin|Compliance mode enabled, was '0.23.3'|
+|bpftrace|0.21.1|0.23.4|app-admin|Compliance mode enabled, was '0.23.4'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |breeze-grub|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -452,7 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elisa|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |embree|4.3.1|4.4.0|app-imaging|Compliance mode enabled, was '4.4.0'|
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
-|enchant-2|2.3.1|2.8.5|app-i18n|Compliance mode enabled, was '2.8.5'|
+|enchant-2|2.3.1|2.8.6|app-i18n|Compliance mode enabled, was '2.8.6'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |endless-sky|0.10.10|0.10.12|app-games|Compliance mode enabled, was '0.10.12'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
