@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748646795?label=Updated)
+![Relative date](https://img.shields.io/date/1748652320?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1761,6 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
 |nss|3.110|3.112|runtime-cryptography|Compliance mode enabled, was '3.112'|
 |nss+32|3.110|3.112|runtime-optenv32|Compliance mode enabled, was '3.112'|
+|nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.4|app-utils|Compliance mode enabled, was '3.4.4'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
@@ -2522,6 +2523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex|1.2.0|1.2.1|runtime-multimedia|Compliance mode enabled, was '1.2.1'|
 |speex+32|1.2.0|1.2.1|runtime-optenv32|Compliance mode enabled, was '1.2.1'|
 |spglib|1.16.2|2.6.0|runtime-scientific|Compliance mode enabled, was '2.6.0'|
+|sphinx|7.0.1|8.2.3|app-doc|Compliance mode enabled, was '8.2.3'|
 |sphinx-press-theme|0.8.0|0.9.1|app-doc|Compliance mode enabled, was '0.9.1'|
 |sphinx-rtd-theme|1.0.0|3.0.2|app-doc|Compliance mode enabled, was '3.0.2'|
 |sphinx-tabs|3.4.1|3.4.7|app-doc|Compliance mode enabled, was '3.4.7'|
