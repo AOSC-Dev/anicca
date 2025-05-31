@@ -4,16 +4,24 @@ async function renderDataTable() {
 
   const data = await fetch(dataUrl).then((response) => response.json());
 
-  const dataSet = data.map((row) => {
-    row[0] = `<a href="https://packages.aosc.io/packages/${row[0]}">${row[0]}</a>`;
-    row[1] = row[1].replaceAll("+", "<br>+");
-    return Object.values(row);
-  });
+  let url = new URL(location.href);
 
   const table = new DataTable("#pkgsupdate", {
     columns: [
-      { title: "Package" },
-      { title: "Repo Version" },
+      {
+        title: "Package",
+        render: (data, type) =>
+          type === "display"
+            ? `<a href="https://packages.aosc.io/packages/${data}">${data}</a>`
+            : data,
+      },
+      {
+        title: "Repo Version",
+        render: (data, type) =>
+          type === "display"
+            ? data.replaceAll("+", "<br>+")
+            : data,
+      },
       { title: "New Version" },
       { title: "Category" },
       {
@@ -44,7 +52,23 @@ async function renderDataTable() {
         },
       },
     },
-    data: dataSet,
+    data,
+  });
+
+  const search = url.searchParams.get('search');
+  if (search) {
+    table.search(search);
+  }
+
+  table.on('search', function (e) {
+    const search = e.dt.search();
+    if (search.length != 0) {
+      url.searchParams.set('search', search);
+    } else {
+      url.searchParams.delete('search');
+    }
+    url.searchParams.delete('package');
+    history.pushState({ search }, '', url.toString());
   });
 
   table.page.len(25).draw();
