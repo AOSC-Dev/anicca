@@ -4,6 +4,8 @@ async function renderDataTable() {
 
   const data = await fetch(dataUrl).then((response) => response.json());
 
+  let url = new URL(location.href);
+
   const table = new DataTable("#pkgsupdate", {
     columns: [
       {
@@ -51,6 +53,22 @@ async function renderDataTable() {
       },
     },
     data,
+  });
+
+  const search = url.searchParams.get('search');
+  if (search) {
+    table.search(search);
+  }
+
+  table.on('search', function (e) {
+    const search = e.dt.search();
+    if (search.length != 0) {
+      url.searchParams.set('search', search);
+    } else {
+      url.searchParams.delete('search');
+    }
+    url.searchParams.delete('package');
+    history.pushState({ search }, '', url.toString());
   });
 
   table.page.len(25).draw();
