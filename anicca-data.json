@@ -1123,7 +1123,7 @@
 ["meld","3.22.2","3.23.0","desktop-gnome",1722262634,["Compliance mode enabled, was '3.23.0'"]],
 ["atomix","3.34.0","44.0","desktop-gnome",1536893878,["Compliance mode enabled, was '44.0'"]],
 ["gnome-bluetooth","42.2","47.1","desktop-gnome",1663210242,["Compliance mode enabled, was '47.1'"]],
-["gnome-desktop","42.4","44.2","desktop-gnome",1663210248,["Compliance mode enabled, was '44.2'"]],
+["gnome-desktop","42.4","44.3","desktop-gnome",1663210248,["Compliance mode enabled, was '44.3'"]],
 ["gtk-engines-2","2.21.0","2.20.2","desktop-gnome",1678950872,["Compliance mode enabled, was '2.20.2'","Possible downgrade from the current version (2.21.0 -> 2.20.2)"]],
 ["gnome-color-manager","3.36.0","3.36.2","desktop-gnome",1607975456,["Compliance mode enabled, was '3.36.2'"]],
 ["accerciser","3.40.0","3.46.2","desktop-gnome",1663210249,["Compliance mode enabled, was '3.46.2'"]],
