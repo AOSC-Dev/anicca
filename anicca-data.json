@@ -1287,6 +1287,7 @@
 ["varnish","7.5.0","7.7.1","app-network",1718805904,["Compliance mode enabled, was '7.7.1'"]],
 ["iperf3","3.17.1","3.19","app-network",1718471614,["Compliance mode enabled, was '3.19'"]],
 ["tcping","1.3.5","2.1.0","app-network",1510795411,["Compliance mode enabled, was '2.1.0'"]],
+["xpra","6.3","6.3.1","app-network",1748080434,["Compliance mode enabled, was '6.3.1'"]],
 ["cbm","0.3.2","0.4","app-network",1719969388,["Compliance mode enabled, was '0.4'"]],
 ["tcpdump","4.99.4","4.99.5","app-network",1709902196,["Compliance mode enabled, was '4.99.5'"]],
 ["kubo","0.33.2","0.35.0","app-network",1744297688,["Compliance mode enabled, was '0.35.0'"]],
