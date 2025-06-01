@@ -1050,7 +1050,6 @@
 ["bcc","0.30.0","0.35.0","app-devel",1715740238,["Compliance mode enabled, was '0.35.0'"]],
 ["aspnetcore-runtime-6.0","6.0.30","6.0.36","app-devel",1716597653,["Compliance mode enabled, was '6.0.36'"]],
 ["extra-cmake-modules","5.115.0","6.14.0","app-devel",1714377107,["Compliance mode enabled, was '6.14.0'"]],
-["rpcsvc-proto","1.4.2","1.4.4","app-devel",1607157929,["Compliance mode enabled, was '1.4.4'"]],
 ["intel-graphics-compiler","2.10.10","2.11.7","app-devel",1747532025,["Compliance mode enabled, was '2.11.7'"]],
 ["avr-binutils","2.37","2.44","app-devel",1634066043,["Compliance mode enabled, was '2.44'"]],
 ["binutils","2.43.1","2.44","app-devel",1728875631,["Compliance mode enabled, was '2.44'"]],
