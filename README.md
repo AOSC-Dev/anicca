@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748752147?label=Updated)
+![Relative date](https://img.shields.io/date/1748754849?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -327,7 +327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptography|40.0.0|45.0.3|lang-python|Compliance mode enabled, was '45.0.3'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
-|ctags|20191203|6.1.20250525.0|app-devel|Compliance mode enabled, was '6.1.20250525.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250525.0)|
+|ctags|20191203|6.1.20250601.0|app-devel|Compliance mode enabled, was '6.1.20250601.0'<br>Possible downgrade from the current version (20191203 -> 6.1.20250601.0)|
 |cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -1548,7 +1548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.32|app-admin|Compliance mode enabled, was '2.03.32'|
 |lxc|6.0.1|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
 |lxcfs|3.0.3|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
-|lxgwcleargothic-font|0.300.4|0.502|desktop-fonts|Compliance mode enabled, was '0.502'|
+|lxgwcleargothic-font|0.300.4|0.502.1|desktop-fonts|Compliance mode enabled, was '0.502.1'|
 |lxgwneoxihei-font|1.213|1.217|desktop-fonts|Compliance mode enabled, was '1.217'|
 |lxgwwenkai-font|1.510|1.511|desktop-fonts|Compliance mode enabled, was '1.511'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
@@ -2515,8 +2515,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
 |spirv-headers|1.4.309.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
-|spirv-llvm-translator|18.1.0|20.1.2|app-devel|Compliance mode enabled, was '20.1.2'|
-|spirv-llvm-translator+32|18.1.0|20.1.2|runtime-optenv32|Compliance mode enabled, was '20.1.2'|
+|spirv-llvm-translator|18.1.0|20.1.3|app-devel|Compliance mode enabled, was '20.1.3'|
+|spirv-llvm-translator+32|18.1.0|20.1.3|runtime-optenv32|Compliance mode enabled, was '20.1.3'|
 |spirv-tools|1.4.309.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
 |spirv-tools+32|1.4.309.0|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
 |sqlalchemy|1.2.18|2.0.41|lang-python|Compliance mode enabled, was '2.0.41'|
