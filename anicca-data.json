@@ -2821,7 +2821,6 @@
 ["libquotient","0.8.2","0.9.3","runtime-web",1721970279,["Compliance mode enabled, was '0.9.3'"]],
 ["libnspsl","0.1.6","0.1.7","runtime-web",1591894752,["Compliance mode enabled, was '0.1.7'"]],
 ["sofia-sip","1.12.11","1.13.17","runtime-web",1696572712,["Compliance mode enabled, was '1.13.17'"]],
-["wpebackend-fdo","1.12.1","1.16.0","runtime-web",1663210210,["Compliance mode enabled, was '1.16.0'"]],
 ["loudmouth","1.5.3","1.5.4","runtime-web",1531681602,["Compliance mode enabled, was '1.5.4'"]],
 ["uhttpmock","0.5.3","0.11.0","runtime-web",1600321917,["Compliance mode enabled, was '0.11.0'"]],
 ["libtorrent-rasterbar","2.0.10","2.0.11","runtime-web",1710985498,["Compliance mode enabled, was '2.0.11'"]],
