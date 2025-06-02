@@ -770,7 +770,7 @@
 ["perl-http-cookies","6.01","6.11","lang-perl",1678950872,["Compliance mode enabled, was '6.11'"]],
 ["sozu","0.15.2","1.0.6","app-web",1696572712,["Compliance mode enabled, was '1.0.6'"]],
 ["firefox","139.0","139.0.1","app-web",1748707157,["Compliance mode enabled, was '139.0.1'"]],
-["thunderbird","138.0","139.0","app-web",1746632382,["Compliance mode enabled, was '139.0'"]],
+["thunderbird","138.0","139.0.1","app-web",1746632382,["Compliance mode enabled, was '139.0.1'"]],
 ["certbot","2.11.0","4.0.0","app-web",1717723307,["Compliance mode enabled, was '4.0.0'"]],
 ["squid","5.7","7.0.1","app-web",1669533924,["Compliance mode enabled, was '7.0.1'"]],
 ["rclone","1.69.1","1.69.3","app-web",1744084135,["Compliance mode enabled, was '1.69.3'"]],
