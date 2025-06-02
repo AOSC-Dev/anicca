@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748902437?label=Updated)
+![Relative date](https://img.shields.io/date/1748905914?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1514,7 +1514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-rc|6.15.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.15.0 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.237|runtime-kernel|Compliance mode enabled, was '5.10.237'|
 |linux-kernel-retro-minimal|5.15.17|5.10.237|runtime-kernel|Compliance mode enabled, was '5.10.237'<br>Possible downgrade from the current version (5.15.17 -> 5.10.237)|
-|linuxsampler|2.3.0|2.3.1|runtime-multimedia|Compliance mode enabled, was '2.3.1'|
+|linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.8.0|app-admin|Compliance mode enabled, was '1.8.0'|
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
@@ -1677,7 +1677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.1|app-doc|Compliance mode enabled, was '1.26.1'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
-|mutter|42.4|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
+|mutter|42.4|48.3.1|desktop-gnome|Compliance mode enabled, was '48.3.1'|
 |mvfst|2025.03.24.00|2025.06.02.00|runtime-network|Compliance mode enabled, was '2025.06.02.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.31.2|app-database|Compliance mode enabled, was '1.31.2'|
@@ -1833,7 +1833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.1|runtime-common|Compliance mode enabled, was '12.0.1'|
-|openvswitch|3.0.3|3.5.0|app-network|Compliance mode enabled, was '3.5.0'|
+|openvswitch|3.0.3|3.5.1|app-network|Compliance mode enabled, was '3.5.1'|
 |optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
