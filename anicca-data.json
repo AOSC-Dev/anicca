@@ -1461,7 +1461,7 @@
 ["restic","0.17.3","0.18.0","app-utils",1744297688,["Compliance mode enabled, was '0.18.0'"]],
 ["wezterm","20240203+110809+5046fc22","20240203-110809-5046fc22","app-utils",1709441522,["Compliance mode enabled, was '20240203-110809-5046fc22'"]],
 ["aide","0.16.2","0.19","app-utils",1600710259,["Compliance mode enabled, was '0.19'"]],
-["nvchecker","2.15.1","2.17","app-utils",1728440417,["Compliance mode enabled, was '2.17'"]],
+["nvchecker","2.15.1","2.18","app-utils",1728440417,["Compliance mode enabled, was '2.18'"]],
 ["less","661","678","app-utils",1728359159,["Compliance mode enabled, was '678'"]],
 ["f3","8.0","9.0","app-utils",1722228423,["Compliance mode enabled, was '9.0'"]],
 ["oxipng","9.1.4","9.1.5","app-utils",1739855630,["Compliance mode enabled, was '9.1.5'"]],
