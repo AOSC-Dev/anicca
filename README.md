@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748819525?label=Updated)
+![Relative date](https://img.shields.io/date/1748825464?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -366,7 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.14|app-devel|Compliance mode enabled, was '2.25.14'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
-|dhcpcd|10.0.8|10.2.3|app-network|Compliance mode enabled, was '10.2.3'|
+|dhcpcd|10.0.8|10.2.4|app-network|Compliance mode enabled, was '10.2.4'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
 |dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
@@ -1666,7 +1666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
 |msgpack-c++|6.1.0|7.0.0|runtime-common|Compliance mode enabled, was '7.0.0'|
 |msitools|0.101|0.106|app-devel|Compliance mode enabled, was '0.106'|
-|msmtp|1.8.28|1.8.29|app-web|Compliance mode enabled, was '1.8.29'|
+|msmtp|1.8.28|1.8.30|app-web|Compliance mode enabled, was '1.8.30'|
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mstflint|4.29.0-1|4.32.0+1|app-admin|Compliance mode enabled, was '4.32.0-1'|
 |mtd-utils|2.1.5|2.3.0|app-admin|Compliance mode enabled, was '2.3.0'|
@@ -1751,7 +1751,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuclei|3.4.2|3.4.4|app-utils|Compliance mode enabled, was '3.4.4'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
 |numix-icon-theme|24.09.18|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
-|numix-icon-theme-circle|24.10.22|25.01.31|desktop-themes|Compliance mode enabled, was '25.01.31'|
 |numpy|1.26.4|2.2.6|lang-python|Compliance mode enabled, was '2.2.6'|
 |nut|2.7.4|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |nvchecker|2.15.1|2.17|app-utils|Compliance mode enabled, was '2.17'|
@@ -2285,7 +2284,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.2.6|app-multimedia|Compliance mode enabled, was '2.2.6'|
-|qownnotes|22.6.1|25.5.10|app-web|Compliance mode enabled, was '25.5.10'|
+|qownnotes|22.6.1|25.6.0|app-web|Compliance mode enabled, was '25.6.0'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
@@ -2845,7 +2844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.6|10.8|app-emulation||
+|wine|10.6|10.9|app-emulation||
 |wireguard|1|0.0.20191219|app-network|Compliance mode enabled, was '0.0.20191219'<br>Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.02.20|app-network|Compliance mode enabled, was '2025.02.20'|
