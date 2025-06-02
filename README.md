@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748836106?label=Updated)
+![Relative date](https://img.shields.io/date/1748838223?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -368,6 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.2.4|app-network|Compliance mode enabled, was '10.2.4'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
+|dialog|1.3<br>+20240619|1.3+20250116|app-utils|Compliance mode enabled, was '1.3-20250116'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diff-match-patch|20200713|20241021|lang-python|Compliance mode enabled, was '20241021'|
 |diffuse|0.9.0|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
@@ -742,6 +743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
+|helm|3.17.1|3.18.1|app-containers|Compliance mode enabled, was '3.18.1'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
@@ -1598,7 +1600,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdownpart|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |marshmallow|3.20.2|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |mate-panel|1.28.4|1.28.5|desktop-mate|Compliance mode enabled, was '1.28.5'|
-|materialx|1.38.8|1.39.3|runtime-creativity|Compliance mode enabled, was '1.39.3'|
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib-inline|0.1.7|9.3.0|lang-python|Compliance mode enabled, was '9.3.0'|
