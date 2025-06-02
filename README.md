@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748895296?label=Updated)
+![Relative date](https://img.shields.io/date/1748898706?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -177,8 +177,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.38.27|lang-python|Compliance mode enabled, was '1.38.27'|
-|botocore|1.34.133|1.38.27|lang-python|Compliance mode enabled, was '1.38.27'|
+|boto3|1.20.26|1.38.28|lang-python|Compliance mode enabled, was '1.38.28'|
+|botocore|1.34.133|1.38.28|lang-python|Compliance mode enabled, was '1.38.28'|
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1785,7 +1785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|12.5.0|12.5.2|app-virtualization|Compliance mode enabled, was '12.5.2'|
-|openai-python|1.63.2|1.82.1|lang-python|Compliance mode enabled, was '1.82.1'|
+|openai-python|1.63.2|1.83.0|lang-python|Compliance mode enabled, was '1.83.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
