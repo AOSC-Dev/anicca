@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748931489?label=Updated)
+![Relative date](https://img.shields.io/date/1748934893?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1774,7 +1774,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocamlbuild|0.14.1|0.16.1|lang-ocaml|Compliance mode enabled, was '0.16.1'|
 |ocrmypdf|16.5.0|16.10.2|app-doc|Compliance mode enabled, was '16.10.2'|
 |ocserv|1.1.2|1.3.0|app-network|Compliance mode enabled, was '1.3.0'|
-|octave|9.2.0|10.1.0|app-scientific|Compliance mode enabled, was '10.1.0'|
+|octave|9.2.0|10.2.0|app-scientific|Compliance mode enabled, was '10.2.0'|
 |ofono|1.30|2.17|app-network|Compliance mode enabled, was '2.17'|
 |okteta|0.26.9|0.26.21|desktop-kde|Compliance mode enabled, was '0.26.21'|
 |okular|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1892,6 +1892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pcp|6.0.1|6.3.8|app-utils|Compliance mode enabled, was '6.3.8'|
+|pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcre2|10.44|10.45|runtime-common|Compliance mode enabled, was '10.45'|
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
@@ -2297,7 +2298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |qsynth|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
 |qt-5|5.15.16|5.15.17-lts-lgpl|runtime-desktop||
-|qt-6|6.8.2|6.9.0|runtime-desktop|Compliance mode enabled, was '6.9.0'|
+|qt-6|6.8.2|6.9.1|runtime-desktop|Compliance mode enabled, was '6.9.1'|
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qtcreator|16.0.1|16.0.2|app-devel|Compliance mode enabled, was '16.0.2'|
 |qterminal|1.4.0|2.2.1|desktop-lxqt|Compliance mode enabled, was '2.2.1'|
@@ -2344,7 +2345,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reportlab|3.5.50|4.4.1|lang-python|Compliance mode enabled, was '4.4.1'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
-|restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
 |retext|7.2.2|8.1.0|app-editors|Compliance mode enabled, was '8.1.0'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rhash|1.4.4|1.4.6|app-utils|Compliance mode enabled, was '1.4.6'|
@@ -2361,7 +2361,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-bandwidth-test|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocm-cmake|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocm-llvm|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
-|rocm-smi-lib|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocminfo|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocr-runtime|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocs|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
