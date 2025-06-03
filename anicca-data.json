@@ -1111,7 +1111,6 @@
 ["avrdude","6.3","8.0","app-devel",1678950872,["Compliance mode enabled, was '8.0'"]],
 ["diffuse","0.9.0","0.10.0","app-devel",1718471717,["Compliance mode enabled, was '0.10.0'"]],
 ["lazygit","0.48.0","0.51.1","app-vcs",1741963136,["Compliance mode enabled, was '0.51.1'"]],
-["mercurial","6.9.4","7.0.2","app-vcs",1742801254,["Compliance mode enabled, was '7.0.2'"]],
 ["git-cinnabar","0.6.3","0.7.2","app-vcs",1721832254,["Compliance mode enabled, was '0.7.2'"]],
 ["tortoisehg","6.6.3","7.0.1","app-vcs",1716735995,["Compliance mode enabled, was '7.0.1'"]],
 ["git-cliff","2.8.0","2.9.0","app-vcs",1748425547,["Compliance mode enabled, was '2.9.0'"]],
