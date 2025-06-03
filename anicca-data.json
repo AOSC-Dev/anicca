@@ -955,6 +955,7 @@
 ["alsa-ucm-conf-asahi","6","8","runtime-multimedia",1740327598,["Compliance mode enabled, was '8'"]],
 ["rtaudio","5.1.0","6.0.1","runtime-multimedia",1630127736,["Compliance mode enabled, was '6.0.1'"]],
 ["sdl-gfx","2.0.25","2.0.27","runtime-multimedia",1486146332,["Compliance mode enabled, was '2.0.27'"]],
+["alsa-lib","1.2.13","1.2.14","runtime-multimedia",1736563704,["Compliance mode enabled, was '1.2.14'"]],
 ["adplug","2.3.3","2.4","runtime-multimedia",1741749311,["Compliance mode enabled, was '2.4'"]],
 ["libtheora","1.1.1","1.2.0","runtime-multimedia",1747135556,["Compliance mode enabled, was '1.2.0'"]],
 ["libmikmod","3.3.11.1","3.3.13","runtime-multimedia",1505701674,["Compliance mode enabled, was '3.3.13'"]],
