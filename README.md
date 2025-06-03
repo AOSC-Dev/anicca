@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748934893?label=Updated)
+![Relative date](https://img.shields.io/date/1748938706?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -53,7 +53,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|alsa-lib|1.2.13|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
 |alsa-lib+32|1.2.13|1.2.14|runtime-optenv32|Compliance mode enabled, was '1.2.14'|
 |alsa-ucm-conf|1.2.12|1.2.14|runtime-multimedia|Compliance mode enabled, was '1.2.14'|
 |alsa-ucm-conf-asahi|6|8|runtime-multimedia|Compliance mode enabled, was '8'|
@@ -2345,6 +2344,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reportlab|3.5.50|4.4.1|lang-python|Compliance mode enabled, was '4.4.1'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
+|restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
 |retext|7.2.2|8.1.0|app-editors|Compliance mode enabled, was '8.1.0'|
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rhash|1.4.4|1.4.6|app-utils|Compliance mode enabled, was '1.4.6'|
@@ -2361,6 +2361,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-bandwidth-test|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocm-cmake|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocm-llvm|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
+|rocm-smi-lib|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocminfo|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocr-runtime|6.0.2|6.4.1|runtime-rocm|Compliance mode enabled, was '6.4.1'|
 |rocs|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -2823,8 +2824,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
 |vulkan-loader|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
 |vulkan-loader+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
-|vulkan-tools|1.4.309.0|1.4.313|app-utils|Compliance mode enabled, was '1.4.313'|
-|vulkan-tools+32|1.4.309.0|1.4.313|runtime-optenv32|Compliance mode enabled, was '1.4.313'|
+|vulkan-tools|1.4.309.0|1.4.316|app-utils|Compliance mode enabled, was '1.4.316'|
+|vulkan-tools+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
 |vulkan-utility-libraries|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
 |vulkan-validationlayers|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
