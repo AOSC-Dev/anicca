@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748918037?label=Updated)
+![Relative date](https://img.shields.io/date/1748922152?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -337,7 +337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |cython|3.1.0|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|damo|2.4.7|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
+|damo|2.4.7|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.7.18|app-utils|Compliance mode enabled, was '2.7.18'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
@@ -376,7 +376,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.36.0|app-utils|Compliance mode enabled, was '2.36.0'|
-|discord|0.0.95|0.0.96|app-web|Compliance mode enabled, was '0.0.96'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |distlib|0.3.1|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
@@ -776,7 +775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.133.0|lang-python|Compliance mode enabled, was '6.133.0'|
+|hypothesis-python|6.97.4|6.133.2|lang-python|Compliance mode enabled, was '6.133.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.57.0|app-web|Compliance mode enabled, was '2.57.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
