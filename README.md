@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748905914?label=Updated)
+![Relative date](https://img.shields.io/date/1748911644?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -680,6 +680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.170.0|lang-python|Compliance mode enabled, was '2.170.0'|
 |google-auth|1.6.3|2.40.2|lang-python|Compliance mode enabled, was '2.40.2'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|137.0.7151.55|137.0.7151.68|app-web|Compliance mode enabled, was '137.0.7151.68'|
 |goreleaser|2.8.2|2.9.0|lang-golang|Compliance mode enabled, was '2.9.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
@@ -1225,6 +1226,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|25|runtime-wasi|Compliance mode enabled, was '25'|
 |libcaldav|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|libcamera|0.5.0|0.5.1|runtime-devices|Compliance mode enabled, was '0.5.1'|
 |libcap|2.73|2.76|runtime-common|Compliance mode enabled, was '2.76'|
 |libcap+32|2.73|2.76|runtime-optenv32|Compliance mode enabled, was '2.76'|
 |libcarddav|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1449,7 +1451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libunwind|1.8.1|1.8.2|runtime-common|Compliance mode enabled, was '1.8.2'|
 |libunwind+32|1.8.1|1.8.2|runtime-optenv32|Compliance mode enabled, was '1.8.2'|
-|libupnp|1.14.16|1.14.21|runtime-network|Compliance mode enabled, was '1.14.21'|
+|libupnp|1.14.16|1.14.22|runtime-network|Compliance mode enabled, was '1.14.22'|
 |liburcu|0.14.0|0.15.3|runtime-common|Compliance mode enabled, was '0.15.3'|
 |liburing|2.6|2.10|runtime-common|Compliance mode enabled, was '2.10'|
 |libusb|1.0.28|1.0.29|runtime-devices|Compliance mode enabled, was '1.0.29'|
