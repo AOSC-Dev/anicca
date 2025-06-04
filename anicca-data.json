@@ -673,6 +673,7 @@
 ["perl-par-dist","0.52","0.53","lang-perl",1718471582,["Compliance mode enabled, was '0.53'"]],
 ["perl-devel-checklib","1.13","1.16","lang-perl",1530196415,["Compliance mode enabled, was '1.16'"]],
 ["perl-gd","2.71","2.83","lang-perl",1550814485,["Compliance mode enabled, was '2.83'"]],
+["perl-term-readline-gnu","1.36","1.46","lang-perl",1551145623,["Compliance mode enabled, was '1.46'"]],
 ["perl-class-method-modifiers","2.12","2.15","lang-perl",1631079139,["Compliance mode enabled, was '2.15'"]],
 ["perl-class-singleton","1.5","1.6","lang-perl",1596485702,["Compliance mode enabled, was '1.6'"]],
 ["perl-mro-compat","0.13","0.15","lang-perl",1596485704,["Compliance mode enabled, was '0.15'"]],
