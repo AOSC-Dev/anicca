@@ -1917,6 +1917,7 @@
 ["lxqt-config","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-admin","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-qtplugin","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
+["lua-5.4","5.4.7","5.4.8","lang-lua",1642132413,["Compliance mode enabled, was '5.4.8'"]],
 ["luabitop","1.0.2","1.0.3","lang-lua",1678950872,["Compliance mode enabled, was '1.0.3'"]],
 ["luajit","2.1.0b3+git20240222","2.1.rolling","lang-lua",1708851535,["Compliance mode enabled, was '2.1.ROLLING'"]],
 ["luafilesystem","1.7.0.2","1.8.0","lang-lua",1528252819,["Compliance mode enabled, was '1_8_0'"]],
