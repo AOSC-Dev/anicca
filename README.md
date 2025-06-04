@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749028495?label=Updated)
+![Relative date](https://img.shields.io/date/1749032002?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -280,6 +280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.4.1|25.1.2|app-admin|Compliance mode enabled, was '25.1.2'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
+|cmake|3.31.6|4.0.2|app-devel|Compliance mode enabled, was '4.0.2'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
@@ -305,6 +306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conmon|2.1.12|2.1.13|app-admin|Compliance mode enabled, was '2.1.13'|
 |constantly|15.1.0|23.10.4|lang-python|Compliance mode enabled, was '23.10.4'|
 |containerd|2.0.2|2.1.1|app-containers|Compliance mode enabled, was '2.1.1'|
+|containers-common|0.63.0|0.63.1|runtime-containers||
 |convertall|0.7.5|1.0.1|app-utils|Compliance mode enabled, was '1.0.1'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |coreboot-utils|24.08|25.03|app-admin|Compliance mode enabled, was '25.03'|
@@ -391,7 +393,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker-buildx|0.22.0|0.24.0|app-containers|Compliance mode enabled, was '0.24.0'|
 |docker-compose|2.35.0|2.36.2|app-containers|Compliance mode enabled, was '2.36.2'|
 |dolphin|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|dolphin-emu|2503|2503a|app-games|Compliance mode enabled, was '2503a'<br>Possible downgrade from the current version (2503 -> 2503a)|
+|dolphin-emu|2503|2506|app-games|Compliance mode enabled, was '2506'|
 |dolphin-plugins|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |dolphin-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
@@ -2526,7 +2528,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.8.8|1.9.5|app-penetration|Compliance mode enabled, was '1.9.5'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
-|squashfs-tools|4.6.1|4.7|app-admin|Compliance mode enabled, was '4.7'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
 |squid|5.7|7.0.1|app-web|Compliance mode enabled, was '7.0.1'|
