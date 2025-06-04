@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1748998141?label=Updated)
+![Relative date](https://img.shields.io/date/1749004930?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -26,6 +26,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ada|2.9.1|3.2.4|runtime-web|Compliance mode enabled, was '3.2.4'|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004r|desktop-fonts|Compliance mode enabled, was '2.004R'<br>Possible downgrade from the current version (2.004 -> 2.004r)|
+|adobe-source-han-serif|2.003|2.003r|desktop-fonts|Compliance mode enabled, was '2.003R'<br>Possible downgrade from the current version (2.003 -> 2.003r)|
 |adobe-source-sans|3.052|3.052r|desktop-fonts|Compliance mode enabled, was '3.052R'<br>Possible downgrade from the current version (3.052 -> 3.052r)|
 |adobe-source-serif|4.005|4.005r|desktop-fonts|Compliance mode enabled, was '4.005R'<br>Possible downgrade from the current version (4.005 -> 4.005r)|
 |adplug|2.3.3|2.4|runtime-multimedia|Compliance mode enabled, was '2.4'|
