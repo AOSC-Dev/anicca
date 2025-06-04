@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749064261?label=Updated)
+![Relative date](https://img.shields.io/date/1749067977?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -179,8 +179,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.38.29|lang-python|Compliance mode enabled, was '1.38.29'|
-|botocore|1.34.133|1.38.29|lang-python|Compliance mode enabled, was '1.38.29'|
+|boto3|1.20.26|1.38.30|lang-python|Compliance mode enabled, was '1.38.30'|
+|botocore|1.34.133|1.38.30|lang-python|Compliance mode enabled, was '1.38.30'|
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -288,8 +288,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|286.1|340|app-admin|Compliance mode enabled, was '340'|
-|cockpit-machines|284.1|332|app-admin|Compliance mode enabled, was '332'|
-|cockpit-podman|63|106|app-admin|Compliance mode enabled, was '106'|
+|cockpit-machines|284.1|333|app-admin|Compliance mode enabled, was '333'|
+|cockpit-podman|63|107|app-admin|Compliance mode enabled, was '107'|
 |code-server|4.93.1|4.100.3|app-utils|Compliance mode enabled, was '4.100.3'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
@@ -1530,7 +1530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5588|runtime-creativity|Compliance mode enabled, was '5588'|
+|llama.cpp|5298|5589|runtime-creativity|Compliance mode enabled, was '5589'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -2601,7 +2601,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tagparser|11.5.1|12.5.0|runtime-multimedia|Compliance mode enabled, was '12.5.0'|
 |tailscale|1.84.0|1.84.1|app-network|Compliance mode enabled, was '1.84.1'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
-|tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |targetcli-fb|2.1.54|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |tarsnap|1.0.39|1.0.41|app-admin|Compliance mode enabled, was '1.0.41'|
 |tastymenu-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2735,7 +2734,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twin-style-fahrenheit|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |twin-style-machbunt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |twisted|21.2.0|24.11.0|lang-python|Compliance mode enabled, was '24.11.0'|
-|twm|1.0.11|1.0.13.1|desktop-wm|Compliance mode enabled, was '1.0.13.1'|
 |twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
 |txaio|18.8.1|23.1.1|lang-python|Compliance mode enabled, was '23.1.1'|
