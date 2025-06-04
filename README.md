@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749053689?label=Updated)
+![Relative date](https://img.shields.io/date/1749057166?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1808,6 +1808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.9.0|4.11.0|runtime-scientific|Compliance mode enabled, was '4.11.0'|
 |openexr|3.1.8|3.3.3|runtime-imaging|Compliance mode enabled, was '3.3.3'|
 |openfortivpn|1.18.0|1.23.1|app-network|Compliance mode enabled, was '1.23.1'|
+|openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.7.0|runtime-imaging|Compliance mode enabled, was '3.0.7.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.27-ga|11.0.28+3|lang-java||
@@ -1851,6 +1852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
+|oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |oxygen-icons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |oxygen-sounds|5.25.3|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
