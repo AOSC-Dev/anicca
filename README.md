@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749118505?label=Updated)
+![Relative date](https://img.shields.io/date/1749121863?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1401,7 +1401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |libquotient|0.8.2|0.9.3|runtime-web|Compliance mode enabled, was '0.9.3'|
 |libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
-|libreoffice|25.2.3.2|25.2.4.2|app-productivity|Compliance mode enabled, was '25.2.4.2'|
+|libreoffice|25.2.3.2|25.2.4.3|app-productivity|Compliance mode enabled, was '25.2.4.3'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
 |librsvg|2.59.2|2.60.0|runtime-imaging|Compliance mode enabled, was '2.60.0'|
@@ -1528,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5590|runtime-creativity|Compliance mode enabled, was '5590'|
+|llama.cpp|5298|5595|runtime-creativity|Compliance mode enabled, was '5595'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -1852,6 +1852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
+|osu-lazer|2025.530.0|2025.605.2|app-games|Compliance mode enabled, was '2025.605.2'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |oxygen-icons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
