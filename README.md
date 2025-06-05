@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749084384?label=Updated)
+![Relative date](https://img.shields.io/date/1749090779?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -453,7 +453,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant-2|2.3.1|2.8.6|app-i18n|Compliance mode enabled, was '2.8.6'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|endless-sky|0.10.10|0.10.13|app-games|Compliance mode enabled, was '0.10.13'|
+|endless-sky|0.10.10|0.10.13.1|app-games|Compliance mode enabled, was '0.10.13.1'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
@@ -587,7 +587,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |geany|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
 |geany-plugins|2.0|2.0.0|app-devel|Compliance mode enabled, was '2.0.0'|
-|gearlever|3.2.4|3.3.0|app-utils|Compliance mode enabled, was '3.3.0'|
 |gedit|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |gedit-plugins|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
@@ -1163,7 +1162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksystemstats|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |kteatime|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |ktechlab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|ktextaddons|1.5.3|1.5.4|desktop-kde|Compliance mode enabled, was '1.5.4'|
+|ktextaddons|1.5.3|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
 |ktexteditor|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |ktextwidgets|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |ktimer|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
@@ -1515,13 +1514,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.12.7|6.12.32|runtime-optenv32|Compliance mode enabled, was '6.12.32'|
 |linux+kernel|6.14.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.10 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
-|linux+kernel+lts|6.12.31|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (6.12.31 -> 5.10.238)|
+|linux+kernel+lts|6.12.32|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (6.12.32 -> 5.10.238)|
 |linux+kernel+rc|6.15.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.15.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'|
 |linux+kernel+retro+minimal|5.15.17|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (5.15.17 -> 5.10.238)|
 |linux-firmware|20250425|20250509|runtime-kernel||
 |linux-kernel|6.14.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.10 -> 5.19.17)|
-|linux-kernel-lts|6.12.31|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.31 -> 5.19.17)|
+|linux-kernel-lts|6.12.32|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.32 -> 5.19.17)|
 |linux-kernel-rc|6.15.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.15.0 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'|
 |linux-kernel-retro-minimal|5.15.17|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (5.15.17 -> 5.10.238)|
@@ -1897,7 +1896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pavucontrol-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pbr|6.0.0|6.1.1|lang-python|Compliance mode enabled, was '6.1.1'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
-|pcl|1.13.1|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.13.1 -> 1.12)|
+|pcl|1.15.0|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.15.0 -> 1.12)|
 |pcmanfm-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pcp|6.0.1|6.3.8|app-utils|Compliance mode enabled, was '6.3.8'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
@@ -1906,7 +1905,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.398|app-games|Compliance mode enabled, was '2.3.398'|
+|pcsx2|1.6.0<br>+git20210825|2.3.402|app-games|Compliance mode enabled, was '2.3.402'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2296,7 +2295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.2.6|app-multimedia|Compliance mode enabled, was '2.2.6'|
-|qownnotes|22.6.1|25.6.0|app-web|Compliance mode enabled, was '25.6.0'|
 |qpageview|0.6.2|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
@@ -2680,7 +2678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
 |thin-provisioning-tools|1.0.10|1.1.0|app-admin|Compliance mode enabled, was '1.1.0'|
 |threadweaver|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
-|thunderbird|138.0|139.0.1|app-web|Compliance mode enabled, was '139.0.1'|
+|thunderbird|139.0|139.0.1|app-web|Compliance mode enabled, was '139.0.1'|
 |tig|2.5.10|2.5.12|app-utils|Compliance mode enabled, was '2.5.12'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
@@ -2825,7 +2823,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.4.309.0|1.4.313.0|runtime-optenv32|Compliance mode enabled, was '1.4.313.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscode|1.100.2|1.100.3|app-editors|Compliance mode enabled, was '1.100.3'|
 |vscodium|1.100.03093|1.100.33714|app-editors|Compliance mode enabled, was '1.100.33714'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.2|runtime-desktop|Compliance mode enabled, was '0.80.2'|
