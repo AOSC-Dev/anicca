@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749107686?label=Updated)
+![Relative date](https://img.shields.io/date/1749111390?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -966,6 +966,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdf|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
+|kdiamond|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdiff3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdirstat-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
@@ -1612,7 +1613,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mathjax|2.7.5|3.2.2|lang-js|Compliance mode enabled, was '3.2.2'|
 |matplotlib-inline|0.1.7|9.3.0|lang-python|Compliance mode enabled, was '9.3.0'|
-|maturin|1.8.1|1.8.6|lang-python|Compliance mode enabled, was '1.8.6'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
 |maxima|5.46.0|5.47.0|app-scientific|Compliance mode enabled, was '5.47.0'|
 |mbedtls|2.16.7|3.6.3.1|runtime-cryptography|Compliance mode enabled, was '3.6.3.1'|
@@ -2776,7 +2776,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|uv|0.7.9|0.7.11|lang-python|Compliance mode enabled, was '0.7.11'|
+|uv|0.7.10|0.7.11|lang-python|Compliance mode enabled, was '0.7.11'|
 |v2ray|5.31.0|5.33.0|app-network|Compliance mode enabled, was '5.33.0'|
 |v2ray-rules-dat|202501302211|202506042212|runtime-data|Compliance mode enabled, was '202506042212'<br>Versions not comparable: `202501302211` and `202506042212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
