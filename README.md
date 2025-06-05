@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749143491?label=Updated)
+![Relative date](https://img.shields.io/date/1749147858?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -47,6 +47,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-notes|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |akonadi-search|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |akonadiconsole|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|akregator|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |alabaster|0.7.12|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |alacarte|3.54.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
@@ -390,7 +391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-xml|0|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|28.0.4|28.2.2|app-containers||
 |docker-buildx|0.22.0|0.24.0|app-containers|Compliance mode enabled, was '0.24.0'|
-|docker-compose|2.35.0|2.36.2|app-containers|Compliance mode enabled, was '2.36.2'|
+|docker-compose|2.35.0|2.37.0|app-containers|Compliance mode enabled, was '2.37.0'|
 |dolphin|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |dolphin-emu|2503|2506a|app-games|Compliance mode enabled, was '2506a'|
 |dolphin-plugins|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -2402,6 +2403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.13.0|lang-python|Compliance mode enabled, was '0.13.0'|
 |sagemath|10.4|10.6|app-scientific|Compliance mode enabled, was '10.6'|
+|samba|4.22.1|4.22.2|app-network|Compliance mode enabled, was '4.22.2'|
 |samtools|1.21|1.22|app-scientific|Compliance mode enabled, was '1.22'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
