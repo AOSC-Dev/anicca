@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749104218?label=Updated)
+![Relative date](https://img.shields.io/date/1749107686?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -122,7 +122,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.0.5|app-admin|Compliance mode enabled, was '4.0.5'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
-|autobuild4|4.11.1|4.12.0|app-devel|Compliance mode enabled, was '4.12.0'|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automake|1.17|1.18|app-devel|Compliance mode enabled, was '1.18'|
 |automat|20.2.0|25.4.16|lang-python|Compliance mode enabled, was '25.4.16'|
@@ -967,7 +966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdf|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|kdiamond|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |kdiff3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdirstat-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdiskmark|2.3.0|3.1.4-standalone|desktop-kde|Compliance mode enabled, was '3.1.4-standalone'|
@@ -1501,7 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt|1.1.42|1.1.43|runtime-common|Compliance mode enabled, was '1.1.43'|
 |libxslt+32|1.1.42|1.1.43|runtime-optenv32|Compliance mode enabled, was '1.1.43'|
 |libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
-|liferea|1.13.8|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
+|liferea|1.14.6|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightdm-settings|2.0.4|2.0.7|desktop-displaymanagers|Compliance mode enabled, was '2.0.7'|
@@ -1605,7 +1603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |man-db|2.13.0|2.13.1|app-utils|Compliance mode enabled, was '2.13.1'|
 |maple-font|7.3|6.4.1|desktop-fonts|Compliance mode enabled, was '6.4.1'<br>Possible downgrade from the current version (7.3 -> 6.4.1)|
 |marble|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
-|mariadb|11.7.2|11.8.2|app-database|Compliance mode enabled, was '11.8.2'|
+|mariadb|11.7.2|12.0.1|app-database|Compliance mode enabled, was '12.0.1'|
 |markdown|3.3.4|3.8|lang-python|Compliance mode enabled, was '3.8'|
 |markdownpart|23.08.5|25.04.1|desktop-kde|Compliance mode enabled, was '25.04.1'|
 |marshmallow|3.20.2|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
@@ -2459,7 +2457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|48.1+2|desktop-gnome|Compliance mode enabled, was '48.1-2'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
-|sing-box|1.11.11|1.11.13|app-network|Compliance mode enabled, was '1.11.13'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.10.0|6.12.0|lang-python|Compliance mode enabled, was '6.12.0'|
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
@@ -2822,7 +2819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.4.309.0|1.4.313.0|runtime-optenv32|Compliance mode enabled, was '1.4.313.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.100.03093|1.100.33714|app-editors|Compliance mode enabled, was '1.100.33714'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.2|runtime-desktop|Compliance mode enabled, was '0.80.2'|
 |vtk|9.3.0|9.4.2|app-scientific|Compliance mode enabled, was '9.4.2'|
