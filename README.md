@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749165147?label=Updated)
+![Relative date](https://img.shields.io/date/1749170824?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -332,6 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|20191203|6.2.0|app-devel|Compliance mode enabled, was '6.2.0'<br>Possible downgrade from the current version (20191203 -> 6.2.0)|
+|cuda|12.9.0|12.9.1|app-devel||
 |cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -783,7 +784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.135.0|lang-python|Compliance mode enabled, was '6.135.0'|
+|hypothesis-python|6.97.4|6.135.1|lang-python|Compliance mode enabled, was '6.135.1'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.41.0|2.57.0|app-web|Compliance mode enabled, was '2.57.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -2132,6 +2133,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pocl|6.0|7.0|runtime-common|Compliance mode enabled, was '7.0'|
 |poco|1.14.1|1.14.2|runtime-network|Compliance mode enabled, was '1.14.2'|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.5.0|5.5.1|app-containers||
 |podofo|0.10.3|1.0.0|runtime-doc|Compliance mode enabled, was '1.0.0'|
 |poedit|3.4.1|3.6.3-oss|app-i18n|Compliance mode enabled, was '3.6.3-oss'|
 |poetry|1.8.3|2.1.3|lang-python|Compliance mode enabled, was '2.1.3'|
