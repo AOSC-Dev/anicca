@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749237056?label=Updated)
+![Relative date](https://img.shields.io/date/1749240815?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -79,7 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appstream|1.0.4|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
 |apr|1.7.5|1.7.6|runtime-common|Compliance mode enabled, was '1.7.6'|
-|apsw|3.30.1|3.50.0.0|lang-python|Compliance mode enabled, was '3.50.0.0'|
+|apsw|3.30.1|3.50.1.0|lang-python|Compliance mode enabled, was '3.50.1.0'|
 |apt|3.0.2|3.1.0|app-admin|Compliance mode enabled, was '3.1.0'|
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2025.18|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2025.18 -> 2022.37)|
@@ -180,8 +180,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.38.31|lang-python|Compliance mode enabled, was '1.38.31'|
-|botocore|1.34.133|1.38.31|lang-python|Compliance mode enabled, was '1.38.31'|
+|boto3|1.20.26|1.38.32|lang-python|Compliance mode enabled, was '1.38.32'|
+|botocore|1.34.133|1.38.32|lang-python|Compliance mode enabled, was '1.38.32'|
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -2834,11 +2834,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-extensionlayer|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
 |vulkan-headers|1.4.309.0|1.4.317|runtime-display|Compliance mode enabled, was '1.4.317'|
 |vulkan-headers+32|1.4.309.0|1.4.317|runtime-optenv32|Compliance mode enabled, was '1.4.317'|
-|vulkan-loader|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
-|vulkan-loader+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
+|vulkan-loader|1.4.309.0|1.4.317|runtime-display|Compliance mode enabled, was '1.4.317'|
+|vulkan-loader+32|1.4.309.0|1.4.317|runtime-optenv32|Compliance mode enabled, was '1.4.317'|
 |vulkan-tools|1.4.309.0|1.4.316|app-utils|Compliance mode enabled, was '1.4.316'|
 |vulkan-tools+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
-|vulkan-utility-libraries|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
+|vulkan-utility-libraries|1.4.309.0|1.4.317|runtime-display|Compliance mode enabled, was '1.4.317'|
 |vulkan-validationlayers|1.4.309.0|1.4.316|runtime-display|Compliance mode enabled, was '1.4.316'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.03.24.00|2025.06.02.00|runtime-network|Compliance mode enabled, was '2025.06.02.00'|
