@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749170824?label=Updated)
+![Relative date](https://img.shields.io/date/1749177181?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -827,7 +827,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inkscape|1_4_1|1_4_2|app-creativity||
 |intel-compute-runtime|25.13.33276.19|25.18.33578.6|runtime-scientific|Compliance mode enabled, was '25.18.33578.6'|
 |intel-graphics-compiler|2.10.10|2.11.7|app-devel|Compliance mode enabled, was '2.11.7'|
-|intel-media-driver|25.1.4|25.2.3|runtime-multimedia|Compliance mode enabled, was '25.2.3'|
+|intel-media-driver|25.1.4|25.2.4|runtime-multimedia|Compliance mode enabled, was '25.2.4'|
 |intel-oneapi-basekit|2025.1.2|2025.1.3|app-devel|Compliance mode enabled, was '2025.1.3'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
@@ -2783,7 +2783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.10|0.7.11|lang-python|Compliance mode enabled, was '0.7.11'|
 |v2ray|5.31.0|5.33.0|app-network|Compliance mode enabled, was '5.33.0'|
-|v2ray-rules-dat|202501302211|202506042212|runtime-data|Compliance mode enabled, was '202506042212'<br>Versions not comparable: `202501302211` and `202506042212`|
+|v2ray-rules-dat|202501302211|202506052212|runtime-data|Compliance mode enabled, was '202506052212'<br>Versions not comparable: `202501302211` and `202506052212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
