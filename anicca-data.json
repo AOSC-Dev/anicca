@@ -2200,7 +2200,6 @@
 ["sbsigntool","0.9.4","0.9.5","app-admin",1600106563,["Compliance mode enabled, was '0.9.5'"]],
 ["tlp","1.6.1","1.8.0","app-admin",1706433317,["Compliance mode enabled, was '1.8.0'"]],
 ["glances","4.0.5","4.3.1","app-admin",1716736908,["Compliance mode enabled, was '4.3.1'"]],
-["snapd","2.65.1","2.70","app-admin",1727015619,["Compliance mode enabled, was '2.70'"]],
 ["quota-tools","4.09","4.10","app-admin",1673935786,["Compliance mode enabled, was '4.10'"]],
 ["apparmor","3.0.8","4.1.0-cherry-pick-point","app-admin",1677834439,["Compliance mode enabled, was '4.1.0-cherry-pick-point'"]],
 ["lact","0.7.3","0.7.4","app-admin",1743943232,["Compliance mode enabled, was '0.7.4'"]],
