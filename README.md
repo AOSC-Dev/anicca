@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749226565?label=Updated)
+![Relative date](https://img.shields.io/date/1749230002?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -753,7 +753,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
-|haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
@@ -1533,7 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5600|runtime-creativity|Compliance mode enabled, was '5600'|
+|llama.cpp|5298|5602|runtime-creativity|Compliance mode enabled, was '5602'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
@@ -2170,7 +2169,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prison5|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |privoxy|3.0.34|4.0.0|app-network|Compliance mode enabled, was '4.0.0'|
 |progress|0.16|0.17|app-utils|Compliance mode enabled, was '0.17'|
-|proj|9.2.1|9.6.1|app-gis|Compliance mode enabled, was '9.6.1'|
+|proj|9.2.1|9.6.2|app-gis|Compliance mode enabled, was '9.6.2'|
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
 |prompt-toolkit|3.0.48|3.0.51|lang-python|Compliance mode enabled, was '3.0.51'|
 |protobuf|25.2|31.1|runtime-common|Compliance mode enabled, was '31.1'|
@@ -2393,7 +2392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtslib-fb|2.1.75|2.2.3|app-admin|Compliance mode enabled, was '2.2.3'|
-|ruamel-yaml|0.17.19|0.18.12|lang-python|Compliance mode enabled, was '0.18.12'|
+|ruamel-yaml|0.17.19|0.18.13|lang-python|Compliance mode enabled, was '0.18.13'|
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby|3.4.2|3.4.4|lang-ruby|Compliance mode enabled, was '3.4.4'|
@@ -2539,8 +2538,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools+32|1.4.309.0|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
 |sqlalchemy|1.2.18|2.0.41|lang-python|Compliance mode enabled, was '2.0.41'|
 |sqlcipher|4.5.6|4.9.0|app-database|Compliance mode enabled, was '4.9.0'|
-|sqlite|3500000|3.50.0|app-database|Possible downgrade from the current version (3500000 -> 3.50.0)|
-|sqlite+32|3.46.1|3.50.0|runtime-optenv32|Compliance mode enabled, was '3.50.0'|
+|sqlite|3500000|3.50.1|app-database|Possible downgrade from the current version (3500000 -> 3.50.1)|
+|sqlite+32|3.46.1|3.50.1|runtime-optenv32|Compliance mode enabled, was '3.50.1'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
