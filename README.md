@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749183536?label=Updated)
+![Relative date](https://img.shields.io/date/1749186873?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1533,7 +1533,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llama.cpp|5298|5598|runtime-creativity|Compliance mode enabled, was '5598'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm+32|18.1.8|20.1.6|runtime-optenv32|Compliance mode enabled, was '20.1.6'|
 |llvm-18|18.1.8|20.1.6|app-devel|Compliance mode enabled, was '20.1.6'|
 |llvm-19|19.1.6|20.1.6|app-devel|Compliance mode enabled, was '20.1.6'|
 |llvm-runtime+wasi|18.1.8|20.1.6|runtime-wasi|Compliance mode enabled, was '20.1.6'|
