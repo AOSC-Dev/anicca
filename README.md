@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749219176?label=Updated)
+![Relative date](https://img.shields.io/date/1749222658?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1108,6 +1108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopete|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kopete-otr-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |korganizer|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|kose-font|3.120|3.121|desktop-fonts|Compliance mode enabled, was '3.121'|
 |kosmindoormap|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kpackage|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kparts|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|

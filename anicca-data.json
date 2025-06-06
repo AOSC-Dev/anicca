@@ -2673,6 +2673,7 @@
 ["ibm-plex-fonts","6.4.0","6.4.2","desktop-fonts",1715870430,["Compliance mode enabled, was '6.4.2'"]],
 ["noto-fonts","24.8.1","20201206-phase3","desktop-fonts",1723470481,[]],
 ["libertine-fonts","8.0.2","8.1.2","desktop-fonts",1706083317,["Compliance mode enabled, was '8.1.2'"]],
+["kose-font","3.120","3.121","desktop-fonts",1744255851,["Compliance mode enabled, was '3.121'"]],
 ["open-huninn-font","2.0","2.1","desktop-fonts",1706083317,["Compliance mode enabled, was '2.1'"]],
 ["genyo-font","1.501","2.100","desktop-fonts",1596222727,["Compliance mode enabled, was '2.100'"]],
 ["symbols-nerd-font","3.2.1","3.4.0","desktop-fonts",1725930277,["Compliance mode enabled, was '3.4.0'"]],
