@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749323270?label=Updated)
+![Relative date](https://img.shields.io/date/1749327160?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1664,8 +1664,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mpdecimal|4.0.0|4.0.1|runtime-common|Compliance mode enabled, was '4.0.1'|
 |mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
-|mpg123|1.32.8|1.32.10|app-multimedia|Compliance mode enabled, was '1.32.10'|
-|mpg123+32|1.32.8|1.32.10|runtime-optenv32|Compliance mode enabled, was '1.32.10'|
+|mpg123|1.32.8|1.33.0|app-multimedia|Compliance mode enabled, was '1.33.0'|
+|mpg123+32|1.32.8|1.33.0|runtime-optenv32|Compliance mode enabled, was '1.33.0'|
 |mplayerthumbs-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mpmath|1.1.0|1.4.0~a5|lang-python|Compliance mode enabled, was '1.4.0a5'|
 |msbuild|16.6<br>+xamarinxplat.2020.04.29.14.43|16.10.1+xamarinxplat.2021.05.26.14.00|lang-dotnet|Compliance mode enabled, was '16.10.1+xamarinxplat.2021.05.26.14.00'|
