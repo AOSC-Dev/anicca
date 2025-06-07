@@ -1183,7 +1183,7 @@
 ["gnome-calculator","42.2","48.1","desktop-gnome",1663210242,["Compliance mode enabled, was '48.1'"]],
 ["nautilus","42.2","48.2","desktop-gnome",1716298204,["Compliance mode enabled, was '48.2'"]],
 ["gsound","1.0.2","1.0.3","desktop-gnome",1446608561,["Compliance mode enabled, was '1.0.3'"]],
-["gnome-maps","42.3","48.3","desktop-gnome",1663210243,["Compliance mode enabled, was '48.3'"]],
+["gnome-maps","42.3","48.4","desktop-gnome",1663210243,["Compliance mode enabled, was '48.4'"]],
 ["gnome-settings-daemon","42.2","48.1","desktop-gnome",1663210242,["Compliance mode enabled, was '48.1'"]],
 ["totem","42.0","43.2","desktop-gnome",1663210251,["Compliance mode enabled, was '43.2'"]],
 ["libgksu","2.0.13~pre1","2.0.12","desktop-gnome",1689323111,["Compliance mode enabled, was '2.0.12'","Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)"]],
