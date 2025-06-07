@@ -2114,6 +2114,7 @@
 ["nut","2.7.4","2.8.3","app-admin",1625211684,["Compliance mode enabled, was '2.8.3'"]],
 ["cloud-init","24.4.1","25.1.2","app-admin",1739035453,["Compliance mode enabled, was '25.1.2'"]],
 ["fuse-3","3.16.2","3.17.2","app-admin",1708832217,["Compliance mode enabled, was '3.17.2'"]],
+["pstate-frequency","3.15.2","3.16.0","app-admin",1736563777,["Compliance mode enabled, was '3.16.0'"]],
 ["dbus","1.14.10","1.16.2","app-admin",1709829586,["Compliance mode enabled, was '1.16.2'"]],
 ["dkms","3.1.1","3.2.1","app-admin",1732598190,["Compliance mode enabled, was '3.2.1'"]],
 ["ignition","2.20.0","2.21.0","app-admin",1737348387,["Compliance mode enabled, was '2.21.0'"]],
