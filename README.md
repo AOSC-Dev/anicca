@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749309058?label=Updated)
+![Relative date](https://img.shields.io/date/1749312735?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1216,8 +1216,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libarchive|3.7.8|3.8.1|runtime-common|Compliance mode enabled, was '3.8.1'|
 |libart-lgpl|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libasr|1.0.4|7.7.0p0|runtime-network|Compliance mode enabled, was '7.7.0p0'|
-|libass|0.17.2|0.17.3|runtime-multimedia|Compliance mode enabled, was '0.17.3'|
-|libass+32|0.17.2|0.17.3|runtime-optenv32|Compliance mode enabled, was '0.17.3'|
+|libass|0.17.2|0.17.4|runtime-multimedia|Compliance mode enabled, was '0.17.4'|
+|libass+32|0.17.2|0.17.4|runtime-optenv32|Compliance mode enabled, was '0.17.4'|
 |libatomic-ops|7.8.0|7.8.2|runtime-common|Compliance mode enabled, was '7.8.2'|
 |libavif|1.2.1|1.3.0|runtime-multimedia|Compliance mode enabled, was '1.3.0'|
 |libayatana-appindicator|0.5.93|0.5.94|runtime-desktop|Compliance mode enabled, was '0.5.94'|
@@ -1454,7 +1454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libudfread|1.1.1|1.1.2|runtime-multimedia|Compliance mode enabled, was '1.1.2'|
 |libunwind|1.8.1|1.8.2|runtime-common|Compliance mode enabled, was '1.8.2'|
 |libunwind+32|1.8.1|1.8.2|runtime-optenv32|Compliance mode enabled, was '1.8.2'|
-|libupnp|1.14.16|1.14.22|runtime-network|Compliance mode enabled, was '1.14.22'|
+|libupnp|1.14.16|1.14.23|runtime-network|Compliance mode enabled, was '1.14.23'|
 |liburcu|0.14.0|0.15.3|runtime-common|Compliance mode enabled, was '0.15.3'|
 |liburing|2.6|2.10|runtime-common|Compliance mode enabled, was '2.10'|
 |libusb|1.0.28|1.0.29|runtime-devices|Compliance mode enabled, was '1.0.29'|
