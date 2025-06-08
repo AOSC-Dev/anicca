@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749370434?label=Updated)
+![Relative date](https://img.shields.io/date/1749373942?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -682,6 +682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.3|runtime-database|Compliance mode enabled, was '0.5.3'|
 |google-api-python-client|1.7.11|2.171.0|lang-python|Compliance mode enabled, was '2.171.0'|
+|google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.8.2|2.9.0|lang-golang|Compliance mode enabled, was '2.9.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
@@ -1852,7 +1853,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.607.0|2025.607.1|app-games|Compliance mode enabled, was '2025.607.1'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |oxygen-icons|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
@@ -2691,6 +2691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomli|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |tomli-w|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |tomlkit|0.7.0|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
+|topgrade|11.0.2|16.0.3|app-admin|Compliance mode enabled, was '16.0.3'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tor|0.4.8.13|0.4.8.16|app-network|Compliance mode enabled, was '0.4.8.16'|
 |tork-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
