@@ -2425,7 +2425,7 @@
 ["pythran","0.16.1","0.18.0","lang-python",1749128013,["Compliance mode enabled, was '0.18.0'"]],
 ["txtorcon","19.1.0","24.8.0","lang-python",1573334578,["Compliance mode enabled, was '24.8.0'"]],
 ["cerberus","1.3.2","1.3.7","lang-python",1609312655,["Compliance mode enabled, was '1.3.7'"]],
-["hypothesis-python","6.97.4","6.135.1","lang-python",1706859511,["Compliance mode enabled, was '6.135.1'"]],
+["hypothesis-python","6.97.4","6.135.2","lang-python",1706859511,["Compliance mode enabled, was '6.135.2'"]],
 ["babel","2.9.1","2.17.0","lang-python",1631170545,["Compliance mode enabled, was '2.17.0'"]],
 ["yarl","1.9.4","1.20.0","lang-python",1718719163,["Compliance mode enabled, was '1.20.0'"]],
 ["matplotlib-inline","0.1.7","9.3.0","lang-python",1728614181,["Compliance mode enabled, was '9.3.0'"]],
