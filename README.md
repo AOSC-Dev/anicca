@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749485710?label=Updated)
+![Relative date](https://img.shields.io/date/1749489088?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -523,7 +523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|fizz|2025.03.24.00|2025.06.02.00|app-network|Compliance mode enabled, was '2025.06.02.00'|
+|fizz|2025.03.24.00|2025.06.09.00|app-network|Compliance mode enabled, was '2025.06.09.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
 |flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
@@ -1378,7 +1378,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |liborcus|0.19.2|0.20.1|runtime-productivity|Compliance mode enabled, was '0.20.1'|
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
-|libp11|0.4.10|0.4.14|runtime-cryptography|Compliance mode enabled, was '0.4.14'|
+|libp11|0.4.10|0.4.15|runtime-cryptography|Compliance mode enabled, was '0.4.15'|
 |libpano13|2.9.19|2.9.22|runtime-imaging|Compliance mode enabled, was '2.9.22'|
 |libpaper|2.2.5|2.2.6|runtime-productivity|Compliance mode enabled, was '2.2.6'|
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
@@ -1795,7 +1795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|12.5.0|12.5.2|app-virtualization|Compliance mode enabled, was '12.5.2'|
-|openai-python|1.63.2|1.84.0|lang-python|Compliance mode enabled, was '1.84.0'|
+|openai-python|1.63.2|1.85.0|lang-python|Compliance mode enabled, was '1.85.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -2349,6 +2349,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.37|1.38|app-devel|Compliance mode enabled, was '1.38'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
 |reportlab|3.5.50|4.4.1|lang-python|Compliance mode enabled, was '4.4.1'|
+|requests|2.32.3|2.32.4|lang-python|Compliance mode enabled, was '2.32.4'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.9.1|runtime-web|Compliance mode enabled, was '0.9.1'|
 |restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
@@ -2779,7 +2780,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.11|0.7.12|lang-python|Compliance mode enabled, was '0.7.12'|
-|v2ray|5.31.0|5.33.0|app-network|Compliance mode enabled, was '5.33.0'|
 |v2ray-rules-dat|202501302211|202506082212|runtime-data|Compliance mode enabled, was '202506082212'<br>Versions not comparable: `202501302211` and `202506082212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
