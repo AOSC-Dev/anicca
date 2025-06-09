@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749489088?label=Updated)
+![Relative date](https://img.shields.io/date/1749493066?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -182,7 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.13.3|lang-python|Compliance mode enabled, was '0.13.3'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
 |bovo|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|bpftrace|0.21.1|0.23.4|app-admin|Compliance mode enabled, was '0.23.4'|
+|bpftrace|0.21.1|0.23.5|app-admin|Compliance mode enabled, was '0.23.5'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |breeze-grub|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
@@ -2780,6 +2780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.11|0.7.12|lang-python|Compliance mode enabled, was '0.7.12'|
+|v2ray|5.31.0|5.33.0|app-network|Compliance mode enabled, was '5.33.0'|
 |v2ray-rules-dat|202501302211|202506082212|runtime-data|Compliance mode enabled, was '202506082212'<br>Versions not comparable: `202501302211` and `202506082212`|
 |v2raya|2.2.6.6|2.2.6.7|app-network|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
@@ -2834,10 +2835,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.4.309.0|1.4.317|runtime-display|Compliance mode enabled, was '1.4.317'|
 |vulkan-validationlayers|1.4.309.0|1.4.317|runtime-display|Compliance mode enabled, was '1.4.317'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2025.03.24.00|2025.06.02.00|runtime-network|Compliance mode enabled, was '2025.06.02.00'|
+|wangle|2025.03.24.00|2025.06.09.00|runtime-network|Compliance mode enabled, was '2025.06.09.00'|
 |warpinator|1.6.3|1.8.8|desktop-cinnamon|Compliance mode enabled, was '1.8.8'|
 |warzone2100|4.5.3|4.5.5|app-games||
-|watchman|2025.03.24.00|2025.06.02.00|app-utils|Compliance mode enabled, was '2025.06.02.00'|
+|watchman|2025.03.24.00|2025.06.09.00|app-utils|Compliance mode enabled, was '2025.06.09.00'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
