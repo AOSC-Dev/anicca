@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749453260?label=Updated)
+![Relative date](https://img.shields.io/date/1749457119?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -202,7 +202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabal-install|3.10.3.0|3.14.2.0|lang-haskell|Compliance mode enabled, was '3.14.2.0'|
 |cachecontrol|0.14.0|0.14.3|lang-python|Compliance mode enabled, was '0.14.3'|
 |cachetools|3.1.0|6.0.0~b4|lang-python|Compliance mode enabled, was '6.0.0b4'|
-|cairo|1.18.2|1.18.4|runtime-imaging|Compliance mode enabled, was '1.18.4'|
 |cairo+32|1.18.2|1.18.4|runtime-optenv32|Compliance mode enabled, was '1.18.4'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
@@ -340,7 +339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cutter|2.3.4|2.4.1|app-devel|Compliance mode enabled, was '2.4.1'|
 |cxxopts|3.2.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
-|cython|3.1.0|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
+|cython|3.1.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|2.8.3|app-admin|Compliance mode enabled, was '2.8.3'|
 |dante|1.4.2|1.4.4|app-network|Compliance mode enabled, was '1.4.4'|
