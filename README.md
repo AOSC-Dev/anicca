@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749579391?label=Updated)
+![Relative date](https://img.shields.io/date/1749582704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -402,7 +402,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet|8.0.403|8.0.410|lang-dotnet|Compliance mode enabled, was '8.0.410'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
 |dotnet-apphost-pack-8.0|8.0.10|8.0.16|lang-dotnet|Compliance mode enabled, was '8.0.16'|
-|dotnet-host|8.0.10|8.0.16|lang-dotnet|Compliance mode enabled, was '8.0.16'|
+|dotnet-host|8.0.10|8.0.17|lang-dotnet|Compliance mode enabled, was '8.0.17'|
 |dotnet-host-fxr|5.0.11|5.0.17|lang-dotnet|Compliance mode enabled, was '5.0.17'|
 |dotnet-hostfxr-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
 |dotnet-hostfxr-8.0|8.0.10|8.0.16|lang-dotnet|Compliance mode enabled, was '8.0.16'|
@@ -1801,7 +1801,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|12.5.0|12.5.2|app-virtualization|Compliance mode enabled, was '12.5.2'|
-|openai-python|1.63.2|1.85.0|lang-python|Compliance mode enabled, was '1.85.0'|
+|openai-python|1.63.2|1.86.0|lang-python|Compliance mode enabled, was '1.86.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
