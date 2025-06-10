@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749510808?label=Updated)
+![Relative date](https://img.shields.io/date/1749516508?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -73,7 +73,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-maven|3.9.9|3.9.10|lang-java|Compliance mode enabled, was '3.9.10'|
 |apicula|0.14|0.19|app-electronics|Compliance mode enabled, was '0.19'|
-|apparmor|3.0.8|4.1.0-cherry-pick-point|app-admin|Compliance mode enabled, was '4.1.0-cherry-pick-point'|
+|apparmor|3.0.8|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.4|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
 |appstream-glib|0.7.18|0.8.3|app-admin|Compliance mode enabled, was '0_8_3'|
@@ -1912,6 +1912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsx2|1.6.0<br>+git20210825|2.3.410|app-games|Compliance mode enabled, was '2.3.410'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
+|pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peewee|3.17.1|3.18.1|lang-python|Compliance mode enabled, was '3.18.1'|
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
@@ -2093,8 +2094,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|pixman|0.43.0|0.46.0|runtime-display|Compliance mode enabled, was '0.46.0'|
-|pixman+32|0.43.0|0.46.0|runtime-optenv32|Compliance mode enabled, was '0.46.0'|
+|pixman|0.43.0|0.46.2|runtime-display|Compliance mode enabled, was '0.46.2'|
+|pixman+32|0.43.0|0.46.2|runtime-optenv32|Compliance mode enabled, was '0.46.2'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkgconf|2.4.3|1.2.68|app-devel|Compliance mode enabled, was '1.2.68'<br>Possible downgrade from the current version (2.4.3 -> 1.2.68)|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
