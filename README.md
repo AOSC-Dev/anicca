@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749615804?label=Updated)
+![Relative date](https://img.shields.io/date/1749618902?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -690,7 +690,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.172.0|lang-python|Compliance mode enabled, was '2.172.0'|
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|google-chrome|137.0.7151.68|137.0.7151.103|app-web|Compliance mode enabled, was '137.0.7151.103'|
 |goreleaser|2.8.2|2.10.2|lang-golang|Compliance mode enabled, was '2.10.2'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
@@ -769,7 +768,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
-|html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html2text|2024.2.26|2025.4.15|lang-python|Compliance mode enabled, was '2025.4.15'|
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.21|1.22|app-scientific|Compliance mode enabled, was '1.22'|
@@ -917,6 +915,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kbreakout|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kbruch|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcachegrind|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|kcalc|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcalendarcore|5.115.0|6.14.0|desktop-kde|Compliance mode enabled, was '6.14.0'|
 |kcalutils|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcharselect|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
