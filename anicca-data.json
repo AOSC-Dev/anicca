@@ -338,6 +338,7 @@
 ["soundtouch+32","2.3.3","2.4.0","runtime-optenv32",1740919511,["Compliance mode enabled, was '2.4.0'"]],
 ["neon+32","0.33.0","0.34.2","runtime-optenv32",1740919511,["Compliance mode enabled, was '0.34.2'"]],
 ["rtmpdump+32","20151223","2.4+20151223.gitfa8646d.1","runtime-optenv32",1740919511,["Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'","Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)"]],
+["openssl-1.1+32","1.1.1w","3.5.0","runtime-optenv32",1740919515,["Compliance mode enabled, was '3.5.0'"]],
 ["acl+32","2.3.1","2.3.2","runtime-optenv32",1740919514,["Compliance mode enabled, was '2.3.2'"]],
 ["nspr+32","4.35","4.36","runtime-optenv32",1740919509,["Compliance mode enabled, was '4.36'"]],
 ["vulkan-headers+32","1.4.309.0","1.4.317","runtime-optenv32",1745746413,["Compliance mode enabled, was '1.4.317'"]],
