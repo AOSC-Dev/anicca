@@ -2875,7 +2875,6 @@
 ["template-glib","3.28.0","3.36.3","desktop-gnome",1521262132,["Compliance mode enabled, was '3.36.3'"]],
 ["gjs","1.74.0","1.84.2","desktop-gnome",1663210241,["Compliance mode enabled, was '1.84.2'"]],
 ["libgnome-games-support","1.8.2","2.0.1","desktop-gnome",1663210249,["Compliance mode enabled, was '2.0.1'"]],
-["epiphany","42.4","48.3","desktop-gnome",1663210210,["Compliance mode enabled, was '48.3'"]],
 ["gnome-calculator","42.2","48.1","desktop-gnome",1663210242,["Compliance mode enabled, was '48.1'"]],
 ["gnote","42.1","48.1","desktop-gnome",1663210250,["Compliance mode enabled, was '48.1'"]],
 ["gnome-themes-standard","3.27.90","3.28","desktop-gnome",1521217900,["Compliance mode enabled, was '3.28'"]],
