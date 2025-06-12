@@ -1737,7 +1737,7 @@
 ["kexec-tools","2.0.29","2.0.31","app-admin",1728875871,["Compliance mode enabled, was '2.0.31'"]],
 ["catatonit","0.2.0","0.2.1","app-admin",1727788579,["Compliance mode enabled, was '0.2.1'"]],
 ["multipath-tools","0.9.3","0.11.1","app-admin",1673935786,["Compliance mode enabled, was '0.11.1'"]],
-["ndctl","80","81","app-admin",1732675271,["Compliance mode enabled, was '81'"]],
+["ndctl","80","82","app-admin",1732675271,["Compliance mode enabled, was '82'"]],
 ["cryfs","0.11.4","1.0.1","app-admin",1728366844,["Compliance mode enabled, was '1.0.1'"]],
 ["conmon","2.1.12","2.1.13","app-admin",1721093861,["Compliance mode enabled, was '2.1.13'"]],
 ["libcgroup","2.0","3.2.0","app-admin",1641887332,["Compliance mode enabled, was '3.2.0'"]],
