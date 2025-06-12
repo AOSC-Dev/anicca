@@ -1160,7 +1160,6 @@
 ["pymediainfo","5.0.3","7.0.1","lang-python",1614351126,["Compliance mode enabled, was '7.0.1'"]],
 ["decorator","4.3.2","5.2.1","lang-python",1549919968,["Compliance mode enabled, was '5.2.1'"]],
 ["olefile","0.46","0.47","lang-python",1539867919,["Compliance mode enabled, was '0.47'"]],
-["cycler","0.10.0","0.12.1","lang-python",1460310051,["Compliance mode enabled, was '0.12.1'"]],
 ["certifi","2024.7.4","2025.4.26","lang-python",1720103195,["Compliance mode enabled, was '2025.4.26'"]],
 ["idna","3.7","3.10","lang-python",1718682542,["Compliance mode enabled, was '3.10'"]],
 ["pivy","0.6.8","0.6.10","lang-python",1697385082,["Compliance mode enabled, was '0.6.10'"]],
