@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749834668?label=Updated)
+![Relative date](https://img.shields.io/date/1749838571?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -947,6 +947,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdebugsettings|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdeclarative|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
+|kdeconnect|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdecoration|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |kded|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kdeedu-data|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -1439,7 +1440,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.11.1|runtime-optenv32|Compliance mode enabled, was '0.11.1'|
 |libssh2|1.9.0|1.11.1|runtime-network|Compliance mode enabled, was '1.11.1'|
 |libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
-|libstoragemgmt|1.7.3|1.10.2|runtime-admin|Compliance mode enabled, was '1.10.2'|
 |libsysstat|0.4.4|1.1.0|desktop-lxqt|Compliance mode enabled, was '1.1.0'|
 |libtatsu|1.0.4|1.0.5|runtime-devices|Compliance mode enabled, was '1.0.5'|
 |libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
@@ -2318,6 +2318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qtcreator|16.0.1|16.0.2|app-devel|Compliance mode enabled, was '16.0.2'|
 |qterminal|1.4.0|2.2.1|desktop-lxqt|Compliance mode enabled, was '2.2.1'|
+|qtermwidget|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.6|app-multimedia|Compliance mode enabled, was '1.5.6'|
