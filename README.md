@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749838571?label=Updated)
+![Relative date](https://img.shields.io/date/1749841954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -623,7 +623,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibmm|2.66.2|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glibmm-2.68|2.78.0|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
-|glycin|1.1.4|1.2.1|desktop-gnome|Compliance mode enabled, was '1.2.1'|
 |gmic|3.2.6|3.5.5|runtime-imaging|Compliance mode enabled, was '3.5.5'|
 |gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
@@ -700,7 +699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
 |graphicsmagick|1.3.43|1.3.45|app-utils|Compliance mode enabled, was '1.3.45'|
 |greybird|3.23.3|3.23.4|desktop-themes|Compliance mode enabled, was '3.23.4'|
-|grilo|0.3.15|0.3.18|desktop-gnome|Compliance mode enabled, was '0.3.18'|
+|grilo|0.3.15|0.3.19|desktop-gnome|Compliance mode enabled, was '0.3.19'|
 |grilo-plugins|0.3.15|0.3.16|desktop-gnome|Compliance mode enabled, was '0.3.16'|
 |gringo|5.7.1|5.8.0|app-devel|Compliance mode enabled, was '5.8.0'|
 |grpc|1.72.0|1.73.0|app-network|Compliance mode enabled, was '1.73.0'|
@@ -1440,6 +1439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.11.1|runtime-optenv32|Compliance mode enabled, was '0.11.1'|
 |libssh2|1.9.0|1.11.1|runtime-network|Compliance mode enabled, was '1.11.1'|
 |libssh2+32|1.9.0|1.11.1|runtime-optenv32|Compliance mode enabled, was '1.11.1'|
+|libstoragemgmt|1.7.3|1.10.2|runtime-admin|Compliance mode enabled, was '1.10.2'|
 |libsysstat|0.4.4|1.1.0|desktop-lxqt|Compliance mode enabled, was '1.1.0'|
 |libtatsu|1.0.4|1.0.5|runtime-devices|Compliance mode enabled, was '1.0.5'|
 |libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
@@ -1529,7 +1529,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-retro-minimal|5.15.17|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (5.15.17 -> 5.10.238)|
 |linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.8.0|app-admin|Compliance mode enabled, was '1.8.0'|
-|linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
@@ -1973,7 +1972,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-extutils-config|0.008|0.010|lang-perl|Compliance mode enabled, was '0.010'|
 |perl-extutils-depends|0.405|0.8002|lang-perl|Compliance mode enabled, was '0.8002'|
 |perl-extutils-helpers|0.026|0.028|lang-perl|Compliance mode enabled, was '0.028'|
-|perl-extutils-installpaths|0.012|0.014|lang-perl|Compliance mode enabled, was '0.014'|
 |perl-extutils-libbuilder|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
 |perl-fcgi|0.78|0.82|lang-perl|Compliance mode enabled, was '0.82'|
 |perl-file-basedir|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
@@ -2801,7 +2799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vba-m|2.1.8|2.1.11|app-games|Compliance mode enabled, was '2.1.11'|
 |vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
-|verdict|1.4.1|1.4.3|runtime-scientific|Compliance mode enabled, was '1.4.3'|
+|verdict|1.4.1|1.4.4|runtime-scientific|Compliance mode enabled, was '1.4.4'|
 |verilator|5.026|5.036|app-electronics|Compliance mode enabled, was '5.036'|
 |versioningit|3.0.0|3.2.0|app-devel|Compliance mode enabled, was '3.2.0'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
