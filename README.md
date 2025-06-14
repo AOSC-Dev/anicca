@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749935457?label=Updated)
+![Relative date](https://img.shields.io/date/1749939144?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1041,6 +1041,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitty|0.41.1|0.42.1|app-utils|Compliance mode enabled, was '0.42.1'|
 |kjobwidgets|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kjournald|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|kjs|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kjsembed|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kjumpingcube|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kkbswitch-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1701,7 +1702,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nanobind|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nautilus|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
-|nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
@@ -1913,7 +1913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.419|app-games|Compliance mode enabled, was '2.3.419'|
+|pcsx2|1.6.0<br>+git20210825|2.3.420|app-games|Compliance mode enabled, was '2.3.420'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2781,7 +2781,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usb-modeswitch|2.6.0|2.6.2|app-utils||
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |utfcpp|3.2.1|4.0.6|runtime-common|Compliance mode enabled, was '4.0.6'|
-|uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.4|2.41|app-utils|Compliance mode enabled, was '2.41'|
 |util-linux+32|2.40.4|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
