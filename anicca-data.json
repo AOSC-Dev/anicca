@@ -1820,7 +1820,7 @@
 ["deluge","2.1.1","2.2.0","app-web",1671861997,["Compliance mode enabled, was '2.2.0'"]],
 ["squid","5.7","7.0.1","app-web",1669533924,["Compliance mode enabled, was '7.0.1'"]],
 ["certbot-apache","2.10.0","4.1.1","app-web",1716728517,["Compliance mode enabled, was '4.1.1'"]],
-["teams-for-linux","1.13.0","2.0.16","app-web",1742195024,["Compliance mode enabled, was '2.0.16'"]],
+["teams-for-linux","1.13.0","2.0.17","app-web",1742195024,["Compliance mode enabled, was '2.0.17'"]],
 ["thunderbird","139.0","139.0.2","app-web",1749088687,["Compliance mode enabled, was '139.0.2'"]],
 ["certbot-nginx","2.10.0","4.1.1","app-web",1716728325,["Compliance mode enabled, was '4.1.1'"]],
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
