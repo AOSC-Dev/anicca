@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1749978701?label=Updated)
+![Relative date](https://img.shields.io/date/1749982331?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -532,7 +532,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flint|2.5.2|3.3.0|runtime-scientific|Compliance mode enabled, was '3.3.0'|
 |flit|3.9.0|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
-|flit-core|3.9.0|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
 |fltk|1.3.5|1.4.3|runtime-desktop|Compliance mode enabled, was '1.4.3'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.6|app-multimedia|Compliance mode enabled, was '2.4.6'|
@@ -1274,6 +1273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffado|2.4.4|2.4.9|runtime-multimedia|Compliance mode enabled, was '2.4.9'|
 |libffi|3.4.8|3.5.1|runtime-common|Compliance mode enabled, was '3.5.1'|
 |libffi+32|3.4.7|3.5.1|runtime-optenv32|Compliance mode enabled, was '3.5.1'|
+|libfido2|1.13.0|1.16.0|runtime-devices|Compliance mode enabled, was '1.16.0'|
 |libfilezilla|0.45.0|0.38.1|runtime-web|Compliance mode enabled, was '0.38.1'<br>Possible downgrade from the current version (0.45.0 -> 0.38.1)|
 |libfm|1.3.0.2|1.4.0|desktop-lxde|Compliance mode enabled, was '1.4.0'|
 |libfm-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
@@ -1979,6 +1979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-copy-recursive|0.44|0.45|lang-perl|Compliance mode enabled, was '0.45'|
 |perl-file-listing|6.04|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-file-mimeinfo|0.28<br>+03|0.35|lang-perl|Compliance mode enabled, was '0.35'|
+|perl-file-next|1.16|1.18|lang-perl|Compliance mode enabled, was '1.18'|
 |perl-file-sharedir-install|0.13|0.14|lang-perl|Compliance mode enabled, was '0.14'|
 |perl-file-which|1.23|1.27|lang-perl|Compliance mode enabled, was '1.27'|
 |perl-finance-quote|1.49|1.5301|lang-perl|Compliance mode enabled, was '1.5301'|
@@ -2765,6 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
 |unixbench|5.1.3|6.0.0|app-benchmarks|Compliance mode enabled, was '6.0.0'|
+|unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
 |unrar|6.2.2|7.1.7|app-utils|Compliance mode enabled, was '7.1.7'|
 |unshield|1.4.3|1.6.2|app-utils|Compliance mode enabled, was '1.6.2'|
@@ -2832,8 +2834,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.4.309.0|1.4.318|runtime-optenv32|Compliance mode enabled, was '1.4.318'|
 |vulkan-loader|1.4.309.0|1.4.318|runtime-display|Compliance mode enabled, was '1.4.318'|
 |vulkan-loader+32|1.4.309.0|1.4.318|runtime-optenv32|Compliance mode enabled, was '1.4.318'|
-|vulkan-tools|1.4.309.0|1.4.316|app-utils|Compliance mode enabled, was '1.4.316'|
-|vulkan-tools+32|1.4.309.0|1.4.316|runtime-optenv32|Compliance mode enabled, was '1.4.316'|
+|vulkan-tools|1.4.309.0|1.4.318|app-utils|Compliance mode enabled, was '1.4.318'|
+|vulkan-tools+32|1.4.309.0|1.4.318|runtime-optenv32|Compliance mode enabled, was '1.4.318'|
 |vulkan-utility-libraries|1.4.309.0|1.4.318|runtime-display|Compliance mode enabled, was '1.4.318'|
 |vulkan-validationlayers|1.4.309.0|1.4.318|runtime-display|Compliance mode enabled, was '1.4.318'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
