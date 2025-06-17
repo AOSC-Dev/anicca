@@ -2956,7 +2956,6 @@
 ["gnome-desktop","42.4","44.3","desktop-gnome",1663210248,["Compliance mode enabled, was '44.3'"]],
 ["gnome-mines","40.1","48.1","desktop-gnome",1663210243,["Compliance mode enabled, was '48.1'"]],
 ["budgie-screensaver","5.0.2","5.1.0","desktop-gnome",1663210249,["Compliance mode enabled, was '5.1.0'"]],
-["gnome-calendar","42.2","48.1","desktop-gnome",1716197175,["Compliance mode enabled, was '48.1'"]],
 ["feedbackd","0.2.1","0.8.1","desktop-gnome",1710812823,["Compliance mode enabled, was '0.8.1'"]],
 ["libgtop","2.38.0","2.41.3","desktop-gnome",1507005182,["Compliance mode enabled, was '2.41.3'"]],
 ["tracker-miners","3.3.1","3.9.0","desktop-gnome",1738981173,["Compliance mode enabled, was '3.9.0'"]],
