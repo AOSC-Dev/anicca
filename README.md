@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750151680?label=Updated)
+![Relative date](https://img.shields.io/date/1750155245?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1166,7 +1166,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kservice|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |ksh93|2020.0.0|1.0.10|app-shells|Compliance mode enabled, was '1.0.10'<br>Possible downgrade from the current version (2020.0.0 -> 1.0.10)|
 |kshisen|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|kshowmail-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kshutdown-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksirk|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |ksmtp|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -1204,7 +1203,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvkbd-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kvpnc-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kwallet|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
-|kwallet-pam|5.27.12|6.3.5|desktop-kde|Compliance mode enabled, was '6.3.5'|
 |kwalletmanager|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kwave|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kwayland|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
@@ -1723,7 +1721,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nanobind|2.6.1|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |nanomsg|1.1.5|1.2.1|app-network|Compliance mode enabled, was '1.2.1'|
 |nautilus|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
-|nautilus-python|1.2.3|4.0.1|desktop-gnome|Compliance mode enabled, was '4.0.1'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.13.0|2.16.0+|app-scientific|Compliance mode enabled, was '2.16.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
@@ -2500,6 +2497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |slurm|0.4.4|0.5.1|app-network|Compliance mode enabled, was '0.5.1'|
 |smartcardauth-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|smartypants|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |smb4k-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |smpeg|0.4.5|2.0.0|app-multimedia|Compliance mode enabled, was '2_0_0'|
 |smpeg+32|0.4.5|2.0.0|runtime-optenv32|Compliance mode enabled, was '2_0_0'|
@@ -2825,7 +2823,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vdpauinfo|1.0|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |verdict|1.4.1|1.4.4|runtime-scientific|Compliance mode enabled, was '1.4.4'|
 |verilator|5.026|5.036|app-electronics|Compliance mode enabled, was '5.036'|
-|versioningit|3.0.0|3.2.0|app-devel|Compliance mode enabled, was '3.2.0'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
