@@ -2420,6 +2420,7 @@
 ["camlp5","8.02.01","6023","lang-ocaml",1715073538,["Compliance mode enabled, was '6023'"]],
 ["ocaml-cmdliner","1.2.0","1.3.0","lang-ocaml",1715073538,["Compliance mode enabled, was '1.3.0'"]],
 ["zarith","1.9.1","1.14","lang-ocaml",1715073538,["Compliance mode enabled, was '1.14'"]],
+["xfburn","0.7.2","0.8.0","desktop-xfce",1734759343,["Compliance mode enabled, was '0.8.0'"]],
 ["catfish","4.18.0","4.20.1","desktop-xfce",1706025816,["Compliance mode enabled, was '4.20.1'"]],
 ["llvm-runtime+wasi","18.1.8","20.1.7","runtime-wasi",1721811147,["Compliance mode enabled, was '20.1.7'"]],
 ["libc+wasi","22","25","runtime-wasi",1721811147,["Compliance mode enabled, was '25'"]],
