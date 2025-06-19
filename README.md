@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750367482?label=Updated)
+![Relative date](https://img.shields.io/date/1750371150?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -342,7 +342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cutter|2.3.4|2.4.1|app-devel|Compliance mode enabled, was '2.4.1'|
 |cxxopts|3.2.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
 |cycler|0.10.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
-|cython|3.1.0|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|2.8.5|app-admin|Compliance mode enabled, was '2.8.5'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
@@ -689,7 +688,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-usage|3.38.1|46.1|desktop-gnome|Compliance mode enabled, was '46.1'|
 |gnome-user-docs|42.0|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |gnome-user-share|3.34.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|gnome-video-effects|0.4.3|0.6.0|desktop-gnome|Compliance mode enabled, was '0.6.0'|
 |gnome-weather|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnote|42.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnu-efi|3.0.18|4.0.1|app-devel|Compliance mode enabled, was '4.0.1'|
@@ -1947,6 +1945,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
+|perl|5.36.3|5.40.2|lang-perl|Compliance mode enabled, was '5.40.2'|
 |perl-alien-build|1.92|2.84|lang-perl|Compliance mode enabled, was '2.84'|
 |perl-alien-libxml2|0.11|0.20|lang-perl|Compliance mode enabled, was '0.20'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
@@ -2168,6 +2167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polib|1.1.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |polkit-agent-tde-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|polkit-kde-agent-1|5.27.12|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polkit-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
