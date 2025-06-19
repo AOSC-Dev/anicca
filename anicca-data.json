@@ -270,7 +270,6 @@
 ["goreleaser","2.8.2","2.10.2","lang-golang",1744297690,["Compliance mode enabled, was '2.10.2'"]],
 ["delve","1.24.0","1.25.0","lang-golang",1744297688,["Compliance mode enabled, was '1.25.0'"]],
 ["go","1.24.2","1.24.4","lang-golang",1744297690,[]],
-["texlive","20250308","2025","app-doc",1741568660,["Compliance mode enabled, was '2025'","Possible downgrade from the current version (20250308 -> 2025)"]],
 ["gi-docgen","2024.1","2025.3","app-doc",1721746253,["Compliance mode enabled, was '2025.3'"]],
 ["gutenprint","5.3.4","5.3.5","app-doc",1746881732,["Compliance mode enabled, was '5.3.5'"]],
 ["sphinxcontrib-serializinghtml","1.1.5","2.0.0","app-doc",1631166650,["Compliance mode enabled, was '2.0.0'"]],
