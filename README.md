@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750345940?label=Updated)
+![Relative date](https://img.shields.io/date/1750349646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -465,7 +465,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ethtool|6.11|6.14|app-network|Compliance mode enabled, was '6.14'|
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|evince|42.3|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |evolution|3.44.4|3.56.2|desktop-gnome|Compliance mode enabled, was '3.56.2'|
 |evolution-data-server|3.44.4|3.56.2|desktop-gnome|Compliance mode enabled, was '3.56.2'|
 |evolution-ews|3.42.0|3.56.2|desktop-gnome|Compliance mode enabled, was '3.56.2'|
@@ -935,7 +934,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcachegrind|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcalc|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcalendarcore|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
-|kcalutils|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcharselect|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kchmviewer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kclock|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -943,6 +941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmautostart-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kcmutils|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kcodecs|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
+|kcolorchooser|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
 |kcompletion|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kconfig|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
@@ -1785,8 +1784,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
 |nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
-|nss|3.110|3.112|runtime-cryptography|Compliance mode enabled, was '3.112'|
-|nss+32|3.110|3.112|runtime-optenv32|Compliance mode enabled, was '3.112'|
+|nss|3.110|3.113|runtime-cryptography|Compliance mode enabled, was '3.113'|
+|nss+32|3.110|3.113|runtime-optenv32|Compliance mode enabled, was '3.113'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.5|app-utils|Compliance mode enabled, was '3.4.5'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
@@ -1874,6 +1873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1|1.1.1w|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |openssl-1.1+32|1.1.1w|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
+|opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.1|runtime-common|Compliance mode enabled, was '12.0.1'|
 |openvswitch|3.0.3|3.5.1|app-network|Compliance mode enabled, was '3.5.1'|
 |optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
@@ -2899,7 +2899,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wsproto|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |wtforms|2.2.1|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
 |wxmaxima|24.11.0|25.04.0|app-scientific|Compliance mode enabled, was '25.04.0'|
-|wxpython|4.2.1|4.2.3|lang-python|Compliance mode enabled, was '4.2.3'|
 |wxwidgets|3.2.4|3.3.0|runtime-desktop|Compliance mode enabled, was '3.3.0'|
 |x11vnc|0.9.16|0.9.17|app-network|Compliance mode enabled, was '0.9.17'|
 |x264|0<br>+git20241027|3222|runtime-multimedia|Compliance mode enabled, was '3222'|
