@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750410830?label=Updated)
+![Relative date](https://img.shields.io/date/1750414487?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -183,7 +183,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botocore|1.34.133|1.38.40|lang-python|Compliance mode enabled, was '1.38.40'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
-|bovo|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |bpftrace|0.21.1|0.23.5|app-admin|Compliance mode enabled, was '0.23.5'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
@@ -495,6 +494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fantasque-sans-mono-nerd-fonts|3.3.0|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
 |fasteners|0.18|0.19|lang-python|Compliance mode enabled, was '0.19'|
+|fastfetch|2.45.0|2.46.0|app-utils|Compliance mode enabled, was '2.46.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |fb303|2025.03.24.00|2025.06.16.00|runtime-network|Compliance mode enabled, was '2025.06.16.00'|
@@ -1047,6 +1047,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-extras|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kio-fuse|5.0.1|5.1.0|desktop-kde|Compliance mode enabled, was '5.1.0'|
 |kio-gdrive|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|kio-zeroconf|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kiosktool-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kipi-plugins|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kirigami-addons|0.11.0|1.8.1|desktop-kde|Compliance mode enabled, was '1.8.1'|
@@ -1887,7 +1888,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
 |osu-lazer|2025.607.1|2025.616.0-tachyon|app-games|Compliance mode enabled, was '2025.616.0-tachyon'|
-|oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
 |oxygen-icons|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |oxygen-sounds|5.25.3|6.4.0|desktop-kde|Compliance mode enabled, was '6.4.0'|
@@ -1924,7 +1924,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|lang-python|Compliance mode enabled, was '2.3.7.post1'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patool|1.12|4.0.1|app-utils|Compliance mode enabled, was '4.0.1'|
-|pavucontrol-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pbr|6.0.0|6.1.1|lang-python|Compliance mode enabled, was '6.1.1'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pcl|1.15.0|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.15.0 -> 1.12)|
