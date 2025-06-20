@@ -2231,6 +2231,7 @@
 ["perl-xml-twig","3.52","3.53","lang-perl",1530196414,["Compliance mode enabled, was '3.53'"]],
 ["perl-net-server","2.009","2.014","lang-perl",1530196414,["Compliance mode enabled, was '2.014'"]],
 ["perl-datetime-timezone","2.62","2.65","lang-perl",1716387628,["Compliance mode enabled, was '2.65'"]],
+["perl-cgi","4.47","4.68","lang-perl",1678950872,["Compliance mode enabled, was '4.68'"]],
 ["perl-pod-parser","1.63","1.67","lang-perl",1610774985,["Compliance mode enabled, was '1.67'"]],
 ["perl-extutils-helpers","0.026","0.028","lang-perl",1678950872,["Compliance mode enabled, was '0.028'"]],
 ["perl-ipc-system-simple","1.25","1.30","lang-perl",1678950872,["Compliance mode enabled, was '1.30'"]],
