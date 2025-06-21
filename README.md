@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750543955?label=Updated)
+![Relative date](https://img.shields.io/date/1750547587?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -130,7 +130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avahi-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |avisynthplus|3.7.3|3.7.5|runtime-multimedia|Compliance mode enabled, was '3.7.5'|
 |avogadrolibs|1.95.1|1.100.0|runtime-scientific|Compliance mode enabled, was '1.100.0'|
-|avr-binutils|2.37|2.44|app-devel|Compliance mode enabled, was '2.44'|
 |avr-gcc|10.3.1<br>+git20210510|15.1.0|app-devel|Compliance mode enabled, was '15.1.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|8.0|app-devel|Compliance mode enabled, was '8.0'|
@@ -555,6 +554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fltk|1.3.5|1.4.3|runtime-desktop|Compliance mode enabled, was '1.4.3'|
 |fluida.lv2|0.9.2|0.9.3|app-multimedia|Compliance mode enabled, was '0.9.3'|
 |fluidsynth|2.3.6|2.4.6|app-multimedia|Compliance mode enabled, was '2.4.6'|
+|fluidsynth+32|2.3.6|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
 |fmt|10.2.1|11.2.0|runtime-common|Compliance mode enabled, was '11.2.0'|
 |folks|0.15.5|0.15.9|desktop-gnome|Compliance mode enabled, was '0.15.9'|
 |folly|2025.03.24.00|2025.06.16.00|runtime-common|Compliance mode enabled, was '2025.06.16.00'|
@@ -1814,7 +1814,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrive|2.5.5|2.5.6|app-web|Compliance mode enabled, was '2.5.6'|
 |onedrivegui|1.1.1|1.2.1|app-web|Compliance mode enabled, was '1.2.1'|
 |onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
-|onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7677-250528-09ed63a|app-games|Compliance mode enabled, was '1.91.0.7677-250528-09ed63a'|
 |opam|2.1.6|2.3.0|lang-ocaml|Compliance mode enabled, was '2.3.0'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
