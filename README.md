@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750473080?label=Updated)
+![Relative date](https://img.shields.io/date/1750477284?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -292,7 +292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|340|app-admin|Compliance mode enabled, was '340'|
 |cockpit-machines|284.1|333|app-admin|Compliance mode enabled, was '333'|
 |cockpit-podman|63|107|app-admin|Compliance mode enabled, was '107'|
-|code-server|4.93.1|4.101.0|app-utils|Compliance mode enabled, was '4.101.0'|
+|code-server|4.93.1|4.101.1|app-utils|Compliance mode enabled, was '4.101.1'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.3|runtime-imaging|Compliance mode enabled, was '4.0.3'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -436,7 +436,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
-|dulwich|0.21.6|0.22.8|runtime-vcs|Compliance mode enabled, was '0.22.8'|
 |dune|3.4.1|3.19.1|lang-ocaml|Compliance mode enabled, was '3.19.1'|
 |duplicity|3.0.1|3.0.5|app-utils|Compliance mode enabled, was '3.0.5'|
 |easy-rsa|3.2.0|3.2.3|app-cryptography|Compliance mode enabled, was '3.2.3'|
@@ -984,7 +983,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdewebkit|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kdf|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdiamond|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kdiff3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1092,6 +1090,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knetload-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetstats-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knetwalk|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|knewstuff|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |knights|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |knights-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knmap-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1866,7 +1865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssh|10.0p1|10.0p2|app-network|Compliance mode enabled, was '10.0p2'|
 |openssl-1.1|1.1.1w|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |openssl-1.1+32|1.1.1w|3.5.0|runtime-optenv32|Compliance mode enabled, was '3.5.0'|
-|openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.0.1|runtime-common|Compliance mode enabled, was '12.0.1'|
 |openvswitch|3.0.3|3.5.1|app-network|Compliance mode enabled, was '3.5.1'|
