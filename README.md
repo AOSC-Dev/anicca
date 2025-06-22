@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750587131?label=Updated)
+![Relative date](https://img.shields.io/date/1750590660?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -10,7 +10,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.13.1|1.15.0|app-admin|Compliance mode enabled, was '1.15.0'|
-|aarty|0.4.9|0.6.1|app-utils|Compliance mode enabled, was '0.6.1'|
 |abakus-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |abseil-cpp|20240722.0|20250512.1|runtime-common|Compliance mode enabled, was '20250512.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
@@ -2336,6 +2335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt4-tqt-theme-engine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qtcreator|16.0.1|17.0.0|app-devel|Compliance mode enabled, was '17.0.0'|
 |qterminal|1.4.0|2.2.1|desktop-lxqt|Compliance mode enabled, was '2.2.1'|
+|qtermwidget|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.6|app-multimedia|Compliance mode enabled, was '1.5.6'|
@@ -2962,6 +2962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubico-piv-tool|2.3.1|2.7.1|app-devices|Compliance mode enabled, was '2.7.1'|
 |yubikey-manager|4.0.1|5.7.2|app-devices|Compliance mode enabled, was '5.7.2'|
 |yubikey-manager-qt|1.2.1|1.2.6|app-devices|Compliance mode enabled, was '1.2.6'|
+|yubioath-desktop|5.1.0|7.2.3|app-devices|Compliance mode enabled, was '7.2.3'|
 |yuzu|1582|1732|app-games|Compliance mode enabled, was '1732'|
 |zanshin|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
