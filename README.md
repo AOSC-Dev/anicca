@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750630266?label=Updated)
+![Relative date](https://img.shields.io/date/1750633897?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -225,6 +225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-release|0.25.10|0.25.18|lang-rust|Compliance mode enabled, was '0.25.18'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
+|castxml|0.6.8|0.6.11|app-devel|Compliance mode enabled, was '0.6.11'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catfish|4.18.0|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |cbindgen|0.28.0|0.29.0|lang-rust|Compliance mode enabled, was '0.29.0'|
@@ -2047,6 +2048,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.052|lang-perl|Compliance mode enabled, was '0.052'|
 |perl-module-find|0.13|0.17|lang-perl|Compliance mode enabled, was '0.17'|
+|perl-module-pluggable|5.2|6.3|lang-perl|Compliance mode enabled, was '6.3'|
 |perl-module-runtime|0.016|0.018|lang-perl|Compliance mode enabled, was '0.018'|
 |perl-module-scandeps|1.27|1.37|lang-perl|Compliance mode enabled, was '1.37'|
 |perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
