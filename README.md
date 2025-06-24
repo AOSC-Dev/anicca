@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750745900?label=Updated)
+![Relative date](https://img.shields.io/date/1750749337?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -236,7 +236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ccls|0.20240202|0.20241108|app-devel|Compliance mode enabled, was '0.20241108'|
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
-|cerberus|1.3.2|1.3.7|lang-python|Compliance mode enabled, was '1.3.7'|
 |certbot|2.11.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
 |certbot-apache|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
 |certbot-dns-cloudflare|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
@@ -366,7 +365,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
-|delve|1.24.0|1.25.0|lang-golang|Compliance mode enabled, was '1.25.0'|
 |deno|1.44.1|2.3.6|lang-js|Compliance mode enabled, was '2.3.6'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
@@ -1082,6 +1080,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmines|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kmix|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kmousetool|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|kmouth|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kmplayer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kmplot|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kmyfirewall-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1932,7 +1931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.445|app-games|Compliance mode enabled, was '2.3.445'|
+|pcsx2|1.6.0<br>+git20210825|2.3.448|app-games|Compliance mode enabled, was '2.3.448'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
@@ -2389,6 +2388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
 |rlwrap|0.43|0.46.2|runtime-common|Compliance mode enabled, was '0.46.2'|
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
+|rmpc|0.8.0|0.9.0|app-multimedia|Compliance mode enabled, was '0.9.0'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
 |rocm-clr|6.4.1|mock-tag-test|runtime-rocm|Compliance mode enabled, was 'mock-tag-test'<br>Versions not comparable: `6.4.1` and `mock-tag-test`|
@@ -2439,6 +2439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |sccache|0.3.3|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
+|scenefx|0.3|0.4.1|runtime-display|Compliance mode enabled, was '0.4.1'|
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build-core|0.11.1|0.11.4|lang-python|Compliance mode enabled, was '0.11.4'|
 |scipy|1.15.3|1.16.0|lang-python|Compliance mode enabled, was '1.16.0'|
