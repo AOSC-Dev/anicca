@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750860878?label=Updated)
+![Relative date](https://img.shields.io/date/1750864411?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1074,7 +1074,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kkbswitch-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |klamav-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |klcddimmer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|kldap|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kleopatra|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |klettres|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |klickety|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
