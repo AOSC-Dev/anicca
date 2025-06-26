@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750944650?label=Updated)
+![Relative date](https://img.shields.io/date/1750947117?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -615,7 +615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
-|getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.5|desktop-gnome|Compliance mode enabled, was '0.14.5'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
@@ -1184,6 +1183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kstars|3.7.5|3.7.7|desktop-kde|Compliance mode enabled, was '3.7.7'|
 |kstreamripper-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksudoku|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
+|ksystemlog|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |ksystemlog-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksystemstats|5.27.12|6.4.1|desktop-kde|Compliance mode enabled, was '6.4.1'|
 |kteatime|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
@@ -1942,7 +1942,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.3.450|app-games|Compliance mode enabled, was '2.3.450'|
+|pcsx2|1.6.0<br>+git20210825|2.3.452|app-games|Compliance mode enabled, was '2.3.452'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
@@ -2026,6 +2026,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gtk2-unique|0.05|0.07|lang-perl|Compliance mode enabled, was '0.07'|
 |perl-html-form|6.03|6.12|lang-perl|Compliance mode enabled, was '6.12'|
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
+|perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
 |perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
 |perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
