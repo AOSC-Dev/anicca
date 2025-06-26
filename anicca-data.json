@@ -289,6 +289,7 @@
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
 ["trivy","0.55.0","0.63.0","app-devel",1727017621,["Compliance mode enabled, was '0.63.0'"]],
 ["gringo","5.7.1","5.8.0","app-devel",1721588169,["Compliance mode enabled, was '5.8.0'"]],
+["automake","1.18","1.18.1","app-devel",1749360507,["Compliance mode enabled, was '1.18.1'"]],
 ["corrosion","0.4.10","0.5.2","app-devel",1721093359,["Compliance mode enabled, was '0.5.2'"]],
 ["hotspot","1.3.0","1.5.1","app-devel",1623906362,["Compliance mode enabled, was '1.5.1'"]],
 ["llvm-18","18.1.8","20.1.7","app-devel",1732901541,["Compliance mode enabled, was '20.1.7'"]],
