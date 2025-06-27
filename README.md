@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751022719?label=Updated)
+![Relative date](https://img.shields.io/date/1751026779?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1542,20 +1542,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.76|1.4.79|app-network|Compliance mode enabled, was '1.4.79'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.34|core-devel|Compliance mode enabled, was '6.12.34'|
-|linux+api+32|6.12.7|6.12.34|runtime-optenv32|Compliance mode enabled, was '6.12.34'|
+|linux+api|6.12.30|6.12.35|core-devel|Compliance mode enabled, was '6.12.35'|
+|linux+api+32|6.12.7|6.12.35|runtime-optenv32|Compliance mode enabled, was '6.12.35'|
 |linux+kernel|6.14.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.10 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
-|linux+kernel+lts|6.12.32|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (6.12.32 -> 5.10.238)|
+|linux+kernel+lts|6.12.32|5.10.239|runtime-kernel|Compliance mode enabled, was '5.10.239'<br>Possible downgrade from the current version (6.12.32 -> 5.10.239)|
 |linux+kernel+rc|6.15.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.15.0 -> 5.19.17)|
-|linux+kernel+retro|5.10.204|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'|
-|linux+kernel+retro+minimal|5.15.17|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (5.15.17 -> 5.10.238)|
+|linux+kernel+retro|5.10.204|5.10.239|runtime-kernel|Compliance mode enabled, was '5.10.239'|
+|linux+kernel+retro+minimal|5.15.17|5.10.239|runtime-kernel|Compliance mode enabled, was '5.10.239'<br>Possible downgrade from the current version (5.15.17 -> 5.10.239)|
 |linux-firmware|20250425|20250509|runtime-kernel||
 |linux-kernel|6.14.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.10 -> 5.19.17)|
 |linux-kernel-lts|6.12.32|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.32 -> 5.19.17)|
 |linux-kernel-rc|6.15.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.15.0 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'|
-|linux-kernel-retro-minimal|5.15.17|5.10.238|runtime-kernel|Compliance mode enabled, was '5.10.238'<br>Possible downgrade from the current version (5.15.17 -> 5.10.238)|
+|linux-kernel-retro|5.10.204|5.10.239|runtime-kernel|Compliance mode enabled, was '5.10.239'|
+|linux-kernel-retro-minimal|5.15.17|5.10.239|runtime-kernel|Compliance mode enabled, was '5.10.239'<br>Possible downgrade from the current version (5.15.17 -> 5.10.239)|
 |linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.9.1|app-admin|Compliance mode enabled, was '1.9.1'|
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
@@ -1718,7 +1718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtd-utils|2.1.5|2.3.0|app-admin|Compliance mode enabled, was '2.3.0'|
 |muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |mujs|1.3.5|1.3.7|lang-js|Compliance mode enabled, was '1.3.7'|
-|multidict|5.1.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
+|multidict|5.1.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.2|app-doc|Compliance mode enabled, was '1.26.2'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
@@ -1761,6 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle|3.10.1|3.10.2|runtime-cryptography|Compliance mode enabled, was '3.10.2'|
 |nettle+32|3.10.1|3.10.2|runtime-optenv32|Compliance mode enabled, was '3.10.2'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
+|networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
 |networkmanager-openvpn|1.8.12|1.12.0|app-network|Compliance mode enabled, was '1.12.0'|
 |networkmanager-qt|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |networkmanager-strongswan|1.6.1|1.6.2|app-network|Compliance mode enabled, was '1.6.2'|
