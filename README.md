@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1750979529?label=Updated)
+![Relative date](https://img.shields.io/date/1750985295?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -463,7 +463,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
-|epiphany|42.4|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
+|epiphany|42.4|48.5|desktop-gnome|Compliance mode enabled, was '48.5'|
 |erofs-utils|1.8.7|1.8.9|app-admin|Compliance mode enabled, was '1.8.9'|
 |espeak-ng|1.51.1|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -1687,7 +1687,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|mise|2025.5.6|2025.6.7|app-devel|Compliance mode enabled, was '2025.6.7'|
+|mise|2025.5.6|2025.6.8|app-devel|Compliance mode enabled, was '2025.6.8'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2866,7 +2866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.4.309.0|1.4.313.0|runtime-display|Compliance mode enabled, was '1.4.313.0'|
 |volk-meta-loader+32|1.4.309.0|1.4.313.0|runtime-optenv32|Compliance mode enabled, was '1.4.313.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
-|vpl-gpu-rt|25.2.4|25.2.5|runtime-multimedia|Compliance mode enabled, was '25.2.5'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.101.1|1.101.2|app-editors|Compliance mode enabled, was '1.101.2'|
 |vscodium|1.100.33714|1.101.24242|app-editors|Compliance mode enabled, was '1.101.24242'|
