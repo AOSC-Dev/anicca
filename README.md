@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751040860?label=Updated)
+![Relative date](https://img.shields.io/date/1751044371?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -542,7 +542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findlib|1.9.7|1.9.8|lang-ocaml|Compliance mode enabled, was '1.9.8'|
 |fio|3.35|3.40|app-utils|Compliance mode enabled, was '3.40'|
-|firefox|139.0|140.0.1|app-web|Compliance mode enabled, was '140.0.1'|
+|firefox|139.0|140.0.2|app-web|Compliance mode enabled, was '140.0.2'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.72|0.9.74|app-admin|Compliance mode enabled, was '0.9.74'|
 |firewalld|2.3.0|2.3.1|app-network|Compliance mode enabled, was '2.3.1'|
@@ -1437,6 +1437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |libquotient|0.8.2|0.9.3|runtime-web|Compliance mode enabled, was '0.9.3'|
 |libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
+|libreoffice|25.2.4.3|25.2.5.1|app-productivity|Compliance mode enabled, was '25.2.5.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
 |librsvg|2.59.2|2.60.0|runtime-imaging|Compliance mode enabled, was '2.60.0'|
@@ -1661,7 +1662,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdds|2.1.1|3.0.0|runtime-productivity|Compliance mode enabled, was '3.0.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |mediainfo|24.12|25.04|app-multimedia|Compliance mode enabled, was '25.04'|
-|meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |merkuro|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
