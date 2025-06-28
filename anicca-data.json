@@ -147,6 +147,7 @@
 ["libnet","1.1.6","1.3","runtime-network",1492022512,["Compliance mode enabled, was '1.3'"]],
 ["libssh2","1.9.0","1.11.1","runtime-network",1456239193,["Compliance mode enabled, was '1.11.1'"]],
 ["gssdp","1.2.3","1.6.3","runtime-network",1600321916,["Compliance mode enabled, was '1.6.3'"]],
+["libproxy","0.5.9","0.5.10","runtime-network",1745416376,["Compliance mode enabled, was '0.5.10'"]],
 ["libiscsi","1.18.0","1.20.2","runtime-network",1481952809,["Compliance mode enabled, was '1.20.2'"]],
 ["libofono-qt","0.54+git20190116","1.30","runtime-network",1678950872,["Compliance mode enabled, was '1.30'"]],
 ["fb303","2025.03.24.00","2025.06.23.00","runtime-network",1743403515,["Compliance mode enabled, was '2025.06.23.00'"]],
