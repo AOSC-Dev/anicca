@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751134577?label=Updated)
+![Relative date](https://img.shields.io/date/1751137723?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1036,7 +1036,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiconthemes|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
 |kidentitymanagement|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
-|kidletime|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kig|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kigo|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kile-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1401,6 +1400,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs|4.0.0|6.0.2|runtime-network|Compliance mode enabled, was '6.0.2'|
 |libnftnl|1.2.6|1.2.9|runtime-network|Compliance mode enabled, was '1.2.9'|
 |libnl|3.9.0|3.11.0|runtime-network|Compliance mode enabled, was '3.11.0'|
+|libnl+32|3.9.0|3.11.0|runtime-optenv32|Compliance mode enabled, was '3.11.0'|
 |libnotify|0.7.9|0.8.6|runtime-desktop|Compliance mode enabled, was '0.8.6'|
 |libnova|0.15.0|0.16|runtime-scientific|Compliance mode enabled, was '0.16'|
 |libnsl2|1.3.0|2.0.1|runtime-network|Compliance mode enabled, was '2.0.1'|
@@ -1529,6 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml2+32|2.10.4|2.14.4|runtime-optenv32|Compliance mode enabled, was '2.14.4'|
 |libxnvctrl|565.57.01|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'|
 |libxnvctrl+32|565.57.01|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'|
+|libxslt|1.1.42|1.1.43|runtime-common|Compliance mode enabled, was '1.1.43'|
 |libxslt+32|1.1.42|1.1.43|runtime-optenv32|Compliance mode enabled, was '1.1.43'|
 |libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
 |liferea|1.14.6|1.15.9|app-web|Compliance mode enabled, was '1.15.9'|
@@ -1908,7 +1909,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |palapeli|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
-|pandas|2.1.2|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |pandoc|3.6.3|3.7.0.2|app-doc|Compliance mode enabled, was '3.7.0.2'|
 |pango|1.56.1|1.56.4|runtime-desktop|Compliance mode enabled, was '1.56.4'|
 |pango+32|1.56.1|1.56.4|runtime-optenv32|Compliance mode enabled, was '1.56.4'|
@@ -2128,6 +2128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |pixman|0.43.0|0.46.2|runtime-display|Compliance mode enabled, was '0.46.2'|
+|pixman+32|0.43.0|0.46.2|runtime-optenv32|Compliance mode enabled, was '0.46.2'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkgconf|2.5.1|1.2.68|app-devel|Compliance mode enabled, was '1.2.68'<br>Possible downgrade from the current version (2.5.1 -> 1.2.68)|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
@@ -2277,6 +2278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt6-sip|13.10.0|13.10.2|lang-python|Compliance mode enabled, was '13.10.2'|
 |pyqt6-webengine|6.8.0|6.9.0|lang-python|Compliance mode enabled, was '6.9.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
+|pyrfc3339|1.1|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |pyscard|1.9.9|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
 |pyscss|1.3.7|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |pyside2|5.15.14|5.15.17|lang-python|Compliance mode enabled, was '5.15.17'|
