@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751227971?label=Updated)
+![Relative date](https://img.shields.io/date/1751231445?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -456,7 +456,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant|1-6-1|1.6.0|app-i18n|Possible downgrade from the current version (1-6-1 -> 1.6.0)|
 |enchant-2|2.3.1|2.8.10|app-i18n|Compliance mode enabled, was '2.8.10'|
-|endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |endless-sky|0.10.10|0.10.14|app-games|Compliance mode enabled, was '0.10.14'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
@@ -1152,6 +1151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kqtquickcharts|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |kquickcharts|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |kquickimageeditor|0.2.0|0.5.1|desktop-kde|Compliance mode enabled, was '0.5.1'|
+|krdc|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |krecipes-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |krecorder|23.08.5|25.04.2|desktop-kde|Compliance mode enabled, was '25.04.2'|
 |krename-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
