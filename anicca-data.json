@@ -2873,6 +2873,7 @@
 ["hyperlink","19.0.0","21.0.0","lang-python",1570593799,["Compliance mode enabled, was '21.0.0'"]],
 ["uritemplate","3.0.1","4.2.0","lang-python",1581796622,["Compliance mode enabled, was '4.2.0'"]],
 ["oslo-i18n","6.3.0","6.5.1","lang-python",1724639794,["Compliance mode enabled, was '6.5.1'"]],
+["python-hglib","2.6.1","2.6.2","lang-python",1530292470,["Compliance mode enabled, was '2.6.2'"]],
 ["swiftclient","4.6.0","4.8.0","lang-python",1724639794,["Compliance mode enabled, was '4.8.0'"]],
 ["autopep8","2.3.1","2.3.2","lang-python",1719144640,["Compliance mode enabled, was '2.3.2'"]],
 ["loguru","0.5.3","0.7.3","lang-python",1607768363,["Compliance mode enabled, was '0.7.3'"]],
