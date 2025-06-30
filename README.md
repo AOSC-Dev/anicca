@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751274979?label=Updated)
+![Relative date](https://img.shields.io/date/1751278424?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -438,6 +438,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim|3.3.1|3.4.0|app-imaging|Compliance mode enabled, was '3.4.0'|
 |dssim-c|1.3.2<br>+git20200922|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
+|dtk6core|6.0.37|6.0.38|desktop-dde|Compliance mode enabled, was '6.0.38'|
+|dtk6gui|6.0.37|6.0.38|desktop-dde|Compliance mode enabled, was '6.0.38'|
+|dtk6widget|6.0.37|6.0.38|desktop-dde|Compliance mode enabled, was '6.0.38'|
+|dtkcommon|5.7.17|5.7.18|desktop-dde|Compliance mode enabled, was '5.7.18'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.23.0|runtime-vcs|Compliance mode enabled, was '0.23.0'|
@@ -527,6 +531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.5.0|0.5.1|app-multimedia|Compliance mode enabled, was '0.5.1'|
 |feeluown-netease|1.0.3|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
 |feeluown-qqmusic|1.0.5|1.0.7|app-multimedia|Compliance mode enabled, was '1.0.7'|
+|feishin|0.16.0|0.17.0|app-multimedia|Compliance mode enabled, was '0.17.0'|
 |fennel-ls|0.2.1|0.2.0|lang-lua|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg+32|7.1|7.1.1|runtime-optenv32|Compliance mode enabled, was '7.1.1'|
@@ -2432,6 +2437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-optimist|3.2.0|3.2.1|lang-ruby|Compliance mode enabled, was '3.2.1'|
 |ruby-pkg-config|1.5.8|1.6.2|lang-ruby|Compliance mode enabled, was '1.6.2'|
 |runc|1.2.6|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
+|ruri|3.8|3.9~beta1|app-admin|Compliance mode enabled, was '3.9-beta1'|
 |rust-bindgen|0.69.4|0.72.0|lang-rust|Compliance mode enabled, was '0.72.0'|
 |rustc|1.87.0|1.88.0|lang-rust|Compliance mode enabled, was '1.88.0'|
 |rustc+32|1.85.0|1.88.0|runtime-optenv32|Compliance mode enabled, was '1.88.0'|
@@ -2635,8 +2641,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemsettings|5.27.12|6.4.1|desktop-kde|Compliance mode enabled, was '6.4.1'|
 |systemtap|5.2|5.3|app-utils|Compliance mode enabled, was '5.3'|
 |sysv-ipc|1.0.1|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
-|taglib|2.0.2|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
-|taglib+32|1.13.1|2.1|runtime-optenv32|Compliance mode enabled, was '2.1'|
+|taglib|2.0.2|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
+|taglib+32|1.13.1|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
 |tagparser|11.5.1|12.5.0|runtime-multimedia|Compliance mode enabled, was '12.5.0'|
 |taisei|1.3.2|1.4.2|app-games|Compliance mode enabled, was '1.4.2'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
