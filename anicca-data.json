@@ -1929,7 +1929,7 @@
 ["postfix","3.7.3","3.10.2","app-web",1721223235,["Compliance mode enabled, was '3.10.2'"]],
 ["toxcore","0.2.18","0.2.21","app-web",1655338775,["Compliance mode enabled, was '0.2.21'"]],
 ["certbot-nginx","2.10.0","4.1.1","app-web",1716728325,["Compliance mode enabled, was '4.1.1'"]],
-["qownnotes","22.6.1","25.7.2","app-web",1749089603,["Compliance mode enabled, was '25.7.2'"]],
+["qownnotes","22.6.1","25.7.3","app-web",1749089603,["Compliance mode enabled, was '25.7.3'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
 ["forgejo","11.0.0","11.0.2","app-web",1746182393,["Compliance mode enabled, was '11.0.2'"]],
 ["dovecot","2.4.1","2.4.0","app-web",1749129153,["Compliance mode enabled, was '2.4.0'","Possible downgrade from the current version (2.4.1 -> 2.4.0)"]],
