@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751682786?label=Updated)
+![Relative date](https://img.shields.io/date/1751686999?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2352,7 +2352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.2.7|app-multimedia|Compliance mode enabled, was '2.2.7'|
-|qownnotes|22.6.1|25.7.1|app-web|Compliance mode enabled, was '25.7.1'|
+|qownnotes|22.6.1|25.7.2|app-web|Compliance mode enabled, was '25.7.2'|
 |qpageview|0.6.2|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
@@ -2712,6 +2712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|1.13.0|2.0.18|app-web|Compliance mode enabled, was '2.0.18'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
+|telegram-desktop|5.16.1|5.16.2|app-web|Compliance mode enabled, was '5.16.2'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
