@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751753458?label=Updated)
+![Relative date](https://img.shields.io/date/1751757204?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
 |breeze-icons|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |breeze-plymouth|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
-|brltty|6.6|6.7|app-a11y|Compliance mode enabled, was '6.7'|
+|brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |budgie-screensaver|5.0.2|5.1.0|desktop-gnome|Compliance mode enabled, was '5.1.0'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -1066,7 +1066,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-gdrive|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kio-zeroconf|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kiosktool-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|kipi-plugins|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kirigami-addons|0.11.0|1.9.0|desktop-kde|Compliance mode enabled, was '1.9.0'|
 |kirigami-gallery|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kirigami2|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
@@ -1847,7 +1846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
 |onedrive|2.5.5|2.5.6|app-web|Compliance mode enabled, was '2.5.6'|
 |onedrivegui|1.1.1|1.2.1|app-web|Compliance mode enabled, was '1.2.1'|
-|onefetch|2.21.0|2.24.0|app-utils|Compliance mode enabled, was '2.24.0'|
+|onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
 |oolite|1.90|1.91.0.7679-250703-49e991a|app-games|Compliance mode enabled, was '1.91.0.7679-250703-49e991a'|
 |opam|2.1.6|2.3.0|lang-ocaml|Compliance mode enabled, was '2.3.0'|
