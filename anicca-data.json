@@ -2943,7 +2943,6 @@
 ["pyqtwebengine","5.15.5","5.15.7","lang-python",1637636760,["Compliance mode enabled, was '5.15.7'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["pysocks","1.6.8","1.7.1","lang-python",1530294048,["Compliance mode enabled, was '1.7.1'"]],
-["pythran","0.16.1","0.18.0","lang-python",1749128013,["Compliance mode enabled, was '0.18.0'"]],
 ["cython","3.1.0","3.1.2","lang-python",1748882623,["Compliance mode enabled, was '3.1.2'"]],
 ["cairocffi","1.0.2","1.7.1","lang-python",1551159549,["Compliance mode enabled, was '1.7.1'"]],
 ["pyte","0.8.0","0.8.2","lang-python",1530292808,["Compliance mode enabled, was '0.8.2'"]],
