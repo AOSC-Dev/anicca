@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751836262?label=Updated)
+![Relative date](https://img.shields.io/date/1751839980?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1741,6 +1741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.3|app-doc|Compliance mode enabled, was '1.26.3'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
+|musicfox|4.6.2|4.6.3|app-multimedia|Compliance mode enabled, was '4.6.3'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |mvfst|2025.03.24.00|2025.06.30.00|runtime-network|Compliance mode enabled, was '2025.06.30.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
@@ -1927,7 +1928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-sounds|5.25.3|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
 |packagekit|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
-|packagekit-qt|1.1.1|1.1.2|desktop-kde|Compliance mode enabled, was '1.1.2'|
 |packaging|24.2|25.0|lang-python|Compliance mode enabled, was '25.0'|
 |pacman|6.0.1|7.0.0|app-admin|Compliance mode enabled, was '7.0.0'|
 |pahole|1.25|1.30|app-utils|Compliance mode enabled, was '1.30'|
