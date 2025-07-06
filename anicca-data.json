@@ -1914,7 +1914,7 @@
 ["chromium","135.0.7049.95","138.0.7204.92","app-web",1745287154,["Compliance mode enabled, was '138.0.7204.92'"]],
 ["notmuch","0.38.3","0.39","app-web",1735985938,["Compliance mode enabled, was '0.39'"]],
 ["certbot","2.11.0","4.1.1","app-web",1717723307,["Compliance mode enabled, was '4.1.1'"]],
-["teams-for-linux","1.13.0","2.0.18","app-web",1742195024,["Compliance mode enabled, was '2.0.18'"]],
+["teams-for-linux","1.13.0","2.1.0","app-web",1742195024,["Compliance mode enabled, was '2.1.0'"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
 ["nginx","1.27.4","1.29.0","app-web",1738821267,["Compliance mode enabled, was '1.29.0'"]],
 ["certbot-apache","2.10.0","4.1.1","app-web",1716728517,["Compliance mode enabled, was '4.1.1'"]],
