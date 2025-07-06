@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751763306?label=Updated)
+![Relative date](https://img.shields.io/date/1751770485?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1754,8 +1754,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.16|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250628|runtime-common|Compliance mode enabled, was '6.5-20250628'|
-|ncurses+32|6.4|6.5+20250628|runtime-optenv32|Compliance mode enabled, was '6.5-20250628'|
+|ncurses|6.4|6.5+20250705|runtime-common|Compliance mode enabled, was '6.5-20250705'|
+|ncurses+32|6.4|6.5+20250705|runtime-optenv32|Compliance mode enabled, was '6.5-20250705'|
 |ndctl|80|82|app-admin|Compliance mode enabled, was '82'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
