@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751849531?label=Updated)
+![Relative date](https://img.shields.io/date/1751856708?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1333,7 +1333,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgit2-glib|1.2.0|1.2.1|runtime-vcs|Compliance mode enabled, was '1.2.1'|
 |libgksu|2.0.13~pre1|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'<br>Possible downgrade from the current version (2.0.13~pre1 -> 2.0.12)|
 |libgnome-games-support|1.8.2|2.0.1|desktop-gnome|Compliance mode enabled, was '2.0.1'|
-|libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
 |libgpg-error|1.51|1.55|runtime-cryptography|Compliance mode enabled, was '1.55'|
 |libgpg-error+32|1.51|1.55|runtime-optenv32|Compliance mode enabled, was '1.55'|
@@ -2848,7 +2847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.18|0.7.19|lang-python|Compliance mode enabled, was '0.7.19'|
 |v2ray|5.35.0|5.37.0|app-proxy|Compliance mode enabled, was '5.37.0'|
-|v2ray-rules-dat|202501302211|202507052212|runtime-data|Compliance mode enabled, was '202507052212'<br>Versions not comparable: `202501302211` and `202507052212`|
+|v2ray-rules-dat|202501302211|202507062214|runtime-data|Compliance mode enabled, was '202507062214'<br>Versions not comparable: `202501302211` and `202507062214`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
