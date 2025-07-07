@@ -504,6 +504,7 @@
 ["ufw","0.36","0.36.2","app-network",1550814485,["Compliance mode enabled, was '0.36.2'"]],
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
 ["cifs-utils","7.0","7.4","app-network",1746182477,["Compliance mode enabled, was '7.4'"]],
+["q","0.19.2","0.19.5","app-network",1737038878,["Compliance mode enabled, was '0.19.5'"]],
 ["stubby","0.3.0","0.4.3","app-network",1594095410,["Compliance mode enabled, was '0.4.3'"]],
 ["iptables","1.8.8","1.8.11","app-network",1674452376,["Compliance mode enabled, was '1.8.11'"]],
 ["lrzsz","0.12.20","0.12.21.orig","app-network",1481254632,["Compliance mode enabled, was '0.12.21.orig'"]],
