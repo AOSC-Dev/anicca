@@ -1763,7 +1763,7 @@
 ["watchman","2025.03.24.00","2025.06.30.00","app-utils",1743403515,["Compliance mode enabled, was '2025.06.30.00'"]],
 ["par2cmdline","0.8.1","1.0.0","app-utils",1600708583,["Compliance mode enabled, was '1.0.0'"]],
 ["direnv","2.35.0","2.37.0","app-utils",1732598141,["Compliance mode enabled, was '2.37.0'"]],
-["hwinfo","23.2","24.0","app-utils",1701422212,["Compliance mode enabled, was '24.0'"]],
+["hwinfo","23.2","24.1","app-utils",1701422212,["Compliance mode enabled, was '24.1'"]],
 ["atop","2.11.0","2.12.0","app-utils",1736561521,["Compliance mode enabled, was '2.12.0'"]],
 ["gnuplot","6.0.2","6.0.3","app-utils",1744031729,["Compliance mode enabled, was '6.0.3'"]],
 ["plank","0.11.89+git20210222","0.11.89","app-utils",1622534172,["Compliance mode enabled, was '0.11.89'"]],
