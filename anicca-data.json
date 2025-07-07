@@ -519,7 +519,7 @@
 ["flent","1.3.2","2.2.0","app-network",1577363314,["Compliance mode enabled, was '2.2.0'"]],
 ["synergy","1.11.1","2.3.2","app-network",1585097716,["Compliance mode enabled, was '2.3.2'"]],
 ["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
-["samba","4.22.1","4.22.2","app-network",1746182477,["Compliance mode enabled, was '4.22.2'"]],
+["samba","4.22.1","4.22.3","app-network",1746182477,["Compliance mode enabled, was '4.22.3'"]],
 ["kea","2.6.3","3.0.0","app-network",1750565551,["Compliance mode enabled, was '3.0.0'"]],
 ["cbm","0.3.2","0.4","app-network",1719969388,["Compliance mode enabled, was '0.4'"]],
 ["xorgxrdp","0.10.3","0.10.4","app-network",1739145564,["Compliance mode enabled, was '0.10.4'"]],
