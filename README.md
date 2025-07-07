@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1751886695?label=Updated)
+![Relative date](https://img.shields.io/date/1751890806?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -88,6 +88,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|desktop-themes|Compliance mode enabled, was '20220908'|
 |arcanist|2025.18|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2025.18 -> 2022.37)|
 |arch-install-scripts|28|29|app-utils||
+|archlinux-keyring|20250430.1|20250707|runtime-data|Compliance mode enabled, was '20250707'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.2|lang-python|Compliance mode enabled, was '3.6.2'|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
@@ -2521,6 +2522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shh|2025.6.5|2023.10.19|app-utils|Compliance mode enabled, was '2023.10.19'<br>Possible downgrade from the current version (2025.6.5 -> 2023.10.19)|
 |shotcut|25.05.11|25.07.06|app-creativity|Compliance mode enabled, was '25.07.06'|
 |shotwell|0.31.4|0.32.13|desktop-gnome|Compliance mode enabled, was '0.32.13'|
+|showmethekey|1.18.3|1.18.4|app-utils|Compliance mode enabled, was '1.18.4'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
