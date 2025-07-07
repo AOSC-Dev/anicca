@@ -2390,6 +2390,7 @@
 ["kpackage","5.115.0","6.15.0","desktop-kde",1714377107,["Compliance mode enabled, was '6.15.0'"]],
 ["ksudoku","23.08.5","25.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.3'"]],
 ["knotes","23.08.5","25.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.3'"]],
+["kajongg","23.08.5","25.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.04.3'"]],
 ["kleopatra","23.08.5","25.04.3","desktop-kde",1741002973,["Compliance mode enabled, was '25.04.3'"]],
 ["plasma-wayland-protocols","1.10.0","1.18.0","desktop-kde",1678601023,["Compliance mode enabled, was '1.18.0'"]],
 ["plasma-workspace","5.27.12","6.4.2","desktop-kde",1739757926,["Compliance mode enabled, was '6.4.2'"]],
