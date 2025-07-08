@@ -1037,7 +1037,6 @@
 ["perl-file-which","1.23","1.27","lang-perl",1550814485,["Compliance mode enabled, was '1.27'"]],
 ["perl-term-readkey","2.37","2.38","lang-perl",1530196414,["Compliance mode enabled, was '2.38'"]],
 ["perl-text-csv-xs","1.38","1.60","lang-perl",1551145658,["Compliance mode enabled, was '1.60'"]],
-["perl-mail-spf","2.9.0","3.20250505","lang-perl",1678950872,["Compliance mode enabled, was '3.20250505'"]],
 ["perl-authen-sasl","2.1401","2.1800","lang-perl",1536763311,["Compliance mode enabled, was '2.1800'"]],
 ["perl-email-mime-contenttype","1.022","1.028","lang-perl",1530196415,["Compliance mode enabled, was '1.028'"]],
 ["perl-http-date","6.02","6.06","lang-perl",1678950872,["Compliance mode enabled, was '6.06'"]],
