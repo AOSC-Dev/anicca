@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752001993?label=Updated)
+![Relative date](https://img.shields.io/date/1752005646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1126,7 +1126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knmap-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knotes|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |knotifications|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
-|knotifyconfig|5.115.0|6.15.0|desktop-kde|Compliance mode enabled, was '6.15.0'|
 |knowit-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knutclient-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kodi|21.2|21.1|app-multimedia|Compliance mode enabled, was '21.1'<br>Possible downgrade from the current version (21.2 -> 21.1)|
@@ -2641,7 +2640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.14|6.15|app-devel|Compliance mode enabled, was '6.15'|
 |strawberry|1.0.23|1.2.11|app-multimedia|Compliance mode enabled, was '1.2.11'|
-|streamlink|6.7.4|7.4.0|app-multimedia|Compliance mode enabled, was '7.4.0'|
+|streamlink|6.7.4|7.5.0|app-multimedia|Compliance mode enabled, was '7.5.0'|
 |stress-ng|0.19.01|0.19.02|app-benchmarks|Compliance mode enabled, was '0.19.02'|
 |strongswan|5.9.4|6.0.1|app-network|Compliance mode enabled, was '6.0.1'|
 |structlog|19.1.0|25.4.0|lang-python|Compliance mode enabled, was '25.4.0'|
