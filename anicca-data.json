@@ -1485,7 +1485,7 @@
 ["linyaps","1.6.3","1.9.5","app-admin",1739068944,["Compliance mode enabled, was '1.9.5'"]],
 ["bcache-tools","1.0.8","1.1","app-admin",1641887332,["Compliance mode enabled, was '1.1'"]],
 ["cockpit-machines","284.1","334","app-admin",1678351353,["Compliance mode enabled, was '334'"]],
-["damo","2.4.7","2.8.7","app-admin",1724095000,["Compliance mode enabled, was '2.8.7'"]],
+["damo","2.4.7","2.8.8","app-admin",1724095000,["Compliance mode enabled, was '2.8.8'"]],
 ["squashfs-tools-ng","1.3.1","1.3.2","app-admin",1716292186,["Compliance mode enabled, was '1.3.2'"]],
 ["mstflint","4.29.0-1","4.32.0+1","app-admin",1731561395,["Compliance mode enabled, was '4.32.0-1'"]],
 ["upower","1.90.6","1.90.9","app-admin",1733052939,["Compliance mode enabled, was '1.90.9'"]],
