@@ -2438,7 +2438,7 @@
 ["nss","3.113","3.113.1","runtime-cryptography",1751428107,["Compliance mode enabled, was '3.113.1'"]],
 ["mbedtls","2.16.7","3.6.4","runtime-cryptography",1582091000,["Compliance mode enabled, was '3.6.4'"]],
 ["botan-2","2.12.1","2.19.5","runtime-cryptography",1723137436,["Compliance mode enabled, was '2.19.5'"]],
-["verilator","5.026","5.036","app-electronics",1721488325,["Compliance mode enabled, was '5.036'"]],
+["verilator","5.026","5.038","app-electronics",1721488325,["Compliance mode enabled, was '5.038'"]],
 ["ngspice","35","44.2","app-electronics",1624316725,["Compliance mode enabled, was '44.2'"]],
 ["gtkwave","3.3.121","3.3.124","app-electronics",1731071287,["Compliance mode enabled, was '3.3.124'"]],
 ["yosys","0.45","0.55","app-electronics",1728142856,["Compliance mode enabled, was '0.55'"]],
