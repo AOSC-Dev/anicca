@@ -1309,7 +1309,6 @@
 ["pixman+32","0.43.0","0.46.2","runtime-optenv32",1740919514,["Compliance mode enabled, was '0.46.2'"]],
 ["aalib+32","1.4rc5","1.2","runtime-optenv32",1740919515,["Possible downgrade from the current version (1.4rc5 -> 1.2)"]],
 ["libnl+32","3.9.0","3.11.0","runtime-optenv32",1740919508,["Compliance mode enabled, was '3.11.0'"]],
-["popt+32","1.18","1.19","runtime-optenv32",1740919508,["Compliance mode enabled, was '1.19'"]],
 ["openssl+32","3.5.0","3.5.1","runtime-optenv32",1744165245,["Compliance mode enabled, was '3.5.1'"]],
 ["mpg123+32","1.32.8","1.33.0","runtime-optenv32",1730365887,["Compliance mode enabled, was '1.33.0'"]],
 ["volk-meta-loader+32","1.4.309.0","1.4.313.0","runtime-optenv32",1745746413,["Compliance mode enabled, was '1.4.313.0'"]],
