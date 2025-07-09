@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752033015?label=Updated)
+![Relative date](https://img.shields.io/date/1752035322?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -729,7 +729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|138.0.7204.92|138.0.7204.100|app-web|Compliance mode enabled, was '138.0.7204.100'|
-|goreleaser|2.8.2|2.10.2|lang-golang|Compliance mode enabled, was '2.10.2'|
+|goreleaser|2.8.2|2.11.0|lang-golang|Compliance mode enabled, was '2.11.0'|
 |gost|2.12.0|3.1.0|app-proxy|Compliance mode enabled, was '3.1.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
@@ -1686,7 +1686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |mediainfo|24.12|25.04|app-multimedia|Compliance mode enabled, was '25.04'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
-|melonds|1.0rc|0.9.5|app-games|Possible downgrade from the current version (1.0rc -> 0.9.5)|
+|melonds|1.0rc|1.0|app-games||
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |merkuro|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |mesa|25.1.4|25.1.5|runtime-display||
