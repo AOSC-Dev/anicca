@@ -280,7 +280,7 @@
 ["devscripts","2.24.5","2.25.15","app-devel",1733209502,["Compliance mode enabled, was '2.25.15'"]],
 ["gperftools","2.13","2.16.90","app-devel",1696572712,["Compliance mode enabled, was '2.16.90'"]],
 ["ccls","0.20240202","0.20241108","app-devel",1716130222,["Compliance mode enabled, was '0.20241108'"]],
-["ast-grep","0.38.2","0.38.5","app-devel",1747808655,["Compliance mode enabled, was '0.38.5'"]],
+["ast-grep","0.38.2","0.38.7","app-devel",1747808655,["Compliance mode enabled, was '0.38.7'"]],
 ["dotnet-templates-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["avr-gcc","10.3.1+git20210510","15.1.0","app-devel",1634066043,["Compliance mode enabled, was '15.1.0'"]],
 ["valgrind","3.25.0","3.25.1","app-devel",1745931468,["Compliance mode enabled, was '3.25.1'"]],
