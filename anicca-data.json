@@ -99,7 +99,6 @@
 ["portmidi","2.0.4","2.0.6","runtime-multimedia",1715847709,["Compliance mode enabled, was '2.0.6'"]],
 ["libvpl","2.15.0","2023.4.0","runtime-multimedia",1745366290,["Compliance mode enabled, was '2023.4.0'"]],
 ["bento4-xbmc","1.6.0-641-3","1.6.0-641-3-Omega","runtime-multimedia",1749993997,["Possible downgrade from the current version (1.6.0-641-3 -> 1.6.0-641-3-Omega)"]],
-["linuxsampler","2.3.0","2.4.0","runtime-multimedia",1706625158,["Compliance mode enabled, was '2.4.0'"]],
 ["liboggz","1.1.1","1.1.3","runtime-multimedia",1678950872,["Compliance mode enabled, was '1.1.3'"]],
 ["dav1d","1.4.3","1.5.1","runtime-multimedia",1720039322,["Compliance mode enabled, was '1.5.1'"]],
 ["speex","1.2.0","1.2.1","runtime-multimedia",1710999875,["Compliance mode enabled, was '1.2.1'"]],
