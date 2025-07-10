@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752154236?label=Updated)
+![Relative date](https://img.shields.io/date/1752156799?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -36,7 +36,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.19.1|app-utils|Compliance mode enabled, was '0.19.1'|
-|aiohttp|3.7.4.post0|3.12.13|lang-python|Compliance mode enabled, was '3.12.13'|
+|aiohttp|3.7.4.post0|3.12.14|lang-python|Compliance mode enabled, was '3.12.14'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |akonadi|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -368,6 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.110|0.114|runtime-optenv32|Compliance mode enabled, was '0.114'|
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |dbus-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|ddcutil|2.2.0|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
 |ddnet|19.0|19.3|app-games|Compliance mode enabled, was '19.3'|
 |debianutils|5.7|5.23.1|app-utils|Compliance mode enabled, was '5.23.1'|
 |debootstrap|1.0.140|1.0.141~bpo12+1|app-utils|Compliance mode enabled, was '1.0.141~bpo12+1'|
@@ -647,7 +648,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gifski|1.32.0|1.33.0|app-imaging|Compliance mode enabled, was '1.33.0'|
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
-|git|2.50.0|2.50.1|app-vcs|Compliance mode enabled, was '2.50.1'|
 |git-cinnabar|0.6.3|0.7.2|app-vcs|Compliance mode enabled, was '0.7.2'|
 |git-lfs|3.6.1|3.7.0|app-devel|Compliance mode enabled, was '3.7.0'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
