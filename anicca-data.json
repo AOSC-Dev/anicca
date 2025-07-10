@@ -306,7 +306,7 @@
 ["castxml","0.6.8","0.6.11","app-devel",1723474823,["Compliance mode enabled, was '0.6.11'"]],
 ["acpica-unix","20250404","20240322","app-devel",1745234114,["Compliance mode enabled, was '20240322'","Possible downgrade from the current version (20250404 -> 20240322)"]],
 ["gammaray","2.11.2","3.2.0","app-devel",1601267869,["Compliance mode enabled, was '3.2.0'"]],
-["composer","2.8.5","2.8.9","app-devel",1738155650,["Compliance mode enabled, was '2.8.9'"]],
+["composer","2.8.5","2.8.10","app-devel",1738155650,["Compliance mode enabled, was '2.8.10'"]],
 ["trinity-default-settings","2023.07.1r","2025.05.0","runtime-data",1721223931,["Compliance mode enabled, was '2025.05.0'"]],
 ["iso-codes","4.4","4.18.0","runtime-data",1579792514,["Compliance mode enabled, was '4.18.0'"]],
 ["spdx-licenses","3.25.0","3.27.0","runtime-data",1732414619,["Compliance mode enabled, was '3.27.0'"]],
