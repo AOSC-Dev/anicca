@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752150044?label=Updated)
+![Relative date](https://img.shields.io/date/1752154236?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1907,7 +1907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |openra|20210321|20250330|app-games|Compliance mode enabled, was '20250330'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
-|openslide|3.4.1|4.0.0|runtime-imaging|Compliance mode enabled, was '4.0.0'|
 |openssh|10.0p1|10.0p2|app-network|Compliance mode enabled, was '10.0p2'|
 |openssl|3.5.0|3.5.1|runtime-cryptography|Compliance mode enabled, was '3.5.1'|
 |openssl+32|3.5.0|3.5.1|runtime-optenv32|Compliance mode enabled, was '3.5.1'|
@@ -2222,7 +2221,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
 |portaudio+32|19.7.0|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|2.0.6|runtime-multimedia|Compliance mode enabled, was '2.0.6'|
-|postfix|3.7.3|3.10.2|app-web|Compliance mode enabled, was '3.10.2'|
+|postfix|3.7.3|3.10.3|app-web|Compliance mode enabled, was '3.10.3'|
 |potracegui-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |powerdevil|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
@@ -2617,7 +2616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
-|squid|5.7|7.0.2|app-web|Compliance mode enabled, was '7.0.2'|
+|squid|5.7|7.1|app-web|Compliance mode enabled, was '7.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
