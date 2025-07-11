@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752250477?label=Updated)
+![Relative date](https://img.shields.io/date/1752253994?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2173,7 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
-|plasma-angelfish|22.06|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|plasma-angelfish|22.06|25.07.80|desktop-kde|Compliance mode enabled, was '25.07.80'|
 |plasma-browser-integration|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
 |plasma-desktop|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
 |plasma-disks|5.27.12|6.4.2|desktop-kde|Compliance mode enabled, was '6.4.2'|
@@ -2579,7 +2579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundkonverter-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |soundtouch|2.3.3|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
-|spacebar|23.01.0|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|spacebar|23.01.0|25.07.80|desktop-kde|Compliance mode enabled, was '25.07.80'|
 |spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdlog|1.14.1|1.15.3|runtime-common|Compliance mode enabled, was '1.15.3'|
