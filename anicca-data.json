@@ -1175,6 +1175,7 @@
 ["totem","42.0","43.2","desktop-gnome",1663210251,["Compliance mode enabled, was '43.2'"]],
 ["file-roller","3.42.0","44.5","desktop-gnome",1663210249,["Compliance mode enabled, was '44.5'"]],
 ["gnome-mines","40.1","48.1","desktop-gnome",1663210243,["Compliance mode enabled, was '48.1'"]],
+["gjs","1.74.0","1.84.2","desktop-gnome",1663210241,["Compliance mode enabled, was '1.84.2'"]],
 ["atkmm","2.28.0","2.36.3","desktop-gnome",1631428417,["Compliance mode enabled, was '2.36.3'"]],
 ["lightsoff","40.0.1","48.1","desktop-gnome",1631428425,["Compliance mode enabled, was '48.1'"]],
 ["libpeas","1.36.0","2.0.7","desktop-gnome",1718805355,["Compliance mode enabled, was '2.0.7'"]],
