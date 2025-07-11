@@ -877,6 +877,7 @@
 ["libtiff","4.4.0","4.7.0","runtime-imaging",1509079104,["Compliance mode enabled, was '4.7.0'"]],
 ["libexif","0.6.22","0.6.25","runtime-imaging",1678950872,["Compliance mode enabled, was '0.6.25'"]],
 ["cairo","1.18.2","1.18.4","runtime-imaging",1725899779,["Compliance mode enabled, was '1.18.4'"]],
+["dssim-c","1.3.2+git20200922","3.4.0","runtime-imaging",1663210210,["Compliance mode enabled, was '3.4.0'"]],
 ["libpng","1.6.44","1.6.50","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.50'"]],
 ["librsvg","2.59.2","2.60.0","runtime-imaging",1734368317,["Compliance mode enabled, was '2.60.0'"]],
 ["openimagedenoise","1.4.3","2.3.3","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.3'"]],
