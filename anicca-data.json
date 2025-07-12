@@ -1357,6 +1357,7 @@
 ["rime-emoji","13.0+git20230826","15.0","app-i18n",1701762496,["Compliance mode enabled, was '15.0'"]],
 ["sunpinyin","3.0.0~rc1","2.0.3-rel-1","app-i18n",1622782977,["Compliance mode enabled, was '2.0.3-rel-1'","Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)"]],
 ["fcitx5-unikey","5.1.6","5.1.7","app-i18n",1737781666,["Compliance mode enabled, was '5.1.7'"]],
+["po4a","0.73","0.74","app-i18n",1730806335,["Compliance mode enabled, was '0.74'"]],
 ["goldendict","1.5.0","1.5.1","app-i18n",1721897495,["Compliance mode enabled, was '1.5.1'"]],
 ["ibus-libpinyin","1.12.0","1.16.4","app-i18n",1565150262,["Compliance mode enabled, was '1.16.4'"]],
 ["fcitx5-pinyin-moegirl","20250610","20250711","app-i18n",1749601163,["Compliance mode enabled, was '20250711'"]],
