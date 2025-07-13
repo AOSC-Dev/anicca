@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752444726?label=Updated)
+![Relative date](https://img.shields.io/date/1752448411?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -76,7 +76,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aoscbootstrap|0.9.0|0.10.2|app-utils|Compliance mode enabled, was '0.10.2'|
 |apache-arrow|19.0.1|20.0.0|runtime-database|Compliance mode enabled, was '20.0.0'|
 |apache-maven|3.9.9|3.9.10|lang-java|Compliance mode enabled, was '3.9.10'|
-|apicula|0.14|0.20|app-electronics|Compliance mode enabled, was '0.20'|
+|apicula|0.14|0.21|app-electronics|Compliance mode enabled, was '0.21'|
 |apitrace|12.0|13.0|app-devel|Compliance mode enabled, was '13.0'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.4|1.0.5|app-admin|Compliance mode enabled, was '1.0.5'|
@@ -2374,7 +2374,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.2.7|app-multimedia|Compliance mode enabled, was '2.2.7'|
-|qownnotes|22.6.1|25.7.4|app-web|Compliance mode enabled, was '25.7.4'|
+|qownnotes|22.6.1|25.7.5|app-web|Compliance mode enabled, was '25.7.5'|
 |qpageview|0.6.2|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
@@ -2795,7 +2795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'<br>Possible downgrade from the current version (20161208 -> 0.9.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.25.3|0.25.7|app-devel|Compliance mode enabled, was '0.25.7'|
+|tree-sitter|0.25.3|0.25.8|app-devel|Compliance mode enabled, was '0.25.8'|
 |tree-sitter-c|0.23.5|0.24.1|runtime-editors|Compliance mode enabled, was '0.24.1'|
 |tree-sitter-lua|0.3.0|0.4.0|runtime-editors|Compliance mode enabled, was '0.4.0'|
 |tree-sitter-markdown|0.4.1|0.5.0|runtime-editors|Compliance mode enabled, was '0.5.0'|
