@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752409243?label=Updated)
+![Relative date](https://img.shields.io/date/1752413065?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1469,7 +1469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libreoffice|25.2.4.3|25.8.0.1|app-productivity|Compliance mode enabled, was '25.8.0.1'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.13.1|runtime-i18n|Compliance mode enabled, was '1.13.1'|
-|librsvg|2.59.2|2.60.0|runtime-imaging|Compliance mode enabled, was '2.60.0'|
 |librsvg+32|2.59.2|2.60.0|runtime-optenv32|Compliance mode enabled, was '2.60.0'|
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
@@ -1715,7 +1714,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|mise|2025.5.6|2025.7.4|app-devel|Compliance mode enabled, was '2025.7.4'|
+|mise|2025.5.6|2025.7.7|app-devel|Compliance mode enabled, was '2025.7.7'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2307,7 +2306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
 |pyparsing|3.2.1|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
+|pypdf|4.0.1|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |pypdf2|1.26.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |pyperclip|1.8.2|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |pyperf|2.5.0|2.9.0|lang-python|Compliance mode enabled, was '2.9.0'|
