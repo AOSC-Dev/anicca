@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752387402?label=Updated)
+![Relative date](https://img.shields.io/date/1752390862?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -2624,7 +2624,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
-|squid|5.7|7.1|app-web|Compliance mode enabled, was '7.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
@@ -2655,7 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.10.3|runtime-scientific|Compliance mode enabled, was '7.10.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.710.130932|app-multimedia|Compliance mode enabled, was '2025.710.130932'|
+|sunshine|2025.122.141614|2025.713.4117|app-multimedia|Compliance mode enabled, was '2025.713.4117'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
 |superslicer|2.7.61.0|2.7.61.6|app-creativity|Compliance mode enabled, was '2.7.61.6'|
@@ -2804,7 +2803,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree-sitter-query|0.5.1|0.6.2|runtime-editors|Compliance mode enabled, was '0.6.2'|
 |tree-sitter-vim|0.5.0|0.7.0|runtime-editors|Compliance mode enabled, was '0.7.0'|
 |tree-sitter-vimdoc|3.0.1|4.0.0|runtime-editors|Compliance mode enabled, was '4.0.0'|
-|treevsrepo|0.4.3|0.4.5|app-devel|Compliance mode enabled, was '0.4.5'|
 |triforce|0.2.0|0.3.2|runtime-multimedia|Compliance mode enabled, was '0.3.2'|
 |trinity-default-settings|2023.07.1r|2025.05.0|runtime-data|Compliance mode enabled, was '2025.05.0'|
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
