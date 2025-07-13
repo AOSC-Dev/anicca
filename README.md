@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752405028?label=Updated)
+![Relative date](https://img.shields.io/date/1752409243?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1590,7 +1590,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5884|runtime-creativity|Compliance mode enabled, was '5884'|
+|llama.cpp|5298|5888|runtime-creativity|Compliance mode enabled, was '5888'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.8|runtime-optenv32|Compliance mode enabled, was '20.1.8'|
@@ -1624,8 +1624,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.33|app-admin|Compliance mode enabled, was '2.03.33'|
 |lxc|6.0.1|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
 |lxcfs|3.0.3|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
-|lxgwcleargothic-font|0.300.4|0.502.2|desktop-fonts|Compliance mode enabled, was '0.502.2'|
-|lxgwneoxihei-font|1.213|1.218|desktop-fonts|Compliance mode enabled, was '1.218'|
+|lxgwcleargothic-font|0.300.4|0.502.3|desktop-fonts|Compliance mode enabled, was '0.502.3'|
+|lxgwneoxihei-font|1.213|1.218.1|desktop-fonts|Compliance mode enabled, was '1.218.1'|
 |lxgwwenkai-font|1.510|1.520|desktop-fonts|Compliance mode enabled, was '1.520'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxml|5.4.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
@@ -2445,7 +2445,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
 |rocm-clr|6.4.1|mock-tag-test|runtime-rocm|Compliance mode enabled, was 'mock-tag-test'<br>Versions not comparable: `6.4.1` and `mock-tag-test`|
-|rocm-llama-cpp|6.4.1|5884|runtime-rocm|Compliance mode enabled, was '5884'|
+|rocm-llama-cpp|6.4.1|5888|runtime-rocm|Compliance mode enabled, was '5888'|
 |rocm-rccl|6.4.1|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.1 -> 3.3.0)|
 |rocm-rocblas|6.4.1|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
 |rocs|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
