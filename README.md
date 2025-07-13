@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752368172?label=Updated)
+![Relative date](https://img.shields.io/date/1752375567?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1769,8 +1769,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.16|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250705|runtime-common|Compliance mode enabled, was '6.5-20250705'|
-|ncurses+32|6.4|6.5+20250705|runtime-optenv32|Compliance mode enabled, was '6.5-20250705'|
+|ncurses|6.4|6.5+20250712|runtime-common|Compliance mode enabled, was '6.5-20250712'|
+|ncurses+32|6.4|6.5+20250712|runtime-optenv32|Compliance mode enabled, was '6.5-20250712'|
 |ndctl|80|82|app-admin|Compliance mode enabled, was '82'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -1778,7 +1778,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neofetch|7.3.11|7.1.0|app-utils|Compliance mode enabled, was '7.1.0'<br>Possible downgrade from the current version (7.3.11 -> 7.1.0)|
 |neon|0.33.0|0.34.2|runtime-web|Compliance mode enabled, was '0.34.2'|
 |neon+32|0.33.0|0.34.2|runtime-optenv32|Compliance mode enabled, was '0.34.2'|
-|neovim|0.11.2|0.11.3|app-editors|Compliance mode enabled, was '0.11.3'|
 |nestopia|1.52.1|1.53.1|app-games|Compliance mode enabled, was '1.53.1'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.15.2|runtime-containers|Compliance mode enabled, was '1.15.2'|
@@ -2867,7 +2866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.7.18|0.7.20|lang-python|Compliance mode enabled, was '0.7.20'|
 |v2ray|5.35.0|5.37.0|app-proxy|Compliance mode enabled, was '5.37.0'|
-|v2ray-rules-dat|202501302211|202507112214|runtime-data|Compliance mode enabled, was '202507112214'<br>Versions not comparable: `202501302211` and `202507112214`|
+|v2ray-rules-dat|202501302211|202507122213|runtime-data|Compliance mode enabled, was '202507122213'<br>Versions not comparable: `202501302211` and `202507122213`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
