@@ -764,6 +764,7 @@
 ["libsamplerate","0.1.9","0.2.2","runtime-multimedia",1509079214,["Compliance mode enabled, was '0.2.2'"]],
 ["rav1e","0.7.1","0.8.1","runtime-multimedia",1708256338,["Compliance mode enabled, was '0.8.1'"]],
 ["rtmidi","4.0.0","6.0.0","runtime-multimedia",1570477047,["Compliance mode enabled, was '6.0.0'"]],
+["gstreamer","1.26.1","1.26.3","runtime-multimedia",1748844653,["Compliance mode enabled, was '1.26.3'"]],
 ["libde265","1.0.15","1.0.16","runtime-multimedia",1735007023,["Compliance mode enabled, was '1.0.16'"]],
 ["zvbi","0.2.35","0.2.44","runtime-multimedia",1678950872,["Compliance mode enabled, was '0.2.44'"]],
 ["speex","1.2.0","1.2.1","runtime-multimedia",1710999875,["Compliance mode enabled, was '1.2.1'"]],
