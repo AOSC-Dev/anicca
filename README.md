@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752481187?label=Updated)
+![Relative date](https://img.shields.io/date/1752484797?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1714,7 +1714,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|mise|2025.5.6|2025.7.8|app-devel|Compliance mode enabled, was '2025.7.8'|
+|mise|2025.5.6|2025.7.10|app-devel|Compliance mode enabled, was '2025.7.10'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2157,7 +2157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.4.7|8.4.10|app-devel|Compliance mode enabled, was '8.4.10'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|pikepdf|8.15.1|9.9.0|app-doc|Compliance mode enabled, was '9.9.0'|
+|pikepdf|8.15.1|9.10.0|app-doc|Compliance mode enabled, was '9.10.0'|
 |piklab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |pillow|10.4.0|11.3.0|lang-python|Compliance mode enabled, was '11.3.0'|
 |pim-data-exporter|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2218,6 +2218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.14|app-scientific|Compliance mode enabled, was '4.14'|
+|poppler|25.04.0|25.07.0|runtime-doc|Compliance mode enabled, was '25.07.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
