@@ -1819,7 +1819,7 @@
 ["jellyfish","1.1.1","1.2.0","lang-python",1731475705,["Compliance mode enabled, was '1.2.0'"]],
 ["loguru","0.5.3","0.7.3","lang-python",1607768363,["Compliance mode enabled, was '0.7.3'"]],
 ["oauthlib","3.2.2","3.3.1","lang-python",1716210109,["Compliance mode enabled, was '3.3.1'"]],
-["certifi","2024.7.4","2025.7.9","lang-python",1720103195,["Compliance mode enabled, was '2025.7.9'"]],
+["certifi","2024.7.4","2025.7.14","lang-python",1720103195,["Compliance mode enabled, was '2025.7.14'"]],
 ["wxpython","4.2.1","4.2.3","lang-python",1706855338,["Compliance mode enabled, was '4.2.3'"]],
 ["pyqt6","6.8.1","6.9.1","lang-python",1740134451,["Compliance mode enabled, was '6.9.1'"]],
 ["pluggy","1.5.0","1.6.0","lang-python",1718021080,["Compliance mode enabled, was '1.6.0'"]],
