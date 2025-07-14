@@ -1482,6 +1482,7 @@
 ["miniupnpd","2.3.5","2.3.9","app-network",1710565425,["Compliance mode enabled, was '2.3.9'"]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["firewalld","2.3.0","2.3.1","app-network",1748232798,["Compliance mode enabled, was '2.3.1'"]],
+["sshfs","3.6.0","3.7.3","app-network",1575614682,["Compliance mode enabled, was '3.7.3'"]],
 ["spamassassin","3.4.6","4.0.1","app-network",1620896491,["Compliance mode enabled, was '4.0.1'"]],
 ["xorgxrdp","0.10.3","0.10.4","app-network",1739145564,["Compliance mode enabled, was '0.10.4'"]],
 ["vsftpd","3.0.3","3.0.5","app-network",1696572712,["Compliance mode enabled, was '3.0.5'"]],
