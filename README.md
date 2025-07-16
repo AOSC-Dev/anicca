@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752640420?label=Updated)
+![Relative date](https://img.shields.io/date/1752643229?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -274,7 +274,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-screensaver|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-session|5.8.1|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
-|cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
 |clash-verge-rev|2.2.3|2.3.1|app-proxy|Compliance mode enabled, was '2.3.1'|
 |clazy|1.11|1.15|app-devel|Compliance mode enabled, was '1.15'|
@@ -1088,7 +1087,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitty|0.41.1|0.42.1|app-utils|Compliance mode enabled, was '0.42.1'|
 |kjobwidgets|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjournald|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kjs|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjsembed|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjumpingcube|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kkbswitch-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1514,6 +1512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff+32|4.4.0|4.7.0|runtime-optenv32|Compliance mode enabled, was '4.7.0'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |libtirpc|1.3.1|1.3.6|runtime-common|Compliance mode enabled, was '1.3.6'|
+|libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
 |libtpms|0.9.6|0.10.1|runtime-devices|Compliance mode enabled, was '0.10.1'|
 |libtracefs|1.8.1|1.8.2|runtime-admin|Compliance mode enabled, was '1.8.2'|
 |libtsm|4.0.2|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
