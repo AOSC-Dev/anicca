@@ -2366,7 +2366,6 @@
 ["httpd","2.4.63","2.4.64","app-web",1738155846,["Compliance mode enabled, was '2.4.64'"]],
 ["miniserve","0.29.0","0.31.0","app-web",1741944945,["Compliance mode enabled, was '0.31.0'"]],
 ["certbot-apache","2.10.0","4.1.1","app-web",1716728517,["Compliance mode enabled, was '4.1.1'"]],
-["google-chrome","138.0.7204.100","138.0.7204.157","app-web",1752230083,["Compliance mode enabled, was '138.0.7204.157'"]],
 ["deluge","2.1.1","2.2.0","app-web",1671861997,["Compliance mode enabled, was '2.2.0'"]],
 ["element-desktop","1.11.105","1.11.106","app-web",1751445255,["Compliance mode enabled, was '1.11.106'"]],
 ["lego","4.23.1","4.24.0","app-web",1749897165,["Compliance mode enabled, was '4.24.0'"]],
