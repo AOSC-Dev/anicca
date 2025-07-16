@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752643229?label=Updated)
+![Relative date](https://img.shields.io/date/1752646674?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -274,6 +274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-screensaver|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-session|5.8.1|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
+|cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
 |clash-verge-rev|2.2.3|2.3.1|app-proxy|Compliance mode enabled, was '2.3.1'|
 |clazy|1.11|1.15|app-devel|Compliance mode enabled, was '1.15'|
@@ -935,7 +936,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalk|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kalzium|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kamera|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kamoso|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kanagram|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kapidox|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kapman|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -1087,6 +1087,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitty|0.41.1|0.42.1|app-utils|Compliance mode enabled, was '0.42.1'|
 |kjobwidgets|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjournald|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|kjs|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjsembed|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kjumpingcube|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kkbswitch-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2922,6 +2923,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|2025.03.24.00|2025.07.14.00|app-utils|Compliance mode enabled, was '2025.07.14.00'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
+|wbg|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
