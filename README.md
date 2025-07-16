@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752621166?label=Updated)
+![Relative date](https://img.shields.io/date/1752626969?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -186,10 +186,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.39.4|lang-python|Compliance mode enabled, was '1.39.4'|
-|botocore|1.34.133|1.39.4|lang-python|Compliance mode enabled, was '1.39.4'|
+|boto3|1.20.26|1.39.5|lang-python|Compliance mode enabled, was '1.39.5'|
+|botocore|1.34.133|1.39.5|lang-python|Compliance mode enabled, was '1.39.5'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
-|bottles|2022.2.28<br>+trento<br>+4|51.21|app-utils|Compliance mode enabled, was '51.21'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.21)|
+|bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |bpftrace|0.21.1|0.23.5|app-admin|Compliance mode enabled, was '0.23.5'|
 |breathe|4.35.0|5.0.0~a5|lang-python|Compliance mode enabled, was '5.0.0a5'|
@@ -802,6 +802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdsentinel|0.17|020c|app-utils|Compliance mode enabled, was '020c'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
+|helix|25.01.1|25.07|app-editors|Compliance mode enabled, was '25.07'|
 |helm|3.17.1|3.18.4|app-containers|Compliance mode enabled, was '3.18.4'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
@@ -831,7 +832,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hyperlink|19.0.0|21.0.0|lang-python|Compliance mode enabled, was '21.0.0'|
-|hypothesis-python|6.97.4|6.135.31|lang-python|Compliance mode enabled, was '6.135.31'|
+|hypothesis-python|6.97.4|6.135.32|lang-python|Compliance mode enabled, was '6.135.32'|
 |hysteria|2.6.1|2.6.2|app-proxy|Compliance mode enabled, was '2.6.2'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -919,6 +920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.8.1|lang-python|Compliance mode enabled, was '5.8.1'|
+|just|1.42.1|1.42.2|app-devel|Compliance mode enabled, was '1.42.2'|
 |k3b|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |k3b-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |k9copy-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1224,7 +1226,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |ktuberling|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kturtle|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kubectl|1.32.2|1.33.2|app-containers|Compliance mode enabled, was '1.33.2'|
+|kubectl|1.32.2|1.33.3|app-containers|Compliance mode enabled, was '1.33.3'|
 |kubo|0.33.2|0.36.0|app-proxy|Compliance mode enabled, was '0.36.0'|
 |kubrick|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kunitconversion|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
@@ -1889,14 +1891,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.8.1|runtime-imaging|Compliance mode enabled, was '3.0.8.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.27-ga|11.0.28+5|lang-java||
-|openjdk-17|17.0.15-ga|17.0.16+7|lang-java||
-|openjdk-21|21.0.7-ga|21.0.8+8|lang-java||
+|openjdk-11|11.0.27-ga|11.0.28+6|lang-java||
+|openjdk-17|17.0.15-ga|17.0.16+8|lang-java||
+|openjdk-21|21.0.7-ga|21.0.8+9|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
-|openjdk-24|24.0.1-ga|24.0.1+9|lang-java||
-|openjdk-8|8u452-ga|8u462-b07|lang-java||
-|openjfx-11|11.0.20<br>+1|11.0.28+5|lang-java|Compliance mode enabled, was '11.0.28+5'|
+|openjdk-24|24.0.1-ga|24.0.2+12|lang-java||
+|openjdk-8|8u452-ga|8u472-b00|lang-java||
+|openjfx-11|11.0.20<br>+1|11.0.28+6|lang-java|Compliance mode enabled, was '11.0.28+6'|
 |openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
 |openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
