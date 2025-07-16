@@ -1477,6 +1477,7 @@
 ["arpwatch","3.6","3.8","app-network",1718100133,["Compliance mode enabled, was '3.8'"]],
 ["noip","2.1.9","3.0.0","app-network",1723362514,["Compliance mode enabled, was '3.0.0'"]],
 ["dnsmasq","2.90","2.91","app-network",1716797844,["Compliance mode enabled, was '2.91'"]],
+["mtr","0.95","0.96","app-network",1674452376,["Compliance mode enabled, was '0.96'"]],
 ["lldpd","1.0.18","1.0.19","app-network",1729158390,["Compliance mode enabled, was '1.0.19'"]],
 ["iptraf-ng","1.1.4","1.2.2","app-network",1473801763,["Compliance mode enabled, was '1.2.2'"]],
 ["pktstat","20160317","1.8.5","app-network",1473803173,["Compliance mode enabled, was '1.8.5'","Possible downgrade from the current version (20160317 -> 1.8.5)"]],
