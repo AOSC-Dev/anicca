@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752682534?label=Updated)
+![Relative date](https://img.shields.io/date/1752686099?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -588,7 +588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-awesome|6.6.0|6.7.2|desktop-fonts|Compliance mode enabled, was '6.7.2'|
 |fontconfig|2.15.0|2.17.1|runtime-desktop|Compliance mode enabled, was '2.17.1'|
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
-|fonttools|4.53.1|4.58.5|desktop-fonts|Compliance mode enabled, was '4.58.5'|
+|fonttools|4.53.1|4.59.0|desktop-fonts|Compliance mode enabled, was '4.59.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |foot|1.22.3|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |forgejo|11.0.0|11.0.3|app-web|Compliance mode enabled, was '11.0.3'|
@@ -1704,10 +1704,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
 |mercurial|7.0.2|7.0.3|app-vcs|Compliance mode enabled, was '7.0.3'|
 |merkuro|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|mesa|25.1.4|25.1.5|runtime-display||
-|mesa+32|25.1.4|25.1.5|runtime-optenv32||
-|mesa-amber|21.3.9|25.1.5|runtime-display|Compliance mode enabled, was '25.1.5'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.5|runtime-display|Compliance mode enabled, was '25.1.5'|
+|mesa|25.1.4|25.1.6|runtime-display||
+|mesa+32|25.1.4|25.1.6|runtime-optenv32||
+|mesa-amber|21.3.9|25.1.6|runtime-display|Compliance mode enabled, was '25.1.6'|
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.1.6|runtime-display|Compliance mode enabled, was '25.1.6'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
