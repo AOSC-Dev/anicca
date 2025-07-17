@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752720744?label=Updated)
+![Relative date](https://img.shields.io/date/1752724526?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
@@ -1898,13 +1898,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.8.1|runtime-imaging|Compliance mode enabled, was '3.0.8.1'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.27-ga|11.0.28+6|lang-java||
-|openjdk-17|17.0.15-ga|17.0.16+8|lang-java||
-|openjdk-21|21.0.7-ga|21.0.8+9|lang-java||
+|openjdk-11|11.0.28-ga|11.0.28+6|lang-java||
+|openjdk-17|17.0.16-ga|17.0.16+8|lang-java||
+|openjdk-21|21.0.8-ga|21.0.8+9|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
-|openjdk-24|24.0.1-ga|24.0.2+12|lang-java||
-|openjdk-8|8u452-ga|8u472-b00|lang-java||
+|openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
+|openjdk-8|8u462-ga|8u472-b00|lang-java||
 |openjfx-11|11.0.20<br>+1|11.0.28+6|lang-java|Compliance mode enabled, was '11.0.28+6'|
 |openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
 |openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
@@ -2659,7 +2659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.10.3|runtime-scientific|Compliance mode enabled, was '7.10.3'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.715.130234|app-multimedia|Compliance mode enabled, was '2025.715.130234'|
+|sunshine|2025.122.141614|2025.716.223406|app-multimedia|Compliance mode enabled, was '2025.716.223406'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.13.1|app-creativity|Compliance mode enabled, was '3.13.1'|
 |superslicer|2.7.61.0|2.7.61.6|app-creativity|Compliance mode enabled, was '2.7.61.6'|
@@ -2911,7 +2911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.102.0|1.102.1|app-editors|Compliance mode enabled, was '1.102.1'|
-|vscodium|1.100.33714|1.102.04606|app-editors|Compliance mode enabled, was '1.102.04606'|
+|vscodium|1.100.33714|1.102.14746|app-editors|Compliance mode enabled, was '1.102.14746'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.3|runtime-desktop|Compliance mode enabled, was '0.80.3'|
 |vtk|9.3.0|9.5.0|app-scientific|Compliance mode enabled, was '9.5.0'|
@@ -3037,7 +3037,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.186.8|0.194.3|app-editors|Compliance mode enabled, was '0.194.3'|
+|zed|0.186.8|0.195.3|app-editors|Compliance mode enabled, was '0.195.3'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.3|app-admin|Compliance mode enabled, was '2.3.3'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
