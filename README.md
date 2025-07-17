@@ -1,10 +1,10 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752747256?label=Updated)
+![Relative date](https://img.shields.io/date/1752750757?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
-|0ad|0.0.26|0.27.0|app-games|Compliance mode enabled, was '0.27.0'|
+|0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
 |7-zip|24.09|25.00|app-utils|Compliance mode enabled, was '25.00'|
 |a2ps|4.15.6|4.15.7|app-doc|Compliance mode enabled, was '4.15.7'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
@@ -362,6 +362,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |damo|2.4.7|2.8.9|app-admin|Compliance mode enabled, was '2.8.9'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.7.18|app-utils|Compliance mode enabled, was '2.7.18'|
+|dart-sdk|3.8.1|3.8.2|lang-dart|Compliance mode enabled, was '3.8.2'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
 |davfs2|1.7.0|1.7.1|app-admin|Compliance mode enabled, was '1.7.1'|
@@ -2169,7 +2170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.4.7|8.4.10|app-devel|Compliance mode enabled, was '8.4.10'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|pikepdf|8.15.1|9.10.1|app-doc|Compliance mode enabled, was '9.10.1'|
+|pikepdf|8.15.1|9.10.2|app-doc|Compliance mode enabled, was '9.10.2'|
 |piklab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |pillow|10.4.0|11.3.0|lang-python|Compliance mode enabled, was '11.3.0'|
 |pim-data-exporter|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
