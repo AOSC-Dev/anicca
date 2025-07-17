@@ -1879,7 +1879,7 @@
 ["pexpect","4.8.0","4.9.0","lang-python",1609330974,["Compliance mode enabled, was '4.9.0'"]],
 ["puremagic","1.15","1.30","lang-python",1707299111,["Compliance mode enabled, was '1.30'"]],
 ["bcrypt","4.2.0","4.3.0","lang-python",1738033645,["Compliance mode enabled, was '4.3.0'"]],
-["distlib","0.3.1","0.3.9","lang-python",1609330974,["Compliance mode enabled, was '0.3.9'"]],
+["distlib","0.3.1","0.4.0","lang-python",1609330974,["Compliance mode enabled, was '0.4.0'"]],
 ["regex","2019.02.21","2024.11.6","lang-python",1551200854,["Compliance mode enabled, was '2024.11.6'"]],
 ["python-markdown-math","0.6","0.9","lang-python",1572507479,["Compliance mode enabled, was '0.9'"]],
 ["decorator","4.3.2","5.2.1","lang-python",1549919968,["Compliance mode enabled, was '5.2.1'"]],
