@@ -1413,7 +1413,7 @@
 ["soci","4.0.1","4.1.2","runtime-database",1614161811,["Compliance mode enabled, was '4.1.2'"]],
 ["cowsql","1.15.8","1.15.9","runtime-database",1741368778,["Compliance mode enabled, was '1.15.9'"]],
 ["libpqxx","6.4.5","7.10.1","runtime-database",1569986291,["Compliance mode enabled, was '7.10.1'"]],
-["apache-arrow","19.0.1","20.0.0","runtime-database",1750139581,["Compliance mode enabled, was '20.0.0'"]],
+["apache-arrow","19.0.1","21.0.0","runtime-database",1750139581,["Compliance mode enabled, was '21.0.0'"]],
 ["freetds","1.00.112","1.5.4","runtime-database",1565150265,["Compliance mode enabled, was '1.5.4'"]],
 ["gom","0.4","0.5.3","runtime-database",1619939232,["Compliance mode enabled, was '0.5.3'"]],
 ["deno","1.44.1","2.4.2","lang-js",1718853150,["Compliance mode enabled, was '2.4.2'"]],
