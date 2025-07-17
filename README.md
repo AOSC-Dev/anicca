@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752786786?label=Updated)
+![Relative date](https://img.shields.io/date/1752790442?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1837,9 +1837,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4.12.0|app-network|Compliance mode enabled, was '4.12.0'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.36|runtime-common|Compliance mode enabled, was '4.36'|
-|nspr+32|4.35|4.36|runtime-optenv32|Compliance mode enabled, was '4.36'|
-|nss|3.113|3.113.1|runtime-cryptography|Compliance mode enabled, was '3.113.1'|
-|nss+32|3.113|3.113.1|runtime-optenv32|Compliance mode enabled, was '3.113.1'|
+|nspr+32|4.35|4.37|runtime-optenv32|Compliance mode enabled, was '4.37'|
+|nss|3.113|3.114|runtime-cryptography|Compliance mode enabled, was '3.114'|
+|nss+32|3.113|3.114|runtime-optenv32|Compliance mode enabled, was '3.114'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.7|app-utils|Compliance mode enabled, was '3.4.7'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
