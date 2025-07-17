@@ -2122,7 +2122,7 @@
 ["sonic-visualiser","4.4","5.2.1","app-multimedia",1641879076,["Compliance mode enabled, was '5.2.1'"]],
 ["speakersafetyd","1.0.2","1.1.2","app-multimedia",1740327598,["Compliance mode enabled, was '1.1.2'"]],
 ["calf","0.90.3","0.90.8","app-multimedia",1729943652,["Compliance mode enabled, was '0.90.8'"]],
-["sunshine","2025.122.141614","2025.716.223406","app-multimedia",1730185056,["Compliance mode enabled, was '2025.716.223406'"]],
+["sunshine","2025.122.141614","2025.717.152211","app-multimedia",1730185056,["Compliance mode enabled, was '2025.717.152211'"]],
 ["subtitleripper","0.3.4","0.3","app-multimedia",1678950872,["Compliance mode enabled, was '0.3'","Possible downgrade from the current version (0.3.4 -> 0.3)"]],
 ["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["vlc","3.0.21","3.0.21+1","app-multimedia",1748844653,["Compliance mode enabled, was '3.0.21-1'"]],
