@@ -2185,7 +2185,7 @@
 ["pcre2","10.44","10.45","runtime-common",1720106309,["Compliance mode enabled, was '10.45'"]],
 ["libsass","3.6.4","3.6.6","runtime-common",1600321917,["Compliance mode enabled, was '3.6.6'"]],
 ["liburcu","0.14.0","0.15.3","runtime-common",1707183493,["Compliance mode enabled, was '0.15.3'"]],
-["re2","2024-06-01","2025-06-26","runtime-common",1737436557,[]],
+["re2","2024-06-01","2025-07-17","runtime-common",1737436557,[]],
 ["iniparser","4.2.4","4.2.6","runtime-common",1732675271,["Compliance mode enabled, was '4.2.6'"]],
 ["cppdap","1.58.0+a","1.58.0-a","runtime-common",1707464829,["Compliance mode enabled, was '1.58.0-a'"]],
 ["tinyxml2","10.0.0","11.0.0","runtime-common",1727581856,["Compliance mode enabled, was '11.0.0'"]],
