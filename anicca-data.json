@@ -575,7 +575,6 @@
 ["i2c-tools","4.1","4.4","app-utils",1551380864,["Compliance mode enabled, was '4.4'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
 ["plocate","1.1.22","1.1.23","app-utils",1710436877,["Compliance mode enabled, was '1.1.23'"]],
-["eza","0.22.1","0.23.0","app-utils",1752450971,["Compliance mode enabled, was '0.23.0'"]],
 ["libva-utils","2.21.0","2.22.0","app-utils",1712420542,["Compliance mode enabled, was '2.22.0'"]],
 ["pciutils","3.13.0","3.14.0","app-utils",1730451438,["Compliance mode enabled, was '3.14.0'"]],
 ["kmscon","9.0.0","9.1.0","app-utils",1724054351,["Compliance mode enabled, was '9.1.0'"]],
