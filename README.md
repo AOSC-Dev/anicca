@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753018024?label=Updated)
+![Relative date](https://img.shields.io/date/1753020664?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -537,6 +537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-rime|5.1.10|5.1.11|app-i18n|Compliance mode enabled, was '5.1.11'|
 |fcitx5-sayura|5.1.3|5.1.4|app-i18n|Compliance mode enabled, was '5.1.4'|
 |fcitx5-skk|5.1.6|5.1.7|app-i18n|Compliance mode enabled, was '5.1.7'|
+|fcitx5-theme-opensuse|0.1.0<br>+git20231211|0.1.0|app-i18n|Compliance mode enabled, was '0.1.0'|
 |fcitx5-unikey|5.1.6|5.1.7|app-i18n|Compliance mode enabled, was '5.1.7'|
 |fcron|3.4.0|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.4.0 -> 3.3.0)|
 |feedbackd|0.2.1|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
@@ -1991,7 +1992,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.44|10.45|runtime-common|Compliance mode enabled, was '10.45'|
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
-|pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
 |pcsx2|1.6.0<br>+git20210825|2.5.74|app-games|Compliance mode enabled, was '2.5.74'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
