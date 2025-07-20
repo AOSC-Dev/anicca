@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1752988759?label=Updated)
+![Relative date](https://img.shields.io/date/1752992189?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1167,7 +1167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopete|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kopete-otr-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |korganizer|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kose-font|3.120|3.122|desktop-fonts|Compliance mode enabled, was '3.122'|
+|kose-font|3.120|3.123|desktop-fonts|Compliance mode enabled, was '3.123'|
 |kosmindoormap|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kpackage|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kparts|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
@@ -1633,7 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.33|app-admin|Compliance mode enabled, was '2.03.33'|
 |lxc|6.0.1|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
 |lxcfs|3.0.3|6.0.4|app-admin|Compliance mode enabled, was '6.0.4'|
-|lxgwcleargothic-font|0.300.4|0.502.3|desktop-fonts|Compliance mode enabled, was '0.502.3'|
+|lxgwcleargothic-font|0.300.4|0.503|desktop-fonts|Compliance mode enabled, was '0.503'|
 |lxgwneoxihei-font|1.213|1.218.1|desktop-fonts|Compliance mode enabled, was '1.218.1'|
 |lxgwwenkai-font|1.510|1.520|desktop-fonts|Compliance mode enabled, was '1.520'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
