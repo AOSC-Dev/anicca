@@ -2293,7 +2293,6 @@
 ["texstudio","4.8.6","4.8.8","app-doc",1744454846,["Compliance mode enabled, was '4.8.8'"]],
 ["qpdf","11.9.0","12.2.0","app-doc",1712074122,["Compliance mode enabled, was '12.2.0'"]],
 ["sphinx-press-theme","0.8.0","0.9.1","app-doc",1682100878,["Compliance mode enabled, was '0.9.1'"]],
-["sphinxcontrib-devhelp","1.0.2","2.0.0","app-doc",1584399079,["Compliance mode enabled, was '2.0.0'"]],
 ["mupdf","1.24.10","1.26.3","app-doc",1728997610,["Compliance mode enabled, was '1.26.3'"]],
 ["ocrmypdf","16.5.0","16.10.4","app-doc",1729704733,["Compliance mode enabled, was '16.10.4'"]],
 ["xalan-c","1.12","1.12.0","app-doc",1721223235,["Compliance mode enabled, was '1.12.0'"]],
