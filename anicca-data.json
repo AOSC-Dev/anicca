@@ -1890,6 +1890,7 @@
 ["requests","2.32.3","2.32.4","lang-python",1717411429,["Compliance mode enabled, was '2.32.4'"]],
 ["deprecated","1.2.14","1.2.18","lang-python",1722488599,["Compliance mode enabled, was '1.2.18'"]],
 ["six","1.16.0","1.17.0","lang-python",1551204055,["Compliance mode enabled, was '1.17.0'"]],
+["python-evdev","1.7.1","1.9.2","lang-python",1718853220,["Compliance mode enabled, was '1.9.2'"]],
 ["pycodestyle","2.7.0","2.14.0","lang-python",1619939108,["Compliance mode enabled, was '2.14.0'"]],
 ["hatch-fancy-pypi-readme","24.1.0","25.1.0","lang-python",1718936001,["Compliance mode enabled, was '25.1.0'"]],
 ["pbr","6.0.0","6.1.1","lang-python",1724639794,["Compliance mode enabled, was '6.1.1'"]],
