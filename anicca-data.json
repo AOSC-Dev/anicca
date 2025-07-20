@@ -1341,7 +1341,7 @@
 ["vscodium","1.100.33714","1.102.14746","app-editors",1749107090,["Compliance mode enabled, was '1.102.14746'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["zed","0.186.8","0.195.5","app-editors",1747382075,["Compliance mode enabled, was '0.195.5'"]],
-["vim","9.1.1537","9.1.1566","app-editors",1752232490,["Compliance mode enabled, was '9.1.1566'"]],
+["vim","9.1.1537","9.1.1572","app-editors",1752232490,["Compliance mode enabled, was '9.1.1572'"]],
 ["liblouis","3.12.0","3.34.0","runtime-a11y",1577438505,["Compliance mode enabled, was '3.34.0'"]],
 ["fcitx5-skk","5.1.6","5.1.7","app-i18n",1737781666,["Compliance mode enabled, was '5.1.7'"]],
 ["crow-translate","2.11.1","3.1.0","app-i18n",1734429425,["Compliance mode enabled, was '3.1.0'"]],
