@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753031442?label=Updated)
+![Relative date](https://img.shields.io/date/1753035330?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -130,6 +130,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.0|app-admin|Compliance mode enabled, was '4.1.0'|
 |autobahn|19.2.1|24.4.2|lang-python|Compliance mode enabled, was '24.4.2'|
+|autobuild4|4.12.2|4.12.4|app-devel|Compliance mode enabled, was '4.12.4'|
 |autoconf-archive|2023.02.20|2024.10.16|app-devel|Compliance mode enabled, was '2024.10.16'|
 |automake|1.18|1.18.1|app-devel|Compliance mode enabled, was '1.18.1'|
 |automat|20.2.0|25.4.16|lang-python|Compliance mode enabled, was '25.4.16'|
@@ -2171,8 +2172,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|pixman|0.43.0|0.46.2|runtime-display|Compliance mode enabled, was '0.46.2'|
-|pixman+32|0.43.0|0.46.2|runtime-optenv32|Compliance mode enabled, was '0.46.2'|
+|pixman|0.43.0|0.46.4|runtime-display|Compliance mode enabled, was '0.46.4'|
+|pixman+32|0.43.0|0.46.4|runtime-optenv32|Compliance mode enabled, was '0.46.4'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkgconf|2.5.1|1.2.68|app-devel|Compliance mode enabled, was '1.2.68'<br>Possible downgrade from the current version (2.5.1 -> 1.2.68)|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
