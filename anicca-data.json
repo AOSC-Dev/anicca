@@ -1336,7 +1336,6 @@
 ["jasper","2.0.21","4.2.5","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.5'"]],
 ["openimagedenoise","1.4.3","2.3.3","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.3'"]],
 ["libpng","1.6.44","1.6.50","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.50'"]],
-["vscode","1.102.0","1.102.1","app-editors",1752365612,["Compliance mode enabled, was '1.102.1'"]],
 ["liteide","38.3","38.4","app-editors",1712458054,["Compliance mode enabled, was '38.4'"]],
 ["helix","25.01.1","25.07.1","app-editors",1739350454,["Compliance mode enabled, was '25.07.1'"]],
 ["vscodium","1.100.33714","1.102.14746","app-editors",1749107090,["Compliance mode enabled, was '1.102.14746'"]],
