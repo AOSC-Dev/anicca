@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753009838?label=Updated)
+![Relative date](https://img.shields.io/date/1753013964?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -323,7 +323,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |coreboot-utils|24.08|25.06|app-admin|Compliance mode enabled, was '25.06'|
-|corefreq|20170301|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'<br>Possible downgrade from the current version (20170301 -> 2.0.7)|
 |corrosion|0.4.10|0.5.2|app-devel|Compliance mode enabled, was '0.5.2'|
 |corsixth|0.68.0|0.69.0|app-games|Compliance mode enabled, was '0.69.0'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
@@ -1105,7 +1104,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |klamav-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |klcddimmer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kldap|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kleopatra|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |klettres|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |klickety|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |klines|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -1995,7 +1993,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.1|1.7.3|app-devices|Compliance mode enabled, was '1.7.3'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.73|app-games|Compliance mode enabled, was '2.5.73'|
+|pcsx2|1.6.0<br>+git20210825|2.5.74|app-games|Compliance mode enabled, was '2.5.74'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
