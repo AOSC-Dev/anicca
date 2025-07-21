@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753132327?label=Updated)
+![Relative date](https://img.shields.io/date/1753136004?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1746,7 +1746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
 |musicfox|4.6.2|4.6.3|app-multimedia|Compliance mode enabled, was '4.6.3'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
-|mvfst|2025.03.24.00|2025.07.14.00|runtime-network|Compliance mode enabled, was '2025.07.14.00'|
+|mvfst|2025.03.24.00|2025.07.21.00|runtime-network|Compliance mode enabled, was '2025.07.21.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.36.0|app-database|Compliance mode enabled, was '1.36.0'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -1924,7 +1924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.607.1|2025.718.0-tachyon|app-games|Compliance mode enabled, was '2025.718.0-tachyon'|
+|osu-lazer|2025.607.1|2025.721.0-tachyon|app-games|Compliance mode enabled, was '2025.721.0-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |oxygen-icons|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
