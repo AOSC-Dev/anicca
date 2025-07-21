@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753078724?label=Updated)
+![Relative date](https://img.shields.io/date/1753082463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1593,6 +1593,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-rc|6.16.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.0 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'|
 |linux-kernel-retro-minimal|5.15.17|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'<br>Possible downgrade from the current version (5.15.17 -> 5.10.240)|
+|linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.9.7|app-admin|Compliance mode enabled, was '1.9.7'|
 |linyaps-web-store-installer|1.6.3|1.6.6|app-admin|Compliance mode enabled, was '1.6.6'|
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
