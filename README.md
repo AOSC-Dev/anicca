@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753070804?label=Updated)
+![Relative date](https://img.shields.io/date/1753075351?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2892,7 +2892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
 |virtualbox|7.1.8|7.1.12|app-virtualization|Compliance mode enabled, was '7.1.12'|
-|virtualenv|20.27.1|20.31.2|lang-python|Compliance mode enabled, was '20.31.2'|
+|virtualenv|20.27.1|20.32.0|lang-python|Compliance mode enabled, was '20.32.0'|
 |vkd3d|1.15|1.16|runtime-display|Compliance mode enabled, was '1.16'|
 |vkd3d+32|1.9|1.16|runtime-optenv32|Compliance mode enabled, was '1.16'|
 |vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
@@ -2946,6 +2946,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
+|wofi|1.4.1|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.17.2|lang-python|Compliance mode enabled, was '1.17.2'|
