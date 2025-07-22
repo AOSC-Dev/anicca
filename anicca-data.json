@@ -2377,6 +2377,7 @@
 ["httpd","2.4.63","2.4.64","app-web",1738155846,["Compliance mode enabled, was '2.4.64'"]],
 ["miniserve","0.29.0","0.31.0","app-web",1741944945,["Compliance mode enabled, was '0.31.0'"]],
 ["certbot-apache","2.10.0","4.1.1","app-web",1716728517,["Compliance mode enabled, was '4.1.1'"]],
+["google-chrome","138.0.7204.157","138.0.7204.168","app-web",1752637078,["Compliance mode enabled, was '138.0.7204.168'"]],
 ["deluge","2.1.1","2.2.0","app-web",1671861997,["Compliance mode enabled, was '2.2.0'"]],
 ["certbot-dns-cloudflare","2.10.0","4.1.1","app-web",1716728302,["Compliance mode enabled, was '4.1.1'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
