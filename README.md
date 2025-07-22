@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753145424?label=Updated)
+![Relative date](https://img.shields.io/date/1753152870?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -65,7 +65,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|ansible|2.12.1|2.18.7|app-admin|Compliance mode enabled, was '2.18.7'|
+|ansible|2.12.1|2.19.0|app-admin|Compliance mode enabled, was '2.19.0'|
 |anyio|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |aom|3.11.0|3.12.1|runtime-multimedia|Compliance mode enabled, was '3.12.1'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
@@ -277,6 +277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
+|clash-verge-rev|2.3.1|2.3.2|app-proxy|Compliance mode enabled, was '2.3.2'|
 |clazy|1.11|1.15|app-devel|Compliance mode enabled, was '1.15'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.6.0|lang-python|Compliance mode enabled, was '2.6.0'|
@@ -870,7 +871,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-media-driver|25.2.6|25.3.0|runtime-multimedia|Compliance mode enabled, was '25.3.0'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
-|iosevka-fonts|33.2.6|33.2.7|desktop-fonts|Compliance mode enabled, was '33.2.7'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iperf3|3.17.1|3.19|app-network|Compliance mode enabled, was '3.19'|
@@ -2429,6 +2429,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-core|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-device-libs|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-half|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipblas|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipblas-common|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipblaslt|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipcub|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipfft|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipfort|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipify|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hiprand|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
+|rocm-hipsparse|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-llama-cpp|6.4.1|5954|runtime-rocm|Compliance mode enabled, was '5954'|
 |rocm-llvm|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-rccl|6.4.1|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.1 -> 3.3.0)|
@@ -2481,7 +2490,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
-|sarasa-gothic-fonts|1.0.31|1.0.32|desktop-fonts|Compliance mode enabled, was '1.0.32'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
 |sbc+32|2.0|2.1|runtime-optenv32|Compliance mode enabled, was '2.1'|
