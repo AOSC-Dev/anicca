@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753193757?label=Updated)
+![Relative date](https://img.shields.io/date/1753197373?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -578,7 +578,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
 |fonttools|4.53.1|4.59.0|desktop-fonts|Compliance mode enabled, was '4.59.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
-|foot|1.22.3|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |forgejo|11.0.0|12.0.0|app-web|Compliance mode enabled, was '12.0.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
@@ -1932,6 +1931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packaging|24.2|25.0|lang-python|Compliance mode enabled, was '25.0'|
 |pacman|6.0.1|7.0.0|app-admin|Compliance mode enabled, was '7.0.0'|
 |pahole|1.25|1.30|app-utils|Compliance mode enabled, was '1.30'|
+|pakfixer|0.1.4|0.1.3|app-utils|Compliance mode enabled, was '0.1.3'<br>Possible downgrade from the current version (0.1.4 -> 0.1.3)|
 |palapeli|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
