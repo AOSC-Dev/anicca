@@ -955,7 +955,6 @@
 ["avr-binutils","2.37","2.44","app-devel",1634066043,["Compliance mode enabled, was '2.44'"]],
 ["checksec","2.7.1","3.0.2","app-devel",1720958986,["Compliance mode enabled, was '3.0.2'"]],
 ["vasm","1.9f","2.0.c","app-devel",1710150622,["Compliance mode enabled, was '2.0.c'"]],
-["just","1.42.2","1.42.3","app-devel",1753017723,["Compliance mode enabled, was '1.42.3'"]],
 ["uncrustify","0.78.1","0.81.0","app-devel",1704791250,["Compliance mode enabled, was '0.81.0'"]],
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
 ["cuda","12.9.0","12.9.1","app-devel",1748731552,[]],
