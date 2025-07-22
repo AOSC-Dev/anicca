@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753215367?label=Updated)
+![Relative date](https://img.shields.io/date/1753218861?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -186,8 +186,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.39.10|lang-python|Compliance mode enabled, was '1.39.10'|
-|botocore|1.34.133|1.39.10|lang-python|Compliance mode enabled, was '1.39.10'|
+|boto3|1.20.26|1.39.11|lang-python|Compliance mode enabled, was '1.39.11'|
+|botocore|1.34.133|1.39.11|lang-python|Compliance mode enabled, was '1.39.11'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -259,12 +259,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
+|chezmoi|2.63.0|2.63.1|app-utils|Compliance mode enabled, was '2.63.1'|
 |chinadns-ng|2024.07.16|2025.06.20|app-web|Compliance mode enabled, was '2025.06.20'|
 |chiron-sans-hk|2.046|2.530|desktop-fonts|Compliance mode enabled, was '2.530'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|chromium|135.0.7049.95|138.0.7204.157|app-web|Compliance mode enabled, was '138.0.7204.157'|
+|chromium|135.0.7049.95|138.0.7204.168|app-web|Compliance mode enabled, was '138.0.7204.168'|
 |chrony|4.5|4.7|app-admin|Compliance mode enabled, was '4.7'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.4|app-network|Compliance mode enabled, was '7.4'|
@@ -475,7 +476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |embree|4.3.1|4.4.0|app-imaging|Compliance mode enabled, was '4.4.0'|
 |emerald|0.8.12.4|0.8.18|desktop-wm|Compliance mode enabled, was '0.8.18'|
 |enchant|1-6-1|1.6.0|app-i18n|Possible downgrade from the current version (1-6-1 -> 1.6.0)|
-|enchant-2|2.3.1|2.8.10|app-i18n|Compliance mode enabled, was '2.8.10'|
+|enchant-2|2.3.1|2.8.11|app-i18n|Compliance mode enabled, was '2.8.11'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |endless-sky|0.10.10|0.10.14|app-games|Compliance mode enabled, was '0.10.14'|
 |entrypoints|0.3|0.4|lang-python|Compliance mode enabled, was '0.4'|
@@ -2866,7 +2867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41.1|app-utils|Compliance mode enabled, was '2.41.1'|
 |util-linux+32|2.40.4|2.41.1|runtime-optenv32|Compliance mode enabled, was '2.41.1'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|uv|0.8.0|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
+|uv|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |v2ray|5.35.0|5.37.0|app-proxy|Compliance mode enabled, was '5.37.0'|
 |v2ray-rules-dat|202501302211|202507212215|runtime-data|Compliance mode enabled, was '202507212215'<br>Versions not comparable: `202501302211` and `202507212215`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
