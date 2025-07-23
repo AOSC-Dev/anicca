@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753243102?label=Updated)
+![Relative date](https://img.shields.io/date/1753245295?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -91,6 +91,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
 |argyllcms|3.3.0|3.4.0|app-imaging|Compliance mode enabled, was '3.4.0'|
 |arianna|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|ark|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |arpack-ng|3.8.0|3.9.1|app-scientific|Compliance mode enabled, was '3.9.1'|
 |arping|2.25|2.26|app-network|Compliance mode enabled, was '2.26'|
 |arpwatch|3.6|3.8|app-network|Compliance mode enabled, was '3.8'|
@@ -930,6 +931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kamera|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kamoso|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kanagram|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|kanshi|1.7.0|1.8.0|app-utils|Compliance mode enabled, was '1.8.0'|
 |kapidox|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kapman|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kapptemplate|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2949,7 +2951,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
-|wmutils|20170223|1.7|app-utils|Compliance mode enabled, was '1.7'<br>Possible downgrade from the current version (20170223 -> 1.7)|
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.17.2|lang-python|Compliance mode enabled, was '1.17.2'|
