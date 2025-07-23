@@ -1650,7 +1650,7 @@
 ["autobahn","19.2.1","24.4.2","lang-python",1550981442,["Compliance mode enabled, was '24.4.2'"]],
 ["executing","2.1.0","2.2.0","lang-python",1728614181,["Compliance mode enabled, was '2.2.0'"]],
 ["trio","0.24.0","0.30.0","lang-python",1708685051,["Compliance mode enabled, was '0.30.0'"]],
-["reportlab","3.5.50","4.4.2","lang-python",1600671246,["Compliance mode enabled, was '4.4.2'"]],
+["reportlab","3.5.50","4.4.3","lang-python",1600671246,["Compliance mode enabled, was '4.4.3'"]],
 ["stopit","0+git20190827","1.1.2","lang-python",1614351126,["Compliance mode enabled, was '1.1.2'"]],
 ["pyasn1","0.4.8","0.6.1","lang-python",1581796621,["Compliance mode enabled, was '0.6.1'"]],
 ["isort","4.3.21","6.0.1","lang-python",1581796621,["Compliance mode enabled, was '6.0.1'"]],
