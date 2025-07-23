@@ -27,7 +27,7 @@
 ["apt","3.0.2","3.1.3","app-admin",1748488865,["Compliance mode enabled, was '3.1.3'"]],
 ["sssd","2.9.5","2.11.0","app-admin",1748157306,["Compliance mode enabled, was '2.11.0'"]],
 ["thin-provisioning-tools","1.0.10","1.2.0","app-admin",1707524018,["Compliance mode enabled, was '1.2.0'"]],
-["cockpit","286.1","342","app-admin",1678351353,["Compliance mode enabled, was '342'"]],
+["cockpit","286.1","343","app-admin",1678351353,["Compliance mode enabled, was '343'"]],
 ["lvm2","2.03.14","2.03.33","app-admin",1641887332,["Compliance mode enabled, was '2.03.33'"]],
 ["shadow","4.17.2","4.18.0","app-admin",1737808754,["Compliance mode enabled, was '4.18.0'"]],
 ["partclone","0.3.20","0.3.37","app-admin",1660376240,["Compliance mode enabled, was '0.3.37'"]],
