@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753255096?label=Updated)
+![Relative date](https://img.shields.io/date/1753258636?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -580,6 +580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
 |fonttools|4.53.1|4.59.0|desktop-fonts|Compliance mode enabled, was '4.59.0'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
+|foot|1.23.0|1.23.1|app-utils|Compliance mode enabled, was '1.23.1'|
 |forgejo|11.0.0|12.0.0|app-web|Compliance mode enabled, was '12.0.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
@@ -650,7 +651,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.74.0|1.84.2|desktop-gnome|Compliance mode enabled, was '1.84.2'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
-|glab|1.63.0|1.62.0|app-devel|Compliance mode enabled, was '1.62.0'<br>Possible downgrade from the current version (1.63.0 -> 1.62.0)|
+|glab|1.63.0|1.64.0|app-devel|Compliance mode enabled, was '1.64.0'|
 |glances|4.0.5|4.3.3|app-admin|Compliance mode enabled, was '4.3.3'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
 |glib|2.84.0|2.84.3|runtime-common|Compliance mode enabled, was '2.84.3'|
@@ -2870,7 +2871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |v2ray|5.35.0|5.37.0|app-proxy|Compliance mode enabled, was '5.37.0'|
-|v2ray-rules-dat|202501302211|202507212215|runtime-data|Compliance mode enabled, was '202507212215'<br>Versions not comparable: `202501302211` and `202507212215`|
+|v2ray-rules-dat|202501302211|202507222214|runtime-data|Compliance mode enabled, was '202507222214'<br>Versions not comparable: `202501302211` and `202507222214`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
