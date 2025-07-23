@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753308757?label=Updated)
+![Relative date](https://img.shields.io/date/1753312351?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1126,7 +1126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knowit-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knutclient-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kodi|21.2|21.1|app-multimedia|Compliance mode enabled, was '21.1'<br>Possible downgrade from the current version (21.2 -> 21.1)|
-|kodi-inputstream-adaptive|21.5.14|22.2.5-piers|app-multimedia|Compliance mode enabled, was '22.2.5-Piers'|
+|kodi-inputstream-adaptive|21.5.14|22.2.6-piers|app-multimedia|Compliance mode enabled, was '22.2.6-Piers'|
 |kodi-inputstream-ffmpegdirect|21.3.7|22.1.2-piers|app-multimedia|Compliance mode enabled, was '22.1.2-Piers'|
 |kodi-inputstream-rtmp|21.1.2|2.0.2|app-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (21.1.2 -> 2.0.2)|
 |kodi-pvr-iptvsimple|21.10.2|22.5.1-piers|app-multimedia|Compliance mode enabled, was '22.5.1-Piers'|
@@ -1580,7 +1580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|5970|runtime-creativity|Compliance mode enabled, was '5970'|
+|llama.cpp|5298|5973|runtime-creativity|Compliance mode enabled, was '5973'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|18.1.8|20.1.8|runtime-optenv32|Compliance mode enabled, was '20.1.8'|
@@ -2259,7 +2259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|lang-python|Compliance mode enabled, was '2.0.4'|
 |pycurl|7.45.3|7.45.6|lang-python|Compliance mode enabled, was '7.45.6'|
 |pydantic|2.6.0|2.11.7|lang-python|Compliance mode enabled, was '2.11.7'|
-|pydantic-core|2.16.1|2.35.2|lang-python|Compliance mode enabled, was '2.35.2'|
+|pydantic-core|2.16.1|2.36.0|lang-python|Compliance mode enabled, was '2.36.0'|
 |pydot|1.4.1|4.0.1|lang-python|Compliance mode enabled, was '4.0.1'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
@@ -2439,7 +2439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-hiprand|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-hipsparse|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
-|rocm-llama-cpp|6.4.1|5970|runtime-rocm|Compliance mode enabled, was '5970'|
+|rocm-llama-cpp|6.4.1|5973|runtime-rocm|Compliance mode enabled, was '5973'|
 |rocm-llvm|6.4.1|6.4.2|runtime-rocm|Compliance mode enabled, was '6.4.2'|
 |rocm-rccl|6.4.1|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.1 -> 3.3.0)|
 |rocm-rocblas|6.4.1|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
