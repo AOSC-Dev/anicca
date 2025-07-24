@@ -44,6 +44,7 @@
 ["catatonit","0.2.0","0.2.1","app-admin",1727788579,["Compliance mode enabled, was '0.2.1'"]],
 ["cryptsetup","2.7.5","2.8.0","app-admin",1733105769,["Compliance mode enabled, was '2.8.0'"]],
 ["linyaps","1.6.3","1.9.7","app-admin",1739068944,["Compliance mode enabled, was '1.9.7'"]],
+["dkcli","0.4.6","0.4.7","app-admin",1748540663,["Compliance mode enabled, was '0.4.7'"]],
 ["ansible","2.12.1","2.19.0","app-admin",1641887332,["Compliance mode enabled, was '2.19.0'"]],
 ["bolt","0.9.8","0.9.10","app-admin",1717415630,["Compliance mode enabled, was '0.9.10'"]],
 ["mokutil","0.6.0","0.7.2","app-admin",1715084359,["Compliance mode enabled, was '0.7.2'"]],
