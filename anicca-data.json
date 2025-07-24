@@ -502,7 +502,7 @@
 ["aide","0.16.2","0.19.1","app-utils",1600710259,["Compliance mode enabled, was '0.19.1'"]],
 ["heatshrink","0.4.1","0.3.0","app-utils",1743063265,["Compliance mode enabled, was '0.3.0'","Possible downgrade from the current version (0.4.1 -> 0.3.0)"]],
 ["tinty","0.27.0","0.28.0","app-utils",1745017057,["Compliance mode enabled, was '0.28.0'"]],
-["cherry-studio","1.5.1","1.5.2","app-utils",1752946797,["Compliance mode enabled, was '1.5.2'"]],
+["cherry-studio","1.5.1","1.5.3","app-utils",1752946797,["Compliance mode enabled, was '1.5.3'"]],
 ["cmix","20","21","app-utils",1710985220,["Compliance mode enabled, was '21'"]],
 ["unace","2.5","2.5.orig","app-utils",1469374509,["Compliance mode enabled, was '2.5.orig'","Possible downgrade from the current version (2.5 -> 2.5.orig)"]],
 ["atuin","18.5.0","18.7.1","app-utils",1744945920,["Compliance mode enabled, was '18.7.1'"]],
