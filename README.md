@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753384490?label=Updated)
+![Relative date](https://img.shields.io/date/1753387950?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -187,8 +187,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.39.12|lang-python|Compliance mode enabled, was '1.39.12'|
-|botocore|1.34.133|1.39.12|lang-python|Compliance mode enabled, was '1.39.12'|
+|boto3|1.20.26|1.39.13|lang-python|Compliance mode enabled, was '1.39.13'|
+|botocore|1.34.133|1.39.13|lang-python|Compliance mode enabled, was '1.39.13'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -563,7 +563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fizz|2025.03.24.00|2025.07.21.00|app-network|Compliance mode enabled, was '2025.07.21.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
-|flashrom|1.3.0|1.5.1|app-admin|Compliance mode enabled, was '1.5.1'|
+|flashrom|1.3.0|1.6.0|app-admin|Compliance mode enabled, was '1.6.0'|
 |flask|3.0.3|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |flat-remix-icon-theme|20240201|20250709|desktop-themes|Compliance mode enabled, was '20250709'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
@@ -2853,7 +2853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unixbench|5.1.3|6.0.0|app-benchmarks|Compliance mode enabled, was '6.0.0'|
 |unixodbc|2.3.9|2.3.12|app-database|Compliance mode enabled, was '2.3.12'|
 |unnamed-sdvx-clone|0.5.0|0.6.0|app-games|Compliance mode enabled, was '0.6.0'|
-|unrar|6.2.2|7.1.8|app-utils|Compliance mode enabled, was '7.1.8'|
+|unrar|6.2.2|7.1.9|app-utils|Compliance mode enabled, was '7.1.9'|
 |unshield|1.4.3|1.6.2|app-utils|Compliance mode enabled, was '1.6.2'|
 |upower|1.90.6|1.90.9|app-admin|Compliance mode enabled, was '1.90.9'|
 |upx|4.2.4|5.0.2|app-devel|Compliance mode enabled, was '5.0.2'|
