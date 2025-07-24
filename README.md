@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753341440?label=Updated)
+![Relative date](https://img.shields.io/date/1753345024?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1049,7 +1049,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khtml|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |ki18n|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kiconthemes|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
-|kid3|3.9.5|3.9.6|app-multimedia|Compliance mode enabled, was '3.9.6'|
+|kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kidletime|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kig|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -1560,8 +1560,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.76|1.4.79|app-network|Compliance mode enabled, was '1.4.79'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.39|core-devel|Compliance mode enabled, was '6.12.39'|
-|linux+api+32|6.12.7|6.12.39|runtime-optenv32|Compliance mode enabled, was '6.12.39'|
+|linux+api|6.12.30|6.12.40|core-devel|Compliance mode enabled, was '6.12.40'|
+|linux+api+32|6.12.7|6.12.40|runtime-optenv32|Compliance mode enabled, was '6.12.40'|
 |linux+kernel|6.14.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.11 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
 |linux+kernel+lts|6.12.35|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'<br>Possible downgrade from the current version (6.12.35 -> 5.10.240)|
