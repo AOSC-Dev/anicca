@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753460173?label=Updated)
+![Relative date](https://img.shields.io/date/1753463656?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -66,7 +66,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |angelfish|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.19.0|app-admin|Compliance mode enabled, was '2.19.0'|
-|anubis|1.21.0|1.21.2|app-web|Compliance mode enabled, was '1.21.2'|
+|anubis|1.21.0|1.21.3|app-web|Compliance mode enabled, was '1.21.3'|
 |anyio|4.8.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |aom|3.11.0|3.12.1|runtime-multimedia|Compliance mode enabled, was '3.12.1'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
@@ -1799,10 +1799,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |nftables|1.0.9|1.1.3|app-network|Compliance mode enabled, was '1.1.3'|
 |nghttp2|1.65.0|1.66.0|runtime-web|Compliance mode enabled, was '1.66.0'|
-|nghttp3|1.3.0|1.10.1|runtime-web|Compliance mode enabled, was '1.10.1'|
+|nghttp3|1.3.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
 |nginx|1.27.4|1.29.0|app-web|Compliance mode enabled, was '1.29.0'|
 |ngspice|35|44.2|app-electronics|Compliance mode enabled, was '44.2'|
-|ngtcp2|1.5.0|1.13.0|runtime-web|Compliance mode enabled, was '1.13.0'|
+|ngtcp2|1.5.0|1.14.0|runtime-web|Compliance mode enabled, was '1.14.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
 |ninja|1.12.1|1.13.1|app-devel|Compliance mode enabled, was '1.13.1'|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
@@ -1833,7 +1833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|2.15.1|2.18|app-utils|Compliance mode enabled, was '2.18'|
 |nvidia|575.64|575.64.05|runtime-display|Compliance mode enabled, was '575.64.05'|
 |nvidia-open|575.64|575.64.05|runtime-display|Compliance mode enabled, was '575.64.05'|
-|nvme-cli|2.11|2.14|app-admin|Compliance mode enabled, was '2.14'|
+|nvme-cli|2.11|2.15|app-admin|Compliance mode enabled, was '2.15'|
 |oauthlib|3.2.2|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |obconf-qt|0.16.4|0.16.5|desktop-lxqt|Compliance mode enabled, was '0.16.5'|
 |ocaml|4.14.2|5.3.0|lang-ocaml|Compliance mode enabled, was '5.3.0'|
