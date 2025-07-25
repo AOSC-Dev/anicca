@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753415933?label=Updated)
+![Relative date](https://img.shields.io/date/1753417952?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1062,6 +1062,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kima-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kimageannotator|0.6.0|0.7.1|desktop-kde|Compliance mode enabled, was '0.7.1'|
 |kimageformats|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
+|kimagemapeditor|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kimap|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kinfocenter|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |kinit|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
