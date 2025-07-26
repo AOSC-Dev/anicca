@@ -2356,7 +2356,7 @@
 ["liferea","1.14.6","1.15.9","app-web",1749107082,["Compliance mode enabled, was '1.15.9'"]],
 ["teams-for-linux","1.13.0","2.1.0","app-web",1742195024,["Compliance mode enabled, was '2.1.0'"]],
 ["hugo","0.148.0","0.148.1","app-web",1752522406,["Compliance mode enabled, was '0.148.1'"]],
-["nginx","1.27.4","1.29.0","app-web",1738821267,["Compliance mode enabled, was '1.29.0'"]],
+["nginx","1.28.0","1.29.0","app-web",1753542190,["Compliance mode enabled, was '1.29.0'"]],
 ["postfix","3.7.3","3.10.3","app-web",1721223235,["Compliance mode enabled, was '3.10.3'"]],
 ["squid","5.7","7.1","app-web",1669533924,["Compliance mode enabled, was '7.1'"]],
 ["httrack","3.49.2","3.49.5","app-web",1495802694,["Compliance mode enabled, was '3.49.5'"]],
