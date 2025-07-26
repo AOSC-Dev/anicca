@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753560789?label=Updated)
+![Relative date](https://img.shields.io/date/1753564346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -791,8 +791,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
 |handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|11.3.2|runtime-desktop|Compliance mode enabled, was '11.3.2'|
-|harfbuzz+32|8.4.0|11.3.2|runtime-optenv32|Compliance mode enabled, was '11.3.2'|
+|harfbuzz|8.4.0|11.3.3|runtime-desktop|Compliance mode enabled, was '11.3.3'|
+|harfbuzz+32|8.4.0|11.3.3|runtime-optenv32|Compliance mode enabled, was '11.3.3'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
