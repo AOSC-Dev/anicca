@@ -2101,6 +2101,7 @@
 ["flacon","11.4.0","12.0.0","app-multimedia",1748844653,["Compliance mode enabled, was '12.0.0'"]],
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
 ["v4l-utils","1.22.1","1.30.1","app-multimedia",1657655180,["Compliance mode enabled, was '1.30.1'"]],
+["zxtune","5053","5100","app-multimedia",1700797896,["Compliance mode enabled, was '5100'"]],
 ["ffmpegthumbnailer","2.2.2","2.2.3","app-multimedia",1573506354,["Compliance mode enabled, was '2.2.3'"]],
 ["faac","1.29.9.2","1.31.1","app-multimedia",1530178630,["Compliance mode enabled, was '1.31.1'"]],
 ["kodi-inputstream-rtmp","21.1.2","2.0.2","app-multimedia",1749993997,["Compliance mode enabled, was '2.0.2'","Possible downgrade from the current version (21.1.2 -> 2.0.2)"]],
