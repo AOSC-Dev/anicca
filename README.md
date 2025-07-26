@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753485171?label=Updated)
+![Relative date](https://img.shields.io/date/1753490930?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1929,7 +1929,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.607.1|2025.724.2-tachyon|app-games|Compliance mode enabled, was '2025.724.2-tachyon'|
+|osu-lazer|2025.724.0|2025.724.2-tachyon|app-games|Compliance mode enabled, was '2025.724.2-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |oxygen-icons|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
