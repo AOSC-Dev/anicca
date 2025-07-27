@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753600405?label=Updated)
+![Relative date](https://img.shields.io/date/1753604203?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1865,6 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|18.1.0|20.1.0|runtime-common|Compliance mode enabled, was '20.1.0'|
+|opencl-registry-api|2024.10.24|2025.07.22|app-devel|Compliance mode enabled, was '2025.07.22'|
 |opencolorio|2.1.2|2.4.2|runtime-imaging|Compliance mode enabled, was '2.4.2'|
 |openconnect|8.10|9.12|app-network|Compliance mode enabled, was '9.12'|
 |opencore-amr|0.1.5|0.1.6|runtime-multimedia|Compliance mode enabled, was '0.1.6'|
@@ -2027,6 +2028,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-mime|1.946|1.954|lang-perl|Compliance mode enabled, was '1.954'|
 |perl-email-mime-contenttype|1.022|1.028|lang-perl|Compliance mode enabled, was '1.028'|
 |perl-email-simple|2.216|2.218|lang-perl|Compliance mode enabled, was '2.218'|
+|perl-encode-imaputf7|1.05|1.07|lang-perl|Compliance mode enabled, was '1.07'|
 |perl-error|0.17027|0.17030|lang-perl|Compliance mode enabled, was '0.17030'|
 |perl-ev|4.25|4.34|lang-perl|Compliance mode enabled, was '4.34'|
 |perl-exception-class|1.44|1.45|lang-perl|Compliance mode enabled, was '1.45'|
