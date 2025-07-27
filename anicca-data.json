@@ -1632,7 +1632,7 @@
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["pathspec","0.11.0","0.12.1","lang-python",1676525877,["Compliance mode enabled, was '0.12.1'"]],
 ["feedparser","6.0.8","6.0.11","lang-python",1637636760,["Compliance mode enabled, was '6.0.11'"]],
-["scipy","1.15.3","1.16.0","lang-python",1749128013,["Compliance mode enabled, was '1.16.0'"]],
+["scipy","1.15.3","1.16.1","lang-python",1749128013,["Compliance mode enabled, was '1.16.1'"]],
 ["pycryptopp","0.7.1","0.5.29","lang-python",1473089332,["Compliance mode enabled, was '0.5.29'","Possible downgrade from the current version (0.7.1 -> 0.5.29)"]],
 ["openai-python","1.63.2","1.97.1","lang-python",1740043967,["Compliance mode enabled, was '1.97.1'"]],
 ["sqlparse","0.4.1","0.5.3","lang-python",1620896944,["Compliance mode enabled, was '0.5.3'"]],
