@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753571572?label=Updated)
+![Relative date](https://img.shields.io/date/1753577879?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1763,8 +1763,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.22|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250720|runtime-common|Compliance mode enabled, was '6.5-20250720'|
-|ncurses+32|6.4|6.5+20250720|runtime-optenv32|Compliance mode enabled, was '6.5-20250720'|
+|ncurses|6.4|6.5+20250726|runtime-common|Compliance mode enabled, was '6.5-20250726'|
+|ncurses+32|6.4|6.5+20250726|runtime-optenv32|Compliance mode enabled, was '6.5-20250726'|
 |ndctl|80|82|app-admin|Compliance mode enabled, was '82'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -1877,7 +1877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencryptoki|3.21.0|3.25.0|runtime-cryptography|Compliance mode enabled, was '3.25.0'|
 |opencsg|1.5.1|1.8.1|runtime-imaging|Compliance mode enabled, was '1.8.1'|
 |opencv|4.9.0|4.12.0|runtime-scientific|Compliance mode enabled, was '4.12.0'|
-|openexr|3.1.8|3.3.4|runtime-imaging|Compliance mode enabled, was '3.3.4'|
+|openexr|3.1.8|3.3.5|runtime-imaging|Compliance mode enabled, was '3.3.5'|
 |openfortivpn|1.18.0|1.23.1|app-network|Compliance mode enabled, was '1.23.1'|
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.0.8.1|runtime-imaging|Compliance mode enabled, was '3.0.8.1'|
