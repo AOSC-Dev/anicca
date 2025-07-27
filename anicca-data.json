@@ -877,7 +877,7 @@
 ["dotnet-templates-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["spirv-llvm-translator","18.1.0","20.1.4","app-devel",1721226526,["Compliance mode enabled, was '20.1.4'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
-["ast-grep","0.38.2","0.39.1","app-devel",1747808655,["Compliance mode enabled, was '0.39.1'"]],
+["ast-grep","0.38.2","0.39.2","app-devel",1747808655,["Compliance mode enabled, was '0.39.2'"]],
 ["cppcheck","2.8","2.18.0","app-devel",1661664823,["Compliance mode enabled, was '2.18.0'"]],
 ["extra-cmake-modules","5.115.0","6.16.0","app-devel",1714377107,["Compliance mode enabled, was '6.16.0'"]],
 ["qtcreator","16.0.1","17.0.0","app-devel",1744426717,["Compliance mode enabled, was '17.0.0'"]],
