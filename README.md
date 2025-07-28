@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753709831?label=Updated)
+![Relative date](https://img.shields.io/date/1753712265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1256,7 +1256,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |lazarus|3.2|4.2|lang-pascal|Compliance mode enabled, was '4.2'|
 |lazy-object-proxy|1.7.1|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
-|lazygit|0.52.0|0.53.0|app-vcs|Compliance mode enabled, was '0.53.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldc|1.38.0|1.41.0|lang-dlang|Compliance mode enabled, was '1.41.0'|
@@ -1683,7 +1682,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdbook|0.4.40|0.4.52|app-doc|Compliance mode enabled, was '0.4.52'|
 |mdds|2.1.1|3.1.0|runtime-productivity|Compliance mode enabled, was '3.1.0'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
-|mediainfo|24.12|25.04|app-multimedia|Compliance mode enabled, was '25.04'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |melonds|1.0rc|1.0|app-games||
 |memcached|1.6.36|1.6.38|app-admin|Compliance mode enabled, was '1.6.38'|
@@ -1752,7 +1750,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |mvfst|2025.03.24.00|2025.07.21.00|runtime-network|Compliance mode enabled, was '2025.07.21.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
-|mycli|1.23.2|1.36.0|app-database|Compliance mode enabled, was '1.36.0'|
+|mycli|1.23.2|1.37.0|app-database|Compliance mode enabled, was '1.37.0'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
 |nanobind|2.6.1|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
@@ -2990,7 +2988,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-libinput|1.4.0|1.5.0|runtime-display|Compliance mode enabled, was '1.5.0'|
 |xf86-input-wacom|1.2.0|1.2.3|runtime-display|Compliance mode enabled, was '1.2.3'|
 |xf86-video-intel|2.99.917<br>+git20230318|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
-|xf86-video-nouveau|1.0.17|1.0.18|runtime-display|Compliance mode enabled, was '1.0.18'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfburn|0.7.2|0.8.0|desktop-xfce|Compliance mode enabled, was '0.8.0'|
 |xfce4-screensaver|4.18.4|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
