@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753671774?label=Updated)
+![Relative date](https://img.shields.io/date/1753675741?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -807,6 +807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |helm|3.17.1|3.18.4|app-containers|Compliance mode enabled, was '3.18.4'|
 |help2man|1.48.1|1.49.3|app-doc|Compliance mode enabled, was '1.49.3'|
 |herbstluftwm|0.7.2|0.9.5|desktop-wm|Compliance mode enabled, was '0.9.5'|
+|hevea|2.36|2.37|app-doc|Compliance mode enabled, was '2.37'|
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |hidapi|0.14.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
@@ -971,6 +972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmutils|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kcodecs|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kcolorchooser|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
 |kcompletion|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kconfig|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kconfigwidgets|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
@@ -1941,6 +1943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
+|pandoc|3.6.3|3.7.0.2|app-doc|Compliance mode enabled, was '3.7.0.2'|
 |pango|1.56.1|1.56.4|runtime-desktop|Compliance mode enabled, was '1.56.4'|
 |pango+32|1.56.1|1.56.4|runtime-optenv32|Compliance mode enabled, was '1.56.4'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
