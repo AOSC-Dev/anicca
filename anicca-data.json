@@ -1471,6 +1471,7 @@
 ["siege","4.0.7","4.1.7","app-network",1600577920,["Compliance mode enabled, was '4.1.7'"]],
 ["slurm","0.4.4","0.5.1","app-network",1600577920,["Compliance mode enabled, was '0.5.1'"]],
 ["vpnc","0.5.3r550","0.5.3","app-network",1678950872,["Compliance mode enabled, was '0.5.3'"]],
+["modemmanager","1.24.0","1.24.2","app-network",1747880104,["Compliance mode enabled, was '1.24.2'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["networkmanager-openconnect","1.2.6+git20210918","1.2.10","app-network",1632996916,["Compliance mode enabled, was '1.2.10'"]],
 ["iptables","1.8.8","1.8.11","app-network",1674452376,["Compliance mode enabled, was '1.8.11'"]],
