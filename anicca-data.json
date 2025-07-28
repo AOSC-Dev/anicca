@@ -1560,7 +1560,7 @@
 ["ser2net","3.5","4.6.5","app-network",1528905473,["Compliance mode enabled, was '4.6.5'"]],
 ["networkmanager-vpnc","1.2.6","1.4.0","app-network",1533440457,["Compliance mode enabled, was '1.4.0'"]],
 ["networkmanager-strongswan","1.6.1","1.6.3","app-network",1748502908,["Compliance mode enabled, was '1.6.3'"]],
-["iproute2","6.11.0","6.15.0","app-network",1728548003,["Compliance mode enabled, was '6.15.0'"]],
+["iproute2","6.11.0","6.16.0","app-network",1728548003,["Compliance mode enabled, was '6.16.0'"]],
 ["sqlmap","1.9.5","1.9.7","app-penetration",1749045088,["Compliance mode enabled, was '1.9.7'"]],
 ["lazygit","0.52.0","0.53.0","app-vcs",1749431413,["Compliance mode enabled, was '0.53.0'"]],
 ["gitoxide","0.44.0","0.45.0","app-vcs",1745733463,["Compliance mode enabled, was '0.45.0'"]],
