@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753764071?label=Updated)
+![Relative date](https://img.shields.io/date/1753766612?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -663,8 +663,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib|2.84.0|2.84.3|runtime-common|Compliance mode enabled, was '2.84.3'|
 |glib+32|2.83.3|2.84.3|runtime-optenv32|Compliance mode enabled, was '2.84.3'|
 |glib-networking|2.72.2|2.80.1|runtime-common|Compliance mode enabled, was '2.80.1'|
-|glibc|2.40|2.41|core-libs|Compliance mode enabled, was '2.41'|
-|glibc+32|2.40|2.41|runtime-optenv32|Compliance mode enabled, was '2.41'|
+|glibc|2.40|2.42|core-libs|Compliance mode enabled, was '2.42'|
+|glibc+32|2.40|2.42|runtime-optenv32|Compliance mode enabled, was '2.42'|
 |glibmm|2.66.2|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glibmm-2.68|2.78.0|2.84.0|desktop-gnome|Compliance mode enabled, was '2.84.0'|
 |glog|0.3.5|0.7.1|runtime-common|Compliance mode enabled, was '0.7.1'|
@@ -737,6 +737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|138.0.7204.157|138.0.7204.168|app-web|Compliance mode enabled, was '138.0.7204.168'|
 |goreleaser|2.8.2|2.11.1|lang-golang|Compliance mode enabled, was '2.11.1'|
+|gost|3.1.0|3.2.0|app-proxy|Compliance mode enabled, was '3.2.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpgme|1.24.2|2.0.0|runtime-cryptography|Compliance mode enabled, was '2.0.0'|
@@ -2745,7 +2746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|teams-for-linux|1.13.0|2.1.1|app-web|Compliance mode enabled, was '2.1.1'|
+|teams-for-linux|1.13.0|2.1.2|app-web|Compliance mode enabled, was '2.1.2'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
@@ -2878,7 +2879,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.1|runtime-optenv32|Compliance mode enabled, was '2.41.1'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202507272214|runtime-data|Compliance mode enabled, was '202507272214'<br>Versions not comparable: `202501302211` and `202507272214`|
+|v2ray-rules-dat|202501302211|202507282215|runtime-data|Compliance mode enabled, was '202507282215'<br>Versions not comparable: `202501302211` and `202507282215`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
