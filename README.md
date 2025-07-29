@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753770046?label=Updated)
+![Relative date](https://img.shields.io/date/1753773517?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -36,7 +36,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.19.1|app-utils|Compliance mode enabled, was '0.19.1'|
-|aiohttp|3.7.4.post0|3.12.14|lang-python|Compliance mode enabled, was '3.12.14'|
+|aiohttp|3.7.4.post0|3.12.15|lang-python|Compliance mode enabled, was '3.12.15'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |akonadi|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -219,7 +219,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo+32|1.18.2|1.18.4|runtime-optenv32|Compliance mode enabled, was '1.18.4'|
 |cairocffi|1.0.2|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |cairomm|1.12.2|1.18.0|runtime-imaging|Compliance mode enabled, was '1.18.0'|
-|cairosvg|2.5.2|2.8.2|app-imaging|Compliance mode enabled, was '2.8.2'|
 |calendarsupport|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |calf|0.90.3|0.90.8|app-multimedia|Compliance mode enabled, was '0.90.8'|
 |calibre|8.5.0|8.7.0|app-doc|Compliance mode enabled, was '8.7.0'|
@@ -940,7 +939,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kamoso|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kanagram|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kapidox|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
-|kapman|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kapptemplate|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |karchive|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kasablanca-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2637,7 +2635,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
 |squid|5.7|7.1|app-web|Compliance mode enabled, was '7.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
-|sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srecord|1.64|1.65.0|app-utils|Compliance mode enabled, was '1.65.0'|
 |srtp|2.6.0|2.7.0|runtime-multimedia|Compliance mode enabled, was '2.7.0'|
 |ss-tproxy|4.6.1|4.8.3|app-proxy|Compliance mode enabled, was '4.8.3'|
