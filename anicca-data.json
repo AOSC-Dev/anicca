@@ -1763,6 +1763,7 @@
 ["pycountry","18.12.8","24.6.1","lang-python",1551165473,["Compliance mode enabled, was '24.6.1'"]],
 ["incremental","17.5.0","24.7.2","lang-python",1530718722,["Compliance mode enabled, was '24.7.2'"]],
 ["qpageview","0.6.2","1.0.1","lang-python",1677477179,["Compliance mode enabled, was '1.0.1'"]],
+["docutils","0.21.2","0.22","lang-python",1722780216,["Compliance mode enabled, was '0.22'"]],
 ["netifaces","0.10.9","0.11.0","lang-python",1549919968,["Compliance mode enabled, was '0.11.0'"]],
 ["et-xmlfile","1.0.1","2.0.0","lang-python",1482382343,["Compliance mode enabled, was '2.0.0'"]],
 ["pyqt-builder","1.18.0","1.18.2","lang-python",1740134451,["Compliance mode enabled, was '1.18.2'"]],

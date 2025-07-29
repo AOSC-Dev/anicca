@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753802153?label=Updated)
+![Relative date](https://img.shields.io/date/1753805806?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -419,6 +419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|28.0.4|28.3.3|app-containers||
 |docker-buildx|0.22.0|0.26.1|app-containers|Compliance mode enabled, was '0.26.1'|
 |docker-compose|2.35.0|2.39.1|app-containers|Compliance mode enabled, was '2.39.1'|
+|docutils|0.21.2|0.22|lang-python|Compliance mode enabled, was '0.22'|
 |dolphin|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |dolphin-emu|2503|2506a|app-games|Compliance mode enabled, was '2506a'|
 |dolphin-plugins|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
