@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753873949?label=Updated)
+![Relative date](https://img.shields.io/date/1753878111?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -623,6 +623,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcompris|4.3|25.1.1|app-games|Compliance mode enabled, was '25.1.1'|
 |gcr|3.41.1|4.4.0.1|desktop-gnome|Compliance mode enabled, was '4.4.0.1'|
 |gdal|3.11.1|3.11.3|runtime-gis|Compliance mode enabled, was '3.11.3'|
+|gdbm|1.25|1.26|app-database|Compliance mode enabled, was '1.26'|
+|gdbm+32|1.25|1.26|runtime-optenv32|Compliance mode enabled, was '1.26'|
 |gdk-pixbuf|2.42.12|2.43.3|runtime-imaging|Compliance mode enabled, was '2.43.3'|
 |gdk-pixbuf+32|2.42.12|2.43.3|runtime-optenv32|Compliance mode enabled, was '2.43.3'|
 |gdm|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1212,7 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksystemstats|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |kteatime|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |ktechlab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|ktextaddons|1.5.3|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
+|ktextaddons|1.5.3|1.7.0|desktop-kde|Compliance mode enabled, was '1.7.0'|
 |ktexteditor|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |ktextwidgets|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |ktimer|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
