@@ -2012,6 +2012,7 @@
 ["libxnvctrl","565.57.01","570.86.16","runtime-display",1735366495,["Compliance mode enabled, was '570.86.16'"]],
 ["nvidia-open","575.64","575.64.05","runtime-display",1750388184,["Compliance mode enabled, was '575.64.05'"]],
 ["rxvt-unicode","9.22","9.31","runtime-display",1479956588,["Compliance mode enabled, was '9.31'"]],
+["xinit","1.4.2","1.4.4","runtime-display",1699859032,["Compliance mode enabled, was '1.4.4'"]],
 ["imath","3.1.11","3.1.12","runtime-display",1721094382,["Compliance mode enabled, was '3.1.12'"]],
 ["eglexternalplatform","1.1","1.2.1","runtime-display",1571332658,["Compliance mode enabled, was '1.2.1'"]],
 ["xf86-input-wacom","1.2.0","1.2.3","runtime-display",1699859032,["Compliance mode enabled, was '1.2.3'"]],
