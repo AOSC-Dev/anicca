@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753863458?label=Updated)
+![Relative date](https://img.shields.io/date/1753867285?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -36,6 +36,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
 |aha|0.5|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |aide|0.16.2|0.19.1|app-utils|Compliance mode enabled, was '0.19.1'|
+|aiodns|3.2.0|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |aiohttp|3.7.4.post0|3.12.15|lang-python|Compliance mode enabled, was '3.12.15'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -637,7 +638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
 |geoipupdate|7.1.0|7.1.1|app-network|Compliance mode enabled, was '7.1.1'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
-|gexiv2|0.14.0|0.15.0|desktop-gnome|Compliance mode enabled, was '0.15.0'|
+|gexiv2|0.14.0|0.14.6|desktop-gnome|Compliance mode enabled, was '0.14.6'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
@@ -2255,6 +2256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyatspi|2.38.2|2.57.0|lang-python|Compliance mode enabled, was '2.57.0'|
 |pyaudio|0.2.11|0.2.14|lang-python|Compliance mode enabled, was '0.2.14'|
 |pybind11|2.13.6|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|pycares|4.5.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |pycodestyle|2.7.0|2.14.0|lang-python|Compliance mode enabled, was '2.14.0'|
 |pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
 |pycryptodome|3.22.0x|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
