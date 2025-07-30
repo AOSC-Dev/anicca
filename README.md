@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753899413?label=Updated)
+![Relative date](https://img.shields.io/date/1753902848?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2410,7 +2410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redis|8.0.2|8.0.3|app-database|Compliance mode enabled, was '8.0.3'|
 |redsocks2|0.67<br>+git20201229|0.1|app-proxy|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
-|regex|2019.02.21|2025.7.31|lang-python|Compliance mode enabled, was '2025.7.31'|
+|regex|2019.02.21|2025.7.33|lang-python|Compliance mode enabled, was '2025.7.33'|
 |reiser4progs|1.2.2|1.2.2.|app-admin|Compliance mode enabled, was '1.2.2.'|
 |rencode|1.0.6|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|

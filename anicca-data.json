@@ -1859,7 +1859,7 @@
 ["bcrypt","4.2.0","4.3.0","lang-python",1738033645,["Compliance mode enabled, was '4.3.0'"]],
 ["distlib","0.3.1","0.4.0","lang-python",1609330974,["Compliance mode enabled, was '0.4.0'"]],
 ["python-gattlib","23.12.21-dbus","0.20210616","lang-python",1753091209,["Possible downgrade from the current version (23.12.21-dbus -> 0.20210616)"]],
-["regex","2019.02.21","2025.7.31","lang-python",1551200854,["Compliance mode enabled, was '2025.7.31'"]],
+["regex","2019.02.21","2025.7.33","lang-python",1551200854,["Compliance mode enabled, was '2025.7.33'"]],
 ["python-markdown-math","0.6","0.9","lang-python",1572507479,["Compliance mode enabled, was '0.9'"]],
 ["decorator","4.3.2","5.2.1","lang-python",1549919968,["Compliance mode enabled, was '5.2.1'"]],
 ["pyopengl","3.1.5","3.1.9~a2","lang-python",1581796622,["Compliance mode enabled, was '3.1.9a2'"]],
