@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753971348?label=Updated)
+![Relative date](https://img.shields.io/date/1753974833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -457,11 +457,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim|3.3.1|3.4.0|app-imaging|Compliance mode enabled, was '3.4.0'|
 |dssim-c|1.3.2<br>+git20200922|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
-|dtk6core|6.0.37|6.0.39|desktop-dde|Compliance mode enabled, was '6.0.39'|
-|dtk6gui|6.0.37|6.0.39|desktop-dde|Compliance mode enabled, was '6.0.39'|
+|dtk6core|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
+|dtk6gui|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
 |dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
-|dtk6widget|6.0.37|6.0.39|desktop-dde|Compliance mode enabled, was '6.0.39'|
-|dtkcommon|5.7.17|5.7.19|desktop-dde|Compliance mode enabled, was '5.7.19'|
+|dtk6widget|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
+|dtkcommon|5.7.17|5.7.20|desktop-dde|Compliance mode enabled, was '5.7.20'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.23.2|runtime-vcs|Compliance mode enabled, was '0.23.2'|
@@ -738,7 +738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.177.0|lang-python|Compliance mode enabled, was '2.177.0'|
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
-|goreleaser|2.8.2|2.11.1|lang-golang|Compliance mode enabled, was '2.11.1'|
+|goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
 |gost|3.1.0|3.2.0|app-proxy|Compliance mode enabled, was '3.2.0'|
 |goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
@@ -2103,7 +2103,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
-|perl-par|1.016|1.020|lang-perl|Compliance mode enabled, was '1.020'|
+|perl-par|1.016|1.021|lang-perl|Compliance mode enabled, was '1.021'|
 |perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-par-packer|1.050|1.064|lang-perl|Compliance mode enabled, was '1.064'|
 |perl-parallel-forkmanager|1.20|2.03|lang-perl|Compliance mode enabled, was '2.03'|
@@ -2751,7 +2751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunderbird|140.0|141.0|app-web|Compliance mode enabled, was '141.0'|
 |tiledb|2.28.0|2.28.1|runtime-database|Compliance mode enabled, was '2.28.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
-|timeshift|24.06.6|25.07.3|app-utils|Compliance mode enabled, was '25.07.3'|
+|timeshift|24.06.6|25.07.4|app-utils|Compliance mode enabled, was '25.07.4'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tint2|16.7|17.0.2|desktop-wm|Compliance mode enabled, was '17.0.2'|
 |tinty|0.27.0|0.28.0|app-utils|Compliance mode enabled, was '0.28.0'|
