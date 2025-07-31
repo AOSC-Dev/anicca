@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753985830?label=Updated)
+![Relative date](https://img.shields.io/date/1753989334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -236,7 +236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.10.2|0.10.14+cargo-0.89.0|lang-rust|Compliance mode enabled, was '0.10.14+cargo-0.89.0'|
 |cargo-release|0.25.10|0.25.18|lang-rust|Compliance mode enabled, was '0.25.18'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
-|carla|2.5.8|2.5.9|app-multimedia|Compliance mode enabled, was '2.5.9'|
+|carla|2.5.8|2.5.10|app-multimedia|Compliance mode enabled, was '2.5.10'|
 |castxml|0.6.8|0.6.11|app-devel|Compliance mode enabled, was '0.6.11'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|3.8.1|3.9.0|runtime-common|Compliance mode enabled, was '3.9.0'|
@@ -744,6 +744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpicview|0.2.5|0.3.1|desktop-lxde|Compliance mode enabled, was '0.3.1'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gpsd|3.25|3.26.1|app-scientific|Compliance mode enabled, was '3.26.1'|
+|gradle|8.14.3|9.0.0|lang-java|Compliance mode enabled, was '9.0.0'|
 |granatier|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |grantlee-editor|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |grantleetheme|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -1098,6 +1099,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |klickety|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |klines|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmag|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|kmahjongg|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmail|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmail-account-wizard|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmailtransport|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2639,7 +2641,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.11.0|runtime-scientific|Compliance mode enabled, was '7.11.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.730.214736|app-multimedia|Compliance mode enabled, was '2025.730.214736'|
+|sunshine|2025.122.141614|2025.731.125037|app-multimedia|Compliance mode enabled, was '2025.731.125037'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |superslicer|2.7.61.0|2.7.61.7|app-creativity|Compliance mode enabled, was '2.7.61.7'|
@@ -2750,7 +2752,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |timeshift|24.06.6|25.07.4|app-utils|Compliance mode enabled, was '25.07.4'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tint2|16.7|17.0.2|desktop-wm|Compliance mode enabled, was '17.0.2'|
-|tinty|0.27.0|0.28.0|app-utils|Compliance mode enabled, was '0.28.0'|
+|tinty|0.27.0|0.29.0|app-utils|Compliance mode enabled, was '0.29.0'|
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
 |tinycss2|1.0.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |tinyproxy|1.11.1|1.11.2|app-proxy|Compliance mode enabled, was '1.11.2'|
