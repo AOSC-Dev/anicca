@@ -2377,7 +2377,7 @@
 ["libimobiledevice-glue","1.3.1","1.3.2","runtime-devices",1735348105,["Compliance mode enabled, was '1.3.2'"]],
 ["libserialport","0.1.1","0.1.2","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.2'"]],
 ["libcl","2.3.2","2.3.3","runtime-devices",1715585686,["Compliance mode enabled, was '2.3.3'"]],
-["libinput","1.27.1","1.28.1","runtime-devices",1740707240,["Compliance mode enabled, was '1.28.1'"]],
+["libinput","1.27.1","1.29.0","runtime-devices",1740707240,["Compliance mode enabled, was '1.29.0'"]],
 ["libticables2","1.3.4","1.3.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.3.5'"]],
 ["libusb-compat","0.1.5","0.1.8","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.8'"]],
 ["libtatsu","1.0.4","1.0.5","runtime-devices",1748135736,["Compliance mode enabled, was '1.0.5'"]],
