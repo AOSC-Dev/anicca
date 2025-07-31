@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1753946413?label=Updated)
+![Relative date](https://img.shields.io/date/1753949892?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -307,7 +307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|343|app-admin|Compliance mode enabled, was '343'|
 |cockpit-machines|284.1|336|app-admin|Compliance mode enabled, was '336'|
 |cockpit-podman|63|110|app-admin|Compliance mode enabled, was '110'|
-|code-server|4.93.1|4.102.2|app-utils|Compliance mode enabled, was '4.102.2'|
+|code-server|4.93.1|4.102.3|app-utils|Compliance mode enabled, was '4.102.3'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.4|runtime-imaging|Compliance mode enabled, was '4.0.4'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -385,7 +385,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.25.1|lang-golang|Compliance mode enabled, was '1.25.1'|
-|deno|1.44.1|2.4.2|lang-js|Compliance mode enabled, was '2.4.2'|
+|deno|1.44.1|2.4.3|lang-js|Compliance mode enabled, was '2.4.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.21.2|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
@@ -2638,7 +2638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.11.0|runtime-scientific|Compliance mode enabled, was '7.11.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.730.31216|app-multimedia|Compliance mode enabled, was '2025.730.31216'|
+|sunshine|2025.122.141614|2025.730.214736|app-multimedia|Compliance mode enabled, was '2025.730.214736'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |superslicer|2.7.61.0|2.7.61.7|app-creativity|Compliance mode enabled, was '2.7.61.7'|
@@ -2799,7 +2799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2025.05.0|runtime-data|Compliance mode enabled, was '2025.05.0'|
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.64.1|app-devel|Compliance mode enabled, was '0.64.1'|
+|trivy|0.55.0|0.65.0|app-devel|Compliance mode enabled, was '0.65.0'|
 |trove-classifiers|2024.1.31|2025.5.9.12|lang-python|Compliance mode enabled, was '2025.5.9.12'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
@@ -2855,7 +2855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.3|0.8.4|lang-python|Compliance mode enabled, was '0.8.4'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202507292215|runtime-data|Compliance mode enabled, was '202507292215'<br>Versions not comparable: `202501302211` and `202507292215`|
+|v2ray-rules-dat|202501302211|202507302215|runtime-data|Compliance mode enabled, was '202507302215'<br>Versions not comparable: `202501302211` and `202507302215`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
