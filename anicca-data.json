@@ -2344,6 +2344,7 @@
 ["squid","5.7","7.1","app-web",1669533924,["Compliance mode enabled, was '7.1'"]],
 ["httrack","3.49.2","3.49.5","app-web",1495802694,["Compliance mode enabled, was '3.49.5'"]],
 ["certbot-nginx","2.10.0","4.1.1","app-web",1716728325,["Compliance mode enabled, was '4.1.1'"]],
+["telegram-desktop","5.16.6","6.0.0","app-web",1753582671,["Compliance mode enabled, was '6.0.0'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
 ["chinadns-ng","2024.07.16","2025.06.20","app-web",1721316608,["Compliance mode enabled, was '2025.06.20'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
