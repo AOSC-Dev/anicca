@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754009910?label=Updated)
+![Relative date](https://img.shields.io/date/1754017889?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2575,6 +2575,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch|2.3.3|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
 |spacebar|23.01.0|25.07.90|desktop-kde|Compliance mode enabled, was '25.07.90'|
+|spamassassin|3.4.6|4.0.1|app-network|Compliance mode enabled, was '4.0.1'|
 |spandsp|0.0.6|3.0.0|runtime-multimedia|Compliance mode enabled, was '3.0.0'|
 |spdlog|1.14.1|1.15.3|runtime-common|Compliance mode enabled, was '1.15.3'|
 |spdx-licenses|3.25.0|3.27.0|runtime-data|Compliance mode enabled, was '3.27.0'|
@@ -2600,8 +2601,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
 |spirv-headers|1.4.309.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
-|spirv-llvm-translator|18.1.0|20.1.4|app-devel|Compliance mode enabled, was '20.1.4'|
-|spirv-llvm-translator+32|18.1.0|20.1.4|runtime-optenv32|Compliance mode enabled, was '20.1.4'|
+|spirv-llvm-translator|18.1.0|20.1.5|app-devel|Compliance mode enabled, was '20.1.5'|
+|spirv-llvm-translator+32|18.1.0|20.1.5|runtime-optenv32|Compliance mode enabled, was '20.1.5'|
 |spirv-tools|1.4.309.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
 |spirv-tools+32|1.4.309.0|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
 |sqlalchemy|1.2.18|2.0.42|lang-python|Compliance mode enabled, was '2.0.42'|
@@ -2862,7 +2863,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.3|0.8.4|lang-python|Compliance mode enabled, was '0.8.4'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202507302215|runtime-data|Compliance mode enabled, was '202507302215'<br>Versions not comparable: `202501302211` and `202507302215`|
+|v2ray-rules-dat|202501302211|202507312215|runtime-data|Compliance mode enabled, was '202507312215'<br>Versions not comparable: `202501302211` and `202507312215`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
