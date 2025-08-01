@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754039924?label=Updated)
+![Relative date](https://img.shields.io/date/1754043252?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -710,7 +710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
 |gnome-shell-extension-gsconnect|53|66|desktop-gnome|Compliance mode enabled, was '66'|
 |gnome-shell-extensions|42.3|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
-|gnome-software|42.4|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
+|gnome-software|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |gnome-sudoku|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-system-monitor|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
@@ -1110,6 +1110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmbox|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmediaplayer|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kmenuedit|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
+|kmime|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmines|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmix|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmousetool|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2930,7 +2931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|lang-python|Compliance mode enabled, was '0.2.13'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webencodings|0.5|0.5.1|lang-python|Compliance mode enabled, was '0.5.1'|
-|webkit2gtk|2.48.3|2.48.4|runtime-web|Compliance mode enabled, was '2.48.4'|
+|webkit2gtk|2.48.3|2.48.5|runtime-web|Compliance mode enabled, was '2.48.5'|
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
 |websocket-client|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
