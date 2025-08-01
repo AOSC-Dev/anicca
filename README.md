@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754025994?label=Updated)
+![Relative date](https://img.shields.io/date/1754029346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -871,6 +871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |incremental|17.5.0|24.7.2|lang-python|Compliance mode enabled, was '24.7.2'|
+|incus|6.14.0|6.15.0|app-containers|Compliance mode enabled, was '6.15.0'|
 |incus-ui-canonical|0.15.4|0.18.0|app-containers|Compliance mode enabled, was '0.18.0'|
 |inetutils|2.5|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |iniconfig|2.0.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
@@ -1446,7 +1447,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.36.0|2.0.7|desktop-gnome|Compliance mode enabled, was '2.0.7'|
 |libphonenumber|8.13.38|9.0.10|runtime-i18n|Compliance mode enabled, was '9.0.10'|
 |libpinyin|2.6.0|2.10.2|runtime-i18n|Compliance mode enabled, was '2.10.2'|
-|libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libplacebo|6.338.2|7.351.0|runtime-multimedia|Compliance mode enabled, was '7.351.0'|
 |libplist|2.6.0|2.7.0|runtime-common|Compliance mode enabled, was '2.7.0'|
 |libpng|1.6.44|1.6.50|runtime-imaging|Compliance mode enabled, was '1.6.50'|
