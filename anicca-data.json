@@ -484,7 +484,6 @@
 ["unace","2.5","2.5.orig","app-utils",1469374509,["Compliance mode enabled, was '2.5.orig'","Possible downgrade from the current version (2.5 -> 2.5.orig)"]],
 ["atuin","18.5.0","18.7.1","app-utils",1744945920,["Compliance mode enabled, was '18.7.1'"]],
 ["usage","2.1.1","2.2.2","app-utils",1747574408,["Compliance mode enabled, was '2.2.2'"]],
-["fastfetch","2.48.1","2.49.0","app-utils",1752892417,["Compliance mode enabled, was '2.49.0'"]],
 ["dua","2.30.1","2.31.0","app-utils",1747808621,["Compliance mode enabled, was '2.31.0'"]],
 ["wezterm","20240203+110809+5046fc22","20240203-110809-5046fc22","app-utils",1709441522,["Compliance mode enabled, was '20240203-110809-5046fc22'"]],
 ["plzip","1.11","1.12","app-utils",1710565374,["Compliance mode enabled, was '1.12'"]],
