@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754115421?label=Updated)
+![Relative date](https://img.shields.io/date/1754118774?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -462,6 +462,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
 |dtk6widget|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
 |dtkcommon|5.7.17|5.7.20|desktop-dde|Compliance mode enabled, was '5.7.20'|
+|dua|2.30.1|2.31.0|app-utils|Compliance mode enabled, was '2.31.0'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.1|runtime-vcs|Compliance mode enabled, was '0.24.1'|
@@ -2524,7 +2525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadow|4.17.2|4.18.0|app-admin|Compliance mode enabled, was '4.18.0'|
 |shapelib|1.5.0|1.6.1|runtime-imaging|Compliance mode enabled, was '1.6.1'|
 |shh|2025.7.13|2023.10.19|app-utils|Compliance mode enabled, was '2023.10.19'<br>Possible downgrade from the current version (2025.7.13 -> 2023.10.19)|
-|shotcut|25.05.11|25.07.26|app-creativity|Compliance mode enabled, was '25.07.26'|
+|shotcut|25.05.11|25.07.31|app-creativity|Compliance mode enabled, was '25.07.31'|
 |shotwell|0.31.4|0.32.13|desktop-gnome|Compliance mode enabled, was '0.32.13'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
