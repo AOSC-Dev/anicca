@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754126035?label=Updated)
+![Relative date](https://img.shields.io/date/1754129559?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -15,6 +15,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |abseil-cpp|20240722.0|20250512.1|runtime-common|Compliance mode enabled, was '20250512.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
+|acbs|20250506.1|20250802|app-devel|Compliance mode enabled, was '20250802'|
 |accerciser|3.40.0|3.46.2|desktop-gnome|Compliance mode enabled, was '3.46.2'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.7.0|3.9.0|app-utils|Compliance mode enabled, was '3.9.0'|
@@ -101,6 +102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |asahi-audio|3.0|3.4|runtime-multimedia|Compliance mode enabled, was '3.4'|
 |asahi-common|20250130|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20250130 -> 20231113-aosc)|
+|asar|4.0.0|4.0.1|app-utils|Compliance mode enabled, was '4.0.1'|
 |asgiref|3.8.1|3.9.1|lang-python|Compliance mode enabled, was '3.9.1'|
 |asio|1.18.1|1.34.2|app-devel|Compliance mode enabled, was '1.34.2'|
 |asn1crypto|1.2.0|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
