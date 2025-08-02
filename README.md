@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754108892?label=Updated)
+![Relative date](https://img.shields.io/date/1754111896?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -128,6 +128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attrs|23.2.0|25.3.0|lang-python|Compliance mode enabled, was '25.3.0'|
 |atuin|18.5.0|18.7.1|app-utils|Compliance mode enabled, was '18.7.1'|
 |audacious|4.4.2|4.5|app-multimedia|Compliance mode enabled, was '4.5'|
+|audacity|3.7.3|3.7.4|app-creativity|Compliance mode enabled, was '3.7.4'|
 |audiocd-kio|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
@@ -2786,7 +2787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqftpserv|1.1|0.0|runtime-admin|Compliance mode enabled, was '0.0'<br>Possible downgrade from the current version (1.1 -> 0.0)|
 |tqt3|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tqtinterface|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|trace-cmd|3.3|3.3.2|app-utils|Compliance mode enabled, was '3.3.2'|
+|trace-cmd|3.3|3.3.3|app-utils|Compliance mode enabled, was '3.3.3'|
 |tracker|3.7.3|3.9.2|desktop-gnome|Compliance mode enabled, was '3.9.2'|
 |tracker-miners|3.3.1|3.9.0|desktop-gnome|Compliance mode enabled, was '3.9.0'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
