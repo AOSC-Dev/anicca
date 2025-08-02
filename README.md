@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754154744?label=Updated)
+![Relative date](https://img.shields.io/date/1754158567?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -365,7 +365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|2.9.0|app-admin|Compliance mode enabled, was '2.9.0'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
-|dar|2.7.15|2.7.19|app-utils|Compliance mode enabled, was '2.7.19'|
+|dar|2.7.15|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
@@ -2700,6 +2700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-apt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeio-ftps|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeio-locate|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|tdeio-sword|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeio-umountwrapper|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdelibs|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdemultimedia|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
