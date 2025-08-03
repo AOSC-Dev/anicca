@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754248314?label=Updated)
+![Relative date](https://img.shields.io/date/1754252010?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -446,7 +446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-8.0|8.0.403|8.0.412|lang-dotnet|Compliance mode enabled, was '8.0.412'|
 |dotnet8|8.0.403|8.0.412|lang-dotnet|Compliance mode enabled, was '8.0.412'|
 |double-conversion|3.3.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
-|dovecot|2.4.1|2.4.0|app-web|Compliance mode enabled, was '2.4.0'<br>Possible downgrade from the current version (2.4.1 -> 2.4.0)|
 |doxygen|1.11.0|1.14.0|app-doc|Compliance mode enabled, was '1_14_0'|
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|24.07|25.03|runtime-network|Compliance mode enabled, was '25.03'|
@@ -847,7 +846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-table|1.14.1|1.17.14|app-i18n|Compliance mode enabled, was '1.17.14'|
 |ibus-uniemoji|0.6.0|0.7.0|app-i18n|Compliance mode enabled, was '0.7.0'|
 |icdiff|1.9.5|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'|
-|icewm|3.6.0|3.8.1|desktop-wm|Compliance mode enabled, was '3.8.1'|
+|icewm|3.6.0|3.8.2|desktop-wm|Compliance mode enabled, was '3.8.2'|
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Compliance mode enabled, was '1.2.26.orig'<br>Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|74.2|77.1|runtime-i18n|Compliance mode enabled, was '77-1'|
 |icu+32|74.2|77.1|runtime-optenv32|Compliance mode enabled, was '77-1'|
@@ -2150,6 +2149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |pixman|0.43.0|0.46.4|runtime-display|Compliance mode enabled, was '0.46.4'|
 |pixman+32|0.43.0|0.46.4|runtime-optenv32|Compliance mode enabled, was '0.46.4'|
+|pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
 |pkgconf|2.5.1|1.2.68|app-devel|Compliance mode enabled, was '1.2.68'<br>Possible downgrade from the current version (2.5.1 -> 1.2.68)|
 |pkginfo|1.5.0.1|1.12.1.2|lang-python|Compliance mode enabled, was '1.12.1.2'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
