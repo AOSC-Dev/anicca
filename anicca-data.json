@@ -570,7 +570,6 @@
 ["slock","1.4","1.5","app-utils",1492942597,["Compliance mode enabled, was '1.5'"]],
 ["rt-tests","2.6","2.9","app-utils",1710985572,["Compliance mode enabled, was '2.9'"]],
 ["ghostty","1.1.2","1.1.3","app-utils",1740248085,["Compliance mode enabled, was '1.1.3'"]],
-["debootstrap","1.0.140","1.0.141~bpo12+1","app-utils",1735885813,["Compliance mode enabled, was '1.0.141~bpo12+1'"]],
 ["which","2.21","2.23","app-utils",1446260722,["Compliance mode enabled, was '2.23'"]],
 ["i2c-tools","4.1","4.4","app-utils",1551380864,["Compliance mode enabled, was '4.4'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
