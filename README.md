@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754176338?label=Updated)
+![Relative date](https://img.shields.io/date/1754182658?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -350,7 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.5|2.8.0|app-admin|Compliance mode enabled, was '2.8.0'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
-|ctags|20191203|6.2.20250727.0|app-devel|Compliance mode enabled, was '6.2.20250727.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250727.0)|
+|ctags|20191203|6.2.20250803.0|app-devel|Compliance mode enabled, was '6.2.20250803.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250803.0)|
 |cuda|12.9.0|12.9.1|app-devel||
 |cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
@@ -735,7 +735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
-|goverlay|1.2|1.3+3|app-utils|Compliance mode enabled, was '1.3-3'|
+|goverlay|1.2|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |gperftools|2.13|2.16.90|app-devel|Compliance mode enabled, was '2.16.90'|
 |gpgme|1.24.2|2.0.0|runtime-cryptography|Compliance mode enabled, was '2.0.0'|
 |gpicview|0.2.5|0.3.1|desktop-lxde|Compliance mode enabled, was '0.3.1'|
@@ -2855,7 +2855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.1|runtime-optenv32|Compliance mode enabled, was '2.41.1'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202508012215|runtime-data|Compliance mode enabled, was '202508012215'<br>Versions not comparable: `202501302211` and `202508012215`|
+|v2ray-rules-dat|202501302211|202508022214|runtime-data|Compliance mode enabled, was '202508022214'<br>Versions not comparable: `202501302211` and `202508022214`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
