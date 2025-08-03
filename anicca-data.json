@@ -1323,7 +1323,7 @@
 ["exiv2","0.27.5","0.28.5","runtime-imaging",1598916208,["Compliance mode enabled, was '0.28.5'"]],
 ["libwmf","0.2.8.4","0.2.13","runtime-imaging",1678950872,["Compliance mode enabled, was '0.2.13'"]],
 ["openexr","3.1.8","3.3.5","runtime-imaging",1687941313,["Compliance mode enabled, was '3.3.5'"]],
-["jasper","2.0.21","4.2.5","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.5'"]],
+["jasper","2.0.21","4.2.7","runtime-imaging",1600761896,["Compliance mode enabled, was '4.2.7'"]],
 ["openimagedenoise","1.4.3","2.3.3","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.3'"]],
 ["libpng","1.6.44","1.6.50","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.50'"]],
 ["vscode","1.102.2","1.102.3","app-editors",1753491307,["Compliance mode enabled, was '1.102.3'"]],
