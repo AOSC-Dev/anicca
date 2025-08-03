@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754190443?label=Updated)
+![Relative date](https://img.shields.io/date/1754196169?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -254,7 +254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-apache|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
 |certbot-dns-cloudflare|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
 |certbot-nginx|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
-|certifi|2024.7.4|2025.7.14|lang-python|Compliance mode enabled, was '2025.7.14'|
+|certifi|2024.7.4|2025.8.3|lang-python|Compliance mode enabled, was '2025.8.3'|
 |cervisia|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
 |cfitsio|3.450|4.6.2|runtime-imaging|Compliance mode enabled, was '4.6.2'|
@@ -342,7 +342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crash|8.0.5|9.0.0|app-devel|Compliance mode enabled, was '9.0.0'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
 |criu|3.19|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
-|crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
 |crun|1.16.1|1.23.1|app-admin|Compliance mode enabled, was '1.23.1'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
@@ -462,7 +461,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtk6gui|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
 |dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
 |dtk6widget|6.0.37|6.0.40|desktop-dde|Compliance mode enabled, was '6.0.40'|
-|dtkcommon|5.7.17|5.7.20|desktop-dde|Compliance mode enabled, was '5.7.20'|
 |dua|2.30.1|2.31.0|app-utils|Compliance mode enabled, was '2.31.0'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
@@ -1708,7 +1706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|mise|2025.5.6|2025.8.2|app-devel|Compliance mode enabled, was '2025.8.2'|
+|mise|2025.5.6|2025.8.3|app-devel|Compliance mode enabled, was '2025.8.3'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -1763,8 +1761,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.22|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |ncompress|4.2.4.6|5.0|app-utils|Compliance mode enabled, was '5.0'|
-|ncurses|6.4|6.5+20250726|runtime-common|Compliance mode enabled, was '6.5-20250726'|
-|ncurses+32|6.4|6.5+20250726|runtime-optenv32|Compliance mode enabled, was '6.5-20250726'|
+|ncurses|6.4|6.5+20250802|runtime-common|Compliance mode enabled, was '6.5-20250802'|
+|ncurses+32|6.4|6.5+20250802|runtime-optenv32|Compliance mode enabled, was '6.5-20250802'|
 |ndctl|80|82|app-admin|Compliance mode enabled, was '82'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
