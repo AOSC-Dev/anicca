@@ -1,10 +1,11 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754219481?label=Updated)
+![Relative date](https://img.shields.io/date/1754223599?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
+|7-zip|25.00|25.01|app-utils|Compliance mode enabled, was '25.01'|
 |a2ps|4.15.6|4.15.7|app-doc|Compliance mode enabled, was '4.15.7'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
@@ -565,6 +566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fizz|2025.03.24.00|2025.07.28.00|app-network|Compliance mode enabled, was '2025.07.28.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
+|flameshot|12.1.0|13.0.0|app-utils|Compliance mode enabled, was '13.0.0'|
 |flask|3.0.3|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |flat-remix-icon-theme|20240201|20250709|desktop-themes|Compliance mode enabled, was '20250709'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
@@ -1047,6 +1049,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khelpcenter|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kholidays|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |khotkeys|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
+|khtml|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |ki18n|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kiconthemes|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
@@ -1134,7 +1137,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |koko|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kolf|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kollision|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|kolourpaint|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kompare|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kompose-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kongress|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -1704,7 +1706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
-|mise|2025.5.6|2025.8.3|app-devel|Compliance mode enabled, was '2025.8.3'|
+|mise|2025.5.6|2025.8.4|app-devel|Compliance mode enabled, was '2025.8.4'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2869,7 +2871,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |verdict|1.4.1|1.4.4|runtime-scientific|Compliance mode enabled, was '1.4.4'|
 |verilator|5.026|5.038|app-electronics|Compliance mode enabled, was '5.038'|
 |versioningit|3.0.0|3.3.0|app-devel|Compliance mode enabled, was '3.3.0'|
-|vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
