@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754338546?label=Updated)
+![Relative date](https://img.shields.io/date/1754342073?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -190,8 +190,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.8.1|runtime-cryptography|Compliance mode enabled, was '3.8.1'|
-|boto3|1.20.26|1.40.1|lang-python|Compliance mode enabled, was '1.40.1'|
-|botocore|1.34.133|1.40.1|lang-python|Compliance mode enabled, was '1.40.1'|
+|boto3|1.20.26|1.40.2|lang-python|Compliance mode enabled, was '1.40.2'|
+|botocore|1.34.133|1.40.2|lang-python|Compliance mode enabled, was '1.40.2'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2406,6 +2406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2025.7.34|lang-python|Compliance mode enabled, was '2025.7.34'|
 |rencode|1.0.6|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
+|repo|2.57.2|2.57.3|app-devel|Compliance mode enabled, was '2.57.3'|
 |reportlab|3.5.50|4.4.3|lang-python|Compliance mode enabled, was '4.4.3'|
 |requests|2.32.3|2.32.4|lang-python|Compliance mode enabled, was '2.32.4'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
@@ -2523,6 +2524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |six|1.16.0|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |skanlite|23.08.5|25.07.90|desktop-kde|Compliance mode enabled, was '25.07.90'|
 |skanpage|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|skopeo|1.19.0|1.20.0|app-containers|Compliance mode enabled, was '1.20.0'|
 |slick-greeter|2.0.4|2.2.2|desktop-displaymanagers|Compliance mode enabled, was '2.2.2'|
 |slirp4netns|1.2.2|1.3.3|app-admin|Compliance mode enabled, was '1.3.3'|
 |slock|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
@@ -2894,11 +2896,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-extensionlayer|1.4.309.0|1.4.323|runtime-display|Compliance mode enabled, was '1.4.323'|
 |vulkan-headers|1.4.309.0|1.4.324|runtime-display|Compliance mode enabled, was '1.4.324'|
 |vulkan-headers+32|1.4.309.0|1.4.324|runtime-optenv32|Compliance mode enabled, was '1.4.324'|
-|vulkan-loader|1.4.309.0|1.4.323|runtime-display|Compliance mode enabled, was '1.4.323'|
-|vulkan-loader+32|1.4.309.0|1.4.323|runtime-optenv32|Compliance mode enabled, was '1.4.323'|
+|vulkan-loader|1.4.309.0|1.4.324|runtime-display|Compliance mode enabled, was '1.4.324'|
+|vulkan-loader+32|1.4.309.0|1.4.324|runtime-optenv32|Compliance mode enabled, was '1.4.324'|
 |vulkan-tools|1.4.309.0|1.4.321|app-utils|Compliance mode enabled, was '1.4.321'|
 |vulkan-tools+32|1.4.309.0|1.4.321|runtime-optenv32|Compliance mode enabled, was '1.4.321'|
-|vulkan-utility-libraries|1.4.309.0|1.4.323|runtime-display|Compliance mode enabled, was '1.4.323'|
+|vulkan-utility-libraries|1.4.309.0|1.4.324|runtime-display|Compliance mode enabled, was '1.4.324'|
 |vulkan-validationlayers|1.4.309.0|1.4.323|runtime-display|Compliance mode enabled, was '1.4.323'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.03.24.00|2025.08.04.00|runtime-network|Compliance mode enabled, was '2025.08.04.00'|
