@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754410395?label=Updated)
+![Relative date](https://img.shields.io/date/1754413981?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -129,7 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attrs|23.2.0|25.3.0|lang-python|Compliance mode enabled, was '25.3.0'|
 |atuin|18.5.0|18.8.0|app-utils|Compliance mode enabled, was '18.8.0'|
 |audacious|4.4.2|4.5|app-multimedia|Compliance mode enabled, was '4.5'|
-|audacity|3.7.3|3.7.4|app-creativity|Compliance mode enabled, was '3.7.4'|
+|audacity|3.7.3|3.7.5|app-creativity|Compliance mode enabled, was '3.7.5'|
 |audiocd-kio|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
@@ -293,7 +293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clpeak|1.1.4|1.1.5|app-benchmarks|Compliance mode enabled, was '1.1.5'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
 |clzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
-|cmake|3.31.6|4.0.3|app-devel|Compliance mode enabled, was '4.0.3'|
+|cmake|3.31.6|4.1.0|app-devel|Compliance mode enabled, was '4.1.0'|
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmocka|1.1.7|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
@@ -2595,7 +2595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.46.1|3.50.4|runtime-optenv32|Compliance mode enabled, was '3.50.4'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
-|sqlmap|1.9.5|1.9.7|app-penetration|Compliance mode enabled, was '1.9.7'|
+|sqlmap|1.9.5|1.9.8|app-penetration|Compliance mode enabled, was '1.9.8'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
