@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754417885?label=Updated)
+![Relative date](https://img.shields.io/date/1754421441?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -266,7 +266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |choose|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|chromium|135.0.7049.95|138.0.7204.183|app-web|Compliance mode enabled, was '138.0.7204.183'|
+|chromium|135.0.7049.95|139.0.7258.66|app-web|Compliance mode enabled, was '139.0.7258.66'|
 |chrony|4.5|4.7|app-admin|Compliance mode enabled, was '4.7'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.4|app-network|Compliance mode enabled, was '7.4'|
@@ -733,7 +733,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.177.0|lang-python|Compliance mode enabled, was '2.177.0'|
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|138.0.7204.183|139.0.7258.66|app-web|Compliance mode enabled, was '139.0.7258.66'|
 |goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
+|gost|3.2.1|3.2.2|app-proxy|Compliance mode enabled, was '3.2.2'|
 |goverlay|1.2|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |gperftools|2.13|2.17|app-devel|Compliance mode enabled, was '2.17'|
 |gpgme|1.24.2|2.0.0|runtime-cryptography|Compliance mode enabled, was '2.0.0'|
@@ -1855,7 +1857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.98.0|lang-python|Compliance mode enabled, was '1.98.0'|
+|openai-python|1.63.2|1.99.0|lang-python|Compliance mode enabled, was '1.99.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -1895,10 +1897,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openra|20210321|20250330|app-games|Compliance mode enabled, was '20250330'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openssh|10.0p1|10.0p2|app-network|Compliance mode enabled, was '10.0p2'|
-|openssl|3.5.0|3.5.1|runtime-cryptography|Compliance mode enabled, was '3.5.1'|
-|openssl+32|3.5.0|3.5.1|runtime-optenv32|Compliance mode enabled, was '3.5.1'|
-|openssl-1.1|1.1.1w|3.5.1|runtime-cryptography|Compliance mode enabled, was '3.5.1'|
-|openssl-1.1+32|1.1.1w|3.5.1|runtime-optenv32|Compliance mode enabled, was '3.5.1'|
+|openssl|3.5.0|3.5.2|runtime-cryptography|Compliance mode enabled, was '3.5.2'|
+|openssl+32|3.5.0|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
+|openssl-1.1|1.1.1w|3.5.2|runtime-cryptography|Compliance mode enabled, was '3.5.2'|
+|openssl-1.1+32|1.1.1w|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
 |openstack-service-types|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |opensubdiv|3.6.0|3.6.1|runtime-creativity|Compliance mode enabled, was '3_6_1'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
@@ -1969,7 +1971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.93|app-games|Compliance mode enabled, was '2.5.93'|
+|pcsx2|1.6.0<br>+git20210825|2.5.95|app-games|Compliance mode enabled, was '2.5.95'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
