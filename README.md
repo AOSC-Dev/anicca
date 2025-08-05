@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754424831?label=Updated)
+![Relative date](https://img.shields.io/date/1754428453?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -191,8 +191,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan|1.10.17|3.5.0|runtime-cryptography|Compliance mode enabled, was '3.5.0'|
 |botan-2|2.12.1|2.19.5|runtime-cryptography|Compliance mode enabled, was '2.19.5'|
 |botan-3|3.5.0|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.20.26|1.40.2|lang-python|Compliance mode enabled, was '1.40.2'|
-|botocore|1.34.133|1.40.2|lang-python|Compliance mode enabled, was '1.40.2'|
+|boto3|1.20.26|1.40.3|lang-python|Compliance mode enabled, was '1.40.3'|
+|botocore|1.34.133|1.40.3|lang-python|Compliance mode enabled, was '1.40.3'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -248,7 +248,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cerberus|1.3.2|1.3.7|lang-python|Compliance mode enabled, was '1.3.7'|
 |certbot|2.11.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
 |certbot-apache|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
-|certbot-dns-cloudflare|2.10.0|4.1.1|app-web|Compliance mode enabled, was '4.1.1'|
+|certbot-dns-cloudflare|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
 |certbot-nginx|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
 |certifi|2024.7.4|2025.8.3|lang-python|Compliance mode enabled, was '2025.8.3'|
 |cervisia|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -907,7 +907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jinja2|3.1.4|3.1.6|lang-python|Compliance mode enabled, was '3.1.6'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |jmol|14.30.0|16.3.31|app-scientific|Compliance mode enabled, was '16.3.31'|
-|josepy|1.13.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |json-c+32|0.18-20240915|0.18|runtime-optenv32|Possible downgrade from the current version (0.18-20240915 -> 0.18)|
 |json-glib|1.8.0|1.10.6|runtime-common|Compliance mode enabled, was '1.10.6'|
 |jsonlines|1.2.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
@@ -1857,7 +1856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.99.0|lang-python|Compliance mode enabled, was '1.99.0'|
+|openai-python|1.63.2|1.99.1|lang-python|Compliance mode enabled, was '1.99.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -2359,7 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.2.7|app-multimedia|Compliance mode enabled, was '2.2.7'|
-|qownnotes|22.6.1|25.8.0|app-web|Compliance mode enabled, was '25.8.0'|
+|qownnotes|22.6.1|25.8.1|app-web|Compliance mode enabled, was '25.8.1'|
 |qpageview|0.6.2|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
@@ -2393,7 +2392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdfind|1.6.0|1.7.0|app-utils|Compliance mode enabled, was '1.7.0'|
 |rdflib|6.2.0|7.1.4|lang-python|Compliance mode enabled, was '7.1.4'|
 |rdma-core|57.0|58.0|app-admin|Compliance mode enabled, was '58.0'|
-|re2|2024-06-01|2025-07-22|runtime-common||
+|re2|2024-06-01|2025-08-05|runtime-common||
 |re2c|3.1|4.3|runtime-common|Compliance mode enabled, was '4.3'|
 |readline|8.2.1|8.3|runtime-common|Compliance mode enabled, was '8.3'|
 |readline+32|8.2.1|8.3|runtime-optenv32|Compliance mode enabled, was '8.3'|
@@ -2502,7 +2501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-python2|44.1.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
 |setuptools-python3|75.8.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
 |setuptools-rust|1.9.0|1.11.1|lang-python|Compliance mode enabled, was '1.11.1'|
-|setuptools-scm|8.1.0|9.0.2|lang-python|Compliance mode enabled, was '9.0.2'|
+|setuptools-scm|8.1.0|9.0.3|lang-python|Compliance mode enabled, was '9.0.3'|
 |sfml|2.5.1|3.0.1|runtime-multimedia|Compliance mode enabled, was '3.0.1'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2025.2|2025.3|app-devel|Compliance mode enabled, was '2025.3'|
@@ -2713,7 +2712,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|teams-for-linux|1.13.0|2.1.4|app-web|Compliance mode enabled, was '2.1.4'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
