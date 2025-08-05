@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754388864?label=Updated)
+![Relative date](https://img.shields.io/date/1754392377?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1096,6 +1096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmail|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmail-account-wizard|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmailtransport|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|kmbox|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |kmediaplayer|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kmenuedit|5.27.12|6.4.3|desktop-kde|Compliance mode enabled, was '6.4.3'|
 |kmime|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -2937,7 +2938,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11vnc|0.9.16|0.9.17|app-network|Compliance mode enabled, was '0.9.17'|
 |x264|0<br>+git20241027|3222|runtime-multimedia|Compliance mode enabled, was '3222'|
 |x264+32|0<br>+git20241027|3222|runtime-optenv32|Compliance mode enabled, was '3222'|
-|x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|3.6|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
 |xapian-core|1.4.18|1.4.29|runtime-common|Compliance mode enabled, was '1.4.29'|
