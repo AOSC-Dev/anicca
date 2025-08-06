@@ -1448,7 +1448,7 @@
 ["networkmanager-openconnect","1.2.6+git20210918","1.2.10","app-network",1632996916,["Compliance mode enabled, was '1.2.10'"]],
 ["iptables","1.8.8","1.8.11","app-network",1674452376,["Compliance mode enabled, was '1.8.11'"]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
-["passt","2024_10_30.ee7d0b6","2025_06_11.0293c6f","app-network",1731759292,[]],
+["passt","2024_10_30.ee7d0b6","2025_08_05.309eefd","app-network",1731759292,[]],
 ["cbm","0.3.2","0.4","app-network",1719969388,["Compliance mode enabled, was '0.4'"]],
 ["socat","1.8.0.0","1.8.0.3","app-network",1715027680,["Compliance mode enabled, was '1.8.0.3'"]],
 ["easytier","2.3.2","2.4.1","app-network",1751445046,["Compliance mode enabled, was '2.4.1'"]],
