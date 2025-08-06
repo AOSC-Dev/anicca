@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754483051?label=Updated)
+![Relative date](https://img.shields.io/date/1754487506?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -901,7 +901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |j4-dmenu-desktop|2.17|3.2|app-utils|Compliance mode enabled, was '3.2'|
 |jansson|2.14|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
 |janus|1.0.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
-|jasper|2.0.21|4.2.7|runtime-imaging|Compliance mode enabled, was '4.2.7'|
+|jasper|2.0.21|4.2.8|runtime-imaging|Compliance mode enabled, was '4.2.8'|
 |jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
@@ -909,6 +909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jinja2|3.1.4|3.1.6|lang-python|Compliance mode enabled, was '3.1.6'|
 |jmespath|0.10.0|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
+|jmol|14.30.0|16.3.31|app-scientific|Compliance mode enabled, was '16.3.31'|
 |josepy|1.13.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |json-c+32|0.18-20240915|0.18|runtime-optenv32|Possible downgrade from the current version (0.18-20240915 -> 0.18)|
 |json-glib|1.8.0|1.10.6|runtime-common|Compliance mode enabled, was '1.10.6'|
@@ -1795,7 +1796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkx|2.8.5|3.5|lang-python|Compliance mode enabled, was '3.5'|
 |newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
-|nftables|1.0.9|1.1.3|app-network|Compliance mode enabled, was '1.1.3'|
+|nftables|1.0.9|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |nghttp2|1.65.0|1.66.0|runtime-web|Compliance mode enabled, was '1.66.0'|
 |nghttp3|1.3.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.0|app-web|Compliance mode enabled, was '1.29.0'|
@@ -1882,8 +1883,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|3.0.9.0|runtime-imaging|Compliance mode enabled, was '3.0.9.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.28-ga|11.0.29+1|lang-java||
-|openjdk-17|17.0.16-ga|17.0.17+1|lang-java||
-|openjdk-21|21.0.8-ga|21.0.9+1|lang-java||
+|openjdk-17|17.0.16-ga|17.0.17+2|lang-java||
+|openjdk-21|21.0.8-ga|21.0.9+2|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
@@ -2600,7 +2601,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlcipher|4.5.6|4.10.0|app-database|Compliance mode enabled, was '4.10.0'|
 |sqlite|3500000|3.50.4|app-database|Possible downgrade from the current version (3500000 -> 3.50.4)|
 |sqlite+32|3.46.1|3.50.4|runtime-optenv32|Compliance mode enabled, was '3.50.4'|
-|sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.9.5|1.9.8|app-penetration|Compliance mode enabled, was '1.9.8'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
@@ -2820,7 +2820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-asahi|2024.10-1|2025.07|runtime-kernel||
 |uboot-tools|2025.04|2025.07|app-utils|Compliance mode enabled, was '2025.07'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
-|ucx|1.15.0|1.18.1|runtime-scientific|Compliance mode enabled, was '1.18.1'|
+|ucx|1.15.0|1.19.0|runtime-scientific|Compliance mode enabled, was '1.19.0'|
 |ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
 |uget|2.2.3<br>+1|2.2.2|app-web|Compliance mode enabled, was '2.2.2'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
 |uhttpmock|0.5.3|0.11.0|runtime-web|Compliance mode enabled, was '0.11.0'|
