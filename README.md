@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754468345?label=Updated)
+![Relative date](https://img.shields.io/date/1754472028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -816,6 +816,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hmcl|3.6.15|3.6.15.288|app-games|Compliance mode enabled, was '3.6.15.288'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hotspot|1.3.0|1.5.1|app-devel|Compliance mode enabled, was '1.5.1'|
+|hplip|3.25.2|3.25.6|app-doc|Compliance mode enabled, was '3.25.6'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html2text|2024.2.26|2025.4.15|lang-python|Compliance mode enabled, was '2025.4.15'|
@@ -1850,7 +1851,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.22|desktop-kde|Compliance mode enabled, was '0.26.22'|
 |okular|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.19.0|1.19.1|app-admin|Compliance mode enabled, was '1.19.1'|
 |onedrive|2.5.5|2.5.6|app-web|Compliance mode enabled, was '2.5.6'|
 |onedrivegui|1.1.1|1.2.1|app-web|Compliance mode enabled, was '1.2.1'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
@@ -1886,7 +1886,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
 |openjdk-8|8u462-ga|8u472-b01|lang-java||
-|openjfx-11|11.0.20<br>+1|11.0.29+1|lang-java|Compliance mode enabled, was '11.0.29+1'|
 |openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
 |openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
@@ -2984,6 +2983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
+|xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
 |xournalpp|1.2.5|1.2.7|runtime-productivity|Compliance mode enabled, was '1.2.7'|
 |xpra|6.3|6.3.2|app-network|Compliance mode enabled, was '6.3.2'|
