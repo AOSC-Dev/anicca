@@ -1369,7 +1369,6 @@
 ["gpgme","1.24.2","2.0.0","runtime-cryptography",1741002973,["Compliance mode enabled, was '2.0.0'"]],
 ["libetebase","0.5.6","0.5.8","runtime-cryptography",1729943719,["Compliance mode enabled, was '0.5.8'"]],
 ["libsodium","1.0.18","1.0.20","runtime-cryptography",1565150270,["Compliance mode enabled, was '1.0.20'"]],
-["wolfssl","5.7.0","5.8.2-stable","runtime-cryptography",1717571729,["Compliance mode enabled, was '5.8.2-stable'"]],
 ["crypto++","8.2.0","8.9.0","runtime-cryptography",1573276615,["Compliance mode enabled, was '8.9.0'"]],
 ["opencryptoki","3.21.0","3.25.0","runtime-cryptography",1696572712,["Compliance mode enabled, was '3.25.0'"]],
 ["libksba","1.6.6","1.6.7","runtime-cryptography",1709461519,["Compliance mode enabled, was '1.6.7'"]],
