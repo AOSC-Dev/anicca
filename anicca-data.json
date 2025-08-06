@@ -100,6 +100,7 @@
 ["topgrade","11.0.2","16.0.4","app-admin",1752497269,["Compliance mode enabled, was '16.0.4'"]],
 ["iozone","3.492","3.507","app-admin",1641887332,["Compliance mode enabled, was '3.507'"]],
 ["sudo","1.9.17p1","1.9.17p2","app-admin",1725356657,["Compliance mode enabled, was '1.9.17p2'"]],
+["xfsdump","3.1.12","3.2.0","app-admin",1678601027,["Compliance mode enabled, was '3.2.0'"]],
 ["dpkg","1.22.18","1.22.21","app-admin",1742097845,["Compliance mode enabled, was '1.22.21'"]],
 ["xfsprogs","6.14.0","6.15.0","app-admin",1745172293,["Compliance mode enabled, was '6.15.0'"]],
 ["squashfuse","0.1.105","0.6.1","app-admin",1663359141,["Compliance mode enabled, was '0.6.1'"]],
