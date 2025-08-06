@@ -2488,7 +2488,6 @@
 ["kcptun","20241227","20250730","app-proxy",1744297688,["Compliance mode enabled, was '20250730'"]],
 ["tor","0.4.8.13","0.4.8.17","app-proxy",1731463097,["Compliance mode enabled, was '0.4.8.17'"]],
 ["hysteria","2.6.1","2.6.2","app-proxy",1744297688,["Compliance mode enabled, was '2.6.2'"]],
-["tinyproxy","1.11.1","1.11.2","app-proxy",1710565425,["Compliance mode enabled, was '1.11.2'"]],
 ["redsocks2","0.67+git20201229","0.1","app-proxy",1629863094,["Compliance mode enabled, was '0.1'","Possible downgrade from the current version (0.67+git20201229 -> 0.1)"]],
 ["kubo","0.33.2","0.36.0","app-proxy",1744297688,["Compliance mode enabled, was '0.36.0'"]],
 ["clash-verge-rev","2.3.1","2.3.2","app-proxy",1752717164,["Compliance mode enabled, was '2.3.2'"]],
