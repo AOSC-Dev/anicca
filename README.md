@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754441502?label=Updated)
+![Relative date](https://img.shields.io/date/1754449171?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -746,6 +746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gradle|8.14.3|9.0.0|lang-java|Compliance mode enabled, was '9.0.0'|
 |granatier|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |grantlee-editor|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
+|grantleetheme|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
 |graphicsmagick|1.3.43|1.3.45|app-utils|Compliance mode enabled, was '1.3.45'|
 |grilo|0.3.15|0.3.19|desktop-gnome|Compliance mode enabled, was '0.3.19'|
@@ -2995,6 +2996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
 |yakuake|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |yakuake-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|yara|4.5.3|4.5.4|app-utils|Compliance mode enabled, was '4.5.4'|
 |yarl|1.9.4|1.20.1|lang-python|Compliance mode enabled, was '1.20.1'|
 |yaru|25.10.1|25.10.1-0ubuntu1|desktop-themes|Compliance mode enabled, was '25.10.1-0ubuntu1'<br>Possible downgrade from the current version (25.10.1 -> 25.10.1-0ubuntu1)|
 |yaz|5.34.0|5.35.1|runtime-web|Compliance mode enabled, was '5.35.1'|
