@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754597637?label=Updated)
+![Relative date](https://img.shields.io/date/1754601073?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1849,7 +1849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.99.2|lang-python|Compliance mode enabled, was '1.99.2'|
+|openai-python|1.63.2|1.99.3|lang-python|Compliance mode enabled, was '1.99.3'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -2408,6 +2408,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
+|rocm-bandwidth-test|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-cmake|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-comgr|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-core|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-device-libs|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-half|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-hipblas|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-hipblas-common|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-hipblaslt|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
@@ -2418,8 +2424,19 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hiprand|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-hipsparse|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-llama-cpp|6.4.2|6109|runtime-rocm|Compliance mode enabled, was '6109'|
+|rocm-llvm|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-rccl|6.4.2|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.2 -> 3.3.0)|
 |rocm-rocblas|6.4.2|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
+|rocm-rocfft|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-rocprim|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-rocprofiler-register|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-rocrand|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-rocsolver|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-rocsparse|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-roctracer|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-smi-lib|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocminfo|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocr-runtime|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocs|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |rosegarden|24.12|25.06|app-creativity|Compliance mode enabled, was '25.06'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
