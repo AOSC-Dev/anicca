@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754601073?label=Updated)
+![Relative date](https://img.shields.io/date/1754604912?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -143,6 +143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|15.1.0|app-devel|Compliance mode enabled, was '15.1.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
+|ayano|0.1.3|0.1.4|app-network|Compliance mode enabled, was '0.1.4'|
 |ayatana-indicator-messages|0.8.2|24.5.1|runtime-desktop|Compliance mode enabled, was '24.5.1'|
 |b2sdk|2.5.0|2.9.4|lang-python|Compliance mode enabled, was '2.9.4'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
@@ -185,8 +186,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.88.0|runtime-common|Compliance mode enabled, was '1.88.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.20.26|1.40.4|lang-python|Compliance mode enabled, was '1.40.4'|
-|botocore|1.34.133|1.40.4|lang-python|Compliance mode enabled, was '1.40.4'|
+|boto3|1.20.26|1.40.5|lang-python|Compliance mode enabled, was '1.40.5'|
+|botocore|1.34.133|1.40.5|lang-python|Compliance mode enabled, was '1.40.5'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
@@ -198,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
-|buildah|1.40.1|1.41.0|app-containers|Compliance mode enabled, was '1.41.0'|
+|buildah|1.40.1|1.41.1|app-containers|Compliance mode enabled, was '1.41.1'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bulky|3.4|3.8|desktop-cinnamon|Compliance mode enabled, was '3.8'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
@@ -2409,6 +2410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
 |rocm-bandwidth-test|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-clr|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-cmake|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-comgr|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-core|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
