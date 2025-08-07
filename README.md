@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754579801?label=Updated)
+![Relative date](https://img.shields.io/date/1754583449?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1733,7 +1733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.4|app-doc|Compliance mode enabled, was '1.26.4'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
-|musicfox|4.6.2|4.6.3|app-multimedia|Compliance mode enabled, was '4.6.3'|
+|musicfox|4.6.2|4.6.4|app-multimedia|Compliance mode enabled, was '4.6.4'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |mvfst|2025.03.24.00|2025.08.04.00|runtime-network|Compliance mode enabled, was '2025.08.04.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
@@ -2413,6 +2413,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
+|rocm-hipblas|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipblas-common|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipblaslt|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipcub|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipfft|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipfort|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipify|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hiprand|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
+|rocm-hipsparse|6.4.2|6.4.3|runtime-rocm|Compliance mode enabled, was '6.4.3'|
 |rocm-llama-cpp|6.4.2|6109|runtime-rocm|Compliance mode enabled, was '6109'|
 |rocm-rccl|6.4.2|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.2 -> 3.3.0)|
 |rocm-rocblas|6.4.2|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
@@ -2662,6 +2671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcpdump|4.99.4|4.99.5|app-network|Compliance mode enabled, was '4.99.5'|
 |tcping|1.3.5|2.1.0|app-network|Compliance mode enabled, was '2.1.0'|
 |tcsh|6.24.12|6.24.16|app-shells|Compliance mode enabled, was '6.24.16'|
+|tdb|1.4.13|1.4.14|app-database|Compliance mode enabled, was '1.4.14'|
 |tde-common-cmake|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tde-i18n|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tde-style-baghira|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2719,7 +2729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminator|2.1.4|2.1.5|desktop-gnome|Compliance mode enabled, was '2.1.5'|
 |tesseract|5.5.0|5.5.1|app-utils|Compliance mode enabled, was '5.5.1'|
 |testresources|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
-|tevent|0.16.2|0.17.0|runtime-common|Compliance mode enabled, was '0.17.0'|
+|tevent|0.16.2|0.17.1|runtime-common|Compliance mode enabled, was '0.17.1'|
 |texlive|20250308|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20250308 -> 2025)|
 |texmaker|5.1.2|6.0.1|app-doc|Compliance mode enabled, was '6.0.1'|
 |texstudio|4.8.6|4.8.8|app-doc|Compliance mode enabled, was '4.8.8'|
@@ -3007,7 +3017,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zfs|2.3.1|2.3.3|app-admin|Compliance mode enabled, was '2.3.3'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
-|zlib+32|2.2.3|2.2.4|runtime-optenv32|Compliance mode enabled, was '2.2.4'|
+|zlib|2.2.4|2.2.5|core-libs|Compliance mode enabled, was '2.2.5'|
+|zlib+32|2.2.3|2.2.5|runtime-optenv32|Compliance mode enabled, was '2.2.5'|
 |zmusic|1.1.14|1.2.0|app-games|Compliance mode enabled, was '1.2.0'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
