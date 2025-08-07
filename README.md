@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754561629?label=Updated)
+![Relative date](https://img.shields.io/date/1754565217?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -256,7 +256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|cherry-studio|1.5.3|1.5.4|app-utils|Compliance mode enabled, was '1.5.4'|
+|cherry-studio|1.5.3|1.5.5|app-utils|Compliance mode enabled, was '1.5.5'|
 |chinadns-ng|2024.07.16|2025.06.20|app-web|Compliance mode enabled, was '2025.06.20'|
 |chiron-sans-hk|2.046|2.530|desktop-fonts|Compliance mode enabled, was '2.530'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
@@ -1907,6 +1907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
+|orage|4.20.1|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |orc+32|0.4.32|0.4.41|runtime-optenv32|Compliance mode enabled, was '0.4.41'|
 |orca|42.3|48.6|desktop-gnome|Compliance mode enabled, was '48.6'|
 |osinfo-db|20240701|20250606|app-admin|Compliance mode enabled, was '20250606'|
@@ -2585,7 +2586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.4.321.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
 |spirv-tools+32|1.4.309.0|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
 |sqlalchemy|1.2.18|2.0.42|lang-python|Compliance mode enabled, was '2.0.42'|
-|sqlcipher|4.5.6|4.10.0|app-database|Compliance mode enabled, was '4.10.0'|
 |sqlite|3500000|3.50.4|app-database|Possible downgrade from the current version (3500000 -> 3.50.4)|
 |sqlite+32|3.46.1|3.50.4|runtime-optenv32|Compliance mode enabled, was '3.50.4'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
