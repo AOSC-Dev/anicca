@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754594226?label=Updated)
+![Relative date](https://img.shields.io/date/1754597637?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -87,6 +87,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|3.0.2|3.1.3|app-admin|Compliance mode enabled, was '3.1.3'|
 |arcanist|2025.18|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2025.18 -> 2022.37)|
 |arch-install-scripts|28|29|app-utils||
+|archlinux-keyring|20250807|20250807.1|runtime-data|Compliance mode enabled, was '20250807.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.2|lang-python|Compliance mode enabled, was '3.6.2'|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
@@ -1427,7 +1428,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpaper|2.2.5|2.2.6|runtime-productivity|Compliance mode enabled, was '2.2.6'|
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.4|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
-|libpeas|1.36.0|2.0.7|desktop-gnome|Compliance mode enabled, was '2.0.7'|
+|libpeas|1.36.0|2.1.0|desktop-gnome|Compliance mode enabled, was '2.1.0'|
 |libphonenumber|8.13.38|9.0.11|runtime-i18n|Compliance mode enabled, was '9.0.11'|
 |libpinyin|2.6.0|2.10.2|runtime-i18n|Compliance mode enabled, was '2.10.2'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
@@ -1911,7 +1912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.724.0|2025.807.0-tachyon|app-games|Compliance mode enabled, was '2025.807.0-tachyon'|
+|osu-lazer|2025.724.0|2025.808.0-tachyon|app-games|Compliance mode enabled, was '2025.808.0-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |oxygen-icons|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
@@ -1961,7 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.98|app-games|Compliance mode enabled, was '2.5.98'|
+|pcsx2|1.6.0<br>+git20210825|2.5.101|app-games|Compliance mode enabled, was '2.5.101'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
