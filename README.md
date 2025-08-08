@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754666097?label=Updated)
+![Relative date](https://img.shields.io/date/1754669726?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -87,7 +87,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|3.0.2|3.1.3|app-admin|Compliance mode enabled, was '3.1.3'|
 |arcanist|2025.18|2022.37|app-devel|Compliance mode enabled, was '2022.37'<br>Possible downgrade from the current version (2025.18 -> 2022.37)|
 |arch-install-scripts|28|29|app-utils||
-|archlinux-keyring|20250807|20250807.1|runtime-data|Compliance mode enabled, was '20250807.1'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.2|lang-python|Compliance mode enabled, was '3.6.2'|
 |argparse-manpage|4.5|4.6|lang-python|Compliance mode enabled, was '4.6'|
@@ -466,7 +465,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |edk2-test|202406|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202406 -> edk2-test-rc1_202404)|
-|egl-wayland|1.1.19|1.1.20|runtime-display|Compliance mode enabled, was '1.1.20'|
 |eglexternalplatform|1.1|1.2.1|runtime-display|Compliance mode enabled, was '1.2.1'|
 |elfutils|0.191|0.193|app-utils|Compliance mode enabled, was '0.193'|
 |elfutils+32|0.191|0.193|runtime-optenv32|Compliance mode enabled, was '0.193'|
@@ -1239,7 +1237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kxmlrpcclient|5.115.0|6.16.0|desktop-kde|Compliance mode enabled, was '6.16.0'|
 |kyotocabinet|1.2.79|1.2.80|app-database|Compliance mode enabled, was '1.2.80'|
-|lact|0.8.0|0.8.1|app-admin|Compliance mode enabled, was '0.8.1'|
 |ladish|20200418|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20200418 -> 1.3)|
 |lapack|3.12.0|3.12.1|app-scientific|Compliance mode enabled, was '3.12.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
@@ -1273,7 +1270,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|27|runtime-wasi|Compliance mode enabled, was '27'|
 |libcaldav|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|libcamera|0.5.1|0.5.2|runtime-devices|Compliance mode enabled, was '0.5.2'|
 |libcap|2.73|2.76|runtime-common|Compliance mode enabled, was '2.76'|
 |libcap+32|2.73|2.76|runtime-optenv32|Compliance mode enabled, was '2.76'|
 |libcarddav|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2917,7 +2913,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
 |warzone2100|4.5.3|4.5.5|app-games||
 |watchman|2025.03.24.00|2025.08.04.00|app-utils|Compliance mode enabled, was '2025.08.04.00'|
-|waybar|0.13.0|0.14.0|app-utils|Compliance mode enabled, was '0.14.0'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
 |wbg|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
