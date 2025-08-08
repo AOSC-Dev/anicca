@@ -1853,6 +1853,7 @@
 ["ruamel-yaml-clib","0.2.6","0.2.12","lang-python",1637636761,["Compliance mode enabled, was '0.2.12'"]],
 ["colorama","0.4.3","0.4.6","lang-python",1581796620,["Compliance mode enabled, was '0.4.6'"]],
 ["pygments","2.19.1","2.19.2","lang-python",1752470414,["Compliance mode enabled, was '2.19.2'"]],
+["python-dbusmock","0.22.0","0.36.0","lang-python",1746957873,["Compliance mode enabled, was '0.36.0'"]],
 ["flit-core","3.9.0","3.12.0","lang-python",1707034769,["Compliance mode enabled, was '3.12.0'"]],
 ["futures","3.2.0","3.4.0","lang-python",1530718722,["Compliance mode enabled, was '3.4.0'"]],
 ["pycares","4.5.0","4.10.0","lang-python",1753863282,["Compliance mode enabled, was '4.10.0'"]],
