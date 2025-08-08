@@ -31,7 +31,7 @@
 ["shadow","4.17.2","4.18.0","app-admin",1737808754,["Compliance mode enabled, was '4.18.0'"]],
 ["partclone","0.3.20","0.3.37","app-admin",1660376240,["Compliance mode enabled, was '0.3.37'"]],
 ["colord","1.4.7","1.4.8","app-admin",1709829376,["Compliance mode enabled, was '1.4.8'"]],
-["nut","2.7.4","2.8.3","app-admin",1625211684,["Compliance mode enabled, was '2.8.3'"]],
+["nut","2.7.4","2.8.4","app-admin",1625211684,["Compliance mode enabled, was '2.8.4'"]],
 ["callaudiod","0.1.4","0.1.10","app-admin",1663210244,["Compliance mode enabled, was '0.1.10'"]],
 ["oath-toolkit","2.6.12","2.6.13","app-admin",1728134732,["Compliance mode enabled, was '2.6.13'"]],
 ["po-debconf","1.0.21","1.0.21+nmu1","app-admin",1707021266,["Compliance mode enabled, was '1.0.21+nmu1'","Possible downgrade from the current version (1.0.21 -> 1.0.21+nmu1)"]],
