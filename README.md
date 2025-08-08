@@ -1,11 +1,10 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754621922?label=Updated)
+![Relative date](https://img.shields.io/date/1754625802?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
-|7-zip|25.00|25.01|app-utils|Compliance mode enabled, was '25.01'|
 |a2ps|4.15.6|4.15.7|app-doc|Compliance mode enabled, was '4.15.7'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
@@ -280,7 +279,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|8.1.7|8.2.2|lang-python|Compliance mode enabled, was '8.2.2'|
 |clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
-|cln|1.3.6|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |cloc|2.02|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |cloud-init|24.4.1|25.1.4|app-admin|Compliance mode enabled, was '25.1.4'|
 |cloudflared|2025.7.0|2025.100.150|app-proxy|Compliance mode enabled, was '2025.100.150'|
@@ -1583,7 +1581,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|18.1.8|20.1.8|runtime-optenv32|Compliance mode enabled, was '20.1.8'|
 |llvm-18|18.1.8|20.1.8|app-devel|Compliance mode enabled, was '20.1.8'|
 |llvm-19|19.1.6|20.1.8|app-devel|Compliance mode enabled, was '20.1.8'|
-|llvm-runtime+wasi|18.1.8|20.1.8|runtime-wasi|Compliance mode enabled, was '20.1.8'|
 |lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
@@ -1878,7 +1875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
-|openjdk-8|8u462-ga|8u472-b01|lang-java||
+|openjdk-8|8u462-ga|8u472-b02|lang-java||
 |openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
 |openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
@@ -2305,7 +2302,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-crc|7.0.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
 |python-cssselect|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-daemonize|2.5.0|3.10.3|lang-python|Compliance mode enabled, was '3.10.3'|
-|python-dbusmock|0.22.0|0.36.0|lang-python|Compliance mode enabled, was '0.36.0'|
 |python-discid|1.2.0|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-evdev|1.7.1|1.9.2|lang-python|Compliance mode enabled, was '1.9.2'|
 |python-gattlib|23.12.21-dbus|0.20210616|lang-python|Possible downgrade from the current version (23.12.21-dbus -> 0.20210616)|
@@ -2900,7 +2896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader+32|1.4.309.0|1.4.321.0|runtime-optenv32|Compliance mode enabled, was '1.4.321.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3r550|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscode|1.102.2|1.102.3|app-editors|Compliance mode enabled, was '1.102.3'|
+|vscode|1.102.2|1.103.0|app-editors|Compliance mode enabled, was '1.103.0'|
 |vscodium|1.102.14746|1.102.35058|app-editors|Compliance mode enabled, was '1.102.35058'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.3|runtime-desktop|Compliance mode enabled, was '0.80.3'|
@@ -3024,7 +3020,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.186.8|0.198.2|app-editors|Compliance mode enabled, was '0.198.2'|
+|zed|0.186.8|0.198.3|app-editors|Compliance mode enabled, was '0.198.3'|
 |zellij|0.42.2|0.43.0|app-utils|Compliance mode enabled, was '0.43.0'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.3|app-admin|Compliance mode enabled, was '2.3.3'|
