@@ -1794,6 +1794,7 @@
 ["memcached","1.6.36","1.6.39","app-admin",1740020459,["Compliance mode enabled, was '1.6.39'"]],
 ["bubblewrap","0.10.0","0.11.0","app-admin",1723734185,["Compliance mode enabled, was '0.11.0'"]],
 ["erofs-utils","1.8.9","1.8.10","app-admin",1751040496,["Compliance mode enabled, was '1.8.10'"]],
+["ruri","3.9.0","3.9.1","app-admin",1753800273,["Compliance mode enabled, was '3.9.1'"]],
 ["jetring","0.29","0.32","app-admin",1600920748,["Compliance mode enabled, was '0.32'"]],
 ["open-isns","0.101","0.103","app-admin",1641887332,["Compliance mode enabled, was '0.103'"]],
 ["dpkg","1.22.18","1.22.21","app-admin",1742097845,["Compliance mode enabled, was '1.22.21'"]],

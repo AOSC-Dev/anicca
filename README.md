@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754734362?label=Updated)
+![Relative date](https://img.shields.io/date/1754737827?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2456,6 +2456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pg|1.5.9|1.6.1|lang-ruby|Compliance mode enabled, was '1.6.1'|
 |ruby-pkg-config|1.5.8|1.6.2|lang-ruby|Compliance mode enabled, was '1.6.2'|
 |runc|1.2.6|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
+|ruri|3.9.0|3.9.1|app-admin|Compliance mode enabled, was '3.9.1'|
 |rust-bindgen|0.69.4|0.72.0|lang-rust|Compliance mode enabled, was '0.72.0'|
 |rustc|1.88.0|1.89.0|lang-rust|Compliance mode enabled, was '1.89.0'|
 |rustc+32|1.85.0|1.89.0|runtime-optenv32|Compliance mode enabled, was '1.89.0'|
