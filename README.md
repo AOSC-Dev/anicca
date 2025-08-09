@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754745922?label=Updated)
+![Relative date](https://img.shields.io/date/1754748687?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -397,6 +397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
 |dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
+|dmenu|5.3|5.4|app-utils|Compliance mode enabled, was '5.4'|
 |dnscontrol|4.22.0|4.23.0|app-network|Compliance mode enabled, was '4.23.0'|
 |dnscrypt|2.1.7|2.1.12|app-network|Compliance mode enabled, was '2.1.12'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
@@ -776,7 +777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |gwenview-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
-|handbrake|1.9.0|1.9.2|app-multimedia|Compliance mode enabled, was '1.9.2'|
+|handbrake|1.9.0|1.10.0|app-multimedia|Compliance mode enabled, was '1.10.0'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|11.3.3|runtime-desktop|Compliance mode enabled, was '11.3.3'|
 |harfbuzz+32|8.4.0|11.3.3|runtime-optenv32|Compliance mode enabled, was '11.3.3'|
