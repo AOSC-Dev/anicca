@@ -1801,7 +1801,6 @@
 ["dpkg","1.22.18","1.22.21","app-admin",1742097845,["Compliance mode enabled, was '1.22.21'"]],
 ["dbus","1.14.10","1.16.2","app-admin",1709829586,["Compliance mode enabled, was '1.16.2'"]],
 ["tarsnap","1.0.39","1.0.41","app-admin",1528346318,["Compliance mode enabled, was '1.0.41'"]],
-["firejail","0.9.72","0.9.76","app-admin",1711174555,["Compliance mode enabled, was '0.9.76'"]],
 ["rpm","4.18.0","4.20.1-release","app-admin",1669533924,["Compliance mode enabled, was '4.20.1-release'"]],
 ["mdadm","4.2","4.3","app-admin",1673935786,["Compliance mode enabled, was '4.3'"]],
 ["quota-tools","4.09","4.10","app-admin",1673935786,["Compliance mode enabled, was '4.10'"]],
