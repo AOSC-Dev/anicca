@@ -1090,7 +1090,7 @@
 ["fann","20190109","2.2.0","runtime-scientific",1570905465,["Compliance mode enabled, was '2.2.0'","Possible downgrade from the current version (20190109 -> 2.2.0)"]],
 ["libqalculate","4.5.1","5.7.0","runtime-scientific",1721223235,["Compliance mode enabled, was '5.7.0'"]],
 ["opencv","4.9.0","4.12.0","runtime-scientific",1752544442,["Compliance mode enabled, was '4.12.0'"]],
-["libindi","2.1.1","2.1.4","runtime-scientific",1738992340,["Compliance mode enabled, was '2.1.4'"]],
+["libindi","2.1.1","2.1.5","runtime-scientific",1738992340,["Compliance mode enabled, was '2.1.5'"]],
 ["fplll","5.4.5","5.5.0","runtime-scientific",1710578622,["Compliance mode enabled, was '5.5.0'"]],
 ["gsl","2.5","2.8","runtime-scientific",1531411177,["Compliance mode enabled, was '2.8'"]],
 ["suitesparse","7.6.1","7.11.0","runtime-scientific",1710816632,["Compliance mode enabled, was '7.11.0'"]],
