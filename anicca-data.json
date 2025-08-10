@@ -1894,7 +1894,6 @@
 ["gpicview","0.2.5","0.3.1","desktop-lxde",1456674815,["Compliance mode enabled, was '0.3.1'"]],
 ["lxterminal","0.3.2","0.4.1","desktop-lxde",1537980614,["Compliance mode enabled, was '0.4.1'"]],
 ["cmark","0.31.0","0.31.1","runtime-doc",1720958833,["Compliance mode enabled, was '0.31.1'"]],
-["poppler","25.07.0","25.08.0","groups",1752544442,["Compliance mode enabled, was '25.08.0'"]],
 ["libppd","2.0.0","2.1.1","runtime-doc",1712074122,["Compliance mode enabled, was '2.1.1'"]],
 ["cups-pdf","3.0.1","3.0.2","runtime-doc",1511927566,["Compliance mode enabled, was '3.0.2'"]],
 ["chmlib","0.40a","0.40","runtime-doc",1511457561,["Compliance mode enabled, was '0.40'"]],
