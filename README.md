@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754946728?label=Updated)
+![Relative date](https://img.shields.io/date/1754950372?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -395,7 +395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscontrol|4.22.0|4.23.0|app-network|Compliance mode enabled, was '4.23.0'|
-|dnscrypt|2.1.7|2.1.12|app-network|Compliance mode enabled, was '2.1.12'|
+|dnscrypt|2.1.7|2.1.13|app-network|Compliance mode enabled, was '2.1.13'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|28.0.4|28.3.3|app-containers||
@@ -1846,7 +1846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.99.7|lang-python|Compliance mode enabled, was '1.99.7'|
+|openai-python|1.63.2|1.99.8|lang-python|Compliance mode enabled, was '1.99.8'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -2691,7 +2691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|teams-for-linux|1.13.0|2.1.4|app-web|Compliance mode enabled, was '2.1.4'|
+|teams-for-linux|1.13.0|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
