@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754919246?label=Updated)
+![Relative date](https://img.shields.io/date/1754921722?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1649,6 +1649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |marble|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |mariadb|11.7.2|12.1.1|app-database|Compliance mode enabled, was '12.1.1'|
 |markdown|3.3.4|3.8.2|lang-python|Compliance mode enabled, was '3.8.2'|
+|markdown-it|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |markdownpart|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |marshmallow|3.20.2|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |mate-panel|1.28.4|1.28.5|desktop-mate|Compliance mode enabled, was '1.28.5'|
@@ -1727,7 +1728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtr|0.95|0.96|app-network|Compliance mode enabled, was '0.96'|
 |muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |mujs|1.3.5|1.3.7|lang-js|Compliance mode enabled, was '1.3.7'|
-|multidict|5.1.0|6.6.3|lang-python|Compliance mode enabled, was '6.6.3'|
+|multidict|5.1.0|6.6.4|lang-python|Compliance mode enabled, was '6.6.4'|
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.4|app-doc|Compliance mode enabled, was '1.26.4'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
@@ -2975,7 +2976,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.1|42.4|desktop-gnome|Compliance mode enabled, was '42.4'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.56|app-electronics|Compliance mode enabled, was '0.56'|
-|yt-dlp|2025.07.21|2025.08.11|app-multimedia|Compliance mode enabled, was '2025.08.11'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.3.1|2.7.2|app-devices|Compliance mode enabled, was '2.7.2'|
 |yubikey-manager|4.0.1|5.7.2|app-devices|Compliance mode enabled, was '5.7.2'|
