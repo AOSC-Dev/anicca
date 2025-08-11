@@ -2327,6 +2327,7 @@
 ["mesa-amber","21.3.9","25.2.0","runtime-display",1678950872,["Compliance mode enabled, was '25.2.0'"]],
 ["util-macros","1.20.1","1.20.2","runtime-display",1716265534,["Compliance mode enabled, was '1.20.2'"]],
 ["imath","3.1.11","3.2.0","runtime-display",1721094382,["Compliance mode enabled, was '3.2.0'"]],
+["glfw","3.4","3.5.0","runtime-display",1713234863,["Compliance mode enabled, was '3.5.0'"]],
 ["rxvt-unicode","9.22","9.31","runtime-display",1479956588,["Compliance mode enabled, was '9.31'"]],
 ["libxnvctrl","565.57.01","570.86.16","runtime-display",1735366495,["Compliance mode enabled, was '570.86.16'"]],
 ["vulkan-loader","1.4.309.0","1.4.325","runtime-display",1745746413,["Compliance mode enabled, was '1.4.325'"]],
