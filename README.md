@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755022713?label=Updated)
+![Relative date](https://img.shields.io/date/1755025922?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -860,6 +860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-media-driver|25.2.6|25.3.1|runtime-multimedia|Compliance mode enabled, was '25.3.1'|
+|intel-ucode|20250812|20250512|runtime-data|Compliance mode enabled, was '20250512'<br>Possible downgrade from the current version (20250812 -> 20250512)|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
 |iosevka-fonts|33.2.7|33.2.8|desktop-fonts|Compliance mode enabled, was '33.2.8'|
 |iozone|3.492|3.507|app-admin|Compliance mode enabled, was '3.507'|
@@ -1728,7 +1729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mujs|1.3.5|1.3.7|lang-js|Compliance mode enabled, was '1.3.7'|
 |multidict|5.1.0|6.6.4|lang-python|Compliance mode enabled, was '6.6.4'|
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
-|mupdf|1.24.10|1.26.4|app-doc|Compliance mode enabled, was '1.26.4'|
+|mupdf|1.24.10|1.26.5|app-doc|Compliance mode enabled, was '1.26.5'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
 |musicfox|4.6.2|4.6.6|app-multimedia|Compliance mode enabled, was '4.6.6'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
@@ -1909,7 +1910,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.724.0|2025.808.0-tachyon|app-games|Compliance mode enabled, was '2025.808.0-tachyon'|
+|osu-lazer|2025.724.0|2025.813.0-tachyon|app-games|Compliance mode enabled, was '2025.813.0-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |oxygen-icons|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
