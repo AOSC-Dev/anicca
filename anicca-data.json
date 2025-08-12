@@ -1113,6 +1113,7 @@
 ["opam","2.1.6","2.4.1","lang-ocaml",1717056189,["Compliance mode enabled, was '2.4.1'"]],
 ["ocaml-csexp","1.5.1","1.5.2","lang-ocaml",1715073538,["Compliance mode enabled, was '1.5.2'"]],
 ["ocaml-pp","1.1.2","2.0.0","lang-ocaml",1715073538,["Compliance mode enabled, was '2.0.0'"]],
+["facile","1.1.3","1.1.4","lang-ocaml",1715073538,["Compliance mode enabled, was '1.1.4'"]],
 ["ocaml-stdlib-shims","0.2.0","0.3.0","lang-ocaml",1715073538,["Compliance mode enabled, was '0.3.0'"]],
 ["findlib","1.9.7","1.9.8","lang-ocaml",1731475538,["Compliance mode enabled, was '1.9.8'"]],
 ["ocaml-num","1.3","1.6","lang-ocaml",1715073538,["Compliance mode enabled, was '1.6'"]],
