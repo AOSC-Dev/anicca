@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1754966614?label=Updated)
+![Relative date](https://img.shields.io/date/1754970348?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1009,6 +1009,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|25.04.3|desktop-kde|Compliance mode enabled, was '25.04.3'|
 |keep-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kemoticons|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
+|kernel-tools|6.14.11|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.11 -> 5.19.17)|
 |kexec-tools|2.0.29|2.0.31|app-admin|Compliance mode enabled, was '2.0.31'|
 |keximdb-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
@@ -2821,8 +2822,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41.1|app-utils|Compliance mode enabled, was '2.41.1'|
 |util-linux+32|2.40.4|2.41.1|runtime-optenv32|Compliance mode enabled, was '2.41.1'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
+|uv|0.8.8|0.8.9|lang-python|Compliance mode enabled, was '0.8.9'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202508102213|runtime-data|Compliance mode enabled, was '202508102213'<br>Versions not comparable: `202501302211` and `202508102213`|
+|v2ray-rules-dat|202501302211|202508112214|runtime-data|Compliance mode enabled, was '202508112214'<br>Versions not comparable: `202501302211` and `202508112214`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
