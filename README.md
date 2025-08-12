@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755033102?label=Updated)
+![Relative date](https://img.shields.io/date/1755036862?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -708,7 +708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2.9.3|runtime-gnustep|Compliance mode enabled, was '2_9_3'|
 |gnutls|3.8.7|3.8.10|runtime-cryptography|Compliance mode enabled, was '3.8.10'|
 |gnutls+32|3.8.7|3.8.10|runtime-optenv32|Compliance mode enabled, was '3.8.10'|
-|go|1.24.2|1.24.6|lang-golang||
+|go|1.24.2|1.25.0|lang-golang||
 |go-md2man|2.0.6|2.0.7|app-doc|Compliance mode enabled, was '2.0.7'|
 |gobject-introspection|1.80.0|1.84.0|app-devel|Compliance mode enabled, was '1.84.0'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
@@ -719,7 +719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|139.0.7258.66|139.0.7258.127|app-web|Compliance mode enabled, was '139.0.7258.127'|
 |goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
-|goverlay|1.2|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
+|goverlay|1.2|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |gperftools|2.13|2.17|app-devel|Compliance mode enabled, was '2.17'|
 |gpgme|1.24.2|2.0.0|runtime-cryptography|Compliance mode enabled, was '2.0.0'|
 |gphoto2|2.5.28|2.5.32|app-imaging|Compliance mode enabled, was '2.5.32'|
@@ -844,8 +844,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ignition|2.20.0|2.22.0|app-admin|Compliance mode enabled, was '2.22.0'|
 |igraph|0.7.1|0.10.16|runtime-scientific|Compliance mode enabled, was '0.10.16'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
-|imagemagick|6.9.13<br>+16|6.9.13+26|app-utils|Compliance mode enabled, was '6.9.13-26'|
-|imagemagick+7|7.1.1<br>+32|7.1.2+0|app-utils|Compliance mode enabled, was '7.1.2-0'|
+|imagemagick|6.9.13<br>+16|6.9.13+27|app-utils|Compliance mode enabled, was '6.9.13-27'|
+|imagemagick+7|7.1.1<br>+32|7.1.2+1|app-utils|Compliance mode enabled, was '7.1.2-1'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.2.0|runtime-display|Compliance mode enabled, was '3.2.0'|
 |img2pdf|0.5.1|0.6.1|app-doc|Compliance mode enabled, was '0.6.1'|
@@ -1814,7 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |nvchecker|2.15.1|2.18|app-utils|Compliance mode enabled, was '2.18'|
 |nvidia|575.64.05|580.65.06|groups|Compliance mode enabled, was '580.65.06'|
-|nvidia-open|575.64.05|580.65.06|runtime-display|Compliance mode enabled, was '580.65.06'|
+|nvidia-open|575.64.05|580.76.05|runtime-display|Compliance mode enabled, was '580.76.05'|
 |nvme-cli|2.11|2.15|app-admin|Compliance mode enabled, was '2.15'|
 |oath-toolkit|2.6.12|2.6.13|app-admin|Compliance mode enabled, was '2.6.13'|
 |oauthlib|3.2.2|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
@@ -1961,7 +1961,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.45|runtime-optenv32|Compliance mode enabled, was '10.45'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.103|app-games|Compliance mode enabled, was '2.5.103'|
+|pcsx2|1.6.0<br>+git20210825|2.5.104|app-games|Compliance mode enabled, was '2.5.104'|
 |pdal|2.8.4|2.9.0|runtime-gis|Compliance mode enabled, was '2.9.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
