@@ -1542,6 +1542,7 @@
 ["libreoffice","25.2.4.3","25.8.0.4","groups",1752544442,["Compliance mode enabled, was '25.8.0.4'"]],
 ["httrack","3.49.2","3.49.5","app-web",1495802694,["Compliance mode enabled, was '3.49.5'"]],
 ["nginx","1.28.0+brotli1.0.0~rc1+git20231009","1.29.0","app-web",1753542190,["Compliance mode enabled, was '1.29.0'"]],
+["cinny-desktop","4.8.1","4.9.0","app-web",1752916911,["Compliance mode enabled, was '4.9.0'"]],
 ["httpie","3.2.3","3.2.4","app-web",1728594424,["Compliance mode enabled, was '3.2.4'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
