@@ -1990,7 +1990,7 @@
 ["concurrencykit","0.7.1","0.7.2","runtime-common",1665329558,["Compliance mode enabled, was '0.7.2'"]],
 ["xerces-c","3.2.3","3.3.0","runtime-common",1721223235,["Compliance mode enabled, was '3.3.0'"]],
 ["pcre2","10.44","10.45","runtime-common",1720106309,["Compliance mode enabled, was '10.45'"]],
-["boost","1.83.0","1.88.0","runtime-common",1721353887,["Compliance mode enabled, was '1.88.0'"]],
+["boost","1.83.0","1.89.0","runtime-common",1721353887,["Compliance mode enabled, was '1.89.0'"]],
 ["libsigc++","2.10.8","3.6.0","runtime-common",1689323111,["Compliance mode enabled, was '3.6.0'"]],
 ["xmlrpc-c","1.54.06","1.60.05","runtime-common",1678522481,["Compliance mode enabled, was '1.60.05'"]],
 ["cxxopts","3.2.0","3.3.1","runtime-common",1746093839,["Compliance mode enabled, was '3.3.1'"]],
