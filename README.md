@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755162942?label=Updated)
+![Relative date](https://img.shields.io/date/1755166412?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -791,6 +791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |hidapi|0.14.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |highlight|4.12|4.16|app-devel|Compliance mode enabled, was '4.16'|
+|highway|1.2.0|1.3.0|runtime-common|Compliance mode enabled, was '1.3.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |hmcl|3.6.15|3.6.15.289|app-games|Compliance mode enabled, was '3.6.15.289'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
@@ -2488,7 +2489,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.10.0|6.12.0|lang-python|Compliance mode enabled, was '6.12.0'|
-|skanlite|23.08.5|25.07.90|desktop-kde|Compliance mode enabled, was '25.07.90'|
+|skanlite|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |skanpage|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |skopeo|1.19.0|1.20.0|app-containers|Compliance mode enabled, was '1.20.0'|
 |slick-greeter|2.0.4|2.2.2|desktop-displaymanagers|Compliance mode enabled, was '2.2.2'|
