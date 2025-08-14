@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755198814?label=Updated)
+![Relative date](https://img.shields.io/date/1755202463?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -76,7 +76,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-arrow|19.0.1|21.0.0|runtime-database|Compliance mode enabled, was '21.0.0'|
 |apache-maven|3.9.9|3.9.11|lang-java|Compliance mode enabled, was '3.9.11'|
-|apicula|0.14|0.21|app-electronics|Compliance mode enabled, was '0.21'|
+|apicula|0.14|0.22|app-electronics|Compliance mode enabled, was '0.22'|
 |apitrace|12.0|13.0|app-devel|Compliance mode enabled, was '13.0'|
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.4|1.0.6|app-admin|Compliance mode enabled, was '1.0.6'|
@@ -180,8 +180,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.20.26|1.40.9|lang-python|Compliance mode enabled, was '1.40.9'|
-|botocore|1.34.133|1.40.9|lang-python|Compliance mode enabled, was '1.40.9'|
+|boto3|1.20.26|1.40.10|lang-python|Compliance mode enabled, was '1.40.10'|
+|botocore|1.34.133|1.40.10|lang-python|Compliance mode enabled, was '1.40.10'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -194,7 +194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |btrfs-progs|6.15|6.16|app-admin|Compliance mode enabled, was '6.16'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
-|buildah|1.40.1|1.41.2|app-containers|Compliance mode enabled, was '1.41.2'|
+|buildah|1.40.1|1.41.3|app-containers|Compliance mode enabled, was '1.41.3'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bulky|3.4|3.8|desktop-cinnamon|Compliance mode enabled, was '3.8'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
@@ -512,6 +512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
 |fastfetch|2.49.0|2.50.1|app-utils|Compliance mode enabled, was '2.50.1'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
+|fastjsonschema|2.21.1|2.21.2|lang-python|Compliance mode enabled, was '2.21.2'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |fb303|2025.03.24.00|2025.08.11.00|runtime-network|Compliance mode enabled, was '2025.08.11.00'|
 |fbthrift|2025.03.10.00|2025.08.11.00|app-network|Compliance mode enabled, was '2025.08.11.00'|
@@ -2610,7 +2611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.11.0|runtime-scientific|Compliance mode enabled, was '7.11.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.806.175625|app-multimedia|Compliance mode enabled, was '2025.806.175625'|
+|sunshine|2025.122.141614|2025.814.134100|app-multimedia|Compliance mode enabled, was '2025.814.134100'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |superslicer|2.7.61.0|2.7.61.7|app-creativity|Compliance mode enabled, was '2.7.61.7'|
@@ -2997,6 +2998,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zmusic|1.1.14|1.2.0|app-games|Compliance mode enabled, was '1.2.0'|
 |zope-component|4.4.1|6.0|lang-python|Compliance mode enabled, was '6.0'|
 |zope-event|4.3.0|5.1.1|lang-python|Compliance mode enabled, was '5.1.1'|
+|zotero|7.0.22|7.0.23|app-productivity|Compliance mode enabled, was '7.0.23'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
 |zsync|0.6.2|0.6.3|app-network|Compliance mode enabled, was '0.6.3'|
