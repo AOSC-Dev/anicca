@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755209536?label=Updated)
+![Relative date](https://img.shields.io/date/1755213122?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -395,6 +395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
 |dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
+|dnscontrol|4.22.0|4.23.0|app-network|Compliance mode enabled, was '4.23.0'|
 |dnscrypt|2.1.7|2.1.13|app-network|Compliance mode enabled, was '2.1.13'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -917,6 +918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kajongg|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kalarm|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kalgebra|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
+|kalk|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kalzium|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kamera|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kamoso|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2214,7 +2216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |proj|9.2.1|9.6.2|app-gis|Compliance mode enabled, was '9.6.2'|
 |projectm|4.0.0|4.1.4|runtime-multimedia|Compliance mode enabled, was '4.1.4'|
 |prompt-toolkit|3.0.48|3.0.51|lang-python|Compliance mode enabled, was '3.0.51'|
-|protobuf|25.2|31.1|runtime-common|Compliance mode enabled, was '31.1'|
+|protobuf|25.2|32.0|runtime-common|Compliance mode enabled, was '32.0'|
 |protobuf-c|1.5.0|1.5.2|runtime-common|Compliance mode enabled, was '1.5.2'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.15.2|3.16.1|app-admin|Compliance mode enabled, was '3.16.1'|
@@ -2346,6 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qpageview|0.6.2|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
 |qpdf|11.9.0|12.2.0|app-doc|Compliance mode enabled, was '12.2.0'|
 |qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
+|qpwgraph|0.9.4|0.9.5|app-multimedia|Compliance mode enabled, was '0.9.5'|
 |qqc2-desktop-style|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qsynth|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
