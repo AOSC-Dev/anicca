@@ -2933,7 +2933,7 @@
 ["virtiofsd","1.13.0","1.13.2","app-virtualization",1737266302,["Compliance mode enabled, was '1.13.2'"]],
 ["qemu","9.2.2","10.0.3","app-virtualization",1743473069,["Compliance mode enabled, was '10.0.3'"]],
 ["virglrenderer","0.10.4","1.1.1","app-virtualization",1693486148,["Compliance mode enabled, was '1.1.1'"]],
-["virtualbox","7.1.8","7.1.12","app-virtualization",1744783592,["Compliance mode enabled, was '7.1.12'"]],
+["virtualbox","7.1.8","7.2.0","app-virtualization",1744783592,["Compliance mode enabled, was '7.2.0'"]],
 ["dtk6widget","6.0.37","6.0.40","desktop-dde",1751277967,["Compliance mode enabled, was '6.0.40'"]],
 ["dtk6core","6.0.37","6.0.40","desktop-dde",1751277967,["Compliance mode enabled, was '6.0.40'"]],
 ["dtkcommon","5.7.17","5.7.20","desktop-dde",1751277967,["Compliance mode enabled, was '5.7.20'"]],
