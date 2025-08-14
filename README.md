@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755184411?label=Updated)
+![Relative date](https://img.shields.io/date/1755188199?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2132,6 +2132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pip|25.1.1|25.2|lang-python|Compliance mode enabled, was '25.2'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|pixi|0.51.0|0.52.0|app-devel|Compliance mode enabled, was '0.52.0'|
 |pixman|0.43.0|0.46.4|runtime-display|Compliance mode enabled, was '0.46.4'|
 |pixman+32|0.43.0|0.46.4|runtime-optenv32|Compliance mode enabled, was '0.46.4'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
@@ -2189,6 +2190,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19.7.0|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|2.0.6|runtime-multimedia|Compliance mode enabled, was '2.0.6'|
 |postfix|3.7.3|3.10.3|app-web|Compliance mode enabled, was '3.10.3'|
+|postgresql|17.5|17.6|app-database|Compliance mode enabled, was '17.6'|
+|postgresql-13|13.21|13.22|app-database|Compliance mode enabled, was '13.22'|
+|postgresql-14|14.18|14.19|app-database|Compliance mode enabled, was '14.19'|
+|postgresql-15|15.13|15.14|app-database|Compliance mode enabled, was '15.14'|
+|postgresql-16|16.9|16.10|app-database|Compliance mode enabled, was '16.10'|
+|postgresql-17|17.5|17.6|app-database|Compliance mode enabled, was '17.6'|
 |potracegui-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |powerdevil|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
@@ -2613,7 +2620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swiftclient|4.6.0|4.8.0|lang-python|Compliance mode enabled, was '4.8.0'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
-|syncthing|1.30.0|2.0.0|app-network|Compliance mode enabled, was '2.0.0'|
+|syncthing|1.30.0|2.0.1|app-network|Compliance mode enabled, was '2.0.1'|
 |syndication|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
@@ -2861,6 +2868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.3|runtime-desktop|Compliance mode enabled, was '0.80.3'|
 |vtk|9.3.0|9.5.0|app-scientific|Compliance mode enabled, was '9.5.0'|
+|vulkan-extensionlayer|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
 |vulkan-headers|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
 |vulkan-headers+32|1.4.309.0|1.4.325|runtime-optenv32|Compliance mode enabled, was '1.4.325'|
 |vulkan-loader|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
