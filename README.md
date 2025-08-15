@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755267155?label=Updated)
+![Relative date](https://img.shields.io/date/1755270857?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -949,7 +949,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcodecs|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kcolorchooser|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
-|kcompletion|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kconfig|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kconfigwidgets|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kcontacts|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -2516,6 +2515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sof-firmware|2025.01|2025.05|runtime-kernel|Compliance mode enabled, was '2025.05'|
 |sof-tools|2.12|2.13|app-multimedia|Compliance mode enabled, was '2.13'|
+|sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |sonic-visualiser|4.4|5.2.1|app-multimedia|Compliance mode enabled, was '5.2.1'|
 |sonivox|3.6.12|3.6.16|runtime-multimedia|Compliance mode enabled, was '3.6.16'|
@@ -2554,7 +2554,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spice|0.15.2|0.16.0|runtime-virtualization|Compliance mode enabled, was '0.16.0'|
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
-|spirv-headers|1.4.321.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
 |spirv-llvm-translator|20.1.4|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
 |spirv-llvm-translator+32|20.1.4|21.1.0|runtime-optenv32|Compliance mode enabled, was '21.1.0'|
 |spirv-tools|1.4.321.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
