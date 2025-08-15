@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755270857?label=Updated)
+![Relative date](https://img.shields.io/date/1755274475?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -949,6 +949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcodecs|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kcolorchooser|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
+|kcompletion|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kconfig|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kconfigwidgets|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kcontacts|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -1799,7 +1800,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|2.0.1|2.3.2|lang-python|Compliance mode enabled, was '2.3.2'|
 |nut|2.7.4|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |nvchecker|2.15.1|2.18|app-utils|Compliance mode enabled, was '2.18'|
-|nvidia|580.76.05|580.65.06|groups|Compliance mode enabled, was '580.65.06'<br>Possible downgrade from the current version (580.76.05 -> 580.65.06)|
 |nvme-cli|2.11|2.15|app-admin|Compliance mode enabled, was '2.15'|
 |oath-toolkit|2.6.12|2.6.13|app-admin|Compliance mode enabled, was '2.6.13'|
 |oauthlib|3.2.2|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
@@ -2554,6 +2554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spice|0.15.2|0.16.0|runtime-virtualization|Compliance mode enabled, was '0.16.0'|
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
+|spirv-headers|1.4.321.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
 |spirv-llvm-translator|20.1.4|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
 |spirv-llvm-translator+32|20.1.4|21.1.0|runtime-optenv32|Compliance mode enabled, was '21.1.0'|
 |spirv-tools|1.4.321.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
@@ -2926,7 +2927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfburn|0.7.2|0.8.0|desktop-xfce|Compliance mode enabled, was '0.8.0'|
 |xfce4-panel|4.20.4|4.20.5|desktop-xfce|Compliance mode enabled, was '4.20.5'|
-|xfce4-screensaver|4.18.4|4.20.0|desktop-xfce|Compliance mode enabled, was '4.20.0'|
+|xfce4-screensaver|4.18.4|4.20.1|desktop-xfce|Compliance mode enabled, was '4.20.1'|
 |xfce4-session|4.20.2|4.20.3|desktop-xfce|Compliance mode enabled, was '4.20.3'|
 |xfce4-settings|4.20.1|4.20.2|desktop-xfce|Compliance mode enabled, was '4.20.2'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
