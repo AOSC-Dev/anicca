@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755288795?label=Updated)
+![Relative date](https://img.shields.io/date/1755292258?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -654,7 +654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|48.2.1|desktop-gnome|Compliance mode enabled, was '48.2.1'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|gnome-builder|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
+|gnome-builder|42.1|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
 |gnome-calculator|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-calendar|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-characters|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1896,7 +1896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.5.1|lang-python|Compliance mode enabled, was '6.5.1'|
 |oslo-serialization|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |oslo-utils|7.2.0|9.0.0|lang-python|Compliance mode enabled, was '9.0.0'|
-|osu-lazer|2025.724.0|2025.813.0-tachyon|app-games|Compliance mode enabled, was '2025.813.0-tachyon'|
+|osu-lazer|2025.724.0|2025.815.0-tachyon|app-games|Compliance mode enabled, was '2025.815.0-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |oxygen-icons|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -2165,6 +2165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pocketsphinx|5.0.4|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5.0.4 -> 0.8)|
 |poco|1.14.1|1.14.2|runtime-network|Compliance mode enabled, was '1.14.2'|
 |podcastparser|0.6.5|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
+|podman|5.5.2|5.6.0|app-containers||
 |podofo|0.10.3|1.0.1|runtime-doc|Compliance mode enabled, was '1.0.1'|
 |poedit|3.4.1|3.6.3-oss|app-i18n|Compliance mode enabled, was '3.6.3-oss'|
 |poetry|2.1.3|2.1.4|lang-python|Compliance mode enabled, was '2.1.4'|
