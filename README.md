@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755292258?label=Updated)
+![Relative date](https://img.shields.io/date/1755296035?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -180,8 +180,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.20.26|1.40.10|lang-python|Compliance mode enabled, was '1.40.10'|
-|botocore|1.34.133|1.40.10|lang-python|Compliance mode enabled, was '1.40.10'|
+|boto3|1.20.26|1.40.11|lang-python|Compliance mode enabled, was '1.40.11'|
+|botocore|1.34.133|1.40.11|lang-python|Compliance mode enabled, was '1.40.11'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bottom|0.11.0|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
