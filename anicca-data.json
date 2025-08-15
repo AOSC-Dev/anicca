@@ -773,7 +773,7 @@
 ["llvm-18","18.1.8","20.1.8","app-devel",1732901541,["Compliance mode enabled, was '20.1.8'"]],
 ["autoconf-archive","2023.02.20","2024.10.16","app-devel",1715607609,["Compliance mode enabled, was '2024.10.16'"]],
 ["checksec","2.7.1","3.0.2","app-devel",1720958986,["Compliance mode enabled, was '3.0.2'"]],
-["astyle","3.6.6","3.6.11","app-devel",1736266330,["Compliance mode enabled, was '3.6.11'"]],
+["astyle","3.6.6","3.6.12","app-devel",1736266330,["Compliance mode enabled, was '3.6.12'"]],
 ["cuda","12.9.0","13.0.0","app-devel",1748731552,[]],
 ["php","8.4.7","8.4.11","app-devel",1746803648,["Compliance mode enabled, was '8.4.11'"]],
 ["geany","2.1","2.1.0","app-devel",1754981165,["Compliance mode enabled, was '2.1.0'"]],
