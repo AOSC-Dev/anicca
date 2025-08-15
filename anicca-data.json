@@ -2827,6 +2827,7 @@
 ["inxi","3.3.37+1","3.3.38+1","app-utils",1741334624,["Compliance mode enabled, was '3.3.38-1'"]],
 ["vulkan-tools","1.4.309.0","1.4.321","app-utils",1745746413,["Compliance mode enabled, was '1.4.321'"]],
 ["scour","0.37","0.38.2","app-utils",1530843556,["Compliance mode enabled, was '0.38.2'"]],
+["miller","6.14.0","6.15.0","app-utils",1754926827,["Compliance mode enabled, was '6.15.0'"]],
 ["cloc","2.02","2.06","app-utils",1734602623,["Compliance mode enabled, was '2.06'"]],
 ["plzip","1.11","1.12","app-utils",1710565374,["Compliance mode enabled, was '1.12'"]],
 ["icdiff","1.9.5","2.0.7","app-utils",1600708559,["Compliance mode enabled, was '2.0.7'"]],
