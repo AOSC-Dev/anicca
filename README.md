@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755260391?label=Updated)
+![Relative date](https://img.shields.io/date/1755264455?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -489,7 +489,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |expat|2.7.0|2.7.1|runtime-common|Compliance mode enabled, was '2.7.1'|
 |expat+32|2.6.2|2.7.1|runtime-optenv32|Compliance mode enabled, was '2.7.1'|
 |extra-cmake-modules|5.115.0|6.17.0|app-devel|Compliance mode enabled, was '6.17.0'|
-|extreme-tux-rider|0.8.4|0.8.2|app-games|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4 -> 0.8.2)|
 |eyed3|0.9.5|0.9.8~a5|lang-python|Compliance mode enabled, was '0.9.8a5'|
 |f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
 |faac|1.29.9.2|1.31.1|app-multimedia|Compliance mode enabled, was '1.31.1'|
@@ -751,7 +750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk3-tqt-engine|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gtk4-layer-shell|1.1.1|1.2.0|desktop-gnome|Compliance mode enabled, was '1.2.0'|
 |gtkd|3.10.0|3.11.0|desktop-gnome|Compliance mode enabled, was '3.11.0'|
-|gtkmm-3|3.24.6|3.24.10|desktop-gnome|Compliance mode enabled, was '3.24.10'|
 |gtkmm-4|4.14.0|4.18.0|desktop-gnome|Compliance mode enabled, was '4.18.0'|
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkwave|3.3.121|3.3.124|app-electronics|Compliance mode enabled, was '3.3.124'|
