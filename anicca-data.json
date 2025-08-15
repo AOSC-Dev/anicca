@@ -45,7 +45,6 @@
 ["cups+32","2.4.11","2.4.12","runtime-optenv32",1740919512,["Compliance mode enabled, was '2.4.12'"]],
 ["libidn+32","1.42","1.43","runtime-optenv32",1740919516,["Compliance mode enabled, was '1.43'"]],
 ["flac+32","1.4.3","1.5.0","runtime-optenv32",1722221884,["Compliance mode enabled, was '1.5.0'"]],
-["acl+32","2.3.1","2.3.2","runtime-optenv32",1740919514,["Compliance mode enabled, was '2.3.2'"]],
 ["mpfr+32","4.2.1","4.2.2","runtime-optenv32",1716037929,["Compliance mode enabled, was '4.2.2'"]],
 ["libsndfile+32","1.2.0","1.2.2","runtime-optenv32",1722221884,["Compliance mode enabled, was '1.2.2'"]],
 ["libgpg-error+32","1.51","1.55","runtime-optenv32",1741002973,["Compliance mode enabled, was '1.55'"]],
