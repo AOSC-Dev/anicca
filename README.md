@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755339090?label=Updated)
+![Relative date](https://img.shields.io/date/1755342629?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -772,7 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz|8.4.0|11.4.1|runtime-desktop|Compliance mode enabled, was '11.4.1'|
 |harfbuzz+32|8.4.0|11.4.1|runtime-optenv32|Compliance mode enabled, was '11.4.1'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
-|hashcat|6.2.6|7.0.0|app-penetration|Compliance mode enabled, was '7.0.0'|
+|hashcat|6.2.6|7.1.0|app-penetration|Compliance mode enabled, was '7.1.0'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
@@ -1660,6 +1660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mediainfo|25.04|25.07|app-multimedia|Compliance mode enabled, was '25.07'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
 |memcached|1.6.36|1.6.39|app-admin|Compliance mode enabled, was '1.6.39'|
+|mengshen-pinyin-font|1.03|20250816.035007|desktop-fonts|Compliance mode enabled, was '20250816-035007'|
 |menu-cache|1.1.0|1.1.1|desktop-lxde|Compliance mode enabled, was '1.1.1'|
 |mercurial|7.0.2|7.1|app-vcs|Compliance mode enabled, was '7.1'|
 |merkuro|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
