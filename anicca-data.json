@@ -1579,6 +1579,7 @@
 ["dovecot","2.4.1","2.4.0","app-web",1749129153,["Compliance mode enabled, was '2.4.0'","Possible downgrade from the current version (2.4.1 -> 2.4.0)"]],
 ["htdig","3.2.0b6","3.2.0~b6","app-web",1479156089,["Compliance mode enabled, was '3.2.0b6'"]],
 ["httpd","2.4.63","2.4.65","app-web",1738155846,["Compliance mode enabled, was '2.4.65'"]],
+["weechat","4.7.0","4.7.1","app-web",1753015822,["Compliance mode enabled, was '4.7.1'"]],
 ["liferea","1.14.6","1.15.9","app-web",1749107082,["Compliance mode enabled, was '1.15.9'"]],
 ["easy-rsa","3.2.0","3.2.3","app-cryptography",1720958055,["Compliance mode enabled, was '3.2.3'"]],
 ["sscg","3.0.5","3.0.8","app-cryptography",1719928562,["Compliance mode enabled, was '3.0.8'"]],
