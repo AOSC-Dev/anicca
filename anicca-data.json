@@ -2035,6 +2035,7 @@
 ["arpack-ng","3.8.0","3.9.1","app-scientific",1616217700,["Compliance mode enabled, was '3.9.1'"]],
 ["bcftools","1.20","1.22","app-scientific",1717415676,["Compliance mode enabled, was '1.22'"]],
 ["sra-tools","3.0.3","3.2.1","app-scientific",1743471806,["Compliance mode enabled, was '3.2.1'"]],
+["praat","6.4.39","6.4.40","app-scientific",1752574180,["Compliance mode enabled, was '6.4.40'"]],
 ["weka","3.9.2","8.0.0","app-scientific",1522636709,["Compliance mode enabled, was '8.0.0'"]],
 ["giac","1.9.0+998","1.9.0","app-scientific",1739616382,["Compliance mode enabled, was '1.9.0'","Possible downgrade from the current version (1.9.0+998 -> 1.9.0)"]],
 ["jmol","14.30.0","16.3.33","app-scientific",1575784109,["Compliance mode enabled, was '16.3.33'"]],
