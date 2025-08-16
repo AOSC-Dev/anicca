@@ -1563,6 +1563,7 @@
 ["onedrivegui","1.1.1","1.2.1","app-web",1746413974,["Compliance mode enabled, was '1.2.1'"]],
 ["onedrive","2.5.5","2.5.6","app-web",1746413974,["Compliance mode enabled, was '2.5.6'"]],
 ["certbot-apache","2.10.0","4.2.0","app-web",1716728517,["Compliance mode enabled, was '4.2.0'"]],
+["chromium","135.0.7049.95","139.0.7258.127","app-web",1745287154,["Compliance mode enabled, was '139.0.7258.127'"]],
 ["lychee","0.18.1","0.19.1","app-web",1741855463,["Compliance mode enabled, was '0.19.1'"]],
 ["thunderbird","140.0","141.0","app-web",1751761419,["Compliance mode enabled, was '141.0'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
