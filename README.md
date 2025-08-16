@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755371309?label=Updated)
+![Relative date](https://img.shields.io/date/1755375234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -166,6 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.43.1|2.45|runtime-optenvw64|Compliance mode enabled, was '2.45'|
 |bird|2.17.1|3.1.2|app-network|Compliance mode enabled, was '3.1.2'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
+|bleachbit|5.0.0|5.0.1|app-utils|Compliance mode enabled, was '5.0.1'|
 |blender|4.0.2|4.5.1|app-creativity|Compliance mode enabled, was '4.5.1'|
 |blinken|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |bluedevil|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
@@ -615,7 +616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gexiv2|0.14.0|0.14.6|desktop-gnome|Compliance mode enabled, was '0.14.6'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
-|ghex|46.0|47|desktop-gnome|Compliance mode enabled, was '47'|
+|ghex|46.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |ghidra|11.3.2_build|11.4.1_build|app-devel||
 |ghostscript|9.54.0|10.05.1|app-doc|Compliance mode enabled, was '10.05.1'|
 |ghostty|1.1.2|1.1.3|app-utils|Compliance mode enabled, was '1.1.3'|
@@ -2834,7 +2835,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |versioningit|3.0.0|3.3.0|app-devel|Compliance mode enabled, was '3.3.0'|
 |vgmstream|20191206|1879|runtime-multimedia|Compliance mode enabled, was '1879'<br>Possible downgrade from the current version (20191206 -> 1879)|
 |vice|3.5|3.9|app-emulation|Compliance mode enabled, was '3.9'|
-|vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
 |vim|9.1.1623|9.1.1634|app-editors|Compliance mode enabled, was '9.1.1634'|
