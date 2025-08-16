@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755315734?label=Updated)
+![Relative date](https://img.shields.io/date/1755317848?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -290,7 +290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|344|app-admin|Compliance mode enabled, was '344'|
 |cockpit-machines|284.1|337|app-admin|Compliance mode enabled, was '337'|
 |cockpit-podman|63|111|app-admin|Compliance mode enabled, was '111'|
-|code-server|4.93.1|4.103.0|app-utils|Compliance mode enabled, was '4.103.0'|
+|code-server|4.93.1|4.103.1|app-utils|Compliance mode enabled, was '4.103.1'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.5|runtime-imaging|Compliance mode enabled, was '4.0.5'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -2569,7 +2569,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.9.5|1.9.8|app-penetration|Compliance mode enabled, was '1.9.8'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
-|squashfs-tools-ng|1.3.1|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
 |squid|5.7|7.1|app-web|Compliance mode enabled, was '7.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
@@ -2890,6 +2889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
+|wine|10.12|10.13|app-emulation||
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
