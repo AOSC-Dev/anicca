@@ -1674,6 +1674,7 @@
 ["qrencode","4.0.2","4.1.1","runtime-imaging",1531320025,["Compliance mode enabled, was '4.1.1'"]],
 ["graphene","1.10.2","1.10.8","runtime-imaging",1600321916,["Compliance mode enabled, was '1.10.8'"]],
 ["exempi","2.5.1","2.6.6","runtime-imaging",1582086333,["Compliance mode enabled, was '2.6.6'"]],
+["libdmtx","0.7.7","0.7.8","runtime-imaging",1700548607,["Compliance mode enabled, was '0.7.8'"]],
 ["libpng","1.6.44","1.6.50","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.50'"]],
 ["libheif","1.19.5","1.20.2","runtime-imaging",1739240924,["Compliance mode enabled, was '1.20.2'"]],
 ["openjpeg","2.5.2","2.5.3","runtime-imaging",1716597707,["Compliance mode enabled, was '2.5.3'"]],
