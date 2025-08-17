@@ -2713,7 +2713,7 @@
 ["collectl","4.3.1","4.3.8","app-utils",1566073133,["Compliance mode enabled, was '4.3.8'"]],
 ["vdpauinfo","1.0","1.5","app-utils",1678950872,["Compliance mode enabled, was '1.5'"]],
 ["diffutils","3.11","3.12","app-utils",1738992256,["Compliance mode enabled, was '3.12'"]],
-["peazip","10.5.0","10.6.0","app-utils",1750141887,["Compliance mode enabled, was '10.6.0'"]],
+["peazip","10.5.0","10.6.1","app-utils",1750141887,["Compliance mode enabled, was '10.6.1'"]],
 ["haveged","1.9.18","1.9.19","app-utils",1723091292,["Compliance mode enabled, was '1.9.19'"]],
 ["uml-utilities","20070815.4","20070815.4.orig","app-utils",1594018844,["Compliance mode enabled, was '20070815.4.orig'","Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)"]],
 ["pciutils","3.13.0","3.14.0","app-utils",1730451438,["Compliance mode enabled, was '3.14.0'"]],
