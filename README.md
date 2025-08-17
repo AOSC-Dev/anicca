@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755443467?label=Updated)
+![Relative date](https://img.shields.io/date/1755447180?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1680,7 +1680,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|mise|2025.5.6|2025.8.10|app-devel|Compliance mode enabled, was '2025.8.10'|
+|mise|2025.5.6|2025.8.11|app-devel|Compliance mode enabled, was '2025.8.11'|
 |mitmproxy|11.0.0|12.1.1|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -1692,7 +1692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.24.0|1.24.2|app-network|Compliance mode enabled, was '1.24.2'|
 |modemmanager-qt|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |mokutil|0.6.0|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
-|mold|2.40.1|2.40.3|app-devel|Compliance mode enabled, was '2.40.3'|
+|mold|2.40.1|2.40.4|app-devel|Compliance mode enabled, was '2.40.4'|
 |monotonic|1.5|1.6|lang-python|Compliance mode enabled, was '1.6'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
