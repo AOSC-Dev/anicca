@@ -593,6 +593,7 @@
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["python-ldap3","2.9","2.9.1","lang-python",1618998184,["Compliance mode enabled, was '2.9.1'"]],
 ["typing-extensions","4.12.2","4.14.1","lang-python",1728614181,["Compliance mode enabled, was '4.14.1'"]],
+["pyqt6-sip","13.10.0","13.10.2","lang-python",1740134451,["Compliance mode enabled, was '13.10.2'"]],
 ["setuptools-rust","1.9.0","1.11.1","lang-python",1719323131,["Compliance mode enabled, was '1.11.1'"]],
 ["multidict","5.1.0","6.6.4","lang-python",1609671431,["Compliance mode enabled, was '6.6.4'"]],
 ["pygame-sdl2","8.3.7.25031702","7.8.1.24090402","lang-python",1744276032,["Compliance mode enabled, was '7.8.1.24090402'","Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)"]],
