@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755555109?label=Updated)
+![Relative date](https://img.shields.io/date/1755558675?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -471,7 +471,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |espeak-ng|1.51.1|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et|6.2.9|6.2.11|app-network|Compliance mode enabled, was '6.2.11'|
 |et-xmlfile|1.0.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
-|etckeeper|1.18.21|1.18.22|app-admin|Compliance mode enabled, was '1.18.22'|
+|etckeeper|1.18.21|1.18.23|app-admin|Compliance mode enabled, was '1.18.23'|
 |ethtool|6.11|6.15|app-network|Compliance mode enabled, was '6.15'|
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -854,6 +854,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|60|61|app-devel|Compliance mode enabled, was '61'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|intel-graphics-compiler|2.14.1|2.16.0|app-devel|Compliance mode enabled, was '2.16.0'|
 |intel-media-driver|25.2.6|25.3.1|runtime-multimedia|Compliance mode enabled, was '25.3.1'|
 |intel-oneapi-basekit|2025.2.0|2025.2.1|app-devel|Compliance mode enabled, was '2025.2.1'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
@@ -1834,7 +1835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.100.0|lang-python|Compliance mode enabled, was '1.100.0'|
+|openai-python|1.63.2|1.100.1|lang-python|Compliance mode enabled, was '1.100.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -1936,7 +1937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patool|1.12|4.0.1|app-utils|Compliance mode enabled, was '4.0.1'|
 |pavucontrol-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pbr|6.0.0|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
-|pbs-installer|2025.7.12|2025.8.14|lang-python|Compliance mode enabled, was '2025.8.14'|
+|pbs-installer|2025.7.12|2025.8.18|lang-python|Compliance mode enabled, was '2025.8.18'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pciutils|3.13.0|3.14.0|app-utils|Compliance mode enabled, was '3.14.0'|
 |pcl|1.15.0|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.15.0 -> 1.12)|
@@ -2384,7 +2385,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rencode|1.0.6|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
 |reportlab|3.5.50|4.4.3|lang-python|Compliance mode enabled, was '4.4.3'|
-|requests|2.32.3|2.32.4|lang-python|Compliance mode enabled, was '2.32.4'|
+|requests|2.32.3|2.32.5|lang-python|Compliance mode enabled, was '2.32.5'|
 |requests-cache|0.5.2|1.3.0~a0|lang-python|Compliance mode enabled, was '1.3.0a0'|
 |rest|0.8.1|0.10.2|runtime-web|Compliance mode enabled, was '0.10.2'|
 |restic|0.17.3|0.18.0|app-utils|Compliance mode enabled, was '0.18.0'|
