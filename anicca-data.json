@@ -2860,6 +2860,7 @@
 ["maim","5.5.3","5.8.1","app-utils",1721223235,["Compliance mode enabled, was '5.8.1'"]],
 ["nvchecker","2.15.1","2.18","app-utils",1728440417,["Compliance mode enabled, was '2.18'"]],
 ["imagemagick","6.9.13+16","6.9.13+27","app-utils",1725630951,["Compliance mode enabled, was '6.9.13-27'"]],
+["light-locker","1.8.0","1.9.0","app-utils",1527956211,["Compliance mode enabled, was '1.9.0'"]],
 ["srecord","1.64","1.65.0","app-utils",1490976425,["Compliance mode enabled, was '1.65.0'"]],
 ["oxipng","9.1.4","9.1.5","app-utils",1739855630,["Compliance mode enabled, was '9.1.5'"]],
 ["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
