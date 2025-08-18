@@ -849,7 +849,6 @@
 ["geoipupdate","7.1.0","7.1.1","app-network",1744297687,["Compliance mode enabled, was '7.1.1'"]],
 ["networkmanager-openvpn","1.8.12","1.12.2","app-network",1584387426,["Compliance mode enabled, was '1.12.2'"]],
 ["nmap","7.95","7.98","app-network",1748080434,["Compliance mode enabled, was '7.98'"]],
-["varnish","7.5.0","7.7.2","app-network",1718805904,["Compliance mode enabled, was '7.7.2'"]],
 ["xpra","6.3","6.3.2","app-network",1748080434,["Compliance mode enabled, was '6.3.2'"]],
 ["xorgxrdp","0.10.3","0.10.4","app-network",1739145564,["Compliance mode enabled, was '0.10.4'"]],
 ["dnsmasq","2.90","2.91","app-network",1716797844,["Compliance mode enabled, was '2.91'"]],
