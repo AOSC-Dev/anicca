@@ -2300,6 +2300,7 @@
 ["xf86-input-libinput","1.4.0","1.5.0","runtime-display",1699859032,["Compliance mode enabled, was '1.5.0'"]],
 ["xf86-input-elographics","1.4.3","1.4.4","runtime-display",1699859032,["Compliance mode enabled, was '1.4.4'"]],
 ["mesa","25.1.6","25.2.0","runtime-display",1754315942,[]],
+["xwayland-satellite","0.6","0.7","runtime-display",1748532944,["Compliance mode enabled, was '0.7'"]],
 ["vulkan-utility-libraries","1.4.309.0","1.4.325","runtime-display",1745746413,["Compliance mode enabled, was '1.4.325'"]],
 ["s2tc","1.0+git20210317","1.0","runtime-display",1740919509,["Compliance mode enabled, was '1.0'"]],
 ["vkd3d","1.15","1.16","runtime-display",1740018851,["Compliance mode enabled, was '1.16'"]],
