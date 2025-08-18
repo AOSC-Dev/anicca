@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755526560?label=Updated)
+![Relative date](https://img.shields.io/date/1755530014?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -168,7 +168,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blender|4.0.2|4.5.1|app-creativity|Compliance mode enabled, was '4.5.1'|
 |blinken|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |bluedevil|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
-|blueprint-compiler|0.12.0|0.18.0|app-devel|Compliance mode enabled, was '0.18.0'|
 |bluez|5.79|5.83|app-devices|Compliance mode enabled, was '5.83'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -444,7 +443,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.1|runtime-vcs|Compliance mode enabled, was '0.24.1'|
-|dune|3.4.1|3.19.1|lang-ocaml|Compliance mode enabled, was '3.19.1'|
 |duplicity|3.0.1|3.0.5.1|app-utils|Compliance mode enabled, was '3.0.5.1'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easy-rsa|3.2.0|3.2.3|app-cryptography|Compliance mode enabled, was '3.2.3'|
@@ -718,7 +716,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gphoto2|2.5.28|2.5.32|app-imaging|Compliance mode enabled, was '2.5.32'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gpsd|3.25|3.26.1|app-scientific|Compliance mode enabled, was '3.26.1'|
-|gradle|8.14.3|9.0.0|lang-java|Compliance mode enabled, was '9.0.0'|
 |granatier|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |grantlee-editor|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |grantleetheme|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
