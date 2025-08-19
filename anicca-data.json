@@ -1788,7 +1788,7 @@
 ["oma","1.20.0","1.20.0-ci-test11","app-admin",1755049490,["Compliance mode enabled, was '1.20.0-ci-test11'","Possible downgrade from the current version (1.20.0 -> 1.20.0-ci-test11)"]],
 ["snapd","2.65.1","3.14.0","app-admin",1727015619,["Compliance mode enabled, was '3.14.0'"]],
 ["fuse-3","3.16.2","3.17.3","app-admin",1708832217,["Compliance mode enabled, was '3.17.3'"]],
-["squashfs-tools","4.7","4.7.1","app-admin",1749029536,["Compliance mode enabled, was '4.7.1'"]],
+["squashfs-tools","4.7","4.7.2","app-admin",1749029536,["Compliance mode enabled, was '4.7.2'"]],
 ["gsmartcontrol","1.1.3","2.0.2","app-admin",1528373229,["Compliance mode enabled, was '2.0.2'"]],
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
 ["davfs2","1.7.0","1.7.1","app-admin",1735571291,["Compliance mode enabled, was '1.7.1'"]],
