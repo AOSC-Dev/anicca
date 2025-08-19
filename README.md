@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755609902?label=Updated)
+![Relative date](https://img.shields.io/date/1755612753?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -563,7 +563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|11.0.0|12.0.1|app-web|Compliance mode enabled, was '12.0.1'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
-|fping|5.1|5.3|app-network|Compliance mode enabled, was '5.3'|
+|fping|5.1|5.4|app-network|Compliance mode enabled, was '5.4'|
 |fplll|5.4.5|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
 |frameworkintegration|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |freecad|1.0.1|1.0.2|app-creativity|Compliance mode enabled, was '1.0.2'|
@@ -583,6 +583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fuzzel|1.12.0|1.13.0|app-utils|Compliance mode enabled, was '1.13.0'|
+|fzf|0.64.0|0.65.1|app-utils|Compliance mode enabled, was '0.65.1'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
 |gammaray|2.11.2|3.2.1|app-devel|Compliance mode enabled, was '3.2.1'|
