@@ -1824,7 +1824,7 @@
 ["cryptsetup","2.7.5","2.8.1","app-admin",1733105769,["Compliance mode enabled, was '2.8.1'"]],
 ["mstflint","4.29.0-1","4.33.0+1","app-admin",1731561395,["Compliance mode enabled, was '4.33.0-1'"]],
 ["ndctl","80","82","app-admin",1732675271,["Compliance mode enabled, was '82'"]],
-["thin-provisioning-tools","1.0.10","1.2.0","app-admin",1707524018,["Compliance mode enabled, was '1.2.0'"]],
+["thin-provisioning-tools","1.0.10","1.2.1","app-admin",1707524018,["Compliance mode enabled, was '1.2.1'"]],
 ["aardvark-dns","1.13.1","1.16.0","app-admin",1731759292,["Compliance mode enabled, was '1.16.0'"]],
 ["audit","4.0.2","4.1.1","app-admin",1733052396,["Compliance mode enabled, was '4.1.1'"]],
 ["xfsdump","3.1.12","3.2.0","app-admin",1678601027,["Compliance mode enabled, was '3.2.0'"]],
