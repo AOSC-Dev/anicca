@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755605977?label=Updated)
+![Relative date](https://img.shields.io/date/1755609902?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -583,7 +583,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fuzzel|1.12.0|1.13.0|app-utils|Compliance mode enabled, was '1.13.0'|
-|fzf|0.64.0|0.65.1|app-utils|Compliance mode enabled, was '0.65.1'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
 |gammaray|2.11.2|3.2.1|app-devel|Compliance mode enabled, was '3.2.1'|
@@ -2416,7 +2415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmidi|4.0.0|6.0.0|runtime-multimedia|Compliance mode enabled, was '6.0.0'|
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
-|ruamel-yaml|0.17.19|0.18.14|lang-python|Compliance mode enabled, was '0.18.14'|
+|ruamel-yaml|0.17.19|0.18.15|lang-python|Compliance mode enabled, was '0.18.15'|
 |ruamel-yaml-clib|0.2.6|0.2.12|lang-python|Compliance mode enabled, was '0.2.12'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby-ffi|1.17.0|1.17.2|lang-ruby|Compliance mode enabled, was '1.17.2'|
