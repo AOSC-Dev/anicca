@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755630717?label=Updated)
+![Relative date](https://img.shields.io/date/1755634419?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -383,6 +383,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
+|discord|0.0.104|0.0.105|app-web|Compliance mode enabled, was '0.0.105'|
 |discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
 |discover|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
@@ -2516,7 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |socat|1.8.0.0|1.8.0.3|app-network|Compliance mode enabled, was '1.8.0.3'|
 |soci|4.0.1|4.1.2|runtime-database|Compliance mode enabled, was '4.1.2'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
-|sof-firmware|2025.01|2025.05|runtime-kernel|Compliance mode enabled, was '2025.05'|
+|sof-firmware|2025.01|2025.05.1|runtime-kernel|Compliance mode enabled, was '2025.05.1'|
 |sof-tools|2.12|2.13.1|app-multimedia|Compliance mode enabled, was '2.13.1'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solid|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -2584,6 +2585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sssd|2.9.5|2.11.1|app-admin|Compliance mode enabled, was '2.11.1'|
 |stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
+|steam|1.0.0.83|1.0.0.84|app-games|Compliance mode enabled, was '1.0.0.84'|
 |stellarium|24.3|25.2|app-scientific|Compliance mode enabled, was '25.2'|
 |stellarsolver|2.5|2.7|app-scientific|Compliance mode enabled, was '2.7'|
 |step|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2602,7 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.11.0|runtime-scientific|Compliance mode enabled, was '7.11.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.818.232904|app-multimedia|Compliance mode enabled, was '2025.818.232904'|
+|sunshine|2025.122.141614|2025.819.140525|app-multimedia|Compliance mode enabled, was '2025.819.140525'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |superslicer|2.7.61.0|2.7.61.8|app-creativity|Compliance mode enabled, was '2.7.61.8'|
@@ -2709,6 +2711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |threadweaver|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |thunar|4.20.3|4.20.4|desktop-xfce|Compliance mode enabled, was '4.20.4'|
+|thunderbird|141.0|142.0|app-web|Compliance mode enabled, was '142.0'|
 |tiledb|2.28.0|2.28.1|runtime-database|Compliance mode enabled, was '2.28.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timeshift|24.06.6|25.07.5|app-utils|Compliance mode enabled, was '25.07.5'|
