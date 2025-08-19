@@ -1052,7 +1052,7 @@
 ["pgxnclient","1.3.1","1.3.2","app-database",1620461770,["Compliance mode enabled, was '1.3.2'"]],
 ["sqlite-fdw","2.1.0","2.5.0","app-database",1635182639,["Compliance mode enabled, was '2.5.0'"]],
 ["postgresql-15","15.13","15.14","app-database",1750565551,["Compliance mode enabled, was '15.14'"]],
-["mycli","1.23.2","1.38.0","app-database",1620461770,["Compliance mode enabled, was '1.38.0'"]],
+["mycli","1.23.2","1.38.2","app-database",1620461770,["Compliance mode enabled, was '1.38.2'"]],
 ["postgresql-16","16.9","16.10","app-database",1750565551,["Compliance mode enabled, was '16.10'"]],
 ["sqlitebrowser","3.12.1","83649a3-3357","app-database",1620461770,["Compliance mode enabled, was '83649a3-3357'"]],
 ["postgresql-14","14.18","14.19","app-database",1750565551,["Compliance mode enabled, was '14.19'"]],
