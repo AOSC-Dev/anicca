@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755696485?label=Updated)
+![Relative date](https://img.shields.io/date/1755699255?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -158,7 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |benchmark|1.8.2|1.9.4|runtime-common|Compliance mode enabled, was '1.9.4'|
 |bento4-xbmc|1.6.0-641-3|1.6.0-641-3-Omega|runtime-multimedia|Possible downgrade from the current version (1.6.0-641-3 -> 1.6.0-641-3-Omega)|
 |bibletime-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|bind|9.20.4|9.20.11|app-network|Compliance mode enabled, was '9.20.11'|
+|bind|9.20.4|9.20.12|app-network|Compliance mode enabled, was '9.20.12'|
 |binutils|2.44|2.45|app-devel|Compliance mode enabled, was '2.45'|
 |binutils+32|2.43.1|2.45|runtime-optenv32|Compliance mode enabled, was '2.45'|
 |binutils+w64|2.43.1|2.45|runtime-optenvw64|Compliance mode enabled, was '2.45'|
@@ -1566,6 +1566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llama.cpp|5298|6215|runtime-creativity|Compliance mode enabled, was '6215'|
+|lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm-18|18.1.8|20.1.8|app-devel|Compliance mode enabled, was '20.1.8'|
 |llvm-19|19.1.6|20.1.8|app-devel|Compliance mode enabled, was '20.1.8'|
@@ -1587,7 +1588,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |luabitop|1.0.2|1.0.3|lang-lua|Compliance mode enabled, was '1.0.3'|
 |luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
-|luajit|2.1.0b3<br>+git20250528|2.1.rolling|lang-lua|Compliance mode enabled, was '2.1.ROLLING'|
 |luarocks|3.11.1|3.12.2|lang-lua|Compliance mode enabled, was '3.12.2'|
 |lucene++|3.0.8|3.0.9|runtime-common|Compliance mode enabled, was '3.0.9'|
 |lunzip|1.10|1.15|app-utils|Compliance mode enabled, was '1.15'|
@@ -1669,6 +1669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa+32|25.1.7|25.2.0|runtime-optenv32||
 |mesa-amber|21.3.9|25.2.0|runtime-display|Compliance mode enabled, was '25.2.0'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.0|runtime-display|Compliance mode enabled, was '25.2.0'|
+|meson|1.8.3|1.8.4|app-devel|Compliance mode enabled, was '1.8.4'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |metacity|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
