@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755677841?label=Updated)
+![Relative date](https://img.shields.io/date/1755681237?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -368,6 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.25.1|lang-golang|Compliance mode enabled, was '1.25.1'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.21.2|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.18.git|app-devel|Compliance mode enabled, was '2.25.18.git'|
@@ -990,6 +991,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdewebkit|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kdf|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
+|kdialog|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kdiamond|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kdiff3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdirstat-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1655,6 +1657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdadm|4.2|4.4|app-admin|Compliance mode enabled, was '4.4'|
 |mdbook|0.4.40|0.4.52|app-doc|Compliance mode enabled, was '0.4.52'|
 |mdds|2.1.1|3.1.0|runtime-productivity|Compliance mode enabled, was '3.1.0'|
+|mdk4|4.2<br>+git20240816|4.2|app-penetration|Compliance mode enabled, was '4.2'|
 |mechanize|0.4.5|0.4.10|lang-python|Compliance mode enabled, was '0.4.10'|
 |mediainfo|25.04|25.07|app-multimedia|Compliance mode enabled, was '25.07'|
 |meld|3.22.2|3.23.0|desktop-gnome|Compliance mode enabled, was '3.23.0'|
