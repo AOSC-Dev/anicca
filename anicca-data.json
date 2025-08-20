@@ -1837,7 +1837,7 @@
 ["linyaps-web-store-installer","1.6.3","1.6.8","app-admin",1728744031,["Compliance mode enabled, was '1.6.8'"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
 ["upower","1.90.6","1.90.9","app-admin",1733052939,["Compliance mode enabled, was '1.90.9'"]],
-["damo","2.4.7","2.9.2","app-admin",1724095000,["Compliance mode enabled, was '2.9.2'"]],
+["damo","2.4.7","2.9.3","app-admin",1724095000,["Compliance mode enabled, was '2.9.3'"]],
 ["kexec-tools","2.0.29","2.0.31","app-admin",1728875871,["Compliance mode enabled, was '2.0.31'"]],
 ["libcgroup","2.0","3.2.0","app-admin",1641887332,["Compliance mode enabled, was '3.2.0'"]],
 ["glances","4.0.5","4.3.3","app-admin",1716736908,["Compliance mode enabled, was '4.3.3'"]],
