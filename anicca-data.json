@@ -2290,7 +2290,7 @@
 ["tauri-cli","2.7.1","2.8.0","lang-rust",1755240372,["Compliance mode enabled, was '2.8.0'"]],
 ["rust-bindgen","0.69.4","0.72.0","lang-rust",1721277711,["Compliance mode enabled, was '0.72.0'"]],
 ["docker-compose","2.35.0","2.39.2","app-containers",1744451678,["Compliance mode enabled, was '2.39.2'"]],
-["docker-buildx","0.22.0","0.26.1","app-containers",1744451678,["Compliance mode enabled, was '0.26.1'"]],
+["docker-buildx","0.22.0","0.27.0","app-containers",1744451678,["Compliance mode enabled, was '0.27.0'"]],
 ["kubectl","1.32.2","1.33.4","app-containers",1744297687,["Compliance mode enabled, was '1.33.4'"]],
 ["minikube","1.35.0","1.36.0","app-containers",1744297687,["Compliance mode enabled, was '1.36.0'"]],
 ["helm","3.17.1","3.18.6","app-containers",1744297687,["Compliance mode enabled, was '3.18.6'"]],
