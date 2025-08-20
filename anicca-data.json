@@ -879,6 +879,7 @@
 ["gigolo","0.5.3","0.6.0","app-network",1706025816,["Compliance mode enabled, was '0.6.0'"]],
 ["radvd","2.19","2.20","app-network",1552787598,["Compliance mode enabled, was '2.20'"]],
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
+["dnscrypt","2.1.7","2.1.13","app-network",1744297687,["Compliance mode enabled, was '2.1.13'"]],
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
 ["openconnect","8.10","9.12","app-network",1590703640,["Compliance mode enabled, was '9.12'"]],
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
