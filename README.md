@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755800243?label=Updated)
+![Relative date](https://img.shields.io/date/1755803525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -358,6 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.114|runtime-admin|Compliance mode enabled, was '0.114'|
 |dbus-glib+32|0.110|0.114|runtime-optenv32|Compliance mode enabled, was '0.114'|
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
+|dbus-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ddnet|19.0|19.3|app-games|Compliance mode enabled, was '19.3'|
 |debianutils|5.7|5.23.2.git|app-utils|Compliance mode enabled, was '5.23.2.git'|
 |debootstrap|1.0.140|1.0.141~bpo12+1|app-utils|Compliance mode enabled, was '1.0.141~bpo12+1'|
@@ -1858,7 +1859,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-21|21.0.8-ga|21.0.9+4|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
-|openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
 |openjdk-8|8u462-ga|8u472-b03|groups||
 |openjfx-17|17.0.13<br>+0|17.0.16+1|lang-java|Compliance mode enabled, was '17.0.16+1'|
 |openjfx-21|21.0.5<br>+0|21.0.8+1|lang-java|Compliance mode enabled, was '21.0.8+1'|
