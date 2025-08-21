@@ -2336,6 +2336,7 @@
 ["libxcvt","0.1.2","0.1.3","runtime-display",1699859032,["Compliance mode enabled, was '0.1.3'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["vim","9.1.1623","9.1.1663","app-editors",1754841018,["Compliance mode enabled, was '9.1.1663'"]],
+["nano","8.5","8.6","app-editors",1749797681,[]],
 ["helix","25.07","25.07.1","app-editors",1753593728,["Compliance mode enabled, was '25.07.1'"]],
 ["zed","0.186.8","0.200.4","app-editors",1747382075,["Compliance mode enabled, was '0.200.4'"]],
 ["vscodium","1.102.14746","1.103.15539","app-editors",1753290696,["Compliance mode enabled, was '1.103.15539'"]],
