@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755789281?label=Updated)
+![Relative date](https://img.shields.io/date/1755796353?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -609,6 +609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.7.2|runtime-gis|Compliance mode enabled, was '2.7.2'|
 |geoipupdate|7.1.0|7.1.1|app-network|Compliance mode enabled, was '7.1.1'|
+|geos|3.13.1|3.14.0|runtime-gis|Compliance mode enabled, was '3.14.0'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.6|desktop-gnome|Compliance mode enabled, was '0.14.6'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
@@ -766,8 +767,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|11.4.1|runtime-desktop|Compliance mode enabled, was '11.4.1'|
-|harfbuzz+32|8.4.0|11.4.1|runtime-optenv32|Compliance mode enabled, was '11.4.1'|
+|harfbuzz|8.4.0|11.4.2|runtime-desktop|Compliance mode enabled, was '11.4.2'|
+|harfbuzz+32|8.4.0|11.4.2|runtime-optenv32|Compliance mode enabled, was '11.4.2'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |hashcat|6.2.6|7.1.1|app-penetration|Compliance mode enabled, was '7.1.1'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
@@ -850,6 +851,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|60|61|app-devel|Compliance mode enabled, was '61'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|intel-compute-runtime|25.27.34303.5|25.31.34666.3|runtime-scientific|Compliance mode enabled, was '25.31.34666.3'|
 |intel-media-driver|25.2.6|25.3.1|runtime-multimedia|Compliance mode enabled, was '25.3.1'|
 |intel-oneapi-basekit|2025.2.0|2025.2.1|app-devel|Compliance mode enabled, was '2025.2.1'|
 |inxi|3.3.37<br>+1|3.3.38+1|app-utils|Compliance mode enabled, was '3.3.38-1'|
