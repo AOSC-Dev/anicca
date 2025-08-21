@@ -1535,7 +1535,6 @@
 ["spike","1.1.0+git20240708","1.1.0","app-emulation",1721227330,["Compliance mode enabled, was '1.1.0'"]],
 ["openjdk-23","23.0.2-ga","23.0.2+7","lang-java",1745211922,[]],
 ["openjdk-21","21.0.8-ga","21.0.9+4","lang-java",1752722227,[]],
-["openjdk-17","17.0.16-ga","17.0.17+4","lang-java",1752722227,[]],
 ["openjdk-22","22.0.2-ga","22.0.2+9","lang-java",1745211922,[]],
 ["openjfx-21","21.0.5+0","21.0.8+1","lang-java",1727335039,["Compliance mode enabled, was '21.0.8+1'"]],
 ["openjfx-17","17.0.13+0","17.0.16+1","lang-java",1723449868,["Compliance mode enabled, was '17.0.16+1'"]],
