@@ -2924,7 +2924,6 @@
 ["ipt2socks","1.1.3","1.1.5","app-proxy",1611985904,["Compliance mode enabled, was '1.1.5'"]],
 ["redsocks2","0.67+git20201229","0.1","app-proxy",1629863094,["Compliance mode enabled, was '0.1'","Possible downgrade from the current version (0.67+git20201229 -> 0.1)"]],
 ["clash-verge-rev","2.3.1","2.3.2","app-proxy",1752717164,["Compliance mode enabled, was '2.3.2'"]],
-["sing-box","1.12.1","1.12.2","app-proxy",1754918467,["Compliance mode enabled, was '1.12.2'"]],
 ["tinyproxy","1.11.1","1.11.2","app-proxy",1710565425,["Compliance mode enabled, was '1.11.2'"]],
 ["mujs","1.3.5","1.3.7","lang-js",1728232729,["Compliance mode enabled, was '1.3.7'"]],
 ["mathjax","2.7.5","4.0.0","lang-js",1537942111,["Compliance mode enabled, was '4.0.0'"]],
