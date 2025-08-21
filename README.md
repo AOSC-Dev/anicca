@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755767655?label=Updated)
+![Relative date](https://img.shields.io/date/1755771190?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -296,7 +296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord|1.4.7|1.4.8|app-admin|Compliance mode enabled, was '1.4.8'|
 |colord-kde|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
-|composer|2.8.5|2.8.10|app-devel|Compliance mode enabled, was '2.8.10'|
+|composer|2.8.5|2.8.11|app-devel|Compliance mode enabled, was '2.8.11'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configargparse|1.7|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
@@ -1007,7 +1007,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keximdb-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
 |keysmith|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|keystoneauth1|5.7.0|5.11.1|lang-python|Compliance mode enabled, was '5.11.1'|
+|keystoneauth1|5.7.0|5.12.0|lang-python|Compliance mode enabled, was '5.12.0'|
 |keystoneclient|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
 |kfilemetadata|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kfind|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2428,7 +2428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pg|1.5.9|1.6.1|lang-ruby|Compliance mode enabled, was '1.6.1'|
 |ruby-pkg-config|1.5.8|1.6.2|lang-ruby|Compliance mode enabled, was '1.6.2'|
 |runc|1.2.6|1.3.0|app-admin|Compliance mode enabled, was '1.3.0'|
-|rust-bindgen|0.69.4|0.72.0|lang-rust|Compliance mode enabled, was '0.72.0'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|0.44.2|desktop-gnome|Compliance mode enabled, was '0.44.2'|
@@ -2469,6 +2468,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |semver|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
+|sensible-utils|0.0.24|0.0.26|app-utils|Compliance mode enabled, was '0.0.26'|
 |ser2net|3.5|4.6.5|app-network|Compliance mode enabled, was '4.6.5'|
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
@@ -2489,7 +2489,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|48.1+2|desktop-gnome|Compliance mode enabled, was '48.1-2'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
-|sing-box|1.12.3|1.12.2|app-proxy|Compliance mode enabled, was '1.12.2'<br>Possible downgrade from the current version (1.12.3 -> 1.12.2)|
 |singular|4.1.1|2024.06.03|app-scientific|Compliance mode enabled, was '2024.06.03'|
 |sip|6.10.0|6.12.0|lang-python|Compliance mode enabled, was '6.12.0'|
 |skanlite|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2710,7 +2709,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.2.1|app-admin|Compliance mode enabled, was '1.2.1'|
 |threadweaver|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |thunar|4.20.3|4.20.4|desktop-xfce|Compliance mode enabled, was '4.20.4'|
-|thunderbird|141.0|142.0|app-web|Compliance mode enabled, was '142.0'|
 |tiledb|2.28.0|2.28.1|runtime-database|Compliance mode enabled, was '2.28.1'|
 |tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timeshift|24.06.6|25.07.5|app-utils|Compliance mode enabled, was '25.07.5'|
