@@ -2850,7 +2850,7 @@
 ["unrar","6.2.2","7.1.10","app-utils",1674452224,["Compliance mode enabled, was '7.1.10'"]],
 ["nomino","1.3.1","1.6.4","app-utils",1680558295,["Compliance mode enabled, was '1.6.4'"]],
 ["nnn","5.0","5.1","app-utils",1739334242,["Compliance mode enabled, was '5.1'"]],
-["fuzzel","1.12.0","1.13.0","app-utils",1744323702,["Compliance mode enabled, was '1.13.0'"]],
+["fuzzel","1.12.0","1.13.1","app-utils",1744323702,["Compliance mode enabled, was '1.13.1'"]],
 ["duplicity","3.0.1","3.0.5.1","app-utils",1721146687,["Compliance mode enabled, was '3.0.5.1'"]],
 ["par2cmdline","0.8.1","1.0.0","app-utils",1600708583,["Compliance mode enabled, was '1.0.0'"]],
 ["tinty","0.27.0","0.29.0","app-utils",1745017057,["Compliance mode enabled, was '0.29.0'"]],
