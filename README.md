@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755857654?label=Updated)
+![Relative date](https://img.shields.io/date/1755861106?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -310,6 +310,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containers-common|0.63.1|0.64.1|runtime-containers||
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
+|copyq|10.0.0|11.0.0|app-utils|Compliance mode enabled, was '11.0.0'|
 |coreboot-utils|24.08|25.06|app-admin|Compliance mode enabled, was '25.06'|
 |corefreq|2.0.7|2.0.8|app-utils|Compliance mode enabled, was '2.0.8'|
 |corrosion|0.4.10|0.5.2|app-devel|Compliance mode enabled, was '0.5.2'|
@@ -448,7 +449,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.5.1|app-utils|Compliance mode enabled, was '3.0.5.1'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easy-rsa|3.2.0|3.2.3|app-cryptography|Compliance mode enabled, was '3.2.3'|
-|edencommon|2025.03.24.00|2025.08.18.00|runtime-common|Compliance mode enabled, was '2025.08.18.00'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |edk2-test|202406|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202406 -> edk2-test-rc1_202404)|
@@ -523,7 +523,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |fennel-ls|0.2.1|0.2.0|lang-lua|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
-|ffmpeg+32|7.1|7.1.1|runtime-optenv32|Compliance mode enabled, was '7.1.1'|
+|ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
+|ffmpeg+32|7.1|8.0|runtime-optenv32|Compliance mode enabled, was '8.0'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
 |ffmpegthumbs|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
@@ -571,6 +572,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|3.1.4|3.2.0|app-games|Compliance mode enabled, was '3.2.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
+|freerdp|3.16.0|3.17.0|app-network|Compliance mode enabled, was '3.17.0'|
 |freetds|1.00.112|1.5.4|runtime-database|Compliance mode enabled, was '1.5.4'|
 |frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -873,6 +875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iso-codes|4.4|4.18.0|runtime-data|Compliance mode enabled, was '4.18.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
+|ispc|1.28.0|1.28.1|app-devel|Compliance mode enabled, was '1.28.1'|
 |itinerary|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |iw|5.19|6.9|app-network|Compliance mode enabled, was '6.9'|
 |iwd|3.2|3.9|app-network|Compliance mode enabled, was '3.9'|
@@ -1599,7 +1602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|6.0.1|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lxcfs|3.0.3|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
-|lxml|5.4.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
+|lxml|5.4.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
 |lxml-html-clean|0.2.2|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
 |lxqt-about|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxqt-admin|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
