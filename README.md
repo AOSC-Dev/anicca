@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755823489?label=Updated)
+![Relative date](https://img.shields.io/date/1755829650?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -267,7 +267,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
-|clash-verge-rev|2.3.1|2.3.2|app-proxy|Compliance mode enabled, was '2.3.2'|
+|clash-verge-rev|2.3.1|2.4.0|app-proxy|Compliance mode enabled, was '2.4.0'|
 |cleo|2.0.1|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |cli-helpers|1.1.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |click|8.1.7|8.2.2|lang-python|Compliance mode enabled, was '8.2.2'|
@@ -366,6 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.25.1|lang-golang|Compliance mode enabled, was '1.25.1'|
+|deno|2.4.4|2.4.5|lang-js|Compliance mode enabled, was '2.4.5'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.21.2|1.23.0|app-utils|Compliance mode enabled, was '1.23.0'|
@@ -613,6 +614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
 |gexiv2|0.14.0|0.14.6|desktop-gnome|Compliance mode enabled, was '0.14.6'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
+|gh|2.76.2|2.78.0|app-devel|Compliance mode enabled, was '2.78.0'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |ghidra|11.3.2_build|11.4.1_build|app-devel||
@@ -2856,7 +2858,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpl-gpu-rt|25.3.1|25.3.2|runtime-multimedia|Compliance mode enabled, was '25.3.2'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
-|vscodium|1.102.14746|1.103.15539|app-editors|Compliance mode enabled, was '1.103.15539'|
+|vscode|1.103.1|1.103.2|app-editors|Compliance mode enabled, was '1.103.2'|
+|vscodium|1.102.14746|1.103.25610|app-editors|Compliance mode enabled, was '1.103.25610'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.80.3|runtime-desktop|Compliance mode enabled, was '0.80.3'|
 |vtk|9.3.0|9.5.0|app-scientific|Compliance mode enabled, was '9.5.0'|
