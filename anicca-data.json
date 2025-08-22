@@ -1867,7 +1867,7 @@
 ["fcron","3.4.0","3.3.0","app-admin",1750138079,["Compliance mode enabled, was '3.3.0'","Possible downgrade from the current version (3.4.0 -> 3.3.0)"]],
 ["e2fsprogs","1.47.2","1.47.3","app-admin",1737561189,["Compliance mode enabled, was '1.47.3'"]],
 ["lvm2","2.03.14","2.03.34","app-admin",1641887332,["Compliance mode enabled, was '2.03.34'"]],
-["iozone","3.492","3.507","app-admin",1641887332,["Compliance mode enabled, was '3.507'"]],
+["iozone","3.492","3.508","app-admin",1641887332,["Compliance mode enabled, was '3.508'"]],
 ["shadow","4.17.2","4.18.0","app-admin",1737808754,["Compliance mode enabled, was '4.18.0'"]],
 ["chrony","4.5","4.7","app-admin",1705927602,["Compliance mode enabled, was '4.7'"]],
 ["conmon","2.1.12","2.1.13","app-admin",1721093861,["Compliance mode enabled, was '2.1.13'"]],
