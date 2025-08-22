@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755829650?label=Updated)
+![Relative date](https://img.shields.io/date/1755833878?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1796,8 +1796,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.37|runtime-common|Compliance mode enabled, was '4.37'|
 |nspr+32|4.35|4.37|runtime-optenv32|Compliance mode enabled, was '4.37'|
-|nss|3.114|3.115|runtime-cryptography|Compliance mode enabled, was '3.115'|
-|nss+32|3.113|3.115|runtime-optenv32|Compliance mode enabled, was '3.115'|
+|nss|3.114|3.115.1|runtime-cryptography|Compliance mode enabled, was '3.115.1'|
+|nss+32|3.113|3.115.1|runtime-optenv32|Compliance mode enabled, was '3.115.1'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.8|app-utils|Compliance mode enabled, was '3.4.8'|
 |nuget|4.9.4|6.6.1.2.bin|lang-dotnet|Compliance mode enabled, was '6.6.1.2.bin'|
@@ -2888,7 +2888,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.3|lang-python|Compliance mode enabled, was '3.1.3'|
-|wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
+|wezterm|20240203<br>+110809<br>+5046fc22<br>+git20250731|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |which|2.21|2.23|app-utils|Compliance mode enabled, was '2.23'|
@@ -2978,7 +2978,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.186.8|0.200.4|app-editors|Compliance mode enabled, was '0.200.4'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.3|app-admin|Compliance mode enabled, was '2.3.3'|
