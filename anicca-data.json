@@ -648,6 +648,7 @@
 ["pyzmq","22.3.0","27.0.2","lang-python",1637636761,["Compliance mode enabled, was '27.0.2'"]],
 ["python-xmp-toolkit","2.0.1","2.0.2","lang-python",1538927054,["Compliance mode enabled, was '2.0.2'"]],
 ["ipy","0.83","1.01","lang-python",1469779218,["Compliance mode enabled, was '1.01'"]],
+["libbpf","1.6.1","1.6.2","runtime-kernel",1754315942,["Compliance mode enabled, was '1.6.2'"]],
 ["sof-firmware","2025.01","2025.05.1","runtime-kernel",1738773732,["Compliance mode enabled, was '2025.05.1'"]],
 ["linux+kernel+lts","6.12.35","5.10.240","runtime-kernel",1751681150,["Compliance mode enabled, was '5.10.240'","Possible downgrade from the current version (6.12.35 -> 5.10.240)"]],
 ["uboot-asahi","2024.10-1","2025.07","runtime-kernel",1740327598,[]],
