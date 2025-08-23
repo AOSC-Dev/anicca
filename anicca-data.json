@@ -332,7 +332,7 @@
 ["pymarkups","3.0.0","4.1.1","lang-python",1530553511,["Compliance mode enabled, was '4.1.1'"]],
 ["pyopenssl","23.1.1","25.1.0","lang-python",1618998184,["Compliance mode enabled, was '25.1.0'"]],
 ["hyperframe","6.0.0","6.1.0","lang-python",1618998184,["Compliance mode enabled, was '6.1.0'"]],
-["hyper-h2","4.0.0","4.2.0","lang-python",1618998184,["Compliance mode enabled, was '4.2.0'"]],
+["hyper-h2","4.0.0","4.3.0","lang-python",1618998184,["Compliance mode enabled, was '4.3.0'"]],
 ["pygame","2.5.2","2.6.1","lang-python",1715847709,["Compliance mode enabled, was '2.6.1'"]],
 ["levenshtein","0.12.0","0.27.1","lang-python",1479402071,["Compliance mode enabled, was '0.27.1'"]],
 ["ujson","1.35","1.36","lang-python",1477781007,["Compliance mode enabled, was '1.36'"]],
