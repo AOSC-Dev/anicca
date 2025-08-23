@@ -1042,6 +1042,7 @@
 ["black-hole-solver","1.10.1","1.14.0","runtime-games",1613805828,["Compliance mode enabled, was '1.14.0'"]],
 ["allegro","5.2.6.0","5.2.10.1","runtime-games",1745233543,["Compliance mode enabled, was '5.2.10.1'"]],
 ["tdb","1.4.13","1.4.14","app-database",1746182477,["Compliance mode enabled, was '1.4.14'"]],
+["unixodbc","2.3.9","2.3.12","app-database",1600106563,["Compliance mode enabled, was '2.3.12'"]],
 ["postgresql-13","13.21","13.22","app-database",1750565551,["Compliance mode enabled, was '13.22'"]],
 ["postgresql","17.5","17.6","app-database",1739763862,["Compliance mode enabled, was '17.6'"]],
 ["sqlcipher","4.5.6","4.10.0","app-database",1709967928,["Compliance mode enabled, was '4.10.0'"]],
