@@ -2045,7 +2045,6 @@
 ["go","1.24.2","1.25.0","lang-golang",1744297690,[]],
 ["goreleaser","2.8.2","2.11.2","lang-golang",1744297690,["Compliance mode enabled, was '2.11.2'"]],
 ["lapack","3.12.0","3.12.1","app-scientific",1712158730,["Compliance mode enabled, was '3.12.1'"]],
-["boinctui","2.7.1","2.7.2","app-scientific",1707949088,["Compliance mode enabled, was '2.7.2'"]],
 ["arpack-ng","3.8.0","3.9.1","app-scientific",1616217700,["Compliance mode enabled, was '3.9.1'"]],
 ["bcftools","1.20","1.22","app-scientific",1717415676,["Compliance mode enabled, was '1.22'"]],
 ["sra-tools","3.0.3","3.2.1","app-scientific",1743471806,["Compliance mode enabled, was '3.2.1'"]],
