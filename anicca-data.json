@@ -717,6 +717,7 @@
 ["sphinx","7.0.1","8.2.3","app-doc",1700548607,["Compliance mode enabled, was '8.2.3'"]],
 ["a2ps","4.15.6","4.15.7","app-doc",1716733294,["Compliance mode enabled, was '4.15.7'"]],
 ["zig","0.14.1","0.15.1","lang-ziglang",1748080508,["Compliance mode enabled, was '0.15.1'"]],
+["zvm","0.8.7","0.8.8","lang-ziglang",1748080469,["Compliance mode enabled, was '0.8.8'"]],
 ["dtc","1.7.0","1.7.2","app-devel",1720957623,["Compliance mode enabled, was '1.7.2'"]],
 ["glab","1.65.0","1.67.0","app-devel",1753838564,["Compliance mode enabled, was '1.67.0'"]],
 ["ctags","20191203","6.2.20250810.0","app-devel",1575779059,["Compliance mode enabled, was '6.2.20250810.0'","Possible downgrade from the current version (20191203 -> 6.2.20250810.0)"]],
