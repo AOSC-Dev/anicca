@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1755904308?label=Updated)
+![Relative date](https://img.shields.io/date/1755915828?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1603,6 +1603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |lutris|0.5.18|0.5.19|app-games|Compliance mode enabled, was '0.5.19'|
 |lvm2|2.03.14|2.03.34|app-admin|Compliance mode enabled, was '2.03.34'|
+|lxc|6.0.1|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lxcfs|3.0.3|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxml|5.4.0|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
@@ -2063,7 +2064,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
 |perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
 |perl-mime-tools|5.509|5.515|lang-perl|Compliance mode enabled, was '5.515'|
-|perl-mime-types|2.17|2.28|lang-perl|Compliance mode enabled, was '2.28'|
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.052|lang-perl|Compliance mode enabled, was '0.052'|
 |perl-module-find|0.13|0.17|lang-perl|Compliance mode enabled, was '0.17'|
@@ -2459,7 +2459,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sccache|0.3.3|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
-|scikit-build-core|0.11.1|0.11.5|lang-python|Compliance mode enabled, was '0.11.5'|
+|scikit-build-core|0.11.1|0.11.6|lang-python|Compliance mode enabled, was '0.11.6'|
 |scipy|1.15.3|1.16.1|lang-python|Compliance mode enabled, was '1.16.1'|
 |scons|4.8.1|4.9.1|app-devel|Compliance mode enabled, was '4.9.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
@@ -2700,6 +2700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|1.13.0|2.3.0|app-web|Compliance mode enabled, was '2.3.0'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
+|telegram-desktop|6.0.2|6.0.3|app-web|Compliance mode enabled, was '6.0.3'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2827,7 +2828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.11|0.8.13|lang-python|Compliance mode enabled, was '0.8.13'|
 |v2ray|5.37.0|5.38.0|app-proxy|Compliance mode enabled, was '5.38.0'|
-|v2ray-rules-dat|202501302211|202508212214|runtime-data|Compliance mode enabled, was '202508212214'<br>Versions not comparable: `202501302211` and `202508212214`|
+|v2ray-rules-dat|202501302211|202508222213|runtime-data|Compliance mode enabled, was '202508222213'<br>Versions not comparable: `202501302211` and `202508222213`|
 |v2raya|2.2.6.6|2.2.6.7|app-proxy|Compliance mode enabled, was '2.2.6.7'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
