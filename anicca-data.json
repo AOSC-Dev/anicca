@@ -1872,6 +1872,7 @@
 ["lvm2","2.03.14","2.03.34","app-admin",1641887332,["Compliance mode enabled, was '2.03.34'"]],
 ["iozone","3.492","3.508","app-admin",1641887332,["Compliance mode enabled, was '3.508'"]],
 ["shadow","4.17.2","4.18.0","app-admin",1737808754,["Compliance mode enabled, was '4.18.0'"]],
+["tuned","2.25.1","2.26.0","app-admin",1742902888,["Compliance mode enabled, was '2.26.0'"]],
 ["chrony","4.5","4.7","app-admin",1705927602,["Compliance mode enabled, was '4.7'"]],
 ["conmon","2.1.12","2.1.13","app-admin",1721093861,["Compliance mode enabled, was '2.1.13'"]],
 ["cockpit-machines","284.1","338","app-admin",1678351353,["Compliance mode enabled, was '338'"]],
