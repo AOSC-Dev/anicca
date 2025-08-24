@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756062485?label=Updated)
+![Relative date](https://img.shields.io/date/1756066364?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1678,7 +1678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa+32|25.1.7|25.2.1|runtime-optenv32||
 |mesa-amber|21.3.9|25.2.1|runtime-display|Compliance mode enabled, was '25.2.1'|
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.1|runtime-display|Compliance mode enabled, was '25.2.1'|
-|meson|1.8.3|1.8.4|app-devel|Compliance mode enabled, was '1.8.4'|
+|meson|1.8.3|1.9.0|app-devel|Compliance mode enabled, was '1.9.0'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |metacity|3.44.0|3.57.1|desktop-gnome|Compliance mode enabled, was '3.57.1'|
@@ -1696,7 +1696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |mise|2025.8.9|2025.8.20|app-devel|Compliance mode enabled, was '2025.8.20'|
-|mitmproxy|11.0.0|12.1.1|app-network||
+|mitmproxy|11.0.0|12.1.2|app-network||
 |mixxx|2.5.0|2.5.2|app-creativity|Compliance mode enabled, was '2.5.2'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -1729,7 +1729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mujs|1.3.5|1.3.7|lang-js|Compliance mode enabled, was '1.3.7'|
 |multidict|5.1.0|6.6.4|lang-python|Compliance mode enabled, was '6.6.4'|
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
-|mupdf|1.24.10|1.26.6|app-doc|Compliance mode enabled, was '1.26.6'|
+|mupdf|1.24.10|1.26.7|app-doc|Compliance mode enabled, was '1.26.7'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |mvfst|2025.03.24.00|2025.08.18.00|runtime-network|Compliance mode enabled, was '2025.08.18.00'|
@@ -2646,7 +2646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |targetcli-fb|2.1.54|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |tarsnap|1.0.39|1.0.41|app-admin|Compliance mode enabled, was '1.0.41'|
 |tastymenu-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|tauri-cli|2.7.1|2.8.0|lang-rust|Compliance mode enabled, was '2.8.0'|
+|tauri-cli|2.7.1|2.8.2|lang-rust|Compliance mode enabled, was '2.8.2'|
 |tbb|2021.11.0|2022.2.0|runtime-common|Compliance mode enabled, was '2022.2.0'|
 |tcl|8.6.14|9.0.2|lang-tcl|Compliance mode enabled, was '9.0.2'|
 |tcl+32|8.6.14|9.0.2|runtime-optenv32|Compliance mode enabled, was '9.0.2'|
