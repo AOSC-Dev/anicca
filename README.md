@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756003663?label=Updated)
+![Relative date](https://img.shields.io/date/1756007080?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -822,7 +822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
 |ibus|1.5.25|1.5.32|app-i18n|Compliance mode enabled, was '1.5.32'|
 |ibus-anthy|1.5.13|1.5.17|app-i18n|Compliance mode enabled, was '1.5.17'|
-|ibus-chewing|1.6.1|2.1.5|app-i18n|Compliance mode enabled, was '2.1.5'|
+|ibus-chewing|1.6.1|2.1.6|app-i18n|Compliance mode enabled, was '2.1.6'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
 |ibus-libpinyin|1.12.0|1.16.4|app-i18n|Compliance mode enabled, was '1.16.4'|
 |ibus-m17n|1.4.7|1.4.36|app-i18n|Compliance mode enabled, was '1.4.36'|
@@ -2855,7 +2855,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virtualenv|20.27.1|20.34.0|lang-python|Compliance mode enabled, was '20.34.0'|
 |vkd3d|1.15|1.17|runtime-display|Compliance mode enabled, was '1.17'|
 |vkd3d+32|1.9|1.17|runtime-optenv32|Compliance mode enabled, was '1.17'|
-|vkmark|2017.08<br>+git20230412|2025.01|app-benchmarks|Compliance mode enabled, was '2025.01'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
