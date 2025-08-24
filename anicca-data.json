@@ -750,6 +750,7 @@
 ["git-lfs","3.6.1","3.7.0","app-devel",1744297687,["Compliance mode enabled, was '3.7.0'"]],
 ["crash","8.0.5","9.0.0","app-devel",1722992612,["Compliance mode enabled, was '9.0.0'"]],
 ["apitrace","12.0","13.0","app-devel",1717679738,["Compliance mode enabled, was '13.0'"]],
+["autobuild4","4.12.7","4.12.8","app-devel",1754983664,["Compliance mode enabled, was '4.12.8'"]],
 ["dotnet-sdk-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["sassc","3.6.1","3.6.2","app-devel",1569986121,["Compliance mode enabled, was '3.6.2'"]],
 ["versioningit","3.0.0","3.3.0","app-devel",1708685051,["Compliance mode enabled, was '3.3.0'"]],
