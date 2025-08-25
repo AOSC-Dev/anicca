@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756116875?label=Updated)
+![Relative date](https://img.shields.io/date/1756124444?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -591,7 +591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fzf|0.64.0|0.65.1|app-utils|Compliance mode enabled, was '0.65.1'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
-|gammaray|2.11.2|3.2.1|app-devel|Compliance mode enabled, was '3.2.1'|
+|gammaray|2.11.2|3.2.2|app-devel|Compliance mode enabled, was '3.2.2'|
 |gap|4.10.2|4.14.0|app-scientific|Compliance mode enabled, was '4.14.0'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
@@ -762,6 +762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkwave|3.3.121|3.3.125|app-electronics|Compliance mode enabled, was '3.3.125'|
 |gtranslator|46.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
+|guitarix|0.46.0|0.47.0|app-multimedia|Compliance mode enabled, was '0.47.0'|
 |gupnp|1.2.4|1.6.9|desktop-gnome|Compliance mode enabled, was '1.6.9'|
 |gupnp-av|0.12.11|0.14.4|desktop-gnome|Compliance mode enabled, was '0.14.4'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
@@ -783,6 +784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
 |hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
+|hdrhistogram-c|0.11.8|0.11.9|runtime-common|Compliance mode enabled, was '0.11.9'|
 |hdsentinel|0.17|999e|app-utils|Compliance mode enabled, was '999e'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
 |helix|25.07|25.07.1|app-editors|Compliance mode enabled, was '25.07.1'|
@@ -1835,7 +1837,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.23|desktop-kde|Compliance mode enabled, was '0.26.23'|
 |okular|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |olefile|0.46|0.47|lang-python|Compliance mode enabled, was '0.47'|
-|oma|1.20.0|1.20.0-ci-test11|app-admin|Compliance mode enabled, was '1.20.0-ci-test11'<br>Possible downgrade from the current version (1.20.0 -> 1.20.0-ci-test11)|
+|oma|1.20.0|1.20.1|app-admin|Compliance mode enabled, was '1.20.1'|
 |onedrive|2.5.5|2.5.6|app-web|Compliance mode enabled, was '2.5.6'|
 |onedrivegui|1.1.1|1.2.1|app-web|Compliance mode enabled, was '1.2.1'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
