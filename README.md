@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756261416?label=Updated)
+![Relative date](https://img.shields.io/date/1756265476?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -159,7 +159,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bento4-xbmc|1.6.0-641-3|1.6.0-641-3-Omega|runtime-multimedia|Possible downgrade from the current version (1.6.0-641-3 -> 1.6.0-641-3-Omega)|
 |bibletime-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bind|9.20.4|9.20.12|app-network|Compliance mode enabled, was '9.20.12'|
-|binutils|2.44|2.45|app-devel|Compliance mode enabled, was '2.45'|
 |binutils+32|2.43.1|2.45|runtime-optenv32|Compliance mode enabled, was '2.45'|
 |binutils+w64|2.43.1|2.45|runtime-optenvw64|Compliance mode enabled, was '2.45'|
 |bird|2.17.1|3.1.2|app-network|Compliance mode enabled, was '3.1.2'|
@@ -1949,7 +1948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patool|1.12|4.0.1|app-utils|Compliance mode enabled, was '4.0.1'|
 |pavucontrol-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |pbr|6.0.0|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
-|pbs-installer|2025.7.12|2025.8.18|lang-python|Compliance mode enabled, was '2025.8.18'|
+|pbs-installer|2025.7.12|2025.8.27|lang-python|Compliance mode enabled, was '2025.8.27'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pciutils|3.13.0|3.14.0|app-utils|Compliance mode enabled, was '3.14.0'|
 |pcl|1.15.0|1.12|runtime-imaging|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.15.0 -> 1.12)|
