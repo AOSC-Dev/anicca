@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756325545?label=Updated)
+![Relative date](https://img.shields.io/date/1756329157?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -325,7 +325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |criu|3.19|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
 |crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
 |crun|1.16.1|1.23.1|app-admin|Compliance mode enabled, was '1.23.1'|
-|crush|0.6.2|0.7.1|app-utils|Compliance mode enabled, was '0.7.1'|
+|crush|0.6.2|0.7.2|app-utils|Compliance mode enabled, was '0.7.2'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|45.0.6|lang-python|Compliance mode enabled, was '45.0.6'|
@@ -365,7 +365,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |decorator|4.3.2|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |deja-dup|42.9|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
-|delve|1.24.0|1.25.1|lang-golang|Compliance mode enabled, was '1.25.1'|
+|delve|1.24.0|1.25.2|lang-golang|Compliance mode enabled, was '1.25.2'|
 |deno|2.4.4|2.4.5|lang-js|Compliance mode enabled, was '2.4.5'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
@@ -1058,6 +1058,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimageformats|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kimagemapeditor|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kimap|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
+|kind|0.29.0|0.30.0|app-containers|Compliance mode enabled, was '0.30.0'|
 |kinfocenter|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |kinit|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kio|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -1076,7 +1077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kitinerary|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kiwisolver|1.4.8|1.4.9|lang-python|Compliance mode enabled, was '1.4.9'|
-|kjobwidgets|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kjournald|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kjs|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kjsembed|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -1217,8 +1217,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |ktuberling|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kturtle|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|kubectl|1.32.2|1.33.4|app-containers|Compliance mode enabled, was '1.33.4'|
-|kubo|0.33.2|0.36.0|app-proxy|Compliance mode enabled, was '0.36.0'|
+|kubectl|1.32.2|1.34.0|app-containers|Compliance mode enabled, was '1.34.0'|
+|kubo|0.33.2|0.37.0|app-proxy|Compliance mode enabled, was '0.37.0'|
 |kubrick|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kunitconversion|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
@@ -2639,7 +2639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
-|sysprof|3.44.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|sysprof|3.44.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |sysstat|12.7.5|12.7.8|app-utils|Compliance mode enabled, was '12.7.8'|
 |systemd|257.6|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (257.6 -> 256)|
 |systemd-boot-friend|0.27.4|0.27.5|app-admin|Compliance mode enabled, was '0.27.5'|
