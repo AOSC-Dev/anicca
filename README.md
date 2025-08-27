@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756314648?label=Updated)
+![Relative date](https://img.shields.io/date/1756318626?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -33,6 +33,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adwaita-icon-theme|47.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |agrep|4.17|4.17.orig|app-utils|Compliance mode enabled, was '4.17.orig'<br>Possible downgrade from the current version (4.17 -> 4.17.orig)|
+|aiodns|3.2.0|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |aiohttp|3.7.4.post0|3.12.15|lang-python|Compliance mode enabled, was '3.12.15'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akode|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -564,7 +565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-awesome|6.6.0|7.0.0|desktop-fonts|Compliance mode enabled, was '7.0.0'|
 |fontconfig|2.15.0|2.17.1|runtime-desktop|Compliance mode enabled, was '2.17.1'|
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
-|fonttools|4.53.1|4.59.1|desktop-fonts|Compliance mode enabled, was '4.59.1'|
+|fonttools|4.53.1|4.59.2|desktop-fonts|Compliance mode enabled, was '4.59.2'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
 |forgejo|11.0.0|12.0.1|app-web|Compliance mode enabled, was '12.0.1'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
@@ -623,7 +624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|ghidra|11.3.2_build|11.4.1_build|app-devel||
+|ghidra|11.3.2_build|11.4.2_build|app-devel||
 |ghostscript|9.54.0|10.05.1|app-doc|Compliance mode enabled, was '10.05.1'|
 |ghostty|1.1.2|1.1.3|app-utils|Compliance mode enabled, was '1.1.3'|
 |ghostwriter|24.05.2|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2767,7 +2768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'<br>Possible downgrade from the current version (20161208 -> 0.9.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.25.3|0.25.8|groups|Compliance mode enabled, was '0.25.8'|
+|tree-sitter|0.25.3|0.25.8|app-devel|Compliance mode enabled, was '0.25.8'|
 |tree-sitter-c|0.23.5|0.24.1|runtime-editors|Compliance mode enabled, was '0.24.1'|
 |tree-sitter-lua|0.3.0|0.4.0|runtime-editors|Compliance mode enabled, was '0.4.0'|
 |tree-sitter-markdown|0.4.1|0.5.0|runtime-editors|Compliance mode enabled, was '0.5.0'|
@@ -2857,7 +2858,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1623|9.1.1696|app-editors|Compliance mode enabled, was '9.1.1696'|
+|vim|9.1.1623|9.1.1701|app-editors|Compliance mode enabled, was '9.1.1701'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
