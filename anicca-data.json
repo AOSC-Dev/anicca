@@ -1860,7 +1860,7 @@
 ["sanlock","3.8.5","4.0.0","app-admin",1694574450,["Compliance mode enabled, was '4.0.0'"]],
 ["fuse-overlayfs","1.13","1.15","app-admin",1701831525,["Compliance mode enabled, was '1.15'"]],
 ["snapper-gui","0.1+git20220626","0.1","app-admin",1663557945,["Compliance mode enabled, was '0.1'"]],
-["apt","3.0.2","3.1.4","app-admin",1748488865,["Compliance mode enabled, was '3.1.4'"]],
+["apt","3.0.2","3.1.5","app-admin",1748488865,["Compliance mode enabled, was '3.1.5'"]],
 ["osinfo-db","20240701","20250606","app-admin",1721154340,["Compliance mode enabled, was '20250606'"]],
 ["appstream-glib","0.7.18","0.8.3","app-admin",1600106563,["Compliance mode enabled, was '0_8_3'"]],
 ["nvme-cli","2.11","2.15","app-admin",1731475744,["Compliance mode enabled, was '2.15'"]],
