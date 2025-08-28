@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756393945?label=Updated)
+![Relative date](https://img.shields.io/date/1756397634?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1553,21 +1553,21 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.76|1.4.81|app-network|Compliance mode enabled, was '1.4.81'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.43|core-devel|Compliance mode enabled, was '6.12.43'|
-|linux+api+32|6.12.7|6.12.43|runtime-optenv32|Compliance mode enabled, was '6.12.43'|
+|linux+api|6.12.30|6.12.44|core-devel|Compliance mode enabled, was '6.12.44'|
+|linux+api+32|6.12.7|6.12.44|runtime-optenv32|Compliance mode enabled, was '6.12.44'|
 |linux+kernel|6.14.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.11 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
-|linux+kernel+lts|6.12.35|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'<br>Possible downgrade from the current version (6.12.35 -> 5.10.240)|
+|linux+kernel+lts|6.12.35|5.10.241|runtime-kernel|Compliance mode enabled, was '5.10.241'<br>Possible downgrade from the current version (6.12.35 -> 5.10.241)|
 |linux+kernel+rc|6.16.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.0 -> 5.19.17)|
-|linux+kernel+retro|5.10.204|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'|
-|linux+kernel+retro+minimal|5.15.17|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'<br>Possible downgrade from the current version (5.15.17 -> 5.10.240)|
+|linux+kernel+retro|5.10.204|5.10.241|runtime-kernel|Compliance mode enabled, was '5.10.241'|
+|linux+kernel+retro+minimal|5.15.17|5.10.241|runtime-kernel|Compliance mode enabled, was '5.10.241'<br>Possible downgrade from the current version (5.15.17 -> 5.10.241)|
 |linux-firmware|20250425|20250509|runtime-kernel||
 |linux-kernel|6.14.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.11 -> 5.19.17)|
 |linux-kernel-loongarch-2k0300|6.12.35|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.35 -> 5.19.17)|
 |linux-kernel-lts|6.12.35|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.35 -> 5.19.17)|
 |linux-kernel-rc|6.16.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.0 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'|
-|linux-kernel-retro-minimal|5.15.17|5.10.240|runtime-kernel|Compliance mode enabled, was '5.10.240'<br>Possible downgrade from the current version (5.15.17 -> 5.10.240)|
+|linux-kernel-retro|5.10.204|5.10.241|runtime-kernel|Compliance mode enabled, was '5.10.241'|
+|linux-kernel-retro-minimal|5.15.17|5.10.241|runtime-kernel|Compliance mode enabled, was '5.10.241'<br>Possible downgrade from the current version (5.15.17 -> 5.10.241)|
 |linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.9.8|app-admin|Compliance mode enabled, was '1.9.8'|
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
@@ -1652,7 +1652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdown|3.3.4|3.8.2|lang-python|Compliance mode enabled, was '3.8.2'|
 |markdown-it|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |markdownpart|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|marshmallow|3.20.2|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
+|marshmallow|3.20.2|4.0.1|lang-python|Compliance mode enabled, was '4.0.1'|
 |mate-panel|1.28.4|1.28.5|desktop-mate|Compliance mode enabled, was '1.28.5'|
 |materialx|1.38.8|1.39.3|runtime-creativity|Compliance mode enabled, was '1.39.3'|
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
