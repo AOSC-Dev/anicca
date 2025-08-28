@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756372382?label=Updated)
+![Relative date](https://img.shields.io/date/1756376088?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1017,7 +1017,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
 |keysmith|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |keystoneauth1|5.7.0|5.12.0|lang-python|Compliance mode enabled, was '5.12.0'|
-|keystoneclient|5.4.0|5.6.0|lang-python|Compliance mode enabled, was '5.6.0'|
+|keystoneclient|5.4.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |kfilemetadata|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kfind|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kfloppy|23.04.3|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2359,7 +2359,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qterminal|1.4.0|2.2.1|desktop-lxqt|Compliance mode enabled, was '2.2.1'|
 |qtermwidget|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |qtkeychain|0.13.2|0.15.0|runtime-desktop|Compliance mode enabled, was '0.15.0'|
-|qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.7|app-multimedia|Compliance mode enabled, was '1.5.7'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
