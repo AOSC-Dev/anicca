@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756365260?label=Updated)
+![Relative date](https://img.shields.io/date/1756368931?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1083,7 +1083,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |klettres|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |klickety|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |klines|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|kmag|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kmahjongg|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kmail|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kmail-account-wizard|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2865,7 +2864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.4.309.0|1.4.321.0|runtime-display|Compliance mode enabled, was '1.4.321.0'|
 |volk-meta-loader+32|1.4.309.0|1.4.321.0|runtime-optenv32|Compliance mode enabled, was '1.4.321.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
-|vpl-gpu-rt|25.3.1|25.3.2|runtime-multimedia|Compliance mode enabled, was '25.3.2'|
+|vpl-gpu-rt|25.3.1|25.3.3|runtime-multimedia|Compliance mode enabled, was '25.3.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.103.1|1.103.2|app-editors|Compliance mode enabled, was '1.103.2'|
 |vscodium|1.103.15539|1.103.25610|app-editors|Compliance mode enabled, was '1.103.25610'|
