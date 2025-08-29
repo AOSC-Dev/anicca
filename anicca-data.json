@@ -1539,7 +1539,7 @@
 ["cargo-release","0.25.10","0.25.18","lang-rust",1720105719,["Compliance mode enabled, was '0.25.18'"]],
 ["gcc","14.3.0","15.2.0","core-devel",1748182197,["Compliance mode enabled, was '15.2.0'"]],
 ["linux+api","6.12.30","6.12.44","core-devel",1748182197,["Compliance mode enabled, was '6.12.44'"]],
-["podofo","0.10.3","1.0.1","runtime-doc",1721223235,["Compliance mode enabled, was '1.0.1'"]],
+["podofo","0.10.3","1.0.2","runtime-doc",1721223235,["Compliance mode enabled, was '1.0.2'"]],
 ["discount","3.0.0d","2.2.7","runtime-doc",1724293055,["Compliance mode enabled, was '2.2.7'","Possible downgrade from the current version (3.0.0d -> 2.2.7)"]],
 ["libharu","2.4.4","2.4.5","runtime-doc",1705561669,["Compliance mode enabled, was '2.4.5'"]],
 ["chmlib","0.40a","0.40","runtime-doc",1511457561,["Compliance mode enabled, was '0.40'"]],
