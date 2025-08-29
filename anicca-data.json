@@ -2402,7 +2402,7 @@
 ["pivy","0.6.8","0.6.10","lang-python",1697385082,["Compliance mode enabled, was '0.6.10'"]],
 ["socksio","1.0.0+git20240301","1.0.0","lang-python",1746255330,["Compliance mode enabled, was '1.0.0'"]],
 ["jedi","0.18.1","0.19.2","lang-python",1626504939,["Compliance mode enabled, was '0.19.2'"]],
-["regex","2019.02.21","2025.7.34","lang-python",1551200854,["Compliance mode enabled, was '2025.7.34'"]],
+["regex","2019.02.21","2025.8.29","lang-python",1551200854,["Compliance mode enabled, was '2025.8.29'"]],
 ["iniparse","0.4","0.5","lang-python",1678950872,["Compliance mode enabled, was '0.5'"]],
 ["pyhamcrest","2.0.3","2.1.0","lang-python",1700548607,["Compliance mode enabled, was '2.1.0'"]],
 ["pyproject-hooks","1.1.0","1.2.0","lang-python",1724687573,["Compliance mode enabled, was '1.2.0'"]],
