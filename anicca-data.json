@@ -1794,7 +1794,6 @@
 ["element-desktop","1.11.109","1.11.110","app-web",1755055116,["Compliance mode enabled, was '1.11.110'"]],
 ["darkhttpd","1.16","1.17","app-web",1717069293,["Compliance mode enabled, was '1.17'"]],
 ["certbot","2.11.0","4.2.0","groups",1717723307,["Compliance mode enabled, was '4.2.0'"]],
-["discord","0.0.106","0.0.107","app-web",1755740999,["Compliance mode enabled, was '0.0.107'"]],
 ["lychee","0.18.1","0.20.1","app-web",1741855463,["Compliance mode enabled, was '0.20.1'"]],
 ["toxcore","0.2.18","0.2.21","app-web",1655338775,["Compliance mode enabled, was '0.2.21'"]],
 ["purple-matrix","0.0.0+git20210626","0.1.0","app-web",1634534087,["Compliance mode enabled, was '0.1.0'"]],
