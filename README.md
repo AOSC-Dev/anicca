@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756487466?label=Updated)
+![Relative date](https://img.shields.io/date/1756491334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1904,7 +1904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-serialization|5.4.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |oslo-utils|7.2.0|9.1.0|lang-python|Compliance mode enabled, was '9.1.0'|
 |ostree|2025.4|2025.5|app-admin|Compliance mode enabled, was '2025.5'|
-|osu-lazer|2025.724.0|2025.827.0-tachyon|app-games|Compliance mode enabled, was '2025.827.0-tachyon'|
+|osu-lazer|2025.724.0|2025.829.0-tachyon|app-games|Compliance mode enabled, was '2025.829.0-tachyon'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |oxygen-icons|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -2846,7 +2846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1623|9.1.1706|app-editors|Compliance mode enabled, was '9.1.1706'|
+|vim|9.1.1623|9.1.1713|app-editors|Compliance mode enabled, was '9.1.1713'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
@@ -2952,6 +2952,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
 |xournalpp|1.2.5|1.2.7|runtime-productivity|Compliance mode enabled, was '1.2.7'|
 |xpra|6.3|6.3.2|app-network|Compliance mode enabled, was '6.3.2'|
+|xray|25.8.3|25.8.29|app-proxy|Compliance mode enabled, was '25.8.29'|
 |xrdp|0.10.3|0.10.4.1|app-network|Compliance mode enabled, was '0.10.4.1'|
 |xreader|4.2.2|4.4.0|app-doc|Compliance mode enabled, was '4.4.0'|
 |xscreensaver|6.08|6.12|app-utils|Compliance mode enabled, was '6.12'|
