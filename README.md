@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756498451?label=Updated)
+![Relative date](https://img.shields.io/date/1756501845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -175,8 +175,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.20.26|1.40.20|lang-python|Compliance mode enabled, was '1.40.20'|
-|botocore|1.34.133|1.40.20|lang-python|Compliance mode enabled, was '1.40.20'|
+|boto3|1.20.26|1.40.21|lang-python|Compliance mode enabled, was '1.40.21'|
+|botocore|1.34.133|1.40.21|lang-python|Compliance mode enabled, was '1.40.21'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2319,7 +2319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xmp-toolkit|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |pythondialog|3.3.0|3.5.3|lang-python|Compliance mode enabled, was '3.5.3'|
 |pythran|0.16.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
-|pytools|2019.1|2025.2.2|lang-python|Compliance mode enabled, was '2025.2.2'|
+|pytools|2019.1|2025.2.3|lang-python|Compliance mode enabled, was '2025.2.3'|
 |pytz|2024.2|2025.2|lang-python|Compliance mode enabled, was '2025.2'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |pywbem|0.13.0|1.7.3|lang-python|Compliance mode enabled, was '1.7.3'|
@@ -2871,8 +2871,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.80.3|runtime-desktop|Compliance mode enabled, was '0.80.3'|
 |vtk|9.3.0|9.5.1|app-scientific|Compliance mode enabled, was '9.5.1'|
 |vulkan-extensionlayer|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
-|vulkan-headers|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
-|vulkan-headers+32|1.4.309.0|1.4.325|runtime-optenv32|Compliance mode enabled, was '1.4.325'|
+|vulkan-headers|1.4.309.0|1.4.326|runtime-display|Compliance mode enabled, was '1.4.326'|
+|vulkan-headers+32|1.4.309.0|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'|
 |vulkan-loader|1.4.309.0|1.4.325|runtime-display|Compliance mode enabled, was '1.4.325'|
 |vulkan-loader+32|1.4.309.0|1.4.325|runtime-optenv32|Compliance mode enabled, was '1.4.325'|
 |vulkan-tools|1.4.309.0|1.4.321|app-utils|Compliance mode enabled, was '1.4.321'|
@@ -2982,7 +2982,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.200.4|0.201.6|app-editors|Compliance mode enabled, was '0.201.6'|
+|zed|0.200.4|0.201.7|app-editors|Compliance mode enabled, was '0.201.7'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.4|app-admin|Compliance mode enabled, was '2.3.4'|
