@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756494467?label=Updated)
+![Relative date](https://img.shields.io/date/1756498451?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -475,7 +475,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exempi|2.5.1|2.6.6|runtime-imaging|Compliance mode enabled, was '2.6.6'|
 |exfatprogs|1.2.5|1.2.9|app-admin|Compliance mode enabled, was '1.2.9'|
 |exim|4.98|4.98.2|app-web|Compliance mode enabled, was '4.98.2'|
-|exiv2|0.27.5|0.28.5|runtime-imaging|Compliance mode enabled, was '0.28.5'|
+|exiv2|0.27.5|0.28.6|runtime-imaging|Compliance mode enabled, was '0.28.6'|
 |expandvars|0.12.0|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |expat|2.7.0|2.7.1|runtime-common|Compliance mode enabled, was '2.7.1'|
 |expat+32|2.6.2|2.7.1|runtime-optenv32|Compliance mode enabled, was '2.7.1'|
@@ -615,7 +615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gexiv2|0.14.0|0.14.6|desktop-gnome|Compliance mode enabled, was '0.14.6'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
-|ghex|46.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
+|ghex|46.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |ghidra|11.3.2_build|11.4.2_build|app-devel||
 |ghostscript|9.54.0|10.05.1|app-doc|Compliance mode enabled, was '10.05.1'|
 |ghostty|1.1.2|1.1.3|app-utils|Compliance mode enabled, was '1.1.3'|
@@ -805,6 +805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpcore|1.0.5|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
 |httpd|2.4.63|2.4.65|app-web|Compliance mode enabled, was '2.4.65'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
+|httplib2|0.22.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |httpx-go|1.7.0|1.7.1|app-utils|Compliance mode enabled, was '1.7.1'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |humanize|0.5.1|4.13.0|lang-python|Compliance mode enabled, was '4.13.0'|
@@ -2611,7 +2612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.11.0|runtime-scientific|Compliance mode enabled, was '7.11.0'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.122.141614|2025.828.181854|app-multimedia|Compliance mode enabled, was '2025.828.181854'|
+|sunshine|2025.122.141614|2025.829.135256|app-multimedia|Compliance mode enabled, was '2025.829.135256'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
