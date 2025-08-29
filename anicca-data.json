@@ -859,6 +859,7 @@
 ["ffmpeg","7.1.1","8.0","app-multimedia",1746182477,["Compliance mode enabled, was '8.0'"]],
 ["kodi","21.2","21.1","app-multimedia",1748844653,["Compliance mode enabled, was '21.1'","Possible downgrade from the current version (21.2 -> 21.1)"]],
 ["vapoursynth","70.11","72","app-multimedia",1728232729,["Compliance mode enabled, was '72'"]],
+["icecast","2.4.4","2.4.999.1","app-multimedia",1541872360,["Compliance mode enabled, was '2.4.999.1'"]],
 ["qmmp","1.7.6","2.2.8","app-multimedia",1748844653,["Compliance mode enabled, was '2.2.8'"]],
 ["pamixer","1.4","1.6","app-multimedia",1584714907,["Compliance mode enabled, was '1.6'"]],
 ["mpg123","1.32.8","1.33.2","app-multimedia",1730365887,["Compliance mode enabled, was '1.33.2'"]],
