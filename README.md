@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756514532?label=Updated)
+![Relative date](https://img.shields.io/date/1756520185?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -309,13 +309,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |corsixth|0.68.0|0.69.1|app-games|Compliance mode enabled, was '0.69.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
 |cpp-utilities|5.20.0|5.30.0|runtime-common|Compliance mode enabled, was '5.30.0'|
-|cppcheck|2.8|2.18.1|app-devel|Compliance mode enabled, was '2.18.1'|
+|cppcheck|2.8|2.18.2|app-devel|Compliance mode enabled, was '2.18.2'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
 |cracklib|2.9.8|2.10.3|runtime-cryptography|Compliance mode enabled, was '2.10.3'|
 |crash|8.0.5|9.0.0|app-devel|Compliance mode enabled, was '9.0.0'|
 |crda|3.18|4.15|app-network|Compliance mode enabled, was '4.15'|
 |criu|3.19|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
+|crow-translate|2.11.1|3.1.0|app-i18n|Compliance mode enabled, was '3.1.0'|
 |crun|1.16.1|1.23.1|app-admin|Compliance mode enabled, was '1.23.1'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
@@ -1651,7 +1652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.39.3|runtime-creativity|Compliance mode enabled, was '1.39.3'|
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mathjax|2.7.5|4.0.0|lang-js|Compliance mode enabled, was '4.0.0'|
-|matplotlib|3.10.3|3.10.5|lang-python|Compliance mode enabled, was '3.10.5'|
+|matplotlib|3.10.3|3.10.6|lang-python|Compliance mode enabled, was '3.10.6'|
 |matplotlib-inline|0.1.7|9.5.0|lang-python|Compliance mode enabled, was '9.5.0'|
 |maturin|1.9.3|1.9.4|lang-python|Compliance mode enabled, was '1.9.4'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
@@ -2898,7 +2899,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.12|10.13|app-emulation||
+|wine|10.12|10.14|app-emulation||
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
