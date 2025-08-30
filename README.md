@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756537860?label=Updated)
+![Relative date](https://img.shields.io/date/1756541630?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -767,7 +767,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |gwenview-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
-|handbrake|1.10.0|1.10.1|app-multimedia|Compliance mode enabled, was '1.10.1'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|11.4.4|runtime-desktop|Compliance mode enabled, was '11.4.4'|
 |harfbuzz+32|8.4.0|11.4.4|runtime-optenv32|Compliance mode enabled, was '11.4.4'|
@@ -2766,6 +2765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
+|tuba|0.10.1|0.10.2|app-web|Compliance mode enabled, was '0.10.2'|
 |tuned|2.25.1|2.26.0|app-admin|Compliance mode enabled, was '2.26.0'|
 |twin-style-fahrenheit|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |twin-style-machbunt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2971,7 +2971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.200.4|0.201.7|app-editors|Compliance mode enabled, was '0.201.7'|
+|zed|0.200.4|0.201.8|app-editors|Compliance mode enabled, was '0.201.8'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|0.147.0|lang-python|Compliance mode enabled, was '0.147.0'|
 |zfs|2.3.1|2.3.4|app-admin|Compliance mode enabled, was '2.3.4'|
