@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756548655?label=Updated)
+![Relative date](https://img.shields.io/date/1756551986?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -569,7 +569,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.16.0|3.17.0|app-network|Compliance mode enabled, was '3.17.0'|
-|freetds|1.00.112|1.5.4|runtime-database|Compliance mode enabled, was '1.5.4'|
+|freetds|1.00.112|1.5.5|runtime-database|Compliance mode enabled, was '1.5.5'|
 |frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
@@ -768,8 +768,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |gzdoom|4.14.0|4.14.2|app-games|Compliance mode enabled, was '4.14.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|11.4.4|runtime-desktop|Compliance mode enabled, was '11.4.4'|
-|harfbuzz+32|8.4.0|11.4.4|runtime-optenv32|Compliance mode enabled, was '11.4.4'|
+|harfbuzz|8.4.0|11.4.5|runtime-desktop|Compliance mode enabled, was '11.4.5'|
+|harfbuzz+32|8.4.0|11.4.5|runtime-optenv32|Compliance mode enabled, was '11.4.5'|
 |haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
 |hashcat|6.2.6|7.1.2|app-penetration|Compliance mode enabled, was '7.1.2'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
