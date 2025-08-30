@@ -1366,7 +1366,6 @@
 ["rhash","1.4.4","1.4.6","app-utils",1710777249,["Compliance mode enabled, was '1.4.6'"]],
 ["patool","1.12","4.0.1","app-utils",1647493788,["Compliance mode enabled, was '4.0.1'"]],
 ["appres","1.0.6","1.0.7","app-utils",1716006601,["Compliance mode enabled, was '1.0.7'"]],
-["zbar","0.23.90","0.23.93","app-utils",1551388660,["Compliance mode enabled, was '0.23.93'"]],
 ["xclip","20191017","0.13","app-utils",1579668938,["Compliance mode enabled, was '0.13'","Possible downgrade from the current version (20191017 -> 0.13)"]],
 ["slop","7.6","7.7","app-utils",1721223235,["Compliance mode enabled, was '7.7'"]],
 ["collectl","4.3.1","4.3.8","app-utils",1566073133,["Compliance mode enabled, was '4.3.8'"]],
