@@ -456,7 +456,7 @@
 ["libwww-perl","6.33","6.79","lang-perl",1530196415,["Compliance mode enabled, was '6.79'"]],
 ["perl-yaml-tiny","1.73","1.76","lang-perl",1612155063,["Compliance mode enabled, was '1.76'"]],
 ["perl-module-pluggable","5.2","6.3","lang-perl",1457398434,["Compliance mode enabled, was '6.3'"]],
-["perl-parallel-forkmanager","1.20","2.03","lang-perl",1539781539,["Compliance mode enabled, was '2.03'"]],
+["perl-parallel-forkmanager","1.20","2.04","lang-perl",1539781539,["Compliance mode enabled, was '2.04'"]],
 ["perl-canary-stability","2012","2013","lang-perl",1530196415,["Compliance mode enabled, was '2013'"]],
 ["perl-package-stash-xs","0.29","0.30","lang-perl",1678950872,["Compliance mode enabled, was '0.30'"]],
 ["perl-test-nowarnings","1.04","1.06","lang-perl",1678950872,["Compliance mode enabled, was '1.06'"]],
