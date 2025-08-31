@@ -2367,7 +2367,6 @@
 ["cycler","0.10.0","0.12.1","lang-python",1460310051,["Compliance mode enabled, was '0.12.1'"]],
 ["ruamel-yaml-clib","0.2.6","0.2.12","lang-python",1637636761,["Compliance mode enabled, was '0.2.12'"]],
 ["iniconfig","2.0.0","2.1.0","lang-python",1701508585,["Compliance mode enabled, was '2.1.0'"]],
-["reportlab","3.5.50","4.4.3","lang-python",1600671246,["Compliance mode enabled, was '4.4.3'"]],
 ["argparse-manpage","4.5","4.7","lang-python",1707299111,["Compliance mode enabled, was '4.7'"]],
 ["oslo-utils","7.2.0","9.1.0","lang-python",1724639794,["Compliance mode enabled, was '9.1.0'"]],
 ["pygame","2.5.2","2.6.1","lang-python",1715847709,["Compliance mode enabled, was '2.6.1'"]],
