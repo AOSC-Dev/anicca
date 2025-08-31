@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756678245?label=Updated)
+![Relative date](https://img.shields.io/date/1756681927?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -186,6 +186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |breeze-icons|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |breeze-plymouth|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
+|breezy|3.3.12|3.3.13|app-vcs|Compliance mode enabled, was '3.3.13'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.41.3|app-containers|Compliance mode enabled, was '1.41.3'|
@@ -1434,6 +1435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpqxx|6.4.5|7.10.1|runtime-database|Compliance mode enabled, was '7.10.1'|
 |libproxy|0.5.9|0.5.10|runtime-network|Compliance mode enabled, was '0.5.10'|
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
+|libqalculate|4.5.1|5.7.0|runtime-scientific|Compliance mode enabled, was '5.7.0'|
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqtxdg|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |libquotient|0.8.2|0.9.4|runtime-web|Compliance mode enabled, was '0.9.4'|
