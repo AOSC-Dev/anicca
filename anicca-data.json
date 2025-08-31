@@ -1320,7 +1320,6 @@
 ["llama.cpp","5298","6327","runtime-creativity",1746611595,["Compliance mode enabled, was '6327'"]],
 ["materialx","1.38.8","1.39.3","runtime-creativity",1710216829,["Compliance mode enabled, was '1.39.3'"]],
 ["openpgl","0.5.0","0.7.1","runtime-creativity",1691207555,["Compliance mode enabled, was '0.7.1'"]],
-["alembic","1.8.6","1.8.8","runtime-creativity",1743471806,["Compliance mode enabled, was '1.8.8'"]],
 ["yara","4.5.3","4.5.4","app-utils",1748240226,["Compliance mode enabled, was '4.5.4'"]],
 ["convertall","0.7.5","1.0.2","app-utils",1531832124,["Compliance mode enabled, was '1.0.2'"]],
 ["xcalibrate","0.9+git20200330","0.9","app-utils",1594019096,["Compliance mode enabled, was '0.9'"]],
