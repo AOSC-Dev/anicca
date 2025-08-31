@@ -1862,6 +1862,7 @@
 ["libvips","8.16.1","8.17.1","runtime-imaging",1744241634,["Compliance mode enabled, was '8.17.1'"]],
 ["libsixel","1.8.6","1.10.5","runtime-imaging",1728232729,["Compliance mode enabled, was '1.10.5'"]],
 ["cairomm","1.12.2","1.18.0","runtime-imaging",1507045304,["Compliance mode enabled, was '1.18.0'"]],
+["libtiff","4.4.0","4.7.0","runtime-imaging",1509079104,["Compliance mode enabled, was '4.7.0'"]],
 ["opencsg","1.5.1","1.8.1","runtime-imaging",1672817129,["Compliance mode enabled, was '1.8.1'"]],
 ["openimagedenoise","1.4.3","2.3.3","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.3'"]],
 ["librsvg","2.59.2","2.61.0","runtime-imaging",1734368317,["Compliance mode enabled, was '2.61.0'"]],
