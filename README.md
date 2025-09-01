@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756710940?label=Updated)
+![Relative date](https://img.shields.io/date/1756714748?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -570,7 +570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeciv|3.1.4|3.2.0|app-games|Compliance mode enabled, was '3.2.0'|
 |freeglut|3.4.0|3.6.0|runtime-display|Compliance mode enabled, was '3.6.0'|
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|freerdp|3.16.0|3.17.0|app-network|Compliance mode enabled, was '3.17.0'|
+|freerdp|3.16.0|3.17.1|app-network|Compliance mode enabled, was '3.17.1'|
 |freetds|1.00.112|1.5.5|runtime-database|Compliance mode enabled, was '1.5.5'|
 |frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -1725,6 +1725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.11.1|app-admin|Compliance mode enabled, was '0.11.1'|
 |mupdf|1.24.10|1.26.7|app-doc|Compliance mode enabled, was '1.26.7'|
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
+|musicfox|4.6.6|4.7.0|app-multimedia|Compliance mode enabled, was '4.7.0'|
 |mutter|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |mvfst|2025.03.24.00|2025.08.25.00|runtime-network|Compliance mode enabled, was '2025.08.25.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
