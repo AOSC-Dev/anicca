@@ -2267,7 +2267,6 @@
 ["css-parser","1.0.6","1.0.10","lang-python",1605077701,["Compliance mode enabled, was '1.0.10'"]],
 ["pytz","2024.2","2025.2","lang-python",1728365240,["Compliance mode enabled, was '2025.2'"]],
 ["zope-component","4.4.1","6.0","lang-python",1530283385,["Compliance mode enabled, was '6.0'"]],
-["python-tabulate","0.8.3","0.9.0","lang-python",1551501524,["Compliance mode enabled, was '0.9.0'"]],
 ["paramiko","2.10.3","4.0.0","lang-python",1652414087,["Compliance mode enabled, was '4.0.0'"]],
 ["wheezy.template","3.1.0","3.2.3","lang-python",1663210209,["Compliance mode enabled, was '3.2.3'"]],
 ["autopep8","2.3.1","2.3.2","lang-python",1719144640,["Compliance mode enabled, was '2.3.2'"]],
