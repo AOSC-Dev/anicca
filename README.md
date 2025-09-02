@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756836842?label=Updated)
+![Relative date](https://img.shields.io/date/1756839940?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -709,7 +709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.4|runtime-database|Compliance mode enabled, was '0.5.4'|
-|google-api-python-client|1.7.11|2.180.0|lang-python|Compliance mode enabled, was '2.180.0'|
+|google-api-python-client|1.7.11|2.181.0|lang-python|Compliance mode enabled, was '2.181.0'|
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
@@ -2772,7 +2772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2025.05.0|runtime-data|Compliance mode enabled, was '2025.05.0'|
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.65.0|app-devel|Compliance mode enabled, was '0.65.0'|
+|trivy|0.55.0|0.66.0|app-devel|Compliance mode enabled, was '0.66.0'|
 |trove-classifiers|2025.8.6.13|2025.8.26.11|lang-python|Compliance mode enabled, was '2025.8.26.11'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
