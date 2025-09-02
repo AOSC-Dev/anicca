@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756768405?label=Updated)
+![Relative date](https://img.shields.io/date/1756773854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1835,7 +1835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrivegui|1.1.1|1.2.1|app-web|Compliance mode enabled, was '1.2.1'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
 |onig|6.9.5<br>+rev1|6.9.10|runtime-common|Compliance mode enabled, was '6.9.10'|
-|oolite|1.90|1.91.0.7699-250829-cea269d|app-games|Compliance mode enabled, was '1.91.0.7699-250829-cea269d'|
+|oolite|1.90|1.91.0.7704-250901-83bc901|app-games|Compliance mode enabled, was '1.91.0.7704-250901-83bc901'|
 |opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
@@ -1857,7 +1857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openexr|3.1.8|3.3.5|runtime-imaging|Compliance mode enabled, was '3.3.5'|
 |openfortivpn|1.18.0|1.23.1|app-network|Compliance mode enabled, was '1.23.1'|
 |openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
-|openimageio|2.4.17.0|3.0.9.1|runtime-imaging|Compliance mode enabled, was '3.0.9.1'|
+|openimageio|2.4.17.0|3.0.10.0|runtime-imaging|Compliance mode enabled, was '3.0.10.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.28-ga|11.0.29+4|lang-java||
 |openjdk-17|17.0.16-ga|17.0.17+5|lang-java||
@@ -1953,7 +1953,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
 |pcsx2|1.6.0<br>+git20210825|2.5.149|app-games|Compliance mode enabled, was '2.5.149'|
-|pdal|2.8.4|2.9.1|runtime-gis|Compliance mode enabled, was '2.9.1'|
+|pdal|2.8.4|2.9.2|runtime-gis|Compliance mode enabled, was '2.9.2'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2201,6 +2201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poxml|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |ppsspp|1.18.1<br>+git20250206|1.19.3|app-games|Compliance mode enabled, was '1.19.3'|
 |praat|6.4.40|6.4.42|app-scientific|Compliance mode enabled, was '6.4.42'|
+|pre-commit|4.2.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |precis-i18n|1.0.3|1.1.1|lang-python|Compliance mode enabled, was '1.1.1'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
 |presenterm|0.5.0|0.15.1|app-productivity|Compliance mode enabled, was '0.15.1'|
@@ -2410,6 +2411,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-rccl|6.4.3|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.3 -> 3.3.0)|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
 |rocs|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
+|rofi|1.7.9.1|2.0.0|app-utils|Compliance mode enabled, was '2.0.0'|
 |rosegarden|24.12|25.06|app-creativity|Compliance mode enabled, was '25.06'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |roxterm|3.15.0|3.16.6|app-utils|Compliance mode enabled, was '3.16.6'|
