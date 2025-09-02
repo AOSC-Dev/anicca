@@ -1546,7 +1546,6 @@
 ["vulkan-utility-libraries","1.4.309.0","1.4.326","runtime-display",1745746413,["Compliance mode enabled, was '1.4.326'"]],
 ["util-macros","1.20.1","1.20.2","runtime-display",1716265534,["Compliance mode enabled, was '1.20.2'"]],
 ["freeglut","3.4.0","3.6.0","runtime-display",1699859032,["Compliance mode enabled, was '3.6.0'"]],
-["mesa","25.1.6","25.2.1","runtime-display",1754315942,[]],
 ["xinit","1.4.2","1.4.4","runtime-display",1699859032,["Compliance mode enabled, was '1.4.4'"]],
 ["glbinding","3.3.0","3.5.0","runtime-display",1731205764,["Compliance mode enabled, was '3.5.0'"]],
 ["xf86-video-r128","6.12.1","6.10.0","runtime-display",1699859032,["Compliance mode enabled, was '6.10.0'","Possible downgrade from the current version (6.12.1 -> 6.10.0)"]],
