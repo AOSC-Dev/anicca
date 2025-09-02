@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756833145?label=Updated)
+![Relative date](https://img.shields.io/date/1756836842?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -20,7 +20,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.7.0|3.9.0|app-utils|Compliance mode enabled, was '3.9.0'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
 |acl+32|2.3.1|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
-|acme|2.10.0|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
+|acme|2.10.0|5.0.0|lang-python|Compliance mode enabled, was '5.0.0'|
 |acpi|1.7|1.8|app-utils|Compliance mode enabled, was '1.8'|
 |acpica-unix|20250404|20250807|app-devel|Compliance mode enabled, was '20250807'|
 |ada|2.9.1|3.2.7|runtime-web|Compliance mode enabled, was '3.2.7'|
@@ -230,10 +230,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cddlib|0.94j|0.94m|runtime-scientific|Compliance mode enabled, was '0.94m'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cerberus|1.3.2|1.3.7|lang-python|Compliance mode enabled, was '1.3.7'|
-|certbot|2.11.0|4.2.0|groups|Compliance mode enabled, was '4.2.0'|
-|certbot-apache|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
+|certbot|2.11.0|5.0.0|groups|Compliance mode enabled, was '5.0.0'|
+|certbot-apache|2.10.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
 |certbot-dns-cloudflare|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
-|certbot-nginx|2.10.0|4.2.0|app-web|Compliance mode enabled, was '4.2.0'|
+|certbot-nginx|2.10.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
 |certifi|2024.7.4|2025.8.3|lang-python|Compliance mode enabled, was '2025.8.3'|
 |cervisia|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |cffi|1.15.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
@@ -2131,7 +2131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pip|25.1.1|25.2|lang-python|Compliance mode enabled, was '25.2'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|pixi|0.53.0|0.54.0|app-devel|Compliance mode enabled, was '0.54.0'|
 |pixman|0.43.0|0.46.4|runtime-display|Compliance mode enabled, was '0.46.4'|
 |pixman+32|0.43.0|0.46.4|runtime-optenv32|Compliance mode enabled, was '0.46.4'|
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography|Compliance mode enabled, was '1.30.0'|
@@ -2537,6 +2536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sos|4.4|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundkonverter-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|soundtouch|2.3.3|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
 |soupsieve|2.7|2.8|lang-python|Compliance mode enabled, was '2.8'|
 |spacebar|23.01.0|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2695,7 +2695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|teams-for-linux|1.13.0|2.5.1|app-web|Compliance mode enabled, was '2.5.1'|
+|teams-for-linux|1.13.0|2.5.2|app-web|Compliance mode enabled, was '2.5.2'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telegram-desktop|6.0.2|6.1.1|app-web|Compliance mode enabled, was '6.1.1'|
@@ -2849,7 +2849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1623|9.1.1725|app-editors|Compliance mode enabled, was '9.1.1725'|
+|vim|9.1.1623|9.1.1727|app-editors|Compliance mode enabled, was '9.1.1727'|
 |virglrenderer|0.10.4|1.1.1|app-virtualization|Compliance mode enabled, was '1.1.1'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
