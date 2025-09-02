@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756819572?label=Updated)
+![Relative date](https://img.shields.io/date/1756822456?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -262,7 +262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-menus|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-screensaver|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |cinnamon-session|5.8.1|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
-|cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cinny-desktop|4.9.1|4.10.0|app-web|Compliance mode enabled, was '4.10.0'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
@@ -2624,6 +2623,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swiftclient|4.6.0|4.8.0|lang-python|Compliance mode enabled, was '4.8.0'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
+|syncthing|2.0.3|2.0.4|app-network|Compliance mode enabled, was '2.0.4'|
 |syndication|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
@@ -2697,7 +2697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|1.13.0|2.5.1|app-web|Compliance mode enabled, was '2.5.1'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|6.0.2|6.1.0|app-web|Compliance mode enabled, was '6.1.0'|
+|telegram-desktop|6.0.2|6.1.1|app-web|Compliance mode enabled, was '6.1.1'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-idle|0.2.0|0.2.2|runtime-web|Compliance mode enabled, was '0.2.2'|
@@ -2900,6 +2900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
+|wireplumber|0.5.10|0.5.11|app-multimedia|Compliance mode enabled, was '0.5.11'|
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wqy-unibit|1.1.0|4.3.0|desktop-fonts|Compliance mode enabled, was '4.3.0'|
 |wrapt|1.11.2|1.17.3|lang-python|Compliance mode enabled, was '1.17.3'|
