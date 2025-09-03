@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756933823?label=Updated)
+![Relative date](https://img.shields.io/date/1756937455?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -389,7 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|28.0.4|28.3.3|app-containers||
+|docker|28.0.4|28.4.0|app-containers||
 |docker-buildx|0.22.0|0.27.0|app-containers|Compliance mode enabled, was '0.27.0'|
 |docker-compose|2.35.0|2.39.2|app-containers|Compliance mode enabled, was '2.39.2'|
 |docutils|0.21.2|0.22|lang-python|Compliance mode enabled, was '0.22'|
@@ -2183,7 +2183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.14|app-scientific|Compliance mode enabled, was '4.14'|
-|poppler|25.07.0|25.09.0|groups|Compliance mode enabled, was '25.09.0'|
+|poppler|25.07.0|29.01.0|groups|Compliance mode enabled, was '29.01.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
