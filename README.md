@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756905869?label=Updated)
+![Relative date](https://img.shields.io/date/1756908772?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1564,7 +1564,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|6360|runtime-creativity|Compliance mode enabled, was '6360'|
+|llama.cpp|5298|6367|runtime-creativity|Compliance mode enabled, was '6367'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.0|runtime-optenv32|Compliance mode enabled, was '21.1.0'|
@@ -2404,7 +2404,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rmlint|2.10.2|2.10.3|app-utils|Compliance mode enabled, was '2.10.3'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
-|rocm-llama-cpp|6.4.3|6360|runtime-rocm|Compliance mode enabled, was '6360'|
+|rocm-llama-cpp|6.4.3|6367|runtime-rocm|Compliance mode enabled, was '6367'|
 |rocm-rccl|6.4.3|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.3 -> 3.3.0)|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
 |rocs|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -2450,6 +2450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.5.7|2.5.8|lang-lisp|Compliance mode enabled, was '2.5.8'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |sccache|0.3.3|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
+|scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build-core|0.11.1|0.11.6|lang-python|Compliance mode enabled, was '0.11.6'|
 |scipy|1.15.3|1.16.1|lang-python|Compliance mode enabled, was '1.16.1'|
