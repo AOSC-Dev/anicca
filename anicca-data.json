@@ -1278,7 +1278,6 @@
 ["enchant","1-6-1","1.6.0","app-i18n",1749130117,["Possible downgrade from the current version (1-6-1 -> 1.6.0)"]],
 ["ibus-rime","1.5.0","1.5.1","app-i18n",1622782977,["Compliance mode enabled, was '1.5.1'"]],
 ["opencc","1.1.7","1.1.9","app-i18n",1716443532,["Compliance mode enabled, was '1.1.9'"]],
-["ibus-qt","1.3.3","1.3.4","app-i18n",1721223235,["Compliance mode enabled, was '1.3.4'"]],
 ["renpy","8.3.7.25031702","7.5.0.22062402","runtime-games",1744276032,["Compliance mode enabled, was '7.5.0.22062402'","Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)"]],
 ["irrlicht","1.8.4","1.8.5","runtime-games",1468504030,["Compliance mode enabled, was '1.8.5'"]],
 ["black-hole-solver","1.10.1","1.14.0","runtime-games",1613805828,["Compliance mode enabled, was '1.14.0'"]],
