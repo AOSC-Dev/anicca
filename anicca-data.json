@@ -2314,7 +2314,7 @@
 ["websocket-client","1.7.0","1.8.0","lang-python",1708685051,["Compliance mode enabled, was '1.8.0'"]],
 ["rdflib","6.2.0","7.1.4","lang-python",1698387501,["Compliance mode enabled, was '7.1.4'"]],
 ["pyaaf2","1.6.0","1.7.1","lang-python",1678601095,["Compliance mode enabled, was '1.7.1'"]],
-["openai-python","1.63.2","1.104.2","lang-python",1740043967,["Compliance mode enabled, was '1.104.2'"]],
+["openai-python","1.63.2","1.105.0","lang-python",1740043967,["Compliance mode enabled, was '1.105.0'"]],
 ["sqlparse","0.4.1","0.5.3","lang-python",1620896944,["Compliance mode enabled, was '0.5.3'"]],
 ["pycups","1.9.74","2.0.4","lang-python",1549919969,["Compliance mode enabled, was '2.0.4'"]],
 ["dill","0.3.8","0.4.0","lang-python",1719916332,["Compliance mode enabled, was '0.4.0'"]],
