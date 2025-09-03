@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756883613?label=Updated)
+![Relative date](https://img.shields.io/date/1756887410?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -712,7 +712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|139.0.7258.154|140.0.7339.80|app-web|Compliance mode enabled, was '140.0.7339.80'|
-|goreleaser|2.8.2|2.11.2|lang-golang|Compliance mode enabled, was '2.11.2'|
+|goreleaser|2.8.2|2.12.0|lang-golang|Compliance mode enabled, was '2.12.0'|
 |goverlay|1.2|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
 |gpgme|1.24.3|2.0.0|runtime-cryptography|Compliance mode enabled, was '2.0.0'|
@@ -1863,8 +1863,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.4.17.0|3.0.10.0|runtime-imaging|Compliance mode enabled, was '3.0.10.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.28-ga|11.0.29+4|lang-java||
-|openjdk-17|17.0.16-ga|17.0.17+5|lang-java||
-|openjdk-21|21.0.8-ga|21.0.9+5|lang-java||
+|openjdk-17|17.0.16-ga|17.0.17+6|lang-java||
+|openjdk-21|21.0.8-ga|21.0.9+6|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
@@ -2603,7 +2603,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |strace|6.14|6.16|app-devel|Compliance mode enabled, was '6.16'|
 |streamlink|6.7.4|7.5.0|app-multimedia|Compliance mode enabled, was '7.5.0'|
-|stress-ng|0.19.03|0.19.04|app-benchmarks|Compliance mode enabled, was '0.19.04'|
 |strongswan|5.9.4|6.0.2|app-network|Compliance mode enabled, was '6.0.2'|
 |structlog|19.1.0|25.4.0|lang-python|Compliance mode enabled, was '25.4.0'|
 |stubby|0.3.0|0.4.3|app-network|Compliance mode enabled, was '0.4.3'|
