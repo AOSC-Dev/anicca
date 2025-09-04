@@ -131,6 +131,7 @@
 ["x264+32","0+git20241027","3222","runtime-optenv32",1740919509,["Compliance mode enabled, was '3222'"]],
 ["harfbuzz+32","8.4.0","11.4.5","runtime-optenv32",1740919515,["Compliance mode enabled, was '11.4.5'"]],
 ["orc+32","0.4.32","0.4.41","runtime-optenv32",1600624175,["Compliance mode enabled, was '0.4.41'"]],
+["libmikmod+32","3.3.11.1","3.3.13","runtime-optenv32",1723271490,["Compliance mode enabled, was '3.3.13'"]],
 ["libnl+32","3.9.0","3.11.0","runtime-optenv32",1740919508,["Compliance mode enabled, was '3.11.0'"]],
 ["twolame+32","0.3.13","0.4.0","runtime-optenv32",1461512294,["Compliance mode enabled, was '0.4.0'"]],
 ["libffi+32","3.4.7","3.5.2","runtime-optenv32",1740919529,["Compliance mode enabled, was '3.5.2'"]],
