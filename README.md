@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1756952249?label=Updated)
+![Relative date](https://img.shields.io/date/1756956192?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -379,7 +379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
-|discount|3.0.0d|2.2.7|runtime-doc|Compliance mode enabled, was '2.2.7'<br>Possible downgrade from the current version (3.0.0d -> 2.2.7)|
+|discount|3.0.0d|3.0.1|runtime-doc|Compliance mode enabled, was '3.0.1'|
 |discover|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
@@ -390,7 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|28.0.4|28.4.0|app-containers||
-|docker-buildx|0.22.0|0.27.0|app-containers|Compliance mode enabled, was '0.27.0'|
+|docker-buildx|0.22.0|0.28.0|app-containers|Compliance mode enabled, was '0.28.0'|
 |docker-compose|2.35.0|2.39.2|app-containers|Compliance mode enabled, was '2.39.2'|
 |docutils|0.21.2|0.22|lang-python|Compliance mode enabled, was '0.22'|
 |dolphin|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
