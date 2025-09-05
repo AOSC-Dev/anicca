@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757074738?label=Updated)
+![Relative date](https://img.shields.io/date/1757078547?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -498,7 +498,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
 |fastbencode|0.3.2|0.3.5|lang-python|Compliance mode enabled, was '0.3.5'|
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
-|fastfetch|2.51.1|2.52.0|app-utils|Compliance mode enabled, was '2.52.0'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fastjsonschema|2.21.1|2.21.2|lang-python|Compliance mode enabled, was '2.21.2'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
@@ -638,7 +637,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glances|4.0.5|4.3.3|app-admin|Compliance mode enabled, was '4.3.3'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
 |glfw|3.4|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
-|glib+32|2.83.3|2.84.4|runtime-optenv32|Compliance mode enabled, was '2.84.4'|
+|glib|2.84.4|2.86.0|runtime-common|Compliance mode enabled, was '2.86.0'|
+|glib+32|2.83.3|2.86.0|runtime-optenv32|Compliance mode enabled, was '2.86.0'|
 |glib-networking|2.72.2|2.80.1|runtime-common|Compliance mode enabled, was '2.80.1'|
 |glibc|2.40|2.42|core-libs|Compliance mode enabled, was '2.42'|
 |glibc+32|2.40|2.42|runtime-optenv32|Compliance mode enabled, was '2.42'|
