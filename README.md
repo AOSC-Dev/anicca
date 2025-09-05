@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757085149?label=Updated)
+![Relative date](https://img.shields.io/date/1757088901?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -255,14 +255,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|135.0.7049.95|140.0.7339.80|app-web|Compliance mode enabled, was '140.0.7339.80'|
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.9.8|3.9.7|app-devel|Compliance mode enabled, was '3.9.7'<br>Possible downgrade from the current version (3.9.8 -> 3.9.7)|
 |cifs-utils|7.0|7.4|app-network|Compliance mode enabled, was '7.4'|
 |cinnamon|5.8.3|6.4.10|groups|Compliance mode enabled, was '6.4.10'|
-|cinnamon-control-center|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
-|cinnamon-desktop|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
+|cinnamon-control-center|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
+|cinnamon-desktop|5.8.0|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cinnamon-menus|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
 |cinnamon-screensaver|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
-|cinnamon-session|5.8.1|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
+|cinnamon-session|5.8.1|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
