@@ -903,6 +903,7 @@
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
 ["gumbo-parser","0.13.1","0.13.2","app-devel",1748244324,["Compliance mode enabled, was '0.13.2'"]],
 ["composer","2.8.5","2.8.11","app-devel",1738155650,["Compliance mode enabled, was '2.8.11'"]],
+["ciel","3.9.8","3.9.7","app-devel",1757074266,["Compliance mode enabled, was '3.9.7'","Possible downgrade from the current version (3.9.8 -> 3.9.7)"]],
 ["astyle","3.6.6","3.6.12","app-devel",1736266330,["Compliance mode enabled, was '3.6.12'"]],
 ["qtcreator","16.0.1","17.0.1","app-devel",1754010718,["Compliance mode enabled, was '17.0.1'"]],
 ["gobject-introspection","1.80.0","1.84.0","app-devel",1711178014,["Compliance mode enabled, was '1.84.0'"]],
