@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757113936?label=Updated)
+![Relative date](https://img.shields.io/date/1757119304?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -345,7 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
-|dart-sass-js|1.89.2|1.92.0|app-devel|Compliance mode enabled, was '1.92.0'|
+|dart-sass-js|1.89.2|1.92.1|app-devel|Compliance mode enabled, was '1.92.1'|
 |dart-sdk|3.8.2|3.9.2|lang-dart|Compliance mode enabled, was '3.9.2'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
@@ -1325,6 +1325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnt|2.14.0|2.14.3|runtime-common|Compliance mode enabled, was '2.14.3'|
 |libgovirt|0.3.8|0.3.9|runtime-virtualization|Compliance mode enabled, was '0.3.9'|
 |libgpg-error|1.51|1.55|runtime-cryptography|Compliance mode enabled, was '1.55'|
+|libgpg-error+32|1.51|1.55|runtime-optenv32|Compliance mode enabled, was '1.55'|
 |libgphoto2|2.5.30|2.5.32|runtime-devices|Compliance mode enabled, was '2.5.32'|
 |libgpiod|1.4.2|2.2.2|runtime-devices|Compliance mode enabled, was '2.2.2'|
 |libgravatar|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
