@@ -2001,7 +2001,7 @@
 ["gnustep-make","2.9.0","2.9.3","runtime-gnustep",1631430385,["Compliance mode enabled, was '2_9_3'"]],
 ["gnustep-base","1.28.0","1.31.1","runtime-gnustep",1721223235,["Compliance mode enabled, was '1_31_1'"]],
 ["brltty","6.6","6.8","app-a11y",1721223235,["Compliance mode enabled, was '6.8'"]],
-["vim","9.1.1623","9.1.1734","app-editors",1754841018,["Compliance mode enabled, was '9.1.1734'"]],
+["vim","9.1.1623","9.1.1736","app-editors",1754841018,["Compliance mode enabled, was '9.1.1736'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["helix","25.07","25.07.1","app-editors",1753593728,["Compliance mode enabled, was '25.07.1'"]],
 ["liteide","38.3","38.4","app-editors",1712458054,["Compliance mode enabled, was '38.4'"]],
