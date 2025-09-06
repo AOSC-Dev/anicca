@@ -1807,7 +1807,7 @@
 ["ab-download-manager","1.6.10","1.6.11","app-web",1755534483,["Compliance mode enabled, was '1.6.11'"]],
 ["transmission-remote-gtk","1.5.1","1.6.0","app-web",1655338775,["Compliance mode enabled, was '1.6.0'"]],
 ["telegram-desktop","6.1.1","6.1.2","app-web",1756976775,["Compliance mode enabled, was '6.1.2'"]],
-["forgejo","11.0.0","12.0.2","app-web",1746182393,["Compliance mode enabled, was '12.0.2'"]],
+["forgejo","11.0.0","12.0.3","app-web",1746182393,["Compliance mode enabled, was '12.0.3'"]],
 ["liborcus","0.19.2","0.20.2","runtime-productivity",1650696758,["Compliance mode enabled, was '0.20.2'"]],
 ["libkolabxml","1.2.0","1.2.1","runtime-productivity",1570302982,["Compliance mode enabled, was '1.2.1'"]],
 ["libofx","0.10.8","0.10.9","runtime-productivity",1717056325,["Compliance mode enabled, was '0.10.9'"]],
