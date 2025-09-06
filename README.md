@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757175122?label=Updated)
+![Relative date](https://img.shields.io/date/1757178280?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -390,6 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
+|docker|28.0.4|28.4.0|app-containers||
 |docker-buildx|0.22.0|0.28.0|app-containers|Compliance mode enabled, was '0.28.0'|
 |docker-compose|2.35.0|2.39.2|app-containers|Compliance mode enabled, was '2.39.2'|
 |docutils|0.21.2|0.22|lang-python|Compliance mode enabled, was '0.22'|
@@ -1776,7 +1777,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-qt|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |networkmanager-strongswan|1.6.1|1.6.3|app-network|Compliance mode enabled, was '1.6.3'|
 |networkmanager-vpnc|1.2.6|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
-|networkx|2.8.5|3.5|lang-python|Compliance mode enabled, was '3.5'|
 |newflasher|52|58|app-devices|Compliance mode enabled, was '58'|
 |nfs-utils|2.6.2|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
