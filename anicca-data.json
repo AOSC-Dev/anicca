@@ -584,7 +584,6 @@
 ["perl-anyevent-i3","0.17","0.19","lang-perl",1530196415,["Compliance mode enabled, was '0.19'"]],
 ["perl-file-mimeinfo","0.28+03","0.35","lang-perl",1530196414,["Compliance mode enabled, was '0.35'"]],
 ["perl-error","0.17027","0.17030","lang-perl",1550814485,["Compliance mode enabled, was '0.17030'"]],
-["perl-email-abstract","3.008","3.010","lang-perl",1678950872,["Compliance mode enabled, was '3.010'"]],
 ["perl-class-singleton","1.5","1.6","lang-perl",1596485702,["Compliance mode enabled, was '1.6'"]],
 ["perl-clone","0.46","0.47","lang-perl",1716292365,["Compliance mode enabled, was '0.47'"]],
 ["perl-archive-zip","1.64","1.68","lang-perl",1537769662,["Compliance mode enabled, was '1.68'"]],
