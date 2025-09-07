@@ -955,6 +955,7 @@
 ["xsd","4.1.0~alpha11","4.2.0","app-devel",1614161812,["Compliance mode enabled, was '4.2.0'"]],
 ["castxml","0.6.11","0.6.13","app-devel",1754315942,["Compliance mode enabled, was '0.6.13'"]],
 ["cmocka","1.1.7","1.1.8","app-devel",1720958716,["Compliance mode enabled, was '1.1.8'"]],
+["flatpak-builder","1.4.4","1.4.5","app-devel",1721975101,["Compliance mode enabled, was '1.4.5'"]],
 ["avr-libc","2.0.0","2_2_1-release","app-devel",1634066043,["Compliance mode enabled, was '2_2_1-release'"]],
 ["dart-sass-js","1.89.2","1.92.1","app-devel",1750570454,["Compliance mode enabled, was '1.92.1'"]],
 ["valgrind","3.25.0","3.25.1","app-devel",1745931468,["Compliance mode enabled, was '3.25.1'"]],
