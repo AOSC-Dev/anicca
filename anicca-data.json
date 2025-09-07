@@ -222,7 +222,7 @@
 ["gtksourceview-4","4.8.3","4.8.4","runtime-editors",1663210241,["Compliance mode enabled, was '4.8.4'"]],
 ["tree-sitter-vim","0.5.0","0.7.0","runtime-editors",1743045478,["Compliance mode enabled, was '0.7.0'"]],
 ["tepl","6.0.2","6.9.0","runtime-editors",1721223235,["Compliance mode enabled, was '6.9.0'"]],
-["tree-sitter-query","0.5.1","0.6.2","runtime-editors",1743045478,["Compliance mode enabled, was '0.6.2'"]],
+["tree-sitter-query","0.5.1","0.7.0","runtime-editors",1743045478,["Compliance mode enabled, was '0.7.0'"]],
 ["tree-sitter-lua","0.3.0","0.4.0","runtime-editors",1743045478,["Compliance mode enabled, was '0.4.0'"]],
 ["botan","3.8.1","3.9.0","runtime-cryptography",1754495167,["Compliance mode enabled, was '3.9.0'"]],
 ["libksba","1.6.6","1.6.7","runtime-cryptography",1709461519,["Compliance mode enabled, was '1.6.7'"]],
