@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757319453?label=Updated)
+![Relative date](https://img.shields.io/date/1757322875?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1114,6 +1114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |koffice-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |koko|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kolf|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
+|kollision|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kolourpaint|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kompare|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kompose-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2925,7 +2926,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.45|runtime-display|Compliance mode enabled, was '2.45'|
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
-|xmake|3.0.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
