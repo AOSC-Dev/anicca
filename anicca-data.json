@@ -938,6 +938,7 @@
 ["arcanist","2025.18","2022.37","app-devel",1749178668,["Compliance mode enabled, was '2022.37'","Possible downgrade from the current version (2025.18 -> 2022.37)"]],
 ["dtc","1.7.0","1.7.2","app-devel",1720957623,["Compliance mode enabled, was '1.7.2'"]],
 ["tree-sitter","0.25.3","0.25.9","groups",1743045478,["Compliance mode enabled, was '0.25.9'"]],
+["yq","4.47.1","4.47.2","app-devel",1753793888,["Compliance mode enabled, was '4.47.2'"]],
 ["renderdoc","1.39","1.40","app-devel",1751071679,["Compliance mode enabled, was '1.40'"]],
 ["clinfo","3.0.23.01.25","3.0.25.02.14","app-devel",1721453818,["Compliance mode enabled, was '3.0.25.02.14'"]],
 ["avr-binutils","2.37","2.45","app-devel",1634066043,["Compliance mode enabled, was '2.45'"]],
