@@ -2936,7 +2936,7 @@
 ["leptonica","1.84.1","1.85.0","app-scientific",1710442812,["Compliance mode enabled, was '1.85.0'"]],
 ["singular","4.1.1","2025.08.26","app-scientific",1531831895,["Compliance mode enabled, was '2025.08.26'"]],
 ["maxima","5.48.0","5.48.1","app-scientific",1753924740,["Compliance mode enabled, was '5.48.1'"]],
-["boinc","8.0.4","8.0.2","app-scientific",1723071522,["Compliance mode enabled, was '8.0.2'","Possible downgrade from the current version (8.0.4 -> 8.0.2)"]],
+["boinc","8.0.4","8.2.5","app-scientific",1723071522,["Compliance mode enabled, was '8.2.5'"]],
 ["logisim-evolution","3.9.0","4.0.0","app-scientific",1725630868,["Compliance mode enabled, was '4.0.0'"]],
 ["sagemath","10.4","10.7","app-scientific",1724072645,["Compliance mode enabled, was '10.7'"]],
 ["htslib","1.21","1.22.1","app-scientific",1745233730,["Compliance mode enabled, was '1.22.1'"]],
