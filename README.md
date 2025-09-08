@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757344079?label=Updated)
+![Relative date](https://img.shields.io/date/1757348040?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -828,7 +828,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-uniemoji|0.6.0|0.7.0|app-i18n|Compliance mode enabled, was '0.7.0'|
 |icdiff|1.9.5|2.0.7|app-utils|Compliance mode enabled, was '2.0.7'|
 |icecast|2.4.4|2.4.999.1|app-multimedia|Compliance mode enabled, was '2.4.999.1'|
-|icewm|3.6.0|3.9.0|desktop-wm|Compliance mode enabled, was '3.9.0'|
 |icewm-themes|1.2.26|1.2.26.orig|desktop-themes|Compliance mode enabled, was '1.2.26.orig'<br>Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)|
 |icu|74.2|77.1|runtime-i18n|Compliance mode enabled, was '77-1'|
 |icu+32|74.2|77.1|runtime-optenv32|Compliance mode enabled, was '77-1'|
@@ -1525,8 +1524,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxkbcommon|1.8.1|1.11.0|runtime-display|Compliance mode enabled, was '1.11.0'|
 |libxkbcommon+32|1.7.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
-|libxml2|2.10.4|2.14.5|runtime-common|Compliance mode enabled, was '2.14.5'|
-|libxml2+32|2.10.4|2.14.5|runtime-optenv32|Compliance mode enabled, was '2.14.5'|
+|libxml2|2.10.4|2.14.6|runtime-common|Compliance mode enabled, was '2.14.6'|
+|libxml2+32|2.10.4|2.14.6|runtime-optenv32|Compliance mode enabled, was '2.14.6'|
 |libxmlb|0.3.22|0.3.23|runtime-common|Compliance mode enabled, was '0.3.23'|
 |libxnvctrl|580.65.06|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
 |libxnvctrl+32|580.65.06|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
@@ -2259,6 +2258,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylsqpack|0.3.18|0.3.22|lang-python|Compliance mode enabled, was '0.3.22'|
 |pymarkups|3.0.0|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |pymediainfo|5.0.3|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
+|pymysql|0.9.3|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |pynacl|1.3.0|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
 |pynput|1.7.6|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
 |pynvim|0.5.2|0.6.0|lang-python|Compliance mode enabled, was '0.6.0'|
@@ -2472,6 +2472,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
 |semver|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
+|sensible-utils|0.0.24|0.0.26|app-utils|Compliance mode enabled, was '0.0.26'|
 |ser2net|3.5|4.6.5|app-network|Compliance mode enabled, was '4.6.5'|
 |serd|0.32.2|0.32.4|runtime-common|Compliance mode enabled, was '0.32.4'|
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
@@ -2762,7 +2763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trio|0.24.0|0.30.0|lang-python|Compliance mode enabled, was '0.30.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
 |trivy|0.55.0|0.66.0|app-devel|Compliance mode enabled, was '0.66.0'|
-|trove-classifiers|2025.8.6.13|2025.8.26.11|lang-python|Compliance mode enabled, was '2025.8.26.11'|
+|trove-classifiers|2025.8.6.13|2025.9.8.13|lang-python|Compliance mode enabled, was '2025.9.8.13'|
 |tslib|1.21|1.23|runtime-devices|Compliance mode enabled, was '1.23'|
 |tslib+32|1.21|1.23|runtime-optenv32|Compliance mode enabled, was '1.23'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
