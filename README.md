@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757358363?label=Updated)
+![Relative date](https://img.shields.io/date/1757362373?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -67,7 +67,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|ansible|2.12.1|2.19.1|app-admin|Compliance mode enabled, was '2.19.1'|
+|ansible|2.12.1|2.19.2|app-admin|Compliance mode enabled, was '2.19.2'|
 |anubis|1.21.3|1.22.0|app-web|Compliance mode enabled, was '1.22.0'|
 |anyio|4.8.0|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |aom|3.11.0|3.13.1|runtime-multimedia|Compliance mode enabled, was '3.13.1'|
@@ -376,7 +376,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
-|discount|3.0.0d|3.0.1.1|runtime-doc|Compliance mode enabled, was '3.0.1.1'|
+|discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.4.4|desktop-kde|Compliance mode enabled, was '6.4.4'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
@@ -1847,7 +1847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.106.1|lang-python|Compliance mode enabled, was '1.106.1'|
+|openai-python|1.63.2|1.107.0|lang-python|Compliance mode enabled, was '1.107.0'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
