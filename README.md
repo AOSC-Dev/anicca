@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757412741?label=Updated)
+![Relative date](https://img.shields.io/date/1757416315?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.43.1|2.45|runtime-optenvw64|Compliance mode enabled, was '2.45'|
 |bird|2.17.1|3.1.3|app-network|Compliance mode enabled, was '3.1.3'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
-|blender|4.0.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
+|blender|4.0.2|4.5.3|app-creativity|Compliance mode enabled, was '4.5.3'|
 |blinken|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |bluedevil|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |bluez|5.79|5.83|app-devices|Compliance mode enabled, was '5.83'|
@@ -216,7 +216,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.2.0|runtime-common|Compliance mode enabled, was '1.2.0'|
 |capstone|5.0.3|5.0.6|app-devel|Compliance mode enabled, was '5.0.6'|
 |cargo-c|0.10.14|0.10.15+cargo-0.90.0|lang-rust|Compliance mode enabled, was '0.10.15+cargo-0.90.0'|
-|cargo-release|0.25.10|0.25.18|lang-rust|Compliance mode enabled, was '0.25.18'|
 |cargo-smart-release|0.17.0|0.30.0|lang-rust|Compliance mode enabled, was '0.30.0'|
 |carla|2.5.8|2.5.10|app-multimedia|Compliance mode enabled, was '2.5.10'|
 |castxml|0.6.11|0.6.13|app-devel|Compliance mode enabled, was '0.6.13'|
@@ -1389,7 +1388,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.12|runtime-devices|Compliance mode enabled, was '0.2.12'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
 |libmediaart|1.9.4|1.9.7|runtime-multimedia|Compliance mode enabled, was '1.9.7'|
-|libmediainfo|24.12|25.07|runtime-multimedia|Compliance mode enabled, was '25.07'|
 |libmicrohttpd|1.0.1|1.0.2|runtime-web|Compliance mode enabled, was '1.0.2'|
 |libmikmod|3.3.11.1|3.3.13|runtime-multimedia|Compliance mode enabled, was '3.3.13'|
 |libmikmod+32|3.3.11.1|3.3.13|runtime-optenv32|Compliance mode enabled, was '3.3.13'|
@@ -1676,7 +1674,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa|25.1.6|25.2.2|runtime-display||
 |mesa+32|25.1.7|25.2.2|runtime-optenv32||
 |mesa-amber|21.3.9|25.2.2|runtime-display|Compliance mode enabled, was '25.2.2'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.2|runtime-display|Compliance mode enabled, was '25.2.2'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |metacity|3.44.0|3.57.1|desktop-gnome|Compliance mode enabled, was '3.57.1'|
