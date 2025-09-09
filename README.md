@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757424468?label=Updated)
+![Relative date](https://img.shields.io/date/1757426689?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2240,6 +2240,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycares|4.5.0|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |pycodestyle|2.7.0|2.14.0|lang-python|Compliance mode enabled, was '2.14.0'|
 |pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
+|pycparser|2.22|2.23|lang-python|Compliance mode enabled, was '2.23'|
 |pycryptodome|3.22.0x|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |pycryptodomex|3.22.0x|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
@@ -2517,6 +2518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smplayer|24.5.0|25.6.0|app-multimedia|Compliance mode enabled, was '25.6.0'|
 |snapd|2.65.1|3.14.0|app-admin|Compliance mode enabled, was '3.14.0'|
 |snapd-glib|1.65|1.70|runtime-admin|Compliance mode enabled, was '1.70'|
+|snapper|0.12.2|0.13.0|app-admin|Compliance mode enabled, was '0.13.0'|
 |snapper-gui|0.1<br>+git20220626|0.1|app-admin|Compliance mode enabled, was '0.1'|
 |snappy|1.1.8|1.2.2|runtime-common|Compliance mode enabled, was '1.2.2'|
 |sniffio|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
