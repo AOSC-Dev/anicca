@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757495635?label=Updated)
+![Relative date](https://img.shields.io/date/1757499197?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -165,6 +165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |bluedevil|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |bluez|5.79|5.83|app-devices|Compliance mode enabled, was '5.83'|
+|bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |bolt|0.9.8|0.9.10|app-admin|Compliance mode enabled, was '0.9.10'|
 |bomber|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
@@ -517,6 +518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.3|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
 |feeluown-qqmusic|1.0.5|1.0.11|app-multimedia|Compliance mode enabled, was '1.0.11'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
+|fennel-ls|0.2.1|0.2.0|lang-lua|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
 |ffmpeg+32|7.1|8.0|runtime-optenv32|Compliance mode enabled, was '8.0'|
@@ -930,6 +932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |katomic|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kauth|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kbarcode-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|kbd|2.7.1|2.9.0|app-utils|Compliance mode enabled, was '2.9.0'|
 |kbfx-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbibtex-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kbiff-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1135,7 +1138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopete|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kopete-otr-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |korganizer|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|kose-font|3.120|3.125|desktop-fonts|Compliance mode enabled, was '3.125'|
+|kose-font|3.120|3.126|desktop-fonts|Compliance mode enabled, was '3.126'|
 |kosmindoormap|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kpackage|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kparts|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -1280,7 +1283,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchewing|0.5.1|0.10.3|runtime-i18n|Compliance mode enabled, was '0.10.3'|
 |libcl|2.3.2|2.3.3|runtime-devices|Compliance mode enabled, was '2.3.3'|
 |libcl+32|2.3.2|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
-|libclc|18.1.8|21.1.0|runtime-devices|Compliance mode enabled, was '21.1.0'|
+|libclc|18.1.8|21.1.1|runtime-devices|Compliance mode enabled, was '21.1.1'|
 |libcloudproviders|0.3.1|0.3.6|runtime-web|Compliance mode enabled, was '0.3.6'|
 |libcmis|0.5.2|0.6.2|runtime-productivity|Compliance mode enabled, was '0.6.2'|
 |libconfig|1.7.2|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
@@ -1566,11 +1569,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llama.cpp|5298|6434|runtime-creativity|Compliance mode enabled, was '6434'|
 |lldpd|1.0.18|1.0.19|app-network|Compliance mode enabled, was '1.0.19'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|llvm+32|20.1.8|21.1.0|runtime-optenv32|Compliance mode enabled, was '21.1.0'|
-|llvm-18|18.1.8|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
-|llvm-19|19.1.6|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
-|llvm-20|20.1.8|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
-|llvm-runtime+wasi|20.1.8|21.1.0|runtime-wasi|Compliance mode enabled, was '21.1.0'|
+|llvm+32|20.1.8|21.1.1|runtime-optenv32|Compliance mode enabled, was '21.1.1'|
+|llvm-18|18.1.8|21.1.1|app-devel|Compliance mode enabled, was '21.1.1'|
+|llvm-19|19.1.6|21.1.1|app-devel|Compliance mode enabled, was '21.1.1'|
+|llvm-20|20.1.8|21.1.1|app-devel|Compliance mode enabled, was '21.1.1'|
+|llvm-runtime+wasi|20.1.8|21.1.1|runtime-wasi|Compliance mode enabled, was '21.1.1'|
 |lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
 |logisim-evolution|3.9.0|4.0.0|app-scientific|Compliance mode enabled, was '4.0.0'|
