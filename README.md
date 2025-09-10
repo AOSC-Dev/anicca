@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757481160?label=Updated)
+![Relative date](https://img.shields.io/date/1757485017?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1211,7 +1211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |ktuberling|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kturtle|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|kubectl|1.32.2|1.34.0|app-containers|Compliance mode enabled, was '1.34.0'|
+|kubectl|1.32.2|1.34.1|app-containers|Compliance mode enabled, was '1.34.1'|
 |kubo|0.33.2|0.37.0|app-proxy|Compliance mode enabled, was '0.37.0'|
 |kubrick|23.08.5|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
 |kunitconversion|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
@@ -2945,7 +2945,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
 |xournalpp|1.2.5|1.2.8|runtime-productivity|Compliance mode enabled, was '1.2.8'|
 |xpra|6.3|6.3.3|app-network|Compliance mode enabled, was '6.3.3'|
-|xray|25.8.31|25.9.5|app-proxy|Compliance mode enabled, was '25.9.5'|
+|xray|25.8.31|25.9.10|app-proxy|Compliance mode enabled, was '25.9.10'|
 |xrdp|0.10.3|0.10.4.1|app-network|Compliance mode enabled, was '0.10.4.1'|
 |xreader|4.2.2|4.4.0|app-doc|Compliance mode enabled, was '4.4.0'|
 |xscreensaver|6.08|6.12|app-utils|Compliance mode enabled, was '6.12'|
