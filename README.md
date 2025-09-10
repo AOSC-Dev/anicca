@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757538318?label=Updated)
+![Relative date](https://img.shields.io/date/1757542272?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -67,6 +67,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |annotated-types|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ansible|2.12.1|2.19.2|app-admin|Compliance mode enabled, was '2.19.2'|
 |anubis|1.21.3|1.22.0|app-web|Compliance mode enabled, was '1.22.0'|
+|anyio|4.8.0|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
 |aom|3.11.0|3.13.1|runtime-multimedia|Compliance mode enabled, was '3.13.1'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
 |aosc-community-wallpapers-extras-2024|2024.04.4|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
@@ -221,6 +222,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |castxml|0.6.11|0.6.13|app-devel|Compliance mode enabled, was '0.6.13'|
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|3.8.1|3.10.0|runtime-common|Compliance mode enabled, was '3.10.0'|
+|cava|0.10.5|0.10.6|app-multimedia|Compliance mode enabled, was '0.10.6'|
 |cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.10.2|4.11.3|app-devel|Compliance mode enabled, was '4.11.3'|
 |ccid|1.5.1|1.6.2|runtime-devices|Compliance mode enabled, was '1.6.2'|
@@ -319,6 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |criu|3.19|4.1.1|app-admin|Compliance mode enabled, was '4.1.1'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.16.1|1.24|app-admin|Compliance mode enabled, was '1.24'|
+|crush|0.7.8|0.7.9|app-utils|Compliance mode enabled, was '0.7.9'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|45.0.7|lang-python|Compliance mode enabled, was '45.0.7'|
@@ -758,7 +761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|runtime-editors|Compliance mode enabled, was '4.8.4'|
 |gtkwave|3.3.121|3.3.125|app-electronics|Compliance mode enabled, was '3.3.125'|
 |gtranslator|46.1|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
-|gucharmap|15.1.5|16.0.2|desktop-gnome|Compliance mode enabled, was '16.0.2'|
+|gucharmap|15.1.5|17.0.0|desktop-gnome|Compliance mode enabled, was '17.0.0'|
 |guitarix|0.46.0|0.47.0|app-multimedia|Compliance mode enabled, was '0.47.0'|
 |gum|0.16.2|0.17.0|app-utils|Compliance mode enabled, was '0.17.0'|
 |gumbo-parser|0.13.1|0.13.2|app-devel|Compliance mode enabled, was '0.13.2'|
@@ -2141,7 +2144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.08.0|desktop-kde|Compliance mode enabled, was '25.08.0'|
-|plasma-browser-integration|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-desktop|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-disks|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-firewall|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
