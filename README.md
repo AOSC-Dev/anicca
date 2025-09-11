@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757596823?label=Updated)
+![Relative date](https://img.shields.io/date/1757599951?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -245,7 +245,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.5.9|1.5.10|app-utils|Compliance mode enabled, was '1.5.10'|
-|chezmoi|2.65.0|2.65.1|app-utils|Compliance mode enabled, was '2.65.1'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.531|desktop-fonts|Compliance mode enabled, was '2.531'|
 |chisel|1.10.1|1.11.0|app-network|Compliance mode enabled, was '1.11.0'|
@@ -573,8 +572,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freeglut+32|3.4.0|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |freerdp|3.16.0|3.17.1|app-network|Compliance mode enabled, was '3.17.1'|
 |freetds|1.00.112|1.5.6|runtime-database|Compliance mode enabled, was '1.5.6'|
-|freetype|2.13.3|2.14.0|runtime-desktop|Compliance mode enabled, was '2.14.0'|
-|freetype+32|2.13.3|2.14.0|runtime-optenv32|Compliance mode enabled, was '2.14.0'|
+|freetype|2.13.3|2.14.1|runtime-desktop|Compliance mode enabled, was '2.14.1'|
+|freetype+32|2.13.3|2.14.1|runtime-optenv32|Compliance mode enabled, was '2.14.1'|
 |frei0r-plugins|2.3.3|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
@@ -587,7 +586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |futures|3.2.0|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
 |fuzzel|1.12.0|1.13.1|app-utils|Compliance mode enabled, was '1.13.1'|
-|fwupd|2.0.14|2.0.15|app-admin|Compliance mode enabled, was '2.0.15'|
 |fzf|0.64.0|0.65.2|app-utils|Compliance mode enabled, was '0.65.2'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
@@ -2329,7 +2327,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyx|0.14.1|0.16|lang-python|Compliance mode enabled, was '0.16'|
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyzmq|22.3.0|27.1.0|lang-python|Compliance mode enabled, was '27.1.0'|
-|q|0.19.2|0.19.8|app-network|Compliance mode enabled, was '0.19.8'|
 |q4wine|1.3.13|1.4.2|app-emulation|Compliance mode enabled, was '1.4.2'|
 |qalculate-tde-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |qasync|0.27.1|0.28.0|lang-python|Compliance mode enabled, was '0.28.0'|
@@ -2458,6 +2455,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-optimist|3.2.0|3.2.1|lang-ruby|Compliance mode enabled, was '3.2.1'|
 |ruby-pg|1.5.9|1.6.2|lang-ruby|Compliance mode enabled, was '1.6.2'|
 |ruby-pkg-config|1.5.8|1.6.4|lang-ruby|Compliance mode enabled, was '1.6.4'|
+|ruby-term-ansicolor|1.11.2|1.11.3|lang-ruby|Compliance mode enabled, was '1.11.3'|
 |runc|1.2.6|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |rust-bindgen|0.72.0|0.72.1|lang-rust|Compliance mode enabled, was '0.72.1'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
@@ -2884,7 +2882,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.4.309.0|1.4.321.0|runtime-display|Compliance mode enabled, was '1.4.321.0'|
 |volk-meta-loader+32|1.4.309.0|1.4.321.0|runtime-optenv32|Compliance mode enabled, was '1.4.321.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
-|vpl-gpu-rt|25.3.2|25.3.4|runtime-multimedia|Compliance mode enabled, was '25.3.4'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.103.1|1.103.2|app-editors|Compliance mode enabled, was '1.103.2'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
