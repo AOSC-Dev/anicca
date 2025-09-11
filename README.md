@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757581955?label=Updated)
+![Relative date](https://img.shields.io/date/1757585653?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2409,9 +2409,22 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rnote|0.12.0|0.13.1|app-doc|Compliance mode enabled, was '0.13.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
+|rocm-bandwidth-test|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-cmake|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-comgr|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-core|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-device-libs|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-half|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocm-llama-cpp|6.4.3|6445|runtime-rocm|Compliance mode enabled, was '6445'|
+|rocm-llvm|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocm-rccl|6.4.3|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.3 -> 3.3.0)|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
+|rocm-rocfft|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-rocprofiler-register|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-rocsolver|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-roctracer|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocminfo|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocr-runtime|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocs|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |rosegarden|24.12|25.06|app-creativity|Compliance mode enabled, was '25.06'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
