@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757599951?label=Updated)
+![Relative date](https://img.shields.io/date/1757603549?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -331,7 +331,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|20191203|6.2.20250907.0|app-devel|Compliance mode enabled, was '6.2.20250907.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250907.0)|
 |cuda|13.0.0|13.0.1|app-devel||
-|cups+32|2.4.11|2.4.12|runtime-optenv32|Compliance mode enabled, was '2.4.12'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -1960,7 +1959,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.46|runtime-optenv32|Compliance mode enabled, was '10.46'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.155|app-games|Compliance mode enabled, was '2.5.155'|
+|pcsx2|1.6.0<br>+git20210825|2.5.156|app-games|Compliance mode enabled, was '2.5.156'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2410,28 +2409,28 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rnote|0.12.0|0.13.1|app-doc|Compliance mode enabled, was '0.13.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
-|rocm-bandwidth-test|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-bandwidth-test|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocm-clr|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-cmake|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-comgr|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-core|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-device-libs|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-half|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-cmake|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-comgr|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-core|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-device-libs|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-half|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocm-hipblas|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocm-hipfft|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocm-hipfort|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocm-hipify|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocm-hipsparse|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
 |rocm-llama-cpp|6.4.3|6447|runtime-rocm|Compliance mode enabled, was '6447'|
-|rocm-llvm|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-llvm|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocm-rccl|6.4.3|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.3 -> 3.3.0)|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
 |rocm-rocfft|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-rocprofiler-register|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-rocsolver|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-roctracer|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocminfo|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocr-runtime|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
+|rocm-rocprofiler-register|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-rocsolver|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-roctracer|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocminfo|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocr-runtime|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
 |rocs|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |rosegarden|24.12|25.06|app-creativity|Compliance mode enabled, was '25.06'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
