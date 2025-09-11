@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757610290?label=Updated)
+![Relative date](https://img.shields.io/date/1757614450?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -167,7 +167,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |bluez|5.79|5.83|app-devices|Compliance mode enabled, was '5.83'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
-|bluez-qt|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |bolt|0.9.8|0.9.10|app-admin|Compliance mode enabled, was '0.9.10'|
 |bomber|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
@@ -331,6 +330,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|20191203|6.2.20250907.0|app-devel|Compliance mode enabled, was '6.2.20250907.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250907.0)|
 |cuda|13.0.0|13.0.1|app-devel||
+|cups|2.4.13|2.4.14|app-admin|Compliance mode enabled, was '2.4.14'|
+|cups+32|2.4.13|2.4.14|runtime-optenv32|Compliance mode enabled, was '2.4.14'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -365,6 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deno|2.4.5|2.5.0|lang-js|Compliance mode enabled, was '2.5.0'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
+|deskflow|1.23.0|1.24.0|app-utils|Compliance mode enabled, was '1.24.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |devscripts|2.24.5|2.25.19|app-devel|Compliance mode enabled, was '2.25.19'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
