@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757585653?label=Updated)
+![Relative date](https://img.shields.io/date/1757588704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -598,7 +598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+w64|14.2.0|15.2.0|runtime-optenvw64|Compliance mode enabled, was '15.2.0'|
 |gcompris|4.3|25.1.1|app-games|Compliance mode enabled, was '25.1.1'|
 |gcr|3.41.1|4.4.0.1|desktop-gnome|Compliance mode enabled, was '4.4.0.1'|
-|gdal|3.11.1|3.11.3|runtime-gis|Compliance mode enabled, was '3.11.3'|
+|gdal|3.11.1|3.11.4|runtime-gis|Compliance mode enabled, was '3.11.4'|
 |gdk-pixbuf|2.42.12|2.44.0|runtime-imaging|Compliance mode enabled, was '2.44.0'|
 |gdk-pixbuf+32|2.42.12|2.44.0|runtime-optenv32|Compliance mode enabled, was '2.44.0'|
 |gdm|42.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
@@ -1022,7 +1022,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kfloppy|23.04.3|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kfourinline|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kgamma|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
-|kgeography|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kget|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kglobalaccel|5.115.0|6.17.0|desktop-kde|Compliance mode enabled, was '6.17.0'|
 |kgoldrunner|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1079,7 +1078,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kleopatra|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |klettres|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |klickety|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|klines|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmag|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmahjongg|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmail|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1963,7 +1961,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |peazip|10.5.0|10.6.1|app-utils|Compliance mode enabled, was '10.6.1'|
-|peewee|3.17.1|3.18.2|lang-python|Compliance mode enabled, was '3.18.2'|
 |pefile|2023.2.7|2024.8.26|lang-python|Compliance mode enabled, was '2024.8.26'|
 |peg|0.1.18|0.1.20|app-devel|Compliance mode enabled, was '0.1.20'|
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
@@ -2132,6 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |pimcommon|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |pip|25.1.1|25.2|lang-python|Compliance mode enabled, was '25.2'|
+|pipewire|1.4.7|1.4.8|app-multimedia|Compliance mode enabled, was '1.4.8'|
 |pipx|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |pixman|0.43.0|0.46.4|runtime-display|Compliance mode enabled, was '0.46.4'|
@@ -2864,6 +2862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
+|virtualbox|7.2.0|7.2.2|app-virtualization|Compliance mode enabled, was '7.2.2'|
 |virtualenv|20.27.1|20.34.0|lang-python|Compliance mode enabled, was '20.34.0'|
 |vkd3d+32|1.9|1.17|runtime-optenv32|Compliance mode enabled, was '1.17'|
 |vlc|3.0.21|3.0.21+1|app-multimedia|Compliance mode enabled, was '3.0.21-1'|
