@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757603549?label=Updated)
+![Relative date](https://img.shields.io/date/1757607224?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1246,7 +1246,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldc|1.38.0|1.41.0|lang-dlang|Compliance mode enabled, was '1.41.0'|
-|lego|4.25.1|4.25.2|app-web|Compliance mode enabled, was '4.25.2'|
 |leptonica|1.84.1|1.85.0|app-scientific|Compliance mode enabled, was '1.85.0'|
 |level-zero|1.24.1|1.24.2|runtime-common|Compliance mode enabled, was '1.24.2'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
@@ -1260,7 +1259,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libass+32|0.17.2|0.17.4|runtime-optenv32|Compliance mode enabled, was '0.17.4'|
 |libatomic-ops|7.8.0|7.8.4|runtime-common|Compliance mode enabled, was '7.8.4'|
 |libavif|1.2.1|1.3.0|runtime-multimedia|Compliance mode enabled, was '1.3.0'|
-|libayatana-appindicator|0.5.93|0.5.94|runtime-desktop|Compliance mode enabled, was '0.5.94'|
 |libbinio|1.5|1.4|runtime-common|Compliance mode enabled, was '1.4'<br>Possible downgrade from the current version (1.5 -> 1.4)|
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
@@ -1549,19 +1547,19 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.76|1.4.81|app-network|Compliance mode enabled, was '1.4.81'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.46|core-devel|Compliance mode enabled, was '6.12.46'|
-|linux+api+32|6.12.7|6.12.46|runtime-optenv32|Compliance mode enabled, was '6.12.46'|
+|linux+api|6.12.30|6.12.47|core-devel|Compliance mode enabled, was '6.12.47'|
+|linux+api+32|6.12.7|6.12.47|runtime-optenv32|Compliance mode enabled, was '6.12.47'|
 |linux+kernel|6.16.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.4 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
 |linux+kernel+rc|6.17.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.0 -> 5.19.17)|
-|linux+kernel+retro|5.10.204|5.10.243|runtime-kernel|Compliance mode enabled, was '5.10.243'|
-|linux+kernel+retro+minimal|5.15.17|5.10.243|runtime-kernel|Compliance mode enabled, was '5.10.243'<br>Possible downgrade from the current version (5.15.17 -> 5.10.243)|
+|linux+kernel+retro|5.10.204|5.10.244|runtime-kernel|Compliance mode enabled, was '5.10.244'|
+|linux+kernel+retro+minimal|5.15.17|5.10.244|runtime-kernel|Compliance mode enabled, was '5.10.244'<br>Possible downgrade from the current version (5.15.17 -> 5.10.244)|
 |linux-firmware|20250829|20250509|runtime-kernel|Possible downgrade from the current version (20250829 -> 20250509)|
 |linux-kernel|6.16.4|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.4 -> 5.19.17)|
 |linux-kernel-loongarch-2k0300|6.12.35|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.35 -> 5.19.17)|
 |linux-kernel-rc|6.17.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.0 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.243|runtime-kernel|Compliance mode enabled, was '5.10.243'|
-|linux-kernel-retro-minimal|5.15.17|5.10.243|runtime-kernel|Compliance mode enabled, was '5.10.243'<br>Possible downgrade from the current version (5.15.17 -> 5.10.243)|
+|linux-kernel-retro|5.10.204|5.10.244|runtime-kernel|Compliance mode enabled, was '5.10.244'|
+|linux-kernel-retro-minimal|5.15.17|5.10.244|runtime-kernel|Compliance mode enabled, was '5.10.244'<br>Possible downgrade from the current version (5.15.17 -> 5.10.244)|
 |linuxsampler|2.3.0|2.4.0|runtime-multimedia|Compliance mode enabled, was '2.4.0'|
 |linyaps|1.6.3|1.9.10|app-admin|Compliance mode enabled, was '1.9.10'|
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
