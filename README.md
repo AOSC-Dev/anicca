@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757689904?label=Updated)
+![Relative date](https://img.shields.io/date/1757693581?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -247,7 +247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.5.9|1.5.11|app-utils|Compliance mode enabled, was '1.5.11'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
-|chiron-sans-hk|2.046|2.531|desktop-fonts|Compliance mode enabled, was '2.531'|
+|chiron-sans-hk|2.046|2.602|desktop-fonts|Compliance mode enabled, was '2.602'|
 |chisel|1.10.1|1.11.1|app-network|Compliance mode enabled, was '1.11.1'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
@@ -385,7 +385,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
-|dkms|3.1.1|3.2.1|app-admin|Compliance mode enabled, was '3.2.1'|
+|dkms|3.1.1|3.2.2|app-admin|Compliance mode enabled, was '3.2.2'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscontrol|4.22.0|4.24.0|app-network|Compliance mode enabled, was '4.24.0'|
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
@@ -1873,7 +1873,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
 |openjdk-8|8u462-ga|8u472-b06|groups||
-|openjfx-17|17.0.13<br>+0|17.0.17+1|lang-java|Compliance mode enabled, was '17.0.17+1'|
 |openjfx-21|21.0.5<br>+0|21.0.9+1|lang-java|Compliance mode enabled, was '21.0.9+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
 |openjpeg|2.5.2|2.5.3|runtime-imaging|Compliance mode enabled, was '2.5.3'|
