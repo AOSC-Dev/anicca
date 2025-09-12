@@ -426,6 +426,7 @@
 ["rocm-hipblas","6.4.3","20250912.17","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-17'"]],
 ["rocm-rocsolver","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-llvm","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
+["rocm-clr","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-hipfft","6.4.3","20250912.17","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-17'"]],
 ["rocm-roctracer","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-rocfft","6.4.3","20250912.17","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-17'"]],
