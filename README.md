@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757668353?label=Updated)
+![Relative date](https://img.shields.io/date/1757671915?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -679,7 +679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-keyring|40.0|48.0|desktop-gnome|Compliance mode enabled, was '48.0'|
 |gnome-logs|3.36.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-mahjongg|3.38.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|gnome-maps|42.3|48.7|desktop-gnome|Compliance mode enabled, was '48.7'|
+|gnome-maps|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-mines|40.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.4.0|desktop-gnome|Compliance mode enabled, was '4.4.0'|
@@ -691,7 +691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
 |gnome-shell-extension-gsconnect|53|66|desktop-gnome|Compliance mode enabled, was '66'|
 |gnome-shell-extensions|42.3|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
-|gnome-software|42.4|48.4|desktop-gnome|Compliance mode enabled, was '48.4'|
+|gnome-software|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-sudoku|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-system-monitor|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
@@ -2414,28 +2414,28 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rnote|0.12.0|0.13.1|app-doc|Compliance mode enabled, was '0.13.1'|
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |rockbox-utility|3.15<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
-|rocm-bandwidth-test|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-bandwidth-test|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-clr|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-cmake|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-comgr|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-core|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-device-libs|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-half|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-cmake|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-comgr|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-core|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-device-libs|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-half|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipblas|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
 |rocm-hipfft|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
 |rocm-hipfort|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipify|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
 |rocm-llama-cpp|6.4.3|6451|runtime-rocm|Compliance mode enabled, was '6451'|
-|rocm-llvm|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-rccl|6.4.3|3.3.0|runtime-rocm|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (6.4.3 -> 3.3.0)|
+|rocm-llvm|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-rccl|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
-|rocm-rocfft|6.4.3|17|runtime-rocm|Compliance mode enabled, was '17'|
-|rocm-rocprofiler-register|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-rocsolver|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocm-roctracer|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocminfo|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
-|rocr-runtime|6.4.3|42|runtime-rocm|Compliance mode enabled, was '42'|
+|rocm-rocfft|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
+|rocm-rocprofiler-register|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-rocsolver|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-roctracer|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocminfo|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocr-runtime|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocs|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |rosegarden|24.12|25.06|app-creativity|Compliance mode enabled, was '25.06'|
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2469,7 +2469,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |sagemath|10.4|10.7|app-scientific|Compliance mode enabled, was '10.7'|
-|samba|4.22.1|4.22.4|app-network|Compliance mode enabled, was '4.22.4'|
+|samba|4.22.1|4.23.0|app-network|Compliance mode enabled, was '4.23.0'|
 |samtools|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
