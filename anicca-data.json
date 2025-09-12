@@ -786,7 +786,6 @@
 ["n2n","2.8","3.1.1","app-network",1599374645,["Compliance mode enabled, was '3.1.1'"]],
 ["razor-agents","2.85","2.152","app-network",1678950872,["Compliance mode enabled, was '2.152'"]],
 ["realmd","0.17.1","0.16.3","app-network",1678351353,["Compliance mode enabled, was '0.16.3'","Possible downgrade from the current version (0.17.1 -> 0.16.3)"]],
-["tailscale","1.86.2","1.88.1","app-network",1753977704,["Compliance mode enabled, was '1.88.1'"]],
 ["krb5","1.21.3-final","1.22.1-final","app-network",1737912960,[]],
 ["netcat","1.219","1.229","app-network",1674452376,["Compliance mode enabled, was '1.229'"]],
 ["mtr","0.95","0.96","app-network",1674452376,["Compliance mode enabled, was '0.96'"]],
