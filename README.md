@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757729406?label=Updated)
+![Relative date](https://img.shields.io/date/1757733374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -148,7 +148,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
 |baobab|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |bash|5.2.37|5.3|app-shells|Compliance mode enabled, was '5.3'|
-|bash-pinyin-completion-rs|0.3.1|0.3.2|app-shells|Compliance mode enabled, was '0.3.2'|
 |basket-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
 |bcachefs-tools|1.9.4|1.25.3|app-admin|Compliance mode enabled, was '1.25.3'|
@@ -660,7 +659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
-|gnome-builder|42.1|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
+|gnome-builder|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-calculator|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-calendar|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-characters|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
@@ -2659,7 +2658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
 |syntax-highlighting|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
-|sysprof|3.44.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|sysprof|3.44.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |sysstat|12.7.5|12.7.8|app-utils|Compliance mode enabled, was '12.7.8'|
 |systemd|257.6|256|app-admin|Compliance mode enabled, was '256'<br>Possible downgrade from the current version (257.6 -> 256)|
 |systemsettings|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
@@ -2732,7 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telepathy-logger-qt|15.04.0|17.09.0|runtime-web|Compliance mode enabled, was '17.09.0'|
 |tellico-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |telly-skout|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|template-glib|3.28.0|3.36.3|desktop-gnome|Compliance mode enabled, was '3.36.3'|
+|template-glib|3.28.0|3.38.0|desktop-gnome|Compliance mode enabled, was '3.38.0'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |termcolor|2.5.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
