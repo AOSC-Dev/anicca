@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757772480?label=Updated)
+![Relative date](https://img.shields.io/date/1757775964?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -254,7 +254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.4|app-network|Compliance mode enabled, was '7.4'|
-|cinnamon|5.8.3|6.4.11|groups|Compliance mode enabled, was '6.4.11'|
+|cinnamon|5.8.3|6.4.12|groups|Compliance mode enabled, was '6.4.12'|
 |cinnamon-control-center|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cinnamon-desktop|5.8.0|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cinnamon-menus|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -1399,7 +1399,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfc|1.7.1|1.8.0|runtime-devices|Compliance mode enabled, was '1.8.0'|
 |libnfnetlink|1.0.1|1.0.2|runtime-network|Compliance mode enabled, was '1.0.2'|
 |libnfs|4.0.0|6.0.2|runtime-network|Compliance mode enabled, was '6.0.2'|
-|libnftnl|1.2.6|1.3.0|runtime-network|Compliance mode enabled, was '1.3.0'|
 |libnl|3.9.0|3.11.0|runtime-network|Compliance mode enabled, was '3.11.0'|
 |libnl+32|3.9.0|3.11.0|runtime-optenv32|Compliance mode enabled, was '3.11.0'|
 |libnotify|0.7.9|0.8.6|runtime-desktop|Compliance mode enabled, was '0.8.6'|
@@ -1505,6 +1504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libuv|1.48.0|1.51.0|runtime-common|Compliance mode enabled, was '1.51.0'|
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvarlink|23|24|runtime-common|Compliance mode enabled, was '24'|
+|libvips|8.17.1|8.17.2|runtime-imaging|Compliance mode enabled, was '8.17.2'|
 |libvirt|10.5.0|11.7.0|app-virtualization|Compliance mode enabled, was '11.7.0'|
 |libvirt-python|10.5.0|11.7.0|runtime-virtualization|Compliance mode enabled, was '11.7.0'|
 |libvisio|0.1.7|0.1.8|runtime-productivity|Compliance mode enabled, was '0.1.8'|
@@ -2931,7 +2931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x265+32|3.6|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
 |xalan-c|1.12|1.12.0|app-doc|Compliance mode enabled, was '1.12.0'|
 |xapian-core|1.4.18|1.4.29|runtime-common|Compliance mode enabled, was '1.4.29'|
-|xapps|2.8.2|2.8.12|runtime-desktop|Compliance mode enabled, was '2.8.12'|
+|xapps|2.8.2|2.8.13|runtime-desktop|Compliance mode enabled, was '2.8.13'|
 |xarchiver|0.5.4.15|0.5.4.26|app-utils|Compliance mode enabled, was '0.5.4.26'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
 |xcffib|0.7.0|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
