@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757775964?label=Updated)
+![Relative date](https://img.shields.io/date/1757779921?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -110,8 +110,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |astyle|3.6.6|3.6.12|app-devel|Compliance mode enabled, was '3.6.12'|
 |async-timeout|4.0.2|5.0.1|lang-python|Compliance mode enabled, was '5.0.1'|
-|at-spi2-core|2.52.0|2.56.4|desktop-gnome|Compliance mode enabled, was '2.56.4'|
-|at-spi2-core+32|2.52.0|2.56.4|runtime-optenv32|Compliance mode enabled, was '2.56.4'|
+|at-spi2-core|2.52.0|2.58.0|desktop-gnome|Compliance mode enabled, was '2.58.0'|
+|at-spi2-core+32|2.52.0|2.58.0|runtime-optenv32|Compliance mode enabled, was '2.58.0'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
@@ -1399,6 +1399,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfc|1.7.1|1.8.0|runtime-devices|Compliance mode enabled, was '1.8.0'|
 |libnfnetlink|1.0.1|1.0.2|runtime-network|Compliance mode enabled, was '1.0.2'|
 |libnfs|4.0.0|6.0.2|runtime-network|Compliance mode enabled, was '6.0.2'|
+|libnftnl|1.2.6|1.3.0|runtime-network|Compliance mode enabled, was '1.3.0'|
 |libnl|3.9.0|3.11.0|runtime-network|Compliance mode enabled, was '3.11.0'|
 |libnl+32|3.9.0|3.11.0|runtime-optenv32|Compliance mode enabled, was '3.11.0'|
 |libnotify|0.7.9|0.8.6|runtime-desktop|Compliance mode enabled, was '0.8.6'|
@@ -1672,7 +1673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa|25.1.6|25.2.2|runtime-display||
 |mesa+32|25.1.7|25.2.2|runtime-optenv32||
 |mesa-amber|21.3.9|25.2.2|runtime-display|Compliance mode enabled, was '25.2.2'|
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.2|runtime-display|Compliance mode enabled, was '25.2.2'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |metacity|3.44.0|3.57.1|desktop-gnome|Compliance mode enabled, was '3.57.1'|
@@ -2231,7 +2231,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.2.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |pyasn1-modules|0.2.8|0.4.2|lang-python|Compliance mode enabled, was '0.4.2'|
-|pyatspi|2.38.2|2.57.0|lang-python|Compliance mode enabled, was '2.57.0'|
+|pyatspi|2.38.2|2.58.0|lang-python|Compliance mode enabled, was '2.58.0'|
 |pyaudio|0.2.11|0.2.14|lang-python|Compliance mode enabled, was '0.2.14'|
 |pybind11|2.13.6|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |pycares|4.5.0|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
