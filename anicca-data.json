@@ -1230,6 +1230,7 @@
 ["spike","1.1.0+git20240708","1.1.0","app-emulation",1721227330,["Compliance mode enabled, was '1.1.0'"]],
 ["vice","3.5","3.9","app-emulation",1617969757,["Compliance mode enabled, was '3.9'"]],
 ["q4wine","1.3.13","1.4.2","app-emulation",1711528680,["Compliance mode enabled, was '1.4.2'"]],
+["wine","10.14","10.15","app-emulation",1756533169,[]],
 ["latx","1.6.1","1.6.2","app-emulation",1747275439,[]],
 ["simh","3.11+1","3.12+2","app-emulation",1570478208,["Compliance mode enabled, was '3.12-2'"]],
 ["mate-panel","1.28.4","1.28.6","desktop-mate",1731511799,["Compliance mode enabled, was '1.28.6'"]],
