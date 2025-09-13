@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757754775?label=Updated)
+![Relative date](https://img.shields.io/date/1757758358?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -456,7 +456,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |enchant|1-6-1|1.6.0|app-i18n|Possible downgrade from the current version (1-6-1 -> 1.6.0)|
 |enchant-2|2.3.1|2.8.12|app-i18n|Compliance mode enabled, was '2.8.12'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|endless-sky|0.10.10|0.10.14|app-games|Compliance mode enabled, was '0.10.14'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
 |eog-plugins|42.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |epiphany|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
@@ -605,6 +604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geany|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |geany-plugins|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |gedit|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
+|gedit-plugins|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
@@ -1192,6 +1192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktechlab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ktextaddons|1.5.3|1.7.1|desktop-kde|Compliance mode enabled, was '1.7.1'|
+|ktexteditor|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktextwidgets|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktimer|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktnef|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2517,7 +2518,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |simplejson|3.16.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
-|sing-box|1.12.8|1.12.7|app-proxy|Compliance mode enabled, was '1.12.7'<br>Possible downgrade from the current version (1.12.8 -> 1.12.7)|
 |singular|4.1.1|2025.08.26|app-scientific|Compliance mode enabled, was '2025.08.26'|
 |sip|6.10.0|6.12.0|lang-python|Compliance mode enabled, was '6.12.0'|
 |skanlite|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2645,7 +2645,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swww|0.10.3|0.11.0|app-utils|Compliance mode enabled, was '0.11.0'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
-|syncthing|2.0.7|2.0.8|app-network|Compliance mode enabled, was '2.0.8'|
+|syncthing|2.0.7|2.0.9|app-network|Compliance mode enabled, was '2.0.9'|
 |syndication|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |synergy|1.11.1|2.3.2|app-network|Compliance mode enabled, was '2.3.2'|
 |synfig|1.5.1|1.5.3|app-creativity|Compliance mode enabled, was '1.5.3'|
