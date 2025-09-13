@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757724018?label=Updated)
+![Relative date](https://img.shields.io/date/1757729406?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1426,7 +1426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpaper|2.2.5|2.2.6|runtime-productivity|Compliance mode enabled, was '2.2.6'|
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.4|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
-|libpeas|1.36.0|2.1.0|desktop-gnome|Compliance mode enabled, was '2.1.0'|
+|libpeas|1.36.0|2.2.0|desktop-gnome|Compliance mode enabled, was '2.2.0'|
 |libphonenumber|8.13.38|9.0.13|runtime-i18n|Compliance mode enabled, was '9.0.13'|
 |libpinyin|2.6.0|2.10.2|runtime-i18n|Compliance mode enabled, was '2.10.2'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
@@ -1911,12 +1911,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-serialization|5.4.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |oslo-utils|7.2.0|9.1.0|lang-python|Compliance mode enabled, was '9.1.0'|
 |osu-lazer|2025.816.0-lazer|2025.912.0-lazer|app-games||
+|owntone|28.12|29.0|app-multimedia|Compliance mode enabled, was '29.0'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |oxygen-icons|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |oxygen-sounds|5.25.3|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
-|p11-kit|0.25.5|0.25.7|runtime-cryptography|Compliance mode enabled, was '0.25.7'|
-|p11-kit+32|0.25.5|0.25.7|runtime-optenv32|Compliance mode enabled, was '0.25.7'|
+|p11-kit|0.25.5|0.25.8|runtime-cryptography|Compliance mode enabled, was '0.25.8'|
+|p11-kit+32|0.25.5|0.25.8|runtime-optenv32|Compliance mode enabled, was '0.25.8'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
 |packagekit|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |packagekit-qt|1.1.1|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
