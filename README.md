@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757758358?label=Updated)
+![Relative date](https://img.shields.io/date/1757761512?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -93,7 +93,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ark|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |arpack-ng|3.8.0|3.9.1|app-scientific|Compliance mode enabled, was '3.9.1'|
 |arping|2.25|2.26|app-network|Compliance mode enabled, was '2.26'|
-|arpwatch|3.6|3.8|app-network|Compliance mode enabled, was '3.8'|
 |arrow|1.0.3|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |artikulate|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |arts|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2356,6 +2355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtractor|0.9.23|1.5.8|app-multimedia|Compliance mode enabled, was '1.5.8'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
+|quickjs|2025.04.26|2025.09.13|lang-js|Compliance mode enabled, was '2025-09-13'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
