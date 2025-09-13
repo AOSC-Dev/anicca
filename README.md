@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757740293?label=Updated)
+![Relative date](https://img.shields.io/date/1757744033?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -958,6 +958,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcolorchooser|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
 |kcompletion|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
+|kconfig|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kconfigwidgets|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kcontacts|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kcoreaddons|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
@@ -2276,7 +2277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopengl|3.1.5|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |pyopenssl|23.1.1|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
-|pyparsing|3.2.1|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
+|pyparsing|3.2.1|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|4.0.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |pypdf2|1.26.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
