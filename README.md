@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757844690?label=Updated)
+![Relative date](https://img.shields.io/date/1757847906?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -791,6 +791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.16|app-devel|Compliance mode enabled, was '4.16'|
 |highway|1.2.0|1.3.0|runtime-common|Compliance mode enabled, was '1.3.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
+|hmcl|3.6.17|3.6.17.294|app-games|Compliance mode enabled, was '3.6.17.294'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hplip|3.25.2|3.25.6|app-doc|Compliance mode enabled, was '3.25.6'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
@@ -1204,6 +1205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubectl|1.32.2|1.34.1|app-containers|Compliance mode enabled, was '1.34.1'|
 |kubo|0.33.2|0.37.0|app-proxy|Compliance mode enabled, was '0.37.0'|
 |kubrick|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|kunitconversion|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
 |kvirc|5.0.0|5.2.8|app-web|Compliance mode enabled, was '5.2.8'|
 |kvkbd-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -2772,7 +2774,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqtinterface|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |trace-cmd|3.3|3.3.3|app-utils|Compliance mode enabled, was '3.3.3'|
 |tracker|3.7.3|3.9.2|desktop-gnome|Compliance mode enabled, was '3.9.2'|
-|tracker-miners|3.3.1|3.9.0|desktop-gnome|Compliance mode enabled, was '3.9.0'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
 |transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
@@ -2865,6 +2866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
+|vim|9.1.1754|9.1.1757|app-editors|Compliance mode enabled, was '9.1.1757'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
