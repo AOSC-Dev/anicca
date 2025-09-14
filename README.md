@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757830528?label=Updated)
+![Relative date](https://img.shields.io/date/1757833892?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -435,6 +435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtk6widget|6.0.37|6.0.42|desktop-dde|Compliance mode enabled, was '6.0.42'|
 |dtkcommon|5.7.17|5.7.22|desktop-dde|Compliance mode enabled, was '5.7.22'|
 |dua|2.30.1|2.31.0|app-utils|Compliance mode enabled, was '2.31.0'|
+|dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.1|runtime-vcs|Compliance mode enabled, was '0.24.1'|
 |dune|3.19.1|3.20.2|lang-ocaml|Compliance mode enabled, was '3.20.2'|
@@ -1620,6 +1621,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lychee|0.18.1|0.20.1|app-web|Compliance mode enabled, was '0.20.1'|
 |lyx|2.4.0|2.4.4|app-doc|Compliance mode enabled, was '2.4.4'|
 |lzd|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
+|lzip|1.24.1|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lziprecover|1.24|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lzlib|1.11|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |m17n-db|1.8.7|1.8.10|runtime-i18n|Compliance mode enabled, was '1.8.10'|
@@ -2071,7 +2073,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-http|6.18|6.24|lang-perl|Compliance mode enabled, was '6.24'|
 |perl-net-server|2.009|2.014|lang-perl|Compliance mode enabled, was '2.014'|
 |perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
-|perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
 |perl-par|1.016|1.021|lang-perl|Compliance mode enabled, was '1.021'|
 |perl-par-dist|0.52|0.53|lang-perl|Compliance mode enabled, was '0.53'|
@@ -2808,7 +2809,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typogrify|2.0.7|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |u-boot-menu|4.2.3|4.2.4|app-admin|Compliance mode enabled, was '4.2.4'|
 |uboot-asahi|2024.10-1|2025.07-1|runtime-kernel||
-|uboot-tools|2025.04|2025.07|app-utils|Compliance mode enabled, was '2025.07'|
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
 |ucx|1.15.0|1.19.0|runtime-scientific|Compliance mode enabled, was '1.19.0'|
 |udiskie|2.5.7|2.5.8|app-utils|Compliance mode enabled, was '2.5.8'|
