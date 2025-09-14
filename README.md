@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757816716?label=Updated)
+![Relative date](https://img.shields.io/date/1757820704?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1348,7 +1348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjpeg-turbo|3.0.4|3.1.2|runtime-imaging|Compliance mode enabled, was '3.1.2'|
 |libjpeg-turbo+32|3.0.4|3.1.2|runtime-optenv32|Compliance mode enabled, was '3.1.2'|
-|libkate|0.4.1|0.4.3|runtime-multimedia|Compliance mode enabled, was '0.4.3'|
 |libkcddb|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |libkcompactdisc|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |libkdcraw|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1793,7 +1792,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.4|1.18.9|lang-ruby|Compliance mode enabled, was '1.18.9'|
 |nomino|1.3.1|1.6.4|app-utils|Compliance mode enabled, was '1.6.4'|
-|normaliz|3.6.3|3.10.5|app-scientific|Compliance mode enabled, was '3.10.5'|
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |noto-fonts|24.8.1|20201206-phase3|desktop-fonts||
 |novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
@@ -2913,7 +2911,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.14|10.15|app-emulation||
 |wireguard-tools|1.0.20210914|1.0.20250521|app-network|Compliance mode enabled, was '1.0.20250521'|
 |wireless-regdb|2024.10.07|2025.07.10|app-network|Compliance mode enabled, was '2025.07.10'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
