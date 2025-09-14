@@ -138,6 +138,7 @@
 ["twolame+32","0.3.13","0.4.0","runtime-optenv32",1461512294,["Compliance mode enabled, was '0.4.0'"]],
 ["libffi+32","3.4.7","3.5.2","runtime-optenv32",1740919529,["Compliance mode enabled, was '3.5.2'"]],
 ["vulkan-tools+32","1.4.309.0","1.4.326","runtime-optenv32",1745746413,["Compliance mode enabled, was '1.4.326'"]],
+["thunar","4.20.4","4.20.5","desktop-xfce",1756198878,["Compliance mode enabled, was '4.20.5'"]],
 ["libsecret","0.20.4","0.21.7","runtime-desktop",1607975452,["Compliance mode enabled, was '0.21.7'"]],
 ["speech-dispatcher","0.11.2","0.12.1","runtime-desktop",1663210254,["Compliance mode enabled, was '0.12.1'"]],
 ["pangomm","2.46.3","2.56.1","runtime-desktop",1663210250,["Compliance mode enabled, was '2.56.1'"]],
