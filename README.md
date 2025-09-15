@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757967285?label=Updated)
+![Relative date](https://img.shields.io/date/1757970674?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -48,6 +48,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-search|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadiconsole|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akregator|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|alacarte|3.54.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -492,7 +493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fantasque-sans-mono-nerd-fonts|3.3.0|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |fast-float|7.0.0|8.0.2|runtime-common|Compliance mode enabled, was '8.0.2'|
-|fastbencode|0.3.2|0.3.5|lang-python|Compliance mode enabled, was '0.3.5'|
+|fastbencode|0.3.2|0.3.6|lang-python|Compliance mode enabled, was '0.3.6'|
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
 |fastimport|0.9.8|0.9.14|lang-python|Compliance mode enabled, was '0.9.14'|
 |fastjsonschema|2.21.1|2.21.2|lang-python|Compliance mode enabled, was '2.21.2'|
@@ -701,6 +702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls+32|3.8.7|3.8.10|runtime-optenv32|Compliance mode enabled, was '3.8.10'|
 |go-md2man|2.0.6|2.0.7|app-doc|Compliance mode enabled, was '2.0.7'|
 |gobject-introspection|1.80.0|1.86.0|app-devel|Compliance mode enabled, was '1.86.0'|
+|godot|4.4.1|4.5|app-devel|Compliance mode enabled, was '4.5'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.4|runtime-database|Compliance mode enabled, was '0.5.4'|
@@ -1843,7 +1845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.107.2|lang-python|Compliance mode enabled, was '1.107.2'|
+|openai-python|1.63.2|1.107.3|lang-python|Compliance mode enabled, was '1.107.3'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
