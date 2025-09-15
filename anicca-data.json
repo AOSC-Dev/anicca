@@ -1845,7 +1845,7 @@
 ["ruby-gettext","3.2.9","3.5.1","lang-ruby",1521950906,["Compliance mode enabled, was '3.5.1'"]],
 ["mini-portile","2.8.8","2.8.9","lang-ruby",1735985938,["Compliance mode enabled, was '2.8.9'"]],
 ["ruby-ffi","1.17.0","1.17.2","lang-ruby",1735985938,["Compliance mode enabled, was '1.17.2'"]],
-["nokogiri","1.18.4","1.18.9","lang-ruby",1735985938,["Compliance mode enabled, was '1.18.9'"]],
+["nokogiri","1.18.4","1.18.10","lang-ruby",1735985938,["Compliance mode enabled, was '1.18.10'"]],
 ["ruby-pkg-config","1.5.8","1.6.4","lang-ruby",1735985938,["Compliance mode enabled, was '1.6.4'"]],
 ["ruby-term-ansicolor","1.11.2","1.11.3","lang-ruby",1726840798,["Compliance mode enabled, was '1.11.3'"]],
 ["ruby-optimist","3.2.0","3.2.1","lang-ruby",1735985938,["Compliance mode enabled, was '3.2.1'"]],
