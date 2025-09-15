@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757938807?label=Updated)
+![Relative date](https://img.shields.io/date/1757942713?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1526,8 +1526,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxkbcommon|1.8.1|1.11.0|runtime-display|Compliance mode enabled, was '1.11.0'|
 |libxkbcommon+32|1.7.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
 |libxml++|2.40.1|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
-|libxml2|2.10.4|2.14.6|runtime-common|Compliance mode enabled, was '2.14.6'|
-|libxml2+32|2.10.4|2.14.6|runtime-optenv32|Compliance mode enabled, was '2.14.6'|
+|libxml2|2.10.4|2.15.0|runtime-common|Compliance mode enabled, was '2.15.0'|
+|libxml2+32|2.10.4|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
 |libxmlb|0.3.22|0.3.24|runtime-common|Compliance mode enabled, was '0.3.24'|
 |libxnvctrl|580.65.06|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
 |libxnvctrl+32|580.65.06|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
@@ -2833,7 +2833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|app-admin|Compliance mode enabled, was '0.5.0'|
 |uritemplate|3.0.1|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |urllib3|2.4.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
-|urwid|2.1.2|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
+|urwid|2.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils||
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |utfcpp|3.2.1|4.0.7|runtime-common|Compliance mode enabled, was '4.0.7'|
