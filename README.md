@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757956254?label=Updated)
+![Relative date](https://img.shields.io/date/1757960286?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -351,6 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.110|0.114|runtime-optenv32|Compliance mode enabled, was '0.114'|
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |dbus-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|dconf|0.40.0|0.49.0|app-admin|Compliance mode enabled, was '0.49.0'|
 |dconf-editor|45.0.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |ddnet|19.0|19.4|app-games|Compliance mode enabled, was '19.4'|
 |debianutils|5.7|5.23.2.git|app-utils|Compliance mode enabled, was '5.23.2.git'|
@@ -629,7 +630,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.74.0|1.84.2|desktop-gnome|Compliance mode enabled, was '1.84.2'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
-|glab|1.67.0|1.68.0|app-devel|Compliance mode enabled, was '1.68.0'|
+|glab|1.67.0|1.70.0|app-devel|Compliance mode enabled, was '1.70.0'|
 |glances|4.0.5|4.3.3|app-admin|Compliance mode enabled, was '4.3.3'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
 |glfw|3.4|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
