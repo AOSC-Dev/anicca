@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757942713?label=Updated)
+![Relative date](https://img.shields.io/date/1757945591?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -852,6 +852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |intel-gmmlib|22.8.1|22.8.2|runtime-devices|Compliance mode enabled, was '22.8.2'|
+|intel-graphics-compiler|2.16.0|2.18.5|app-devel|Compliance mode enabled, was '2.18.5'|
 |intel-media-driver|25.2.6|25.3.4|runtime-multimedia|Compliance mode enabled, was '25.3.4'|
 |inxi|3.3.37<br>+1|3.3.39+1|app-utils|Compliance mode enabled, was '3.3.39-1'|
 |iosevka-fonts|33.2.9|33.3.0|desktop-fonts|Compliance mode enabled, was '33.3.0'|
@@ -2056,7 +2057,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
 |perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
 |perl-mime-tools|5.509|5.515|lang-perl|Compliance mode enabled, was '5.515'|
-|perl-mime-types|2.17|2.28|lang-perl|Compliance mode enabled, was '2.28'|
+|perl-mime-types|2.17|2.29|lang-perl|Compliance mode enabled, was '2.29'|
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.052|lang-perl|Compliance mode enabled, was '0.052'|
 |perl-module-find|0.13|0.17|lang-perl|Compliance mode enabled, was '0.17'|
@@ -2851,7 +2852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |valgrind|3.25.0|3.25.1|app-devel|Compliance mode enabled, was '3.25.1'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
 |vapoursynth|70.11|72|app-multimedia|Compliance mode enabled, was '72'|
-|varnish|7.5.0|7.7.3|app-network|Compliance mode enabled, was '7.7.3'|
+|varnish|7.5.0|8.0.0|app-network|Compliance mode enabled, was '8.0.0'|
 |vasm|1.9f|2.0.c|app-devel|Compliance mode enabled, was '2.0.c'|
 |vba-m|2.1.8|2.2.2|app-games|Compliance mode enabled, was '2.2.2'|
 |vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
