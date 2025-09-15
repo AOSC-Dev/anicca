@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757913195?label=Updated)
+![Relative date](https://img.shields.io/date/1757917115?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -433,7 +433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
 |dtk6widget|6.0.37|6.0.42|desktop-dde|Compliance mode enabled, was '6.0.42'|
 |dtkcommon|5.7.17|5.7.22|desktop-dde|Compliance mode enabled, was '5.7.22'|
-|dua|2.30.1|2.31.0|app-utils|Compliance mode enabled, was '2.31.0'|
+|dua|2.30.1|2.32.0|app-utils|Compliance mode enabled, was '2.32.0'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.1|runtime-vcs|Compliance mode enabled, was '0.24.1'|
@@ -653,7 +653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-backgrounds|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-builder|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
-|gnome-calculator|42.2|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|gnome-calculator|42.2|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-calendar|42.2|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
 |gnome-characters|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-chess|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
@@ -670,7 +670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-logs|3.36.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-mahjongg|3.38.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |gnome-maps|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
-|gnome-mines|40.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|gnome-mines|40.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
 |gnome-nibbles|3.38.2|4.4.0|desktop-gnome|Compliance mode enabled, was '4.4.0'|
 |gnome-online-accounts|3.44.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
@@ -683,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell-extensions|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-software|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-sudoku|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
-|gnome-system-monitor|42.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|gnome-system-monitor|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
 |gnome-themes-standard|3.27.90|3.28|desktop-gnome|Compliance mode enabled, was '3.28'|
 |gnome-tour|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
@@ -2713,6 +2713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|tea|0.10.1|0.11.0|app-devel|Compliance mode enabled, was '0.11.0'|
 |teams-for-linux|1.13.0|2.5.4|app-web|Compliance mode enabled, was '2.5.4'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
