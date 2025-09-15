@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757974378?label=Updated)
+![Relative date](https://img.shields.io/date/1757977855?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -616,7 +616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghex|46.0|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |ghidra|11.3.2_build|11.4.2_build|app-devel||
 |ghostscript|9.54.0|10.06.0|app-doc|Compliance mode enabled, was '10.06.0'|
-|ghostty|1.1.2|1.1.3|app-utils|Compliance mode enabled, was '1.1.3'|
+|ghostty|1.1.2|1.2.0|app-utils|Compliance mode enabled, was '1.2.0'|
 |ghostwriter|24.05.2|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |gi-docgen|2024.1|2025.4|app-doc|Compliance mode enabled, was '2025.4'|
 |giac|1.9.0<br>+998|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+998 -> 1.9.0)|
@@ -2004,6 +2004,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
+|perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
 |perl-digest-hmac|1.03|1.05|lang-perl|Compliance mode enabled, was '1.05'|
 |perl-email-abstract|3.008|3.010|lang-perl|Compliance mode enabled, was '3.010'|
 |perl-email-address|1.912|1.913|lang-perl|Compliance mode enabled, was '1.913'|
@@ -2464,6 +2465,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
+|s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |sagemath|10.4|10.7|app-scientific|Compliance mode enabled, was '10.7'|
 |samba|4.22.1|4.23.0|app-network|Compliance mode enabled, was '4.23.0'|
