@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757963123?label=Updated)
+![Relative date](https://img.shields.io/date/1757967285?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -48,7 +48,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-search|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadiconsole|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akregator|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|alacarte|3.54.0|3.56.0|desktop-gnome|Compliance mode enabled, was '3.56.0'|
 |alembic|1.8.6|1.8.8|runtime-creativity|Compliance mode enabled, was '1.8.8'|
 |allegro|5.2.6.0|5.2.10.1|runtime-games|Compliance mode enabled, was '5.2.10.1'|
 |alligator|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -171,8 +170,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.30|lang-python|Compliance mode enabled, was '1.40.30'|
-|botocore|1.40.25|1.40.30|lang-python|Compliance mode enabled, was '1.40.30'|
+|boto3|1.40.25|1.40.31|lang-python|Compliance mode enabled, was '1.40.31'|
+|botocore|1.40.25|1.40.31|lang-python|Compliance mode enabled, was '1.40.31'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
