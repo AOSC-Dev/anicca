@@ -2173,7 +2173,7 @@
 ["gcab","1.1","1.6","desktop-gnome",1521089352,["Compliance mode enabled, was '1.6'"]],
 ["grilo-plugins","0.3.15","0.3.18","desktop-gnome",1716298204,["Compliance mode enabled, was '0.3.18'"]],
 ["hitori","3.38.4","44.0","desktop-gnome",1663210243,["Compliance mode enabled, was '44.0'"]],
-["mutter","42.4","48.5","desktop-gnome",1663210248,["Compliance mode enabled, was '48.5'"]],
+["mutter","42.4","49.0","desktop-gnome",1663210248,["Compliance mode enabled, was '49.0'"]],
 ["cheese","41.1","44.1","desktop-gnome",1663210249,["Compliance mode enabled, was '44.1'"]],
 ["evolution-ews","3.42.0","3.58.0","desktop-gnome",1716197175,["Compliance mode enabled, was '3.58.0'"]],
 ["gnome-terminal","3.44.1","3.97.0","desktop-gnome",1663210242,["Compliance mode enabled, was '3.97.0'"]],
