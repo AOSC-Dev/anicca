@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758042714?label=Updated)
+![Relative date](https://img.shields.io/date/1758046586?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -627,6 +627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.0.4|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
 |git-lfs|3.6.1|3.7.0|app-devel|Compliance mode enabled, was '3.7.0'|
+|gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitoxide|0.44.0|0.45.0|app-vcs|Compliance mode enabled, was '0.45.0'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.74.0|1.84.2|desktop-gnome|Compliance mode enabled, was '1.84.2'|
@@ -1772,7 +1773,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle|3.10.1|3.10.2|runtime-cryptography|Compliance mode enabled, was '3.10.2'|
 |nettle+32|3.10.1|3.10.2|runtime-optenv32|Compliance mode enabled, was '3.10.2'|
-|networkmanager|1.54.0|1.54.1|app-network|Compliance mode enabled, was '1.54.1'|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|app-network|Compliance mode enabled, was '1.2.10'|
 |networkmanager-openvpn|1.8.12|1.12.3|app-network|Compliance mode enabled, was '1.12.3'|
@@ -1885,10 +1885,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openssh|10.0p1|10.0p2|app-network|Compliance mode enabled, was '10.0p2'|
-|openssl|3.5.0|3.5.2|runtime-cryptography|Compliance mode enabled, was '3.5.2'|
-|openssl+32|3.5.0|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
-|openssl-1.1|1.1.1w|3.5.2|runtime-cryptography|Compliance mode enabled, was '3.5.2'|
-|openssl-1.1+32|1.1.1w|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
+|openssl|3.5.0|3.5.3|runtime-cryptography|Compliance mode enabled, was '3.5.3'|
+|openssl+32|3.5.0|3.5.3|runtime-optenv32|Compliance mode enabled, was '3.5.3'|
+|openssl-1.1|1.1.1w|3.5.3|runtime-cryptography|Compliance mode enabled, was '3.5.3'|
+|openssl-1.1+32|1.1.1w|3.5.3|runtime-optenv32|Compliance mode enabled, was '3.5.3'|
 |openstack-service-types|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |opensubdiv|3.6.0|3.6.1|runtime-creativity|Compliance mode enabled, was '3_6_1'|
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
@@ -1958,7 +1958,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.46|runtime-optenv32|Compliance mode enabled, was '10.46'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.160|app-games|Compliance mode enabled, was '2.5.160'|
+|pcsx2|1.6.0<br>+git20210825|2.5.162|app-games|Compliance mode enabled, was '2.5.162'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2905,7 +2905,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.09.01.00|2025.09.15.00|runtime-network|Compliance mode enabled, was '2025.09.15.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
-|warzone2100|4.5.5|4.6.0|app-games||
+|warzone2100|4.5.5|4.6.1|app-games||
 |watchman|2025.09.01.00|2025.09.15.00|groups|Compliance mode enabled, was '2025.09.15.00'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
