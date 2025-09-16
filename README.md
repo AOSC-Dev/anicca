@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758025254?label=Updated)
+![Relative date](https://img.shields.io/date/1758029116?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -679,7 +679,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-settings-daemon|42.2|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-shell|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-shell-extension-gsconnect|53|66|desktop-gnome|Compliance mode enabled, was '66'|
-|gnome-shell-extensions|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-software|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-sudoku|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-system-monitor|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
@@ -851,6 +850,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inih|60|62|app-devel|Compliance mode enabled, was '62'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
+|inotify-tools|4.23.9.0|4.25.9.0|app-admin|Compliance mode enabled, was '4.25.9.0'|
+|intel-compute-runtime|25.31.34666.3|25.35.35096.9|runtime-scientific|Compliance mode enabled, was '25.35.35096.9'|
 |intel-gmmlib|22.8.1|22.8.2|runtime-devices|Compliance mode enabled, was '22.8.2'|
 |intel-graphics-compiler|2.16.0|2.18.5|app-devel|Compliance mode enabled, was '2.18.5'|
 |intel-media-driver|25.2.6|25.3.4|runtime-multimedia|Compliance mode enabled, was '25.3.4'|
@@ -2417,9 +2418,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-device-libs|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-half|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipblas|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
+|rocm-hipblas-common|6.4.3|7.0.0|runtime-rocm|Compliance mode enabled, was '7.0.0'|
+|rocm-hipblaslt|6.4.3|7.0.0|runtime-rocm|Compliance mode enabled, was '7.0.0'|
+|rocm-hipcub|6.4.3|7.0.0|runtime-rocm|Compliance mode enabled, was '7.0.0'|
 |rocm-hipfft|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
 |rocm-hipfort|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipify|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-hiprand|6.4.3|7.0.0|runtime-rocm|Compliance mode enabled, was '7.0.0'|
 |rocm-hipsparse|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
 |rocm-llama-cpp|6.4.3|6484|runtime-rocm|Compliance mode enabled, was '6484'|
 |rocm-llvm|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
