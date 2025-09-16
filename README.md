@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1757989043?label=Updated)
+![Relative date](https://img.shields.io/date/1757993109?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1291,7 +1291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libde265|1.0.15|1.0.16|runtime-multimedia|Compliance mode enabled, was '1.0.16'|
 |libdeflate|1.19|1.24|runtime-common|Compliance mode enabled, was '1.24'|
 |libdiscid|0.6.2|0.6.5|runtime-multimedia|Compliance mode enabled, was '0.6.5'|
-|libdispatch|5.6.1|6.1.2-release|runtime-common|Compliance mode enabled, was '6.1.2-RELEASE'|
+|libdispatch|5.6.1|6.2-release|runtime-common|Compliance mode enabled, was '6.2-RELEASE'|
 |libdisplay-info|0.2.0|0.3.0|runtime-display|Compliance mode enabled, was '0.3.0'|
 |libdmtx|0.7.7|0.7.8|runtime-imaging|Compliance mode enabled, was '0.7.8'|
 |libdnet|1.12|1.18.0|runtime-network|Compliance mode enabled, was '1.18.0'|
@@ -2256,6 +2256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
+|pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygit2|1.18.1|1.18.2|lang-python|Compliance mode enabled, was '1.18.2'|
 |pyglet|1.3.2|2.1.8|lang-python|Compliance mode enabled, was '2.1.8'|
 |pygments|2.19.1|2.19.2|lang-python|Compliance mode enabled, was '2.19.2'|
@@ -2843,14 +2844,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urwid|2.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |usb-modeswitch|2.6.0|2.6.2|app-utils||
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
-|utfcpp|3.2.1|4.0.7|runtime-common|Compliance mode enabled, was '4.0.7'|
+|utfcpp|3.2.1|4.0.8|runtime-common|Compliance mode enabled, was '4.0.8'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.4|2.41.1|app-utils|Compliance mode enabled, was '2.41.1'|
 |util-linux+32|2.40.4|2.41.1|runtime-optenv32|Compliance mode enabled, was '2.41.1'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.16|0.8.17|lang-python|Compliance mode enabled, was '0.8.17'|
 |v2ray|5.37.0|5.39.0|app-proxy|Compliance mode enabled, was '5.39.0'|
-|v2ray-rules-dat|202508312212|202509142211|runtime-data|Compliance mode enabled, was '202509142211'<br>Versions not comparable: `202508312212` and `202509142211`|
+|v2ray-rules-dat|202508312212|202509152212|runtime-data|Compliance mode enabled, was '202509152212'<br>Versions not comparable: `202508312212` and `202509152212`|
 |v2raya|2.2.6.6|2.2.7.1|app-proxy|Compliance mode enabled, was '2.2.7.1'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
