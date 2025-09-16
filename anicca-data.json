@@ -685,7 +685,7 @@
 ["libthai","0.1.28","0.1.29","runtime-i18n",1535613989,["Compliance mode enabled, was '0.1.29'"]],
 ["liblangtag","0.6.3","0.6.7","runtime-i18n",1582089796,["Compliance mode enabled, was '0.6.7'"]],
 ["libkkc-data","0.2.7","0.3.5","runtime-i18n",1678950872,["Compliance mode enabled, was '0.3.5'"]],
-["libphonenumber","8.13.38","9.0.13","runtime-i18n",1737436557,["Compliance mode enabled, was '9.0.13'"]],
+["libphonenumber","8.13.38","9.0.14","runtime-i18n",1737436557,["Compliance mode enabled, was '9.0.14'"]],
 ["librime","1.11.2","1.14.0","runtime-i18n",1739068944,["Compliance mode enabled, was '1.14.0'"]],
 ["libkkc","0.3.5+git20210213","0.3.5","runtime-i18n",1633153814,["Compliance mode enabled, was '0.3.5'"]],
 ["libhangul","0.1.0+git20210406","0.2.0","runtime-i18n",1633153815,["Compliance mode enabled, was '0.2.0'"]],
