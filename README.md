@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758096916?label=Updated)
+![Relative date](https://img.shields.io/date/1758100422?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -361,6 +361,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.25.2|lang-golang|Compliance mode enabled, was '1.25.2'|
+|deno|2.5.0|2.5.1|lang-js|Compliance mode enabled, was '2.5.1'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.23.0|1.24.0|app-utils|Compliance mode enabled, was '1.24.0'|
@@ -2627,6 +2628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sscg|3.0.5|3.0.8|app-cryptography|Compliance mode enabled, was '3.0.8'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|2.2.4|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
+|stalonetray|0.8.4|0.8.5|desktop-wm|Compliance mode enabled, was '0.8.5'|
 |steam|1.0.0.83|1.0.0.84|app-games|Compliance mode enabled, was '1.0.0.84'|
 |stellarium|24.3|25.2|app-scientific|Compliance mode enabled, was '25.2'|
 |stellarsolver|2.5|2.7|app-scientific|Compliance mode enabled, was '2.7'|
