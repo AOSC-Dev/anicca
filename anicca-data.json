@@ -1719,7 +1719,7 @@
 ["sdl-sound","1.0.3","2.0.4","runtime-multimedia",1745233543,["Compliance mode enabled, was '2.0.4'"]],
 ["libffado","2.4.4","2.4.9","runtime-multimedia",1600321916,["Compliance mode enabled, was '2.4.9'"]],
 ["libmpcdec","0.1~r495","0.1r495","runtime-multimedia",1569350187,["Compliance mode enabled, was '0.1~r495'"]],
-["a52dec","0.7.4","0.8.0","runtime-multimedia",1678950872,["Compliance mode enabled, was '0.8.0'"]],
+["a52dec","0.7.4","0.8.0","runtime-multimedia",1758102342,["Compliance mode enabled, was '0.8.0'"]],
 ["portmidi","2.0.4","2.0.6","runtime-multimedia",1715847709,["Compliance mode enabled, was '2.0.6'"]],
 ["dtk6core","6.0.37","6.0.42","desktop-dde",1751277967,["Compliance mode enabled, was '6.0.42'"]],
 ["dtk6log","0.0.4","0.0.5","desktop-dde",1751277967,["Compliance mode enabled, was '0.0.5'"]],
