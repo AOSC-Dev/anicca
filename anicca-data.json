@@ -2119,7 +2119,6 @@
 ["gtk-engines-2","2.21.0","2.20.2","desktop-gnome",1678950872,["Compliance mode enabled, was '2.20.2'","Possible downgrade from the current version (2.21.0 -> 2.20.2)"]],
 ["gnome-mines","40.1","49.0.1","desktop-gnome",1663210243,["Compliance mode enabled, was '49.0.1'"]],
 ["gtranslator","46.1","49.0","desktop-gnome",1721513157,["Compliance mode enabled, was '49.0'"]],
-["libshumate","1.4.0","1.5.0.1","desktop-gnome",1742071626,["Compliance mode enabled, was '1.5.0.1'"]],
 ["glycin","1.1.4","2.0.0","desktop-gnome",1744241634,["Compliance mode enabled, was '2.0.0'"]],
 ["deja-dup","42.9","49.0","desktop-gnome",1663210249,["Compliance mode enabled, was '49.0'"]],
 ["sushi","42.0","46.0","desktop-gnome",1663210250,["Compliance mode enabled, was '46.0'"]],
