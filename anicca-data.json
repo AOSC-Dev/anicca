@@ -1740,6 +1740,7 @@
 ["steam","1.0.0.83","1.0.0.84","app-games",1745512487,["Compliance mode enabled, was '1.0.0.84'"]],
 ["dolphin-emu","2503","2509","app-games",1744817373,["Compliance mode enabled, was '2509'"]],
 ["openmw","0.48.0+git20240902","0.49.0","app-games",1753796831,["Compliance mode enabled, was '0.49.0'"]],
+["rlvm","0.14+git20220404","0.14","app-games",1700797896,["Compliance mode enabled, was '0.14'"]],
 ["fortunes-zh","2.98","2.98.1","app-games",1716799008,["Compliance mode enabled, was '2.98.1'"]],
 ["oolite","1.90","1.91.0.7708-250910-30bbc4c","app-games",1599209349,["Compliance mode enabled, was '1.91.0.7708-250910-30bbc4c'"]],
 ["taisei","1.3.2","1.4.4","app-games",1631079133,["Compliance mode enabled, was '1.4.4'"]],
