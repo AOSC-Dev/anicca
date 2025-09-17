@@ -1443,7 +1443,6 @@
 ["imagemagick+7","7.1.1+32","7.1.2+3","app-utils",1716621038,["Compliance mode enabled, was '7.1.2-3'"]],
 ["roxterm","3.15.0","3.17.2","app-utils",1716292615,["Compliance mode enabled, was '3.17.2'"]],
 ["zutils","1.7","1.15","app-utils",1527856914,["Compliance mode enabled, was '1.15'"]],
-["psmisc","23.6","23.7","app-utils",1674452224,["Compliance mode enabled, was '23.7'"]],
 ["direnv","2.35.0","2.37.1","app-utils",1732598141,["Compliance mode enabled, was '2.37.1'"]],
 ["caligula","0.4.5","0.4.8","app-utils",1715739687,["Compliance mode enabled, was '0.4.8'"]],
 ["man-db","2.13.0","2.13.1","app-utils",1733051987,["Compliance mode enabled, was '2.13.1'"]],
