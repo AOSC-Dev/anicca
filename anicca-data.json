@@ -1760,7 +1760,7 @@
 ["nestopia","1.52.1","1.53.2","app-games",1729579109,["Compliance mode enabled, was '1.53.2'"]],
 ["lutris","0.5.18","0.5.19","app-games",1735219543,["Compliance mode enabled, was '0.5.19'"]],
 ["an-anime-game-launcher","3.15.6","3.16.0","app-games",1757780565,["Compliance mode enabled, was '3.16.0'"]],
-["pcsx2","1.6.0+git20210825","2.5.162","app-games",1631079142,["Compliance mode enabled, was '2.5.162'"]],
+["pcsx2","1.6.0+git20210825","2.5.163","app-games",1631079142,["Compliance mode enabled, was '2.5.163'"]],
 ["0ad","0.0.26","0.27.1","app-games",1721223235,["Compliance mode enabled, was '0.27.1'"]],
 ["freeciv","3.1.4","3.2.0","app-games",1737623693,["Compliance mode enabled, was '3.2.0'"]],
 ["lincity-ng","2.9.0","2.0","app-games",1706433133,["Compliance mode enabled, was '2.0'","Possible downgrade from the current version (2.9.0 -> 2.0)"]],
