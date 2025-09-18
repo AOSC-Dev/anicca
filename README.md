@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758208341?label=Updated)
+![Relative date](https://img.shields.io/date/1758212043?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -862,6 +862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |iniparser|4.2.4|4.2.6|runtime-common|Compliance mode enabled, was '4.2.6'|
 |inotify-tools|4.23.9.0|4.25.9.0|app-admin|Compliance mode enabled, was '4.25.9.0'|
+|intel-compute-runtime|25.31.34666.3|25.35.35096.9|runtime-scientific|Compliance mode enabled, was '25.35.35096.9'|
 |intel-gmmlib|22.8.1|22.8.2|runtime-devices|Compliance mode enabled, was '22.8.2'|
 |intel-graphics-compiler|2.16.0|2.18.5|app-devel|Compliance mode enabled, was '2.18.5'|
 |intel-media-driver|25.2.6|25.3.4|runtime-multimedia|Compliance mode enabled, was '25.3.4'|
@@ -956,7 +957,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcharselect|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kchmviewer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kclock|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|kcm-wacomtablet|3.2.0|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
+|kcm-wacomtablet|3.2.0|6.4.90|desktop-kde|Compliance mode enabled, was '6.4.90'|
 |kcmautostart-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kcmutils|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kcodecs|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
@@ -1493,8 +1494,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libticables2|1.3.4|1.3.5|runtime-devices|Compliance mode enabled, was '1.3.5'|
 |libticalcs2|1.1.8|1.1.9|runtime-devices|Compliance mode enabled, was '1.1.9'|
 |libticonv|1.1.4|1.1.5|runtime-devices|Compliance mode enabled, was '1.1.5'|
-|libtiff|4.4.0|4.7.0|runtime-imaging|Compliance mode enabled, was '4.7.0'|
-|libtiff+32|4.4.0|4.7.0|runtime-optenv32|Compliance mode enabled, was '4.7.0'|
+|libtiff|4.4.0|4.7.1|runtime-imaging|Compliance mode enabled, was '4.7.1'|
+|libtiff+32|4.4.0|4.7.1|runtime-optenv32|Compliance mode enabled, was '4.7.1'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |libtirpc|1.3.1|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |libtommath|1.2.0|1.3.0|runtime-scientific|Compliance mode enabled, was '1.3.0'|
@@ -1916,8 +1917,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |oxygen-icons|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |oxygen-sounds|5.25.3|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
-|p11-kit|0.25.5|0.25.8|runtime-cryptography|Compliance mode enabled, was '0.25.8'|
-|p11-kit+32|0.25.5|0.25.8|runtime-optenv32|Compliance mode enabled, was '0.25.8'|
+|p11-kit|0.25.5|0.25.9|runtime-cryptography|Compliance mode enabled, was '0.25.9'|
+|p11-kit+32|0.25.5|0.25.9|runtime-optenv32|Compliance mode enabled, was '0.25.9'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
 |packagekit|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |packagekit-qt|1.1.1|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
@@ -2474,6 +2475,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |runc|1.2.6|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
 |ruri|3.9.1|3.9.2|app-admin|Compliance mode enabled, was '3.9.2'|
 |rust-bindgen|0.72.0|0.72.1|lang-rust|Compliance mode enabled, was '0.72.1'|
+|rustc|1.89.0|1.90.0|lang-rust|Compliance mode enabled, was '1.90.0'|
+|rustc+32|1.89.0|1.90.0|runtime-optenv32|Compliance mode enabled, was '1.90.0'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
