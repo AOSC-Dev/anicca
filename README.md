@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758219431?label=Updated)
+![Relative date](https://img.shields.io/date/1758222322?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -159,11 +159,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+32|2.43.1|2.45|runtime-optenv32|Compliance mode enabled, was '2.45'|
 |binutils+w64|2.43.1|2.45|runtime-optenvw64|Compliance mode enabled, was '2.45'|
 |bird|2.17.1|3.1.3|app-network|Compliance mode enabled, was '3.1.3'|
+|bitwarden|2025.8.2|2025.9.0|app-utils|Compliance mode enabled, was '2025.9.0'|
 |black-hole-solver|1.10.1|1.14.0|runtime-games|Compliance mode enabled, was '1.14.0'|
 |blender|4.0.2|4.5.3|app-creativity|Compliance mode enabled, was '4.5.3'|
 |blinken|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |bluedevil|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
-|bluez|5.79|5.83|app-devices|Compliance mode enabled, was '5.83'|
+|bluez|5.79|5.84|app-devices|Compliance mode enabled, was '5.84'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |bolt|0.9.8|0.9.10|app-admin|Compliance mode enabled, was '0.9.10'|
@@ -2901,7 +2902,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.104.0|1.104.1|app-editors|Compliance mode enabled, was '1.104.1'|
-|vscodium|1.103.25610|1.104.06131|app-editors|Compliance mode enabled, was '1.104.06131'|
+|vscodium|1.103.25610|1.104.16282|app-editors|Compliance mode enabled, was '1.104.16282'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.0|runtime-desktop|Compliance mode enabled, was '0.82.0'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
