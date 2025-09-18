@@ -400,7 +400,6 @@
 ["etckeeper","1.18.21","1.18.23","app-admin",1720408788,["Compliance mode enabled, was '1.18.23'"]],
 ["urfkill","0.5.0+git20210401","0.5.0","app-admin",1641887332,["Compliance mode enabled, was '0.5.0'"]],
 ["coreboot-utils","24.08","25.06","app-admin",1725467532,["Compliance mode enabled, was '25.06'"]],
-["oma","1.21.1","1.21.0","app-admin",1758165912,["Compliance mode enabled, was '1.21.0'","Possible downgrade from the current version (1.21.1 -> 1.21.0)"]],
 ["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
 ["cryptsetup","2.7.5","2.8.1","app-admin",1733105769,["Compliance mode enabled, was '2.8.1'"]],
 ["nut","2.7.4","2.8.4","app-admin",1625211684,["Compliance mode enabled, was '2.8.4'"]],
