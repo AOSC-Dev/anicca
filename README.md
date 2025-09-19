@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758294729?label=Updated)
+![Relative date](https://img.shields.io/date/1758298494?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1552,8 +1552,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.47|core-devel|Compliance mode enabled, was '6.12.47'|
-|linux+api+32|6.12.7|6.12.47|runtime-optenv32|Compliance mode enabled, was '6.12.47'|
+|linux+api|6.12.30|6.12.48|core-devel|Compliance mode enabled, was '6.12.48'|
+|linux+api+32|6.12.7|6.12.48|runtime-optenv32|Compliance mode enabled, was '6.12.48'|
 |linux+kernel|6.16.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.7 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
 |linux+kernel+rc|6.17.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.0 -> 5.19.17)|
@@ -2727,7 +2727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tea|0.10.1|0.11.0|app-devel|Compliance mode enabled, was '0.11.0'|
-|teams-for-linux|2.2.1|2.5.7|app-web|Compliance mode enabled, was '2.5.7'|
+|teams-for-linux|2.2.1|2.5.8|app-web|Compliance mode enabled, was '2.5.8'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telegram-desktop|6.1.1|6.1.3|app-web|Compliance mode enabled, was '6.1.3'|
@@ -2889,7 +2889,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |volk-meta-loader|1.4.309.0|1.4.321.0|runtime-display|Compliance mode enabled, was '1.4.321.0'|
-|volk-meta-loader+32|1.4.309.0|1.4.321.0|runtime-optenv32|Compliance mode enabled, was '1.4.321.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.104.0|1.104.1|app-editors|Compliance mode enabled, was '1.104.1'|
@@ -2910,7 +2909,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wangle|2025.09.01.00|2025.09.15.00|runtime-network|Compliance mode enabled, was '2025.09.15.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
 |warzone2100|4.5.5|4.6.1|app-games||
-|watchman|2025.09.01.00|2025.09.15.00|groups|Compliance mode enabled, was '2025.09.15.00'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
