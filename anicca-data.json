@@ -1818,6 +1818,7 @@
 ["neomutt","20250510","20250905","app-web",1750432867,["Compliance mode enabled, was '20250905'"]],
 ["onedrivegui","1.1.1","1.2.2","app-web",1746413974,["Compliance mode enabled, was '1.2.2'"]],
 ["chromium","135.0.7049.95","140.0.7339.185","app-web",1745287154,["Compliance mode enabled, was '140.0.7339.185'"]],
+["firefox","143.0","143.0.1","app-web",1758167191,["Compliance mode enabled, was '143.0.1'"]],
 ["anubis","1.21.3","1.22.0","app-web",1753924800,["Compliance mode enabled, was '1.22.0'"]],
 ["liferea","1.14.6","1.16.5","app-web",1749107082,["Compliance mode enabled, was '1.16.5'"]],
 ["notmuch","0.38.3","0.39","app-web",1735985938,["Compliance mode enabled, was '0.39'"]],
