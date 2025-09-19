@@ -701,7 +701,6 @@
 ["libpinyin","2.6.0","2.10.3","runtime-i18n",1570596159,["Compliance mode enabled, was '2.10.3'"]],
 ["wireless-regdb","2024.10.07","2025.07.10","app-network",1732999837,["Compliance mode enabled, was '2025.07.10'"]],
 ["wireless-tools","30.pre9","29","app-network",1678950872,["Compliance mode enabled, was '29'","Possible downgrade from the current version (30.pre9 -> 29)"]],
-["spamassassin","3.4.6","4.0.2","app-network",1620896491,["Compliance mode enabled, was '4.0.2'"]],
 ["dnsmasq","2.90","2.91","app-network",1716797844,["Compliance mode enabled, was '2.91'"]],
 ["ser2net","3.5","4.6.5","app-network",1528905473,["Compliance mode enabled, was '4.6.5'"]],
 ["xorgxrdp","0.10.3","0.10.4","app-network",1739145564,["Compliance mode enabled, was '0.10.4'"]],
