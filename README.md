@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758298494?label=Updated)
+![Relative date](https://img.shields.io/date/1758301897?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2017,7 +2017,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-simple|2.216|2.218|lang-perl|Compliance mode enabled, was '2.218'|
 |perl-encode-imaputf7|1.05|1.07|lang-perl|Compliance mode enabled, was '1.07'|
 |perl-error|0.17027|0.17030|lang-perl|Compliance mode enabled, was '0.17030'|
-|perl-ev|4.25|4.34|lang-perl|Compliance mode enabled, was '4.34'|
+|perl-ev|4.25|4.35|lang-perl|Compliance mode enabled, was '4.35'|
 |perl-exception-class|1.44|1.45|lang-perl|Compliance mode enabled, was '1.45'|
 |perl-extutils-config|0.008|0.010|lang-perl|Compliance mode enabled, was '0.010'|
 |perl-extutils-depends|0.405|0.8002|lang-perl|Compliance mode enabled, was '0.8002'|
@@ -2792,7 +2792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'<br>Possible downgrade from the current version (20161208 -> 0.9.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
-|tree-sitter|0.25.3|0.25.9|groups|Compliance mode enabled, was '0.25.9'|
+|tree-sitter|0.25.3|0.26.0|groups|Compliance mode enabled, was '0.26.0'|
 |tree-sitter-c|0.23.5|0.24.1|runtime-editors|Compliance mode enabled, was '0.24.1'|
 |tree-sitter-lua|0.3.0|0.4.0|runtime-editors|Compliance mode enabled, was '0.4.0'|
 |tree-sitter-markdown|0.4.1|0.5.1|runtime-editors|Compliance mode enabled, was '0.5.1'|
@@ -2889,6 +2889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |volk-meta-loader|1.4.309.0|1.4.321.0|runtime-display|Compliance mode enabled, was '1.4.321.0'|
+|volk-meta-loader+32|1.4.309.0|1.4.321.0|runtime-optenv32|Compliance mode enabled, was '1.4.321.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vscode|1.104.0|1.104.1|app-editors|Compliance mode enabled, was '1.104.1'|
@@ -2897,8 +2898,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.82.0|runtime-desktop|Compliance mode enabled, was '0.82.0'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.309.0|1.4.326|runtime-display|Compliance mode enabled, was '1.4.326'|
-|vulkan-headers|1.4.309.0|1.4.326|runtime-display|Compliance mode enabled, was '1.4.326'|
-|vulkan-headers+32|1.4.309.0|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'|
+|vulkan-headers|1.4.309.0|1.4.327|runtime-display|Compliance mode enabled, was '1.4.327'|
+|vulkan-headers+32|1.4.309.0|1.4.327|runtime-optenv32|Compliance mode enabled, was '1.4.327'|
 |vulkan-loader|1.4.309.0|1.4.326|runtime-display|Compliance mode enabled, was '1.4.326'|
 |vulkan-loader+32|1.4.309.0|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'|
 |vulkan-tools|1.4.309.0|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'|
@@ -2909,6 +2910,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wangle|2025.09.01.00|2025.09.15.00|runtime-network|Compliance mode enabled, was '2025.09.15.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
 |warzone2100|4.5.5|4.6.1|app-games||
+|watchman|2025.09.01.00|2025.09.15.00|groups|Compliance mode enabled, was '2025.09.15.00'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
 |wcslib|8.3|8.4|runtime-scientific|Compliance mode enabled, was '8.4'|
