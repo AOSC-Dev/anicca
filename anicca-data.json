@@ -387,6 +387,7 @@
 ["accountsservice","22.08.8","23.13.9","app-admin",1678601096,["Compliance mode enabled, was '23.13.9'"]],
 ["earlyoom","1.8.2","1.9.0","app-admin",1716461199,["Compliance mode enabled, was '1.9.0'"]],
 ["slirp4netns","1.2.2","1.3.3","app-admin",1701831525,["Compliance mode enabled, was '1.3.3'"]],
+["xdg-user-dirs","0.18","0.19","app-admin",1733051143,["Compliance mode enabled, was '0.19'"]],
 ["upower","1.90.6","1.90.10","app-admin",1733052939,["Compliance mode enabled, was '1.90.10'"]],
 ["lxcfs","3.0.3","6.0.5","app-admin",1549304004,["Compliance mode enabled, was '6.0.5'"]],
 ["squashfs-tools","4.7","4.7.2","app-admin",1749029536,["Compliance mode enabled, was '4.7.2'"]],
