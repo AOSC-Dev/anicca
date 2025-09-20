@@ -2170,7 +2170,7 @@
 ["glibmm","2.66.2","2.86.0","desktop-gnome",1643987215,["Compliance mode enabled, was '2.86.0'"]],
 ["baobab","42.0","49.0","desktop-gnome",1663210210,["Compliance mode enabled, was '49.0'"]],
 ["polari","42.1","46.0","desktop-gnome",1663210250,["Compliance mode enabled, was '46.0'"]],
-["gnome-maps","42.3","49.0","desktop-gnome",1663210243,["Compliance mode enabled, was '49.0'"]],
+["gnome-maps","42.3","49.1","desktop-gnome",1663210243,["Compliance mode enabled, was '49.1'"]],
 ["aisleriot","3.22.24","3.22.35","desktop-gnome",1663210209,["Compliance mode enabled, was '3.22.35'"]],
 ["gnome-builder","42.1","49.0","desktop-gnome",1713504759,["Compliance mode enabled, was '49.0'"]],
 ["evolution-data-server","3.44.4","3.58.0","desktop-gnome",1721223235,["Compliance mode enabled, was '3.58.0'"]],
