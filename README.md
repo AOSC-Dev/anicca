@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758388033?label=Updated)
+![Relative date](https://img.shields.io/date/1758392042?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -60,7 +60,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amarok-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |aml|0.3.0|1.0.0|runtime-network|Compliance mode enabled, was '1.0.0'|
 |amtk|5.5.1|5.6.1|desktop-gnome|Compliance mode enabled, was '5.6.1'|
-|an-anime-game-launcher|3.15.6|3.16.0|app-games|Compliance mode enabled, was '3.16.0'|
+|an-anime-game-launcher|3.15.6|3.17.0|app-games|Compliance mode enabled, was '3.17.0'|
 |analitza|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |android-simg2img|1.1.4|1.1.5|app-devices|Compliance mode enabled, was '1.1.5'|
 |angelfish|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -394,7 +394,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|28.0.4|28.4.0|app-containers||
 |docker-buildx|0.22.0|0.28.0|app-containers|Compliance mode enabled, was '0.28.0'|
 |docker-compose|2.35.0|2.39.4|app-containers|Compliance mode enabled, was '2.39.4'|
-|docutils|0.21.2|0.22.1|lang-python|Compliance mode enabled, was '0.22.1'|
+|docutils|0.21.2|0.22.2|lang-python|Compliance mode enabled, was '0.22.2'|
 |dolphin|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |dolphin-emu|2503|2509|app-games|Compliance mode enabled, was '2509'|
 |dolphin-plugins|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
