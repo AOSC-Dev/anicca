@@ -1853,7 +1853,6 @@
 ["libslirp","4.6.1","4.9.1","runtime-emulation",1641193532,["Compliance mode enabled, was '4.9.1'"]],
 ["rb-inotify","0.10.1","0.11.1","lang-ruby",1600671246,["Compliance mode enabled, was '0.11.1'"]],
 ["ruby-gettext","3.2.9","3.5.1","lang-ruby",1521950906,["Compliance mode enabled, was '3.5.1'"]],
-["mini-portile","2.8.8","2.8.9","lang-ruby",1735985938,["Compliance mode enabled, was '2.8.9'"]],
 ["ruby-ffi","1.17.0","1.17.2","lang-ruby",1735985938,["Compliance mode enabled, was '1.17.2'"]],
 ["nokogiri","1.18.4","1.18.10","lang-ruby",1735985938,["Compliance mode enabled, was '1.18.10'"]],
 ["ruby","3.4.5","3.4.6","lang-ruby",1753599281,["Compliance mode enabled, was '3.4.6'"]],
