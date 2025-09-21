@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758449580?label=Updated)
+![Relative date](https://img.shields.io/date/1758452677?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1051,6 +1051,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimagemapeditor|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kimap|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kinfocenter|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
+|kinit|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kio|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kio-admin|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kio-extras|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2254,7 +2255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygit2|1.18.1|1.18.2|lang-python|Compliance mode enabled, was '1.18.2'|
-|pyglet|1.3.2|2.1.8|lang-python|Compliance mode enabled, was '2.1.8'|
+|pyglet|1.3.2|2.1.9|lang-python|Compliance mode enabled, was '2.1.9'|
 |pygments|2.19.1|2.19.2|lang-python|Compliance mode enabled, was '2.19.2'|
 |pygobject-3|3.48.2|3.54.2|lang-python|Compliance mode enabled, was '3.54.2'|
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
