@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758421622?label=Updated)
+![Relative date](https://img.shields.io/date/1758425727?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -43,7 +43,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-calendar-tools|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadi-contacts|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadi-import-wizard|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|akonadi-mime|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadi-notes|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadi-search|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |akonadiconsole|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -328,7 +327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.5|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
-|ctags|20191203|6.2.20250907.0|app-devel|Compliance mode enabled, was '6.2.20250907.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250907.0)|
+|ctags|20191203|6.2.20250921.0|app-devel|Compliance mode enabled, was '6.2.20250921.0'<br>Possible downgrade from the current version (20191203 -> 6.2.20250921.0)|
 |cuda|13.0.0|13.0.1|app-devel||
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
@@ -2965,6 +2964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.45|runtime-display|Compliance mode enabled, was '2.45'|
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
+|xmake|3.0.2|3.0.3|app-devel|Compliance mode enabled, was '3.0.3'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
