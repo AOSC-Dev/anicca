@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758409896?label=Updated)
+![Relative date](https://img.shields.io/date/1758415639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1691,7 +1691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|mise|2025.8.9|2025.9.13|app-devel|Compliance mode enabled, was '2025.9.13'|
+|mise|2025.8.9|2025.9.14|app-devel|Compliance mode enabled, was '2025.9.14'|
 |mitmproxy|11.0.0|12.1.2|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -1759,7 +1759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nestopia|1.52.1|1.53.2|app-games|Compliance mode enabled, was '1.53.2'|
 |net-snmp|5.7.3|5.9.4|app-network|Compliance mode enabled, was '5.9.4'|
 |netavark|1.13.0|1.16.1|runtime-containers|Compliance mode enabled, was '1.16.1'|
-|netbird|0.55.1|0.57.1|app-network|Compliance mode enabled, was '0.57.1'|
+|netbird|0.55.1|0.58.0|app-network|Compliance mode enabled, was '0.58.0'|
 |netcat|1.219|1.229|app-network|Compliance mode enabled, was '1.229'|
 |netcdf|4.7.4|4.9.3|runtime-scientific|Compliance mode enabled, was '4.9.3'|
 |netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
