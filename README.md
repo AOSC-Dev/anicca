@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758463532?label=Updated)
+![Relative date](https://img.shields.io/date/1758467385?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2176,7 +2176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podofo|0.10.3|1.0.2|runtime-doc|Compliance mode enabled, was '1.0.2'|
 |poedit|3.4.1|3.7-oss|app-i18n|Compliance mode enabled, was '3.7-oss'|
 |poetry|2.1.3|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
-|poetry-core|2.1.3|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|poetry-core|2.1.3|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |polari|42.1|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |polkit-agent-tde-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |polkit-kde-agent-1|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
@@ -2277,7 +2277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
 |pyparsing|3.2.3|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
+|pypdf|4.0.1|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pypdf2|1.26.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |pyperclip|1.8.2|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
 |pyperf|2.5.0|2.9.0|lang-python|Compliance mode enabled, was '2.9.0'|
@@ -2981,6 +2981,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
 |xsimd|10.0.0|13.2.0|runtime-common|Compliance mode enabled, was '13.2.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
+|xterm|390|402|app-utils|Compliance mode enabled, was '402'|
 |yad|14.0|14.1|app-utils|Compliance mode enabled, was '14.1'|
 |yakuake|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |yakuake-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
