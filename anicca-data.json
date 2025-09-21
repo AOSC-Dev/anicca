@@ -1392,7 +1392,7 @@
 ["lsof","4.99.3","4.99.5","app-utils",1730861140,["Compliance mode enabled, was '4.99.5'"]],
 ["asar","4.0.0","4.0.1","app-utils",1753702319,["Compliance mode enabled, was '4.0.1'"]],
 ["srecord","1.64","1.65.0","app-utils",1490976425,["Compliance mode enabled, was '1.65.0'"]],
-["pcp","6.0.1","7.0.0","app-utils",1678351353,["Compliance mode enabled, was '7.0.0'"]],
+["pcp","6.0.1","7.0.1","app-utils",1678351353,["Compliance mode enabled, was '7.0.1'"]],
 ["rt-tests","2.6","2.9","app-utils",1710985572,["Compliance mode enabled, was '2.9'"]],
 ["lzip","1.24.1","1.25","app-utils",1731462536,["Compliance mode enabled, was '1.25'"]],
 ["rhash","1.4.4","1.4.6","app-utils",1710777249,["Compliance mode enabled, was '1.4.6'"]],
