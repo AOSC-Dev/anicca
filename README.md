@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758658477?label=Updated)
+![Relative date](https://img.shields.io/date/1758661885?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -171,8 +171,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.36|lang-python|Compliance mode enabled, was '1.40.36'|
-|botocore|1.40.25|1.40.36|lang-python|Compliance mode enabled, was '1.40.36'|
+|boto3|1.40.25|1.40.37|lang-python|Compliance mode enabled, was '1.40.37'|
+|botocore|1.40.25|1.40.37|lang-python|Compliance mode enabled, was '1.40.37'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -243,6 +243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
+|chezmoi|2.65.1|2.65.2|app-utils|Compliance mode enabled, was '2.65.2'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.602|desktop-fonts|Compliance mode enabled, was '2.602'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
@@ -595,8 +596,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcompris|4.3|25.1.1|app-games|Compliance mode enabled, was '25.1.1'|
 |gcr|3.41.1|4.4.0.1|desktop-gnome|Compliance mode enabled, was '4.4.0.1'|
 |gdal|3.11.1|3.11.4|runtime-gis|Compliance mode enabled, was '3.11.4'|
-|gdk-pixbuf|2.42.12|2.44.1|runtime-imaging|Compliance mode enabled, was '2.44.1'|
-|gdk-pixbuf+32|2.42.12|2.44.1|runtime-optenv32|Compliance mode enabled, was '2.44.1'|
+|gdk-pixbuf|2.42.12|2.44.2|runtime-imaging|Compliance mode enabled, was '2.44.2'|
+|gdk-pixbuf+32|2.42.12|2.44.2|runtime-optenv32|Compliance mode enabled, was '2.44.2'|
 |gdm|42.0|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
@@ -712,6 +713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.182.0|lang-python|Compliance mode enabled, was '2.182.0'|
 |google-auth|1.6.3|2.40.3|lang-python|Compliance mode enabled, was '2.40.3'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
+|google-chrome|140.0.7339.185|140.0.7339.207|app-web|Compliance mode enabled, was '140.0.7339.207'|
 |goreleaser|2.8.2|2.12.2|lang-golang|Compliance mode enabled, was '2.12.2'|
 |goverlay|1.2|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
@@ -1527,6 +1529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpd|0.10.2|0.10.3|runtime-productivity|Compliance mode enabled, was '0.10.3'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.80|lang-perl|Compliance mode enabled, was '6.80'|
+|libx86emu|3.5|3.7|runtime-common|Compliance mode enabled, was '3.7'|
 |libxcrypt+32|4.4.37|4.4.38|runtime-optenv32|Compliance mode enabled, was '4.4.38'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxkbcommon|1.8.1|1.11.0|runtime-display|Compliance mode enabled, was '1.11.0'|
