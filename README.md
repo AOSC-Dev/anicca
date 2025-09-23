@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758640433?label=Updated)
+![Relative date](https://img.shields.io/date/1758644080?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -99,7 +99,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asahi-audio|3.0|3.4|runtime-multimedia|Compliance mode enabled, was '3.4'|
 |asahi-common|20250130|20231113-aosc|runtime-admin|Compliance mode enabled, was '20231113-aosc'<br>Possible downgrade from the current version (20250130 -> 20231113-aosc)|
 |asar|4.0.0|4.0.1|app-utils|Compliance mode enabled, was '4.0.1'|
-|asgiref|3.8.1|3.9.1|lang-python|Compliance mode enabled, was '3.9.1'|
+|asgiref|3.8.1|3.9.2|lang-python|Compliance mode enabled, was '3.9.2'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-runtime-8.0|8.0.10|8.0.20|lang-dotnet|Compliance mode enabled, was '8.0.20'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
@@ -452,6 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |editline|1.16.1|1.17.1|runtime-common|Compliance mode enabled, was '1.17.1'|
 |edk2-test|202406|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202406 -> edk2-test-rc1_202404)|
 |eglexternalplatform|1.1|1.2.1|runtime-display|Compliance mode enabled, was '1.2.1'|
+|element-desktop|1.11.112|1.12.0|app-web|Compliance mode enabled, was '1.12.0'|
 |elfutils|0.191|0.193|app-utils|Compliance mode enabled, was '0.193'|
 |elfutils+32|0.191|0.193|runtime-optenv32|Compliance mode enabled, was '0.193'|
 |elisa|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1090,6 +1091,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmime|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmines|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmix|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|kmousetool|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmouth|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kmplayer-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kmplot|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
