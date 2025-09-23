@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758582792?label=Updated)
+![Relative date](https://img.shields.io/date/1758588192?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -340,7 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
-|dart-sass-js|1.89.2|1.93.0|app-devel|Compliance mode enabled, was '1.93.0'|
+|dart-sass-js|1.89.2|1.93.1|app-devel|Compliance mode enabled, was '1.93.1'|
 |dart-sdk|3.8.2|3.9.3|lang-dart|Compliance mode enabled, was '3.9.3'|
 |dash|0.5.12|0.5.13|app-shells|Compliance mode enabled, was '0.5.13'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
@@ -818,7 +818,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|hypothesis-python|6.97.4|6.140.1|lang-python|Compliance mode enabled, was '6.140.1'|
+|hypothesis-python|6.97.4|6.140.2|lang-python|Compliance mode enabled, was '6.140.2'|
 |hysteria|2.6.1|2.6.3|app-proxy|Compliance mode enabled, was '2.6.3'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
@@ -1644,7 +1644,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.10.5|0.13.1|runtime-desktop|Compliance mode enabled, was '0.13.1'|
 |man-db|2.13.0|2.13.1|app-utils|Compliance mode enabled, was '2.13.1'|
 |marble|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|marco|1.28.1|1.29.0|desktop-mate|Compliance mode enabled, was '1.29.0'|
+|marco|1.28.1|1.29.1|desktop-mate|Compliance mode enabled, was '1.29.1'|
 |mariadb|11.7.2|12.1.1|app-database|Compliance mode enabled, was '12.1.1'|
 |marisa|0.2.7|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |markdown|3.3.4|3.9|lang-python|Compliance mode enabled, was '3.9'|
@@ -1848,7 +1848,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
-|openai-python|1.63.2|1.108.1|lang-python|Compliance mode enabled, was '1.108.1'|
+|openai-python|1.63.2|1.108.2|lang-python|Compliance mode enabled, was '1.108.2'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
 |opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
@@ -1925,6 +1925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pakfixer|0.1.4|0.1.3|app-utils|Compliance mode enabled, was '0.1.3'<br>Possible downgrade from the current version (0.1.4 -> 0.1.3)|
 |palapeli|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
+|pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.3.2|lang-python|Compliance mode enabled, was '2.3.2'|
 |pandoc|3.6.3|3.8|app-doc|Compliance mode enabled, was '3.8'|
 |pango|1.56.1|1.56.4|runtime-desktop|Compliance mode enabled, was '1.56.4'|
