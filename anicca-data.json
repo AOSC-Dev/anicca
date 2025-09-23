@@ -234,7 +234,7 @@
 ["cracklib","2.9.8","2.10.3","runtime-cryptography",1663359145,["Compliance mode enabled, was '2.10.3'"]],
 ["crypto++","8.2.0","8.9.0","runtime-cryptography",1573276615,["Compliance mode enabled, was '8.9.0'"]],
 ["libgcrypt","1.11.0","1.11.2","runtime-cryptography",1719046541,["Compliance mode enabled, was '1.11.2'"]],
-["gpgme","1.24.3","2.0.0","runtime-cryptography",1756329026,["Compliance mode enabled, was '2.0.0'"]],
+["gpgme","1.24.3","2.0.1","runtime-cryptography",1756329026,["Compliance mode enabled, was '2.0.1'"]],
 ["qca","2.3.4","2.3.10","runtime-cryptography",1650696645,["Compliance mode enabled, was '2.3.10'"]],
 ["libsodium","1.0.18","1.0.20","runtime-cryptography",1565150270,["Compliance mode enabled, was '1.0.20'"]],
 ["libgpg-error","1.51","1.55","runtime-cryptography",1741002973,["Compliance mode enabled, was '1.55'"]],
