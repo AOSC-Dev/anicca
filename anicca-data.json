@@ -2044,7 +2044,7 @@
 ["icewm-themes","1.2.26","1.2.26.orig","desktop-themes",1501337317,["Compliance mode enabled, was '1.2.26.orig'","Possible downgrade from the current version (1.2.26 -> 1.2.26.orig)"]],
 ["aosc-community-wallpapers-extras-2023","2023.10.1","2025.05.2","desktop-themes",1714209508,["Compliance mode enabled, was '2025.05.2'"]],
 ["yosys","0.45","0.57","app-electronics",1728142856,["Compliance mode enabled, was '0.57'"]],
-["apicula","0.14","0.25","app-electronics",1728142856,["Compliance mode enabled, was '0.25'"]],
+["apicula","0.14","0.26","app-electronics",1728142856,["Compliance mode enabled, was '0.26'"]],
 ["ngspice","35","45.2","app-electronics",1624316725,["Compliance mode enabled, was '45.2'"]],
 ["verilator","5.026","5.040","app-electronics",1721488325,["Compliance mode enabled, was '5.040'"]],
 ["gtkwave","3.3.121","3.3.125","app-electronics",1731071287,["Compliance mode enabled, was '3.3.125'"]],
