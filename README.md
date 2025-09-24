@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758708806?label=Updated)
+![Relative date](https://img.shields.io/date/1758712279?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1375,7 +1375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksquirrel-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libksysguard|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |libktorrent|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|liblangtag|0.6.3|0.6.7|runtime-i18n|Compliance mode enabled, was '0.6.7'|
+|liblangtag|0.6.3|0.6.8|runtime-i18n|Compliance mode enabled, was '0.6.8'|
 |liblo|0.29|0.32|runtime-multimedia|Compliance mode enabled, was '0.32'|
 |liblouis|3.12.0|3.35.0|runtime-a11y|Compliance mode enabled, was '3.35.0'|
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
@@ -2781,6 +2781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'<br>Possible downgrade from the current version (20161208 -> 0.9.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
+|tree-sitter|0.25.3|0.26.0|groups|Compliance mode enabled, was '0.26.0'|
 |tree-sitter-c|0.23.5|0.24.1|runtime-editors|Compliance mode enabled, was '0.24.1'|
 |tree-sitter-lua|0.3.0|0.4.0|runtime-editors|Compliance mode enabled, was '0.4.0'|
 |tree-sitter-markdown|0.4.1|0.5.1|runtime-editors|Compliance mode enabled, was '0.5.1'|
