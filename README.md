@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758716400?label=Updated)
+![Relative date](https://img.shields.io/date/1758720265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1563,7 +1563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|5298|6565|runtime-creativity|Compliance mode enabled, was '6565'|
+|llama.cpp|5298|6567|runtime-creativity|Compliance mode enabled, was '6567'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.2|runtime-optenv32|Compliance mode enabled, was '21.1.2'|
@@ -1679,6 +1679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
 |metee|6.0.0|6.0.2|runtime-devices|Compliance mode enabled, was '6.0.2'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
+|mihomo|1.19.13|1.19.14|app-proxy|Compliance mode enabled, was '1.19.14'|
 |milkytracker|1.04.00|1.06|app-multimedia|Compliance mode enabled, was '1.06'|
 |milou|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |mimalloc|2.1.7|3.1.5|runtime-common|Compliance mode enabled, was '3.1.5'|
@@ -1779,10 +1780,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.8.4|app-utils|Compliance mode enabled, was '2.8.4'|
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |nghttp2|1.65.0|1.67.1|runtime-web|Compliance mode enabled, was '1.67.1'|
-|nghttp3|1.3.0|1.11.0|runtime-web|Compliance mode enabled, was '1.11.0'|
+|nghttp3|1.3.0|1.12.0|runtime-web|Compliance mode enabled, was '1.12.0'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.1|app-web|Compliance mode enabled, was '1.29.1'|
 |ngspice|35|45.2|app-electronics|Compliance mode enabled, was '45.2'|
-|ngtcp2|1.5.0|1.15.1|runtime-web|Compliance mode enabled, was '1.15.1'|
+|ngtcp2|1.5.0|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.95|7.98|app-network|Compliance mode enabled, was '7.98'|
@@ -2421,7 +2422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|6.4.3|7.0.1|runtime-rocm|Compliance mode enabled, was '7.0.1'|
 |rocm-hipsparse|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
-|rocm-llama-cpp|6.4.3|6565|runtime-rocm|Compliance mode enabled, was '6565'|
+|rocm-llama-cpp|6.4.3|6567|runtime-rocm|Compliance mode enabled, was '6567'|
 |rocm-llvm|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
@@ -2989,6 +2990,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubikey-manager|5.7.2|5.8.0|app-devices|Compliance mode enabled, was '5.8.0'|
 |zanshin|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
+|zathura|0.5.12|0.5.13|app-doc|Compliance mode enabled, was '0.5.13'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
 |zed|0.203.5|0.204.5|app-editors|Compliance mode enabled, was '0.204.5'|
