@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758748295?label=Updated)
+![Relative date](https://img.shields.io/date/1758751933?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1594,6 +1594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.14.0|runtime-common|Compliance mode enabled, was '2.14.0'|
 |lua-dkjson|2.8|1.0|lang-lua|Compliance mode enabled, was '1.0'<br>Possible downgrade from the current version (2.8 -> 1.0)|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
+|luabitop|1.0.2|1.0.3|lang-lua|Compliance mode enabled, was '1.0.3'|
 |luafilesystem|1.7.0.2|1.8.0|lang-lua|Compliance mode enabled, was '1_8_0'|
 |luajit|2.1.0b3<br>+git20250528|2.1.rolling|lang-lua|Compliance mode enabled, was '2.1.ROLLING'|
 |luarocks|3.11.1|3.12.2|lang-lua|Compliance mode enabled, was '3.12.2'|

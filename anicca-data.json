@@ -1231,6 +1231,7 @@
 ["libgeotiff","1.5.1","1.7.4","runtime-gis",1568736038,["Compliance mode enabled, was '1.7.4'"]],
 ["geos","3.13.1","3.14.0","runtime-gis",1743069479,["Compliance mode enabled, was '3.14.0'"]],
 ["luarocks","3.11.1","3.12.2","lang-lua",1721978126,["Compliance mode enabled, was '3.12.2'"]],
+["luabitop","1.0.2","1.0.3","lang-lua",1678950872,["Compliance mode enabled, was '1.0.3'"]],
 ["lua-messagepack","0.5.1","0.5.4","lang-lua",1531723859,["Compliance mode enabled, was '0.5.4'"]],
 ["luajit","2.1.0b3+git20250528","2.1.rolling","lang-lua",1753796831,["Compliance mode enabled, was '2.1.ROLLING'"]],
 ["luafilesystem","1.7.0.2","1.8.0","lang-lua",1528252819,["Compliance mode enabled, was '1_8_0'"]],
