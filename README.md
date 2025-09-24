@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758726758?label=Updated)
+![Relative date](https://img.shields.io/date/1758730454?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -184,6 +184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |breezy|3.3.12|3.3.13|app-vcs|Compliance mode enabled, was '3.3.13'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
+|bspwm|0.9.10|0.9.11|desktop-wm|Compliance mode enabled, was '0.9.11'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.41.4|app-containers|Compliance mode enabled, was '1.41.4'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -319,6 +320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |croc|10.2.4|10.2.5|app-utils|Compliance mode enabled, was '10.2.5'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.16.1|1.24|app-admin|Compliance mode enabled, was '1.24'|
+|crush|0.9.2|0.10.0|app-utils|Compliance mode enabled, was '0.10.0'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|40.0.0|46.0.1|lang-python|Compliance mode enabled, was '46.0.1'|
@@ -1246,6 +1248,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |leptonica|1.84.1|1.86.0|app-scientific|Compliance mode enabled, was '1.86.0'|
 |level-zero|1.24.1|1.24.3|runtime-common|Compliance mode enabled, was '1.24.3'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
+|lfortran|0.56.0|0.57.0|app-devel|Compliance mode enabled, was '0.57.0'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libadwaita|1.7.2|1.8.0|desktop-gnome|Compliance mode enabled, was '1.8.0'|
 |libarchive|3.7.8|3.8.1|runtime-common|Compliance mode enabled, was '3.8.1'|
