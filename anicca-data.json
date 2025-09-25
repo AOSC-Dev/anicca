@@ -159,7 +159,6 @@
 ["spdx-licenses","3.25.0","3.27.0","runtime-data",1732414619,["Compliance mode enabled, was '3.27.0'"]],
 ["trinity-default-settings","2023.07.1r","2025.05.0","runtime-data",1721223931,["Compliance mode enabled, was '2025.05.0'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
-["iso-codes","4.4","4.18.0","runtime-data",1579792514,["Compliance mode enabled, was '4.18.0'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
 ["mengshen-pinyin-font","1.03","20250817.032955","desktop-fonts",1706083317,["Compliance mode enabled, was '20250817-032955'"]],
 ["chiron-sans-hk","2.046","2.603","desktop-fonts",1706083317,["Compliance mode enabled, was '2.603'"]],
