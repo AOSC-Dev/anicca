@@ -2571,6 +2571,7 @@
 ["leptonica","1.84.1","1.86.0","app-scientific",1710442812,["Compliance mode enabled, was '1.86.0'"]],
 ["pari","2.13.1","2.17.2","app-scientific",1614161813,["Compliance mode enabled, was '2.17.2'"]],
 ["singular","4.1.1","2025.08.26","app-scientific",1531831895,["Compliance mode enabled, was '2025.08.26'"]],
+["praat","6.4.43","6.4.44","app-scientific",1758251530,["Compliance mode enabled, was '6.4.44'"]],
 ["stellarium","24.3","25.2","app-scientific",1727832070,["Compliance mode enabled, was '25.2'"]],
 ["bullet","2.88","3.25","app-scientific",1551292850,["Compliance mode enabled, was '3.25'"]],
 ["lapack","3.12.0","3.12.1","app-scientific",1712158730,["Compliance mode enabled, was '3.12.1'"]],
