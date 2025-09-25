@@ -384,7 +384,6 @@
 ["mm-common","1.0.6","1.0.7","app-devel",1705302825,["Compliance mode enabled, was '1.0.7'"]],
 ["valgrind","3.25.0","3.25.1","app-devel",1745931468,["Compliance mode enabled, was '3.25.1'"]],
 ["cpprestsdk","2.10.18","2.10.19","app-devel",1620461772,["Compliance mode enabled, was '2.10.19'"]],
-["ciel","3.9.10","3.9.8","app-devel",1758781905,["Compliance mode enabled, was '3.9.8'","Possible downgrade from the current version (3.9.10 -> 3.9.8)"]],
 ["apitrace","12.0","13.0","app-devel",1717679738,["Compliance mode enabled, was '13.0'"]],
 ["dotnet-templates-6.0","6.0.422","6.0.428","app-devel",1716597653,["Compliance mode enabled, was '6.0.428'"]],
 ["ast-grep","0.38.2","0.39.5","app-devel",1747808655,["Compliance mode enabled, was '0.39.5'"]],
