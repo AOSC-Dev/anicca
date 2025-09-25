@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758766868?label=Updated)
+![Relative date](https://img.shields.io/date/1758771016?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1000,6 +1000,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdf|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
 |kdialog|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|kdiamond|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kdiff3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdirstat-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdiskmark|2.3.0|3.2.0|desktop-kde|Compliance mode enabled, was '3.2.0'|
@@ -1035,7 +1036,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khealthcertificate|22.11|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |khelpcenter|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kholidays|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
-|khotkeys|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |khtml|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ki18n|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kiconthemes|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
@@ -1698,7 +1698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|mise|2025.8.9|2025.9.17|app-devel|Compliance mode enabled, was '2025.9.17'|
+|mise|2025.8.9|2025.9.18|app-devel|Compliance mode enabled, was '2025.9.18'|
 |mitmproxy|11.0.0|12.1.2|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
