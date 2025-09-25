@@ -1440,7 +1440,7 @@
 ["anubis","1.21.3","1.22.0","app-web",1753924800,["Compliance mode enabled, was '1.22.0'"]],
 ["teams-for-linux","2.2.1","2.5.8","app-web",1758248938,["Compliance mode enabled, was '2.5.8'"]],
 ["postfix","3.7.3","3.10.4","app-web",1721223235,["Compliance mode enabled, was '3.10.4'"]],
-["hugo","0.149.0","0.150.0","app-web",1756454574,["Compliance mode enabled, was '0.150.0'"]],
+["hugo","0.149.0","0.150.1","app-web",1756454574,["Compliance mode enabled, was '0.150.1'"]],
 ["httpd","2.4.63","2.4.65","app-web",1738155846,["Compliance mode enabled, was '2.4.65'"]],
 ["liferea","1.14.6","1.16.5","app-web",1749107082,["Compliance mode enabled, was '1.16.5'"]],
 ["thunderbird","143.0","143.0.1","app-web",1758506892,["Compliance mode enabled, was '143.0.1'"]],
