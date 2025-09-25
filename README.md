@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758791602?label=Updated)
+![Relative date](https://img.shields.io/date/1758795293?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -434,11 +434,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim|3.3.1|3.4.0|app-imaging|Compliance mode enabled, was '3.4.0'|
 |dssim-c|1.3.2<br>+git20200922|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
-|dtk6core|6.0.37|6.0.42|desktop-dde|Compliance mode enabled, was '6.0.42'|
-|dtk6gui|6.0.37|6.0.42|desktop-dde|Compliance mode enabled, was '6.0.42'|
+|dtk6core|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
+|dtk6gui|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
 |dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
-|dtk6widget|6.0.37|6.0.42|desktop-dde|Compliance mode enabled, was '6.0.42'|
-|dtkcommon|5.7.17|5.7.22|desktop-dde|Compliance mode enabled, was '5.7.22'|
+|dtk6widget|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
+|dtkcommon|5.7.17|5.7.23|desktop-dde|Compliance mode enabled, was '5.7.23'|
 |dua|2.30.1|2.32.0|app-utils|Compliance mode enabled, was '2.32.0'|
 |dub|1.38.1|1.40.0|lang-dlang|Compliance mode enabled, was '1.40.0'|
 |duckdb|1.3.2|1.4.0|app-database|Compliance mode enabled, was '1.4.0'|
@@ -607,6 +607,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |geany|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |geany-plugins|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
+|gearlever|3.4.2|3.4.3|app-utils|Compliance mode enabled, was '3.4.3'|
 |gedit|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |gedit-plugins|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
