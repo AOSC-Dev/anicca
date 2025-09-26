@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758899551?label=Updated)
+![Relative date](https://img.shields.io/date/1758903235?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -204,7 +204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.8.2|app-imaging|Compliance mode enabled, was '2.8.2'|
 |calendarsupport|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |calf|0.90.3|0.90.8|app-multimedia|Compliance mode enabled, was '0.90.8'|
-|calibre|8.5.0|8.11.0|app-doc|Compliance mode enabled, was '8.11.0'|
+|calibre|8.5.0|8.11.1|app-doc|Compliance mode enabled, was '8.11.1'|
 |caligula|0.4.5|0.4.8|app-utils|Compliance mode enabled, was '0.4.8'|
 |calindori|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |callaudiod|0.1.4|0.1.99|app-admin|Compliance mode enabled, was '0.1.99'|
@@ -924,7 +924,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalzium|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kamera|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kamoso|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|kanagram|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kapidox|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kapman|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kapptemplate|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2279,7 +2278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|4.0.1|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |pypdf2|1.26.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|pyperclip|1.8.2|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
+|pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pyperf|2.5.0|2.9.0|lang-python|Compliance mode enabled, was '2.9.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pypsutil|5.9.8|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
@@ -2473,6 +2472,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |sagemath|10.4|10.7|app-scientific|Compliance mode enabled, was '10.7'|
+|samba|4.23.0|4.23.1|app-network|Compliance mode enabled, was '4.23.1'|
 |samtools|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.0.0|app-admin|Compliance mode enabled, was '4.0.0'|
@@ -2516,6 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-scm|8.1.0|9.2.0|lang-python|Compliance mode enabled, was '9.2.0'|
 |sfml|2.5.1|3.0.2|runtime-multimedia|Compliance mode enabled, was '3.0.2'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
+|shaderc|2025.3|2025.4|app-devel|Compliance mode enabled, was '2025.4'|
 |shadow|4.17.2|4.18.0|app-admin|Compliance mode enabled, was '4.18.0'|
 |shapelib|1.5.0|1.6.2|runtime-imaging|Compliance mode enabled, was '1.6.2'|
 |shh|2025.9.22|2023.10.19|app-utils|Compliance mode enabled, was '2023.10.19'<br>Possible downgrade from the current version (2025.9.22 -> 2023.10.19)|
@@ -2598,8 +2599,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-headers|1.4.321.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
 |spirv-llvm-translator|20.1.4|21.1.0|app-devel|Compliance mode enabled, was '21.1.0'|
 |spirv-llvm-translator+32|20.1.4|21.1.0|runtime-optenv32|Compliance mode enabled, was '21.1.0'|
-|spirv-tools|1.4.321.0|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
-|spirv-tools+32|1.4.321.0|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
+|spirv-tools|1.4.321.0|2025.4|runtime-display|Compliance mode enabled, was '2025.4'|
+|spirv-tools+32|1.4.321.0|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
 |sqlalchemy|1.2.18|2.0.43|lang-python|Compliance mode enabled, was '2.0.43'|
 |sqlcipher|4.5.6|4.10.0|app-database|Compliance mode enabled, was '4.10.0'|
 |sqlite|3500400|3.50.4|app-database|Possible downgrade from the current version (3500400 -> 3.50.4)|
