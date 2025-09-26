@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758921042?label=Updated)
+![Relative date](https://img.shields.io/date/1758924658?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -308,12 +308,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |copyq|10.0.0|11.0.0|app-utils|Compliance mode enabled, was '11.0.0'|
-|coreboot-utils|24.08|25.06|app-admin|Compliance mode enabled, was '25.06'|
+|coreboot-utils|24.08|25.09|app-admin|Compliance mode enabled, was '25.09'|
 |corefreq|2.0.7|2.0.8|app-utils|Compliance mode enabled, was '2.0.8'|
 |corrosion|0.4.10|0.5.2|app-devel|Compliance mode enabled, was '0.5.2'|
 |corsixth|0.68.0|0.69.1|app-games|Compliance mode enabled, was '0.69.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
-|cpp-utilities|5.20.0|5.30.0|runtime-common|Compliance mode enabled, was '5.30.0'|
+|cpp-utilities|5.20.0|5.31.0|runtime-common|Compliance mode enabled, was '5.31.0'|
 |cppcheck|2.8|2.18.3|app-devel|Compliance mode enabled, was '2.18.3'|
 |cppdap|1.58.0<br>+a|1.58.0-a|runtime-common|Compliance mode enabled, was '1.58.0-a'|
 |cpprestsdk|2.10.18|2.10.19|app-devel|Compliance mode enabled, was '2.10.19'|
@@ -2996,7 +2996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.12|0.5.13|app-doc|Compliance mode enabled, was '0.5.13'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.203.5|0.205.5|app-editors|Compliance mode enabled, was '0.205.5'|
+|zed|0.203.5|0.205.6|app-editors|Compliance mode enabled, was '0.205.6'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|0.147.2|lang-python|Compliance mode enabled, was '0.147.2'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
