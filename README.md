@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758933785?label=Updated)
+![Relative date](https://img.shields.io/date/1758939299?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -289,7 +289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|347|app-admin|Compliance mode enabled, was '347'|
 |cockpit-machines|284.1|340|app-admin|Compliance mode enabled, was '340'|
 |cockpit-podman|63|113|app-admin|Compliance mode enabled, was '113'|
-|code-server|4.93.1|4.104.1|app-utils|Compliance mode enabled, was '4.104.1'|
+|code-server|4.93.1|4.104.2|app-utils|Compliance mode enabled, was '4.104.2'|
 |codeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |coin|4.0.0<br>+git20220828|4.0.5|runtime-imaging|Compliance mode enabled, was '4.0.5'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
@@ -1697,7 +1697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|mise|2025.8.9|2025.9.19|app-devel|Compliance mode enabled, was '2025.9.19'|
+|mise|2025.8.9|2025.9.20|app-devel|Compliance mode enabled, was '2025.9.20'|
 |mitmproxy|11.0.0|12.1.2|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2779,7 +2779,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqt3|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tqtinterface|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |trace-cmd|3.3|3.3.3|app-utils|Compliance mode enabled, was '3.3.3'|
-|tracker|3.7.3|3.10.0|desktop-gnome|Compliance mode enabled, was '3.10.0'|
 |tracker-miners|3.3.1|3.10.0|desktop-gnome|Compliance mode enabled, was '3.10.0'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
 |translate-shell|0.9.7|0.9.7.1|app-i18n|Compliance mode enabled, was '0.9.7.1'|
@@ -2940,7 +2939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapian-core|1.4.18|1.4.29|runtime-common|Compliance mode enabled, was '1.4.29'|
 |xapps|2.8.2|2.8.13|runtime-desktop|Compliance mode enabled, was '2.8.13'|
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils|Compliance mode enabled, was '0.9'|
-|xcffib|0.7.0|1.10.0|lang-python|Compliance mode enabled, was '1.10.0'|
+|xcffib|0.7.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.10|desktop-wm|Compliance mode enabled, was '1.1.10'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
@@ -2989,6 +2988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.57|app-electronics|Compliance mode enabled, was '0.57'|
 |yq|4.47.1|4.47.2|app-devel|Compliance mode enabled, was '4.47.2'|
+|yt-dlp|2025.09.23|2025.09.26|app-multimedia|Compliance mode enabled, was '2025.09.26'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubikey-manager|5.7.2|5.8.0|app-devices|Compliance mode enabled, was '5.8.0'|
 |zanshin|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
