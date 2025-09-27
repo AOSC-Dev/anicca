@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1758967981?label=Updated)
+![Relative date](https://img.shields.io/date/1758971201?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1719,6 +1719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c++|6.1.0|7.0.0|runtime-common|Compliance mode enabled, was '7.0.0'|
 |msitools|0.101|0.106|app-devel|Compliance mode enabled, was '0.106'|
 |msmtp|1.8.30|1.8.31|app-web|Compliance mode enabled, was '1.8.31'|
+|msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mss|9.0.2|10.1.0|lang-python|Compliance mode enabled, was '10.1.0'|
 |mstflint|4.29.0-1|4.33.0-1-gb|app-admin|Compliance mode enabled, was '4.33.0-1-GB'|
 |mtd-utils|2.1.5|2.3.0|app-admin|Compliance mode enabled, was '2.3.0'|
@@ -2582,6 +2583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxcontrib-websupport|1.2.4|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxext-opengraph|0.9.1|0.13.0|app-doc|Compliance mode enabled, was '0.13.0'|
+|spice|0.15.2|0.16.0|runtime-virtualization|Compliance mode enabled, was '0.16.0'|
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spice-vdagent|0.22.1|0.23.0|runtime-virtualization|Compliance mode enabled, was '0.23.0'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
