@@ -841,7 +841,6 @@
 ["ncdu","1.22","2.9.1","app-utils",1753520158,["Compliance mode enabled, was '2.9.1'"]],
 ["evtest","1.35","1.36","app-utils",1721025457,["Compliance mode enabled, was '1.36'"]],
 ["bzip3","1.4.0","1.5.3","app-utils",1710215096,["Compliance mode enabled, was '1.5.3'"]],
-["onefetch","2.21.0","2.25.0","app-utils",1723473833,["Compliance mode enabled, was '2.25.0'"]],
 ["optipng","0.7.7","7.9.1","app-utils",1527956210,["Compliance mode enabled, was '7.9.1'"]],
 ["ipmitool","1.8.18","1.8.19","app-utils",1488653406,["Compliance mode enabled, was '1_8_19'"]],
 ["pcp","6.0.1","7.0.1","app-utils",1678351353,["Compliance mode enabled, was '7.0.1'"]],
