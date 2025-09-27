@@ -2845,6 +2845,7 @@
 ["zope-component","4.4.1","7.0","lang-python",1530283385,["Compliance mode enabled, was '7.0'"]],
 ["swiftclient","4.6.0","4.8.0","lang-python",1724639794,["Compliance mode enabled, was '4.8.0'"]],
 ["gmpy2","2.1.5","2.2.1","lang-python",1713946296,["Compliance mode enabled, was '2.2.1'"]],
+["markupsafe","3.0.2","3.0.3","lang-python",1730451094,["Compliance mode enabled, was '3.0.3'"]],
 ["hatch-vcs","0.4.0","0.5.0","lang-python",1717069213,["Compliance mode enabled, was '0.5.0'"]],
 ["loguru","0.5.3","0.7.3","lang-python",1607768363,["Compliance mode enabled, was '0.7.3'"]],
 ["s3transfer","0.5.0","0.14.0","lang-python",1616123331,["Compliance mode enabled, was '0.14.0'"]],
