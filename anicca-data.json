@@ -2581,6 +2581,7 @@
 ["libmanette","0.2.6","0.2.12","runtime-devices",1619939091,["Compliance mode enabled, was '0.2.12'"]],
 ["libserialport","0.1.1","0.1.2","runtime-devices",1678950872,["Compliance mode enabled, was '0.1.2'"]],
 ["libticonv","1.1.4","1.1.5","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.5'"]],
+["opentabletdriver","0.6.5.1","0.6.6.0","runtime-devices",1750147062,["Compliance mode enabled, was '0.6.6.0'"]],
 ["libcdio-paranoia","10.2+2.0.1","2.0.2","runtime-devices",1639821978,["Compliance mode enabled, was '2.0.2'","Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)"]],
 ["tslib","1.21","1.23","runtime-devices",1579636402,["Compliance mode enabled, was '1.23'"]],
 ["libtpms","0.9.6","0.10.1","runtime-devices",1681635425,["Compliance mode enabled, was '0.10.1'"]],
