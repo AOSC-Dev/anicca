@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759097552?label=Updated)
+![Relative date](https://img.shields.io/date/1759101107?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -379,6 +379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
+|djvulibre|3.5.28|3.5.29|app-doc|Compliance mode enabled, was '3.5.29'|
 |dkms|3.1.1|3.2.2|app-admin|Compliance mode enabled, was '3.2.2'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscontrol|4.22.0|4.25.0|app-network|Compliance mode enabled, was '4.25.0'|
@@ -1167,6 +1168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kruler|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |krunner|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |krusader|2.7.2|2.9.0|desktop-kde|Compliance mode enabled, was '2.9.0'|
+|krusader-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksanecore|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kscope-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kscreen|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
@@ -2826,7 +2828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |v2ray|5.37.0|5.39.0|app-proxy|Compliance mode enabled, was '5.39.0'|
-|v2ray-rules-dat|202508312212|202509272211|runtime-data|Compliance mode enabled, was '202509272211'<br>Versions not comparable: `202508312212` and `202509272211`|
+|v2ray-rules-dat|202508312212|202509282211|runtime-data|Compliance mode enabled, was '202509282211'<br>Versions not comparable: `202508312212` and `202509282211`|
 |v2raya|2.2.6.6|2.2.7.1|app-proxy|Compliance mode enabled, was '2.2.7.1'|
 |v4l-utils|1.22.1|1.30.1|app-multimedia|Compliance mode enabled, was '1.30.1'|
 |v4l-utils+32|1.22.1|1.30.1|runtime-optenv32|Compliance mode enabled, was '1.30.1'|
