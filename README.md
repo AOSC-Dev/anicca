@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759140812?label=Updated)
+![Relative date](https://img.shields.io/date/1759144356?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1114,7 +1114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |knowit-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |knutclient-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kodi|21.2|21.1|app-multimedia|Compliance mode enabled, was '21.1'<br>Possible downgrade from the current version (21.2 -> 21.1)|
-|kodi-inputstream-adaptive|21.5.14|22.2.8-piers|app-multimedia|Compliance mode enabled, was '22.2.8-Piers'|
+|kodi-inputstream-adaptive|21.5.14|22.2.9-piers|app-multimedia|Compliance mode enabled, was '22.2.9-Piers'|
 |kodi-inputstream-ffmpegdirect|21.3.7|22.1.3-piers|app-multimedia|Compliance mode enabled, was '22.1.3-Piers'|
 |kodi-inputstream-rtmp|21.1.2|2.0.2|app-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (21.1.2 -> 2.0.2)|
 |kodi-pvr-iptvsimple|21.10.2|22.5.2-piers|app-multimedia|Compliance mode enabled, was '22.5.2-Piers'|
