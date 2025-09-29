@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759152467?label=Updated)
+![Relative date](https://img.shields.io/date/1759155141?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -387,7 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscontrol|4.22.0|4.25.0|app-network|Compliance mode enabled, was '4.25.0'|
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
-|dnsdiag|2.6.0|2.7.0|app-network|Compliance mode enabled, was '2.7.0'|
+|dnsdiag|2.6.0|2.8.0|app-network|Compliance mode enabled, was '2.8.0'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -871,7 +871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.5|app-proxy|Compliance mode enabled, was '1.1.5'|
 |iptables|1.8.8|1.8.11|app-network|Compliance mode enabled, was '1.8.11'|
 |ipy|0.83|1.01|lang-python|Compliance mode enabled, was '1.01'|
-|ipython|8.32.0|9.5.0|lang-python|Compliance mode enabled, was '9.5.0'|
+|ipython|8.32.0|9.6.0|lang-python|Compliance mode enabled, was '9.6.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|6.0.1|lang-python|Compliance mode enabled, was '6.0.1'|
@@ -1653,7 +1653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mathjax|2.7.5|4.0.0|lang-js|Compliance mode enabled, was '4.0.0'|
 |matplotlib|3.10.3|3.10.6|lang-python|Compliance mode enabled, was '3.10.6'|
-|matplotlib-inline|0.1.7|9.5.0|lang-python|Compliance mode enabled, was '9.5.0'|
+|matplotlib-inline|0.1.7|9.6.0|lang-python|Compliance mode enabled, was '9.6.0'|
 |maturin|1.9.3|1.9.4|lang-python|Compliance mode enabled, was '1.9.4'|
 |mawk|1.3.4<br>+20240905|1.3.4+20250131|app-utils|Compliance mode enabled, was '1.3.4-20250131'|
 |maxima|5.48.0|5.48.1|app-scientific|Compliance mode enabled, was '5.48.1'|
@@ -2601,7 +2601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sslh|2.2.4|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |stalonetray|0.8.4|0.9.0|desktop-wm|Compliance mode enabled, was '0.9.0'|
 |steam|1.0.0.83|1.0.0.84|app-games|Compliance mode enabled, was '1.0.0.84'|
-|stellarium|24.3|25.2|app-scientific|Compliance mode enabled, was '25.2'|
+|stellarium|24.3|25.3|app-scientific|Compliance mode enabled, was '25.3'|
 |stellarsolver|2.5|2.7|app-scientific|Compliance mode enabled, was '2.7'|
 |step|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |stevedore|5.2.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
