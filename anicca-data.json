@@ -2576,7 +2576,6 @@
 ["opentabletdriver","0.6.5.1","0.6.6.0","runtime-devices",1750147062,["Compliance mode enabled, was '0.6.6.0'"]],
 ["libcdio-paranoia","10.2+2.0.1","2.0.2","runtime-devices",1639821978,["Compliance mode enabled, was '2.0.2'","Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)"]],
 ["tslib","1.21","1.23","runtime-devices",1579636402,["Compliance mode enabled, was '1.23'"]],
-["libtpms","0.9.6","0.10.1","runtime-devices",1681635425,["Compliance mode enabled, was '0.10.1'"]],
 ["libticalcs2","1.1.8","1.1.9","runtime-devices",1678950872,["Compliance mode enabled, was '1.1.9'"]],
 ["libipt","2.1.1","2.1.2","runtime-devices",1737341442,["Compliance mode enabled, was '2.1.2'"]],
 ["libspnav","0.2.3","1.2","runtime-devices",1754725945,["Compliance mode enabled, was '1.2'"]],
