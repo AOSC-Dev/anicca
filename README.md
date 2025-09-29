@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759166087?label=Updated)
+![Relative date](https://img.shields.io/date/1759169833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -145,7 +145,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bash|5.2.37|5.3|app-shells|Compliance mode enabled, was '5.3'|
 |basket-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
-|bcachefs-tools|1.9.4|1.31.5|app-admin|Compliance mode enabled, was '1.31.5'|
+|bcachefs-tools|1.9.4|1.31.6|app-admin|Compliance mode enabled, was '1.31.6'|
 |bcftools|1.20|1.22|app-scientific|Compliance mode enabled, was '1.22'|
 |bcrypt|4.2.0|5.0.0|lang-python|Compliance mode enabled, was '5.0.0'|
 |beancount|2.2.1|3.2.0|app-productivity|Compliance mode enabled, was '3.2.0'|
@@ -2870,7 +2870,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.4.309.0|1.4.328|runtime-display|Compliance mode enabled, was '1.4.328'|
 |vulkan-validationlayers|1.4.309.0|1.4.328|runtime-display|Compliance mode enabled, was '1.4.328'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2025.09.01.00|2025.09.22.00|runtime-network|Compliance mode enabled, was '2025.09.22.00'|
+|wangle|2025.09.01.00|2025.09.29.00|runtime-network|Compliance mode enabled, was '2025.09.29.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
 |warzone2100|4.5.5|4.6.1|app-games||
 |watchman|2025.09.01.00|2025.09.29.00|app-utils|Compliance mode enabled, was '2025.09.29.00'|
