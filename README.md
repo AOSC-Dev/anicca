@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759179954?label=Updated)
+![Relative date](https://img.shields.io/date/1759183854?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -134,6 +134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
+|ayano|0.1.4|0.1.5+2|app-network|Compliance mode enabled, was '0.1.5-2'|
 |b2sdk|2.5.0|2.10.0|lang-python|Compliance mode enabled, was '2.10.0'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20250504|019|runtime-kernel|Compliance mode enabled, was '019'|
@@ -186,7 +187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bspwm|0.9.10|0.9.11|desktop-wm|Compliance mode enabled, was '0.9.11'|
 |btrfs-progs|6.16.1|6.17|app-admin|Compliance mode enabled, was '6.17'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
-|buildah|1.40.1|1.41.4|app-containers|Compliance mode enabled, was '1.41.4'|
+|buildah|1.40.1|1.41.5|app-containers|Compliance mode enabled, was '1.41.5'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
 |bulky|3.4|3.9|desktop-cinnamon|Compliance mode enabled, was '3.9'|
 |bullet|2.88|3.25|app-scientific|Compliance mode enabled, was '3.25'|
@@ -1559,7 +1560,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|6615|6628|runtime-creativity|Compliance mode enabled, was '6628'|
+|llama.cpp|6615|6635|runtime-creativity|Compliance mode enabled, was '6635'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.2|runtime-optenv32|Compliance mode enabled, was '21.1.2'|
@@ -2299,6 +2300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pytools|2019.1|2025.2.4|lang-python|Compliance mode enabled, was '2025.2.4'|
 |pytz|2024.2|2025.2|lang-python|Compliance mode enabled, was '2025.2'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
+|pywbem|1.7.3|1.7.4|lang-python|Compliance mode enabled, was '1.7.4'|
 |pyx|0.14.1|0.16|lang-python|Compliance mode enabled, was '0.16'|
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyyaml|6.0.2|6.0.3|lang-python|Compliance mode enabled, was '6.0.3'|
@@ -2399,7 +2401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|6.4.3|7.0.1|runtime-rocm|Compliance mode enabled, was '7.0.1'|
 |rocm-hipsparse|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
-|rocm-llama-cpp|6.4.3|6628|runtime-rocm|Compliance mode enabled, was '6628'|
+|rocm-llama-cpp|6.4.3|6635|runtime-rocm|Compliance mode enabled, was '6635'|
 |rocm-llvm|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
@@ -2842,7 +2844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1788|9.1.1806|app-editors|Compliance mode enabled, was '9.1.1806'|
+|vim|9.1.1788|9.1.1813|app-editors|Compliance mode enabled, was '9.1.1813'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
