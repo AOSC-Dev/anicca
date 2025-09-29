@@ -2487,7 +2487,7 @@
 ["icecast","2.4.4","2.4.999.1","app-multimedia",1541872360,["Compliance mode enabled, was '2.4.999.1'"]],
 ["speakersafetyd","1.0.2","1.1.2","app-multimedia",1740327598,["Compliance mode enabled, was '1.1.2'"]],
 ["twolame","0.3.13","0.4.0","app-multimedia",1678950872,["Compliance mode enabled, was '0.4.0'"]],
-["sunshine","2025.122.141614","2025.927.211945","app-multimedia",1730185056,["Compliance mode enabled, was '2025.927.211945'"]],
+["sunshine","2025.122.141614","2025.929.5023","app-multimedia",1730185056,["Compliance mode enabled, was '2025.929.5023'"]],
 ["mocp","2.6.0~svn.r3005","2.5.2","app-multimedia",1748844653,["Compliance mode enabled, was '2.5.2'","Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)"]],
 ["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["kid3","3.9.5","3.9.7","app-multimedia",1748844653,["Compliance mode enabled, was '3.9.7'"]],
