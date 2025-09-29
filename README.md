@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759176809?label=Updated)
+![Relative date](https://img.shields.io/date/1759179954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -169,8 +169,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.40|lang-python|Compliance mode enabled, was '1.40.40'|
-|botocore|1.40.25|1.40.40|lang-python|Compliance mode enabled, was '1.40.40'|
+|boto3|1.40.25|1.40.41|lang-python|Compliance mode enabled, was '1.40.41'|
+|botocore|1.40.25|1.40.41|lang-python|Compliance mode enabled, was '1.40.41'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -184,6 +184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breezy|3.3.12|3.3.13|app-vcs|Compliance mode enabled, was '3.3.13'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |bspwm|0.9.10|0.9.11|desktop-wm|Compliance mode enabled, was '0.9.11'|
+|btrfs-progs|6.16.1|6.17|app-admin|Compliance mode enabled, was '6.17'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.41.4|app-containers|Compliance mode enabled, was '1.41.4'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -2962,7 +2963,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.205.4|0.205.6|app-editors|Compliance mode enabled, was '0.205.6'|
+|zed|0.205.4|0.205.7|app-editors|Compliance mode enabled, was '0.205.7'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|0.147.2|lang-python|Compliance mode enabled, was '0.147.2'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
