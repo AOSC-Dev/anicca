@@ -744,7 +744,6 @@
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["libvncserver","0.9.13","0.9.15","runtime-network",1598554084,["Compliance mode enabled, was '0.9.15'"]],
 ["gsoap","2.8.124","2.8.139","runtime-network",1678522480,["Compliance mode enabled, was '2.8.139'"]],
-["mvfst","2025.09.01.00","2025.09.29.00","runtime-network",1757214447,["Compliance mode enabled, was '2025.09.29.00'"]],
 ["libipset","1.1.1+git20150311","1.1.1","runtime-network",1657654316,["Compliance mode enabled, was '1.1.1'"]],
 ["libupnp","1.14.16","1.14.25","runtime-network",1682062129,["Compliance mode enabled, was '1.14.25'"]],
 ["libqofono","0.98","0.124","runtime-network",1678950872,["Compliance mode enabled, was '0.124'"]],
