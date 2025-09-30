@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759223671?label=Updated)
+![Relative date](https://img.shields.io/date/1759227208?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1875,7 +1875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentabletdriver|0.6.5.1|0.6.6.0|runtime-devices|Compliance mode enabled, was '0.6.6.0'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |opentofu|1.10.3|1.10.6|app-admin|Compliance mode enabled, was '1.10.6'|
-|openvdb|11.0.0|12.1.0|runtime-common|Compliance mode enabled, was '12.1.0'|
+|openvdb|11.0.0|12.1.1|runtime-common|Compliance mode enabled, was '12.1.1'|
 |openvpn|2.6.14|2.6.15|app-network|Compliance mode enabled, was '2.6.15'|
 |openvswitch|3.0.3|3.6.0|app-network|Compliance mode enabled, was '3.6.0'|
 |optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
@@ -2116,6 +2116,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |pimcommon|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |pip|25.1.1|25.2|lang-python|Compliance mode enabled, was '25.2'|
+|pipx|1.7.1|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
 |pkgconf|2.5.1|1.2.68|app-devel|Compliance mode enabled, was '1.2.68'<br>Possible downgrade from the current version (2.5.1 -> 1.2.68)|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
