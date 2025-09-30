@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759209197?label=Updated)
+![Relative date](https://img.shields.io/date/1759213035?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -146,7 +146,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bash|5.2.37|5.3|app-shells|Compliance mode enabled, was '5.3'|
 |basket-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |bcache-tools|1.0.8|1.1|app-admin|Compliance mode enabled, was '1.1'|
-|bcachefs-tools|1.9.4|1.31.6|app-admin|Compliance mode enabled, was '1.31.6'|
 |bcftools|1.20|1.22|app-scientific|Compliance mode enabled, was '1.22'|
 |bcrypt|4.2.0|5.0.0|lang-python|Compliance mode enabled, was '5.0.0'|
 |beancount|2.2.1|3.2.0|app-productivity|Compliance mode enabled, was '3.2.0'|
@@ -185,7 +184,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breezy|3.3.12|3.3.13|app-vcs|Compliance mode enabled, was '3.3.13'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |bspwm|0.9.10|0.9.11|desktop-wm|Compliance mode enabled, was '0.9.11'|
-|btrfs-progs|6.16.1|6.17|app-admin|Compliance mode enabled, was '6.17'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.41.5|app-containers|Compliance mode enabled, was '1.41.5'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -264,7 +262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-session|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
 |cinnamon-settings-daemon|5.8.1|6.4.3|desktop-cinnamon|Compliance mode enabled, was '6.4.3'|
 |cinnamon-translations|5.8.1|6.4.2|desktop-cinnamon|Compliance mode enabled, was '6.4.2'|
-|cinny-desktop|4.10.0|4.10.1|app-web|Compliance mode enabled, was '4.10.1'|
 |cjs|5.8.0|128.0|desktop-cinnamon|Compliance mode enabled, was '128.0'|
 |cjson|1.7.18|1.7.19|runtime-common|Compliance mode enabled, was '1.7.19'|
 |clash-verge-rev|2.3.1|2.4.2|app-proxy|Compliance mode enabled, was '2.4.2'|
@@ -774,7 +771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
 |harfbuzz|8.4.0|12.0.0|runtime-desktop|Compliance mode enabled, was '12.0.0'|
 |harfbuzz+32|8.4.0|12.0.0|runtime-optenv32|Compliance mode enabled, was '12.0.0'|
-|haruna|0.12.3|1.4.0|desktop-kde|Compliance mode enabled, was '1.4.0'|
+|haruna|0.12.3|1.5.0|desktop-kde|Compliance mode enabled, was '1.5.0'|
 |hashcat|6.2.6|7.1.2|app-penetration|Compliance mode enabled, was '7.1.2'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
@@ -1726,6 +1723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |musescore|4.3.2|4.5.2|app-creativity|Compliance mode enabled, was '4.5.2'|
 |musicfox|4.6.6|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |mutter|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
+|mvfst|2025.09.01.00|2025.09.29.00|runtime-network|Compliance mode enabled, was '2025.09.29.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.38.4|app-database|Compliance mode enabled, was '1.38.4'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -1941,7 +1939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.46|runtime-optenv32|Compliance mode enabled, was '10.46'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.193|app-games|Compliance mode enabled, was '2.5.193'|
+|pcsx2|1.6.0<br>+git20210825|2.5.194|app-games|Compliance mode enabled, was '2.5.194'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
