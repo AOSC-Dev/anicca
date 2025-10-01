@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759316783?label=Updated)
+![Relative date](https://img.shields.io/date/1759321222?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -540,7 +540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flat-remix-icon-theme|20240201|20250709|desktop-themes|Compliance mode enabled, was '20250709'|
 |flatbuffers|25.2.10|25.9.23|runtime-common|Compliance mode enabled, was '25.9.23'|
 |flatpak-builder|1.4.4|1.4.6|app-devel|Compliance mode enabled, was '1.4.6'|
-|flatseal|2.3.1|2.4.0|app-utils|Compliance mode enabled, was '2.4.0'|
 |flent|1.3.2|2.2.0|app-network|Compliance mode enabled, was '2.2.0'|
 |flit|3.9.0|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
 |flit-core|3.9.0|3.12.0|lang-python|Compliance mode enabled, was '3.12.0'|
@@ -1183,6 +1182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksmtp|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ksnakeduel|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kspaceduel|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|ksplash-engine-moodin-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksquares|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ksquirrel-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ksshaskpass|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
@@ -1501,7 +1501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva-utils|2.21.0|2.22.0|app-utils|Compliance mode enabled, was '2.22.0'|
 |libvarlink|23|24|runtime-common|Compliance mode enabled, was '24'|
 |libvips|8.17.1|8.17.2|runtime-imaging|Compliance mode enabled, was '8.17.2'|
-|libvirt|10.5.0|11.7.0|app-virtualization|Compliance mode enabled, was '11.7.0'|
+|libvirt|10.5.0|11.8.0|app-virtualization|Compliance mode enabled, was '11.8.0'|
 |libvirt-python|10.5.0|11.7.0|runtime-virtualization|Compliance mode enabled, was '11.7.0'|
 |libvisio|0.1.7|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
 |libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
@@ -1573,7 +1573,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
-|lowdown|1.1.2|2.0.2|app-doc|Compliance mode enabled, was '2_0_2'|
 |lpsolve|5.5.2.5|5.6.23|app-scientific|Compliance mode enabled, was '5.6.23'|
 |lrs|071a|073|app-scientific|Compliance mode enabled, was '073'|
 |lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
@@ -1665,9 +1664,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menu-cache|1.1.0|1.1.1|desktop-lxde|Compliance mode enabled, was '1.1.1'|
 |mercurial|7.0.2|7.1.1|app-vcs|Compliance mode enabled, was '7.1.1'|
 |merkuro|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|mesa|25.1.9|25.2.3|runtime-display||
-|mesa+32|25.1.7|25.2.3|runtime-optenv32||
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.3|runtime-display|Compliance mode enabled, was '25.2.3'|
+|mesa|25.1.9|25.2.4|runtime-display||
+|mesa+32|25.1.7|25.2.4|runtime-optenv32||
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.2.4|runtime-display|Compliance mode enabled, was '25.2.4'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |metacity|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
