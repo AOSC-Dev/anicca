@@ -1492,6 +1492,7 @@
 ["liblxqt","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
 ["lxqt-build-tools","0.13.0","2.2.1","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.1'"]],
 ["libfm-qt","1.4.0","2.2.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.2.0'"]],
+["zlib","2.2.4","2.2.5","core-libs",1740307704,["Compliance mode enabled, was '2.2.5'"]],
 ["glibc","2.40","2.42","core-libs",1733826087,["Compliance mode enabled, was '2.42'"]],
 ["lightdm-settings","2.0.4","2.0.9","desktop-displaymanagers",1719277648,["Compliance mode enabled, was '2.0.9'"]],
 ["wdm","1.28","1.29","desktop-displaymanagers",1678604371,["Compliance mode enabled, was '1.29'"]],
