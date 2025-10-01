@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759302771?label=Updated)
+![Relative date](https://img.shields.io/date/1759306673?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -341,7 +341,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dart-sdk|3.8.2|3.9.4|lang-dart|Compliance mode enabled, was '3.9.4'|
 |dash|0.5.12|0.5.13|app-shells|Compliance mode enabled, was '0.5.13'|
-|dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
 |davfs2|1.7.0|1.7.2|app-admin|Compliance mode enabled, was '1.7.2'|
 |dbus|1.14.10|1.16.2|app-admin|Compliance mode enabled, was '1.16.2'|
@@ -1062,7 +1061,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kiten|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kitinerary|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|kitty|0.42.2|0.43.0|app-utils|Compliance mode enabled, was '0.43.0'|
+|kitty|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |kiwisolver|1.4.8|1.4.9|lang-python|Compliance mode enabled, was '1.4.9'|
 |kjobwidgets|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kjournald|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
