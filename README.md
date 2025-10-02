@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759431988?label=Updated)
+![Relative date](https://img.shields.io/date/1759436037?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -2456,6 +2456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |schema|0.7.5|0.7.7|lang-python|Compliance mode enabled, was '0.7.7'|
 |scikit-build-core|0.11.1|0.11.6|lang-python|Compliance mode enabled, was '0.11.6'|
 |scipy|1.15.3|1.16.2|lang-python|Compliance mode enabled, was '1.16.2'|
+|scons|4.9.1|4.10.0|app-devel|Compliance mode enabled, was '4.10.0'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
 |scrcpy|3.3.1|3.3.3|app-devices|Compliance mode enabled, was '3.3.3'|
 |screengrab|2.7.0|3.0.0|desktop-lxqt|Compliance mode enabled, was '3.0.0'|
@@ -2591,6 +2592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarsolver|2.5|2.7|app-scientific|Compliance mode enabled, was '2.7'|
 |step|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |stevedore|5.2.0|5.5.0|lang-python|Compliance mode enabled, was '5.5.0'|
+|sticky|1.20|1.27|desktop-cinnamon|Compliance mode enabled, was '1.27'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |stopit|0<br>+git20190827|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |streamlink|6.7.4|7.6.0|app-multimedia|Compliance mode enabled, was '7.6.0'|
