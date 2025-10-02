@@ -2295,6 +2295,7 @@
 ["cfitsio","3.450","4.6.2","runtime-imaging",1531513115,["Compliance mode enabled, was '4.6.2'"]],
 ["libpng","1.6.44","1.6.50","runtime-imaging",1734433307,["Compliance mode enabled, was '1.6.50'"]],
 ["openimageio","2.4.17.0","3.0.11.0","runtime-imaging",1702112652,["Compliance mode enabled, was '3.0.11.0'"]],
+["babl","0.1.114","0.1.116","runtime-imaging",1747623453,["Compliance mode enabled, was '0.1.116'"]],
 ["libvips","8.17.1","8.17.2","runtime-imaging",1756985559,["Compliance mode enabled, was '8.17.2'"]],
 ["opencsg","1.5.1","1.8.1","runtime-imaging",1672817129,["Compliance mode enabled, was '1.8.1'"]],
 ["openimagedenoise","1.4.3","2.3.3","runtime-imaging",1687941313,["Compliance mode enabled, was '2.3.3'"]],
