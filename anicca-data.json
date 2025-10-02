@@ -2240,7 +2240,6 @@
 ["lvm2","2.03.14","2.03.35","app-admin",1641887332,["Compliance mode enabled, was '2.03.35'"]],
 ["targetcli-fb","2.1.54","3.0.1","app-admin",1641887332,["Compliance mode enabled, was '3.0.1'"]],
 ["oath-toolkit","2.6.12","2.6.13","app-admin",1728134732,["Compliance mode enabled, was '2.6.13'"]],
-["dart-sdk","3.8.2","3.9.4","lang-dart",1753688830,["Compliance mode enabled, was '3.9.4'"]],
 ["sqlmap","1.9.5","1.9.9","app-penetration",1749045088,["Compliance mode enabled, was '1.9.9'"]],
 ["mdk4","4.2+git20240816","4.2","app-penetration",1755677805,["Compliance mode enabled, was '4.2'"]],
 ["hashcat","6.2.6","7.1.2","app-penetration",1674116708,["Compliance mode enabled, was '7.1.2'"]],
