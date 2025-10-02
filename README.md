@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759381947?label=Updated)
+![Relative date](https://img.shields.io/date/1759385799?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -813,6 +813,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hypothesis-python|6.97.4|6.140.2|lang-python|Compliance mode enabled, was '6.140.2'|
+|hysteria|2.6.3|2.6.4|app-proxy|Compliance mode enabled, was '2.6.4'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -1033,6 +1034,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khtml|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ki18n|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kicad|9.0.4|9.0.5|app-electronics|Compliance mode enabled, was '9.0.5'|
+|kiconthemes|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kidletime|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
@@ -1205,7 +1207,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktuberling|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kturtle|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|kubo|0.33.2|0.37.0|app-proxy|Compliance mode enabled, was '0.37.0'|
+|kubo|0.33.2|0.38.0|app-proxy|Compliance mode enabled, was '0.38.0'|
 |kubrick|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kunitconversion|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
@@ -1890,7 +1892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
 |oslo-serialization|5.4.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |oslo-utils|7.2.0|9.1.0|lang-python|Compliance mode enabled, was '9.1.0'|
-|osu-lazer|2025.816.0-lazer|2025.912.0-lazer|app-games||
+|osu-lazer|2025.816.0-lazer|2025.1002.0|app-games||
 |owntone|28.12|29.0|app-multimedia|Compliance mode enabled, was '29.0'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
