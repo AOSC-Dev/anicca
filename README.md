@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759486390?label=Updated)
+![Relative date](https://img.shields.io/date/1759489874?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -1882,7 +1882,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |osinfo-db|20240701|20250606|app-admin|Compliance mode enabled, was '20250606'|
 |osinfo-db-tools|1.10.0|1.12.0|app-admin|Compliance mode enabled, was '1.12.0'|
-|oslo-config|9.5.0|10.0.0|lang-python|Compliance mode enabled, was '10.0.0'|
 |oslo-i18n|6.3.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
 |oslo-serialization|5.4.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |oslo-utils|7.2.0|9.1.0|lang-python|Compliance mode enabled, was '9.1.0'|
@@ -2687,7 +2686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tea|0.10.1|0.11.0|app-devel|Compliance mode enabled, was '0.11.0'|
-|teams-for-linux|2.2.1|2.5.9|app-web|Compliance mode enabled, was '2.5.9'|
+|teams-for-linux|2.2.1|2.5.10|app-web|Compliance mode enabled, was '2.5.10'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
@@ -2836,7 +2835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1788|9.1.1818|app-editors|Compliance mode enabled, was '9.1.1818'|
+|vim|9.1.1788|9.1.1821|app-editors|Compliance mode enabled, was '9.1.1821'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
@@ -2944,7 +2943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |yakuake-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |yara|4.5.3|4.5.4|app-utils|Compliance mode enabled, was '4.5.4'|
-|yaru|25.10.2-0ubuntu1|25.10.3|desktop-themes||
+|yaru|25.10.2-0ubuntu1|25.10.3-0ubuntu1|desktop-themes||
 |yaz|5.34.0|5.35.1|runtime-web|Compliance mode enabled, was '5.35.1'|
 |ydcv-rs|0.7.0|0.7.1|app-i18n|Compliance mode enabled, was '0.7.1'|
 |yelp|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
