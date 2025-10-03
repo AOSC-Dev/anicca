@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759525741?label=Updated)
+![Relative date](https://img.shields.io/date/1759529513?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -168,8 +168,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.44|lang-python|Compliance mode enabled, was '1.40.44'|
-|botocore|1.40.25|1.40.44|lang-python|Compliance mode enabled, was '1.40.44'|
+|boto3|1.40.25|1.40.45|lang-python|Compliance mode enabled, was '1.40.45'|
+|botocore|1.40.25|1.40.45|lang-python|Compliance mode enabled, was '1.40.45'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.24|app-utils|Compliance mode enabled, was '51.24'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.24)|
 |bovo|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -481,6 +481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |expat+32|2.7.2|2.7.3|runtime-optenv32|Compliance mode enabled, was '2.7.3'|
 |extra-cmake-modules|5.115.0|6.18.0|app-devel|Compliance mode enabled, was '6.18.0'|
 |eyed3|0.9.5|0.9.8|lang-python|Compliance mode enabled, was '0.9.8'|
+|eza|0.23.3|0.23.4|app-utils|Compliance mode enabled, was '0.23.4'|
 |f3|8.0|9.0|app-utils|Compliance mode enabled, was '9.0'|
 |faac|1.29.9.2|1.31.1|app-multimedia|Compliance mode enabled, was '1.31.1'|
 |faac+32|1.29.9.2|1.31.1|runtime-optenv32|Compliance mode enabled, was '1.31.1'|
@@ -2499,7 +2500,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simde|0.8.4~rc1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4~rc1 -> 0.8.2)|
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
-|simplejson|3.16.0|3.20.2|lang-python|Compliance mode enabled, was '3.20.2'|
 |singular|4.1.1|2025.08.26|app-scientific|Compliance mode enabled, was '2025.08.26'|
 |skanlite|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |skanpage|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2687,6 +2687,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdmtheme|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tea|0.10.1|0.11.0|app-devel|Compliance mode enabled, was '0.11.0'|
+|tealdeer|1.7.2|1.8.0|app-doc|Compliance mode enabled, was '1.8.0'|
 |teams-for-linux|2.2.1|2.5.10|app-web|Compliance mode enabled, was '2.5.10'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
