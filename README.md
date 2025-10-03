@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759504418?label=Updated)
+![Relative date](https://img.shields.io/date/1759507978?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -388,7 +388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
 |docker|28.0.4|28.5.0|app-containers||
-|docker-buildx|0.22.0|0.29.0|app-containers|Compliance mode enabled, was '0.29.0'|
+|docker-buildx|0.22.0|0.29.1|app-containers|Compliance mode enabled, was '0.29.1'|
 |docker-compose|2.35.0|2.40.0|app-containers|Compliance mode enabled, was '2.40.0'|
 |docutils|0.21.2|0.22.2|lang-python|Compliance mode enabled, was '0.22.2'|
 |dolphin|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -789,7 +789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highlight|4.12|4.17|app-devel|Compliance mode enabled, was '4.17'|
 |highway|1.2.0|1.3.0|runtime-common|Compliance mode enabled, was '1.3.0'|
 |hitori|3.38.4|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|hmcl|3.6.18|3.7.0.298|app-games|Compliance mode enabled, was '3.7.0.298'|
+|hmcl|3.6.18|3.7.0.300|app-games|Compliance mode enabled, was '3.7.0.300'|
 |hotdoc|0.13.7|0.17.4|app-doc|Compliance mode enabled, was '0.17.4'|
 |hplip|3.25.2|3.25.6|app-doc|Compliance mode enabled, was '3.25.6'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
@@ -1240,6 +1240,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
 |ldc|1.38.0|1.41.0|lang-dlang|Compliance mode enabled, was '1.41.0'|
 |lego|4.25.1|4.26.0|app-web|Compliance mode enabled, was '4.26.0'|
+|leptonica|1.84.1|1.86.0|app-scientific|Compliance mode enabled, was '1.86.0'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
 |libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libarchive|3.7.8|3.8.1|runtime-common|Compliance mode enabled, was '3.8.1'|
