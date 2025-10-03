@@ -2182,7 +2182,7 @@
 ["gsmartcontrol","1.1.3","2.0.2","app-admin",1528373229,["Compliance mode enabled, was '2.0.2'"]],
 ["cockpit-machines","284.1","341","app-admin",1678351353,["Compliance mode enabled, was '341'"]],
 ["cups-browsed","2.0.1","2.1.1","app-admin",1727401649,["Compliance mode enabled, was '2.1.1'"]],
-["bpftrace","0.23.5","0.24.0","app-admin",1754315942,["Compliance mode enabled, was '0.24.0'"]],
+["bpftrace","0.23.5","0.24.1","app-admin",1754315942,["Compliance mode enabled, was '0.24.1'"]],
 ["b43-firmware-installer","20160210","019","app-admin",1678950872,["Compliance mode enabled, was '019'","Possible downgrade from the current version (20160210 -> 019)"]],
 ["ansible","2.12.1","2.19.2","app-admin",1641887332,["Compliance mode enabled, was '2.19.2'"]],
 ["hwloc","2.10.0","2.12.2","app-admin",1716736819,["Compliance mode enabled, was '2.12.2'"]],
