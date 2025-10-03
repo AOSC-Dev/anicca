@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759461965?label=Updated)
+![Relative date](https://img.shields.io/date/1759464934?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -220,6 +220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catatonit|0.2.0|0.2.1|app-admin|Compliance mode enabled, was '0.2.1'|
 |catch2|3.8.1|3.11.0|runtime-common|Compliance mode enabled, was '3.11.0'|
 |cava|0.10.5|0.10.6|app-multimedia|Compliance mode enabled, was '0.10.6'|
+|cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.10.2|4.12.1|app-devel|Compliance mode enabled, was '4.12.1'|
 |ccid|1.5.1|1.7.0|runtime-devices|Compliance mode enabled, was '1.7.0'|
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
@@ -1672,6 +1673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |mingw+w64|12.0.0|13.0.0|runtime-optenvw64|Compliance mode enabled, was '13.0.0'|
 |mini-portile|2.8.8|2.8.9|lang-ruby|Compliance mode enabled, was '2.8.9'|
+|minikube|1.35.0|1.37.0|app-containers|Compliance mode enabled, was '1.37.0'|
 |miniserve|0.29.0|0.32.0|app-web|Compliance mode enabled, was '0.32.0'|
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
@@ -1893,8 +1895,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p11-kit|0.25.5|0.25.10|runtime-cryptography|Compliance mode enabled, was '0.25.10'|
 |p11-kit+32|0.25.5|0.25.10|runtime-optenv32|Compliance mode enabled, was '0.25.10'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
-|packagekit|1.3.0|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
-|packagekit-qt|1.1.1|1.1.3|desktop-kde|Compliance mode enabled, was '1.1.3'|
+|packagekit|1.3.0|1.3.2|app-admin|Compliance mode enabled, was '1.3.2'|
+|packagekit-qt|1.1.1|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
 |packaging|24.2|25.0|lang-python|Compliance mode enabled, was '25.0'|
 |pahole|1.25|1.30|app-utils|Compliance mode enabled, was '1.30'|
 |pakfixer|0.1.4|0.1.3|app-utils|Compliance mode enabled, was '0.1.3'<br>Possible downgrade from the current version (0.1.4 -> 0.1.3)|
