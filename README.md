@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759475539?label=Updated)
+![Relative date](https://img.shields.io/date/1759479316?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.0.26|0.27.1|app-games|Compliance mode enabled, was '0.27.1'|
@@ -358,6 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
 |deluge|2.1.1|2.2.0|app-web|Compliance mode enabled, was '2.2.0'|
 |delve|1.24.0|1.25.2|lang-golang|Compliance mode enabled, was '1.25.2'|
+|deno|2.5.2|2.5.3|lang-js|Compliance mode enabled, was '2.5.3'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.2.18|lang-python|Compliance mode enabled, was '1.2.18'|
 |deskflow|1.23.0|1.24.0|app-utils|Compliance mode enabled, was '1.24.0'|
@@ -739,7 +740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer|1.26.4|1.26.6|runtime-multimedia|Compliance mode enabled, was '1.26.6'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
 |gtk-4|4.20.1|4.20.2|desktop-gnome|Compliance mode enabled, was '4.20.2'|
-|gtk-doc|1.34.0|1.35.0|app-doc|Compliance mode enabled, was '1.35.0'|
+|gtk-doc|1.34.0|1.35.1|app-doc|Compliance mode enabled, was '1.35.1'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
 |gtk-layer-shell|0.9.0|0.9.2|runtime-desktop|Compliance mode enabled, was '0.9.2'|
 |gtk-qt-engine|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1115,7 +1116,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-inputstream-rtmp|21.1.2|2.0.2|app-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (21.1.2 -> 2.0.2)|
 |kodi-pvr-iptvsimple|21.10.2|22.5.2-piers|app-multimedia|Compliance mode enabled, was '22.5.2-Piers'|
 |koffice-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|koko|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kolf|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kollision|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kolourpaint|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
