@@ -2191,7 +2191,6 @@
 ["tpm-tools","1.3.9.1","1.3.9.2","app-admin",1554223917,["Compliance mode enabled, was '1.3.9.2'"]],
 ["dkms","3.1.1","3.2.2","app-admin",1732598190,["Compliance mode enabled, was '3.2.2'"]],
 ["upower","1.90.6","1.90.10","app-admin",1733052939,["Compliance mode enabled, was '1.90.10'"]],
-["fwupd-efi","1.7","1.8","app-admin",1743473069,["Compliance mode enabled, was '1.8'"]],
 ["sg3-utils","1.47r915","1.48","app-admin",1641887332,["Compliance mode enabled, was '1.48'"]],
 ["squashfuse","0.1.105","0.6.1","app-admin",1663359141,["Compliance mode enabled, was '0.6.1'"]],
 ["cockpit-podman","63","114","app-admin",1678351353,["Compliance mode enabled, was '114'"]],
