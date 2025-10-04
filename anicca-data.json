@@ -2966,6 +2966,7 @@
 ["pylsqpack","0.3.18","0.3.22","lang-python",1738033645,["Compliance mode enabled, was '0.3.22'"]],
 ["networkx","2.8.5","3.5","lang-python",1663210209,["Compliance mode enabled, was '3.5'"]],
 ["py-filelock","3.14.0","3.19.1","lang-python",1717069213,["Compliance mode enabled, was '3.19.1'"]],
+["wine","10.15","10.16","app-emulation",1757816600,[]],
 ["simh","3.11+1","3.12+2","app-emulation",1570478208,["Compliance mode enabled, was '3.12-2'"]],
 ["latx","1.6.1","1.6.2","app-emulation",1747275439,[]],
 ["q4wine","1.3.13","1.4.2","app-emulation",1711528680,["Compliance mode enabled, was '1.4.2'"]],
