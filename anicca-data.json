@@ -634,7 +634,6 @@
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
 ["ethtool","6.11","6.15","app-network",1732091390,["Compliance mode enabled, was '6.15'"]],
 ["zsync","0.6.2","0.6.3","app-network",1478232519,["Compliance mode enabled, was '0.6.3'"]],
-["mitmproxy","11.0.0","12.1.2","app-network",1738033645,[]],
 ["lksctp-tools","1.0.17","1.0.21","app-network",1469677898,["Compliance mode enabled, was '1.0.21'"]],
 ["libteam","1.31","1.32","app-network",1629005021,["Compliance mode enabled, was '1.32'"]],
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
