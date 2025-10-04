@@ -2623,7 +2623,6 @@
 ["supercollider","3.13.0","3.14.0","app-creativity",1741498511,["Compliance mode enabled, was '3.14.0'"]],
 ["vmpk","0.9.0","0.9.1","app-creativity",1723366283,["Compliance mode enabled, was '0.9.1'"]],
 ["rosegarden","24.12","25.06","app-creativity",1733375989,["Compliance mode enabled, was '25.06'"]],
-["blender","4.0.2","4.5.3","app-creativity",1710216829,["Compliance mode enabled, was '4.5.3'"]],
 ["oauthlib","3.2.2","3.3.1","lang-python",1716210109,["Compliance mode enabled, was '3.3.1'"]],
 ["psycopg2","2.8.6","2.9.10","lang-python",1600671246,["Compliance mode enabled, was '2.9.10'"]],
 ["wcwidth","0.1.8","0.2.14","lang-python",1581796622,["Compliance mode enabled, was '0.2.14'"]],
