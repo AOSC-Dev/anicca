@@ -626,7 +626,7 @@
 ["libc+wasi","22","27","runtime-wasi",1721811147,["Compliance mode enabled, was '27'"]],
 ["llvm-runtime+wasi","20.1.8","21.1.2","runtime-wasi",1754625315,["Compliance mode enabled, was '21.1.2'"]],
 ["netbird","0.55.1","0.59.2","app-network",1757212210,["Compliance mode enabled, was '0.59.2'"]],
-["nanomsg","1.1.5","1.2.1","app-network",1549919967,["Compliance mode enabled, was '1.2.1'"]],
+["nanomsg","1.1.5","1.2.2","app-network",1549919967,["Compliance mode enabled, was '1.2.2'"]],
 ["ipcalc","0.41","1.0.3","app-network",1510542874,["Compliance mode enabled, was '1.0.3'"]],
 ["ethtool","6.11","6.15","app-network",1732091390,["Compliance mode enabled, was '6.15'"]],
 ["zsync","0.6.2","0.6.3","app-network",1478232519,["Compliance mode enabled, was '0.6.3'"]],
