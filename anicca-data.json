@@ -2839,7 +2839,7 @@
 ["josepy","1.13.0","2.1.0","lang-python",1678950872,["Compliance mode enabled, was '2.1.0'"]],
 ["coloredlogs","10.0","15.0.1","lang-python",1658966837,["Compliance mode enabled, was '15.0.1'"]],
 ["argparse-manpage","4.5","4.7","lang-python",1707299111,["Compliance mode enabled, was '4.7'"]],
-["certifi","2024.7.4","2025.8.3","lang-python",1720103195,["Compliance mode enabled, was '2025.8.3'"]],
+["certifi","2024.7.4","2025.10.5","lang-python",1720103195,["Compliance mode enabled, was '2025.10.5'"]],
 ["et-xmlfile","1.0.1","2.0.0","lang-python",1482382343,["Compliance mode enabled, was '2.0.0'"]],
 ["pandas","2.1.2","2.3.3","lang-python",1700797896,["Compliance mode enabled, was '2.3.3'"]],
 ["tqdm","4.62.3","4.67.1","lang-python",1577362345,["Compliance mode enabled, was '4.67.1'"]],
