@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759702244?label=Updated)
+![Relative date](https://img.shields.io/date/1759705724?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1191,7 +1191,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktechlab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |ktextaddons|1.5.3|1.7.1|desktop-kde|Compliance mode enabled, was '1.7.1'|
-|ktexteditor|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktextwidgets|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktimer|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktnef|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1899,7 +1898,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
 |pandas|2.1.2|2.3.3|lang-python|Compliance mode enabled, was '2.3.3'|
-|pandoc|3.6.3|3.8.1|app-doc|Compliance mode enabled, was '3.8.1'|
+|pandoc|3.6.3|3.8.2|app-doc|Compliance mode enabled, was '3.8.2'|
 |pango|1.56.1|1.56.4|runtime-desktop|Compliance mode enabled, was '1.56.4'|
 |pango+32|1.56.1|1.56.4|runtime-optenv32|Compliance mode enabled, was '1.56.4'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
@@ -2130,7 +2129,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-thunderbolt|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-vault|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-wayland-protocols|1.10.0|1.19.0|desktop-kde|Compliance mode enabled, was '1.19.0'|
-|plasma-welcome|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-workspace|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasma-workspace-wallpapers|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |plasmatube|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
