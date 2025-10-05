@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759688069?label=Updated)
+![Relative date](https://img.shields.io/date/1759691087?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -705,7 +705,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.41.1|lang-python|Compliance mode enabled, was '2.41.1'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |goreleaser|2.8.2|2.12.5|lang-golang|Compliance mode enabled, was '2.12.5'|
-|goverlay|1.2|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
+|goverlay|1.2|1.5.0|app-utils|Compliance mode enabled, was '1.5.0'|
 |gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
 |gphoto2|2.5.28|2.5.32|app-imaging|Compliance mode enabled, was '2.5.32'|
@@ -834,7 +834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|1.0.0|runtime-scientific|Compliance mode enabled, was '1.0.0'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
 |imagemagick|6.9.13<br>+16|6.9.13+29|app-utils|Compliance mode enabled, was '6.9.13-29'|
-|imagemagick+7|7.1.1<br>+32|7.1.2+3|app-utils|Compliance mode enabled, was '7.1.2-3'|
+|imagemagick+7|7.1.1<br>+32|7.1.2+4|app-utils|Compliance mode enabled, was '7.1.2-4'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.2.1|runtime-display|Compliance mode enabled, was '3.2.1'|
 |img2pdf|0.5.1|0.6.1|app-doc|Compliance mode enabled, was '0.6.1'|
@@ -2935,6 +2935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |yakuake-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |yara|4.5.3|4.5.4|app-utils|Compliance mode enabled, was '4.5.4'|
+|yarl|1.20.1|1.21.0|lang-python|Compliance mode enabled, was '1.21.0'|
 |yaz|5.34.0|5.35.1|runtime-web|Compliance mode enabled, was '5.35.1'|
 |ydcv-rs|0.7.0|0.7.1|app-i18n|Compliance mode enabled, was '0.7.1'|
 |yelp|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
