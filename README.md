@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759711496?label=Updated)
+![Relative date](https://img.shields.io/date/1759717239?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1345,6 +1345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdcraw-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libkdegames|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |libkdepim|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|libkeduvocdocument|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |libkexiv2|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |libkexiv2-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libkgapi|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -2807,6 +2808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.8.22|0.8.23|lang-python|Compliance mode enabled, was '0.8.23'|
 |v2ray|5.37.0|5.40.0|app-proxy|Compliance mode enabled, was '5.40.0'|
+|v2ray-rules-dat|202510042211|202510052212|runtime-data|Compliance mode enabled, was '202510052212'<br>Versions not comparable: `202510042211` and `202510052212`|
 |v2raya|2.2.6.6|2.2.7.2|app-proxy|Compliance mode enabled, was '2.2.7.2'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
