@@ -2032,7 +2032,6 @@
 ["perl-crypt-ssleay","0.73+06","0.72","lang-perl",1530196415,["Compliance mode enabled, was '0.72'","Possible downgrade from the current version (0.73+06 -> 0.72)"]],
 ["perl-datetime","1.52","1.66","lang-perl",1596485703,["Compliance mode enabled, was '1.66'"]],
 ["perl-term-readline-gnu","1.36","1.47","lang-perl",1551145623,["Compliance mode enabled, was '1.47'"]],
-["perl-html-tagset","3.20","3.24","lang-perl",1678950872,["Compliance mode enabled, was '3.24'"]],
 ["pcsc-perl","1.4.14","1.4.16","lang-perl",1449274835,["Compliance mode enabled, was '1.4.16'"]],
 ["perl-http-message","6.11","7.00","lang-perl",1678950872,["Compliance mode enabled, was '7.00'"]],
 ["perl-email-abstract","3.008","3.010","lang-perl",1678950872,["Compliance mode enabled, was '3.010'"]],
