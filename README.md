@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759724035?label=Updated)
+![Relative date](https://img.shields.io/date/1759727645?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -717,6 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grantleetheme|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |graphene|1.10.2|1.10.8|runtime-imaging|Compliance mode enabled, was '1.10.8'|
 |graphicsmagick|1.3.43|1.3.45|app-utils|Compliance mode enabled, was '1.3.45'|
+|graphviz|14.0.0|14.0.1|app-doc|Compliance mode enabled, was '14.0.1'|
 |grilo|0.3.15|0.3.19|desktop-gnome|Compliance mode enabled, was '0.3.19'|
 |grilo-plugins|0.3.15|0.3.18|desktop-gnome|Compliance mode enabled, was '0.3.18'|
 |gringo|5.7.1|5.8.0|app-devel|Compliance mode enabled, was '5.8.0'|
@@ -2912,6 +2913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20230318|2.99.917|runtime-display|Compliance mode enabled, was '2.99.917'|
 |xf86-video-r128|6.12.1|6.10.0|runtime-display|Compliance mode enabled, was '6.10.0'<br>Possible downgrade from the current version (6.12.1 -> 6.10.0)|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
+|xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xiccd|0.3.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
