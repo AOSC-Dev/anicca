@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759825032?label=Updated)
+![Relative date](https://img.shields.io/date/1759828430?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2794,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unibilium|2.1.1|2.1.2|runtime-common|Compliance mode enabled, was '2.1.2'|
 |unicode-ucd|15.1.0|16.0.0|runtime-data|Compliance mode enabled, was '16.0.0'|
 |units|2.23|2.24|app-utils|Compliance mode enabled, was '2.24'|
-|unixodbc|2.3.9|2.3.13|app-database|Compliance mode enabled, was '2.3.13'|
+|unixodbc|2.3.9|2.3.14|app-database|Compliance mode enabled, was '2.3.14'|
 |unrar|6.2.2|7.1.10|app-utils|Compliance mode enabled, was '7.1.10'|
 |unshield|1.4.3|1.6.2|app-utils|Compliance mode enabled, was '1.6.2'|
 |upower|1.90.6|1.90.10|app-admin|Compliance mode enabled, was '1.90.10'|
@@ -2811,7 +2811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41.2|app-utils|Compliance mode enabled, was '2.41.2'|
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|uv|0.8.22|0.8.23|lang-python|Compliance mode enabled, was '0.8.23'|
+|uv|0.8.22|0.8.24|lang-python|Compliance mode enabled, was '0.8.24'|
 |v2ray|5.37.0|5.40.0|app-proxy|Compliance mode enabled, was '5.40.0'|
 |v2ray-rules-dat|202510042211|202510062212|runtime-data|Compliance mode enabled, was '202510062212'<br>Versions not comparable: `202510042211` and `202510062212`|
 |v2raya|2.2.6.6|2.2.7.2|app-proxy|Compliance mode enabled, was '2.2.7.2'|
@@ -2883,6 +2883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |whisper.cpp|1.7.6|1.8.0|runtime-creativity|Compliance mode enabled, was '1.8.0'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wine|10.15|10.16|app-emulation||
+|wireless-regdb|2025.07.10|2025.10.07|app-network|Compliance mode enabled, was '2025.10.07'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wqy-unibit|1.1.0|9.5.0|desktop-fonts|Compliance mode enabled, was '9.5.0'|
