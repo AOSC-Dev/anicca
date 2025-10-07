@@ -2941,6 +2941,7 @@
 ["jupyter-client","5.2.4","8.6.3","lang-python",1549919968,["Compliance mode enabled, was '8.6.3'"]],
 ["virtualenv","20.27.1","20.34.0","lang-python",1732598160,["Compliance mode enabled, was '20.34.0'"]],
 ["pynput","1.7.6","1.8.1","lang-python",1658966837,["Compliance mode enabled, was '1.8.1'"]],
+["pycryptodome","3.22.0x","3.23.0","lang-python",1747531398,["Compliance mode enabled, was '3.23.0'"]],
 ["asttokens","2.4.1","3.0.0","lang-python",1728614181,["Compliance mode enabled, was '3.0.0'"]],
 ["rfc3986","1.4.0","2.0.0","lang-python",1595301997,["Compliance mode enabled, was '2.0.0'"]],
 ["wtforms","2.2.1","3.2.1","lang-python",1530283385,["Compliance mode enabled, was '3.2.1'"]],
