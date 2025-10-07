@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759861095?label=Updated)
+![Relative date](https://img.shields.io/date/1759863879?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -225,10 +225,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cerberus|1.3.2|1.3.7|lang-python|Compliance mode enabled, was '1.3.7'|
-|certbot|2.11.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
-|certbot-apache|2.10.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
+|certbot|2.11.0|5.1.0|app-web|Compliance mode enabled, was '5.1.0'|
+|certbot-apache|2.10.0|5.1.0|app-web|Compliance mode enabled, was '5.1.0'|
 |certbot-dns-cloudflare|2.10.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
-|certbot-nginx|2.10.0|5.0.0|app-web|Compliance mode enabled, was '5.0.0'|
+|certbot-nginx|2.10.0|5.1.0|app-web|Compliance mode enabled, was '5.1.0'|
 |certifi|2024.7.4|2025.10.5|lang-python|Compliance mode enabled, was '2025.10.5'|
 |cervisia|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |cffi|1.15.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
@@ -1031,6 +1031,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khtml|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ki18n|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kicad|9.0.4|9.0.5|app-electronics|Compliance mode enabled, was '9.0.5'|
+|kiconthemes|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kidletime|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
