@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759857065?label=Updated)
+![Relative date](https://img.shields.io/date/1759861095?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1031,7 +1031,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khtml|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ki18n|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kicad|9.0.4|9.0.5|app-electronics|Compliance mode enabled, was '9.0.5'|
-|kiconthemes|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kidletime|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
@@ -2216,7 +2215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptodomex|3.22.0x|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycurl|7.45.3|7.45.7|lang-python|Compliance mode enabled, was '7.45.7'|
-|pydantic|2.6.0|2.11.10|lang-python|Compliance mode enabled, was '2.11.10'|
+|pydantic|2.6.0|2.12.0|lang-python|Compliance mode enabled, was '2.12.0'|
 |pydantic-core|2.16.1|2.41.1|lang-python|Compliance mode enabled, was '2.41.1'|
 |pydot|1.4.1|4.0.1|lang-python|Compliance mode enabled, was '4.0.1'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
