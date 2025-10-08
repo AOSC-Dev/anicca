@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759957965?label=Updated)
+![Relative date](https://img.shields.io/date/1759961497?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -845,7 +845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick|6.9.13<br>+16|6.9.13+30|app-utils|Compliance mode enabled, was '6.9.13-30'|
 |imagemagick+7|7.1.1<br>+32|7.1.2+5|app-utils|Compliance mode enabled, was '7.1.2-5'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
-|imath|3.1.11|3.2.1|runtime-display|Compliance mode enabled, was '3.2.1'|
+|imath|3.1.11|3.2.2|runtime-display|Compliance mode enabled, was '3.2.2'|
 |img2pdf|0.5.1|0.6.1|app-doc|Compliance mode enabled, was '0.6.1'|
 |imlib2|1.5.1|1.12.5|runtime-imaging|Compliance mode enabled, was '1.12.5'|
 |imlib2+32|1.5.1|1.12.5|runtime-optenv32|Compliance mode enabled, was '1.12.5'|
@@ -1210,7 +1210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktuberling|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kturtle|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|kubo|0.33.2|0.38.0|app-proxy|Compliance mode enabled, was '0.38.0'|
+|kubo|0.33.2|0.38.1|app-proxy|Compliance mode enabled, was '0.38.1'|
 |kubrick|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |kunitconversion|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
