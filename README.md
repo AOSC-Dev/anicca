@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759938489?label=Updated)
+![Relative date](https://img.shields.io/date/1759940153?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -131,6 +131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
+|awesfx|0.5.1e|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
 |ayano|0.1.4|0.1.5+2|app-network|Compliance mode enabled, was '0.1.5-2'|
 |b2sdk|2.5.0|2.10.0|lang-python|Compliance mode enabled, was '2.10.0'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
@@ -241,7 +242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|cherry-studio|1.6.1|1.6.2|app-utils|Compliance mode enabled, was '1.6.2'|
+|cherry-studio|1.6.1|1.6.3|app-utils|Compliance mode enabled, was '1.6.3'|
 |chezmoi|2.65.2|2.66.0|app-utils|Compliance mode enabled, was '2.66.0'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.603|desktop-fonts|Compliance mode enabled, was '2.603'|
@@ -387,7 +388,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|28.0.4|28.5.0|app-containers||
+|docker|28.0.4|28.5.1|app-containers||
 |docker-buildx|0.22.0|0.29.1|app-containers|Compliance mode enabled, was '0.29.1'|
 |docker-compose|2.35.0|2.40.0|app-containers|Compliance mode enabled, was '2.40.0'|
 |docutils|0.21.2|0.22.2|lang-python|Compliance mode enabled, was '0.22.2'|
@@ -1432,7 +1433,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |libqalculate|4.5.1|5.7.0|runtime-scientific|Compliance mode enabled, was '5.7.0'|
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
-|libqtxdg|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |libquotient|0.8.2|0.9.5|runtime-web|Compliance mode enabled, was '0.9.5'|
 |libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
 |libreoffice|25.8.0.4|25.8.2.2|groups|Compliance mode enabled, was '25.8.2.2'|
@@ -1682,7 +1682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
-|mise|2025.8.9|2025.10.5|app-devel|Compliance mode enabled, was '2025.10.5'|
+|mise|2025.8.9|2025.10.6|app-devel|Compliance mode enabled, was '2025.10.6'|
 |mitmproxy|11.0.0|12.1.2|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -1720,7 +1720,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.12.0|app-admin|Compliance mode enabled, was '0.12.0'|
 |mupdf|1.24.10|1.26.10|app-doc|Compliance mode enabled, was '1.26.10'|
 |murrine|0.98.2<br>+20160321|0.98.2|desktop-gnome|Compliance mode enabled, was '0.98.2'<br>Possible downgrade from the current version (0.98.2+20160321 -> 0.98.2)|
-|musescore|4.3.2|4.6.0|app-creativity|Compliance mode enabled, was '4.6.0'|
+|musescore|4.3.2|4.6.1|app-creativity|Compliance mode enabled, was '4.6.1'|
 |musicfox|4.6.6|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |mutter|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |mvfst|2025.09.01.00|2025.10.06.00|runtime-network|Compliance mode enabled, was '2025.10.06.00'|
@@ -1768,7 +1768,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |nghttp2|1.65.0|1.67.1|runtime-web|Compliance mode enabled, was '1.67.1'|
 |nghttp3|1.3.0|1.12.0|runtime-web|Compliance mode enabled, was '1.12.0'|
-|nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.2|app-web|Compliance mode enabled, was '1.29.2'|
 |ngspice|35|45.2|app-electronics|Compliance mode enabled, was '45.2'|
 |ngtcp2|1.5.0|1.16.0|runtime-web|Compliance mode enabled, was '1.16.0'|
 |nifti|3.0.1|last_spm5_version|runtime-imaging|Compliance mode enabled, was 'last_spm5_version'<br>Versions not comparable: `3.0.1` and `last_spm5_version`|
@@ -2577,7 +2576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.4.321.0|2025.4|runtime-display|Compliance mode enabled, was '2025.4'|
 |spirv-tools+32|1.4.321.0|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
 |sqlalchemy|1.2.18|2.0.43|lang-python|Compliance mode enabled, was '2.0.43'|
-|sqlcipher|4.5.6|4.10.0|app-database|Compliance mode enabled, was '4.10.0'|
+|sqlcipher|4.5.6|4.11.0|app-database|Compliance mode enabled, was '4.11.0'|
 |sqlite|3500400|3.50.4|app-database|Possible downgrade from the current version (3500400 -> 3.50.4)|
 |sqlite+32|3.46.1|3.50.4|runtime-optenv32|Compliance mode enabled, was '3.50.4'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
