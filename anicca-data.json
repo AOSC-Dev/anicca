@@ -1658,6 +1658,7 @@
 ["texlive","20250308","2025","app-doc",1741568660,["Compliance mode enabled, was '2025'","Possible downgrade from the current version (20250308 -> 2025)"]],
 ["doxyqml","0.5.0","0.5.3","app-doc",1550134266,["Compliance mode enabled, was '0.5.3'"]],
 ["sphinxcontrib-applehelp","1.0.2","2.0.0","app-doc",1584399046,["Compliance mode enabled, was '2.0.0'"]],
+["scdoc","1.11.2","1.11.3","app-doc",1641132477,["Compliance mode enabled, was '1.11.3'"]],
 ["html2ps","1.0b7","1.0~b7","app-doc",1625211684,["Compliance mode enabled, was '1.0b7'"]],
 ["zeal","0.7.0","0.7.2","app-doc",1715608577,["Compliance mode enabled, was '0.7.2'"]],
 ["sphinx","7.0.1","8.2.3","app-doc",1700548607,["Compliance mode enabled, was '8.2.3'"]],
