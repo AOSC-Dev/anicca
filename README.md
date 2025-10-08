@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1759954434?label=Updated)
+![Relative date](https://img.shields.io/date/1759957965?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -183,7 +183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |breezy|3.3.12|3.3.13|app-vcs|Compliance mode enabled, was '3.3.13'|
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
-|bspwm|0.9.10|0.9.11|desktop-wm|Compliance mode enabled, was '0.9.11'|
+|bspwm|0.9.10|0.9.12|desktop-wm|Compliance mode enabled, was '0.9.12'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.41.5|app-containers|Compliance mode enabled, was '1.41.5'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -1560,7 +1560,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|6615|6713|runtime-creativity|Compliance mode enabled, was '6713'|
+|llama.cpp|6615|6714|runtime-creativity|Compliance mode enabled, was '6714'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.3|runtime-optenv32|Compliance mode enabled, was '21.1.3'|
@@ -2403,7 +2403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|6.4.3|7.0.1|runtime-rocm|Compliance mode enabled, was '7.0.1'|
 |rocm-hipsparse|6.4.3|20250912.17|runtime-rocm|Compliance mode enabled, was '20250912-17'|
-|rocm-llama-cpp|6.4.3|6713|runtime-rocm|Compliance mode enabled, was '6713'|
+|rocm-llama-cpp|6.4.3|6714|runtime-rocm|Compliance mode enabled, was '6714'|
 |rocm-llvm|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|6.4.3|14.3.0|runtime-rocm|Compliance mode enabled, was '14.3.0'|
@@ -2847,7 +2847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1788|9.1.1837|app-editors|Compliance mode enabled, was '9.1.1837'|
+|vim|9.1.1788|9.1.1840|app-editors|Compliance mode enabled, was '9.1.1840'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
@@ -2969,7 +2969,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zbar|0.23.90|0.23.93|app-utils|Compliance mode enabled, was '0.23.93'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.205.4|0.206.7|app-editors|Compliance mode enabled, was '0.206.7'|
+|zed|0.205.4|0.207.3|app-editors|Compliance mode enabled, was '0.207.3'|
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
