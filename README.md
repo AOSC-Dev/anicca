@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760029511?label=Updated)
+![Relative date](https://img.shields.io/date/1760033885?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -996,7 +996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesignerplugin|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kdesu|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kdev-python|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|kdevelop|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|kdevelop|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kdewebkit|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kdf|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kdiagram|2.8.0|3.0.1|desktop-kde|Compliance mode enabled, was '3.0.1'|
@@ -1227,7 +1227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kwayland-integration|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |kweather|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|kweathercore|0.7|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
+|kweathercore|0.7|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kwidgetsaddons|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |kwin|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |kwindowsystem|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
