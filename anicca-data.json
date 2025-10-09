@@ -671,6 +671,7 @@
 ["xinetd","2.3.15","2.3.15.4","app-network",1678950872,["Compliance mode enabled, was '2.3.15.4'"]],
 ["sshpass","1.06","1.10","app-network",1552787668,["Compliance mode enabled, was '1.10'"]],
 ["syncthing","2.0.9","2.0.10","app-network",1757933189,["Compliance mode enabled, was '2.0.10'"]],
+["wireshark","4.4.9","4.6.0","app-network",1756524290,["Compliance mode enabled, was '4.6.0'"]],
 ["arpwatch","3.6","3.8","app-network",1718100133,["Compliance mode enabled, was '3.8'"]],
 ["radvd","2.19","2.20","app-network",1552787598,["Compliance mode enabled, was '2.20'"]],
 ["sslh","2.2.4","2.3.0","app-network",1754725945,["Compliance mode enabled, was '2.3.0'"]],
