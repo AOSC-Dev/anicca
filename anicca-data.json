@@ -882,6 +882,7 @@
 ["dar","2.7.15","2.8.1","app-utils",1723046070,["Compliance mode enabled, was '2.8.1'"]],
 ["xterm","390","402","app-utils",1712719207,["Compliance mode enabled, was '402'"]],
 ["choose","1.3.4","1.3.7","app-utils",1711787309,["Compliance mode enabled, was '1.3.7'"]],
+["gearlever","3.4.4","3.4.5","app-utils",1759484554,["Compliance mode enabled, was '3.4.5'"]],
 ["hardinfo","0.5.1+git20220724","0.5.1","app-utils",1721223931,["Compliance mode enabled, was '0.5.1'"]],
 ["xiccd","0.3.0","0.4.1","app-utils",1603857800,["Compliance mode enabled, was '0.4.1'"]],
 ["lzip","1.24.1","1.25","app-utils",1731462536,["Compliance mode enabled, was '1.25'"]],
