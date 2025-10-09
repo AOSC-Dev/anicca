@@ -731,7 +731,6 @@
 ["varnish","7.5.0","8.0.0","app-network",1718805904,["Compliance mode enabled, was '8.0.0'"]],
 ["tcpdump","4.99.4","4.99.5","app-network",1709902196,["Compliance mode enabled, was '4.99.5'"]],
 ["freerdp","3.16.0","3.17.2","app-network",1750172721,["Compliance mode enabled, was '3.17.2'"]],
-["bind","9.20.4","9.20.13","app-network",1736563905,["Compliance mode enabled, was '9.20.13'"]],
 ["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["iwd","3.2","3.10","app-network",1732863969,["Compliance mode enabled, was '3.10'"]],
 ["fbthrift","2025.09.01.00","2025.10.06.00","app-network",1757214447,["Compliance mode enabled, was '2025.10.06.00'"]],
