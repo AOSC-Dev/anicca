@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760004824?label=Updated)
+![Relative date](https://img.shields.io/date/1760008275?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1203,7 +1203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksystemstats|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
 |kteatime|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
 |ktechlab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|ktextaddons|1.5.3|1.7.1|desktop-kde|Compliance mode enabled, was '1.7.1'|
+|ktextaddons|1.5.3|1.8.0|desktop-kde|Compliance mode enabled, was '1.8.0'|
 |ktexteditor|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktextwidgets|5.115.0|6.18.0|desktop-kde|Compliance mode enabled, was '6.18.0'|
 |ktimer|23.08.5|25.08.1|desktop-kde|Compliance mode enabled, was '25.08.1'|
@@ -1442,6 +1442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
 |libreoffice|25.8.0.4|25.8.2.2|groups|Compliance mode enabled, was '25.8.2.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
+|librime|1.11.2|1.14.0|runtime-i18n|Compliance mode enabled, was '1.14.0'|
 |librsvg|2.59.2|2.61.1|runtime-imaging|Compliance mode enabled, was '2.61.1'|
 |librsvg+32|2.59.2|2.61.1|runtime-optenv32|Compliance mode enabled, was '2.61.1'|
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
