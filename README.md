@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760091225?label=Updated)
+![Relative date](https://img.shields.io/date/1760094397?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -436,7 +436,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dtk6core|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
 |dtk6gui|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
-|dtk6log|0.0.4|0.0.5|desktop-dde|Compliance mode enabled, was '0.0.5'|
+|dtk6log|0.0.4|0.0.6|desktop-dde|Compliance mode enabled, was '0.0.6'|
 |dtk6widget|6.0.37|6.0.43|desktop-dde|Compliance mode enabled, was '6.0.43'|
 |dtkcommon|5.7.17|5.7.23|desktop-dde|Compliance mode enabled, was '5.7.23'|
 |dua|2.30.1|2.32.0|app-utils|Compliance mode enabled, was '2.32.0'|
@@ -1530,8 +1530,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libx86emu|3.5|3.7|runtime-common|Compliance mode enabled, was '3.7'|
 |libxcrypt+32|4.4.37|4.4.38|runtime-optenv32|Compliance mode enabled, was '4.4.38'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
-|libxkbcommon|1.8.1|1.11.0|runtime-display|Compliance mode enabled, was '1.11.0'|
-|libxkbcommon+32|1.7.0|1.11.0|runtime-optenv32|Compliance mode enabled, was '1.11.0'|
+|libxkbcommon|1.8.1|1.12.0|runtime-display|Compliance mode enabled, was '1.12.0'|
+|libxkbcommon+32|1.7.0|1.12.0|runtime-optenv32|Compliance mode enabled, was '1.12.0'|
 |libxml++-2.6|2.42.3|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.15.0|runtime-common|Compliance mode enabled, was '2.15.0'|
 |libxml2+32|2.10.4|2.15.0|runtime-optenv32|Compliance mode enabled, was '2.15.0'|
@@ -1742,8 +1742,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.17.0|2.17.0+|app-scientific|Compliance mode enabled, was '2.17.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.22|2.9.1|app-utils|Compliance mode enabled, was '2.9.1'|
-|ncurses|6.4|6.5+20251004|runtime-common|Compliance mode enabled, was '6.5-20251004'|
-|ncurses+32|6.4|6.5+20251004|runtime-optenv32|Compliance mode enabled, was '6.5-20251004'|
+|ncurses|6.4|6.5+20251010|runtime-common|Compliance mode enabled, was '6.5-20251010'|
+|ncurses+32|6.4|6.5+20251010|runtime-optenv32|Compliance mode enabled, was '6.5-20251010'|
 |ndctl|80|83|app-admin|Compliance mode enabled, was '83'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -1825,7 +1825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrive|2.5.5|2.5.7|app-web|Compliance mode enabled, was '2.5.7'|
 |onedrivegui|1.1.1|1.2.2|app-web|Compliance mode enabled, was '1.2.2'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
-|oolite|1.90|1.91.0.7708-250910-30bbc4c|app-games|Compliance mode enabled, was '1.91.0.7708-250910-30bbc4c'|
+|oolite|1.90|1.91.0.7709-251010-bd7dc84|app-games|Compliance mode enabled, was '1.91.0.7709-251010-bd7dc84'|
 |opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
 |open-huninn-font|2.0|2.1|desktop-fonts|Compliance mode enabled, was '2.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
@@ -2964,6 +2964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
 |xournalpp|1.2.5|1.2.8|runtime-productivity|Compliance mode enabled, was '1.2.8'|
+|xpra|6.3.3|6.3.4|app-network|Compliance mode enabled, was '6.3.4'|
 |xray|25.8.31|25.9.11|app-proxy|Compliance mode enabled, was '25.9.11'|
 |xrdp|0.10.3|0.10.4.1|app-network|Compliance mode enabled, was '0.10.4.1'|
 |xreader|4.2.2|4.4.0|app-doc|Compliance mode enabled, was '4.4.0'|
