@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760080482?label=Updated)
+![Relative date](https://img.shields.io/date/1760084234?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -475,9 +475,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etl|1.2.2|1.5.3|runtime-common|Compliance mode enabled, was '1.5.3'|
 |eventviews|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |evince|42.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|evolution|3.44.4|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
-|evolution-data-server|3.44.4|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
-|evolution-ews|3.42.0|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
+|evolution|3.44.4|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
+|evolution-data-server|3.44.4|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
+|evolution-ews|3.42.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
 |evtest|1.35|1.36|app-utils|Compliance mode enabled, was '1.36'|
 |exceptiongroup|1.2.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |executing|2.1.0|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
@@ -691,7 +691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-shell-extension-gsconnect|53|67|desktop-gnome|Compliance mode enabled, was '67'|
 |gnome-shell-extensions|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
-|gnome-software|42.4|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
+|gnome-software|42.4|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-sudoku|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-system-monitor|42.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-terminal|3.44.1|3.97.0|desktop-gnome|Compliance mode enabled, was '3.97.0'|
@@ -1707,6 +1707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpdecimal|4.0.0|4.0.1|runtime-common|Compliance mode enabled, was '4.0.1'|
 |mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.33.3|app-multimedia|Compliance mode enabled, was '1.33.3'|
+|mpg123+32|1.32.8|1.33.3|runtime-optenv32|Compliance mode enabled, was '1.33.3'|
 |mplayerthumbs-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |mpmath|1.1.0|1.4.0~b1|lang-python|Compliance mode enabled, was '1.4.0b1'|
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
@@ -1880,6 +1881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openvdb|11.0.0|12.1.1|runtime-common|Compliance mode enabled, was '12.1.1'|
 |openvpn|2.6.14|2.6.15|app-network|Compliance mode enabled, was '2.6.15'|
 |openvswitch|3.0.3|3.6.0|app-network|Compliance mode enabled, was '3.6.0'|
+|optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
 |opus|1.3.1|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |opus+32|1.3.1|1.5.2|runtime-optenv32|Compliance mode enabled, was '1.5.2'|
 |opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
