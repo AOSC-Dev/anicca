@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760188676?label=Updated)
+![Relative date](https://img.shields.io/date/1760191485?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -606,6 +606,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghostscript|9.54.0|10.06.0|app-doc|Compliance mode enabled, was '10.06.0'|
 |ghostty|1.2.0|1.2.2|app-utils|Compliance mode enabled, was '1.2.2'|
 |ghostwriter|24.05.2|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
+|gi-docgen|2025.4|2025.5|app-doc|Compliance mode enabled, was '2025.5'|
 |giac|1.9.0<br>+998|1.9.0|app-scientific|Compliance mode enabled, was '1.9.0'<br>Possible downgrade from the current version (1.9.0+998 -> 1.9.0)|
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
@@ -852,7 +853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|8.32.0|9.6.0|lang-python|Compliance mode enabled, was '9.6.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
-|isort|4.3.21|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
+|isort|4.3.21|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
 |ispc|1.28.1|1.28.2|app-devel|Compliance mode enabled, was '1.28.2'|
 |itinerary|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |iw|5.19|6.17|app-network|Compliance mode enabled, was '6.17'|
