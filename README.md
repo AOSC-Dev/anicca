@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760137897?label=Updated)
+![Relative date](https://img.shields.io/date/1760143315?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2309,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtractor|0.9.23|1.5.8|app-multimedia|Compliance mode enabled, was '1.5.8'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
-|quadrapassel|40.2|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
+|quadrapassel|40.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |quickjs|2025.04.26|2025.09.13.2|lang-js|Compliance mode enabled, was '2025-09-13-2'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
@@ -2833,7 +2833,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.0|runtime-desktop|Compliance mode enabled, was '0.82.0'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
-|vulkan-extensionlayer|1.4.309.0|1.4.328|runtime-display|Compliance mode enabled, was '1.4.328'|
+|vulkan-extensionlayer|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
 |vulkan-headers|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
 |vulkan-headers+32|1.4.309.0|1.4.329|runtime-optenv32|Compliance mode enabled, was '1.4.329'|
 |vulkan-loader|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
@@ -2841,7 +2841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools|1.4.309.0|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'|
 |vulkan-tools+32|1.4.309.0|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'|
 |vulkan-utility-libraries|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
-|vulkan-validationlayers|1.4.309.0|1.4.328|runtime-display|Compliance mode enabled, was '1.4.328'|
+|vulkan-validationlayers|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.09.01.00|2025.10.06.00|runtime-network|Compliance mode enabled, was '2025.10.06.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
