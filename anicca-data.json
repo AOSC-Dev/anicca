@@ -2645,7 +2645,6 @@
 ["distlib","0.3.1","0.4.0","lang-python",1609330974,["Compliance mode enabled, was '0.4.0'"]],
 ["chardet","3.0.4","5.2.0","lang-python",1499435661,["Compliance mode enabled, was '5.2.0'"]],
 ["txaio","25.6.1","25.9.2","lang-python",1754495188,["Compliance mode enabled, was '25.9.2'"]],
-["docutils","0.21.2","0.22.2","lang-python",1722780216,["Compliance mode enabled, was '0.22.2'"]],
 ["reportlab","4.2.2","4.4.4","lang-python",1759043351,["Compliance mode enabled, was '4.4.4'"]],
 ["prettytable","0.7.2","3.16.0","lang-python",1678950872,["Compliance mode enabled, was '3.16.0'"]],
 ["pycparser","2.22","2.23","lang-python",1721277711,["Compliance mode enabled, was '2.23'"]],
