@@ -390,7 +390,7 @@
 ["gammaray","2.11.2","3.3.0","app-devel",1601267869,["Compliance mode enabled, was '3.3.0'"]],
 ["shaderc","2025.3","2025.4","app-devel",1755652218,["Compliance mode enabled, was '2025.4'"]],
 ["just","1.42.4","1.43.0","app-devel",1753794024,["Compliance mode enabled, was '1.43.0'"]],
-["nasm","2.16.03","3.00","app-devel",1722822478,["Compliance mode enabled, was '3.00'"]],
+["nasm","2.16.03","3.01","app-devel",1722822478,["Compliance mode enabled, was '3.01'"]],
 ["vc","1.4.4","1.4.5","app-devel",1704959753,["Compliance mode enabled, was '1.4.5'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
 ["clinfo","3.0.23.01.25","3.0.25.02.14","app-devel",1721453818,["Compliance mode enabled, was '3.0.25.02.14'"]],
