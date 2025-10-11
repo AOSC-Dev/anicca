@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760220642?label=Updated)
+![Relative date](https://img.shields.io/date/1760224301?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2186,7 +2186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |puremagic|1.15|1.30|lang-python|Compliance mode enabled, was '1.30'|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web|Compliance mode enabled, was '0.1.0'|
 |purpose|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
-|pv|1.6.20|1.9.34|app-utils|Compliance mode enabled, was '1.9.34'|
+|pv|1.6.20|1.9.42|app-utils|Compliance mode enabled, was '1.9.42'|
 |py-filelock|3.14.0|3.20.0|lang-python|Compliance mode enabled, was '3.20.0'|
 |py-setproctitle|1.1.10|1.3.7|lang-python|Compliance mode enabled, was '1.3.7'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
@@ -2835,7 +2835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscodium|1.104.26450|1.105.06808|app-editors|Compliance mode enabled, was '1.105.06808'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.82.0|runtime-desktop|Compliance mode enabled, was '0.82.0'|
+|vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
 |vulkan-headers|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
