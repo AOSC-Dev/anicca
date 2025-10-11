@@ -2383,6 +2383,7 @@
 ["rocm-hipfft","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-llama-cpp","7.0.1","6730","runtime-rocm",1760110506,["Compliance mode enabled, was '6730'"]],
 ["rocm-rocfft","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
+["rocm-llvm","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-hipfort","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-rocprim","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-bandwidth-test","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
