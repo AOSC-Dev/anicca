@@ -1912,6 +1912,7 @@
 ["gtk-layer-shell","0.9.0","0.9.2","runtime-desktop",1740224304,["Compliance mode enabled, was '0.9.2'"]],
 ["vte","0.68.0","0.82.1","runtime-desktop",1721223235,["Compliance mode enabled, was '0.82.1'"]],
 ["wxwidgets","3.2.4","3.3.1","runtime-desktop",1706855338,["Compliance mode enabled, was '3.3.1'"]],
+["quickshell","0.2.0","0.2.1","runtime-desktop",1758507616,["Compliance mode enabled, was '0.2.1'"]],
 ["vala-panel-appmenu","0.7.4","25.04","runtime-desktop",1600321917,["Compliance mode enabled, was '25.04'"]],
 ["speech-dispatcher","0.11.2","0.12.1","runtime-desktop",1663210254,["Compliance mode enabled, was '0.12.1'"]],
 ["qtstyleplugins","5.0.0+git20170311","5.0.0","runtime-desktop",1513090354,["Compliance mode enabled, was '5.0.0'"]],
