@@ -374,7 +374,7 @@
 ["openixcard","1.0.1","1.1.8","app-devel",1653974481,["Compliance mode enabled, was '1.1.8'"]],
 ["llvm-18","18.1.8","21.1.3","app-devel",1732901541,["Compliance mode enabled, was '21.1.3'"]],
 ["php","8.4.7","8.4.13","app-devel",1746803648,["Compliance mode enabled, was '8.4.13'"]],
-["yq","4.47.1","4.47.2","app-devel",1753793888,["Compliance mode enabled, was '4.47.2'"]],
+["yq","4.47.1","4.48.1","app-devel",1753793888,["Compliance mode enabled, was '4.48.1'"]],
 ["tea","0.10.1","0.11.0","app-devel",1755437576,["Compliance mode enabled, was '0.11.0'"]],
 ["astyle","3.6.6","3.6.12","app-devel",1736266330,["Compliance mode enabled, was '3.6.12'"]],
 ["composer","2.8.5","2.8.12","app-devel",1738155650,["Compliance mode enabled, was '2.8.12'"]],
