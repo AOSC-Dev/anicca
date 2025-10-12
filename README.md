@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760278125?label=Updated)
+![Relative date](https://img.shields.io/date/1760281954?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1334,7 +1334,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdegames|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |libkdepim|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |libkeduvocdocument|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|libkexiv2|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |libkexiv2-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |libkgapi|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |libkipi|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2461,7 +2460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setroot|2.0.2|2.0.3|desktop-wm|Compliance mode enabled, was '2.0.3'|
 |setuptools-python2|44.1.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
 |setuptools-rust|1.9.0|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
-|setuptools-scm|8.1.0|9.2.0|lang-python|Compliance mode enabled, was '9.2.0'|
+|setuptools-scm|8.1.0|9.2.1|lang-python|Compliance mode enabled, was '9.2.1'|
 |sfml|2.5.1|3.0.2|runtime-multimedia|Compliance mode enabled, was '3.0.2'|
 |sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2025.3|2025.4|app-devel|Compliance mode enabled, was '2025.4'|
