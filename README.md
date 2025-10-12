@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760271599?label=Updated)
+![Relative date](https://img.shields.io/date/1760275090?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1520,8 +1520,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |lilv|0.24.12|0.24.26|runtime-multimedia|Compliance mode enabled, was '0.24.26'|
 |lincity-ng|2.9.0|2.0|app-games|Compliance mode enabled, was '2.0'<br>Possible downgrade from the current version (2.9.0 -> 2.0)|
-|linux+api|6.12.30|6.12.51|core-devel|Compliance mode enabled, was '6.12.51'|
-|linux+api+32|6.12.7|6.12.51|runtime-optenv32|Compliance mode enabled, was '6.12.51'|
+|linux+api|6.12.30|6.12.52|core-devel|Compliance mode enabled, was '6.12.52'|
+|linux+api+32|6.12.7|6.12.52|runtime-optenv32|Compliance mode enabled, was '6.12.52'|
 |linux+kernel|6.16.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.10 -> 5.19.17)|
 |linux+kernel+asahi|6.14.5|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.14.5 -> 5.19.17)|
 |linux+kernel+rc|6.17.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.0 -> 5.19.17)|
