@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760235752?label=Updated)
+![Relative date](https://img.shields.io/date/1760239845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -635,7 +635,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang+32|15.3.0|16.0.0|runtime-optenv32|Compliance mode enabled, was '16.0.0'|
 |glycin|1.1.4|2.0.3|desktop-gnome|Compliance mode enabled, was '2.0.3'|
 |gmic|3.2.6|3.6.2|runtime-imaging|Compliance mode enabled, was '3.6.2'|
-|gmpy2|2.1.5|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
 |gnome-applets|3.44.0|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
 |gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
@@ -882,7 +881,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.8.1|lang-python|Compliance mode enabled, was '5.8.1'|
-|just|1.42.4|1.43.0|app-devel|Compliance mode enabled, was '1.43.0'|
 |k3b|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |k3b-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |k9copy-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1820,7 +1818,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencsg|1.5.1|1.8.1|runtime-imaging|Compliance mode enabled, was '1.8.1'|
 |opencv|4.9.0|4.12.0|runtime-scientific|Compliance mode enabled, was '4.12.0'|
 |openexr|3.1.8|3.4.1|runtime-imaging|Compliance mode enabled, was '3.4.1'|
-|openimagedenoise|1.4.3|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
+|openimagedenoise|2.3.0|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.1.6.2|runtime-imaging|Compliance mode enabled, was '3.1.6.2'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.28-ga|11.0.29+6|lang-java||
@@ -2548,11 +2546,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spice-vdagent|0.22.1|0.23.0|runtime-virtualization|Compliance mode enabled, was '0.23.0'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
-|spirv-headers|1.4.321.0|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
+|spirv-headers|1.4.328.1|1.5.4.raytracing.fixed|runtime-display|Compliance mode enabled, was '1.5.4.raytracing.fixed'|
 |spirv-llvm-translator|20.1.4|21.1.1|app-devel|Compliance mode enabled, was '21.1.1'|
 |spirv-llvm-translator+32|20.1.4|21.1.1|runtime-optenv32|Compliance mode enabled, was '21.1.1'|
-|spirv-tools|1.4.321.0|2025.4|runtime-display|Compliance mode enabled, was '2025.4'|
-|spirv-tools+32|1.4.321.0|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
+|spirv-tools|1.4.328.1|2025.4|runtime-display|Compliance mode enabled, was '2025.4'|
+|spirv-tools+32|1.4.328.1|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
 |sqlalchemy|1.2.18|2.0.44|lang-python|Compliance mode enabled, was '2.0.44'|
 |sqlcipher|4.5.6|4.11.0|app-database|Compliance mode enabled, was '4.11.0'|
 |sqlite|3500400|3.50.4|app-database|Possible downgrade from the current version (3500400 -> 3.50.4)|
@@ -2828,8 +2826,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
-|volk-meta-loader|1.4.309.0|1.4.328.1|runtime-display|Compliance mode enabled, was '1.4.328.1'|
-|volk-meta-loader+32|1.4.309.0|1.4.328.1|runtime-optenv32|Compliance mode enabled, was '1.4.328.1'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
@@ -2837,15 +2833,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
-|vulkan-extensionlayer|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
-|vulkan-headers|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
-|vulkan-headers+32|1.4.309.0|1.4.329|runtime-optenv32|Compliance mode enabled, was '1.4.329'|
-|vulkan-loader|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
-|vulkan-loader+32|1.4.309.0|1.4.329|runtime-optenv32|Compliance mode enabled, was '1.4.329'|
-|vulkan-tools|1.4.309.0|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'|
-|vulkan-tools+32|1.4.309.0|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'|
-|vulkan-utility-libraries|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
-|vulkan-validationlayers|1.4.309.0|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
+|vulkan-extensionlayer|1.4.328.1|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
+|vulkan-headers|1.4.328.1|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
+|vulkan-headers+32|1.4.328.1|1.4.329|runtime-optenv32|Compliance mode enabled, was '1.4.329'|
+|vulkan-loader|1.4.328.1|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
+|vulkan-loader+32|1.4.328.1|1.4.329|runtime-optenv32|Compliance mode enabled, was '1.4.329'|
+|vulkan-tools|1.4.328.1|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'<br>Possible downgrade from the current version (1.4.328.1 -> 1.4.326)|
+|vulkan-tools+32|1.4.328.1|1.4.326|runtime-optenv32|Compliance mode enabled, was '1.4.326'<br>Possible downgrade from the current version (1.4.328.1 -> 1.4.326)|
+|vulkan-utility-libraries|1.4.328.1|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
+|vulkan-validationlayers|1.4.328.1|1.4.329|runtime-display|Compliance mode enabled, was '1.4.329'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.09.01.00|2025.10.06.00|runtime-network|Compliance mode enabled, was '2025.10.06.00'|
 |warpinator|1.6.3|1.8.10|desktop-cinnamon|Compliance mode enabled, was '1.8.10'|
