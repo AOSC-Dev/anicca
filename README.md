@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760336402?label=Updated)
+![Relative date](https://img.shields.io/date/1760339624?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -336,7 +336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
-|dash|0.5.12|0.5.13|app-shells|Compliance mode enabled, was '0.5.13'|
+|dash|0.5.12|0.5.13.1|app-shells|Compliance mode enabled, was '0.5.13.1'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
 |davfs2|1.7.0|1.7.2|app-admin|Compliance mode enabled, was '1.7.2'|
@@ -1683,7 +1683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpg123|1.32.8|1.33.3|app-multimedia|Compliance mode enabled, was '1.33.3'|
 |mpg123+32|1.32.8|1.33.3|runtime-optenv32|Compliance mode enabled, was '1.33.3'|
 |mplayerthumbs-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|mpmath|1.1.0|1.4.0~b1|lang-python|Compliance mode enabled, was '1.4.0b1'|
+|mpmath|1.1.0|1.4.0~b2|lang-python|Compliance mode enabled, was '1.4.0b2'|
 |msgpack-c|6.0.0|6.1.0|runtime-common|Compliance mode enabled, was '6.1.0'|
 |msgpack-c++|6.1.0|7.0.0|runtime-common|Compliance mode enabled, was '7.0.0'|
 |msitools|0.101|0.106|app-devel|Compliance mode enabled, was '0.106'|
@@ -1868,7 +1868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
 |oslo-serialization|5.4.0|5.8.0|lang-python|Compliance mode enabled, was '5.8.0'|
 |oslo-utils|7.2.0|9.1.0|lang-python|Compliance mode enabled, was '9.1.0'|
-|osu-lazer|2025.816.0-lazer|2025.1007.0|app-games||
+|osu-lazer|2025.816.0-lazer|2025.1013.0|app-games||
 |owntone|28.12|29.0|app-multimedia|Compliance mode enabled, was '29.0'|
 |oxipng|9.1.4|9.1.5|app-utils|Compliance mode enabled, was '9.1.5'|
 |oxygen|5.27.12|6.4.5|desktop-kde|Compliance mode enabled, was '6.4.5'|
