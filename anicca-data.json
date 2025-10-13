@@ -1475,6 +1475,7 @@
 ["zlib","2.2.4","2.2.5","core-libs",1740307704,["Compliance mode enabled, was '2.2.5'"]],
 ["glibc","2.40","2.42","core-libs",1733826087,["Compliance mode enabled, was '2.42'"]],
 ["lightdm-settings","2.0.4","2.0.9","desktop-displaymanagers",1719277648,["Compliance mode enabled, was '2.0.9'"]],
+["wdm","1.28","1.29","desktop-displaymanagers",1678604371,["Compliance mode enabled, was '1.29'"]],
 ["virt-manager","5.0.0","5.1.0","app-virtualization",1745233502,["Compliance mode enabled, was '5.1.0'"]],
 ["libvirt","10.5.0","11.8.0","app-virtualization",1722229097,["Compliance mode enabled, was '11.8.0'"]],
 ["open-vm-tools","13.0.0","13.0.5","app-virtualization",1751337944,["Compliance mode enabled, was '13.0.5'"]],
