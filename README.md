@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760326789?label=Updated)
+![Relative date](https://img.shields.io/date/1760328996?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -504,6 +504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.5.1|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
 |feeluown-netease|1.0.4|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-qqmusic|1.0.11|1.0.13|app-multimedia|Compliance mode enabled, was '1.0.13'|
+|feishin|0.20.1|0.21.0|app-multimedia|Compliance mode enabled, was '0.21.0'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |fennel-ls|0.2.1|0.2.0|lang-lua|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
@@ -835,7 +836,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imlib2+32|1.5.1|1.12.5|runtime-optenv32|Compliance mode enabled, was '1.12.5'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|inetutils|2.5|2.6|app-utils|Compliance mode enabled, was '2.6'|
 |iniconfig|2.0.0|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |inih|60|62|app-devel|Compliance mode enabled, was '62'|
 |iniparse|0.4|0.5|lang-python|Compliance mode enabled, was '0.5'|
