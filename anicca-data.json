@@ -1932,7 +1932,7 @@
 ["cgal","5.2","6.1","runtime-scientific",1614161662,["Compliance mode enabled, was '6.1'"]],
 ["verdict","1.4.1","1.4.4","runtime-scientific",1687941313,["Compliance mode enabled, was '1.4.4'"]],
 ["opencv","4.9.0","4.12.0","runtime-scientific",1752544442,["Compliance mode enabled, was '4.12.0'"]],
-["libqalculate","4.5.1","5.7.0","runtime-scientific",1721223235,["Compliance mode enabled, was '5.7.0'"]],
+["libqalculate","4.5.1","5.8.0","runtime-scientific",1721223235,["Compliance mode enabled, was '5.8.0'"]],
 ["fplll","5.4.5","5.5.0","runtime-scientific",1710578622,["Compliance mode enabled, was '5.5.0'"]],
 ["spglib","1.16.2","2.6.0","runtime-scientific",1630574839,["Compliance mode enabled, was '2.6.0'"]],
 ["ucx","1.15.0","1.19.0","runtime-scientific",1710080139,["Compliance mode enabled, was '1.19.0'"]],
