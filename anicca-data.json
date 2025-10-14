@@ -2453,7 +2453,7 @@
 ["feeluown-netease","1.0.4","1.0.5","app-multimedia",1757673577,["Compliance mode enabled, was '1.0.5'"]],
 ["icecast","2.4.4","2.4.999.1","app-multimedia",1541872360,["Compliance mode enabled, was '2.4.999.1'"]],
 ["twolame","0.3.13","0.4.0","app-multimedia",1678950872,["Compliance mode enabled, was '0.4.0'"]],
-["sunshine","2025.924.154138","2025.1012.182304","app-multimedia",1759157634,["Compliance mode enabled, was '2025.1012.182304'"]],
+["sunshine","2025.924.154138","2025.1014.193231","app-multimedia",1759157634,["Compliance mode enabled, was '2025.1014.193231'"]],
 ["mocp","2.6.0~svn.r3005","2.5.2","app-multimedia",1748844653,["Compliance mode enabled, was '2.5.2'","Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)"]],
 ["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["kid3","3.9.5","3.9.7","app-multimedia",1748844653,["Compliance mode enabled, was '3.9.7'"]],
