@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760436807?label=Updated)
+![Relative date](https://img.shields.io/date/1760440374?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -376,7 +376,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |dkms|3.1.1|3.2.2|app-admin|Compliance mode enabled, was '3.2.2'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
-|dnscontrol|4.22.0|4.26.0|app-network|Compliance mode enabled, was '4.26.0'|
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
 |dnsdiag|2.6.0|2.8.1|app-network|Compliance mode enabled, was '2.8.1'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
@@ -1842,7 +1841,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openswan|2.6.51.5|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |opentabletdriver|0.6.5.1|0.6.6.1|runtime-devices|Compliance mode enabled, was '0.6.6.1'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
-|opentofu|1.10.3|1.10.6|app-admin|Compliance mode enabled, was '1.10.6'|
 |openvdb|11.0.0|12.1.1|runtime-common|Compliance mode enabled, was '12.1.1'|
 |openvpn|2.6.14|2.6.15|app-network|Compliance mode enabled, was '2.6.15'|
 |openvswitch|3.0.3|3.6.0|app-network|Compliance mode enabled, was '3.6.0'|
@@ -2191,7 +2189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycurl|7.45.3|7.45.7|lang-python|Compliance mode enabled, was '7.45.7'|
 |pydantic|2.6.0|2.12.1|lang-python|Compliance mode enabled, was '2.12.1'|
-|pydantic-core|2.16.1|2.41.3|lang-python|Compliance mode enabled, was '2.41.3'|
+|pydantic-core|2.16.1|2.41.4|lang-python|Compliance mode enabled, was '2.41.4'|
 |pydot|1.4.1|4.0.1|lang-python|Compliance mode enabled, was '4.0.1'|
 |pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
