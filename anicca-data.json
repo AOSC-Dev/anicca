@@ -1909,6 +1909,7 @@
 ["xdg-dbus-proxy","0.1.2","0.1.6","runtime-desktop",1573326951,["Compliance mode enabled, was '0.1.6'"]],
 ["qcoro","0.10.0","0.12.0","runtime-desktop",1714377107,["Compliance mode enabled, was '0.12.0'"]],
 ["libwnck-3","40.1","43.3","runtime-desktop",1663210242,["Compliance mode enabled, was '43.3'"]],
+["sing-box","1.12.9","1.12.10","app-proxy",1759673367,["Compliance mode enabled, was '1.12.10'"]],
 ["cloudflared","2025.7.0","2025.100.150","app-proxy",1751680835,["Compliance mode enabled, was '2025.100.150'"]],
 ["dante","1.4.2","1.4.4","app-proxy",1510974704,["Compliance mode enabled, was '1.4.4'"]],
 ["xray","25.8.31","25.10.15","app-proxy",1756736145,["Compliance mode enabled, was '25.10.15'"]],
