@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760429747?label=Updated)
+![Relative date](https://img.shields.io/date/1760433309?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -201,7 +201,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |calendarsupport|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |calf|0.90.3|0.90.8|app-multimedia|Compliance mode enabled, was '0.90.8'|
 |calibre|8.5.0|8.12.0|app-doc|Compliance mode enabled, was '8.12.0'|
-|caligula|0.4.5|0.4.9|app-utils|Compliance mode enabled, was '0.4.9'|
 |calindori|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |callaudiod|0.1.4|0.1.99|app-admin|Compliance mode enabled, was '0.1.99'|
 |calls|46.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
@@ -2140,8 +2139,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|25.07.0|25.10.0|runtime-doc|Compliance mode enabled, was '25.10.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
-|portaudio|19.7.0|190600.20161030|runtime-multimedia|Compliance mode enabled, was '190600_20161030'|
-|portaudio+32|19.7.0|190600.20161030|runtime-optenv32|Compliance mode enabled, was '190600_20161030'|
 |portmidi|2.0.4|2.0.6|runtime-multimedia|Compliance mode enabled, was '2.0.6'|
 |postfix|3.7.3|3.10.4|app-web|Compliance mode enabled, was '3.10.4'|
 |postgresql|17.5|18.0|app-database|Compliance mode enabled, was '18.0'|
