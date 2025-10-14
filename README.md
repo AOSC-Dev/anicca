@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760444513?label=Updated)
+![Relative date](https://img.shields.io/date/1760448397?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -843,6 +843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|25.3.4|25.4.0|runtime-multimedia|Compliance mode enabled, was '25.4.0'|
 |inxi|3.3.37<br>+1|3.3.39+1|app-utils|Compliance mode enabled, was '3.3.39-1'|
 |iozone|3.492|3.508|app-admin|Compliance mode enabled, was '3.508'|
+|ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |ipmitool|1.8.18|1.8.19|app-utils|Compliance mode enabled, was '1_8_19'|
 |iproute2|6.11.0|6.17.0|app-network|Compliance mode enabled, was '6.17.0'|
 |ipset|7.22|7.24|app-network|Compliance mode enabled, was '7.24'|
@@ -2496,6 +2497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sord|0.16.4|0.16.18|runtime-common|Compliance mode enabled, was '0.16.18'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |sos|4.4|4.10.0|lang-python|Compliance mode enabled, was '4.10.0'|
+|sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundkonverter-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |soundtouch|2.3.3|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
