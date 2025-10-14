@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760451189?label=Updated)
+![Relative date](https://img.shields.io/date/1760454802?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -387,6 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |dolphin-plugins|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |dolphin-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|dos2unix|7.5.2|7.5.3|app-utils|Compliance mode enabled, was '7.5.3'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
 |dotnet|8.0.403|8.0.414|groups|Compliance mode enabled, was '8.0.414'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
@@ -623,6 +624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.85.1|1.86.0|desktop-gnome|Compliance mode enabled, was '1.86.0'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
+|glab|1.72.0|1.74.0|app-devel|Compliance mode enabled, was '1.74.0'|
 |glances|4.0.5|4.3.3|app-admin|Compliance mode enabled, was '4.3.3'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
 |glfw|3.4|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
@@ -2578,7 +2580,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sxhkd|0.6.2|0.6.3|desktop-wm|Compliance mode enabled, was '0.6.3'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
-|syncthing|2.0.9|2.0.10|app-network|Compliance mode enabled, was '2.0.10'|
 |syndication|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |syntax-highlighting|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |syslinux|6.04~pre1|6.03|app-admin|Compliance mode enabled, was '6.03'<br>Possible downgrade from the current version (6.04~pre1 -> 6.03)|
@@ -2889,7 +2890,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|app-multimedia|Compliance mode enabled, was '0.8.14'|
 |xkeyboard-config|2.40|2.46|runtime-display|Compliance mode enabled, was '2.46'|
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
-|xmake|3.0.3|3.0.4|app-devel|Compliance mode enabled, was '3.0.4'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.7|runtime-common|Compliance mode enabled, was '1.3.7'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
