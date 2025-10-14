@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760448397?label=Updated)
+![Relative date](https://img.shields.io/date/1760451189?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1519,7 +1519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api|6.12.30|6.12.52|core-devel|Compliance mode enabled, was '6.12.52'|
 |linux+api+32|6.12.7|6.12.52|runtime-optenv32|Compliance mode enabled, was '6.12.52'|
 |linux+kernel|6.16.10|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.10 -> 5.19.17)|
-|linux+kernel+asahi|6.16.11|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.11 -> 5.19.17)|
+|linux+kernel+asahi|6.16.12|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.12 -> 5.19.17)|
 |linux+kernel+rc|6.17.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.245|runtime-kernel|Compliance mode enabled, was '5.10.245'|
 |linux+kernel+retro+minimal|5.15.17|5.10.245|runtime-kernel|Compliance mode enabled, was '5.10.245'<br>Possible downgrade from the current version (5.15.17 -> 5.10.245)|
@@ -1535,7 +1535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|6615|6756|runtime-creativity|Compliance mode enabled, was '6756'|
+|llama.cpp|6615|6761|runtime-creativity|Compliance mode enabled, was '6761'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.3|runtime-optenv32|Compliance mode enabled, was '21.1.3'|
@@ -1880,7 +1880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pango|1.56.1|1.56.4|runtime-desktop|Compliance mode enabled, was '1.56.4'|
 |pango+32|1.56.1|1.56.4|runtime-optenv32|Compliance mode enabled, was '1.56.4'|
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
-|paper-icon-theme|20180816|.1.5.0|desktop-themes|Compliance mode enabled, was '.1.5.0'<br>Possible downgrade from the current version (20180816 -> .1.5.0)|
+|paper-icon-theme|20180816|1.5.0|desktop-themes|Compliance mode enabled, was '1.5.0'<br>Possible downgrade from the current version (20180816 -> 1.5.0)|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |par2cmdline|0.8.1|1.0.0|app-utils|Compliance mode enabled, was '1.0.0'|
 |parallel|20250422|20250922|app-utils|Compliance mode enabled, was '20250922'|
@@ -2360,7 +2360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|6756|runtime-rocm|Compliance mode enabled, was '6756'|
+|rocm-llama-cpp|7.0.1|6761|runtime-rocm|Compliance mode enabled, was '6761'|
 |rocm-llvm|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
