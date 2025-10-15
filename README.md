@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760537656?label=Updated)
+![Relative date](https://img.shields.io/date/1760541221?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -795,7 +795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httplib2|0.22.0|0.31.0|lang-python|Compliance mode enabled, was '0.31.0'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
-|humanize|0.5.1|4.13.0|lang-python|Compliance mode enabled, was '4.13.0'|
+|humanize|0.5.1|4.14.0|lang-python|Compliance mode enabled, was '4.14.0'|
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwloc|2.10.0|2.12.2|app-admin|Compliance mode enabled, was '2.12.2'|
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
@@ -1773,6 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme|25.10.04.2|25.10.14|desktop-themes|Compliance mode enabled, was '25.10.14'|
 |numix-icon-theme-circle|24.10.22|25.10.14|desktop-themes|Compliance mode enabled, was '25.10.14'|
 |numpy|2.0.1|2.3.3|lang-python|Compliance mode enabled, was '2.3.3'|
+|nushell|0.107.0|0.108.0|app-shells|Compliance mode enabled, was '0.108.0'|
 |nut|2.7.4|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |nvchecker|2.15.1|2.19|app-utils|Compliance mode enabled, was '2.19'|
 |nvme-cli|2.11|2.15|app-admin|Compliance mode enabled, was '2.15'|
@@ -2414,7 +2415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.14.0|lang-python|Compliance mode enabled, was '0.14.0'|
 |sagemath|10.4|10.7|app-scientific|Compliance mode enabled, was '10.7'|
-|samba|4.23.0|4.23.1|app-network|Compliance mode enabled, was '4.23.1'|
+|samba|4.23.0|4.23.2|app-network|Compliance mode enabled, was '4.23.2'|
 |samtools|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
 |sanlock|3.8.5|4.1.0|app-admin|Compliance mode enabled, was '4.1.0'|
