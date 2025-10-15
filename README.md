@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760566260?label=Updated)
+![Relative date](https://img.shields.io/date/1760569870?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2071,6 +2071,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-csv-xs|1.38|1.61|lang-perl|Compliance mode enabled, was '1.61'|
 |perl-text-template|1.59|1.61|lang-perl|Compliance mode enabled, was '1.61'|
 |perl-timedate|2.30|2.33|lang-perl|Compliance mode enabled, was '2.33'|
+|perl-try-tiny|0.30|0.32|lang-perl|Compliance mode enabled, was '0.32'|
 |perl-type-serialiser|1.0|1.01|lang-perl|Compliance mode enabled, was '1.01'|
 |perl-uri|5.32|5.34|lang-perl|Compliance mode enabled, was '5.34'|
 |perl-www-mechanize|1.91|2.19|lang-perl|Compliance mode enabled, was '2.19'|
@@ -2334,6 +2335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |readline+32|8.2.1|8.3|runtime-optenv32|Compliance mode enabled, was '8.3'|
 |recode|3.7.14|3.7.15|app-utils|Compliance mode enabled, was '3.7.15'|
 |recode+32|3.7.14|3.7.15|runtime-optenv32|Compliance mode enabled, was '3.7.15'|
+|recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|app-proxy|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |referencing|0.36.2|0.37.0|lang-python|Compliance mode enabled, was '0.37.0'|
 |regex|2019.02.21|2025.9.18|lang-python|Compliance mode enabled, was '2025.9.18'|
@@ -2792,6 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2raya|2.2.7.2|2.2.7.3|app-proxy|Compliance mode enabled, was '2.2.7.3'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
+|v4l2loopback|0.15.1|0.15.2|app-utils|Compliance mode enabled, was '0.15.2'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
 |valgrind|3.25.0|3.25.1|app-devel|Compliance mode enabled, was '3.25.1'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
@@ -2821,6 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpl-gpu-rt|25.4.0|25.4.1|runtime-multimedia|Compliance mode enabled, was '25.4.1'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
+|vscode|1.105.0|1.105.1|app-editors|Compliance mode enabled, was '1.105.1'|
 |vscodium|1.105.06808|1.105.06922|app-editors|Compliance mode enabled, was '1.105.06922'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
