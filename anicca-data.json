@@ -532,7 +532,7 @@
 ["gtk-vnc","1.3.1","1.5.0","desktop-gnome",1663210242,["Compliance mode enabled, was '1.5.0'"]],
 ["gnome-calculator","42.2","49.1","desktop-gnome",1663210242,["Compliance mode enabled, was '49.1'"]],
 ["libadwaita","1.8.0","1.8.1","desktop-gnome",1759165662,["Compliance mode enabled, was '1.8.1'"]],
-["orca","42.3","49.3","desktop-gnome",1663210241,["Compliance mode enabled, was '49.3'"]],
+["orca","42.3","49.4","desktop-gnome",1663210241,["Compliance mode enabled, was '49.4'"]],
 ["gnome-video-effects","0.4.3","0.6.0","desktop-gnome",1486746011,["Compliance mode enabled, was '0.6.0'"]],
 ["simple-scan","42.1","49.0.1","desktop-gnome",1663210244,["Compliance mode enabled, was '49.0.1'"]],
 ["libspelling","0.4.6","0.4.9","desktop-gnome",1739612978,["Compliance mode enabled, was '0.4.9'"]],
