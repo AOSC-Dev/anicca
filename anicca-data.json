@@ -937,6 +937,7 @@
 ["polybar","3.7.1","3.7.2","app-utils",1734487003,["Compliance mode enabled, was '3.7.2'"]],
 ["kbd","2.7.1","2.9.0","app-utils",1740018090,["Compliance mode enabled, was '2.9.0'"]],
 ["units","2.23","2.24","app-utils",1711435075,["Compliance mode enabled, was '2.24'"]],
+["ripgrep","14.1.1","15.0.0","app-utils",1725862196,["Compliance mode enabled, was '15.0.0'"]],
 ["imagemagick","6.9.13+16","6.9.13+32","app-utils",1725630951,["Compliance mode enabled, was '6.9.13-32'"]],
 ["ghostty","1.2.0","1.2.2","app-utils",1758610991,["Compliance mode enabled, was '1.2.2'"]],
 ["j4-dmenu-desktop","2.17","3.2","app-utils",1551380864,["Compliance mode enabled, was '3.2'"]],
