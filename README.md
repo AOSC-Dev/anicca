@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760602597?label=Updated)
+![Relative date](https://img.shields.io/date/1760606085?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -437,7 +437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |edencommon|2025.09.01.00|2025.10.13.00|runtime-common|Compliance mode enabled, was '2025.10.13.00'|
 |edit|1.2.0|1.2.1|app-editors|Compliance mode enabled, was '1.2.1'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
-|edk2-test|202406|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202406 -> edk2-test-rc1_202404)|
+|edk2-test|202509|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202509 -> edk2-test-rc1_202404)|
 |eglexternalplatform|1.1|1.2.1|runtime-display|Compliance mode enabled, was '1.2.1'|
 |eigen-3|3.4.0|5.0.0|app-devel|Compliance mode enabled, was '5.0.0'|
 |elfutils|0.191|0.193|app-utils|Compliance mode enabled, was '0.193'|
@@ -997,7 +997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keep-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kemoticons|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kernel-tools|6.16.12|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.16.12 -> 5.19.17)|
-|kexec-tools|2.0.29|2.0.31|app-admin|Compliance mode enabled, was '2.0.31'|
+|kexec-tools|2.0.29|2.0.32|app-admin|Compliance mode enabled, was '2.0.32'|
 |keximdb-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |keyring|21.7.0|25.6.0|lang-python|Compliance mode enabled, was '25.6.0'|
 |keysmith|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2251,6 +2251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-build|1.2.1|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-cloudflare|2.8.15|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |python-crc|7.0.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
+|python-daemonize|2.5.0|3.10.3|lang-python|Compliance mode enabled, was '3.10.3'|
 |python-dbusmock|0.22.0|0.37.1|lang-python|Compliance mode enabled, was '0.37.1'|
 |python-discid|1.2.0|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-evdev|1.7.1|1.9.2|lang-python|Compliance mode enabled, was '1.9.2'|
