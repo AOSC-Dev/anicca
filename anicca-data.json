@@ -240,6 +240,7 @@
 ["xapian-core","1.4.18","1.4.29","runtime-common",1637636760,["Compliance mode enabled, was '1.4.29'"]],
 ["serd","0.32.2","0.32.4","runtime-common",1716292249,["Compliance mode enabled, was '0.32.4'"]],
 ["tl-expected","1.1.0","1.3.1","runtime-common",1747790358,["Compliance mode enabled, was '1.3.1'"]],
+["libedit","20250104-3.1","20251016-3.1","runtime-common",1740019447,[]],
 ["mpdecimal","4.0.0","4.0.1","runtime-common",1707903531,["Compliance mode enabled, was '4.0.1'"]],
 ["zziplib","0.13.75","0.13.80","runtime-common",1718019563,["Compliance mode enabled, was '0.13.80'"]],
 ["libarchive","3.7.8","3.8.2","runtime-common",1746601616,["Compliance mode enabled, was '3.8.2'"]],
