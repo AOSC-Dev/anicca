@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760661878?label=Updated)
+![Relative date](https://img.shields.io/date/1760667746?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -390,7 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |dos2unix|7.5.2|7.5.3|app-utils|Compliance mode enabled, was '7.5.3'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
-|dotnet|8.0.403|8.0.415|groups|Compliance mode enabled, was '8.0.415'|
+|dotnet|8.0.403|8.0.415|lang-dotnet|Compliance mode enabled, was '8.0.415'|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.36|lang-dotnet|Compliance mode enabled, was '6.0.36'|
 |dotnet-apphost-pack-8.0|8.0.10|8.0.21|lang-dotnet|Compliance mode enabled, was '8.0.21'|
 |dotnet-host|8.0.10|8.0.21|lang-dotnet|Compliance mode enabled, was '8.0.21'|
@@ -622,7 +622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.0.4|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
 |git|2.51.0|2.51.1|app-vcs|Compliance mode enabled, was '2.51.1'|
-|git-lfs|3.6.1|3.7.0|app-devel|Compliance mode enabled, was '3.7.0'|
+|git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
 |gitea|1.24.5|1.24.6|app-vcs|Compliance mode enabled, was '1.24.6'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitoxide|0.44.0|0.45.0|app-vcs|Compliance mode enabled, was '0.45.0'|
@@ -774,7 +774,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
-|hddtemp|0.3.52|0.4.3|app-utils|Compliance mode enabled, was '0.4.3'|
 |hdrhistogram-c|0.11.8|0.11.9|runtime-common|Compliance mode enabled, was '0.11.9'|
 |hdsentinel|0.17|999e|app-utils|Compliance mode enabled, was '999e'|
 |heatshrink|0.4.1|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'<br>Possible downgrade from the current version (0.4.1 -> 0.3.0)|
@@ -1429,7 +1428,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |libquotient|0.8.2|0.9.5|runtime-web|Compliance mode enabled, was '0.9.5'|
 |libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
-|libreoffice|25.8.0.4|25.8.2.2|groups|Compliance mode enabled, was '25.8.2.2'|
+|libreoffice|25.8.0.4|25.8.2.2|app-productivity|Compliance mode enabled, was '25.8.2.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.14.0|runtime-i18n|Compliance mode enabled, was '1.14.0'|
 |librsvg|2.59.2|2.61.1|runtime-imaging|Compliance mode enabled, was '2.61.1'|
@@ -2406,7 +2405,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpi-firmware-boot|1.20250430|1.20250915|runtime-kernel||
 |rpm|4.18.0|6.0.0-release|app-admin|Compliance mode enabled, was '6.0.0-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
-|rsa|4.0|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |rt-tests|2.6|2.9|app-utils|Compliance mode enabled, was '2.9'|
 |rtaudio|5.1.0|6.0.1|runtime-multimedia|Compliance mode enabled, was '6.0.1'|
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
@@ -2796,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.2|0.9.3|lang-python|Compliance mode enabled, was '0.9.3'|
 |v2ray|5.40.0|5.41.0|app-proxy|Compliance mode enabled, was '5.41.0'|
-|v2ray-rules-dat|202510042211|202510152212|runtime-data|Compliance mode enabled, was '202510152212'<br>Versions not comparable: `202510042211` and `202510152212`|
+|v2ray-rules-dat|202510042211|202510162210|runtime-data|Compliance mode enabled, was '202510162210'<br>Versions not comparable: `202510042211` and `202510162210`|
 |v2raya|2.2.7.2|2.2.7.3|app-proxy|Compliance mode enabled, was '2.2.7.3'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
