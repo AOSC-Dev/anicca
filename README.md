@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760674481?label=Updated)
+![Relative date](https://img.shields.io/date/1760677973?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -139,6 +139,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babl|0.1.114|0.1.116|runtime-imaging|Compliance mode enabled, was '0.1.116'|
 |baloo|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |baloo-widgets|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
+|balz|1.20|.82|app-utils|Compliance mode enabled, was '.82'|
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
 |baobab|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |bash|5.2.37|5.3|app-shells|Compliance mode enabled, was '5.3'|
@@ -1936,6 +1937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pep517|0.12.0|0.13.1|lang-python|Compliance mode enabled, was '0.13.1'|
 |perl|5.36.3|5.42.0|lang-perl|Compliance mode enabled, was '5.42.0'|
 |perl-alien-build|1.92|2.84|lang-perl|Compliance mode enabled, was '2.84'|
+|perl-alien-libxml2|0.11|0.20|lang-perl|Compliance mode enabled, was '0.20'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
 |perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
 |perl-app-cpanminus|1.7044|1.7048|lang-perl|Compliance mode enabled, was '1.7048'|
