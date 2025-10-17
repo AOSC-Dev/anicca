@@ -2615,6 +2615,7 @@
 ["cifs-utils","7.0","7.4","app-network",1746182477,["Compliance mode enabled, was '7.4'"]],
 ["vnstat","2.4","2.13","app-network",1569375540,["Compliance mode enabled, was '2.13'"]],
 ["freerdp","3.16.0","3.17.2","app-network",1750172721,["Compliance mode enabled, was '3.17.2'"]],
+["mitmproxy","11.0.0","12.2.0","app-network",1738033645,[]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["privoxy","3.0.34","4.0.0","app-network",1710986202,["Compliance mode enabled, was '4.0.0'"]],
 ["dnsdiag","2.6.0","2.8.1","app-network",1732598219,["Compliance mode enabled, was '2.8.1'"]],
