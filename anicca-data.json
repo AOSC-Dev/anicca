@@ -1419,6 +1419,7 @@
 ["i2pd","2.57.0","2.58.0","app-web",1750986009,["Compliance mode enabled, was '2.58.0'"]],
 ["anubis","1.21.3","1.22.0","app-web",1753924800,["Compliance mode enabled, was '1.22.0'"]],
 ["teams-for-linux","2.2.1","2.5.13","app-web",1758248938,["Compliance mode enabled, was '2.5.13'"]],
+["postfix","3.7.3","3.10.4","app-web",1721223235,["Compliance mode enabled, was '3.10.4'"]],
 ["hugo","0.151.0","0.151.2","app-web",1760111376,["Compliance mode enabled, was '0.151.2'"]],
 ["httpd","2.4.63","2.4.65","app-web",1738155846,["Compliance mode enabled, was '2.4.65'"]],
 ["liferea","1.14.6","1.16.5","app-web",1749107082,["Compliance mode enabled, was '1.16.5'"]],
