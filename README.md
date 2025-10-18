@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760821718?label=Updated)
+![Relative date](https://img.shields.io/date/1760825533?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -594,7 +594,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
-|geoclue2|2.6.0|2.8.0|runtime-gis|Compliance mode enabled, was '2.8.0'|
 |geoipupdate|7.1.0|7.1.1|app-network|Compliance mode enabled, was '7.1.1'|
 |geos|3.13.1|3.14.0|runtime-gis|Compliance mode enabled, was '3.14.0'|
 |getdns|1.6.0|1.7.3|app-network|Compliance mode enabled, was '1.7.3'|
@@ -1833,7 +1832,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjfx-21|21.0.5<br>+0|21.0.9+1|lang-java|Compliance mode enabled, was '21.0.9+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
 |openjpeg|2.5.2|2.5.4|runtime-imaging|Compliance mode enabled, was '2.5.4'|
-|openldap|2_6_9|2.6.10|app-admin||
 |openldap+32|2_6_9|2.6.10|runtime-optenv32||
 |openmpi|4.1.6|5.0.8amzn1|app-scientific|Compliance mode enabled, was '5.0.8amzn1'|
 |openmpt|0.7.13|0.8.3|app-multimedia|Compliance mode enabled, was '0.8.3'|
@@ -1892,7 +1890,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paper-icon-theme|20180816|1.5.0|desktop-themes|Compliance mode enabled, was '1.5.0'<br>Possible downgrade from the current version (20180816 -> 1.5.0)|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |parallel|20250422|20250922|app-utils|Compliance mode enabled, was '20250922'|
-|paramiko|2.10.3|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |pari|2.13.1|2.17.2|app-scientific|Compliance mode enabled, was '2.17.2'|
 |parley|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
