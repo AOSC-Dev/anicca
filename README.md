@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760782276?label=Updated)
+![Relative date](https://img.shields.io/date/1760785567?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -238,7 +238,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.6.1|1.6.4|app-utils|Compliance mode enabled, was '1.6.4'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
-|chiron-sans-hk|2.046|2.603|desktop-fonts|Compliance mode enabled, was '2.603'|
+|chiron-sans-hk|2.046|2.604|desktop-fonts|Compliance mode enabled, was '2.604'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
@@ -571,7 +571,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
 |gammaray|2.11.2|3.3.0|app-devel|Compliance mode enabled, was '3.3.0'|
-|gap|4.10.2|4.15.0|app-scientific|Compliance mode enabled, was '4.15.0'|
+|gap|4.10.2|4.15.1|app-scientific|Compliance mode enabled, was '4.15.1'|
 |gaupol|1.7|1.15|app-multimedia|Compliance mode enabled, was '1.15'|
 |gcab|1.1|1.6|desktop-gnome|Compliance mode enabled, was '1.6'|
 |gcc|14.3.0|15.2.0|core-devel|Compliance mode enabled, was '15.2.0'|
