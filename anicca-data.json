@@ -1599,7 +1599,7 @@
 ["python-evdev","1.7.1","1.9.2","lang-python",1718853220,["Compliance mode enabled, was '1.9.2'"]],
 ["oslo-i18n","6.3.0","6.6.0","lang-python",1724639794,["Compliance mode enabled, was '6.6.0'"]],
 ["jdcal","1.4","1.4.1","lang-python",1530718723,["Compliance mode enabled, was '1.4.1'"]],
-["iniconfig","2.0.0","2.1.0","lang-python",1701508585,["Compliance mode enabled, was '2.1.0'"]],
+["iniconfig","2.0.0","2.2.0","lang-python",1701508585,["Compliance mode enabled, was '2.2.0'"]],
 ["hyper-h2","4.0.0","4.3.0","lang-python",1618998184,["Compliance mode enabled, was '4.3.0'"]],
 ["python-dbusmock","0.22.0","0.37.1","lang-python",1746957873,["Compliance mode enabled, was '0.37.1'"]],
 ["python-ly","0.9.7","0.9.9","lang-python",1716256367,["Compliance mode enabled, was '0.9.9'"]],
