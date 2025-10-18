@@ -582,6 +582,7 @@
 ["sphinx-rtd-theme","1.0.0","3.0.2","app-doc",1637877096,["Compliance mode enabled, was '3.0.2'"]],
 ["mdbook","0.4.40","0.4.52","app-doc",1730689657,["Compliance mode enabled, was '0.4.52'"]],
 ["sphinxcontrib-websupport","1.2.4","2.0.0","app-doc",1620461778,["Compliance mode enabled, was '2.0.0'"]],
+["hplip","3.25.2","3.25.6","app-doc",1747574522,["Compliance mode enabled, was '3.25.6'"]],
 ["xreader","4.2.2","4.4.0","app-doc",1738981173,["Compliance mode enabled, was '4.4.0'"]],
 ["asymptote","3.05","2.47","app-doc",1759673420,["Compliance mode enabled, was '2.47'","Possible downgrade from the current version (3.05 -> 2.47)"]],
 ["furo","2024.8.6","2025.9.25","app-doc",1740163407,["Compliance mode enabled, was '2025.9.25'"]],
