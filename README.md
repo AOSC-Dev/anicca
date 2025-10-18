@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760764297?label=Updated)
+![Relative date](https://img.shields.io/date/1760768173?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -504,6 +504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feishin|0.20.1|0.21.2|app-multimedia|Compliance mode enabled, was '0.21.2'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |fennel|1.5.3|1.6.0|lang-lua|Compliance mode enabled, was '1.6.0'|
+|fennel-ls|0.2.1|0.2.0|lang-lua|Compliance mode enabled, was '0.2.0'<br>Possible downgrade from the current version (0.2.1 -> 0.2.0)|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
 |ffmpeg+32|7.1|8.0|runtime-optenv32|Compliance mode enabled, was '8.0'|
@@ -591,6 +592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit-plugins|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |gegl-0.4|0.4.62|0.4.64|runtime-imaging|Compliance mode enabled, was '0.4.64'|
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
+|genwan-font|2.000|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |genyo-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
 |geoclue2|2.6.0|2.8.0|runtime-gis|Compliance mode enabled, was '2.8.0'|
 |geoipupdate|7.1.0|7.1.1|app-network|Compliance mode enabled, was '7.1.1'|
@@ -1223,7 +1225,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lazygit|0.54.2|0.55.1|app-vcs|Compliance mode enabled, was '0.55.1'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
 |lcms2+32|2.14|2.17|runtime-optenv32|Compliance mode enabled, was '2.17'|
-|ldc|1.38.0|1.41.0|lang-dlang|Compliance mode enabled, was '1.41.0'|
 |lego|4.25.1|4.27.0|app-web|Compliance mode enabled, was '4.27.0'|
 |leptonica|1.84.1|1.86.0|app-scientific|Compliance mode enabled, was '1.86.0'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
@@ -1910,7 +1911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.46|runtime-optenv32|Compliance mode enabled, was '10.46'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.3.3|app-devices|Compliance mode enabled, was '2.3.3'|
-|pcsx2|1.6.0<br>+git20210825|2.5.230|app-games|Compliance mode enabled, was '2.5.230'|
+|pcsx2|1.6.0<br>+git20210825|2.5.233|app-games|Compliance mode enabled, was '2.5.233'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
