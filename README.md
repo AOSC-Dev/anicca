@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760771540?label=Updated)
+![Relative date](https://img.shields.io/date/1760775346?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1066,6 +1066,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmag|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kmahjongg|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kmail|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
+|kmail-account-wizard|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kmailtransport|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kmbox|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kmediaplayer|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
@@ -2000,7 +2001,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tee|0.65|0.66|lang-perl|Compliance mode enabled, was '0.66'|
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compliance mode enabled, was '1.20'|
 |perl-ipc-run|20180523.0|20250809.0|lang-perl|Compliance mode enabled, was '20250809.0'|
-|perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
 |perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
 |perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
@@ -2773,6 +2773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.4|2.41.2|app-utils|Compliance mode enabled, was '2.41.2'|
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
+|util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.2|0.9.3|lang-python|Compliance mode enabled, was '0.9.3'|
 |v2ray-rules-dat|202510042211|202510172212|runtime-data|Compliance mode enabled, was '202510172212'<br>Versions not comparable: `202510042211` and `202510172212`|
 |v2raya|2.2.7.2|2.2.7.3|app-proxy|Compliance mode enabled, was '2.2.7.3'|
