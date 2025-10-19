@@ -1557,7 +1557,7 @@
 ["jsonpointer","2.3","3.0.0","lang-python",1678351353,["Compliance mode enabled, was '3.0.0'"]],
 ["openstack-service-types","1.7.0","1.8.0","lang-python",1724639794,["Compliance mode enabled, was '1.8.0'"]],
 ["pyjwt","2.3.0","2.10.1","lang-python",1631079144,["Compliance mode enabled, was '2.10.1'"]],
-["pypsutil","5.9.8","7.1.0","lang-python",1758687221,["Compliance mode enabled, was '7.1.0'"]],
+["pypsutil","5.9.8","7.1.1","lang-python",1758687221,["Compliance mode enabled, was '7.1.1'"]],
 ["pytest","8.2.2","8.4.2","lang-python",1718021080,["Compliance mode enabled, was '8.4.2'"]],
 ["jedi","0.18.1","0.19.2","lang-python",1626504939,["Compliance mode enabled, was '0.19.2'"]],
 ["keyring","21.7.0","25.6.0","lang-python",1609330974,["Compliance mode enabled, was '25.6.0'"]],
