@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760834971?label=Updated)
+![Relative date](https://img.shields.io/date/1760841203?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -322,7 +322,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.5|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
-|ctags|6.2.20251005.0|6.2.20251012.0|app-devel|Compliance mode enabled, was '6.2.20251012.0'|
+|ctags|6.2.20251005.0|6.2.20251019.0|app-devel|Compliance mode enabled, was '6.2.20251019.0'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -668,6 +668,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-online-accounts|3.44.0|3.56.1|desktop-gnome|Compliance mode enabled, was '3.56.1'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
+|gnome-power-manager|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-session|42.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-settings-daemon|42.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-shell|42.4|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
@@ -1714,8 +1715,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.17.0|2.17.0+|app-scientific|Compliance mode enabled, was '2.17.0+'|
 |ncbi-vdb|3.0.2|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |ncdu|1.22|2.9.1|app-utils|Compliance mode enabled, was '2.9.1'|
-|ncurses|6.4|6.5+20251010|runtime-common|Compliance mode enabled, was '6.5-20251010'|
-|ncurses+32|6.4|6.5+20251010|runtime-optenv32|Compliance mode enabled, was '6.5-20251010'|
+|ncurses|6.4|6.5+20251018|runtime-common|Compliance mode enabled, was '6.5-20251018'|
+|ncurses+32|6.4|6.5+20251018|runtime-optenv32|Compliance mode enabled, was '6.5-20251018'|
 |ndctl|80|83|app-admin|Compliance mode enabled, was '83'|
 |nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
 |nemo-extensions|5.8.0|6.4.0|desktop-cinnamon|Compliance mode enabled, was '6.4.0'|
@@ -2239,7 +2240,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside6|6.9.2|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |pytest|8.2.2|8.4.2|lang-python|Compliance mode enabled, was '8.4.2'|
-|python-3|3.10.18|3.14.0|lang-python|Compliance mode enabled, was '3.14.0'|
 |python-build|1.2.1|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-cloudflare|2.8.15|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |python-crc|7.0.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
@@ -2719,6 +2719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree-sitter-markdown|0.4.1|0.5.1|runtime-editors|Compliance mode enabled, was '0.5.1'|
 |tree-sitter-query|0.5.1|0.7.0|runtime-editors|Compliance mode enabled, was '0.7.0'|
 |tree-sitter-vim|0.5.0|0.7.0|runtime-editors|Compliance mode enabled, was '0.7.0'|
+|tree-sitter-vimdoc|3.0.1|4.0.0|runtime-editors|Compliance mode enabled, was '4.0.0'|
 |treevsrepo|0.4.3|0.4.5|app-devel|Compliance mode enabled, was '0.4.5'|
 |triforce|0.2.0|0.3.2|runtime-multimedia|Compliance mode enabled, was '0.3.2'|
 |trinity-default-settings|2023.07.1r|2025.10.0|runtime-data|Compliance mode enabled, was '2025.10.0'|
