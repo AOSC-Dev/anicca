@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1760973253?label=Updated)
+![Relative date](https://img.shields.io/date/1760976861?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1190,6 +1190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktnef|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ktorrent|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ktorrent-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|ktouch|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ktrip|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ktuberling|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kturtle|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -1233,7 +1234,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lego|4.25.1|4.27.0|app-web|Compliance mode enabled, was '4.27.0'|
 |leptonica|1.84.1|1.86.0|app-scientific|Compliance mode enabled, was '1.86.0'|
 |levenshtein|0.12.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
-|libaacs|0.11.0|0.11.1|runtime-multimedia|Compliance mode enabled, was '0.11.1'|
 |libadwaita|1.8.0|1.8.1|desktop-gnome|Compliance mode enabled, was '1.8.1'|
 |libarchive|3.7.8|3.8.2|runtime-common|Compliance mode enabled, was '3.8.2'|
 |libart-lgpl|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
