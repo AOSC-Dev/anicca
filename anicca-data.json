@@ -604,6 +604,7 @@
 ["xfmpc","0.3.0","0.4.0","desktop-xfce",1742452156,["Compliance mode enabled, was '0.4.0'"]],
 ["tumbler","4.20.0","4.20.1","desktop-xfce",1738981173,["Compliance mode enabled, was '4.20.1'"]],
 ["breezy","3.3.12","3.3.13","app-vcs",1752317859,["Compliance mode enabled, was '3.3.13'"]],
+["mercurial","7.0.2","7.1.1","app-vcs",1748943079,["Compliance mode enabled, was '7.1.1'"]],
 ["lazygit","0.54.2","0.55.1","app-vcs",1755049758,["Compliance mode enabled, was '0.55.1'"]],
 ["tortoisehg","6.6.3","7.0.1","app-vcs",1716735995,["Compliance mode enabled, was '7.0.1'"]],
 ["gitea","1.24.5","1.24.6","app-vcs",1758207060,["Compliance mode enabled, was '1.24.6'"]],
