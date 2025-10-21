@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761020092?label=Updated)
+![Relative date](https://img.shields.io/date/1761023636?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -163,6 +163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.79|5.84|app-devices|Compliance mode enabled, was '5.84'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
+|bolt|0.9.8|0.9.10|app-admin|Compliance mode enabled, was '0.9.10'|
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
@@ -331,7 +332,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cxxopts|3.2.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
 |cython|3.1.2|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|damo|2.4.7|3.0.0|app-admin|Compliance mode enabled, was '3.0.0'|
+|damo|2.4.7|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
@@ -428,6 +429,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duckdb|1.3.2|1.4.1|app-database|Compliance mode enabled, was '1.4.1'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.6|runtime-vcs|Compliance mode enabled, was '0.24.6'|
+|duplicity|3.0.1|3.0.5.1|app-utils|Compliance mode enabled, was '3.0.5.1'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |earlyoom|1.8.2|1.9.0|app-admin|Compliance mode enabled, was '1.9.0'|
 |edencommon|2025.09.01.00|2025.10.20.00|runtime-common|Compliance mode enabled, was '2025.10.20.00'|
@@ -507,6 +509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
 |ffmpeg+32|7.1|8.0|runtime-optenv32|Compliance mode enabled, was '8.0'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
+|ffmpegthumbs|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
 |file-roller|3.42.0|44.6|desktop-gnome|Compliance mode enabled, was '44.6'|
@@ -1047,7 +1050,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kiten|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kitinerary|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|kitty|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |kiwisolver|1.4.8|1.4.9|lang-python|Compliance mode enabled, was '1.4.9'|
 |kjobwidgets|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kjournald|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2897,7 +2899,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfmpc|0.3.0|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
-|xiccd|0.3.0|0.4.1|app-utils|Compliance mode enabled, was '0.4.1'|
 |xine-ui|0.99.12|0.99.14|app-multimedia|Compliance mode enabled, was '0.99.14'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xinit|1.4.2|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
