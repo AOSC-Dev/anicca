@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761017747?label=Updated)
+![Relative date](https://img.shields.io/date/1761020092?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -163,7 +163,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.79|5.84|app-devices|Compliance mode enabled, was '5.84'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
-|bolt|0.9.8|0.9.10|app-admin|Compliance mode enabled, was '0.9.10'|
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
@@ -291,7 +290,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coinutils|2.11.4|2.11.12|app-scientific|Compliance mode enabled, was '2.11.12'|
 |colcon-core|0.20.0|0.20.1|app-devel|Compliance mode enabled, was '0.20.1'|
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
-|colord|1.4.7|1.4.8|app-admin|Compliance mode enabled, was '1.4.8'|
 |colord-kde|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
 |composer|2.8.5|2.8.12|app-devel|Compliance mode enabled, was '2.8.12'|
@@ -430,7 +428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duckdb|1.3.2|1.4.1|app-database|Compliance mode enabled, was '1.4.1'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.6|runtime-vcs|Compliance mode enabled, was '0.24.6'|
-|duplicity|3.0.1|3.0.5.1|app-utils|Compliance mode enabled, was '3.0.5.1'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |earlyoom|1.8.2|1.9.0|app-admin|Compliance mode enabled, was '1.9.0'|
 |edencommon|2025.09.01.00|2025.10.20.00|runtime-common|Compliance mode enabled, was '2025.10.20.00'|
@@ -510,7 +507,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
 |ffmpeg+32|7.1|8.0|runtime-optenv32|Compliance mode enabled, was '8.0'|
 |ffmpegthumbnailer|2.2.2|2.2.3|app-multimedia|Compliance mode enabled, was '2.2.3'|
-|ffmpegthumbs|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
 |file|5.45|5.46|app-utils|Compliance mode enabled, was '5.46'|
 |file-roller|3.42.0|44.6|desktop-gnome|Compliance mode enabled, was '44.6'|
@@ -2395,6 +2391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |roxterm|3.15.0|3.17.2|app-utils|Compliance mode enabled, was '3.17.2'|
 |rpcbind|1.2.7|1.2.8|app-network|Compliance mode enabled, was '1.2.8'|
+|rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
 |rpds-py|0.27.0|0.27.1|lang-python|Compliance mode enabled, was '0.27.1'|
 |rpi-firmware-boot|1.20250430|1.20250915|runtime-kernel||
 |rpm|4.18.0|6.0.0-release|app-admin|Compliance mode enabled, was '6.0.0-release'|
@@ -2629,6 +2626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-systemsettings|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeaccessibility|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeaddons|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
+|tdeadmin|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdeartwork|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdebase|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tdebindings|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
