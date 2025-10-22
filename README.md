@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761139766?label=Updated)
+![Relative date](https://img.shields.io/date/1761142415?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2225,6 +2225,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypsutil|5.9.8|7.1.1|lang-python|Compliance mode enabled, was '7.1.1'|
 |pyqt-builder|1.18.0|1.19.0|lang-python|Compliance mode enabled, was '1.19.0'|
 |pyqt5-sip|12.17.0|12.17.1|lang-python|Compliance mode enabled, was '12.17.1'|
+|pyqt6|6.9.1|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
+|pyqt6-webengine|6.9.0|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyside2|5.15.16|5.15.17|lang-python|Compliance mode enabled, was '5.15.17'|
 |pyside6|6.9.2|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
@@ -2465,6 +2467,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simple-scan|42.1|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |simplejson|3.16.0|3.20.2|lang-python|Compliance mode enabled, was '3.20.2'|
+|sing-box|1.12.11|1.12.10|app-proxy|Compliance mode enabled, was '1.12.10'<br>Possible downgrade from the current version (1.12.11 -> 1.12.10)|
 |singular|4.1.1|2025.08.26|app-scientific|Compliance mode enabled, was '2025.08.26'|
 |sip|6.12.0|6.13.1|lang-python|Compliance mode enabled, was '6.13.1'|
 |skanlite|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
