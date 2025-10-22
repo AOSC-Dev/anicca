@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761157160?label=Updated)
+![Relative date](https://img.shields.io/date/1761159919?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2218,7 +2218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyotherside|1.5.9|1.6.2|lang-python|Compliance mode enabled, was '1.6.2'|
 |pyparsing|3.2.3|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|6.1.2|lang-python|Compliance mode enabled, was '6.1.2'|
+|pypdf|4.0.1|6.1.3|lang-python|Compliance mode enabled, was '6.1.3'|
 |pypdf2|1.26.0|6.1.2|lang-python|Compliance mode enabled, was '6.1.2'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pyperf|2.5.0|2.9.0|lang-python|Compliance mode enabled, was '2.9.0'|
@@ -2395,6 +2395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtaudio|5.1.0|6.0.1|runtime-multimedia|Compliance mode enabled, was '6.0.1'|
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
+|ruamel-yaml|0.18.15|0.18.16|lang-python|Compliance mode enabled, was '0.18.16'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby-ffi|1.17.0|1.17.2|lang-ruby|Compliance mode enabled, was '1.17.2'|
 |ruby-gettext|3.2.9|3.5.1|lang-ruby|Compliance mode enabled, was '3.5.1'|
@@ -2599,7 +2600,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |targetcli-fb|2.1.54|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |tarsnap|1.0.39|1.0.41|app-admin|Compliance mode enabled, was '1.0.41'|
-|taskwarrior|3.4.1|3.4.2|app-productivity|Compliance mode enabled, was '3.4.2'|
 |tastymenu-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tauri-cli|2.8.4|2.9.1|lang-rust|Compliance mode enabled, was '2.9.1'|
 |tbb|2021.11.0|2022.2.0|runtime-common|Compliance mode enabled, was '2022.2.0'|
@@ -2842,7 +2842,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wireshark|4.4.9|4.6.0|app-network|Compliance mode enabled, was '4.6.0'|
-|wlroots|0.19.1|0.19.2|runtime-display|Compliance mode enabled, was '0.19.2'|
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wondershaper|1.2.1|1.4.1|app-network|Compliance mode enabled, was '1.4.1'|
 |wqy-unibit|1.1.0|9.5.0|desktop-fonts|Compliance mode enabled, was '9.5.0'|
@@ -2868,7 +2867,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal-gnome|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |xdg-desktop-portal-kde|5.27.12|6.5.0|desktop-kde|Compliance mode enabled, was '6.5.0'|
-|xdg-desktop-portal-wlr|0.7.1|0.8.0|app-admin|Compliance mode enabled, was '0.8.0'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
