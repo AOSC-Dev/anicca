@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761093955?label=Updated)
+![Relative date](https://img.shields.io/date/1761100150?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -216,7 +216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|3.8.1|3.11.0|runtime-common|Compliance mode enabled, was '3.11.0'|
 |cava|0.10.5|0.10.6|app-multimedia|Compliance mode enabled, was '0.10.6'|
 |cbc|2.10.5|2.10.12|app-scientific|Compliance mode enabled, was '2.10.12'|
-|cbindgen|0.29.0|0.29.1|lang-rust|Compliance mode enabled, was '0.29.1'|
+|cbindgen|0.29.0|0.29.2|lang-rust|Compliance mode enabled, was '0.29.2'|
 |cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.10.2|4.12.1|app-devel|Compliance mode enabled, was '4.12.1'|
 |ccid|1.5.1|1.7.0|runtime-devices|Compliance mode enabled, was '1.7.0'|
@@ -699,7 +699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.41.1|lang-python|Compliance mode enabled, was '2.41.1'|
 |google-auth-httplib2|0.0.4|0.2.0|lang-python|Compliance mode enabled, was '0.2.0'|
 |google-chrome|141.0.7390.107|141.0.7390.122|app-web|Compliance mode enabled, was '141.0.7390.122'|
-|goreleaser|2.8.2|2.12.5|lang-golang|Compliance mode enabled, was '2.12.5'|
+|goreleaser|2.8.2|2.12.6|lang-golang|Compliance mode enabled, was '2.12.6'|
 |goverlay|1.2|1.5.2|app-utils|Compliance mode enabled, was '1.5.2'|
 |gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
@@ -1811,13 +1811,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|2.3.0|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.1.6.2|runtime-imaging|Compliance mode enabled, was '3.1.6.2'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.28-ga|11.0.29+6|lang-java||
+|openjdk-11|11.0.28-ga|11.0.29+7|lang-java||
 |openjdk-17|17.0.16-ga|17.0.17+10|lang-java||
 |openjdk-21|21.0.8-ga|21.0.9+10|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
-|openjdk-8|8u462-ga|8u472-b07|groups||
+|openjdk-8|8u462-ga|8u472-b08|groups||
 |openjfx-17|17.0.13<br>+0|17.0.17+1|lang-java|Compliance mode enabled, was '17.0.17+1'|
 |openjfx-21|21.0.5<br>+0|21.0.9+1|lang-java|Compliance mode enabled, was '21.0.9+1'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
@@ -2596,6 +2596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |targetcli-fb|2.1.54|3.0.1|app-admin|Compliance mode enabled, was '3.0.1'|
 |tarsnap|1.0.39|1.0.41|app-admin|Compliance mode enabled, was '1.0.41'|
+|taskwarrior|3.4.1|3.4.2|app-productivity|Compliance mode enabled, was '3.4.2'|
 |tastymenu-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tauri-cli|2.8.4|2.9.0|lang-rust|Compliance mode enabled, was '2.9.0'|
 |tbb|2021.11.0|2022.2.0|runtime-common|Compliance mode enabled, was '2022.2.0'|
