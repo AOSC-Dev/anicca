@@ -1898,6 +1898,7 @@
 ["vte","0.68.0","0.82.1","runtime-desktop",1721223235,["Compliance mode enabled, was '0.82.1'"]],
 ["wxwidgets","3.2.4","3.3.1","runtime-desktop",1706855338,["Compliance mode enabled, was '3.3.1'"]],
 ["vala-panel-appmenu","0.7.4","25.04","runtime-desktop",1600321917,["Compliance mode enabled, was '25.04'"]],
+["libdecor","0.2.3","0.2.4","runtime-desktop",1747366814,["Compliance mode enabled, was '0.2.4'"]],
 ["speech-dispatcher","0.11.2","0.12.1","runtime-desktop",1663210254,["Compliance mode enabled, was '0.12.1'"]],
 ["qtstyleplugins","5.0.0+git20170311","5.0.0","runtime-desktop",1513090354,["Compliance mode enabled, was '5.0.0'"]],
 ["xdg-dbus-proxy","0.1.2","0.1.6","runtime-desktop",1573326951,["Compliance mode enabled, was '0.1.6'"]],
