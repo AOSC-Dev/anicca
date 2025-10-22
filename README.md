@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761124582?label=Updated)
+![Relative date](https://img.shields.io/date/1761128072?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -299,6 +299,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conky|1.22.0|1.22.2|app-utils|Compliance mode enabled, was '1.22.2'|
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
+|copyq|12.0.1|13.0.0|app-utils|Compliance mode enabled, was '13.0.0'|
 |coreboot-utils|24.08|25.09|app-admin|Compliance mode enabled, was '25.09'|
 |corefreq|2.0.7|2.0.8|app-utils|Compliance mode enabled, was '2.0.8'|
 |corrosion|0.4.10|0.5.2|app-devel|Compliance mode enabled, was '0.5.2'|
@@ -1569,6 +1570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|6.0.1|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lxcfs|3.0.3|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
 |lxgwcleargothic-font|0.503|0.507|desktop-fonts|Compliance mode enabled, was '0.507'|
+|lxgwneoxihei-font|1.224|1.225|desktop-fonts|Compliance mode enabled, was '1.225'|
 |lxgwwenkai-font|1.520|1.521|desktop-fonts|Compliance mode enabled, was '1.521'|
 |lximage-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
 |lxml|6.0.0|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
