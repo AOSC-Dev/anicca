@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761228764?label=Updated)
+![Relative date](https://img.shields.io/date/1761232385?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -124,7 +124,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autopep8|2.3.1|2.3.2|lang-python|Compliance mode enabled, was '2.3.2'|
 |avahi-tqt|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |avisynthplus|3.7.3|3.7.5|runtime-multimedia|Compliance mode enabled, was '3.7.5'|
-|avogadrolibs|1.95.1|1.101.0|runtime-scientific|Compliance mode enabled, was '1.101.0'|
+|avogadrolibs|1.95.1|1.102.0|runtime-scientific|Compliance mode enabled, was '1.102.0'|
 |avr-binutils|2.37|2.45|app-devel|Compliance mode enabled, was '2.45'|
 |avr-gcc|10.3.1<br>+git20210510|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
 |avr-libc|2.0.0|2_2_1-release|app-devel|Compliance mode enabled, was '2_2_1-release'|
@@ -2495,7 +2495,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.1.2|runtime-database|Compliance mode enabled, was '4.1.2'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
-|solaar|1.1.14|1.1.15|app-utils|Compliance mode enabled, was '1.1.15'|
+|solaar|1.1.14|1.1.16|app-utils|Compliance mode enabled, was '1.1.16'|
 |solid|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |sonic-visualiser|4.4|5.2.1|app-multimedia|Compliance mode enabled, was '5.2.1'|
 |sonivox|3.6.12|3.6.16|runtime-multimedia|Compliance mode enabled, was '3.6.16'|
@@ -2551,7 +2551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
 |srtp|2.6.0|2.7.0|runtime-multimedia|Compliance mode enabled, was '2.7.0'|
-|sscg|3.0.5|3.0.8|app-cryptography|Compliance mode enabled, was '3.0.8'|
+|sscg|3.0.5|4.0.0|app-cryptography|Compliance mode enabled, was '4.0.0'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
 |sslh|2.2.4|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
 |stalonetray|0.8.4|1.0.1|desktop-wm|Compliance mode enabled, was '1.0.1'|
