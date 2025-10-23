@@ -1748,6 +1748,7 @@
 ["luafilesystem","1.7.0.2","1.8.0","lang-lua",1528252819,["Compliance mode enabled, was '1_8_0'"]],
 ["fennel-ls","0.2.1","0.2.0","lang-lua",1750557217,["Compliance mode enabled, was '0.2.0'","Possible downgrade from the current version (0.2.1 -> 0.2.0)"]],
 ["fennel","1.5.3","1.6.0","lang-lua",1750557217,["Compliance mode enabled, was '1.6.0'"]],
+["geoclue2","2.6.0","2.8.0","runtime-gis",1663210241,["Compliance mode enabled, was '2.8.0'"]],
 ["libosmgpsmap","1.1.0","1.2.0","runtime-gis",1590554700,["Compliance mode enabled, was '1.2.0'"]],
 ["libgeotiff","1.5.1","1.7.4","runtime-gis",1568736038,["Compliance mode enabled, was '1.7.4'"]],
 ["libspatialite","5.0.1","5.1.0","runtime-gis",1743069479,["Compliance mode enabled, was '5.1.0'"]],
