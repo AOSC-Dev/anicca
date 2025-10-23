@@ -2369,7 +2369,6 @@
 ["rocm-rocprim","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-bandwidth-test","6.4.3","20250912.42","runtime-rocm",1754889558,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-hipcub","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
-["rocm-smi-lib","7.0.1","7.0.2","runtime-rocm",1760110506,["Compliance mode enabled, was '7.0.2'"]],
 ["rocm-hipify","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-cmake","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-hipblas-common","7.0.1","20250912.42","runtime-rocm",1760110506,["Compliance mode enabled, was '20250912-42'"]],
