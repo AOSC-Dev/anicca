@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761214521?label=Updated)
+![Relative date](https://img.shields.io/date/1761217935?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -845,6 +845,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inotify-tools|4.23.9.0|4.25.9.0|app-admin|Compliance mode enabled, was '4.25.9.0'|
 |intel-graphics-compiler|2.18.5|2.20.3|app-devel|Compliance mode enabled, was '2.20.3'|
 |intel-media-driver|25.3.4|25.4.0|runtime-multimedia|Compliance mode enabled, was '25.4.0'|
+|intel-oneapi-basekit|2025.2.1|2025.3.0|app-devel|Compliance mode enabled, was '2025.3.0'|
 |inxi|3.3.37<br>+1|3.3.39+1|app-utils|Compliance mode enabled, was '3.3.39-1'|
 |iozone|3.492|3.508|app-admin|Compliance mode enabled, was '3.508'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
@@ -1695,7 +1696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |murrine|0.98.2<br>+20160321|0.98.2|desktop-gnome|Compliance mode enabled, was '0.98.2'<br>Possible downgrade from the current version (0.98.2+20160321 -> 0.98.2)|
 |musescore|4.3.2|4.6.3|app-creativity|Compliance mode enabled, was '4.6.3'|
 |musicfox|4.6.6|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
-|mutter|42.4|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
+|mutter|42.4|49.1.1|desktop-gnome|Compliance mode enabled, was '49.1.1'|
 |mvfst|2025.09.01.00|2025.10.20.00|runtime-network|Compliance mode enabled, was '2025.10.20.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.40.0|app-database|Compliance mode enabled, was '1.40.0'|
@@ -1787,7 +1788,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ofono|1.30|2.18|app-network|Compliance mode enabled, was '2.18'|
 |okteta|0.26.9|0.26.24|desktop-kde|Compliance mode enabled, was '0.26.24'|
 |okular|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|oma|1.22.3|1.22.4|app-admin|Compliance mode enabled, was '1.22.4'|
 |onedrive|2.5.5|2.5.7|app-web|Compliance mode enabled, was '2.5.7'|
 |onedrivegui|1.1.1|1.2.2|app-web|Compliance mode enabled, was '1.2.2'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
@@ -2387,7 +2387,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |roxterm|3.15.0|3.17.2|app-utils|Compliance mode enabled, was '3.17.2'|
 |rpcbind|1.2.7|1.2.8|app-network|Compliance mode enabled, was '1.2.8'|
 |rpcsvc-proto|1.4.2|1.4.4|app-devel|Compliance mode enabled, was '1.4.4'|
-|rpds-py|0.27.0|0.28.0|lang-python|Compliance mode enabled, was '0.28.0'|
 |rpi-firmware-boot|1.20250430|1.20250915|runtime-kernel||
 |rpm|4.18.0|6.0.0-release|app-admin|Compliance mode enabled, was '6.0.0-release'|
 |rrdtool|1.7.2|1.9.0|runtime-common|Compliance mode enabled, was '1.9.0'|
