@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761293786?label=Updated)
+![Relative date](https://img.shields.io/date/1761297288?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1403,7 +1403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap|1.10.4|1.10.5|runtime-network|Compliance mode enabled, was '1.10.5'|
 |libpcap+32|1.10.4|1.10.5|runtime-optenv32|Compliance mode enabled, was '1.10.5'|
 |libpeas|1.36.0|2.2.0|desktop-gnome|Compliance mode enabled, was '2.2.0'|
-|libphonenumber|8.13.38|9.0.16|runtime-i18n|Compliance mode enabled, was '9.0.16'|
+|libphonenumber|8.13.38|9.0.17|runtime-i18n|Compliance mode enabled, was '9.0.17'|
 |libpinyin|2.6.0|2.10.3|runtime-i18n|Compliance mode enabled, was '2.10.3'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libpisp|1.2.1|1.3.0|runtime-devices|Compliance mode enabled, was '1.3.0'|
@@ -2319,7 +2319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rclone|1.71.1|1.71.2|app-web|Compliance mode enabled, was '1.71.2'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdfind|1.6.0|1.7.0|app-utils|Compliance mode enabled, was '1.7.0'|
-|rdflib|6.2.0|7.2.1|lang-python|Compliance mode enabled, was '7.2.1'|
+|rdflib|6.2.0|7.3.0|lang-python|Compliance mode enabled, was '7.3.0'|
 |rdma-core|57.0|59.0|app-admin|Compliance mode enabled, was '59.0'|
 |re2|2024-06-01|2025-08-12|runtime-common||
 |re2c|3.1|4.3|runtime-common|Compliance mode enabled, was '4.3'|
@@ -2842,7 +2842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
 |wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |whisper.cpp|1.7.6|1.8.2|runtime-creativity|Compliance mode enabled, was '1.8.2'|
-|wike|3.1.1|3.1.2|app-web|Compliance mode enabled, was '3.1.2'|
+|wike|3.1.1|3.1.3|app-web|Compliance mode enabled, was '3.1.3'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wireshark|4.4.9|4.6.0|app-network|Compliance mode enabled, was '4.6.0'|
