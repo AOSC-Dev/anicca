@@ -2613,7 +2613,7 @@
 ["pyxattr","0.6.1","0.8.1","lang-python",1535864515,["Compliance mode enabled, was '0.8.1'"]],
 ["setuptools-python2","44.1.0","80.9.0","lang-python",1678950872,["Compliance mode enabled, was '80.9.0'"]],
 ["tornado","6.4.1","6.5.2","lang-python",1718881443,["Compliance mode enabled, was '6.5.2'"]],
-["openai-python","1.63.2","2.6.0","lang-python",1740043967,["Compliance mode enabled, was '2.6.0'"]],
+["openai-python","1.63.2","2.6.1","lang-python",1740043967,["Compliance mode enabled, was '2.6.1'"]],
 ["schema","0.7.5","0.7.8","lang-python",1663210209,["Compliance mode enabled, was '0.7.8'"]],
 ["dateutil","2.8.2","2.9.0.post0","lang-python",1531879946,["Compliance mode enabled, was '2.9.0.post0'"]],
 ["cli-helpers","1.1.0","2.7.0","lang-python",1551501525,["Compliance mode enabled, was '2.7.0'"]],
