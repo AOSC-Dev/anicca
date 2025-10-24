@@ -2259,7 +2259,6 @@
 ["liblqr","0.4.2","0.4.3","runtime-imaging",1678950872,["Compliance mode enabled, was '0.4.3'"]],
 ["libwmf","0.2.8.4","0.2.13","runtime-imaging",1678950872,["Compliance mode enabled, was '0.2.13'"]],
 ["soqt","1.6.3","1.6.4","runtime-imaging",1730944910,["Compliance mode enabled, was '1.6.4'"]],
-["nifti","3.0.1","last_spm5_version","runtime-imaging",1741844146,["Compliance mode enabled, was 'last_spm5_version'","Versions not comparable: `3.0.1` and `last_spm5_version`"]],
 ["libpano13","2.9.19","2.9.23","runtime-imaging",1678950872,["Compliance mode enabled, was '2.9.23'"]],
 ["shapelib","1.5.0","1.6.2","runtime-imaging",1678601017,["Compliance mode enabled, was '1.6.2'"]],
 ["gdk-pixbuf","2.42.12","2.44.4","runtime-imaging",1717154442,["Compliance mode enabled, was '2.44.4'"]],
