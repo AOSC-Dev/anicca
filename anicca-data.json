@@ -207,6 +207,7 @@
 ["libgpg-error","1.51","1.56","runtime-cryptography",1741002973,["Compliance mode enabled, was '1.56'"]],
 ["nettle","3.10.1","3.10.2","runtime-cryptography",1736733755,["Compliance mode enabled, was '3.10.2'"]],
 ["libetebase","0.5.6","0.5.8","runtime-cryptography",1729943719,["Compliance mode enabled, was '0.5.8'"]],
+["qca","2.3.4","2.3.10","runtime-cryptography",1650696645,["Compliance mode enabled, was '2.3.10'"]],
 ["p11-kit","0.25.5","0.25.10","runtime-cryptography",1737912713,["Compliance mode enabled, was '0.25.10'"]],
 ["gnutls","3.8.7","3.8.10","runtime-cryptography",1748157306,["Compliance mode enabled, was '3.8.10'"]],
 ["mbedtls","2.16.7","4.0.0","runtime-cryptography",1582091000,["Compliance mode enabled, was '4.0.0'"]],
