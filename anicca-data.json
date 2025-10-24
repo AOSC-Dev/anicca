@@ -233,7 +233,6 @@
 ["glib","2.86.0","2.86.1","runtime-common",1759165662,["Compliance mode enabled, was '2.86.1'"]],
 ["hdrhistogram-c","0.11.8","0.11.9","runtime-common",1717492721,["Compliance mode enabled, was '0.11.9'"]],
 ["rlwrap","0.43","0.47.1","runtime-common",1488669442,["Compliance mode enabled, was '0.47.1'"]],
-["libdispatch","5.6.1","6.2-release","runtime-common",1652958880,["Compliance mode enabled, was '6.2-RELEASE'"]],
 ["folly","2025.09.01.00","2025.10.20.00","runtime-common",1757214447,["Compliance mode enabled, was '2025.10.20.00'"]],
 ["volk","2.5.0","3.2.0","runtime-common",1637636760,["Compliance mode enabled, was '3.2.0'"]],
 ["sord","0.16.4","0.16.18","runtime-common",1577431822,["Compliance mode enabled, was '0.16.18'"]],
