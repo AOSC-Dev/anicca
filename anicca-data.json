@@ -775,7 +775,7 @@
 ["windowmaker","0.95.9+git20220812","0.96.0","desktop-wm",1678604483,["Compliance mode enabled, was '0.96.0'"]],
 ["bspwm","0.9.10","0.9.12","desktop-wm",1710812823,["Compliance mode enabled, was '0.9.12'"]],
 ["twm","1.0.11","1.0.13.1","desktop-wm",1600753401,["Compliance mode enabled, was '1.0.13.1'"]],
-["crush","0.11.1","0.12.2","app-utils",1761060411,["Compliance mode enabled, was '0.12.2'"]],
+["crush","0.11.1","0.12.3","app-utils",1761060411,["Compliance mode enabled, was '0.12.3'"]],
 ["dieharder","3.31.1","3.31.1_20110601-1","app-utils",1488654975,["Compliance mode enabled, was '3.31.1_20110601-1'"]],
 ["util-linux","2.40.4","2.41.2","app-utils",1737808785,["Compliance mode enabled, was '2.41.2'"]],
 ["pv","1.6.20","1.9.44","app-utils",1674452224,["Compliance mode enabled, was '1.9.44'"]],
