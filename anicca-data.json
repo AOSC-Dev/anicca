@@ -1624,7 +1624,7 @@
 ["hevea","2.36","2.37","app-doc",1715073538,["Compliance mode enabled, was '2.37'"]],
 ["sphinxext-opengraph","0.9.1","0.13.0","app-doc",1740163407,["Compliance mode enabled, was '0.13.0'"]],
 ["texstudio","4.8.6","4.8.9","app-doc",1744454846,["Compliance mode enabled, was '4.8.9'"]],
-["asciidoctor","2.0.23","2.0.25","app-doc",1717412314,["Compliance mode enabled, was '2.0.25'"]],
+["asciidoctor","2.0.23","2.0.26","app-doc",1717412314,["Compliance mode enabled, was '2.0.26'"]],
 ["sphinxcontrib-htmlhelp","2.0.0","2.1.0","app-doc",1631166650,["Compliance mode enabled, was '2.1.0'"]],
 ["xreader","4.2.2","4.4.0","app-doc",1738981173,["Compliance mode enabled, was '4.4.0'"]],
 ["doxygen","1.14.0","1.15.0","app-doc",1757903600,["Compliance mode enabled, was '1.15.0'"]],
