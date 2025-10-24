@@ -1786,7 +1786,7 @@
 ["tree-sitter-lua","0.3.0","0.4.0","runtime-editors",1743045478,["Compliance mode enabled, was '0.4.0'"]],
 ["go","1.25.1","1.25.3","lang-golang",1757426507,[]],
 ["delve","1.24.0","1.25.2","lang-golang",1744297688,["Compliance mode enabled, was '1.25.2'"]],
-["goreleaser","2.8.2","2.12.6","lang-golang",1744297690,["Compliance mode enabled, was '2.12.6'"]],
+["goreleaser","2.8.2","2.12.7","lang-golang",1744297690,["Compliance mode enabled, was '2.12.7'"]],
 ["libdiscid","0.6.2","0.6.5","runtime-multimedia",1531411178,["Compliance mode enabled, was '0.6.5'"]],
 ["libsndfile","1.2.0","1.2.2","runtime-multimedia",1745233543,["Compliance mode enabled, was '1.2.2'"]],
 ["sdl-gfx","2.0.25","2.0.27","runtime-multimedia",1486146332,["Compliance mode enabled, was '2.0.27'"]],
