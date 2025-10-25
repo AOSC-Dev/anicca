@@ -2291,7 +2291,7 @@
 ["openexr","3.1.8","3.4.2","runtime-imaging",1687941313,["Compliance mode enabled, was '3.4.2'"]],
 ["libjpeg-turbo","3.0.4","3.1.2","runtime-imaging",1732091089,["Compliance mode enabled, was '3.1.2'"]],
 ["coin","4.0.0+git20220828","4.0.6","runtime-imaging",1674446327,["Compliance mode enabled, was '4.0.6'"]],
-["gitea","1.24.5","1.24.6","app-vcs",1758207060,["Compliance mode enabled, was '1.24.6'"]],
+["gitea","1.24.5","1.24.7","app-vcs",1758207060,["Compliance mode enabled, was '1.24.7'"]],
 ["gitoxide","0.44.0","0.46.0","app-vcs",1745733463,["Compliance mode enabled, was '0.46.0'"]],
 ["lazygit","0.54.2","0.55.1","app-vcs",1755049758,["Compliance mode enabled, was '0.55.1'"]],
 ["git","2.51.0","2.51.1","app-vcs",1755594255,["Compliance mode enabled, was '2.51.1'"]],
