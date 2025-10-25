@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761430297?label=Updated)
+![Relative date](https://img.shields.io/date/1761433877?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1808,7 +1808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openai-python|1.63.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
 |openal-soft+32|1.23.1|1.24.3|runtime-optenv32|Compliance mode enabled, was '1.24.3'|
-|opencascade|7.6.3|7.9.1|runtime-imaging|Compliance mode enabled, was '7.9.1'|
+|opencascade|7.6.3|7.9.2|runtime-imaging|Compliance mode enabled, was '7.9.2'|
 |opencc|1.1.7|1.1.9|app-i18n|Compliance mode enabled, was '1.1.9'|
 |opencl-clang|20.1.0|21.1.0|runtime-common|Compliance mode enabled, was '21.1.0'|
 |opencolorio|2.1.2|2.5.0|runtime-imaging|Compliance mode enabled, was '2.5.0'|
@@ -1915,7 +1915,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.47|runtime-optenv32|Compliance mode enabled, was '10.47'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.4.0|app-devices|Compliance mode enabled, was '2.4.0'|
-|pcsx2|1.6.0<br>+git20210825|2.5.253|app-games|Compliance mode enabled, was '2.5.253'|
+|pcsx2|1.6.0<br>+git20210825|2.5.254|app-games|Compliance mode enabled, was '2.5.254'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20250506|app-doc|Compliance mode enabled, was '20250506'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
@@ -2146,7 +2146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|25.07.0|25.10.0|runtime-doc|Compliance mode enabled, was '25.10.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
-|portmidi|2.0.4|2.0.6|runtime-multimedia|Compliance mode enabled, was '2.0.6'|
+|portmidi|2.0.4|2.0.7|runtime-multimedia|Compliance mode enabled, was '2.0.7'|
 |postfix|3.7.3|3.10.4|app-web|Compliance mode enabled, was '3.10.4'|
 |postgresql|17.5|18.0|app-database|Compliance mode enabled, was '18.0'|
 |potracegui-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
