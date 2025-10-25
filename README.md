@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761405082?label=Updated)
+![Relative date](https://img.shields.io/date/1761408833?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1252,7 +1252,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio|2.1.0|2.2.0|runtime-devices|Compliance mode enabled, was '2.2.0'|
 |libcdio+32|2.1.0|2.2.0|runtime-optenv32|Compliance mode enabled, was '2.2.0'|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.2)|
-|libcdr|0.1.7|0.1.8|runtime-imaging|Compliance mode enabled, was '0.1.8'|
 |libcec|6.0.2|7.1.1|runtime-devices|Compliance mode enabled, was '7.1.1'|
 |libcgroup|2.0|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
@@ -2299,7 +2298,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2025.04.26|2025.09.13.2|lang-js|Compliance mode enabled, was '2025-09-13-2'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
-|qutebrowser|3.5.1|3.6.0|app-web||
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |radare2|5.9.4|6.0.4|app-devel|Compliance mode enabled, was '6.0.4'|
@@ -2764,7 +2762,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uritemplate|3.0.1|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |urllib3|2.4.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
 |urwid|2.1.2|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
-|usage|2.2.2|2.4.0|app-utils|Compliance mode enabled, was '2.4.0'|
+|usage|2.2.2|2.5.0|app-utils|Compliance mode enabled, was '2.5.0'|
 |usb-modeswitch|2.6.0<br>+data20170120|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |usbutils|018|019|app-utils|Compliance mode enabled, was '019'|
@@ -2791,7 +2789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1837|9.1.1869|app-editors|Compliance mode enabled, was '9.1.1869'|
+|vim|9.1.1837|9.1.1871|app-editors|Compliance mode enabled, was '9.1.1871'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
@@ -2913,7 +2911,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.58|app-electronics|Compliance mode enabled, was '0.58'|
-|yt-dlp|2025.10.14|2025.10.22|app-multimedia|Compliance mode enabled, was '2025.10.22'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubioath-flutter|7.3.0|7.3.1|app-devices|Compliance mode enabled, was '7.3.1'|
 |zanshin|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
