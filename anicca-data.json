@@ -632,7 +632,7 @@
 ["fcitx5-libthai","5.1.6","5.1.7","app-i18n",1753091727,["Compliance mode enabled, was '5.1.7'"]],
 ["crow-translate","2.11.1","4.0.2","app-i18n",1734429425,["Compliance mode enabled, was '4.0.2'"]],
 ["fcitx5-chinese-addons","5.1.9","5.1.10","app-i18n",1753091727,["Compliance mode enabled, was '5.1.10'"]],
-["fcitx5","5.1.14","5.1.15","app-i18n",1753091727,["Compliance mode enabled, was '5.1.15'"]],
+["fcitx5","5.1.14","5.1.16","app-i18n",1753091727,["Compliance mode enabled, was '5.1.16'"]],
 ["fcitx5-theme-ori","0.1+git20240716","0.3.0","app-i18n",1753017987,["Compliance mode enabled, was '0.3.0'"]],
 ["fcitx5-skk","5.1.7","5.1.8","app-i18n",1753091727,["Compliance mode enabled, was '5.1.8'"]],
 ["ibus-sunpinyin","3.0.0~rc1","2.0.3-rel-1","app-i18n",1622782977,["Compliance mode enabled, was '2.0.3-rel-1'","Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)"]],
