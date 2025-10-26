@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761449865?label=Updated)
+![Relative date](https://img.shields.io/date/1761452029?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -78,7 +78,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |appres|1.0.6|1.0.7|app-utils|Compliance mode enabled, was '1.0.7'|
 |appstream|1.0.4|1.1.1|app-admin|Compliance mode enabled, was '1.1.1'|
 |apr|1.7.5|1.7.6|runtime-common|Compliance mode enabled, was '1.7.6'|
-|apt|3.0.3|3.1.9|app-admin|Compliance mode enabled, was '3.1.9'|
+|apt|3.0.3|3.1.10|app-admin|Compliance mode enabled, was '3.1.10'|
 |arch-install-scripts|28|31|app-utils||
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.3|lang-python|Compliance mode enabled, was '3.6.3'|
@@ -1567,7 +1567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
 |lskat|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |lsof|4.99.3|4.99.5|app-utils|Compliance mode enabled, was '4.99.5'|
-|lsp-plugins|1.2.20|1.2.23|app-multimedia|Compliance mode enabled, was '1.2.23'|
+|lsp-plugins|1.2.20|1.2.24|app-multimedia|Compliance mode enabled, was '1.2.24'|
 |ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |lua-mpack|1.0.12|1.0.13|lang-lua|Compliance mode enabled, was '1.0.13'|
@@ -2174,7 +2174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psycopg2|2.8.6|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20251025|lang-python|Compliance mode enabled, was '1.0.2.20251025'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20251026|lang-python|Compliance mode enabled, was '1.0.2.20251026'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |puremagic|1.15|1.30|lang-python|Compliance mode enabled, was '1.30'|
