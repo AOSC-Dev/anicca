@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761578143?label=Updated)
+![Relative date](https://img.shields.io/date/1761581723?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -488,7 +488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fb303|2025.09.01.00|2025.10.20.00|runtime-network|Compliance mode enabled, was '2025.10.20.00'|
 |fbthrift|2025.09.01.00|2025.10.20.00|app-network|Compliance mode enabled, was '2025.10.20.00'|
 |fcgi|2.4.2|2.4.6|runtime-web|Compliance mode enabled, was '2.4.6'|
-|fcitx5|5.1.14|5.1.16|app-i18n|Compliance mode enabled, was '5.1.16'|
+|fcitx5|5.1.15|5.1.16|app-i18n|Compliance mode enabled, was '5.1.16'|
 |fcitx5-anthy|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
 |fcitx5-chewing|5.1.8|5.1.9|app-i18n|Compliance mode enabled, was '5.1.9'|
 |fcitx5-chinese-addons|5.1.9|5.1.10|app-i18n|Compliance mode enabled, was '5.1.10'|
@@ -625,7 +625,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.32.0|1.34.0|app-imaging|Compliance mode enabled, was '1.34.0'|
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.0.4|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
-|git|2.51.0|2.51.1|app-vcs|Compliance mode enabled, was '2.51.1'|
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
 |gitea|1.24.5|1.24.7|app-vcs|Compliance mode enabled, was '1.24.7'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
@@ -1558,7 +1557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|20.1.8|21.1.4|runtime-wasi|Compliance mode enabled, was '21.1.4'|
 |lmms|1.2.2<br>+git20250101|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
-|logisim-evolution|3.9.0|4.0.0|app-scientific|Compliance mode enabled, was '4.0.0'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
@@ -1568,7 +1566,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
 |lskat|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |lsof|4.99.3|4.99.5|app-utils|Compliance mode enabled, was '4.99.5'|
-|lsp-plugins|1.2.20|1.2.24|app-multimedia|Compliance mode enabled, was '1.2.24'|
 |ltrace|0.7.3<br>+git20151111|0.7.91~git20230705.8eabf68|app-devel|Compliance mode enabled, was '0.7.91~git20230705.8eabf68'|
 |lua-messagepack|0.5.1|0.5.4|lang-lua|Compliance mode enabled, was '0.5.4'|
 |lua-mpack|1.0.12|1.0.13|lang-lua|Compliance mode enabled, was '1.0.13'|
@@ -2087,7 +2084,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |pikepdf|8.15.1|10.0.0|app-doc|Compliance mode enabled, was '10.0.0'|
-|piklab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |pillow|10.4.0|12.0.0|lang-python|Compliance mode enabled, was '12.0.0'|
 |pim-data-exporter|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |pim-sieve-editor|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2309,7 +2305,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |quadrapassel|40.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
-|quickjs|2025.04.26|2025.09.13.2|lang-js|Compliance mode enabled, was '2025-09-13-2'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
