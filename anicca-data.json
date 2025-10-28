@@ -438,6 +438,7 @@
 ["gh","2.82.0","2.82.1","app-devel",1761613628,["Compliance mode enabled, was '2.82.1'"]],
 ["aspnetcore-targeting-pack-6.0","6.0.30","6.0.36","app-devel",1716597653,["Compliance mode enabled, was '6.0.36'"]],
 ["cmake","3.31.6","4.1.2","app-devel",1740506282,["Compliance mode enabled, was '4.1.2'"]],
+["highlight","4.12","4.17","app-devel",1722328885,["Compliance mode enabled, was '4.17'"]],
 ["ltrace","0.7.3+git20151111","0.7.91~git20230705.8eabf68","app-devel",1620461825,["Compliance mode enabled, was '0.7.91~git20230705.8eabf68'"]],
 ["extra-cmake-modules","5.115.0","6.19.0","app-devel",1714377107,["Compliance mode enabled, was '6.19.0'"]],
 ["diffuse","0.9.0","0.10.0","app-devel",1718471717,["Compliance mode enabled, was '0.10.0'"]],
