@@ -2345,7 +2345,7 @@
 ["nethack","3.6.6","3.6.7_released","app-games",1631079132,["Compliance mode enabled, was '3.6.7_Released'"]],
 ["lincity-ng","2.9.0","2.0","app-games",1706433133,["Compliance mode enabled, was '2.0'","Possible downgrade from the current version (2.9.0 -> 2.0)"]],
 ["endless-sky","0.10.14","0.10.16","app-games",1757756625,["Compliance mode enabled, was '0.10.16'"]],
-["pcsx2","1.6.0+git20210825","2.5.255","app-games",1631079142,["Compliance mode enabled, was '2.5.255'"]],
+["pcsx2","1.6.0+git20210825","2.5.258","app-games",1631079142,["Compliance mode enabled, was '2.5.258'"]],
 ["hmcl","3.6.20","3.6.18","app-games",1760948445,["Compliance mode enabled, was '3.6.18'","Possible downgrade from the current version (3.6.20 -> 3.6.18)"]],
 ["warzone2100","4.5.5","4.6.1","app-games",1755589819,[]],
 ["nestopia","1.52.1","1.53.2","app-games",1729579109,["Compliance mode enabled, was '1.53.2'"]],
