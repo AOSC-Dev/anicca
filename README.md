@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761642855?label=Updated)
+![Relative date](https://img.shields.io/date/1761646565?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -323,7 +323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |croc|10.2.4|10.2.7|app-utils|Compliance mode enabled, was '10.2.7'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.16.1|1.24|app-admin|Compliance mode enabled, was '1.24'|
-|crush|0.12.3|0.13.0|app-utils|Compliance mode enabled, was '0.13.0'|
+|crush|0.12.3|0.13.2|app-utils|Compliance mode enabled, was '0.13.2'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|46.0.2|46.0.3|lang-python|Compliance mode enabled, was '46.0.3'|
@@ -744,7 +744,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsm+32|1.0.19|1.0.23|runtime-optenv32|Compliance mode enabled, was '1.0.23'|
 |gsmartcontrol|1.1.3|2.0.2|app-admin|Compliance mode enabled, was '2.0.2'|
 |gsoap|2.8.124|2.8.139|runtime-network|Compliance mode enabled, was '2.8.139'|
-|gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
 |gspell|1.11.1|1.14.0|desktop-gnome|Compliance mode enabled, was '1.14.0'|
 |gssdp|1.2.3|1.6.4|runtime-network|Compliance mode enabled, was '1.6.4'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
@@ -783,7 +782,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz|8.4.0|12.1.0|runtime-desktop|Compliance mode enabled, was '12.1.0'|
 |harfbuzz+32|8.4.0|12.1.0|runtime-optenv32|Compliance mode enabled, was '12.1.0'|
 |haruna|0.12.3|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
-|hashcat|6.2.6|7.1.2|app-penetration|Compliance mode enabled, was '7.1.2'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatch-vcs|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
