@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761632293?label=Updated)
+![Relative date](https://img.shields.io/date/1761635687?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -123,6 +123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.2|app-admin|Compliance mode enabled, was '4.1.2'|
 |autobahn|24.4.2|25.10.2|lang-python|Compliance mode enabled, was '25.10.2'|
+|autobuild4|4.12.17|4.12.16|app-devel|Compliance mode enabled, was '4.12.16'<br>Possible downgrade from the current version (4.12.17 -> 4.12.16)|
 |automake|1.18|1.18.1|app-devel|Compliance mode enabled, was '1.18.1'|
 |automat|20.2.0|25.4.16|lang-python|Compliance mode enabled, was '25.4.16'|
 |autopep8|2.3.1|2.3.2|lang-python|Compliance mode enabled, was '2.3.2'|
@@ -166,6 +167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.79|5.84|app-devices|Compliance mode enabled, was '5.84'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
+|boinc|8.2.4|8.2.6|app-scientific|Compliance mode enabled, was '8.2.6'|
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
@@ -430,7 +432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtk6log|0.0.4|0.0.6|desktop-dde|Compliance mode enabled, was '0.0.6'|
 |dtk6widget|6.0.37|6.0.44|desktop-dde|Compliance mode enabled, was '6.0.44'|
 |dtkcommon|5.7.17|5.7.24|desktop-dde|Compliance mode enabled, was '5.7.24'|
-|dua|2.30.1|2.32.0|app-utils|Compliance mode enabled, was '2.32.0'|
+|dua|2.30.1|2.32.2|app-utils|Compliance mode enabled, was '2.32.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.21.6|0.24.7|runtime-vcs|Compliance mode enabled, was '0.24.7'|
 |duplicity|3.0.1|3.0.5.1|app-utils|Compliance mode enabled, was '3.0.5.1'|
@@ -879,7 +881,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iwd|3.2|3.10|app-network|Compliance mode enabled, was '3.10'|
 |j4-dmenu-desktop|2.17|3.2|app-utils|Compliance mode enabled, was '3.2'|
 |jansson|2.14|2.14.1|runtime-common|Compliance mode enabled, was '2.14.1'|
-|janus|1.0.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |jasper|2.0.21|4.2.8|runtime-imaging|Compliance mode enabled, was '4.2.8'|
 |jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
