@@ -248,6 +248,7 @@
 ["libarchive","3.7.8","3.8.2","runtime-common",1746601616,["Compliance mode enabled, was '3.8.2'"]],
 ["unibilium","2.1.1","2.1.2","runtime-common",1708762981,["Compliance mode enabled, was '2.1.2'"]],
 ["libxml2","2.10.4","2.15.1","runtime-common",1682178306,["Compliance mode enabled, was '2.15.1'"]],
+["libsigc++-3.0","3.4.0","3.6.0","runtime-common",1673673157,["Compliance mode enabled, was '3.6.0'"]],
 ["xmlrpc-c","1.54.06","1.60.05","runtime-common",1678522481,["Compliance mode enabled, was '1.60.05'"]],
 ["benchmark","1.8.2","1.9.4","runtime-common",1696572712,["Compliance mode enabled, was '1.9.4'"]],
 ["libffi","3.4.8","3.5.2","runtime-common",1744508633,["Compliance mode enabled, was '3.5.2'"]],
