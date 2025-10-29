@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761740568?label=Updated)
+![Relative date](https://img.shields.io/date/1761744577?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1001,7 +1001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdpkg-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kdsme|1.2.8|2.2.0|app-devel|Compliance mode enabled, was '2.2.0'|
 |kdsoap|1.9.0|2.2.0|runtime-network|Compliance mode enabled, was '2.2.0'|
-|kea|2.6.3|3.1.2|app-network|Compliance mode enabled, was '3.1.2'|
+|kea|2.6.3|3.1.3|app-network|Compliance mode enabled, was '3.1.3'|
 |keditbookmarks|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |keep-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kemoticons|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
@@ -2429,7 +2429,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
 |sbc+32|2.0|2.1|runtime-optenv32|Compliance mode enabled, was '2.1'|
-|sbcl|2.5.7|2.5.10|lang-lisp|Compliance mode enabled, was '2.5.10'|
 |sbsigntool|0.9.4|0.9.5|app-admin|Compliance mode enabled, was '0.9.5'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.8|lang-python|Compliance mode enabled, was '0.7.8'|
@@ -2902,6 +2901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.8|runtime-common|Compliance mode enabled, was '1.3.8'|
+|xonsh|0.19.9|0.19.10|lang-python|Compliance mode enabled, was '0.19.10'|
 |xorg-server|21.1.19|21.1.20|runtime-display|Compliance mode enabled, was '21.1.20'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
