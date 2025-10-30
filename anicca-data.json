@@ -2464,7 +2464,6 @@
 ["mocp","2.6.0~svn.r3005","2.5.2","app-multimedia",1748844653,["Compliance mode enabled, was '2.5.2'","Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)"]],
 ["espeak-ng","1.51.1","1.52.0","app-multimedia",1663210254,["Compliance mode enabled, was '1.52.0'"]],
 ["kid3","3.9.5","3.9.7","app-multimedia",1748844653,["Compliance mode enabled, was '3.9.7'"]],
-["strawberry","1.2.13","1.2.14","app-multimedia",1756735721,["Compliance mode enabled, was '1.2.14'"]],
 ["streamlink","6.7.4","7.6.0","app-multimedia",1718473109,["Compliance mode enabled, was '7.6.0'"]],
 ["subtitleripper","0.3.4","0.3","app-multimedia",1678950872,["Compliance mode enabled, was '0.3'","Possible downgrade from the current version (0.3.4 -> 0.3)"]],
 ["fluida.lv2","0.9.2","0.9.5","app-multimedia",1727190828,["Compliance mode enabled, was '0.9.5'"]],
