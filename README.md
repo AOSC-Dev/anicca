@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761795654?label=Updated)
+![Relative date](https://img.shields.io/date/1761797649?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1204,7 +1204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |ktuberling|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kturtle|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|kubo|0.33.2|0.38.1|app-proxy|Compliance mode enabled, was '0.38.1'|
+|kubo|0.33.2|0.38.2|app-proxy|Compliance mode enabled, was '0.38.2'|
 |kubrick|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kunitconversion|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
@@ -1850,7 +1850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1|1.1.1w|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
 |openssl-1.1+32|1.1.1w|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |openstack-service-types|1.7.0|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
-|opensubdiv|3.6.0|3.6.1|runtime-creativity|Compliance mode enabled, was '3_6_1'|
+|opensubdiv|3.6.0|3.7.0|runtime-creativity|Compliance mode enabled, was '3_7_0'|
 |opentabletdriver|0.6.5.1|0.6.6.2|runtime-devices|Compliance mode enabled, was '0.6.6.2'|
 |opentimelineio|0.15|0.17.0|runtime-multimedia|Compliance mode enabled, was '0.17.0'|
 |openvdb|11.0.0|12.1.1|runtime-common|Compliance mode enabled, was '12.1.1'|
@@ -2180,7 +2180,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psycopg2|2.8.6|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20251029|lang-python|Compliance mode enabled, was '1.0.2.20251029'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20251030|lang-python|Compliance mode enabled, was '1.0.2.20251030'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |puremagic|1.15|1.30|lang-python|Compliance mode enabled, was '1.30'|
@@ -2809,7 +2809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1837|9.1.1887|app-editors|Compliance mode enabled, was '9.1.1887'|
+|vim|9.1.1837|9.1.1888|app-editors|Compliance mode enabled, was '9.1.1888'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
@@ -2935,6 +2935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.45|0.58|app-electronics|Compliance mode enabled, was '0.58'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubioath-flutter|7.3.0|7.3.1|app-devices|Compliance mode enabled, was '7.3.1'|
+|z3|4.15.3|4.15.4|app-devel|Compliance mode enabled, was '4.15.4'|
 |zanshin|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zathura-djvu|0.2.10|0.2.11|app-doc|Compliance mode enabled, was '0.2.11'|
