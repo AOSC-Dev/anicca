@@ -308,6 +308,7 @@
 ["cjson","1.7.18","1.7.19","runtime-common",1732190286,["Compliance mode enabled, was '1.7.19'"]],
 ["pcre-static","8.44","8.45","runtime-common",1485403325,["Compliance mode enabled, was '8.45'"]],
 ["msgpack-c","6.0.0","6.1.0","runtime-common",1708762981,["Compliance mode enabled, was '6.1.0'"]],
+["libcap","2.73","2.77","runtime-common",1739521328,["Compliance mode enabled, was '2.77'"]],
 ["libmspack","0.10.1alpha","0.11.0","runtime-common",1616134410,["Compliance mode enabled, was '0.11.0'"]],
 ["log4cpp","1.1.3","1.1.4","runtime-common",1614161775,["Compliance mode enabled, was '1.1.4'"]],
 ["libbytesize","2.1","2.11","runtime-common",1569907996,["Compliance mode enabled, was '2.11'"]],
