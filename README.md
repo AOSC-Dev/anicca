@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761945202?label=Updated)
+![Relative date](https://img.shields.io/date/1761948714?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -170,8 +170,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.0|1.4.2|app-utils|Compliance mode enabled, was '1.4.2'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.63|lang-python|Compliance mode enabled, was '1.40.63'|
-|botocore|1.40.25|1.40.63|lang-python|Compliance mode enabled, was '1.40.63'|
+|boto3|1.40.25|1.40.64|lang-python|Compliance mode enabled, was '1.40.64'|
+|botocore|1.40.25|1.40.64|lang-python|Compliance mode enabled, was '1.40.64'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.25|app-utils|Compliance mode enabled, was '51.25'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.25)|
 |bovo|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -748,6 +748,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.4|runtime-network|Compliance mode enabled, was '1.6.4'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gst-plugins-rs|0.14.2|0.14.3|runtime-multimedia|Compliance mode enabled, was '0.14.3'|
+|gstreamer|1.26.4|1.26.7|runtime-multimedia|Compliance mode enabled, was '1.26.7'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
 |gtk-4|4.20.1|4.20.2|desktop-gnome|Compliance mode enabled, was '4.20.2'|
 |gtk-doc|1.34.0|1.35.1|app-doc|Compliance mode enabled, was '1.35.1'|
