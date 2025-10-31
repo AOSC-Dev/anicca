@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761937550?label=Updated)
+![Relative date](https://img.shields.io/date/1761941654?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -168,14 +168,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
-|borgbackup|1.4.0|1.4.1|app-utils|Compliance mode enabled, was '1.4.1'|
+|borgbackup|1.4.0|1.4.2|app-utils|Compliance mode enabled, was '1.4.2'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
 |boto3|1.40.25|1.40.63|lang-python|Compliance mode enabled, was '1.40.63'|
 |botocore|1.40.25|1.40.63|lang-python|Compliance mode enabled, was '1.40.63'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.25|app-utils|Compliance mode enabled, was '51.25'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.25)|
 |bovo|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|box64|0.3.9<br>+git20251031|0.3.8|app-emulation|Compliance mode enabled, was '0.3.8'<br>Possible downgrade from the current version (0.3.9+git20251031 -> 0.3.8)|
 |bpftrace|0.23.5|0.24.1|app-admin|Compliance mode enabled, was '0.24.1'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.5.1|desktop-kde|Compliance mode enabled, was '6.5.1'|
@@ -343,7 +342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dash|0.5.12|0.5.13.1|app-shells|Compliance mode enabled, was '0.5.13.1'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
-|dav1d|1.4.3|1.5.1|runtime-multimedia|Compliance mode enabled, was '1.5.1'|
+|dav1d|1.4.3|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
 |davfs2|1.7.0|1.7.2|app-admin|Compliance mode enabled, was '1.7.2'|
 |dbus|1.14.10|1.16.2|app-admin|Compliance mode enabled, was '1.16.2'|
 |dbus+32|1.14.10|1.16.2|runtime-optenv32|Compliance mode enabled, was '1.16.2'|
@@ -2310,7 +2309,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
 |qtractor|0.9.23|1.5.9|app-multimedia|Compliance mode enabled, was '1.5.9'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
-|qtxdg-tools|3.12.0|4.2.0|desktop-lxqt|Compliance mode enabled, was '4.2.0'|
 |quadrapassel|40.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
@@ -2472,7 +2470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shaderc|2025.3|2025.4|app-devel|Compliance mode enabled, was '2025.4'|
 |shadow|4.17.2|4.18.0|app-admin|Compliance mode enabled, was '4.18.0'|
 |shapelib|1.5.0|1.6.2|runtime-imaging|Compliance mode enabled, was '1.6.2'|
-|shotcut|25.10.9|25.10.30|app-creativity|Compliance mode enabled, was '25.10.30'|
+|shotcut|25.10.9|25.10.31|app-creativity|Compliance mode enabled, was '25.10.31'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2805,7 +2803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1837|9.1.1890|app-editors|Compliance mode enabled, was '9.1.1890'|
+|vim|9.1.1837|9.1.1891|app-editors|Compliance mode enabled, was '9.1.1891'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
