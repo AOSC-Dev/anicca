@@ -2420,6 +2420,8 @@
 ["podman","5.5.2","5.6.2","app-containers",1761613630,[]],
 ["docker-buildx","0.22.0","0.29.1","app-containers",1761613627,["Compliance mode enabled, was '0.29.1'"]],
 ["helm","3.17.1","3.19.0","app-containers",1761613628,["Compliance mode enabled, was '3.19.0'"]],
+["incus","6.17.0","6.18.0","app-containers",1761613628,["Compliance mode enabled, was '6.18.0'"]],
+["incus-ui-canonical","0.18.2","0.18.3","app-containers",1760021986,["Compliance mode enabled, was '0.18.3'"]],
 ["dbus-glib","0.110","0.114","runtime-admin",1522267404,["Compliance mode enabled, was '0.114'"]],
 ["snapd-glib","1.65","1.70","runtime-admin",1724293055,["Compliance mode enabled, was '1.70'"]],
 ["libtracefs","1.8.1","1.8.2","runtime-admin",1727016219,["Compliance mode enabled, was '1.8.2'"]],
