@@ -910,7 +910,7 @@
 ["iio-sensor-proxy","3.5","3.8","app-utils",1724909354,["Compliance mode enabled, was '3.8'"]],
 ["recode","3.7.14","3.7.15","app-utils",1716127497,["Compliance mode enabled, was '3.7.15'"]],
 ["tre","20161208","0.9.0","app-utils",1482382343,["Compliance mode enabled, was '0.9.0'","Possible downgrade from the current version (20161208 -> 0.9.0)"]],
-["systemtap","5.2","5.3","app-utils",1731407295,["Compliance mode enabled, was '5.3'"]],
+["systemtap","5.2","5.4","app-utils",1731407295,["Compliance mode enabled, was '5.4'"]],
 ["flameshot","12.1.0","13.3.0","app-utils",1658554242,["Compliance mode enabled, was '13.3.0'"]],
 ["tree","2.1.1","2.2.1","app-utils",1715027434,["Compliance mode enabled, was '2.2.1'"]],
 ["mlterm","3.8.9","3.9.4","app-utils",1575786860,["Compliance mode enabled, was '3.9.4'"]],
