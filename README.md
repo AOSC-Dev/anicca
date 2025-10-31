@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761919977?label=Updated)
+![Relative date](https://img.shields.io/date/1761923631?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -174,6 +174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|51.25|app-utils|Compliance mode enabled, was '51.25'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.25)|
 |bovo|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
+|box64|0.3.9<br>+git20251031|0.3.8|app-emulation|Compliance mode enabled, was '0.3.8'<br>Possible downgrade from the current version (0.3.9+git20251031 -> 0.3.8)|
 |bpftrace|0.23.5|0.24.1|app-admin|Compliance mode enabled, was '0.24.1'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.5.1|desktop-kde|Compliance mode enabled, was '6.5.1'|
@@ -241,7 +242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|cherry-studio|1.6.1|1.6.5|app-utils|Compliance mode enabled, was '1.6.5'|
+|cherry-studio|1.6.1|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.604|desktop-fonts|Compliance mode enabled, was '2.604'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
