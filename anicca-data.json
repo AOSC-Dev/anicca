@@ -2206,7 +2206,7 @@
 ["dbus","1.14.10","1.16.2","app-admin",1709829586,["Compliance mode enabled, was '1.16.2'"]],
 ["quota-tools","4.09","4.10","app-admin",1673935786,["Compliance mode enabled, was '4.10'"]],
 ["sbsigntool","0.9.4","0.9.5","app-admin",1600106563,["Compliance mode enabled, was '0.9.5'"]],
-["topgrade","11.0.2","16.1.1","app-admin",1752497269,["Compliance mode enabled, was '16.1.1'"]],
+["topgrade","11.0.2","16.1.2","app-admin",1752497269,["Compliance mode enabled, was '16.1.2'"]],
 ["multipath-tools","0.9.3","0.13.0","app-admin",1673935786,["Compliance mode enabled, was '0.13.0'"]],
 ["dconf","0.40.0","0.49.0","app-admin",1619939089,["Compliance mode enabled, was '0.49.0'"]],
 ["lvm2","2.03.14","2.03.36","app-admin",1641887332,["Compliance mode enabled, was '2.03.36'"]],
