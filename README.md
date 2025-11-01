@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762035151?label=Updated)
+![Relative date](https://img.shields.io/date/1762038672?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -119,6 +119,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attrs|23.2.0|25.4.0|lang-python|Compliance mode enabled, was '25.4.0'|
 |atuin|18.5.0|18.10.0|app-utils|Compliance mode enabled, was '18.10.0'|
 |audacious|4.4.2|4.5.1|app-multimedia|Compliance mode enabled, was '4.5.1'|
+|audiocd-kio|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.2|app-admin|Compliance mode enabled, was '4.1.2'|
 |autobahn|24.4.2|25.10.2|lang-python|Compliance mode enabled, was '25.10.2'|
@@ -631,7 +632,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|runtime-optenv32|Compliance mode enabled, was '5.2.2'|
 |gifsicle|1.95|1.96|app-utils|Compliance mode enabled, was '1.96'|
 |gifski|1.32.0|1.34.0|app-imaging|Compliance mode enabled, was '1.34.0'|
-|gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.0.4|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
 |git|2.51.1|2.51.2|app-vcs|Compliance mode enabled, was '2.51.2'|
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
@@ -2788,7 +2788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.6|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
-|v2ray-rules-dat|202510042211|202510312213|runtime-data|Compliance mode enabled, was '202510312213'<br>Versions not comparable: `202510042211` and `202510312213`|
+|v2ray-rules-dat|202510042211|202511012212|runtime-data|Compliance mode enabled, was '202511012212'<br>Versions not comparable: `202510042211` and `202511012212`|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
