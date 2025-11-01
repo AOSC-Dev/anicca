@@ -693,7 +693,6 @@
 ["smartdns","46.1","47","app-network",1749260425,["Compliance mode enabled, was '47'"]],
 ["iw","5.19","6.17","app-network",1674452376,["Compliance mode enabled, was '6.17'"]],
 ["tailscale","1.90.4","1.90.6","app-network",1761719051,["Compliance mode enabled, was '1.90.6'"]],
-["doggo","1.0.5","1.1.1","app-network",1761613627,["Compliance mode enabled, was '1.1.1'"]],
 ["tcping","1.3.5","2.1.0","app-network",1510795411,["Compliance mode enabled, was '2.1.0'"]],
 ["fping","5.1","5.4","app-network",1711266244,["Compliance mode enabled, was '5.4'"]],
 ["strongswan","5.9.4","6.0.3","app-network",1635182670,["Compliance mode enabled, was '6.0.3'"]],
