@@ -342,7 +342,7 @@
 ["qd","2.3.22","2.3.24","runtime-common",1549304004,["Compliance mode enabled, was '2.3.24'"]],
 ["boost","1.83.0","1.89.0","runtime-common",1721353887,["Compliance mode enabled, was '1.89.0'"]],
 ["snappy","1.1.8","1.2.2","runtime-common",1582091924,["Compliance mode enabled, was '1.2.2'"]],
-["libdeflate","1.19","1.24","runtime-common",1704452201,["Compliance mode enabled, was '1.24'"]],
+["libdeflate","1.19","1.25","runtime-common",1704452201,["Compliance mode enabled, was '1.25'"]],
 ["catch2","3.8.1","3.11.0","runtime-common",1747790358,["Compliance mode enabled, was '3.11.0'"]],
 ["re2c","3.1","4.3","runtime-common",1724637326,["Compliance mode enabled, was '4.3'"]],
 ["openvdb","11.0.0","12.1.1","runtime-common",1702006584,["Compliance mode enabled, was '12.1.1'"]],
