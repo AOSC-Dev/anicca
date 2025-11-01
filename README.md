@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1761958223?label=Updated)
+![Relative date](https://img.shields.io/date/1761964203?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -168,7 +168,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
-|borgbackup|1.4.0|1.4.2|app-utils|Compliance mode enabled, was '1.4.2'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
 |boto3|1.40.25|1.40.64|lang-python|Compliance mode enabled, was '1.40.64'|
 |botocore|1.40.25|1.40.64|lang-python|Compliance mode enabled, was '1.40.64'|
@@ -322,7 +321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |croc|10.2.4|10.2.7|app-utils|Compliance mode enabled, was '10.2.7'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.16.1|1.24|app-admin|Compliance mode enabled, was '1.24'|
-|crush|0.13.6|0.13.7|app-utils|Compliance mode enabled, was '0.13.7'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|46.0.2|46.0.3|lang-python|Compliance mode enabled, was '46.0.3'|
@@ -2755,7 +2753,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |typing-extensions|4.12.2|4.15.0|lang-python|Compliance mode enabled, was '4.15.0'|
-|typos|1.38.0|1.39.0|app-utils|Compliance mode enabled, was '1.39.0'|
 |u-boot-menu|4.2.3|4.2.4|app-admin|Compliance mode enabled, was '4.2.4'|
 |uboot-asahi|2024.10-1|2025.07-1|runtime-kernel||
 |uchardet|0.0.5|0.0.8|runtime-i18n|Compliance mode enabled, was '0.0.8'|
