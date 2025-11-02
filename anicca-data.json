@@ -438,7 +438,7 @@
 ["ltrace","0.7.3+git20151111","0.7.91~git20230705.8eabf68","app-devel",1620461825,["Compliance mode enabled, was '0.7.91~git20230705.8eabf68'"]],
 ["extra-cmake-modules","5.115.0","6.19.0","app-devel",1714377107,["Compliance mode enabled, was '6.19.0'"]],
 ["diffuse","0.9.0","0.10.0","app-devel",1718471717,["Compliance mode enabled, was '0.10.0'"]],
-["ctags","6.2.20251005.0","6.2.20251026.0","app-devel",1759656341,["Compliance mode enabled, was '6.2.20251026.0'"]],
+["ctags","6.2.20251005.0","6.2.20251102.0","app-devel",1759656341,["Compliance mode enabled, was '6.2.20251102.0'"]],
 ["sassc","3.6.1","3.6.2","app-devel",1569986121,["Compliance mode enabled, was '3.6.2'"]],
 ["makedumpfile","1.7.7","1.7.8","app-devel",1760499007,["Compliance mode enabled, was '1.7.8'"]],
 ["pam-wrapper","1.1.3","1.1.8","app-devel",1678950872,["Compliance mode enabled, was '1.1.8'"]],
