@@ -2883,6 +2883,7 @@
 ["regex","2019.02.21","2025.10.23","lang-python",1551200854,["Compliance mode enabled, was '2025.10.23'"]],
 ["python-pam","1.8.4","2.0.2","lang-python",1538255786,["Compliance mode enabled, was '2.0.2'"]],
 ["calver","2022.06.26","2025.10.20","lang-python",1708256695,["Compliance mode enabled, was '2025.10.20'"]],
+["executing","2.1.0","2.2.1","lang-python",1728614181,["Compliance mode enabled, was '2.2.1'"]],
 ["prompt-toolkit","3.0.48","3.0.52","lang-python",1728614181,["Compliance mode enabled, was '3.0.52'"]],
 ["hyper-h2","4.0.0","4.3.0","lang-python",1618998184,["Compliance mode enabled, was '4.3.0'"]],
 ["numpy","2.0.1","2.3.4","lang-python",1757752476,["Compliance mode enabled, was '2.3.4'"]],
