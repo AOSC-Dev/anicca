@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762233163?label=Updated)
+![Relative date](https://img.shields.io/date/1762237119?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1015,7 +1015,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgamma|5.27.12|6.5.1|desktop-kde|Compliance mode enabled, was '6.5.1'|
 |kgeography|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kget|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|kglobalaccel|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kgoldrunner|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kgpg|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kgtk-qt3-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1162,7 +1161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krunner|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |krusader|2.7.2|2.9.0|desktop-kde|Compliance mode enabled, was '2.9.0'|
 |krusader-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
-|ksanecore|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |kscope-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kscreen|5.27.12|6.5.1|desktop-kde|Compliance mode enabled, was '6.5.1'|
 |kscreenlocker|5.27.12|6.5.1|desktop-kde|Compliance mode enabled, was '6.5.1'|
