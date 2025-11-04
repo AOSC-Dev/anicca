@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762290708?label=Updated)
+![Relative date](https://img.shields.io/date/1762293901?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -166,8 +166,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |botan|3.8.1|3.9.0|runtime-cryptography|Compliance mode enabled, was '3.9.0'|
-|boto3|1.40.25|1.40.65|lang-python|Compliance mode enabled, was '1.40.65'|
-|botocore|1.40.25|1.40.65|lang-python|Compliance mode enabled, was '1.40.65'|
+|boto3|1.40.25|1.40.66|lang-python|Compliance mode enabled, was '1.40.66'|
+|botocore|1.40.25|1.40.66|lang-python|Compliance mode enabled, was '1.40.66'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|52.0|app-utils|Compliance mode enabled, was '52.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 52.0)|
 |bovo|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2532,8 +2532,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools+32|1.4.328.1|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
 |sqlalchemy|1.2.18|2.0.44|lang-python|Compliance mode enabled, was '2.0.44'|
 |sqlcipher|4.5.6|4.11.0|app-database|Compliance mode enabled, was '4.11.0'|
-|sqlite|3500400|3.50.4|app-database|Possible downgrade from the current version (3500400 -> 3.50.4)|
-|sqlite+32|3.46.1|3.50.4|runtime-optenv32|Compliance mode enabled, was '3.50.4'|
+|sqlite|3500400|3.51.0|app-database|Possible downgrade from the current version (3500400 -> 3.51.0)|
+|sqlite+32|3.46.1|3.51.0|runtime-optenv32|Compliance mode enabled, was '3.51.0'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlparse|0.4.1|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
