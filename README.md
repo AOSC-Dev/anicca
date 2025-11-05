@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762366607?label=Updated)
+![Relative date](https://img.shields.io/date/1762369540?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2417,7 +2417,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samba|4.23.0|4.23.2|app-network|Compliance mode enabled, was '4.23.2'|
 |samtools|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |sane-backends|1.0.32|1.4.0|runtime-devices|Compliance mode enabled, was '1.4.0'|
-|sanlock|3.8.5|4.1.0|app-admin|Compliance mode enabled, was '4.1.0'|
+|sanlock|3.8.5|4.2.0|app-admin|Compliance mode enabled, was '4.2.0'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
 |sbc+32|2.0|2.1|runtime-optenv32|Compliance mode enabled, was '2.1'|

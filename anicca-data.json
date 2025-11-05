@@ -2105,7 +2105,7 @@
 ["nut","2.7.4","2.8.4","app-admin",1625211684,["Compliance mode enabled, was '2.8.4'"]],
 ["dpkg","1.22.18","1.22.21","app-admin",1742097845,["Compliance mode enabled, was '1.22.21'"]],
 ["aardvark-dns","1.13.1","1.16.0","app-admin",1731759292,["Compliance mode enabled, was '1.16.0'"]],
-["sanlock","3.8.5","4.1.0","app-admin",1694574450,["Compliance mode enabled, was '4.1.0'"]],
+["sanlock","3.8.5","4.2.0","app-admin",1694574450,["Compliance mode enabled, was '4.2.0'"]],
 ["cryptsetup","2.7.5","2.8.1","app-admin",1733105769,["Compliance mode enabled, was '2.8.1'"]],
 ["ignition","2.20.0","2.24.0","app-admin",1761613628,["Compliance mode enabled, was '2.24.0'"]],
 ["runc","1.3.1","1.3.3","app-admin",1761613630,["Compliance mode enabled, was '1.3.3'"]],
