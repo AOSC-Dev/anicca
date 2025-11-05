@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762359307?label=Updated)
+![Relative date](https://img.shields.io/date/1762362776?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -22,6 +22,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acl+32|2.3.1|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
 |acpica-unix|20250404|20250807|app-devel|Compliance mode enabled, was '20250807'|
 |ada|2.9.1|3.3.0|runtime-web|Compliance mode enabled, was '3.3.0'|
+|adaptivecpp|25.02.0|25.10.0|app-devel|Compliance mode enabled, was '25.10.0'|
 |adguardhome|0.107.67|0.107.69|app-web|Compliance mode enabled, was '0.107.69'|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts|Compliance mode enabled, was '2.042-u/1.062-i/1.026-vf'<br>Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.005r|desktop-fonts|Compliance mode enabled, was '2.005R'|
@@ -1662,7 +1663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|91.0|95.0|app-multimedia|Compliance mode enabled, was '95.0'|
-|mlt|7.32.0|7.34.0|runtime-multimedia|Compliance mode enabled, was '7.34.0'|
+|mlt|7.32.0|7.34.1|runtime-multimedia|Compliance mode enabled, was '7.34.1'|
 |mlterm|3.8.9|3.9.4|app-utils|Compliance mode enabled, was '3.9.4'|
 |mm-common|1.0.6|1.0.7|app-devel|Compliance mode enabled, was '1.0.7'|
 |mocp|2.6.0~svn.r3005|2.5.2|app-multimedia|Compliance mode enabled, was '2.5.2'<br>Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)|
@@ -1895,7 +1896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patiencediff|0.2.15|0.2.18|lang-python|Compliance mode enabled, was '0.2.18'|
 |patool|1.12|4.0.2|app-utils|Compliance mode enabled, was '4.0.2'|
-|pavucontrol-qt|1.4.0|2.2.0|desktop-lxqt|Compliance mode enabled, was '2.2.0'|
+|pavucontrol-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |pbr|6.0.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
 |pbs-installer|2025.7.12|2025.10.31|lang-python|Compliance mode enabled, was '2025.10.31'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
@@ -2286,7 +2287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|runtime-desktop|Compliance mode enabled, was '0.6.0'|
 |qmmp|1.7.6|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
 |qpageview|0.6.2|1.0.1|lang-python|Compliance mode enabled, was '1.0.1'|
-|qps|2.8.0|2.11.1|desktop-lxqt|Compliance mode enabled, was '2.11.1'|
+|qps|2.8.0|2.12.0|desktop-lxqt|Compliance mode enabled, was '2.12.0'|
 |qqc2-desktop-style|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qsynth|1.0.1|1.0.3|app-multimedia|Compliance mode enabled, was '1.0.3'|
@@ -2425,7 +2426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scipy|1.15.3|1.16.3|lang-python|Compliance mode enabled, was '1.16.3'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
 |scrcpy|3.3.1|3.3.3|app-devices|Compliance mode enabled, was '3.3.3'|
-|screengrab|2.7.0|3.0.0|desktop-lxqt|Compliance mode enabled, was '3.0.0'|
+|screengrab|2.7.0|3.1.0|desktop-lxqt|Compliance mode enabled, was '3.1.0'|
 |scrot|1.10|1.12.1|app-utils|Compliance mode enabled, was '1.12.1'|
 |scummvm|2.9.0|2.9.1|app-games|Compliance mode enabled, was '2.9.1'|
 |sdcc|4.3.6|4.5.0|app-devel|Compliance mode enabled, was '4.5.0'|
