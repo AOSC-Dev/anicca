@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762323591?label=Updated)
+![Relative date](https://img.shields.io/date/1762326827?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -768,8 +768,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |halloy|2025.8|2025.11|app-web|Compliance mode enabled, was '2025.11'|
 |handbrake|1.10.1|1.10.2|app-multimedia|Compliance mode enabled, was '1.10.2'|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils|Compliance mode enabled, was '0.5.1'|
-|harfbuzz|8.4.0|12.1.0|runtime-desktop|Compliance mode enabled, was '12.1.0'|
-|harfbuzz+32|8.4.0|12.1.0|runtime-optenv32|Compliance mode enabled, was '12.1.0'|
+|harfbuzz|8.4.0|12.2.0|runtime-desktop|Compliance mode enabled, was '12.2.0'|
+|harfbuzz+32|8.4.0|12.2.0|runtime-optenv32|Compliance mode enabled, was '12.2.0'|
 |haruna|0.12.3|1.6.0|desktop-kde|Compliance mode enabled, was '1.6.0'|
 |hashcat|6.2.6|7.1.2|app-penetration|Compliance mode enabled, was '7.1.2'|
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
