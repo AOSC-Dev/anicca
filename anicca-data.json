@@ -358,7 +358,7 @@
 ["stlink","1.7.0","1.8.0","app-devel",1704334928,["Compliance mode enabled, was '1.8.0'"]],
 ["castxml","0.6.11","0.6.13","app-devel",1754315942,["Compliance mode enabled, was '0.6.13'"]],
 ["ragel","6.10","7.0.4","app-devel",1528559921,["Compliance mode enabled, was '7.0.4'"]],
-["glab","1.72.0","1.76.1","app-devel",1761613628,["Compliance mode enabled, was '1.76.1'"]],
+["glab","1.72.0","1.76.2","app-devel",1761613628,["Compliance mode enabled, was '1.76.2'"]],
 ["geany-plugins","2.1","2.1.0","app-devel",1754981165,["Compliance mode enabled, was '2.1.0'"]],
 ["colcon-core","0.20.0","0.20.1","app-devel",1759334299,["Compliance mode enabled, was '0.20.1'"]],
 ["automake","1.18","1.18.1","app-devel",1749360507,["Compliance mode enabled, was '1.18.1'"]],
