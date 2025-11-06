@@ -383,7 +383,7 @@
 ["ast-grep","0.39.6","0.39.7","app-devel",1759819153,["Compliance mode enabled, was '0.39.7'"]],
 ["qmic","1.0","0.1","app-devel",1753838154,["Compliance mode enabled, was '0.1'","Possible downgrade from the current version (1.0 -> 0.1)"]],
 ["clazy","1.15","1.16","app-devel",1754315942,["Compliance mode enabled, was '1.16'"]],
-["devscripts","2.25.20","2.25.24","app-devel",1761016978,["Compliance mode enabled, was '2.25.24'"]],
+["devscripts","2.25.20","2.25.25","app-devel",1761016978,["Compliance mode enabled, was '2.25.25'"]],
 ["shaderc","2025.3","2025.4","app-devel",1755652218,["Compliance mode enabled, was '2025.4'"]],
 ["vc","1.4.4","1.4.5","app-devel",1704959753,["Compliance mode enabled, was '1.4.5'"]],
 ["peg","0.1.18","0.1.20","app-devel",1699859032,["Compliance mode enabled, was '0.1.20'"]],
