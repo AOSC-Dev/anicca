@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762400719?label=Updated)
+![Relative date](https://img.shields.io/date/1762402728?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -704,6 +704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnu-efi|3.0.18|4.0.2|app-devel|Compliance mode enabled, was '4.0.2'|
 |gnuchess|6.2.9|6.3.0|app-games|Compliance mode enabled, was '6.3.0'|
 |gnuplot|6.0.2|6.0.3|app-utils|Compliance mode enabled, was '6.0.3'|
+|gnustep-base|1.28.0|1.31.1|runtime-gnustep|Compliance mode enabled, was '1_31_1'|
 |gnutls|3.8.7|3.8.10|runtime-cryptography|Compliance mode enabled, was '3.8.10'|
 |gnutls+32|3.8.7|3.8.10|runtime-optenv32|Compliance mode enabled, was '3.8.10'|
 |go|1.25.3|1.25.4|lang-golang||
@@ -1801,6 +1802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
+|open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|13.0.0|13.0.5|app-virtualization|Compliance mode enabled, was '13.0.5'|
 |openai-python|1.63.2|2.7.1|lang-python|Compliance mode enabled, was '2.7.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
