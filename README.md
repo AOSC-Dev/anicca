@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762396201?label=Updated)
+![Relative date](https://img.shields.io/date/1762400719?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -704,7 +704,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnu-efi|3.0.18|4.0.2|app-devel|Compliance mode enabled, was '4.0.2'|
 |gnuchess|6.2.9|6.3.0|app-games|Compliance mode enabled, was '6.3.0'|
 |gnuplot|6.0.2|6.0.3|app-utils|Compliance mode enabled, was '6.0.3'|
-|gnustep-base|1.28.0|1.31.1|runtime-gnustep|Compliance mode enabled, was '1_31_1'|
 |gnutls|3.8.7|3.8.10|runtime-cryptography|Compliance mode enabled, was '3.8.10'|
 |gnutls+32|3.8.7|3.8.10|runtime-optenv32|Compliance mode enabled, was '3.8.10'|
 |go|1.25.3|1.25.4|lang-golang||
@@ -1795,14 +1794,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ogre|14.4.1|0.1|runtime-imaging|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (14.4.1 -> 0.1)|
 |okteta|0.26.9|0.26.24|desktop-kde|Compliance mode enabled, was '0.26.24'|
 |okular|23.08.5|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
-|onedrive|2.5.5|2.5.8|app-web|Compliance mode enabled, was '2.5.8'|
+|onedrive|2.5.5|2.5.9|app-web|Compliance mode enabled, was '2.5.9'|
 |onedrivegui|1.1.1|1.2.2|app-web|Compliance mode enabled, was '1.2.2'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
 |oolite|1.90|1.91.0.7712-251017-85ce217|app-games|Compliance mode enabled, was '1.91.0.7712-251017-85ce217'|
 |opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
-|open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|13.0.0|13.0.5|app-virtualization|Compliance mode enabled, was '13.0.5'|
 |openai-python|1.63.2|2.7.1|lang-python|Compliance mode enabled, was '2.7.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
@@ -2306,6 +2304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qterminal|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |qtermwidget|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
+|qtscrcpy|3.3.1|3.3.3|app-utils|Compliance mode enabled, was '3.3.3'|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|runtime-desktop|Compliance mode enabled, was '5.0.0'|
 |qtxdg-tools|3.12.0|4.3.0|desktop-lxqt|Compliance mode enabled, was '4.3.0'|
 |quadrapassel|40.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
@@ -2782,9 +2781,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.6|0.9.7|lang-python|Compliance mode enabled, was '0.9.7'|
 |v2ray-rules-dat|202510042211|202511052213|runtime-data|Compliance mode enabled, was '202511052213'<br>Versions not comparable: `202510042211` and `202511052213`|
+|v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
-|vacuumtube|1.3.21|1.3.22|app-multimedia|Compliance mode enabled, was '1.3.22'|
+|vacuumtube|1.3.21|1.3.23|app-multimedia|Compliance mode enabled, was '1.3.23'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
 |valgrind|3.25.0|3.26.0|app-devel|Compliance mode enabled, was '3.26.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
