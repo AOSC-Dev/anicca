@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762424055?label=Updated)
+![Relative date](https://img.shields.io/date/1762427518?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -630,7 +630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gimp|3.0.4|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
 |git|2.51.1|2.51.2|app-vcs|Compliance mode enabled, was '2.51.2'|
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
-|gitea|1.25.0|1.25.1|app-vcs|Compliance mode enabled, was '1.25.1'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
 |gitoxide|0.44.0|0.46.0|app-vcs|Compliance mode enabled, was '0.46.0'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
@@ -2091,7 +2090,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pip|25.1.1|25.3|lang-python|Compliance mode enabled, was '25.3'|
 |pipx|1.7.1|1.8.0|lang-python|Compliance mode enabled, was '1.8.0'|
 |pivy|0.6.8|0.6.10|lang-python|Compliance mode enabled, was '0.6.10'|
-|pixi|0.58.0|0.59.0|app-devel|Compliance mode enabled, was '0.59.0'|
 |pktstat|20160317|1.8.5|app-network|Compliance mode enabled, was '1.8.5'<br>Possible downgrade from the current version (20160317 -> 1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.08.2|desktop-kde|Compliance mode enabled, was '25.08.2'|
@@ -2330,7 +2328,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode|3.7.14|3.7.15|app-utils|Compliance mode enabled, was '3.7.15'|
 |recode+32|3.7.14|3.7.15|runtime-optenv32|Compliance mode enabled, was '3.7.15'|
 |recommonmark|20180907|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'<br>Possible downgrade from the current version (20180907 -> 0.7.1)|
-|redis|8.2.2|8.2.3|app-database|Compliance mode enabled, was '8.2.3'|
 |redsocks2|0.67<br>+git20201229|0.1|app-proxy|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |referencing|0.36.2|0.37.0|lang-python|Compliance mode enabled, was '0.37.0'|
 |regex|2019.02.21|2025.11.3|lang-python|Compliance mode enabled, was '2025.11.3'|
