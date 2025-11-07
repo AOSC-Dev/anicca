@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762482461?label=Updated)
+![Relative date](https://img.shields.io/date/1762486814?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -99,7 +99,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.10|8.0.21|lang-dotnet|Compliance mode enabled, was '8.0.21'|
 |assimp|5.4.0|6.0.2|runtime-multimedia|Compliance mode enabled, was '6.0.2'|
-|ast-grep|0.39.6|0.39.7|app-devel|Compliance mode enabled, was '0.39.7'|
+|ast-grep|0.39.6|0.39.9|app-devel|Compliance mode enabled, was '0.39.9'|
 |astrometry.net|0.97|0.98|app-scientific|Compliance mode enabled, was '0.98'|
 |asttokens|2.4.1|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
 |asymptote|3.05|2.47|app-doc|Compliance mode enabled, was '2.47'<br>Possible downgrade from the current version (3.05 -> 2.47)|
@@ -303,6 +303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configshell-fb|1.1.30|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
 |conky|1.22.0|1.22.2|app-utils|Compliance mode enabled, was '1.22.2'|
+|containerd|2.1.4|2.2.0|app-containers|Compliance mode enabled, was '2.2.0'|
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |coreboot-utils|24.08|25.09|app-admin|Compliance mode enabled, was '25.09'|
@@ -908,6 +909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaffeine-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |kajongg|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kalarm|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kalgebra|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kalk|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kalzium|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kamera|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -2814,8 +2816,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.331|runtime-display|Compliance mode enabled, was '1.4.331'|
-|vulkan-headers|1.4.328.1|1.4.331|runtime-display|Compliance mode enabled, was '1.4.331'|
-|vulkan-headers+32|1.4.328.1|1.4.331|runtime-optenv32|Compliance mode enabled, was '1.4.331'|
+|vulkan-headers|1.4.328.1|1.4.332|runtime-display|Compliance mode enabled, was '1.4.332'|
+|vulkan-headers+32|1.4.328.1|1.4.332|runtime-optenv32|Compliance mode enabled, was '1.4.332'|
 |vulkan-loader|1.4.328.1|1.4.331|runtime-display|Compliance mode enabled, was '1.4.331'|
 |vulkan-loader+32|1.4.328.1|1.4.331|runtime-optenv32|Compliance mode enabled, was '1.4.331'|
 |vulkan-tools|1.4.328.1|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'<br>Possible downgrade from the current version (1.4.328.1 -> 1.4.326)|
@@ -2848,7 +2850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wolfssl|5.7.0|5.8.2-stable|runtime-cryptography|Compliance mode enabled, was '5.8.2-stable'|
 |wondershaper|1.2.1|1.4.1|app-network|Compliance mode enabled, was '1.4.1'|
 |wqy-unibit|1.1.0|9.5.0|desktop-fonts|Compliance mode enabled, was '9.5.0'|
-|wrapt|1.11.2|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
+|wrapt|1.11.2|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
 |wtforms|2.2.1|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
 |wxmaxima|24.11.0|25.04.0|app-scientific|Compliance mode enabled, was '25.04.0'|
