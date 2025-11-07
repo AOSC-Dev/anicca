@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762510541?label=Updated)
+![Relative date](https://img.shields.io/date/1762513988?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1073,7 +1073,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmahjongg|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmail|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmail-account-wizard|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kmailtransport|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmbox|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmediaplayer|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kmenuedit|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
@@ -1145,7 +1144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kqtquickcharts|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kquickcharts|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kquickimageeditor|0.2.0|0.5.1|desktop-kde|Compliance mode enabled, was '0.5.1'|
-|krb5|1.21.3-final|1.22.1-final|app-network||
 |krb5+32|1.21.3-final|1.22.1-final|runtime-optenv32||
 |krdc|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |krecipes-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
@@ -1504,8 +1502,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpe|1.16.2|1.16.3|runtime-web|Compliance mode enabled, was '1.16.3'|
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.81|lang-perl|Compliance mode enabled, was '6.81'|
-|libxcrypt|4.4.38|4.5.0|core-libs|Compliance mode enabled, was '4.5.0'|
-|libxcrypt+32|4.4.37|4.5.0|runtime-optenv32|Compliance mode enabled, was '4.5.0'|
+|libxcrypt|4.4.38|4.5.1|core-libs|Compliance mode enabled, was '4.5.1'|
+|libxcrypt+32|4.4.37|4.5.1|runtime-optenv32|Compliance mode enabled, was '4.5.1'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxkbcommon|1.8.1|1.12.2|runtime-display|Compliance mode enabled, was '1.12.2'|
 |libxkbcommon+32|1.7.0|1.12.2|runtime-optenv32|Compliance mode enabled, was '1.12.2'|
@@ -1727,7 +1725,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netpbm|10.73.34|11.12.00|app-utils|Compliance mode enabled, was '11.12.00'|
 |netstandard-targeting-pack-2.1|8.0.403|8.0.415|lang-dotnet|Compliance mode enabled, was '8.0.415'|
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
-|nettle|3.10.1|3.10.2|runtime-cryptography|Compliance mode enabled, was '3.10.2'|
 |nettle+32|3.10.1|3.10.2|runtime-optenv32|Compliance mode enabled, was '3.10.2'|
 |networkmanager-iodine|1.2.0<br>+git20250906|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-qt|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
@@ -1755,7 +1752,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.38|runtime-common|Compliance mode enabled, was '4.38'|
 |nspr+32|4.35|4.38|runtime-optenv32|Compliance mode enabled, was '4.38'|
-|nss|3.116|3.117|runtime-cryptography|Compliance mode enabled, was '3.117'|
 |nss+32|3.113|3.117|runtime-optenv32|Compliance mode enabled, was '3.117'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |nuclei|3.4.2|3.4.10|app-utils|Compliance mode enabled, was '3.4.10'|
@@ -2687,7 +2683,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tokodon|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |tomli|2.0.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |tomli-w|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|topgrade|11.0.2|16.1.2|app-admin|Compliance mode enabled, was '16.1.2'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tork-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |tornado|6.4.1|6.5.2|lang-python|Compliance mode enabled, was '6.5.2'|
