@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762486814?label=Updated)
+![Relative date](https://img.shields.io/date/1762488957?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1579,6 +1579,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lutris|0.5.18|0.5.19|app-games|Compliance mode enabled, was '0.5.19'|
 |lvm2|2.03.14|2.03.36|app-admin|Compliance mode enabled, was '2.03.36'|
 |lxcfs|3.0.3|6.0.5|app-admin|Compliance mode enabled, was '6.0.5'|
+|lxgwcleargothic-font|0.508|0.509|desktop-fonts|Compliance mode enabled, was '0.509'|
+|lxgwneoxihei-font|1.226|1.227|desktop-fonts|Compliance mode enabled, was '1.227'|
 |lximage-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxml|6.0.0|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
 |lxml-html-clean|0.2.2|0.4.3|lang-python|Compliance mode enabled, was '0.4.3'|
@@ -1688,7 +1690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msitools|0.101|0.106|app-devel|Compliance mode enabled, was '0.106'|
 |msr-tools|20170320|1.3|app-utils|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20170320 -> 1.3)|
 |mss|9.0.2|10.1.0|lang-python|Compliance mode enabled, was '10.1.0'|
-|mstflint|4.29.0-1|4.33.0-3-gb|app-admin|Compliance mode enabled, was '4.33.0-3-GB'|
+|mstflint|4.29.0-1|4.34.0+1|app-admin|Compliance mode enabled, was '4.34.0-1'|
 |mtd-utils|2.1.5|2.3.0|app-admin|Compliance mode enabled, was '2.3.0'|
 |muffin|5.8.0|6.4.1|desktop-cinnamon|Compliance mode enabled, was '6.4.1'|
 |mujs|1.3.5|1.3.7|lang-js|Compliance mode enabled, was '1.3.7'|
