@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762503412?label=Updated)
+![Relative date](https://img.shields.io/date/1762506801?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -171,7 +171,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botocore|1.40.25|1.40.68|lang-python|Compliance mode enabled, was '1.40.68'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|52.0|app-utils|Compliance mode enabled, was '52.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 52.0)|
-|bottom|0.11.2|0.11.3|app-admin|Compliance mode enabled, was '0.11.3'|
 |bovo|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |box64|0.3.9<br>+git20251031|0.3.8|app-emulation|Compliance mode enabled, was '0.3.8'<br>Possible downgrade from the current version (0.3.9+git20251031 -> 0.3.8)|
 |bpftrace|0.23.5|0.24.1|app-admin|Compliance mode enabled, was '0.24.1'|
@@ -439,7 +438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |edk2-test|202509|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202509 -> edk2-test-rc1_202404)|
 |eglexternalplatform|1.1|1.2.1|runtime-display|Compliance mode enabled, was '1.2.1'|
 |eigen-3|3.4.0|5.0.0|app-devel|Compliance mode enabled, was '5.0.0'|
-|element-desktop|1.12.2|1.12.3|app-web|Compliance mode enabled, was '1.12.3'|
 |elfutils|0.191|0.194|app-utils|Compliance mode enabled, was '0.194'|
 |elfutils+32|0.191|0.194|runtime-optenv32|Compliance mode enabled, was '0.194'|
 |elisa|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -2581,8 +2579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
 |svgpart|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |svt-av1|3.1.0|3.1.2|runtime-multimedia|Compliance mode enabled, was '3.1.2'|
-|swayidle|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
-|swaylock|1.8.3|1.8.4|app-utils|Compliance mode enabled, was '1.8.4'|
 |sweeper|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |swell-foop|41.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |swiftclient|4.6.0|4.8.0|lang-python|Compliance mode enabled, was '4.8.0'|
@@ -2940,7 +2936,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib+32|2.2.3|2.2.5|runtime-optenv32|Compliance mode enabled, was '2.2.5'|
 |zmusic|1.1.14|1.3.0|app-games|Compliance mode enabled, was '1.3.0'|
 |zope-component|4.4.1|7.0|lang-python|Compliance mode enabled, was '7.0'|
-|zope-event|4.3.0|6.0|lang-python|Compliance mode enabled, was '6.0'|
+|zope-event|4.3.0|6.1|lang-python|Compliance mode enabled, was '6.1'|
 |zope-interface|7.2|8.0.1|lang-python|Compliance mode enabled, was '8.0.1'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.23.0|0.25.0|lang-python|Compliance mode enabled, was '0.25.0'|
