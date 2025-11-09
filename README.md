@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762697093?label=Updated)
+![Relative date](https://img.shields.io/date/1762701089?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -517,7 +517,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.4|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |feeluown-qqmusic|1.0.11|1.0.13|app-multimedia|Compliance mode enabled, was '1.0.13'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
-|fennel|1.5.3|1.6.0|lang-lua|Compliance mode enabled, was '1.6.0'|
 |fennel-ls|0.2.1|0.2.2|lang-lua|Compliance mode enabled, was '0.2.2'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1.1|8.0|app-multimedia|Compliance mode enabled, was '8.0'|
@@ -632,7 +631,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitoxide|0.44.0|0.46.0|app-vcs|Compliance mode enabled, was '0.46.0'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.85.1|1.86.0|desktop-gnome|Compliance mode enabled, was '1.86.0'|
-|gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
 |glab|1.76.0|1.76.2|app-devel|Compliance mode enabled, was '1.76.2'|
 |glances|4.4.0|4.4.1|app-admin|Compliance mode enabled, was '4.4.1'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
@@ -1277,6 +1275,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdispatch|5.6.1|6.2.1-release|runtime-common|Compliance mode enabled, was '6.2.1-RELEASE'|
 |libdisplay-info|0.2.0|0.3.0|runtime-display|Compliance mode enabled, was '0.3.0'|
 |libdmtx|0.7.7|0.7.8|runtime-imaging|Compliance mode enabled, was '0.7.8'|
+|libdvdcss|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
+|libdvdcss+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
+|libdvdnav|6.1.1|7.0.0|runtime-multimedia|Compliance mode enabled, was '7.0.0'|
+|libdvdnav+32|6.1.1|7.0.0|runtime-optenv32|Compliance mode enabled, was '7.0.0'|
+|libdvdread|6.1.3|7.0.1|runtime-multimedia|Compliance mode enabled, was '7.0.1'|
+|libdvdread+32|6.1.3|7.0.1|runtime-optenv32|Compliance mode enabled, was '7.0.1'|
 |libdwarf|20210305|2.2.0|runtime-common|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20210305 -> 2.2.0)|
 |libeconf|0.5.0|0.8.0|runtime-common|Compliance mode enabled, was '0.8.0'|
 |libedit|20250104-3.1|20251016-3.1|runtime-common||
@@ -1788,6 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
+|open-rs|5.3.0|5.3.2|app-utils|Compliance mode enabled, was '5.3.2'|
 |open-vm-tools|13.0.0|13.0.5|app-virtualization|Compliance mode enabled, was '13.0.5'|
 |openai-python|1.63.2|2.7.1|lang-python|Compliance mode enabled, was '2.7.1'|
 |openal-soft|1.23.1|1.24.3|runtime-multimedia|Compliance mode enabled, was '1.24.3'|
