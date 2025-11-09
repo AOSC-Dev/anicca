@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762659659?label=Updated)
+![Relative date](https://img.shields.io/date/1762661758?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -433,6 +433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |duplicity|3.0.1|3.0.6|app-utils|Compliance mode enabled, was '3.0.6'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
+|easyeffects|7.2.5|8.0.0|app-multimedia|Compliance mode enabled, was '8.0.0'|
 |edencommon|2025.09.01.00|2025.11.03.00|runtime-common|Compliance mode enabled, was '2025.11.03.00'|
 |edit|1.2.0|1.2.1|app-editors|Compliance mode enabled, was '1.2.1'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
@@ -1642,6 +1643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |messagelib|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |metacity|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
 |microsoft-gsl|3.0.1|4.2.0|runtime-common|Compliance mode enabled, was '4.2.0'|
+|mihomo|1.19.15|1.19.16|app-proxy|Compliance mode enabled, was '1.19.16'|
 |milou|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |mimalloc|2.1.7|3.1.5|runtime-common|Compliance mode enabled, was '3.1.5'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
@@ -2071,6 +2073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |php|8.4.7|8.4.14|app-devel|Compliance mode enabled, was '8.4.14'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
+|picmi|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |pikepdf|8.15.1|10.0.0|app-doc|Compliance mode enabled, was '10.0.0'|
 |piklab-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |pillow|10.4.0|12.0.0|lang-python|Compliance mode enabled, was '12.0.0'|
