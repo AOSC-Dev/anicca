@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762672310?label=Updated)
+![Relative date](https://img.shields.io/date/1762676028?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -971,6 +971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdelibs4support|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kdenetwork-filesharing|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kdenlive|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kdepim-addons|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kdepim-runtime|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kdeplasma-addons|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |kdesignerplugin|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
@@ -1102,7 +1103,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-inputstream-adaptive|21.5.14|22.3.1-piers|app-multimedia|Compliance mode enabled, was '22.3.1-Piers'|
 |kodi-inputstream-ffmpegdirect|21.3.7|22.2.0-piers|app-multimedia|Compliance mode enabled, was '22.2.0-Piers'|
 |kodi-inputstream-rtmp|21.1.2|2.0.2|app-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (21.1.2 -> 2.0.2)|
-|kodi-pvr-iptvsimple|21.10.2|22.6.0-piers|app-multimedia|Compliance mode enabled, was '22.6.0-Piers'|
+|kodi-pvr-iptvsimple|21.10.2|22.6.1-piers|app-multimedia|Compliance mode enabled, was '22.6.1-Piers'|
 |koffice-trinity|14.1.2|14.1.4|desktop-trinity|Compliance mode enabled, was '14.1.4'|
 |koko|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kolf|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1536,7 +1537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|6670|6992|runtime-creativity|Compliance mode enabled, was '6992'|
+|llama.cpp|6670|6993|runtime-creativity|Compliance mode enabled, was '6993'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.5|runtime-optenv32|Compliance mode enabled, was '21.1.5'|
@@ -2362,7 +2363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|6992|runtime-rocm|Compliance mode enabled, was '6992'|
+|rocm-llama-cpp|7.0.1|6993|runtime-rocm|Compliance mode enabled, was '6993'|
 |rocm-llvm|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
