@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762708003?label=Updated)
+![Relative date](https://img.shields.io/date/1762712207?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -859,6 +859,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipt2socks|1.1.3|1.1.5|app-proxy|Compliance mode enabled, was '1.1.5'|
 |ipython|8.32.0|9.7.0|lang-python|Compliance mode enabled, was '9.7.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
+|iso-codes|4.18.0|4.19.0|runtime-data|Compliance mode enabled, was '4.19.0'|
 |isodate|0.6.1|0.7.2|lang-python|Compliance mode enabled, was '0.7.2'|
 |isort|4.3.21|7.0.0|lang-python|Compliance mode enabled, was '7.0.0'|
 |ispc|1.28.1|1.28.2|app-devel|Compliance mode enabled, was '1.28.2'|
@@ -1838,7 +1839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openstack-service-types|1.7.0|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
 |opensubdiv|3.6.0|3.7.0|runtime-creativity|Compliance mode enabled, was '3_7_0'|
 |opentabletdriver|0.6.5.1|0.6.6.2|runtime-devices|Compliance mode enabled, was '0.6.6.2'|
-|opentimelineio|0.15|0.18.0|runtime-multimedia|Compliance mode enabled, was '0.18.0'|
+|opentimelineio|0.15|0.18.1|runtime-multimedia|Compliance mode enabled, was '0.18.1'|
 |opentofu|1.10.6|1.10.7|app-admin|Compliance mode enabled, was '1.10.7'|
 |openvdb|11.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
 |openvpn|2.6.14|2.6.15|app-network|Compliance mode enabled, was '2.6.15'|
