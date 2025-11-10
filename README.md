@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762801587?label=Updated)
+![Relative date](https://img.shields.io/date/1762805637?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.4.0|runtime-imaging|Compliance mode enabled, was '3.4.0'|
 |dtc|1.7.0|1.7.2|app-devel|Compliance mode enabled, was '1.7.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
-|dulwich|0.24.8|0.24.9|app-vcs|Compliance mode enabled, was '0.24.9'|
+|dulwich|0.24.8|0.24.10|app-vcs|Compliance mode enabled, was '0.24.10'|
 |duplicity|3.0.1|3.0.6|app-utils|Compliance mode enabled, was '3.0.6'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easyeffects|7.2.5|8.0.0|app-multimedia|Compliance mode enabled, was '8.0.0'|
@@ -729,7 +729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gspell|1.11.1|1.14.0|desktop-gnome|Compliance mode enabled, was '1.14.0'|
 |gssdp|1.2.3|1.6.4|runtime-network|Compliance mode enabled, was '1.6.4'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
-|gstreamer|1.26.4|1.26.7|runtime-multimedia|Compliance mode enabled, was '1.26.7'|
+|gstreamer|1.26.4|1.26.8|runtime-multimedia|Compliance mode enabled, was '1.26.8'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
 |gtk-doc|1.34.0|1.35.1|app-doc|Compliance mode enabled, was '1.35.1'|
 |gtk-engines-2|2.21.0|2.20.2|desktop-gnome|Compliance mode enabled, was '2.20.2'<br>Possible downgrade from the current version (2.21.0 -> 2.20.2)|
@@ -1217,7 +1217,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |latx|1.6.1|1.6.4|app-emulation||
 |layer-shell-qt|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
-|lazarus|3.2|4.2|lang-pascal|Compliance mode enabled, was '4.2'|
+|lazarus|3.2|4.4|lang-pascal|Compliance mode enabled, was '4.4'|
 |lazy-object-proxy|1.7.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
 |lazygit|0.54.2|0.56.0|app-vcs|Compliance mode enabled, was '0.56.0'|
 |lcms2|2.14|2.17|runtime-imaging|Compliance mode enabled, was '2.17'|
@@ -1750,8 +1750,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
 |nsd|4.7.0|4.13.0|app-network|Compliance mode enabled, was '4.13.0'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
-|nspr|4.35|4.38|runtime-common|Compliance mode enabled, was '4.38'|
-|nspr+32|4.35|4.38|runtime-optenv32|Compliance mode enabled, was '4.38'|
+|nspr|4.35|4.38.1|runtime-common|Compliance mode enabled, was '4.38.1'|
+|nspr+32|4.35|4.38.1|runtime-optenv32|Compliance mode enabled, was '4.38.1'|
 |nss+32|3.113|3.117|runtime-optenv32|Compliance mode enabled, was '3.117'|
 |nss-mdns|0.14.1|0.15.1|runtime-network|Compliance mode enabled, was '0.15.1'|
 |ntl|11.5.1|11.6.0|runtime-scientific|Compliance mode enabled, was '11.6.0'|
@@ -2401,7 +2401,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-term-ansicolor|1.11.2|1.11.3|lang-ruby|Compliance mode enabled, was '1.11.3'|
 |runc|1.3.1|1.3.3|app-admin|Compliance mode enabled, was '1.3.3'|
 |rust-bindgen|0.72.0|0.72.1|lang-rust|Compliance mode enabled, was '0.72.1'|
-|rustc+32|1.89.0|1.91.0|runtime-optenv32|Compliance mode enabled, was '1.91.0'|
+|rustc|1.91.0|1.91.1|lang-rust|Compliance mode enabled, was '1.91.1'|
+|rustc+32|1.89.0|1.91.1|runtime-optenv32|Compliance mode enabled, was '1.91.1'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
 |rygel|0.40.4|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
