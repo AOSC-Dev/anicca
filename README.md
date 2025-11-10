@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762791333?label=Updated)
+![Relative date](https://img.shields.io/date/1762794839?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -244,7 +244,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
-|choose|1.3.4|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |chromaprint|1.5.1|1.6.0|runtime-multimedia|Compliance mode enabled, was '1.6.0'|
 |chromium|135.0.7049.95|142.0.7444.134|app-web|Compliance mode enabled, was '142.0.7444.134'|
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
@@ -304,6 +303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convmv|2.05|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |coreboot-utils|24.08|25.09|app-admin|Compliance mode enabled, was '25.09'|
 |corefreq|2.0.7|2.0.8|app-utils|Compliance mode enabled, was '2.0.8'|
+|coreutils|9.8|9.9|app-utils|Compliance mode enabled, was '9.9'|
 |corrosion|0.4.10|0.5.2|app-devel|Compliance mode enabled, was '0.5.2'|
 |corsixth|0.68.0|0.69.1|app-games|Compliance mode enabled, was '0.69.1'|
 |cowsay|3.8.3|3.8.4|app-utils|Compliance mode enabled, was '3.8.4'|
@@ -2004,7 +2004,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mailtools|2.20|2.22|lang-perl|Compliance mode enabled, was '2.22'|
 |perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
 |perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
-|perl-mime-tools|5.509|5.515|lang-perl|Compliance mode enabled, was '5.515'|
 |perl-mime-types|2.17|2.29|lang-perl|Compliance mode enabled, was '2.29'|
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.052|lang-perl|Compliance mode enabled, was '0.052'|
@@ -2312,7 +2311,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rb-inotify|0.10.1|0.11.1|lang-ruby|Compliance mode enabled, was '0.11.1'|
 |rclone|1.71.1|1.71.2|app-web|Compliance mode enabled, was '1.71.2'|
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
-|rdfind|1.6.0|1.7.0|app-utils|Compliance mode enabled, was '1.7.0'|
 |rdflib|6.2.0|7.4.0|lang-python|Compliance mode enabled, was '7.4.0'|
 |rdma-core|57.0|60.0|app-admin|Compliance mode enabled, was '60.0'|
 |re2|2024-06-01|2025-11-05|runtime-common||
@@ -2757,7 +2755,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upx|4.2.4|5.0.2|app-devel|Compliance mode enabled, was '5.0.2'|
 |uritemplate|3.0.1|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |urllib3|2.4.0|2.5.0|lang-python|Compliance mode enabled, was '2.5.0'|
-|urwid|2.6.12|3.0.3|lang-python|Compliance mode enabled, was '3.0.3'|
 |usb-modeswitch|2.6.0<br>+data20170120|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |usbutils|018|019|app-utils|Compliance mode enabled, was '019'|
