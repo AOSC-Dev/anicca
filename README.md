@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762805637?label=Updated)
+![Relative date](https://img.shields.io/date/1762809200?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2073,7 +2073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.4.7|8.4.14|app-devel|Compliance mode enabled, was '8.4.14'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|pikepdf|8.15.1|10.0.1|app-doc|Compliance mode enabled, was '10.0.1'|
+|pikepdf|8.15.1|10.0.2|app-doc|Compliance mode enabled, was '10.0.2'|
 |piklab-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |pillow|10.4.0|12.0.0|lang-python|Compliance mode enabled, was '12.0.0'|
 |pim-data-exporter|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -2686,7 +2686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tokodon|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |tomli|2.0.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |tomli-w|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|topgrade|11.0.2|16.1.2|app-admin|Compliance mode enabled, was '16.1.2'|
+|topgrade|11.0.2|16.2.1|app-admin|Compliance mode enabled, was '16.2.1'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tork-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |tornado|6.4.1|6.5.2|lang-python|Compliance mode enabled, was '6.5.2'|
@@ -2788,7 +2788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1837|9.1.1901|app-editors|Compliance mode enabled, was '9.1.1901'|
+|vim|9.1.1837|9.1.1904|app-editors|Compliance mode enabled, was '9.1.1904'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
