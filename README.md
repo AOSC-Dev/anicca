@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762859572?label=Updated)
+![Relative date](https://img.shields.io/date/1762863750?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -233,7 +233,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cfitsio|4.6.3|4.6.2|runtime-imaging|Compliance mode enabled, was '4.6.2'<br>Possible downgrade from the current version (4.6.3 -> 4.6.2)|
 |cgal|5.2|6.1|runtime-scientific|Compliance mode enabled, was '6.1'|
 |cgl|0.60.3|0.60.9|app-scientific|Compliance mode enabled, was '0.60.9'|
-|chafa|1.16.2|1.18.0|app-utils|Compliance mode enabled, was '1.18.0'|
 |chardet|3.0.4|5.2.0|lang-python|Compliance mode enabled, was '5.2.0'|
 |charset-normalizer|2.0.9|3.4.4|lang-python|Compliance mode enabled, was '3.4.4'|
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
@@ -823,7 +822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icu+32|74.2|78.1|runtime-optenv32|Compliance mode enabled, was '78.1'|
 |identify|2.6.12|2.6.15|lang-python|Compliance mode enabled, was '2.6.15'|
 |idna|3.7|3.11|lang-python|Compliance mode enabled, was '3.11'|
-|iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |ignition|2.20.0|2.24.0|app-admin|Compliance mode enabled, was '2.24.0'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
 |imagemagick|6.9.13<br>+16|6.9.13+33|app-utils|Compliance mode enabled, was '6.9.13-33'|
@@ -2444,7 +2442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl2-ttf|2.22.0|2.24.0|runtime-multimedia|Compliance mode enabled, was '2.24.0'|
 |seahorse|42.0|47.0.1|desktop-gnome|Compliance mode enabled, was '47.0.1'|
 |seatd|0.8.0|0.9.1|app-admin|Compliance mode enabled, was '0.9.1'|
-|secretstorage|3.3.3|3.4.0|lang-python|Compliance mode enabled, was '3.4.0'|
+|secretstorage|3.3.3|3.4.1|lang-python|Compliance mode enabled, was '3.4.1'|
 |semver|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |sensible-utils|0.0.24|0.0.26|app-utils|Compliance mode enabled, was '0.0.26'|
 |ser2net|3.5|4.6.5|app-network|Compliance mode enabled, was '4.6.5'|
@@ -2847,7 +2845,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxmaxima|24.11.0|25.04.0|app-scientific|Compliance mode enabled, was '25.04.0'|
 |wxpython|4.2.1|4.2.4|lang-python|Compliance mode enabled, was '4.2.4'|
 |wxwidgets|3.2.4|3.3.1|runtime-desktop|Compliance mode enabled, was '3.3.1'|
-|x11vnc|0.9.16|0.9.17|app-network|Compliance mode enabled, was '0.9.17'|
 |x264|0<br>+git20241027|3222|runtime-multimedia|Compliance mode enabled, was '3222'|
 |x264+32|0<br>+git20241027|3222|runtime-optenv32|Compliance mode enabled, was '3222'|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
