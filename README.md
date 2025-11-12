@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762945956?label=Updated)
+![Relative date](https://img.shields.io/date/1762950158?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -989,7 +989,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgamma|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |kgeography|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kget|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kglobalaccel|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kgoldrunner|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kgpg|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kgtk-qt3-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
@@ -1105,6 +1104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kopete|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kopete-otr-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |korganizer|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kose-font|3.120|3.126|desktop-fonts|Compliance mode enabled, was '3.126'|
 |kosmindoormap|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kpackage|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kparts|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
@@ -1536,7 +1536,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lokalize|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
 |lowdown|1.1.2|2.0.2|app-doc|Compliance mode enabled, was '2_0_2'|
-|lpsolve|5.5.2.5|5.6.23|app-scientific|Compliance mode enabled, was '5.6.23'|
 |lrs|071a|073a|app-scientific|Compliance mode enabled, was '073a'|
 |lrzsz|0.12.20|0.12.21.orig|app-network|Compliance mode enabled, was '0.12.21.orig'|
 |lskat|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
