@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762938889?label=Updated)
+![Relative date](https://img.shields.io/date/1762942538?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -511,7 +511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |fio|3.35|3.41|app-utils|Compliance mode enabled, was '3.41'|
-|firefox|144.0|145.0|app-web|Compliance mode enabled, was '145.0'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
@@ -886,6 +885,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalzium|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kamera|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kamoso|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kanagram|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kapidox|5.115.0|6.19.0|desktop-kde|Compliance mode enabled, was '6.19.0'|
 |kapman|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kapptemplate|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
