@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1762918995?label=Updated)
+![Relative date](https://img.shields.io/date/1762921016?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -226,7 +226,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
-|certifi|2024.7.4|2025.10.5|lang-python|Compliance mode enabled, was '2025.10.5'|
+|certifi|2024.7.4|2025.11.12|lang-python|Compliance mode enabled, was '2025.11.12'|
 |cervisia|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |cfitsio|4.6.3|4.6.2|runtime-imaging|Compliance mode enabled, was '4.6.2'<br>Possible downgrade from the current version (4.6.3 -> 4.6.2)|
 |cgal|5.2|6.1|runtime-scientific|Compliance mode enabled, was '6.1'|
@@ -2150,7 +2150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psycopg2|2.8.6|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.4.3|runtime-creativity|Compliance mode enabled, was '2.4.3'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20251109|lang-python|Compliance mode enabled, was '1.0.2.20251109'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20251112|lang-python|Compliance mode enabled, was '1.0.2.20251112'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |puremagic|1.15|1.30|lang-python|Compliance mode enabled, was '1.30'|
@@ -2887,6 +2887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorg-server|21.1.19|21.1.20|runtime-display|Compliance mode enabled, was '21.1.20'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
+|xournalpp|1.2.5|1.2.8|runtime-productivity|Compliance mode enabled, was '1.2.8'|
 |xpra|6.3.3|6.3.6|app-network|Compliance mode enabled, was '6.3.6'|
 |xray|25.8.31|25.10.15|app-proxy|Compliance mode enabled, was '25.10.15'|
 |xrdp|0.10.3|0.10.4.1|app-network|Compliance mode enabled, was '0.10.4.1'|
