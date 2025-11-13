@@ -2698,7 +2698,6 @@
 ["asgiref","3.8.1","3.10.0","lang-python",1712767628,["Compliance mode enabled, was '3.10.0'"]],
 ["idna","3.7","3.11","lang-python",1718682542,["Compliance mode enabled, was '3.11'"]],
 ["secretstorage","3.3.3","3.4.1","lang-python",1754577009,["Compliance mode enabled, was '3.4.1'"]],
-["editables","0.3","0.5","lang-python",1676525877,["Compliance mode enabled, was '0.5'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["pylibacl","0.5.4","0.7.3","lang-python",1581796622,["Compliance mode enabled, was '0.7.3'"]],
 ["pygit2","1.18.1","1.19.0","lang-python",1754981165,["Compliance mode enabled, was '1.19.0'"]],
