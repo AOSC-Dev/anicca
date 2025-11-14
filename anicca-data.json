@@ -2613,7 +2613,7 @@
 ["txaio","25.6.1","25.9.2","lang-python",1754495188,["Compliance mode enabled, was '25.9.2'"]],
 ["docutils","0.21.2","0.22.3","lang-python",1722780216,["Compliance mode enabled, was '0.22.3'"]],
 ["reportlab","4.2.2","4.4.4","lang-python",1759043351,["Compliance mode enabled, was '4.4.4'"]],
-["prettytable","0.7.2","3.16.0","lang-python",1761418704,["Compliance mode enabled, was '3.16.0'"]],
+["prettytable","0.7.2","3.17.0","lang-python",1761418704,["Compliance mode enabled, was '3.17.0'"]],
 ["pycparser","2.22","2.23","lang-python",1721277711,["Compliance mode enabled, was '2.23'"]],
 ["pyqtwebengine","5.15.5","5.15.7","lang-python",1637636760,["Compliance mode enabled, was '5.15.7'"]],
 ["python-xapp","2.0.1","3.0.0","lang-python",1589762215,["Compliance mode enabled, was '3.0.0'"]],
