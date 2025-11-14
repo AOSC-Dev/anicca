@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763091796?label=Updated)
+![Relative date](https://img.shields.io/date/1763093786?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1413,6 +1413,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqtxdg|3.12.0|4.3.0|desktop-lxqt|Compliance mode enabled, was '4.3.0'|
 |libquotient|0.8.2|0.9.5|runtime-web|Compliance mode enabled, was '0.9.5'|
+|libraw|0.20.0|0.21.4|runtime-imaging|Compliance mode enabled, was '0.21.4'|
 |libreoffice|25.8.0.4|25.8.3.2|groups|Compliance mode enabled, was '25.8.3.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.14.0|runtime-i18n|Compliance mode enabled, was '1.14.0'|
@@ -2208,6 +2209,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyjwt|2.3.0|2.10.1|lang-python|Compliance mode enabled, was '2.10.1'|
 |pylast|3.0.0|6.0.0|lang-python|Compliance mode enabled, was '6.0.0'|
 |pylibacl|0.5.4|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
+|pylsqpack|0.3.18|0.3.23|lang-python|Compliance mode enabled, was '0.3.23'|
 |pymarkups|3.0.0|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
 |pymediainfo|5.0.3|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
 |pymysql|0.9.3|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
@@ -2267,6 +2269,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyudev|0.24.3|0.24.4|lang-python|Compliance mode enabled, was '0.24.4'|
 |pyusb|1.0.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |pywbem|1.7.3|1.8.1|lang-python|Compliance mode enabled, was '1.8.1'|
+|pyx|0.16|0.17|lang-python|Compliance mode enabled, was '0.17'|
 |pyxattr|0.6.1|0.8.1|lang-python|Compliance mode enabled, was '0.8.1'|
 |pyxdg|0.28|0.25|lang-python|Compliance mode enabled, was '0.25'<br>Possible downgrade from the current version (0.28 -> 0.25)|
 |pyyaml|6.0.2|6.0.3|lang-python|Compliance mode enabled, was '6.0.3'|
@@ -2816,8 +2819,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.332|runtime-display|Compliance mode enabled, was '1.4.332'|
-|vulkan-headers|1.4.328.1|1.4.332|runtime-display|Compliance mode enabled, was '1.4.332'|
-|vulkan-headers+32|1.4.328.1|1.4.332|runtime-optenv32|Compliance mode enabled, was '1.4.332'|
+|vulkan-headers|1.4.328.1|1.4.333|runtime-display|Compliance mode enabled, was '1.4.333'|
+|vulkan-headers+32|1.4.328.1|1.4.333|runtime-optenv32|Compliance mode enabled, was '1.4.333'|
 |vulkan-loader|1.4.328.1|1.4.332|runtime-display|Compliance mode enabled, was '1.4.332'|
 |vulkan-loader+32|1.4.328.1|1.4.332|runtime-optenv32|Compliance mode enabled, was '1.4.332'|
 |vulkan-tools|1.4.328.1|1.4.326|app-utils|Compliance mode enabled, was '1.4.326'<br>Possible downgrade from the current version (1.4.328.1 -> 1.4.326)|
