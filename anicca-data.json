@@ -2280,7 +2280,7 @@
 ["gitoxide","0.44.0","0.46.0","app-vcs",1745733463,["Compliance mode enabled, was '0.46.0'"]],
 ["lazygit","0.54.2","0.56.0","app-vcs",1761613629,["Compliance mode enabled, was '0.56.0'"]],
 ["git","2.51.1","2.51.2","app-vcs",1761580277,["Compliance mode enabled, was '2.51.2'"]],
-["mercurial","7.0.2","7.1.1","app-vcs",1748943079,["Compliance mode enabled, was '7.1.1'"]],
+["mercurial","7.0.2","7.1.2","app-vcs",1748943079,["Compliance mode enabled, was '7.1.2'"]],
 ["tortoisehg","6.6.3","7.0.1","app-vcs",1716735995,["Compliance mode enabled, was '7.0.1'"]],
 ["breezy","3.3.12","3.3.17","app-vcs",1752317859,["Compliance mode enabled, was '3.3.17'"]],
 ["dulwich","0.24.8","0.24.10","app-vcs",1761831063,["Compliance mode enabled, was '0.24.10'"]],
