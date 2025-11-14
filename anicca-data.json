@@ -2120,6 +2120,7 @@
 ["mac-fdisk","0.1","0.1.orig","app-admin",1610962799,["Compliance mode enabled, was '0.1.orig'","Possible downgrade from the current version (0.1 -> 0.1.orig)"]],
 ["pstate-frequency","3.15.2","3.16.1","app-admin",1736563777,["Compliance mode enabled, was '3.16.1'"]],
 ["openldap","2_6_9","2.6.10","app-admin",1737808733,[]],
+["deploykit-backend","0.8.0","0.9.0","app-admin",1748540663,["Compliance mode enabled, was '0.9.0'"]],
 ["rdma-core","57.0","60.0","app-admin",1748135736,["Compliance mode enabled, was '60.0'"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Compliance mode enabled, was '6.03'","Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
 ["damo","2.4.7","3.0.4","app-admin",1724095000,["Compliance mode enabled, was '3.0.4'"]],
