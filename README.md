@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763187463?label=Updated)
+![Relative date](https://img.shields.io/date/1763190789?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -794,7 +794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|hypothesis-python|6.97.4|6.147.0|lang-python|Compliance mode enabled, was '6.147.0'|
+|hypothesis-python|6.97.4|6.148.0|lang-python|Compliance mode enabled, was '6.148.0'|
 |hysteria|2.6.3|2.6.5|app-proxy|Compliance mode enabled, was '2.6.5'|
 |i2c-tools|4.1|4.4|app-utils|Compliance mode enabled, was '4.4'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
@@ -1781,7 +1781,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ofono|1.30|2.18|app-network|Compliance mode enabled, was '2.18'|
 |ogre|14.4.1|0.1|runtime-imaging|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (14.4.1 -> 0.1)|
 |okteta|0.26.9|0.26.24|desktop-kde|Compliance mode enabled, was '0.26.24'|
-|okular|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |onedrive|2.5.5|2.5.9|app-web|Compliance mode enabled, was '2.5.9'|
 |onedrivegui|1.1.1|1.2.2|app-web|Compliance mode enabled, was '1.2.2'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
