@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763323991?label=Updated)
+![Relative date](https://img.shields.io/date/1763327564?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -386,6 +386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|28.5.1|29.0.1|app-containers||
 |docker-buildx|0.22.0|0.30.0|app-containers|Compliance mode enabled, was '0.30.0'|
 |docker-compose|2.35.0|2.40.3|app-containers|Compliance mode enabled, was '2.40.3'|
+|docutils|0.21.2|0.22.3|lang-python|Compliance mode enabled, was '0.22.3'|
 |dolphin|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |dolphin-plugins|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |dolphin-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
@@ -1486,6 +1487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt|10.5.0|11.9.0|app-virtualization|Compliance mode enabled, was '11.9.0'|
 |libvirt-python|10.5.0|11.7.0|runtime-virtualization|Compliance mode enabled, was '11.7.0'|
 |libvisio|0.1.7|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
+|libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
 |libvoikko|4.3.1|4.3.3|runtime-i18n|Compliance mode enabled, was '4.3.3'|
 |libvpl|2.15.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
 |libvpx|1.15.0|1.15.2|runtime-multimedia|Compliance mode enabled, was '1.15.2'|
@@ -2195,6 +2197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydantic|2.6.0|2.12.4|lang-python|Compliance mode enabled, was '2.12.4'|
 |pydantic-core|2.16.1|2.41.5|lang-python|Compliance mode enabled, was '2.41.5'|
 |pydot|1.4.1|4.0.1|lang-python|Compliance mode enabled, was '4.0.1'|
+|pydrive2|1.20.0|1.21.3|lang-python|Compliance mode enabled, was '1.21.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pyenchant|2.0.0|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
 |pygame|2.5.2|2.6.1|lang-python|Compliance mode enabled, was '2.6.1'|
@@ -2700,6 +2703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tomli-w|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tor|0.4.8.19|0.4.8.20|app-proxy|Compliance mode enabled, was '0.4.8.20'|
+|tork-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |tornado|6.4.1|6.5.2|lang-python|Compliance mode enabled, was '6.5.2'|
 |tortoisehg|6.6.3|7.0.1|app-vcs|Compliance mode enabled, was '7.0.1'|
 |totem|42.0|43.2|desktop-gnome|Compliance mode enabled, was '43.2'|
@@ -2815,7 +2819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
-|vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.333|runtime-display|Compliance mode enabled, was '1.4.333'|
@@ -2874,6 +2877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|app-utils|Compliance mode enabled, was '0.13'<br>Possible downgrade from the current version (20191017 -> 0.13)|
 |xcompmgr|1.1.8|1.1.10|desktop-wm|Compliance mode enabled, was '1.1.10'|
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
+|xdg-desktop-portal-gnome|42.3|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |xdg-desktop-portal-kde|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
