@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763287906?label=Updated)
+![Relative date](https://img.shields.io/date/1763291090?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -79,6 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apsw|3.50.4.0|3.51.0.0|lang-python|Compliance mode enabled, was '3.51.0.0'|
 |apt|3.0.3|3.1.12|app-admin|Compliance mode enabled, was '3.1.12'|
 |arch-install-scripts|28|31|app-utils||
+|archlinux-keyring|20251027|20251116|runtime-data|Compliance mode enabled, was '20251116'|
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.3|lang-python|Compliance mode enabled, was '3.6.3'|
 |argparse-manpage|4.5|4.7|lang-python|Compliance mode enabled, was '4.7'|
@@ -829,7 +830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |img2pdf|0.5.1|0.6.3|app-doc|Compliance mode enabled, was '0.6.3'|
 |imlib2|1.5.1|1.12.5|runtime-imaging|Compliance mode enabled, was '1.12.5'|
 |imlib2+32|1.5.1|1.12.5|runtime-optenv32|Compliance mode enabled, was '1.12.5'|
-|imv|4.5.0|5.0.0|app-imaging|Compliance mode enabled, was '5.0.0'|
 |imwheel|1.0.0pre12|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'<br>Possible downgrade from the current version (1.0.0pre12 -> 0.9.9)|
 |incidenceeditor|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |incus-ui-canonical|0.18.2|0.18.3|app-containers|Compliance mode enabled, was '0.18.3'|
@@ -2701,7 +2701,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tokodon|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |tomli|2.0.1|2.3.0|lang-python|Compliance mode enabled, was '2.3.0'|
 |tomli-w|1.0.0|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
-|topgrade|11.0.2|16.2.1|app-admin|Compliance mode enabled, was '16.2.1'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tor|0.4.8.19|0.4.8.20|app-proxy|Compliance mode enabled, was '0.4.8.20'|
 |tork-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
