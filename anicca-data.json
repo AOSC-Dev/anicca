@@ -690,7 +690,6 @@
 ["kea","2.6.3","3.1.3","app-network",1750565551,["Compliance mode enabled, was '3.1.3'"]],
 ["arping","2.25","2.26","app-network",1720104524,["Compliance mode enabled, was '2.26'"]],
 ["smartdns","46.1","47.1","app-network",1749260425,["Compliance mode enabled, was '47.1'"]],
-["doggo","1.1.1","1.1.2","app-network",1761988581,["Compliance mode enabled, was '1.1.2'"]],
 ["tcping","1.3.5","2.1.0","app-network",1510795411,["Compliance mode enabled, was '2.1.0'"]],
 ["fping","5.1","5.4","app-network",1711266244,["Compliance mode enabled, was '5.4'"]],
 ["strongswan","5.9.4","6.0.3","app-network",1635182670,["Compliance mode enabled, was '6.0.3'"]],
