@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763316908?label=Updated)
+![Relative date](https://img.shields.io/date/1763319878?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1506,7 +1506,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcrypt+32|4.4.37|4.5.2|runtime-optenv32|Compliance mode enabled, was '4.5.2'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxkbcommon|1.8.1|1.12.2|runtime-display|Compliance mode enabled, was '1.12.2'|
-|libxkbcommon+32|1.7.0|1.12.2|runtime-optenv32|Compliance mode enabled, was '1.12.2'|
 |libxml++-2.6|2.42.3|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.15.1|runtime-common|Compliance mode enabled, was '2.15.1'|
 |libxml2+32|2.10.4|2.15.1|runtime-optenv32|Compliance mode enabled, was '2.15.1'|
@@ -1751,7 +1750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |normaliz|3.6.3|3.11.0|app-scientific|Compliance mode enabled, was '3.11.0'|
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |noto-fonts|24.8.1|20201206-phase3|desktop-fonts||
-|novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
 |nsd|4.7.0|4.13.0|app-network|Compliance mode enabled, was '4.13.0'|
 |nsgenbind|0.8|0.9|app-devel|Compliance mode enabled, was '0.9'|
 |nspr|4.35|4.38.2|runtime-common|Compliance mode enabled, was '4.38.2'|
@@ -2403,6 +2401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |ruamel-yaml|0.18.15|0.18.16|lang-python|Compliance mode enabled, was '0.18.16'|
+|ruamel-yaml-clib|0.2.14|0.2.15|lang-python|Compliance mode enabled, was '0.2.15'|
 |rubberband|1.9.2|4.0.0|app-multimedia|Compliance mode enabled, was '4.0.0'|
 |ruby-ffi|1.17.0|1.17.2|lang-ruby|Compliance mode enabled, was '1.17.2'|
 |ruby-gettext|3.2.9|3.5.1|lang-ruby|Compliance mode enabled, was '3.5.1'|
