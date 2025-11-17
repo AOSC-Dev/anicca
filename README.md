@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763353285?label=Updated)
+![Relative date](https://img.shields.io/date/1763356408?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -346,6 +346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.110|0.114|runtime-optenv32|Compliance mode enabled, was '0.114'|
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |dbus-tqt|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
+|dconf|0.40.0|0.49.0|app-admin|Compliance mode enabled, was '0.49.0'|
 |dconf-editor|45.0.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |ddcutil|2.2.1|2.2.3|app-utils|Compliance mode enabled, was '2.2.3'|
 |ddnet|19.0|19.5|app-games|Compliance mode enabled, was '19.5'|
@@ -2146,6 +2147,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerdevil|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.4|app-shells|Compliance mode enabled, was '7.5.4'|
+|poxml|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ppsspp|1.18.1<br>+git20250206|1.19.3|app-games|Compliance mode enabled, was '1.19.3'|
 |pre-commit|4.2.0|4.4.0|lang-python|Compliance mode enabled, was '4.4.0'|
 |precis-i18n|1.0.3|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
