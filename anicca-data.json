@@ -2477,7 +2477,6 @@
 ["qjackctl","1.0.1","1.0.4","app-multimedia",1725200576,["Compliance mode enabled, was '1.0.4'"]],
 ["kodi-inputstream-adaptive","21.5.14","22.3.2-piers","app-multimedia",1749993997,["Compliance mode enabled, was '22.3.2-Piers'"]],
 ["cmus","2.11.0","2.12.0","app-multimedia",1745233543,["Compliance mode enabled, was '2.12.0'"]],
-["vlc","3.0.21","3.0.21+1","app-multimedia",1748844653,["Compliance mode enabled, was '3.0.21-1'"]],
 ["sscg","3.0.5","4.0.0","app-cryptography",1719928562,["Compliance mode enabled, was '4.0.0'"]],
 ["menu-cache","1.1.0","1.1.1","desktop-lxde",1531444994,["Compliance mode enabled, was '1.1.1'"]],
 ["cbc","2.10.5","2.10.12","app-scientific",1600708496,["Compliance mode enabled, was '2.10.12'"]],
