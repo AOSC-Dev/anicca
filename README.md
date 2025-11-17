@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763386066?label=Updated)
+![Relative date](https://img.shields.io/date/1763388762?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -2128,7 +2128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-kde-agent-1|5.27.12|6.5.2|desktop-kde|Compliance mode enabled, was '6.5.2'|
 |polkit-qt-1|0.114.0|0.200.0|desktop-kde|Compliance mode enabled, was '0.200.0'|
 |polkit-tqt|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
-|polybar|3.7.1|3.7.2|app-utils|Compliance mode enabled, was '3.7.2'|
 |polymake|3.3|4.15|app-scientific|Compliance mode enabled, was '4.15'|
 |poppler|25.07.0|25.11.0|runtime-doc|Compliance mode enabled, was '25.11.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
@@ -2334,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rencode|1.0.6|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |renderdoc|1.40|1.41|app-devel|Compliance mode enabled, was '1.41'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
-|reportlab|4.2.2|4.4.4|lang-python|Compliance mode enabled, was '4.4.4'|
+|reportlab|4.2.2|4.4.5|lang-python|Compliance mode enabled, was '4.4.5'|
 |requests|2.32.3|2.32.5|lang-python|Compliance mode enabled, was '2.32.5'|
 |requests-cache|0.5.2|1.3.0~a1|lang-python|Compliance mode enabled, was '1.3.0a1'|
 |rest|0.8.1|0.10.2|runtime-web|Compliance mode enabled, was '0.10.2'|
