@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763586749?label=Updated)
+![Relative date](https://img.shields.io/date/1763590406?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -281,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|351|app-admin|Compliance mode enabled, was '351'|
 |cockpit-machines|284.1|344|app-admin|Compliance mode enabled, was '344'|
 |cockpit-podman|63|117|app-admin|Compliance mode enabled, was '117'|
-|code-server|4.93.1|4.105.1|app-utils|Compliance mode enabled, was '4.105.1'|
+|code-server|4.93.1|4.106.0|app-utils|Compliance mode enabled, was '4.106.0'|
 |codeine-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |coin|4.0.0<br>+git20220828|4.0.6|runtime-imaging|Compliance mode enabled, was '4.0.6'|
 |coinutils|2.11.4|2.11.12|app-scientific|Compliance mode enabled, was '2.11.12'|
@@ -289,7 +289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |collectl|4.3.1|4.3.8|app-utils|Compliance mode enabled, was '4.3.8'|
 |colord-kde|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |coloredlogs|10.0|15.0.1|lang-python|Compliance mode enabled, was '15.0.1'|
-|composer|2.8.5|2.9.1|app-devel|Compliance mode enabled, was '2.9.1'|
+|composer|2.8.5|2.9.2|app-devel|Compliance mode enabled, was '2.9.2'|
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configargparse|1.7|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
@@ -429,7 +429,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elisa|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |embree|4.3.1|4.4.0|app-imaging|Compliance mode enabled, was '4.4.0'|
 |enchant|1-6-1|1.6.0|app-i18n|Possible downgrade from the current version (1-6-1 -> 1.6.0)|
-|enchant-2|2.3.1|2.8.12|app-i18n|Compliance mode enabled, was '2.8.12'|
+|enchant-2|2.3.1|2.8.13|app-i18n|Compliance mode enabled, was '2.8.13'|
 |endeavour|42.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |endless-sky|0.10.14|0.10.16|app-games|Compliance mode enabled, was '0.10.16'|
 |eog|42.3|47.0|desktop-gnome|Compliance mode enabled, was '47.0'|
