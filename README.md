@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763550722?label=Updated)
+![Relative date](https://img.shields.io/date/1763554914?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -146,7 +146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bento4-xbmc|1.6.0-641-3|1.6.0-641-3-Omega|runtime-multimedia|Possible downgrade from the current version (1.6.0-641-3 -> 1.6.0-641-3-Omega)|
 |bibletime-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |bijiben|40.1|40.2|desktop-gnome|Compliance mode enabled, was '40.2'|
-|bind|9.20.13|9.20.15|app-network|Compliance mode enabled, was '9.20.15'|
+|bind|9.20.13|9.20.16|app-network|Compliance mode enabled, was '9.20.16'|
 |binutils|2.45|2.45.1|app-devel|Compliance mode enabled, was '2.45.1'|
 |binutils+32|2.43.1|2.45.1|runtime-optenv32|Compliance mode enabled, was '2.45.1'|
 |binutils+w64|2.43.1|2.45.1|runtime-optenvw64|Compliance mode enabled, was '2.45.1'|
@@ -2099,7 +2099,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-integration|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-mobile|5.27.5|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-nano|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
-|plasma-nm|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-pa|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-pk-updates|0.3.2|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-sdk|5.27.12.1|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
