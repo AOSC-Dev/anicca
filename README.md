@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763507480?label=Updated)
+![Relative date](https://img.shields.io/date/1763513195?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -335,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dart-sass|1.94.0|1.94.1|app-devel|Compliance mode enabled, was '1.94.1'|
 |dart-sass-js|1.94.0|1.94.1|app-devel|Compliance mode enabled, was '1.94.1'|
-|dart-sdk|3.9.4|3.10.0|lang-dart|Compliance mode enabled, was '3.10.0'|
+|dart-sdk|3.9.4|3.10.1|lang-dart|Compliance mode enabled, was '3.10.1'|
 |dash|0.5.12|0.5.13.1|app-shells|Compliance mode enabled, was '0.5.13.1'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
@@ -1815,13 +1815,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|2.3.0|2.3.3|runtime-imaging|Compliance mode enabled, was '2.3.3'|
 |openimageio|2.4.17.0|3.1.7.0|runtime-imaging|Compliance mode enabled, was '3.1.7.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
-|openjdk-11|11.0.28-ga|11.0.30+1|lang-java||
+|openjdk-11|11.0.28-ga|11.0.30+2|lang-java||
 |openjdk-17|17.0.16-ga|17.0.18+2|lang-java||
 |openjdk-21|21.0.8-ga|21.0.10+2|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
-|openjdk-8|8u462-ga|8u482-b01|groups||
+|openjdk-8|8u462-ga|8u482-b02|groups||
 |openjfx-17|17.0.13<br>+0|17.0.18+0|lang-java|Compliance mode enabled, was '17.0.18+0'|
 |openjfx-21|21.0.5<br>+0|21.0.10+0|lang-java|Compliance mode enabled, was '21.0.10+0'|
 |openjfx-23|23-ga|23.0.2-ga|lang-java||
@@ -2790,7 +2790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.9|0.9.10|lang-python|Compliance mode enabled, was '0.9.10'|
-|v2ray-rules-dat|202510042211|202511172214|runtime-data|Compliance mode enabled, was '202511172214'<br>Versions not comparable: `202510042211` and `202511172214`|
+|v2ray-rules-dat|202510042211|202511182214|runtime-data|Compliance mode enabled, was '202511182214'<br>Versions not comparable: `202510042211` and `202511182214`|
 |v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
@@ -2810,7 +2810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
-|vim|9.1.1837|9.1.1918|app-editors|Compliance mode enabled, was '9.1.1918'|
+|vim|9.1.1837|9.1.1919|app-editors|Compliance mode enabled, was '9.1.1919'|
 |virglrenderer|0.10.4|1.2.0|app-virtualization|Compliance mode enabled, was '1.2.0'|
 |virt-manager|5.0.0|5.1.0|app-virtualization|Compliance mode enabled, was '5.1.0'|
 |virtiofsd|1.13.0|1.13.2|app-virtualization|Compliance mode enabled, was '1.13.2'|
