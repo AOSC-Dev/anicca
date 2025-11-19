@@ -2338,7 +2338,7 @@
 ["freecell-solver","6.2.0","6.16.0","app-games",1631079130,["Compliance mode enabled, was '6.16.0'"]],
 ["thedarkmod","2.09a","2.13","app-games",1631079133,["Compliance mode enabled, was '2.13'"]],
 ["fortunes-zh","2.98","2.98.1","app-games",1716799008,["Compliance mode enabled, was '2.98.1'"]],
-["osu-lazer","2025.1029.1-lazer","2025.1107.0","app-games",1763294712,[]],
+["osu-lazer","2025.1029.1-lazer","2025.1119.0-tachyon","app-games",1763294712,[]],
 ["openmw","0.48.0+git20240902","0.50.0","app-games",1753796831,["Compliance mode enabled, was '0.50.0'"]],
 ["gnuchess","6.2.9","6.3.0","app-games",1631079131,["Compliance mode enabled, was '6.3.0'"]],
 ["ddnet","19.0","19.5","app-games",1744688169,["Compliance mode enabled, was '19.5'"]],
