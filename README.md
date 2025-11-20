@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763662670?label=Updated)
+![Relative date](https://img.shields.io/date/1763665515?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -415,7 +415,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duckdb|1.4.1|1.4.2|app-database|Compliance mode enabled, was '1.4.2'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |dulwich|0.24.8|0.24.10|app-vcs|Compliance mode enabled, was '0.24.10'|
-|duplicity|3.0.1|3.0.6.1|app-utils|Compliance mode enabled, was '3.0.6.1'|
+|duplicity|3.0.1|3.0.6.2|app-utils|Compliance mode enabled, was '3.0.6.2'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easyeffects|7.2.5|8.0.3|app-multimedia|Compliance mode enabled, was '8.0.3'|
 |edencommon|2025.09.01.00|2025.11.17.00|runtime-common|Compliance mode enabled, was '2025.11.17.00'|
@@ -1016,7 +1016,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kidentitymanagement|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kidletime|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kig|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kigo|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kile-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |killbots|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kima-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
