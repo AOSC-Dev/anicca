@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763593932?label=Updated)
+![Relative date](https://img.shields.io/date/1763599589?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -227,6 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |certifi|2024.7.4|2025.11.12|lang-python|Compliance mode enabled, was '2025.11.12'|
 |cervisia|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|cfgv|3.4.0|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
 |cfitsio|4.6.3|4.6.2|runtime-imaging|Compliance mode enabled, was '4.6.2'<br>Possible downgrade from the current version (4.6.3 -> 4.6.2)|
 |cgal|5.2|6.1|runtime-scientific|Compliance mode enabled, was '6.1'|
 |cgl|0.60.3|0.60.9|app-scientific|Compliance mode enabled, was '0.60.9'|
@@ -1815,7 +1816,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-17|17.0.16-ga|17.0.18+3|lang-java||
 |openjdk-21|21.0.8-ga|21.0.10+3|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
-|openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
 |openjdk-8|8u462-ga|8u482-b02|groups||
 |openjfx-17|17.0.13<br>+0|17.0.18+0|lang-java|Compliance mode enabled, was '17.0.18+0'|
@@ -2097,7 +2097,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-disks|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-firewall|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-framework|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
-|plasma-integration|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-mobile|5.27.5|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-nano|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-nm|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
