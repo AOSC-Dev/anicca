@@ -1658,7 +1658,7 @@
 ["zeal","0.7.0","0.7.2","app-doc",1715608577,["Compliance mode enabled, was '0.7.2'"]],
 ["sphinx","7.0.1","8.2.3","app-doc",1700548607,["Compliance mode enabled, was '8.2.3'"]],
 ["help2man","1.48.1","1.49.3","app-doc",1620461776,["Compliance mode enabled, was '1.49.3'"]],
-["mdbook","0.4.40","0.5.0","app-doc",1730689657,["Compliance mode enabled, was '0.5.0'"]],
+["mdbook","0.4.40","0.5.1","app-doc",1730689657,["Compliance mode enabled, was '0.5.1'"]],
 ["pandoc","3.6.3","3.8.2.1","app-doc",1739375409,["Compliance mode enabled, was '3.8.2.1'"]],
 ["asymptote","3.05","2.47","app-doc",1759673420,["Compliance mode enabled, was '2.47'","Possible downgrade from the current version (3.05 -> 2.47)"]],
 ["lowdown","1.1.2","2.0.4","app-doc",1728898339,["Compliance mode enabled, was '2_0_4'"]],
