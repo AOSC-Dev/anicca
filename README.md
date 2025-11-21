@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763713054?label=Updated)
+![Relative date](https://img.shields.io/date/1763716493?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1018,7 +1018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kile-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |killbots|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kima-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
-|kimageannotator|0.6.0|0.7.1|desktop-kde|Compliance mode enabled, was '0.7.1'|
+|kimageannotator|0.6.0|0.7.2|desktop-kde|Compliance mode enabled, was '0.7.2'|
 |kimageformats|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kimagemapeditor|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kimap|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1603,7 +1603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.13.0|0.13.1|runtime-desktop|Compliance mode enabled, was '0.13.1'|
 |marble|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |marco|1.28.1|1.29.1|desktop-mate|Compliance mode enabled, was '1.29.1'|
-|mariadb|11.7.2|12.1.2|app-database|Compliance mode enabled, was '12.1.2'|
+|mariadb|11.7.2|12.2.1|app-database|Compliance mode enabled, was '12.2.1'|
 |marisa|0.2.7|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |markdown|3.3.4|3.10|lang-python|Compliance mode enabled, was '3.10'|
 |markdown-it|3.0.0|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
