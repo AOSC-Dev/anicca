@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763680428?label=Updated)
+![Relative date](https://img.shields.io/date/1763686054?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1175,7 +1175,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktexteditor|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |ktextwidgets|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |ktimer|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|ktnef|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktorrent|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktorrent-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |ktouch|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1898,7 +1897,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patool|1.12|4.0.2|app-utils|Compliance mode enabled, was '4.0.2'|
 |pavucontrol-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |pbr|6.0.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
-|pbs-installer|2025.7.12|2025.10.31|lang-python|Compliance mode enabled, was '2025.10.31'|
+|pbs-installer|2025.7.12|2025.11.20|lang-python|Compliance mode enabled, was '2025.11.20'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pciutils|3.13.0|3.14.0|app-utils|Compliance mode enabled, was '3.14.0'|
 |pcmanfm-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
@@ -1934,7 +1933,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-data-inheritable|0.08|0.10|lang-perl|Compliance mode enabled, was '0.10'|
 |perl-class-inspector|1.28|1.36|lang-perl|Compliance mode enabled, was '1.36'|
 |perl-class-method-modifiers|2.12|2.15|lang-perl|Compliance mode enabled, was '2.15'|
-|perl-class-methodmaker|2.24|2.25|lang-perl|Compliance mode enabled, was '2.25'|
 |perl-class-singleton|1.5|1.6|lang-perl|Compliance mode enabled, was '1.6'|
 |perl-clone|0.46|0.47|lang-perl|Compliance mode enabled, was '0.47'|
 |perl-common-sense|3.74|3.75|lang-perl|Compliance mode enabled, was '3.75'|
