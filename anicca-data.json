@@ -1716,6 +1716,7 @@
 ["spirv-headers","1.4.328.1","1.5.4.raytracing.fixed","runtime-display",1760238238,["Compliance mode enabled, was '1.5.4.raytracing.fixed'"]],
 ["xf86-input-elographics","1.4.3","1.4.4","runtime-display",1699859032,["Compliance mode enabled, was '1.4.4'"]],
 ["xf86-video-amdgpu","23.0.0","25.0.0","runtime-display",1699859032,["Compliance mode enabled, was '25.0.0'"]],
+["freeglut","3.4.0","3.8.0","runtime-display",1699859032,["Compliance mode enabled, was '3.8.0'"]],
 ["xf86-input-libinput","1.4.0","1.5.0","runtime-display",1699859032,["Compliance mode enabled, was '1.5.0'"]],
 ["nvidia","580.95.05","580.105.08","groups",1759633027,["Compliance mode enabled, was '580.105.08'"]],
 ["libdrm","2.4.128","2.4.129","runtime-display",1762277151,["Compliance mode enabled, was '2.4.129'"]],
