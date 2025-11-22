@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763799317?label=Updated)
+![Relative date](https://img.shields.io/date/1763802748?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -939,6 +939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcptun|20241227|20251118|app-proxy|Compliance mode enabled, was '20251118'|
 |kcpuload-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kcrash|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
+|kcron|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kdav|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kdbg-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kdbusaddons|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
@@ -1035,7 +1036,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kipi-plugins|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kirigami-addons|0.11.0|1.10.0|desktop-kde|Compliance mode enabled, was '1.10.0'|
 |kirigami-gallery|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kirigami2|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kiriki|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kitemmodels|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kitemviews|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
@@ -1962,6 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-date-format|1.005|1.008|lang-perl|Compliance mode enabled, was '1.008'|
 |perl-email-mime|1.946|1.954|lang-perl|Compliance mode enabled, was '1.954'|
 |perl-email-mime-contenttype|1.022|1.028|lang-perl|Compliance mode enabled, was '1.028'|
+|perl-email-simple|2.216|2.218|lang-perl|Compliance mode enabled, was '2.218'|
 |perl-encode-imaputf7|1.05|1.07|lang-perl|Compliance mode enabled, was '1.07'|
 |perl-error|0.17027|0.17030|lang-perl|Compliance mode enabled, was '0.17030'|
 |perl-ev|4.25|4.36|lang-perl|Compliance mode enabled, was '4.36'|
@@ -2188,6 +2189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycairo|1.28.0|1.29.0|lang-python|Compliance mode enabled, was '1.29.0'|
 |pycares|4.5.0|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
 |pycountry|18.12.8|24.6.1|lang-python|Compliance mode enabled, was '24.6.1'|
+|pycparser|2.22|2.23|lang-python|Compliance mode enabled, was '2.23'|
 |pycryptodome|3.22.0x|3.23.0|lang-python|Compliance mode enabled, was '3.23.0'|
 |pycryptopp|0.7.1|0.5.29|lang-python|Compliance mode enabled, was '0.5.29'<br>Possible downgrade from the current version (0.7.1 -> 0.5.29)|
 |pycurl|7.45.3|7.45.7|lang-python|Compliance mode enabled, was '7.45.7'|
@@ -2574,6 +2576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.12.1|runtime-scientific|Compliance mode enabled, was '7.12.1'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
+|sunshine|2025.924.154138|2025.1027.181930|app-multimedia|Compliance mode enabled, was '2025.1027.181930'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.0|app-creativity|Compliance mode enabled, was '3.14.0'|
 |superslicer|2.7.61.8|2.7.61.10|app-creativity|Compliance mode enabled, was '2.7.61.10'|
