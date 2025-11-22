@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763845865?label=Updated)
+![Relative date](https://img.shields.io/date/1763849490?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -358,7 +358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deprecated|1.2.14|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |deskflow|1.24.0|1.25.0|app-utils|Compliance mode enabled, was '1.25.0'|
 |devhelp|41.2|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
-|devscripts|2.25.20|2.25.26|app-devel|Compliance mode enabled, was '2.25.26'|
+|devscripts|2.25.20|2.25.27|app-devel|Compliance mode enabled, was '2.25.27'|
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.3.0|app-network|Compliance mode enabled, was '10.3.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
@@ -614,8 +614,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.0.6|3.1.4|app-creativity|Compliance mode enabled, was '3.1.4'|
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
+|gitea|1.25.1|1.25.2|app-vcs|Compliance mode enabled, was '1.25.2'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
-|gitoxide|0.44.0|0.46.0|app-vcs|Compliance mode enabled, was '0.46.0'|
+|gitoxide|0.44.0|0.47.0|app-vcs|Compliance mode enabled, was '0.47.0'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.85.1|1.86.0|desktop-gnome|Compliance mode enabled, was '1.86.0'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
@@ -1271,7 +1272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdeflate|1.19|1.25|runtime-common|Compliance mode enabled, was '1.25'|
 |libdiscid|0.6.2|0.6.5|runtime-multimedia|Compliance mode enabled, was '0.6.5'|
 |libdispatch|5.6.1|6.2.1-release|runtime-common|Compliance mode enabled, was '6.2.1-RELEASE'|
-|libdisplay-info|0.2.0|0.3.0|runtime-display|Compliance mode enabled, was '0.3.0'|
 |libdmtx|0.7.7|0.7.8|runtime-imaging|Compliance mode enabled, was '0.7.8'|
 |libdrm|2.4.128|2.4.129|runtime-display|Compliance mode enabled, was '2.4.129'|
 |libdrm+32|2.4.128|2.4.129|runtime-optenv32|Compliance mode enabled, was '2.4.129'|
