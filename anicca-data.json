@@ -2795,7 +2795,6 @@
 ["python-hglib","2.6.1","2.6.2","lang-python",1530292470,["Compliance mode enabled, was '2.6.2'"]],
 ["psutils","3.3.2","3.3.14","lang-python",1707299111,["Compliance mode enabled, was '3.3.14'"]],
 ["openstack-service-types","1.7.0","1.8.2","lang-python",1724639794,["Compliance mode enabled, was '1.8.2'"]],
-["websockets","12.0","1.4.4","lang-python",1714209798,["Compliance mode enabled, was '1.4.4'","Possible downgrade from the current version (12.0 -> 1.4.4)"]],
 ["sip","6.12.0","6.14.0","lang-python",1758952268,["Compliance mode enabled, was '6.14.0'"]],
 ["python-gattlib","23.12.21-dbus","0.20210616","lang-python",1753091209,["Possible downgrade from the current version (23.12.21-dbus -> 0.20210616)"]],
 ["zope-component","4.4.1","7.0","lang-python",1530283385,["Compliance mode enabled, was '7.0'"]],
