@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763853081?label=Updated)
+![Relative date](https://img.shields.io/date/1763859248?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -66,7 +66,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.11.0|3.13.1|runtime-multimedia|Compliance mode enabled, was '3.13.1'|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
 |aosc-community-wallpapers-extras-2024|2024.04.4|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
-|aosc-media-writer|0.4.3|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-arrow|21.0.0|22.0.0|runtime-database|Compliance mode enabled, was '22.0.0'|
 |apache-maven|3.9.9|3.9.11|lang-java|Compliance mode enabled, was '3.9.11'|
@@ -322,7 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.5|2.8.1|app-admin|Compliance mode enabled, was '2.8.1'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
-|ctags|6.2.20251005.0|6.2.20251116.0|app-devel|Compliance mode enabled, was '6.2.20251116.0'|
+|ctags|6.2.20251005.0|6.2.20251123.0|app-devel|Compliance mode enabled, was '6.2.20251123.0'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -2825,7 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vscode|1.106.0|1.106.2|app-editors|Compliance mode enabled, was '1.106.2'|
 |vscodium|1.105.17075|1.106.27818|app-editors|Compliance mode enabled, was '1.106.27818'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.82.1|runtime-desktop|Compliance mode enabled, was '0.82.1'|
+|vte|0.68.0|0.82.2|runtime-desktop|Compliance mode enabled, was '0.82.2'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |vulkan-headers|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
