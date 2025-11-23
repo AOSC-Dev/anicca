@@ -1726,6 +1726,7 @@
 ["xf86-video-r128","6.12.1","6.10.0","runtime-display",1699859032,["Compliance mode enabled, was '6.10.0'","Possible downgrade from the current version (6.12.1 -> 6.10.0)"]],
 ["libxcvt","0.1.2","0.1.3","runtime-display",1699859032,["Compliance mode enabled, was '0.1.3'"]],
 ["xcb-util-cursor","0.1.5","0.1.6","runtime-display",1730806306,["Compliance mode enabled, was '0.1.6'"]],
+["racket","8.18","9.0","lang-lisp",1756976768,["Compliance mode enabled, was '9.0'"]],
 ["libthai","0.1.28","0.1.29","runtime-i18n",1535613989,["Compliance mode enabled, was '0.1.29'"]],
 ["libphonenumber","8.13.38","9.0.19","runtime-i18n",1737436557,["Compliance mode enabled, was '9.0.19'"]],
 ["libpinyin","2.6.0","2.10.3","runtime-i18n",1570596159,["Compliance mode enabled, was '2.10.3'"]],
