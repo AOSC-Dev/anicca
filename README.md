@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763885689?label=Updated)
+![Relative date](https://img.shields.io/date/1763889172?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1738,10 +1738,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.8.4|app-utils|Compliance mode enabled, was '2.8.4'|
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |nghttp2|1.65.0|1.68.0|runtime-web|Compliance mode enabled, was '1.68.0'|
-|nghttp3|1.3.0|1.12.0|runtime-web|Compliance mode enabled, was '1.12.0'|
+|nghttp3|1.3.0|1.13.0|runtime-web|Compliance mode enabled, was '1.13.0'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.3|app-web|Compliance mode enabled, was '1.29.3'|
 |ngspice|35|45.2|app-electronics|Compliance mode enabled, was '45.2'|
-|ngtcp2|1.5.0|1.17.0|runtime-web|Compliance mode enabled, was '1.17.0'|
+|ngtcp2|1.5.0|1.18.0|runtime-web|Compliance mode enabled, was '1.18.0'|
 |ninja|1.13.1|1.13.2|app-devel|Compliance mode enabled, was '1.13.2'|
 |nlopt|2.7.1|2.10.0|runtime-scientific|Compliance mode enabled, was '2.10.0'|
 |nmap|7.95|7.98|app-network|Compliance mode enabled, was '7.98'|
