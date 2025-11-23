@@ -156,6 +156,7 @@
 ["embree","4.3.1","4.4.0","app-imaging",1711170353,["Compliance mode enabled, was '4.4.0'"]],
 ["unicode-ucd","15.1.0","17.0.0","runtime-data",1711964533,["Compliance mode enabled, was '17.0.0'"]],
 ["v2ray-rules-dat","202510042211","202511222213","runtime-data",1759630954,["Compliance mode enabled, was '202511222213'","Versions not comparable: `202510042211` and `202511222213`"]],
+["aosc-os-feature-data","20241017.1","20251123","runtime-data",1730118704,["Compliance mode enabled, was '20251123'"]],
 ["spdx-licenses","3.25.0","3.27.0","runtime-data",1732414619,["Compliance mode enabled, was '3.27.0'"]],
 ["trinity-default-settings","2023.07.1r","2025.11.0","runtime-data",1721223931,["Compliance mode enabled, was '2025.11.0'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
