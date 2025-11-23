@@ -981,7 +981,6 @@
 ["cabal-install","3.10.3.0","3.16.0.0","lang-haskell",1711355899,["Compliance mode enabled, was '3.16.0.0'"]],
 ["partitionmanager","23.08.5","25.08.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.08.3'"]],
 ["kclock","23.08.5","25.08.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.08.3'"]],
-["kseexpr","4.0.4.0","6.0.0.0","desktop-kde",1678601022,["Compliance mode enabled, was '6.0.0.0'"]],
 ["kmix","23.08.5","25.08.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.08.3'"]],
 ["kolourpaint","23.08.5","25.08.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.08.3'"]],
 ["grantlee-editor","23.08.5","25.08.3","desktop-kde",1714377107,["Compliance mode enabled, was '25.08.3'"]],
