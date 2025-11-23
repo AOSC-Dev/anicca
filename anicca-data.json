@@ -2713,7 +2713,7 @@
 ["pyiso8601","0.1.13","2.1.0","lang-python",1604819537,["Compliance mode enabled, was '2.1.0'"]],
 ["asgiref","3.8.1","3.11.0","lang-python",1712767628,["Compliance mode enabled, was '3.11.0'"]],
 ["idna","3.7","3.11","lang-python",1718682542,["Compliance mode enabled, was '3.11'"]],
-["secretstorage","3.3.3","3.4.1","lang-python",1754577009,["Compliance mode enabled, was '3.4.1'"]],
+["secretstorage","3.3.3","3.5.0","lang-python",1754577009,["Compliance mode enabled, was '3.5.0'"]],
 ["editables","0.3","0.5","lang-python",1676525877,["Compliance mode enabled, was '0.5'"]],
 ["python-poppler-qt5","21.1.0+git20210304","21.3.0","lang-python",1738981173,["Compliance mode enabled, was '21.3.0'"]],
 ["pylibacl","0.5.4","0.7.3","lang-python",1581796622,["Compliance mode enabled, was '0.7.3'"]],
