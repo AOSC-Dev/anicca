@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763932276?label=Updated)
+![Relative date](https://img.shields.io/date/1763935875?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -686,7 +686,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-base|1.28.0|1.31.1|runtime-gnustep|Compliance mode enabled, was '1_31_1'|
 |go-md2man|2.0.6|2.0.7|app-doc|Compliance mode enabled, was '2.0.7'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
-|goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.5|runtime-database|Compliance mode enabled, was '0.5.5'|
 |google-api-python-client|1.7.11|2.187.0|lang-python|Compliance mode enabled, was '2.187.0'|
 |google-auth|1.6.3|2.43.0|lang-python|Compliance mode enabled, was '2.43.0'|
@@ -1147,6 +1146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kscope-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kscreen|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |kscreenlocker|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
+|kseexpr|4.0.4.0|6.0.0.0|desktop-kde|Compliance mode enabled, was '6.0.0.0'|
 |ksensors-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kservice|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |ksh93|2020.0.0|1.0.10|app-shells|Compliance mode enabled, was '1.0.10'<br>Possible downgrade from the current version (2020.0.0 -> 1.0.10)|
@@ -1830,7 +1830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl+32|3.5.4|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |openssl-1.1|1.1.1w|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
 |openssl-1.1+32|1.1.1w|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
-|openstack-service-types|1.7.0|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |opensubdiv|3.6.0|3.7.0|runtime-creativity|Compliance mode enabled, was '3_7_0'|
 |opentabletdriver|0.6.5.1|0.6.6.2|runtime-devices|Compliance mode enabled, was '0.6.6.2'|
 |opentimelineio|0.15|0.18.1|runtime-multimedia|Compliance mode enabled, was '0.18.1'|
@@ -1878,7 +1877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |paper-icon-theme|20180816|1.5.0|desktop-themes|Compliance mode enabled, was '1.5.0'<br>Possible downgrade from the current version (20180816 -> 1.5.0)|
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
-|parallel|20250422|20251022|app-utils|Compliance mode enabled, was '20251022'|
+|parallel|20250422|20251122|app-utils|Compliance mode enabled, was '20251122'|
 |paramiko|2.10.3|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
 |pari|2.13.1|2.17.2|app-scientific|Compliance mode enabled, was '2.17.2'|
 |parley|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -2309,7 +2308,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |racket|8.18|9.0|lang-lisp|Compliance mode enabled, was '9.0'|
-|radare2|5.9.4|6.0.6|app-devel|Compliance mode enabled, was '6.0.6'|
+|radare2|5.9.4|6.0.7|app-devel|Compliance mode enabled, was '6.0.7'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
