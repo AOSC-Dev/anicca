@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763986882?label=Updated)
+![Relative date](https://img.shields.io/date/1763991010?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -379,7 +379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|28.5.1|29.0.2|app-containers||
+|docker|28.5.1|29.0.3|app-containers||
 |docker-buildx|0.22.0|0.30.1|app-containers|Compliance mode enabled, was '0.30.1'|
 |docker-compose|2.35.0|2.40.3|app-containers|Compliance mode enabled, was '2.40.3'|
 |docutils|0.21.2|0.22.3|lang-python|Compliance mode enabled, was '0.22.3'|
@@ -932,7 +932,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kcontacts|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kcoreaddons|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
-|kcptun|20241227|20251118|app-proxy|Compliance mode enabled, was '20251118'|
+|kcptun|20241227|20251124|app-proxy|Compliance mode enabled, was '20251124'|
 |kcpuload-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kcrash|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kcron|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1535,7 +1535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7091|7140|runtime-creativity|Compliance mode enabled, was '7140'|
+|llama.cpp|7091|7142|runtime-creativity|Compliance mode enabled, was '7142'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.6|runtime-optenv32|Compliance mode enabled, was '21.1.6'|
@@ -1881,7 +1881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |parallel|20250422|20251122|app-utils|Compliance mode enabled, was '20251122'|
 |paramiko|2.10.3|4.0.0|lang-python|Compliance mode enabled, was '4.0.0'|
-|pari|2.13.1|2.17.2|app-scientific|Compliance mode enabled, was '2.17.2'|
+|pari|2.13.1|2.17.3|app-scientific|Compliance mode enabled, was '2.17.3'|
 |parley|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.5|lang-python|Compliance mode enabled, was '0.8.5'|
@@ -2368,7 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7140|runtime-rocm|Compliance mode enabled, was '7140'|
+|rocm-llama-cpp|7.0.1|7142|runtime-rocm|Compliance mode enabled, was '7142'|
 |rocm-llvm|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|7.0.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
