@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763982862?label=Updated)
+![Relative date](https://img.shields.io/date/1763986882?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.79|5.85|app-devices|Compliance mode enabled, was '5.85'|
 |bluez-alsa|4.1.1|4.3.1|app-multimedia|Compliance mode enabled, was '4.3.1'|
 |bluez-qt|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
-|boinc|8.2.6|8.2.7|app-scientific|Compliance mode enabled, was '8.2.7'|
+|boinc|8.2.6|8.2.8|app-scientific|Compliance mode enabled, was '8.2.8'|
 |bomber|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |botan|3.8.1|3.10.0|runtime-cryptography|Compliance mode enabled, was '3.10.0'|
@@ -1517,8 +1517,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |lilv|0.24.12|0.26.0|runtime-multimedia|Compliance mode enabled, was '0.26.0'|
 |lincity-ng|2.9.0|2.14.2|app-games|Compliance mode enabled, was '2.14.2'|
-|linux+api|6.12.30|6.12.58|core-devel|Compliance mode enabled, was '6.12.58'|
-|linux+api+32|6.12.7|6.12.58|runtime-optenv32|Compliance mode enabled, was '6.12.58'|
+|linux+api|6.12.30|6.12.59|core-devel|Compliance mode enabled, was '6.12.59'|
+|linux+api+32|6.12.7|6.12.59|runtime-optenv32|Compliance mode enabled, was '6.12.59'|
 |linux+kernel|6.17.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.7 -> 5.19.17)|
 |linux+kernel+asahi|6.17.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.7 -> 5.19.17)|
 |linux+kernel+rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
@@ -1734,7 +1734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.8.4|app-utils|Compliance mode enabled, was '2.8.4'|
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |nghttp2|1.65.0|1.68.0|runtime-web|Compliance mode enabled, was '1.68.0'|
-|nghttp3|1.3.0|1.13.0|runtime-web|Compliance mode enabled, was '1.13.0'|
+|nghttp3|1.3.0|1.13.1|runtime-web|Compliance mode enabled, was '1.13.1'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.3|app-web|Compliance mode enabled, was '1.29.3'|
 |ngspice|35|45.2|app-electronics|Compliance mode enabled, was '45.2'|
 |ngtcp2|1.5.0|1.18.0|runtime-web|Compliance mode enabled, was '1.18.0'|
@@ -2788,7 +2788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |valgrind|3.25.0|3.26.0|app-devel|Compliance mode enabled, was '3.26.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
 |vapoursynth|70.11|72|app-multimedia|Compliance mode enabled, was '72'|
-|vasm|1.9f|2.0.c|app-devel|Compliance mode enabled, was '2.0.c'|
+|vasm|1.9f|2.0.d|app-devel|Compliance mode enabled, was '2.0.d'|
 |vba-m|2.1.8|2.2.3|app-games|Compliance mode enabled, was '2.2.3'|
 |vc|1.4.4|1.4.5|app-devel|Compliance mode enabled, was '1.4.5'|
 |vde2|2.3.3<br>+git20250918|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
