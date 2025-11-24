@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764018742?label=Updated)
+![Relative date](https://img.shields.io/date/1764022347?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -165,8 +165,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |botan|3.8.1|3.10.0|runtime-cryptography|Compliance mode enabled, was '3.10.0'|
-|boto3|1.40.25|1.41.2|lang-python|Compliance mode enabled, was '1.41.2'|
-|botocore|1.40.25|1.41.2|lang-python|Compliance mode enabled, was '1.41.2'|
+|boto3|1.40.25|1.41.3|lang-python|Compliance mode enabled, was '1.41.3'|
+|botocore|1.40.25|1.41.3|lang-python|Compliance mode enabled, was '1.41.3'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|60.0|app-utils|Compliance mode enabled, was '60.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 60.0)|
 |bovo|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
