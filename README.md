@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764000887?label=Updated)
+![Relative date](https://img.shields.io/date/1764004437?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -182,6 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brltty|6.6|6.8|app-a11y|Compliance mode enabled, was '6.8'|
 |brotli+32|1.1.0|1.2.0|runtime-optenv32|Compliance mode enabled, was '1.2.0'|
 |brotlicffi|1.1.0.0|1.2.0.0|lang-python|Compliance mode enabled, was '1.2.0.0'|
+|bspwm|0.9.10|0.9.12|desktop-wm|Compliance mode enabled, was '0.9.12'|
 |bubblewrap|0.10.0|0.11.0|app-admin|Compliance mode enabled, was '0.11.0'|
 |buildah|1.40.1|1.42.1|app-containers|Compliance mode enabled, was '1.42.1'|
 |buildbot-benchmark|20240327|20230227|app-benchmarks|Compliance mode enabled, was '20230227'<br>Possible downgrade from the current version (20240327 -> 20230227)|
@@ -415,7 +416,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duplicity|3.0.1|3.0.6.2|app-utils|Compliance mode enabled, was '3.0.6.2'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easyeffects|7.2.5|8.0.4|app-multimedia|Compliance mode enabled, was '8.0.4'|
-|edencommon|2025.09.01.00|2025.11.17.00|runtime-common|Compliance mode enabled, was '2025.11.17.00'|
+|edencommon|2025.09.01.00|2025.11.24.00|runtime-common|Compliance mode enabled, was '2025.11.24.00'|
 |edit|1.2.0|1.2.1|app-editors|Compliance mode enabled, was '1.2.1'|
 |editables|0.3|0.5|lang-python|Compliance mode enabled, was '0.5'|
 |edk2-test|202509|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202509 -> edk2-test-rc1_202404)|
@@ -468,8 +469,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.16|lang-python|Compliance mode enabled, was '0.9.16'|
 |fastjsonschema|2.21.1|2.21.2|lang-python|Compliance mode enabled, was '2.21.2'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
-|fb303|2025.09.01.00|2025.11.17.00|runtime-network|Compliance mode enabled, was '2025.11.17.00'|
-|fbthrift|2025.09.01.00|2025.11.17.00|app-network|Compliance mode enabled, was '2025.11.17.00'|
+|fb303|2025.09.01.00|2025.11.24.00|runtime-network|Compliance mode enabled, was '2025.11.24.00'|
+|fbthrift|2025.09.01.00|2025.11.24.00|app-network|Compliance mode enabled, was '2025.11.24.00'|
 |fcgi|2.4.2|2.4.6|runtime-web|Compliance mode enabled, was '2.4.6'|
 |fcitx5|5.1.15|5.1.16|app-i18n|Compliance mode enabled, was '5.1.16'|
 |fcitx5-anthy|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
@@ -515,7 +516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|fizz|2025.09.01.00|2025.11.17.00|app-network|Compliance mode enabled, was '2025.11.17.00'|
+|fizz|2025.09.01.00|2025.11.24.00|app-network|Compliance mode enabled, was '2025.11.24.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
 |flake8-builtins|3.0.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
@@ -1692,7 +1693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |musescore|4.3.2|4.6.3|app-creativity|Compliance mode enabled, was '4.6.3'|
 |musicfox|4.6.6|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
 |mutter|42.4|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
-|mvfst|2025.09.01.00|2025.11.17.00|runtime-network|Compliance mode enabled, was '2025.11.17.00'|
+|mvfst|2025.09.01.00|2025.11.24.00|runtime-network|Compliance mode enabled, was '2025.11.24.00'|
 |mxml|3.2|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
 |mycli|1.23.2|1.41.2|app-database|Compliance mode enabled, was '1.41.2'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
@@ -1867,6 +1868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packaging|24.2|25.0|lang-python|Compliance mode enabled, was '25.0'|
 |pacman|7.0.0|7.1.0|app-admin|Compliance mode enabled, was '7.1.0'|
 |pahole|1.25|1.31|app-utils|Compliance mode enabled, was '1.31'|
+|pakfixer|0.1.4|0.1.3|app-utils|Compliance mode enabled, was '0.1.3'<br>Possible downgrade from the current version (0.1.4 -> 0.1.3)|
 |palapeli|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |pam-wrapper|1.1.3|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |pamixer|1.4|1.6|app-multimedia|Compliance mode enabled, was '1.6'|
@@ -2827,10 +2829,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |vulkan-validationlayers|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
-|wangle|2025.09.01.00|2025.11.17.00|runtime-network|Compliance mode enabled, was '2025.11.17.00'|
+|wangle|2025.09.01.00|2025.11.24.00|runtime-network|Compliance mode enabled, was '2025.11.24.00'|
 |warpinator|1.6.3|2.0.0|desktop-cinnamon|Compliance mode enabled, was '2.0.0'|
 |warzone2100|4.5.5|4.6.1|app-games||
-|watchman|2025.09.01.00|2025.11.17.00|app-utils|Compliance mode enabled, was '2025.11.17.00'|
+|watchman|2025.09.01.00|2025.11.24.00|app-utils|Compliance mode enabled, was '2025.11.24.00'|
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |wayland-protocols|1.45|1.46|app-devel|Compliance mode enabled, was '1.46'|
 |wayland-utils|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
