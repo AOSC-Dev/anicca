@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1763975816?label=Updated)
+![Relative date](https://img.shields.io/date/1763979268?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -894,6 +894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kanagram|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kapidox|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kapman|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kapptemplate|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |karchive|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kasablanca-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kasts|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
