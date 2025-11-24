@@ -1446,6 +1446,7 @@
 ["ocaml-re","1.11.0","1.14.0","lang-ocaml",1715073538,["Compliance mode enabled, was '1.14.0'"]],
 ["opam","2.1.6","2.4.1","lang-ocaml",1717056189,["Compliance mode enabled, was '2.4.1'"]],
 ["qterminal","1.4.0","2.3.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.3.0'"]],
+["lxqt-menu-data","1.4.0","2.3.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.3.0'"]],
 ["lxqt-about","1.4.0","2.3.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.3.0'"]],
 ["pcmanfm-qt","1.4.0","2.3.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.3.0'"]],
 ["lxqt-panel","1.4.0","2.3.0","desktop-lxqt",1741164253,["Compliance mode enabled, was '2.3.0'"]],
