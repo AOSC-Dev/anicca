@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764097921?label=Updated)
+![Relative date](https://img.shields.io/date/1764101638?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1717,7 +1717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses|6.4|6.5+20251123|runtime-common|Compliance mode enabled, was '6.5-20251123'|
 |ncurses+32|6.4|6.5+20251123|runtime-optenv32|Compliance mode enabled, was '6.5-20251123'|
 |ndctl|80|83|app-admin|Compliance mode enabled, was '83'|
-|nemo|5.8.3|6.4.5|desktop-cinnamon|Compliance mode enabled, was '6.4.5'|
+|nemo|5.8.3|6.6.0|desktop-cinnamon|Compliance mode enabled, was '6.6.0'|
 |nemo-extensions|5.8.0|6.6.0|desktop-cinnamon|Compliance mode enabled, was '6.6.0'|
 |neochat|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |neofetch|8.0.2|7.1.0|app-utils|Compliance mode enabled, was '7.1.0'<br>Possible downgrade from the current version (8.0.2 -> 7.1.0)|
@@ -1894,6 +1894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.5|lang-python|Compliance mode enabled, was '0.8.5'|
+|partclone|0.3.38|0.3.40|app-admin|Compliance mode enabled, was '0.3.40'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |passt|2024_10_30.ee7d0b6|2025_09_19.623dbf6|app-network||
@@ -1913,7 +1914,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.47|runtime-optenv32|Compliance mode enabled, was '10.47'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.4.0|app-devices|Compliance mode enabled, was '2.4.0'|
-|pcsx2|1.6.0<br>+git20210825|2.5.329|app-games|Compliance mode enabled, was '2.5.329'|
+|pcsx2|1.6.0<br>+git20210825|2.5.331|app-games|Compliance mode enabled, was '2.5.331'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20251107|app-doc|Compliance mode enabled, was '20251107'|
 |pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
