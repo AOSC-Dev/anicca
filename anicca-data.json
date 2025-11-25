@@ -444,6 +444,7 @@
 ["highlight","4.12","4.18","app-devel",1722328885,["Compliance mode enabled, was '4.18'"]],
 ["ltrace","0.7.3+git20151111","0.7.91~git20230705.8eabf68","app-devel",1620461825,["Compliance mode enabled, was '0.7.91~git20230705.8eabf68'"]],
 ["extra-cmake-modules","5.115.0","6.20.0","app-devel",1714377107,["Compliance mode enabled, was '6.20.0'"]],
+["tokei","12.1.2","13.0.0","app-devel",1621553066,["Compliance mode enabled, was '13.0.0'"]],
 ["diffuse","0.9.0","0.10.0","app-devel",1718471717,["Compliance mode enabled, was '0.10.0'"]],
 ["ctags","6.2.20251005.0","6.2.20251123.0","app-devel",1759656341,["Compliance mode enabled, was '6.2.20251123.0'"]],
 ["ninja","1.13.1","1.13.2","app-devel",1753520202,["Compliance mode enabled, was '1.13.2'"]],
