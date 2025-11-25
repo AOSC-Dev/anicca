@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764031571?label=Updated)
+![Relative date](https://img.shields.io/date/1764037816?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -698,7 +698,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
 |gphoto2|2.5.28|2.5.32|app-imaging|Compliance mode enabled, was '2.5.32'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
-|gpsd|3.25|3.27|app-scientific|Compliance mode enabled, was '3.27'|
 |gradle|9.0.0|9.2.1|lang-java|Compliance mode enabled, was '9.2.1'|
 |granatier|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |grantlee-editor|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1988,7 +1987,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
 |perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
 |perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
-|perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.01|lang-perl|Compliance mode enabled, was '7.01'|
 |perl-image-exiftool|13.30|13.42|lang-perl|Compliance mode enabled, was '13.42'|
