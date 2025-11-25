@@ -2139,7 +2139,7 @@
 ["lact","0.8.2","0.8.3","app-admin",1761016372,["Compliance mode enabled, was '0.8.3'"]],
 ["rdma-core","57.0","60.0","app-admin",1748135736,["Compliance mode enabled, was '60.0'"]],
 ["syslinux","6.04~pre1","6.03","app-admin",1610962849,["Compliance mode enabled, was '6.03'","Possible downgrade from the current version (6.04~pre1 -> 6.03)"]],
-["damo","2.4.7","3.0.5","app-admin",1724095000,["Compliance mode enabled, was '3.0.5'"]],
+["damo","2.4.7","3.0.6","app-admin",1724095000,["Compliance mode enabled, was '3.0.6'"]],
 ["libcgroup","2.0","3.2.0","app-admin",1641887332,["Compliance mode enabled, was '3.2.0'"]],
 ["fcron","3.4.0","3.3.0","app-admin",1750138079,["Compliance mode enabled, was '3.3.0'","Possible downgrade from the current version (3.4.0 -> 3.3.0)"]],
 ["apt","3.0.3","3.1.12","app-admin",1757427380,["Compliance mode enabled, was '3.1.12'"]],
