@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764101638?label=Updated)
+![Relative date](https://img.shields.io/date/1764105095?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -334,6 +334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
+|dart-sdk|3.10.1|3.10.2|lang-dart|Compliance mode enabled, was '3.10.2'|
 |dash|0.5.12|0.5.13.1|app-shells|Compliance mode enabled, was '0.5.13.1'|
 |dateutil|2.8.2|2.9.0.post0|lang-python|Compliance mode enabled, was '2.9.0.post0'|
 |dav1d|1.4.3|1.5.2|runtime-multimedia|Compliance mode enabled, was '1.5.2'|
@@ -1523,7 +1524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|lilv|0.24.12|0.26.0|runtime-multimedia|Compliance mode enabled, was '0.26.0'|
+|lilv|0.24.12|0.26.2|runtime-multimedia|Compliance mode enabled, was '0.26.2'|
 |lincity-ng|2.9.0|2.14.2|app-games|Compliance mode enabled, was '2.14.2'|
 |linux+api|6.12.30|6.12.59|core-devel|Compliance mode enabled, was '6.12.59'|
 |linux+api+32|6.12.7|6.12.59|runtime-optenv32|Compliance mode enabled, was '6.12.59'|
@@ -1532,7 +1533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.246|runtime-kernel|Compliance mode enabled, was '5.10.246'|
 |linux+kernel+retro+minimal|5.15.17|5.10.246|runtime-kernel|Compliance mode enabled, was '5.10.246'<br>Possible downgrade from the current version (5.15.17 -> 5.10.246)|
-|linux-firmware|20251014|20251111|runtime-kernel||
+|linux-firmware|20251014|20251125|runtime-kernel||
 |linux-kernel|6.17.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.7 -> 5.19.17)|
 |linux-kernel-loongarch-2k0300|6.12.35|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.35 -> 5.19.17)|
 |linux-kernel-rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
