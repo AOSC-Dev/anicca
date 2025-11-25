@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764051544?label=Updated)
+![Relative date](https://img.shields.io/date/1764054852?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -973,6 +973,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdiff3-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kdirstat-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kdiskmark|2.3.0|3.2.0|desktop-kde|Compliance mode enabled, was '3.2.0'|
+|kdnssd|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kdoctools|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kdpkg-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |kdsme|1.2.8|2.2.0|app-devel|Compliance mode enabled, was '2.2.0'|
@@ -1886,7 +1887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.5|lang-python|Compliance mode enabled, was '0.8.5'|
-|partclone|0.3.38|0.3.39|app-admin|Compliance mode enabled, was '0.3.39'|
+|partclone|0.3.38|0.3.40|app-admin|Compliance mode enabled, was '0.3.40'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |passt|2024_10_30.ee7d0b6|2025_09_19.623dbf6|app-network||
