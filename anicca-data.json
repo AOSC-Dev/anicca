@@ -1937,7 +1937,6 @@
 ["ntl","11.5.1","11.6.0","runtime-scientific",1711266244,["Compliance mode enabled, was '11.6.0'"]],
 ["libmsym","0.2.3","0.2.4.2","runtime-scientific",1540624790,["Compliance mode enabled, was '0.2.4.2'"]],
 ["cgal","5.2","6.1","runtime-scientific",1614161662,["Compliance mode enabled, was '6.1'"]],
-["verdict","1.4.1","1.4.4","runtime-scientific",1687941313,["Compliance mode enabled, was '1.4.4'"]],
 ["glm","1.0.1","1.0.2","runtime-scientific",1717593782,["Compliance mode enabled, was '1.0.2'"]],
 ["opencv","4.9.0","4.12.0","runtime-scientific",1752544442,["Compliance mode enabled, was '4.12.0'"]],
 ["libqalculate","4.5.1","5.8.2","runtime-scientific",1721223235,["Compliance mode enabled, was '5.8.2'"]],
