@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764184351?label=Updated)
+![Relative date](https://img.shields.io/date/1764188004?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -37,7 +37,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |akonadi-calendar|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |akonadi-calendar-tools|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|akonadi-contacts|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |akonadi-import-wizard|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |akonadi-mime|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |akonadi-notes|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -315,7 +314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |croc|10.2.7|10.3.1|app-utils|Compliance mode enabled, was '10.3.1'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.16.1|1.25.1|app-admin|Compliance mode enabled, was '1.25.1'|
-|crush|0.18.5|0.19.0|app-utils|Compliance mode enabled, was '0.19.0'|
+|crush|0.18.5|0.19.1|app-utils|Compliance mode enabled, was '0.19.1'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |crypto++|8.2.0|8.9.0|runtime-cryptography|Compliance mode enabled, was '8.9.0'|
 |cryptography|46.0.2|46.0.3|lang-python|Compliance mode enabled, was '46.0.3'|
@@ -2657,10 +2656,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |tdmtheme|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |tea|0.10.1|0.11.1|app-devel|Compliance mode enabled, was '0.11.1'|
-|teams-for-linux|2.2.1|2.6.16|app-web|Compliance mode enabled, was '2.6.16'|
+|teams-for-linux|2.2.1|2.6.17|app-web|Compliance mode enabled, was '2.6.17'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
-|telegram-desktop|6.1.3|6.3.3|app-web|Compliance mode enabled, was '6.3.3'|
+|telegram-desktop|6.1.3|6.3.4|app-web|Compliance mode enabled, was '6.3.4'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-logger-qt|15.04.0|17.09.0|runtime-web|Compliance mode enabled, was '17.09.0'|
