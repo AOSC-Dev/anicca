@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764177223?label=Updated)
+![Relative date](https://img.shields.io/date/1764181009?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -495,7 +495,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.12|lang-python|Compliance mode enabled, was '6.0.12'|
 |feeluown|4.1.15|4.1.16|app-multimedia|Compliance mode enabled, was '4.1.16'|
 |feeluown-bilibili|0.5.1|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
-|feeluown-netease|1.0.4|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
+|feeluown-netease|1.0.4|1.0.6|app-multimedia|Compliance mode enabled, was '1.0.6'|
 |feeluown-qqmusic|1.0.11|1.0.13|app-multimedia|Compliance mode enabled, was '1.0.13'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |fennel|1.5.3|1.6.0|lang-lua|Compliance mode enabled, was '1.6.0'|
@@ -2784,6 +2784,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.40.4|2.41.2|app-utils|Compliance mode enabled, was '2.41.2'|
 |util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
+|uv|0.9.12|0.9.13|lang-python|Compliance mode enabled, was '0.9.13'|
 |v2ray|5.41.0|5.42.0|app-proxy|Compliance mode enabled, was '5.42.0'|
 |v2ray-rules-dat|202510042211|202511252214|runtime-data|Compliance mode enabled, was '202511252214'<br>Versions not comparable: `202510042211` and `202511252214`|
 |v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
