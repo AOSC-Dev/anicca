@@ -742,7 +742,7 @@
 ["dhcp","4.4.3.P1","4.4.3p1","app-network",1669533924,["Compliance mode enabled, was '4.4.3-P1'"]],
 ["iwd","3.2","3.10","app-network",1732863969,["Compliance mode enabled, was '3.10'"]],
 ["fbthrift","2025.09.01.00","2025.11.24.00","app-network",1757214447,["Compliance mode enabled, was '2025.11.24.00'"]],
-["zed","0.213.3","0.213.7","app-editors",1763860880,["Compliance mode enabled, was '0.213.7'"]],
+["zed","0.213.3","0.213.8","app-editors",1763860880,["Compliance mode enabled, was '0.213.8'"]],
 ["helix","25.07","25.07.1","app-editors",1753593728,["Compliance mode enabled, was '25.07.1'"]],
 ["vscodium","1.105.17075","1.106.27818","app-editors",1762080481,["Compliance mode enabled, was '1.106.27818'"]],
 ["liteide","38.3","38.4","app-editors",1761613629,["Compliance mode enabled, was '38.4'"]],
