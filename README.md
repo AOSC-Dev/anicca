@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764181009?label=Updated)
+![Relative date](https://img.shields.io/date/1764184351?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -280,9 +280,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cni-plugins|1.7.1|1.6.2|runtime-containers|Compliance mode enabled, was '1.6.2'<br>Possible downgrade from the current version (1.7.1 -> 1.6.2)|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
-|cockpit|286.1|351|app-admin|Compliance mode enabled, was '351'|
-|cockpit-machines|284.1|344|app-admin|Compliance mode enabled, was '344'|
-|cockpit-podman|63|117|app-admin|Compliance mode enabled, was '117'|
+|cockpit|286.1|352|app-admin|Compliance mode enabled, was '352'|
+|cockpit-machines|284.1|345|app-admin|Compliance mode enabled, was '345'|
+|cockpit-podman|63|118|app-admin|Compliance mode enabled, was '118'|
 |code-server|4.93.1|4.106.2|app-utils|Compliance mode enabled, was '4.106.2'|
 |codeine-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |coin|4.0.0<br>+git20220828|4.0.6|runtime-imaging|Compliance mode enabled, was '4.0.6'|
@@ -1720,7 +1720,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neon+32|0.33.0|0.36.0|runtime-optenv32|Compliance mode enabled, was '0.36.0'|
 |nestopia|1.52.1|1.53.2|app-games|Compliance mode enabled, was '1.53.2'|
 |netavark|1.13.0|1.17.0|runtime-containers|Compliance mode enabled, was '1.17.0'|
-|netbird|0.59.7|0.60.2|app-network|Compliance mode enabled, was '0.60.2'|
+|netbird|0.59.7|0.60.3|app-network|Compliance mode enabled, was '0.60.3'|
 |netcat|1.219|1.234|app-network|Compliance mode enabled, was '1.234'|
 |netcdf|4.7.4|4.9.3|runtime-scientific|Compliance mode enabled, was '4.9.3'|
 |netctl|1.23|1.29|app-network|Compliance mode enabled, was '1.29'|
