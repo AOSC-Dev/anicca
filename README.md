@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764246092?label=Updated)
+![Relative date](https://img.shields.io/date/1764250098?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -237,7 +237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.6.7|1.6.61|app-utils|Compliance mode enabled, was '1.6.61'|
-|chezmoi|2.67.0|2.67.1|app-utils|Compliance mode enabled, was '2.67.1'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.604|desktop-fonts|Compliance mode enabled, was '2.604'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
@@ -1242,6 +1241,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.11|runtime-common|Compliance mode enabled, was '2.11'|
 |libc+wasi|22|28|runtime-wasi|Compliance mode enabled, was '28'|
 |libcaldav|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
+|libcamera|0.5.2|0.6.0|runtime-devices|Compliance mode enabled, was '0.6.0'|
 |libcap+32|2.73|2.77|runtime-optenv32|Compliance mode enabled, was '2.77'|
 |libcarddav|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |libcava|0.10.4|0.10.6|runtime-multimedia|Compliance mode enabled, was '0.10.6'|
