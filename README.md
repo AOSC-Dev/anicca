@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764263480?label=Updated)
+![Relative date](https://img.shields.io/date/1764267414?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -462,7 +462,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |fann|20190109|2.2.0|runtime-scientific|Compliance mode enabled, was '2.2.0'<br>Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fantasque-sans-mono-nerd-fonts|3.3.0|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
-|fast-float|7.0.0|8.1.0|runtime-common|Compliance mode enabled, was '8.1.0'|
 |fastbencode|0.3.2|0.3.7|lang-python|Compliance mode enabled, was '0.3.7'|
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
 |fastimport|0.9.8|0.9.16|lang-python|Compliance mode enabled, was '0.9.16'|
@@ -1659,7 +1658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|mise|2025.8.9|2025.11.9|app-devel|Compliance mode enabled, was '2025.11.9'|
+|mise|2025.8.9|2025.11.10|app-devel|Compliance mode enabled, was '2025.11.10'|
 |mitmproxy|11.0.0|12.2.1|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2284,7 +2283,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qalculate-tde-trinity|14.1.2|14.1.5|desktop-trinity|Compliance mode enabled, was '14.1.5'|
 |qasync|0.27.1|0.28.0|lang-python|Compliance mode enabled, was '0.28.0'|
 |qca|2.3.4|2.3.10|runtime-cryptography|Compliance mode enabled, was '2.3.10'|
-|qcoro|0.10.0|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
 |qcustomplot|2.1.1|2.1.1.1|runtime-desktop|Compliance mode enabled, was '2.1.1.1'|
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
 |qdiskinfo|0.4|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.4 -> 0.1)|
@@ -2822,7 +2820,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscodium|1.106.27818|1.106.37943|app-editors|Compliance mode enabled, was '1.106.37943'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
-|vte|0.68.0|0.82.2|runtime-desktop|Compliance mode enabled, was '0.82.2'|
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |vulkan-headers|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
@@ -2953,8 +2950,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zimg|3.0.5|3.0.6|runtime-imaging|Compliance mode enabled, was '3.0.6'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
-|zlib|2.2.4|2.2.5|core-libs|Compliance mode enabled, was '2.2.5'|
-|zlib+32|2.2.3|2.2.5|runtime-optenv32|Compliance mode enabled, was '2.2.5'|
+|zlib|2.2.4|2.3.1|core-libs|Compliance mode enabled, was '2.3.1'|
+|zlib+32|2.2.3|2.3.1|runtime-optenv32|Compliance mode enabled, was '2.3.1'|
 |zmusic|1.1.14|1.3.0|app-games|Compliance mode enabled, was '1.3.0'|
 |zope-component|4.4.1|7.0|lang-python|Compliance mode enabled, was '7.0'|
 |zope-event|4.3.0|6.1|lang-python|Compliance mode enabled, was '6.1'|
