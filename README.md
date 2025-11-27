@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764250098?label=Updated)
+![Relative date](https://img.shields.io/date/1764252845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -166,7 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.40.25|1.41.5|lang-python|Compliance mode enabled, was '1.41.5'|
 |botocore|1.40.25|1.41.5|lang-python|Compliance mode enabled, was '1.41.5'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
-|bottles|2022.2.28<br>+trento<br>+4|60.0|app-utils|Compliance mode enabled, was '60.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 60.0)|
+|bottles|2022.2.28<br>+trento<br>+4|60.1|app-utils|Compliance mode enabled, was '60.1'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 60.1)|
 |bovo|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |box64|0.3.9<br>+git20251126|0.3.8|app-emulation|Compliance mode enabled, was '0.3.8'<br>Possible downgrade from the current version (0.3.9+git20251126 -> 0.3.8)|
 |bpftrace|0.23.5|0.24.1|app-admin|Compliance mode enabled, was '0.24.1'|
@@ -581,7 +581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
 |geany|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
 |geany-plugins|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
-|gearlever|3.4.7|4.0.2|app-utils|Compliance mode enabled, was '4.0.2'|
+|gearlever|3.4.7|4.0.3|app-utils|Compliance mode enabled, was '4.0.3'|
 |gedit|42.2|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |gedit-plugins|42.1|48.2|desktop-gnome|Compliance mode enabled, was '48.2'|
 |genryu-font|1.501|2.100|desktop-fonts|Compliance mode enabled, was '2.100'|
@@ -713,7 +713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsmartcontrol|1.1.3|2.0.2|app-admin|Compliance mode enabled, was '2.0.2'|
 |gsoap|2.8.124|2.8.139|runtime-network|Compliance mode enabled, was '2.8.139'|
 |gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
-|gspell|1.11.1|1.14.0|desktop-gnome|Compliance mode enabled, was '1.14.0'|
+|gspell|1.11.1|1.14.1|desktop-gnome|Compliance mode enabled, was '1.14.1'|
 |gssdp|1.2.3|1.6.4|runtime-network|Compliance mode enabled, was '1.6.4'|
 |gssproxy|0.8.2|0.9.2|app-network|Compliance mode enabled, was '0.9.2'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
@@ -1570,7 +1570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |lutris|0.5.18|0.5.19|app-games|Compliance mode enabled, was '0.5.19'|
 |lvm2|2.03.14|2.03.37|app-admin|Compliance mode enabled, was '2.03.37'|
-|lxgwcleargothic-font|0.508|0.512|desktop-fonts|Compliance mode enabled, was '0.512'|
+|lxgwcleargothic-font|0.508|0.512.1|desktop-fonts|Compliance mode enabled, was '0.512.1'|
 |lxgwneoxihei-font|1.226|1.230|desktop-fonts|Compliance mode enabled, was '1.230'|
 |lximage-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxml|6.0.0|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
@@ -1793,7 +1793,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrivegui|1.1.1|1.3.0|app-web|Compliance mode enabled, was '1.3.0'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
 |oolite|1.90|1.91.0.7712-251017-85ce217|app-games|Compliance mode enabled, was '1.91.0.7712-251017-85ce217'|
-|opam|2.1.6|2.4.1|lang-ocaml|Compliance mode enabled, was '2.4.1'|
+|opam|2.1.6|2.5.0|lang-ocaml|Compliance mode enabled, was '2.5.0'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
 |open-rs|5.3.0|5.3.3|app-utils|Compliance mode enabled, was '5.3.3'|
