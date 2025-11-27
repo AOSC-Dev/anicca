@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764274414?label=Updated)
+![Relative date](https://img.shields.io/date/1764277932?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -329,6 +329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.1.2|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|3.0.6|app-admin|Compliance mode enabled, was '3.0.6'|
+|dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dart-sdk|3.10.1|3.10.2|lang-dart|Compliance mode enabled, was '3.10.2'|
@@ -1543,6 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|20.1.8|21.1.6|runtime-optenv32|Compliance mode enabled, was '21.1.6'|
 |llvm-18|18.1.8|21.1.6|app-devel|Compliance mode enabled, was '21.1.6'|
 |llvm-19|19.1.6|21.1.6|app-devel|Compliance mode enabled, was '21.1.6'|
+|llvm-20|20.1.8|21.1.6|app-devel|Compliance mode enabled, was '21.1.6'|
 |llvm-runtime+wasi|20.1.8|21.1.6|runtime-wasi|Compliance mode enabled, was '21.1.6'|
 |lmms|1.2.2<br>+git20251014|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.4|runtime-common|Compliance mode enabled, was '1.1.4'|
@@ -1900,6 +1902,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pbs-installer|2025.7.12|2025.11.20|lang-python|Compliance mode enabled, was '2025.11.20'|
 |pcaudiolib|1.2|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'|
 |pciutils|3.13.0|3.14.0|app-utils|Compliance mode enabled, was '3.14.0'|
+|pcmanfm-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |pcp|6.0.1|7.0.5|app-utils|Compliance mode enabled, was '7.0.5'|
 |pcre-static|8.44|8.45|runtime-common|Compliance mode enabled, was '8.45'|
 |pcre2|10.46|10.47|runtime-common|Compliance mode enabled, was '10.47'|
