@@ -1907,6 +1907,7 @@
 ["vala-panel-appmenu","0.7.4","25.04","runtime-desktop",1600321917,["Compliance mode enabled, was '25.04'"]],
 ["qtstyleplugins","5.0.0+git20170311","5.0.0","runtime-desktop",1513090354,["Compliance mode enabled, was '5.0.0'"]],
 ["xdg-dbus-proxy","0.1.2","0.1.6","runtime-desktop",1573326951,["Compliance mode enabled, was '0.1.6'"]],
+["qcoro","0.10.0","0.12.0","runtime-desktop",1714377107,["Compliance mode enabled, was '0.12.0'"]],
 ["libwnck-3","40.1","43.3","runtime-desktop",1663210242,["Compliance mode enabled, was '43.3'"]],
 ["dante","1.4.2","1.4.4","app-proxy",1510974704,["Compliance mode enabled, was '1.4.4'"]],
 ["xray","25.8.31","25.10.15","app-proxy",1761613631,["Compliance mode enabled, was '25.10.15'"]],
