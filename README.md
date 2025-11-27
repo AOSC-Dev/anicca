@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764234849?label=Updated)
+![Relative date](https://img.shields.io/date/1764238426?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1021,6 +1021,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimageannotator|0.6.0|0.7.2|desktop-kde|Compliance mode enabled, was '0.7.2'|
 |kimageformats|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kimagemapeditor|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kimap|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kinfocenter|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |kinit|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kio|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
@@ -2821,6 +2822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
 |vpl-gpu-rt|25.4.3|25.4.4|runtime-multimedia|Compliance mode enabled, was '25.4.4'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
+|vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscodium|1.106.27818|1.106.37943|app-editors|Compliance mode enabled, was '1.106.37943'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.68.0|0.82.2|runtime-desktop|Compliance mode enabled, was '0.82.2'|
