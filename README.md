@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764324986?label=Updated)
+![Relative date](https://img.shields.io/date/1764328319?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1730,6 +1730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-qt|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |networkmanager-strongswan|1.6.1|1.6.3|app-network|Compliance mode enabled, was '1.6.3'|
 |networkx|2.8.5|3.6|lang-python|Compliance mode enabled, was '3.6'|
+|nexttrace|1.5.0|1.4.2|app-network|Compliance mode enabled, was '1.4.2'<br>Possible downgrade from the current version (1.5.0 -> 1.4.2)|
 |nfs-utils|2.6.2|2.8.4|app-utils|Compliance mode enabled, was '2.8.4'|
 |nftables|1.0.9|1.1.5|app-network|Compliance mode enabled, was '1.1.5'|
 |nghttp2|1.65.0|1.68.0|runtime-web|Compliance mode enabled, was '1.68.0'|
@@ -2345,6 +2346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rfc3986|1.4.0|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |rhash|1.4.4|1.4.6|app-utils|Compliance mode enabled, was '1.4.6'|
 |rich|13.7.1|14.2.0|lang-python|Compliance mode enabled, was '14.2.0'|
+|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
 |ripgrep|14.1.1|15.1.0|app-utils|Compliance mode enabled, was '15.1.0'|
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
