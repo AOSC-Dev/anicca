@@ -2185,6 +2185,7 @@
 ["coreboot-utils","24.08","25.09","app-admin",1725467532,["Compliance mode enabled, was '25.09'"]],
 ["opentofu","1.10.6","1.10.7","app-admin",1761613630,["Compliance mode enabled, was '1.10.7'"]],
 ["mstflint","4.29.0-1","4.34.0+2","app-admin",1731561395,["Compliance mode enabled, was '4.34.0-2'"]],
+["etckeeper","1.18.21","1.18.23","app-admin",1720408788,["Compliance mode enabled, was '1.18.23'"]],
 ["iozone","3.492","3.508","app-admin",1641887332,["Compliance mode enabled, was '3.508'"]],
 ["appstream","1.0.4","1.1.1","app-admin",1747636150,["Compliance mode enabled, was '1.1.1'"]],
 ["signon","8.60","8.61","app-admin",1537365905,["Compliance mode enabled, was '8.61'"]],
