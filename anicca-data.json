@@ -697,6 +697,7 @@
 ["tftp-hpa","5.2+git20240610","5.2","app-network",1760351678,["Compliance mode enabled, was '5.2'"]],
 ["getdns","1.6.0","1.7.3","app-network",1594095357,["Compliance mode enabled, was '1.7.3'"]],
 ["lrzsz","0.12.20","0.12.21.orig","app-network",1481254632,["Compliance mode enabled, was '0.12.21.orig'"]],
+["razor-agents","2.85","2.152","app-network",1678950872,["Compliance mode enabled, was '2.152'"]],
 ["vnstat","2.4","2.13","app-network",1569375540,["Compliance mode enabled, was '2.13'"]],
 ["gssproxy","0.8.2","0.9.2","app-network",1600577920,["Compliance mode enabled, was '0.9.2'"]],
 ["dhcpcd","10.0.8","10.3.0","app-network",1717593869,["Compliance mode enabled, was '10.3.0'"]],
