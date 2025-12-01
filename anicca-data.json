@@ -1557,6 +1557,7 @@
 ["spirv-tools","1.4.328.1","2025.4","runtime-display",1760238238,["Compliance mode enabled, was '2025.4'"]],
 ["vulkan-validationlayers","1.4.328.1","1.4.334","runtime-display",1760238238,["Compliance mode enabled, was '1.4.334'"]],
 ["s2tc","1.0+git20210317","1.0","runtime-display",1740919509,["Compliance mode enabled, was '1.0'"]],
+["waylandpp","1.0.0","1.0.1","runtime-display",1696572712,["Compliance mode enabled, was '1.0.1'"]],
 ["rxvt-unicode","9.22","9.31","runtime-display",1479956588,["Compliance mode enabled, was '9.31'"]],
 ["glfw","3.4","3.5.0","runtime-display",1713234863,["Compliance mode enabled, was '3.5.0'"]],
 ["xf86-video-neomagic","1.3.0","1.3.1","runtime-display",1587076659,["Compliance mode enabled, was '1.3.1'"]],
