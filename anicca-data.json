@@ -596,6 +596,7 @@
 ["vscodium","1.106.27818","1.106.37943","app-editors",1764210278,["Compliance mode enabled, was '1.106.37943'"]],
 ["liteide","38.3","38.4","app-editors",1761613629,["Compliance mode enabled, was '38.4'"]],
 ["vim","9.1.1837","9.1.1930","app-editors",1760106357,["Compliance mode enabled, was '9.1.1930'"]],
+["ed","1.22.2","1.22.3","app-editors",1755741911,["Compliance mode enabled, was '1.22.3'"]],
 ["edit","1.2.0","1.2.1","app-editors",1750124275,["Compliance mode enabled, was '1.2.1'"]],
 ["retext","7.2.2","8.1.0","app-editors",1623988108,["Compliance mode enabled, was '8.1.0'"]],
 ["libvncserver","0.9.13","0.9.15","runtime-network",1598554084,["Compliance mode enabled, was '0.9.15'"]],
