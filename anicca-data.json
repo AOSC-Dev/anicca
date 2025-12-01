@@ -630,7 +630,6 @@
 ["gwenhywfar","5.12.1","5.13.0","runtime-network",1758851069,["Compliance mode enabled, was '5.13.0'"]],
 ["poco","1.14.1","1.14.2","runtime-network",1743061237,["Compliance mode enabled, was '1.14.2'"]],
 ["herbstluftwm","0.7.2","0.9.5","desktop-wm",1585799570,["Compliance mode enabled, was '0.9.5'"]],
-["niri","25.11","25.08","desktop-wm",1764594772,["Compliance mode enabled, was '25.08'","Possible downgrade from the current version (25.11 -> 25.08)"]],
 ["setroot","2.0.2","2.0.3","desktop-wm",1585799570,["Compliance mode enabled, was '2.0.3'"]],
 ["stalonetray","0.8.4","1.0.1","desktop-wm",1655473809,["Compliance mode enabled, was '1.0.1'"]],
 ["xcompmgr","1.1.8","1.1.10","desktop-wm",1565983209,["Compliance mode enabled, was '1.1.10'"]],
