@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764584112?label=Updated)
+![Relative date](https://img.shields.io/date/1764587564?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -310,6 +310,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|6.2.20251005.0|6.2.20251123.0|app-devel|Compliance mode enabled, was '6.2.20251123.0'|
+|cups|2.4.14|2.4.15|app-admin|Compliance mode enabled, was '2.4.15'|
+|cups+32|2.4.14|2.4.15|runtime-optenv32|Compliance mode enabled, was '2.4.15'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -365,7 +367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
-|docker|28.5.1|29.0.4|app-containers||
+|docker|28.5.1|29.1.1|app-containers||
 |docker-buildx|0.22.0|0.30.1|app-containers|Compliance mode enabled, was '0.30.1'|
 |docker-compose|2.35.0|2.40.3|app-containers|Compliance mode enabled, was '2.40.3'|
 |docutils|0.21.2|0.22.3|lang-python|Compliance mode enabled, was '0.22.3'|
@@ -812,7 +814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inotify-tools|4.23.9.0|4.25.9.0|app-admin|Compliance mode enabled, was '4.25.9.0'|
 |intel-compute-runtime|25.35.35096.9|25.44.36015.5|runtime-scientific|Compliance mode enabled, was '25.44.36015.5'|
 |intel-graphics-compiler|2.18.5|2.22.2|app-devel|Compliance mode enabled, was '2.22.2'|
-|intel-media-driver|25.3.4|25.4.0|runtime-multimedia|Compliance mode enabled, was '25.4.0'|
+|intel-media-driver|25.3.4|25.4.4|runtime-multimedia|Compliance mode enabled, was '25.4.4'|
 |intel-oneapi-basekit|2025.2.1|2025.3.0|app-devel|Compliance mode enabled, was '2025.3.0'|
 |inxi|3.3.37<br>+1|3.3.40+1|app-utils|Compliance mode enabled, was '3.3.40-1'|
 |iozone|3.492|3.508|app-admin|Compliance mode enabled, was '3.508'|
@@ -1413,8 +1415,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcrypt|4.4.38|4.5.2|core-libs|Compliance mode enabled, was '4.5.2'|
 |libxcrypt+32|4.4.37|4.5.2|runtime-optenv32|Compliance mode enabled, was '4.5.2'|
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
-|libxkbcommon|1.8.1|1.12.2|runtime-display|Compliance mode enabled, was '1.12.2'|
-|libxkbcommon+32|1.7.0|1.12.2|runtime-optenv32|Compliance mode enabled, was '1.12.2'|
+|libxkbcommon|1.8.1|1.13|runtime-display|Compliance mode enabled, was '1.13'|
+|libxkbcommon+32|1.7.0|1.13|runtime-optenv32|Compliance mode enabled, was '1.13'|
 |libxml++-2.6|2.42.3|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
 |libxml2|2.10.4|2.15.1|runtime-common|Compliance mode enabled, was '2.15.1'|
 |libxml2+32|2.10.4|2.15.1|runtime-optenv32|Compliance mode enabled, was '2.15.1'|
@@ -2445,8 +2447,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools+32|1.4.328.1|2025.4|runtime-optenv32|Compliance mode enabled, was '2025.4'|
 |sqlalchemy|1.2.18|2.0.44|lang-python|Compliance mode enabled, was '2.0.44'|
 |sqlcipher|4.5.6|4.11.0|app-database|Compliance mode enabled, was '4.11.0'|
-|sqlite|3500400|3.51.0|app-database|Possible downgrade from the current version (3500400 -> 3.51.0)|
-|sqlite+32|3.46.1|3.51.0|runtime-optenv32|Compliance mode enabled, was '3.51.0'|
+|sqlite|3500400|3.51.1|app-database|Possible downgrade from the current version (3500400 -> 3.51.1)|
+|sqlite+32|3.46.1|3.51.1|runtime-optenv32|Compliance mode enabled, was '3.51.1'|
 |sqlite-fdw|2.1.0|2.5.0|app-database|Compliance mode enabled, was '2.5.0'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
 |sqlmap|1.9.10|1.9.11|app-penetration|Compliance mode enabled, was '1.9.11'|
