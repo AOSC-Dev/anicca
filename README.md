@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764580781?label=Updated)
+![Relative date](https://img.shields.io/date/1764584112?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -317,7 +317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cxxopts|3.2.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
 |cython|3.1.2|3.2.1|lang-python|Compliance mode enabled, was '3.2.1'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
-|daed|1.5.1|1.0.0|app-proxy|Compliance mode enabled, was '1.0.0'<br>Possible downgrade from the current version (1.5.1 -> 1.0.0)|
+|daed|1.5.1|1.8.0|app-proxy|Compliance mode enabled, was '1.8.0'|
 |damo|2.4.7|3.0.6|app-admin|Compliance mode enabled, was '3.0.6'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.1|app-utils|Compliance mode enabled, was '2.8.1'|
@@ -360,6 +360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |distrobox|1.8.2.0|1.8.2.2|app-utils|Compliance mode enabled, was '1.8.2.2'|
 |dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
+|dnscontrol|4.26.0|4.27.1|app-network|Compliance mode enabled, was '4.27.1'|
 |dnscrypt|2.1.7|2.1.14|app-network|Compliance mode enabled, was '2.1.14'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
@@ -2453,6 +2454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfuse|0.1.105|0.6.1|app-admin|Compliance mode enabled, was '0.6.1'|
 |sra-tools|3.0.3|3.2.1|app-scientific|Compliance mode enabled, was '3.2.1'|
 |sratom|0.6.4|0.6.18|runtime-common|Compliance mode enabled, was '0.6.18'|
+|srtp|2.6.0|2.7.0|runtime-multimedia|Compliance mode enabled, was '2.7.0'|
 |sscg|3.0.5|4.0.1|app-cryptography|Compliance mode enabled, was '4.0.1'|
 |sshfs|3.7.3|3.7.5|app-network|Compliance mode enabled, was '3.7.5'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
