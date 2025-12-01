@@ -831,7 +831,6 @@
 ["lunzip","1.10","1.15","app-utils",1527956211,["Compliance mode enabled, was '1.15'"]],
 ["balz","1.20",".82","app-utils",1470117249,["Compliance mode enabled, was '.82'"]],
 ["open-rs","5.3.0","5.3.3","app-utils",1723457628,["Compliance mode enabled, was '5.3.3'"]],
-["rdfind","1.6.0","1.7.0","app-utils",1708669189,["Compliance mode enabled, was '1.7.0'"]],
 ["ncdu","1.22","2.9.2","app-utils",1753520158,["Compliance mode enabled, was '2.9.2'"]],
 ["bzip3","1.4.0","1.5.3","app-utils",1710215096,["Compliance mode enabled, was '1.5.3'"]],
 ["onefetch","2.21.0","2.25.0","app-utils",1723473833,["Compliance mode enabled, was '2.25.0'"]],
