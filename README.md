@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764699517?label=Updated)
+![Relative date](https://img.shields.io/date/1764703054?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1682,7 +1682,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |nvchecker|2.15.1|2.19|app-utils|Compliance mode enabled, was '2.19'|
 |nvidia|580.95.05|580.105.08|groups|Compliance mode enabled, was '580.105.08'|
-|nvidia-open|580.95.05|580.105.08|runtime-display|Compliance mode enabled, was '580.105.08'|
 |oath-toolkit|2.6.12|2.6.13|app-admin|Compliance mode enabled, was '2.6.13'|
 |oauthlib|3.2.2|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |obconf-qt|0.16.4|0.16.6|desktop-lxqt|Compliance mode enabled, was '0.16.6'|
@@ -2150,7 +2149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside6|6.10.0|6.10.1|lang-python|Compliance mode enabled, was '6.10.1'|
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |pytest|8.2.2|9.0.1|lang-python|Compliance mode enabled, was '9.0.1'|
-|python-3|3.10.18|3.14.0|lang-python|Compliance mode enabled, was '3.14.0'|
+|python-3|3.10.18|3.14.1|lang-python|Compliance mode enabled, was '3.14.1'|
 |python-build|1.2.1|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
 |python-cloudflare|2.8.15|4.3.1|lang-python|Compliance mode enabled, was '4.3.1'|
 |python-crc|7.0.0|7.1.0|lang-python|Compliance mode enabled, was '7.1.0'|
