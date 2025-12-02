@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764659857?label=Updated)
+![Relative date](https://img.shields.io/date/1764663489?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -266,6 +266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.31.0|0.31.1|runtime-doc|Compliance mode enabled, was '0.31.1'|
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmocka|1.1.7|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
+|cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
 |cni-plugins|1.7.1|1.6.2|runtime-containers|Compliance mode enabled, was '1.6.2'<br>Possible downgrade from the current version (1.7.1 -> 1.6.2)|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|286.1|352|app-admin|Compliance mode enabled, was '352'|
@@ -356,6 +357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dill|0.3.8|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
+|discord|0.0.117|0.0.116|app-web|Compliance mode enabled, was '0.0.116'<br>Possible downgrade from the current version (0.0.117 -> 0.0.116)|
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
@@ -866,6 +868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalk|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kalzium|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kamera|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|kamoso|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kanagram|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kapidox|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kapman|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
