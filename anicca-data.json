@@ -714,7 +714,6 @@
 ["matugen","2.4.1","3.1.0","app-utils",1758506233,["Compliance mode enabled, was '3.1.0'"]],
 ["pciutils","3.13.0","3.14.0","app-utils",1730451438,["Compliance mode enabled, was '3.14.0'"]],
 ["tmux","3.5a","3.6","app-utils",1741031416,["Compliance mode enabled, was '3.6'"]],
-["convertall","0.7.5","1.0.2","app-utils",1531832124,["Compliance mode enabled, was '1.0.2'"]],
 ["hdsentinel","0.17","999e","app-utils",1553836459,["Compliance mode enabled, was '999e'"]],
 ["duplicity","3.0.1","3.0.6.2","app-utils",1721146687,["Compliance mode enabled, was '3.0.6.2'"]],
 ["chrpath","0.16","0.18","app-utils",1678950872,["Compliance mode enabled, was '0.18'"]],
