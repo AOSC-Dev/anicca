@@ -2198,6 +2198,7 @@
 ["rocm-rocprofiler-register","7.1.0","7.3.53290","runtime-rocm",1760110506,["Compliance mode enabled, was '7.3.53290'"]],
 ["rocm-rccl","7.1.0","20250912.42","runtime-rocm",1764127724,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-roctracer","7.1.0","7.3.53290","runtime-rocm",1764127724,["Compliance mode enabled, was '7.3.53290'"]],
+["rocm-device-libs","7.1.0","20250912.42","runtime-rocm",1764127724,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-rocrand","7.1.0","20250912.42","runtime-rocm",1764127724,["Compliance mode enabled, was '20250912-42'"]],
 ["rocm-hiprand","7.1.0","20250912.42","runtime-rocm",1764127724,["Compliance mode enabled, was '20250912-42'"]],
 ["rocr-runtime","7.1.0","7.3.53290","runtime-rocm",1764127724,["Compliance mode enabled, was '7.3.53290'"]],
