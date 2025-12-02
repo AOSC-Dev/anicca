@@ -1549,6 +1549,7 @@
 ["vulkan-headers","1.4.328.1","1.4.334","runtime-display",1760238238,["Compliance mode enabled, was '1.4.334'"]],
 ["xkeyboard-config","2.40","2.46","runtime-display",1699859032,["Compliance mode enabled, was '2.46'"]],
 ["xf86-video-chips","1.4.0","1.5.0","runtime-display",1591985485,["Compliance mode enabled, was '1.5.0'"]],
+["nvidia-open","580.95.05","580.105.08","runtime-display",1759633027,["Compliance mode enabled, was '580.105.08'"]],
 ["imath","3.1.11","3.2.2","runtime-display",1721094382,["Compliance mode enabled, was '3.2.2'"]],
 ["vulkan-loader","1.4.328.1","1.4.334","runtime-display",1760238238,["Compliance mode enabled, was '1.4.334'"]],
 ["xf86-input-wacom","1.2.0","1.2.4","runtime-display",1699859032,["Compliance mode enabled, was '1.2.4'"]],
