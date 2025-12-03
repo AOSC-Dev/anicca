@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764764521?label=Updated)
+![Relative date](https://img.shields.io/date/1764768717?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -59,6 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ansible|2.12.1|2.20.0|app-admin|Compliance mode enabled, was '2.20.0'|
 |anubis|1.21.3|1.23.1|app-web|Compliance mode enabled, was '1.23.1'|
 |anyio|4.8.0|4.11.0|lang-python|Compliance mode enabled, was '4.11.0'|
+|aosc-community-wallpapers|2025.12.0|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'<br>Possible downgrade from the current version (2025.12.0 -> 2025.05.2)|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
 |aosc-community-wallpapers-extras-2024|2024.04.4|2025.05.2|desktop-themes|Compliance mode enabled, was '2025.05.2'|
 |aosc-media-writer|0.4.3|5.0.9|app-utils|Compliance mode enabled, was '5.0.9'|
@@ -2000,7 +2001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.11.80|desktop-kde|Compliance mode enabled, was '25.11.80'|
 |plasma-browser-integration|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
-|plasma-default-settings|2025.10.0|2025.11.0|runtime-data|Compliance mode enabled, was '2025.11.0'|
+|plasma-default-settings|2025.12.0|2025.11.0|runtime-data|Compliance mode enabled, was '2025.11.0'<br>Possible downgrade from the current version (2025.12.0 -> 2025.11.0)|
 |plasma-desktop|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-disks|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |plasma-firewall|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
