@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764749921?label=Updated)
+![Relative date](https://img.shields.io/date/1764753521?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1777,7 +1777,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |oxygen-sounds|5.25.3|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |p11-kit|0.25.5|0.25.10|runtime-cryptography|Compliance mode enabled, was '0.25.10'|
-|p11-kit+32|0.25.5|0.25.10|runtime-optenv32|Compliance mode enabled, was '0.25.10'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
 |packagekit|1.3.0|1.3.3|app-admin|Compliance mode enabled, was '1.3.3'|
 |packagekit-qt|1.1.1|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
@@ -2624,7 +2623,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usage|2.6.0|2.8.0|app-utils|Compliance mode enabled, was '2.8.0'|
 |usb-modeswitch|2.6.0<br>+data20170120|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
-|usbutils|018|019|app-utils|Compliance mode enabled, was '019'|
 |utfcpp|3.2.1|4.0.8|runtime-common|Compliance mode enabled, was '4.0.8'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
 |util-linux|2.40.4|2.41.2|app-utils|Compliance mode enabled, was '2.41.2'|
@@ -2667,7 +2665,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vtk|9.3.0|9.5.2|app-scientific|Compliance mode enabled, was '9.5.2'|
 |vulkan-extensionlayer|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |vulkan-headers|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
-|vulkan-headers+32|1.4.328.1|1.4.334|runtime-optenv32|Compliance mode enabled, was '1.4.334'|
 |vulkan-loader|1.4.328.1|1.4.334|runtime-display|Compliance mode enabled, was '1.4.334'|
 |vulkan-loader+32|1.4.328.1|1.4.334|runtime-optenv32|Compliance mode enabled, was '1.4.334'|
 |vulkan-tools|1.4.328.1|1.4.333|app-utils|Compliance mode enabled, was '1.4.333'|
