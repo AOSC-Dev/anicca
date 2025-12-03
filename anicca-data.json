@@ -25,7 +25,7 @@
 ["un-fonts","1.0.2","1.0.2+080608","desktop-fonts",1678950872,["Compliance mode enabled, was '1.0.2-080608'"]],
 ["lxgwneoxihei-font","1.226","1.230","desktop-fonts",1761708497,["Compliance mode enabled, was '1.230'"]],
 ["genryu-font","1.501","2.100","desktop-fonts",1597907078,["Compliance mode enabled, was '2.100'"]],
-["noto-fonts","24.8.1","20201206-phase3","desktop-fonts",1723470481,[]],
+["noto-fonts","24.8.1","2025.12.01","desktop-fonts",1723470481,[]],
 ["adobe-source-han-serif","2.003","2.003r","desktop-fonts",1739681507,["Compliance mode enabled, was '2.003R'","Possible downgrade from the current version (2.003 -> 2.003r)"]],
 ["ttf-tibetan-machine-unicode","1.901b","1.901","desktop-fonts",1629606314,["Compliance mode enabled, was '1.901'"]],
 ["fantasque-sans-mono-nerd-fonts","3.3.0","3.4.0","desktop-fonts",1732087542,["Compliance mode enabled, was '3.4.0'"]],
