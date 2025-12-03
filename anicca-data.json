@@ -1753,7 +1753,7 @@
 ["xray","25.8.31","25.10.15","app-proxy",1761613631,["Compliance mode enabled, was '25.10.15'"]],
 ["v2raya","2.2.7.3","2.2.7.4","app-proxy",1761613631,["Compliance mode enabled, was '2.2.7.4'"]],
 ["kcptun","20241227","20251124","app-proxy",1761613628,["Compliance mode enabled, was '20251124'"]],
-["daed","1.5.1","1.8.0","app-proxy",1764556627,["Compliance mode enabled, was '1.8.0'"]],
+["daed","1.5.1","1.15.0","app-proxy",1764556627,["Compliance mode enabled, was '1.15.0'"]],
 ["hysteria","2.6.3","2.6.5","app-proxy",1761613628,["Compliance mode enabled, was '2.6.5'"]],
 ["tor","0.4.8.19","0.4.8.21","app-proxy",1760109663,["Compliance mode enabled, was '0.4.8.21'"]],
 ["v2ray","5.41.0","5.42.0","app-proxy",1761613630,["Compliance mode enabled, was '5.42.0'"]],
