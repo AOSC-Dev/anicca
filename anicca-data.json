@@ -274,6 +274,7 @@
 ["crash","8.0.5","9.0.1","app-devel",1722992612,["Compliance mode enabled, was '9.0.1'"]],
 ["lfortran","0.57.0","0.58.0","app-devel",1759127137,["Compliance mode enabled, was '0.58.0'"]],
 ["gfxreconstruct","1.0.4","1.0.5","app-devel",1732609906,["Compliance mode enabled, was '1.0.5'"]],
+["versioningit","3.0.0","3.3.0","app-devel",1708685051,["Compliance mode enabled, was '3.3.0'"]],
 ["cmocka","1.1.7","1.1.8","app-devel",1720958716,["Compliance mode enabled, was '1.1.8'"]],
 ["mise","2025.8.9","2025.11.10","app-devel",1755590989,["Compliance mode enabled, was '2025.11.10'"]],
 ["treevsrepo","0.4.3","0.4.5","app-devel",1703845546,["Compliance mode enabled, was '0.4.5'"]],
