@@ -2229,7 +2229,6 @@
 ["openjdk-24","24.0.2-ga","24.0.2+12","lang-java",1752722227,[]],
 ["openjdk-22","22.0.2-ga","22.0.2+9","lang-java",1745211922,[]],
 ["openjdk-17","17.0.16-ga","17.0.18+4","lang-java",1752722227,[]],
-["openjfx-17","17.0.13+0","17.0.18+0","lang-java",1723449868,["Compliance mode enabled, was '17.0.18+0'"]],
 ["spice-vdagent","0.22.1","0.23.0","runtime-virtualization",1694574450,["Compliance mode enabled, was '0.23.0'"]],
 ["libguestfs","1.54.1","1.57.6","runtime-virtualization",1761613629,["Compliance mode enabled, was '1.57.6'"]],
 ["spice","0.15.2","0.16.0","runtime-virtualization",1694574450,["Compliance mode enabled, was '0.16.0'"]],
