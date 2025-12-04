@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764839850?label=Updated)
+![Relative date](https://img.shields.io/date/1764843310?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1318,8 +1318,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libphonenumber|8.13.38|9.0.19|runtime-i18n|Compliance mode enabled, was '9.0.19'|
 |libpinyin|2.6.0|2.10.3|runtime-i18n|Compliance mode enabled, was '2.10.3'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
-|libpng|1.6.44|1.6.51|runtime-imaging|Compliance mode enabled, was '1.6.51'|
-|libpng+32|1.6.44|1.6.51|runtime-optenv32|Compliance mode enabled, was '1.6.51'|
+|libpng|1.6.44|1.6.52|runtime-imaging|Compliance mode enabled, was '1.6.52'|
+|libpng+32|1.6.44|1.6.52|runtime-optenv32|Compliance mode enabled, was '1.6.52'|
 |libportal|0.9.0|0.9.1|runtime-desktop|Compliance mode enabled, was '0.9.1'|
 |libppd|2.0.0|2.1.1|runtime-doc|Compliance mode enabled, was '2.1.1'|
 |libpqxx|6.4.8|7.10.3|runtime-database|Compliance mode enabled, was '7.10.3'|
@@ -1422,8 +1422,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxmlb|0.3.22|0.3.24|runtime-common|Compliance mode enabled, was '0.3.24'|
 |libxnvctrl|580.65.06|570.86.16|runtime-display|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
 |libxnvctrl+32|580.65.06|570.86.16|runtime-optenv32|Compliance mode enabled, was '570.86.16'<br>Possible downgrade from the current version (580.65.06 -> 570.86.16)|
-|libxslt|1.1.43|1.1.44|runtime-common|Compliance mode enabled, was '1.1.44'|
-|libxslt+32|1.1.43|1.1.44|runtime-optenv32|Compliance mode enabled, was '1.1.44'|
+|libxslt|1.1.43|1.1.45|runtime-common|Compliance mode enabled, was '1.1.45'|
+|libxslt+32|1.1.43|1.1.45|runtime-optenv32|Compliance mode enabled, was '1.1.45'|
 |libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
 |liferea|1.14.6|1.16.6|app-web|Compliance mode enabled, was '1.16.6'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
