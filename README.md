@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1764861361?label=Updated)
+![Relative date](https://img.shields.io/date/1764864982?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -310,8 +310,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|6.2.20251005.0|6.2.20251123.0|app-devel|Compliance mode enabled, was '6.2.20251123.0'|
-|cups|2.4.14|2.4.15|app-admin|Compliance mode enabled, was '2.4.15'|
-|cups+32|2.4.14|2.4.15|runtime-optenv32|Compliance mode enabled, was '2.4.15'|
+|cups|2.4.14|2.4.16|app-admin|Compliance mode enabled, was '2.4.16'|
+|cups+32|2.4.14|2.4.16|runtime-optenv32|Compliance mode enabled, was '2.4.16'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
@@ -757,7 +757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html5-parser|0.4.9|0.4.12|lang-python|Compliance mode enabled, was '0.4.12'|
 |htslib|1.21|1.22.1|app-scientific|Compliance mode enabled, was '1.22.1'|
 |httpcore|1.0.5|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
-|httpd|2.4.63|2.4.65|app-web|Compliance mode enabled, was '2.4.65'|
+|httpd|2.4.63|2.4.66|app-web|Compliance mode enabled, was '2.4.66'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httplib2|0.22.0|0.31.0|lang-python|Compliance mode enabled, was '0.31.0'|
 |httpx-go|1.7.1|1.7.2|app-utils|Compliance mode enabled, was '1.7.2'|
@@ -1549,9 +1549,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |merge3|0.0.15|0.0.16|lang-python|Compliance mode enabled, was '0.0.16'|
 |mergiraf|0.16.1|mergiraf 0.16.1|app-devel|Compliance mode enabled, was 'Mergiraf 0.16.1'<br>Possible downgrade from the current version (0.16.1 -> mergiraf 0.16.1)|
 |merkuro|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|mesa|25.2.7|25.3.0|runtime-display|Compliance mode enabled, was '25.3.0'|
-|mesa+32|25.2.6|25.3.0|runtime-optenv32||
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.0|runtime-display|Compliance mode enabled, was '25.3.0'|
+|mesa|25.2.7|25.3.1|runtime-display|Compliance mode enabled, was '25.3.1'|
+|mesa+32|25.2.6|25.3.1|runtime-optenv32||
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.1|runtime-display|Compliance mode enabled, was '25.3.1'|
 |mesen|0.9.9|2.1.1|app-games|Compliance mode enabled, was '2.1.1'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
 |messagelib|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
