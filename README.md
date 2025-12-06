@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765044970?label=Updated)
+![Relative date](https://img.shields.io/date/1765047882?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -89,7 +89,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arpwatch|3.6|3.9|app-network|Compliance mode enabled, was '3.9'|
 |arrow|1.0.3|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |artikulate|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|asciidoctor|2.0.23|2.0.26|app-doc|Compliance mode enabled, was '2.0.26'|
 |asgiref|3.8.1|3.11.0|lang-python|Compliance mode enabled, was '3.11.0'|
 |aspnetcore-runtime-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
@@ -781,7 +780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httping|4.4.0|2.5|app-network|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (4.4.0 -> 2.5)|
 |httplib2|0.22.0|0.31.0|lang-python|Compliance mode enabled, was '0.31.0'|
-|httpx-go|1.7.1|1.7.2|app-utils|Compliance mode enabled, was '1.7.2'|
+|httpx-go|1.7.1|1.7.3|app-utils|Compliance mode enabled, was '1.7.3'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2024.0.1|2025.0.0|app-creativity|Compliance mode enabled, was '2025.0.0'|
 |hugo|0.152.0|0.152.2|app-web|Compliance mode enabled, was '0.152.2'|
@@ -1175,6 +1174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
 |libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
 |libbluray|1.3.4|1.4.0|runtime-multimedia|Compliance mode enabled, was '1.4.0'|
+|libbluray+32|1.3.4|1.4.0|runtime-optenv32|Compliance mode enabled, was '1.4.0'|
 |libbpf|1.6.1|1.6.2|runtime-kernel|Compliance mode enabled, was '1.6.2'|
 |libbytesize|2.1|2.12|runtime-common|Compliance mode enabled, was '2.12'|
 |libc+wasi|22|28|runtime-wasi|Compliance mode enabled, was '28'|
@@ -1845,7 +1845,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdal|2.9.2|2.9.3|runtime-gis|Compliance mode enabled, was '2.9.3'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20251107|app-doc|Compliance mode enabled, was '20251107'|
-|pdlzip|1.9|1.14|app-utils|Compliance mode enabled, was '1.14'|
 |pdm-backend|2.4.5|2.4.6|lang-python|Compliance mode enabled, was '2.4.6'|
 |peazip|10.7.0|10.8.0|app-utils|Compliance mode enabled, was '10.8.0'|
 |peewee|3.17.1|3.18.3|lang-python|Compliance mode enabled, was '3.18.3'|
