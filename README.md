@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765113726?label=Updated)
+![Relative date](https://img.shields.io/date/1765116811?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -224,6 +224,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdrdao|1.2.5|1.2.6|app-multimedia|Compliance mode enabled, was '1.2.6'|
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
+|certbot|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
 |certbot-apache|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
 |certbot-dns-cloudflare|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
 |certbot-nginx|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
@@ -806,8 +807,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |ignition|2.20.0|2.24.0|app-admin|Compliance mode enabled, was '2.24.0'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
-|imagemagick|6.9.13<br>+16|6.9.13+34|app-utils|Compliance mode enabled, was '6.9.13-34'|
-|imagemagick+7|7.1.1<br>+32|7.1.2+9|app-utils|Compliance mode enabled, was '7.1.2-9'|
+|imagemagick|6.9.13<br>+16|6.9.13+35|app-utils|Compliance mode enabled, was '6.9.13-35'|
+|imagemagick+7|7.1.1<br>+32|7.1.2+10|app-utils|Compliance mode enabled, was '7.1.2-10'|
 |imapsync|1.977|2.229|app-network|Compliance mode enabled, was '2.229'|
 |imath|3.1.11|3.2.2|runtime-display|Compliance mode enabled, was '3.2.2'|
 |img2pdf|0.5.1|0.6.3|app-doc|Compliance mode enabled, was '0.6.3'|
