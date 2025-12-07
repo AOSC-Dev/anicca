@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765120252?label=Updated)
+![Relative date](https://img.shields.io/date/1765123995?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1479,7 +1479,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |log4cpp|1.1.3|1.1.5|runtime-common|Compliance mode enabled, was '1.1.5'|
 |loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
 |lowdown|1.1.2|2.0.4|app-doc|Compliance mode enabled, was '2_0_4'|
 |lpsolve|5.5.2.11|5.6.23|app-scientific|Compliance mode enabled, was '5.6.23'|
 |lrs|071a|073a|app-scientific|Compliance mode enabled, was '073a'|
@@ -1892,6 +1891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-error|0.17027|0.17030|lang-perl|Compliance mode enabled, was '0.17030'|
 |perl-ev|4.25|4.36|lang-perl|Compliance mode enabled, was '4.36'|
 |perl-exception-class|1.44|1.45|lang-perl|Compliance mode enabled, was '1.45'|
+|perl-exporter-tiny|1.006002|1.006003|lang-perl|Compliance mode enabled, was '1.006003'|
 |perl-extutils-config|0.008|0.010|lang-perl|Compliance mode enabled, was '0.010'|
 |perl-extutils-depends|0.405|0.8002|lang-perl|Compliance mode enabled, was '0.8002'|
 |perl-extutils-helpers|0.026|0.028|lang-perl|Compliance mode enabled, was '0.028'|
@@ -2143,7 +2143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypandoc|1.15|1.16.2|lang-python|Compliance mode enabled, was '1.16.2'|
 |pyparsing|3.2.3|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
-|pypdf|4.0.1|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
+|pypdf|4.0.1|6.4.1|lang-python|Compliance mode enabled, was '6.4.1'|
 |pypdf2|1.26.0|6.4.0|lang-python|Compliance mode enabled, was '6.4.0'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
@@ -2697,7 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
 |websocket-client|1.7.0|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
 |websockets|12.0|1.4.4|lang-python|Compliance mode enabled, was '1.4.4'<br>Possible downgrade from the current version (12.0 -> 1.4.4)|
-|weechat|4.7.2|4.8.1|app-web|Compliance mode enabled, was '4.8.1'|
 |weka|3.9.2|8.0.0|app-scientific|Compliance mode enabled, was '8.0.0'|
 |werkzeug|3.0.6|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |wezterm|20240203<br>+110809<br>+5046fc22<br>+git20251123|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
@@ -2766,7 +2765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xorg-server|21.1.19|21.1.21|runtime-display|Compliance mode enabled, was '21.1.21'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
-|xournalpp|1.2.5|1.2.8|runtime-productivity|Compliance mode enabled, was '1.2.8'|
+|xournalpp|1.2.5|1.2.10|runtime-productivity|Compliance mode enabled, was '1.2.10'|
 |xpra|6.3.3|6.4|app-network|Compliance mode enabled, was '6.4'|
 |xray|25.8.31|25.12.2|app-proxy|Compliance mode enabled, was '25.12.2'|
 |xrdp|0.10.3|0.10.4.1|app-network|Compliance mode enabled, was '0.10.4.1'|
