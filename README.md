@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765178367?label=Updated)
+![Relative date](https://img.shields.io/date/1765181938?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -108,6 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
+|attrs|23.2.0|25.4.0|lang-python|Compliance mode enabled, was '25.4.0'|
 |atuin|18.5.0|18.10.0|app-utils|Compliance mode enabled, was '18.10.0'|
 |audacious|4.4.2|4.5.1|app-multimedia|Compliance mode enabled, was '4.5.1'|
 |audacity|3.7.5|3.7.6|app-creativity|Compliance mode enabled, was '3.7.6'|
@@ -2792,7 +2793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.60|app-electronics|Compliance mode enabled, was '0.60'|
-|yt-dlp|2025.11.12|2025.12.08|app-multimedia|Compliance mode enabled, was '2025.12.08'|
 |yt-dlp-ejs|0.3.1|0.3.2|lang-python|Compliance mode enabled, was '0.3.2'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubioath-flutter|7.3.0|7.3.1|app-devices|Compliance mode enabled, was '7.3.1'|
