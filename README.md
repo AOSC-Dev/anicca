@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765149145?label=Updated)
+![Relative date](https://img.shields.io/date/1765154910?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -101,6 +101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |at-spi2-core|2.52.0|2.58.2|desktop-gnome|Compliance mode enabled, was '2.58.2'|
 |at-spi2-core+32|2.52.0|2.58.2|runtime-optenv32|Compliance mode enabled, was '2.58.2'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
+|atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |atop|2.12.0|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |atril|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
@@ -682,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth|1.6.3|2.43.0|lang-python|Compliance mode enabled, was '2.43.0'|
 |google-auth-httplib2|0.0.4|0.2.1|lang-python|Compliance mode enabled, was '0.2.1'|
 |google-chrome|142.0.7444.175|143.0.7499.40|app-web|Compliance mode enabled, was '143.0.7499.40'|
-|goreleaser|2.12.7|2.13.0|lang-golang|Compliance mode enabled, was '2.13.0'|
+|goreleaser|2.12.7|2.13.1|lang-golang|Compliance mode enabled, was '2.13.1'|
 |goverlay|1.2|1.6.1|app-utils|Compliance mode enabled, was '1.6.1'|
 |gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
@@ -2483,7 +2484,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.12.1|runtime-scientific|Compliance mode enabled, was '7.12.1'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.924.154138|2025.1206.191054|app-multimedia|Compliance mode enabled, was '2025.1206.191054'|
+|sunshine|2025.924.154138|2025.1207.140157|app-multimedia|Compliance mode enabled, was '2025.1207.140157'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.1|app-creativity|Compliance mode enabled, was '3.14.1'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -2492,7 +2493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sweeper|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |swell-foop|41.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |swiftclient|4.6.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
-|swig|4.3.1|4.4.0|app-devel|Compliance mode enabled, was '4.4.0'|
+|swig|4.3.1|4.4.1|app-devel|Compliance mode enabled, was '4.4.1'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |syncthing|2.0.11|2.0.12|app-network|Compliance mode enabled, was '2.0.12'|
@@ -2790,6 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.60|app-electronics|Compliance mode enabled, was '0.60'|
+|yt-dlp-ejs|0.3.1|0.3.2|lang-python|Compliance mode enabled, was '0.3.2'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubioath-flutter|7.3.0|7.3.1|app-devices|Compliance mode enabled, was '7.3.1'|
 |zanshin|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
