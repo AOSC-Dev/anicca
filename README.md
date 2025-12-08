@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765224842?label=Updated)
+![Relative date](https://img.shields.io/date/1765228389?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -164,8 +164,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost|1.83.0|1.89.0|runtime-common|Compliance mode enabled, was '1.89.0'|
 |borgbackup|1.4.2|1.4.3|app-utils|Compliance mode enabled, was '1.4.3'|
 |botan|3.8.1|3.10.0|runtime-cryptography|Compliance mode enabled, was '3.10.0'|
-|boto3|1.40.25|1.42.4|lang-python|Compliance mode enabled, was '1.42.4'|
-|botocore|1.40.25|1.42.4|lang-python|Compliance mode enabled, was '1.42.4'|
+|boto3|1.40.25|1.42.5|lang-python|Compliance mode enabled, was '1.42.5'|
+|botocore|1.40.25|1.42.5|lang-python|Compliance mode enabled, was '1.42.5'|
 |bottle|0.12.18|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|60.1|app-utils|Compliance mode enabled, was '60.1'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 60.1)|
 |bovo|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -369,6 +369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|8.6.0|8.8.0|desktop-kde|Compliance mode enabled, was '8.8.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
+|discord|0.0.117|0.0.118|app-web|Compliance mode enabled, was '0.0.118'|
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
@@ -596,7 +597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gh|2.83.0|2.83.1|app-devel|Compliance mode enabled, was '2.83.1'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
-|ghidra|11.3.2_build|11.4.3_build|app-devel||
+|ghidra|11.3.2_build|12.0_build|app-devel||
 |ghostscript|9.54.0|10.06.0|app-doc|Compliance mode enabled, was '10.06.0'|
 |ghostwriter|24.05.2|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |gi-docgen|2025.4|2025.5|app-doc|Compliance mode enabled, was '2025.5'|
@@ -1117,6 +1118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktimer|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktnef|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktorrent|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|ktouch|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktrip|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ktuberling|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kturtle|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1147,6 +1149,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lark-parser|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
+|laszip|3.4.4|3.5.0|app-scientific|Compliance mode enabled, was '3.5.0'|
 |latx|1.6.1|1.6.4|app-emulation||
 |layer-shell-qt|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |lazarus|3.2|4.4|lang-pascal|Compliance mode enabled, was '4.4'|
@@ -1470,7 +1473,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7091|7324|runtime-creativity|Compliance mode enabled, was '7324'|
+|llama.cpp|7091|7325|runtime-creativity|Compliance mode enabled, was '7325'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.7|runtime-optenv32|Compliance mode enabled, was '21.1.7'|
@@ -1942,7 +1945,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-charset|1.012.2|1.013.1|lang-perl|Compliance mode enabled, was '1.013.1'|
 |perl-mime-lite|3.030|3.033|lang-perl|Compliance mode enabled, was '3.033'|
 |perl-mime-tools|5.509|5.515|lang-perl|Compliance mode enabled, was '5.515'|
-|perl-mime-types|2.17|2.29|lang-perl|Compliance mode enabled, was '2.29'|
+|perl-mime-types|2.17|2.30|lang-perl|Compliance mode enabled, was '2.30'|
 |perl-module-build|0.4224|0.4234|lang-perl|Compliance mode enabled, was '0.4234'|
 |perl-module-build-tiny|0.039|0.052|lang-perl|Compliance mode enabled, was '0.052'|
 |perl-module-find|0.13|0.17|lang-perl|Compliance mode enabled, was '0.17'|
@@ -2293,7 +2296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7324|runtime-rocm|Compliance mode enabled, was '7324'|
+|rocm-llama-cpp|7.0.1|7325|runtime-rocm|Compliance mode enabled, was '7325'|
 |rocm-llvm|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
