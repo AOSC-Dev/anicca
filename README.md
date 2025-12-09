@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765271886?label=Updated)
+![Relative date](https://img.shields.io/date/1765275412?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -224,7 +224,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ccls|0.20241108|0.20250815.1|app-devel|Compliance mode enabled, was '0.20250815.1'|
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
-|cdrdao|1.2.5|1.2.6|app-multimedia|Compliance mode enabled, was '1.2.6'|
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |certbot|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
 |certbot-apache|5.1.0|5.2.1|app-web|Compliance mode enabled, was '5.2.1'|
@@ -650,7 +649,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-initial-setup|42.2|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-logs|3.36.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-mahjongg|3.38.3|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
-|gnome-maps|42.3|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
 |gnome-menus|3.36.0|3.38.1|desktop-gnome|Compliance mode enabled, was '3.38.1'|
 |gnome-mines|40.1|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
@@ -873,7 +871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |jupyter-client|5.2.4|8.6.3|lang-python|Compliance mode enabled, was '8.6.3'|
 |jupyter-core|4.4.0|5.9.1|lang-python|Compliance mode enabled, was '5.9.1'|
-|just|1.43.1|1.44.0|app-devel|Compliance mode enabled, was '1.44.0'|
+|just|1.43.1|1.44.1|app-devel|Compliance mode enabled, was '1.44.1'|
 |k3b|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kaccounts-integration|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kaccounts-providers|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1013,7 +1011,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemmodels|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kitemviews|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kiten|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kitinerary|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kitty|0.43.1|0.44.0|app-utils|Compliance mode enabled, was '0.44.0'|
 |kiwisolver|1.4.8|1.4.9|lang-python|Compliance mode enabled, was '1.4.9'|
 |kjobwidgets|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
@@ -1210,7 +1207,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdrm|2.4.128|2.4.130|runtime-display|Compliance mode enabled, was '2.4.130'|
 |libdrm+32|2.4.128|2.4.130|runtime-optenv32|Compliance mode enabled, was '2.4.130'|
 |libdvdcss|1.4.3|1.5.0|runtime-multimedia|Compliance mode enabled, was '1.5.0'|
-|libdvdcss+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |libdvdnav|6.1.1|7.0.0|runtime-multimedia|Compliance mode enabled, was '7.0.0'|
 |libdvdnav+32|6.1.1|7.0.0|runtime-optenv32|Compliance mode enabled, was '7.0.0'|
 |libdvdread|6.1.3|7.0.1|runtime-multimedia|Compliance mode enabled, was '7.0.1'|
@@ -1885,7 +1881,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-timezone|2.62|2.65|lang-perl|Compliance mode enabled, was '2.65'|
 |perl-dbd-mysql|4.052|5.013|lang-perl|Compliance mode enabled, was '5.013'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
-|perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
@@ -1922,7 +1917,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-html-parser|3.72|3.83|lang-perl|Compliance mode enabled, was '3.83'|
 |perl-html-tagset|3.20|3.24|lang-perl|Compliance mode enabled, was '3.24'|
 |perl-http-cookies|6.01|6.11|lang-perl|Compliance mode enabled, was '6.11'|
-|perl-http-daemon|6.01|6.16|lang-perl|Compliance mode enabled, was '6.16'|
 |perl-http-date|6.02|6.06|lang-perl|Compliance mode enabled, was '6.06'|
 |perl-http-message|6.11|7.01|lang-perl|Compliance mode enabled, was '7.01'|
 |perl-image-exiftool|13.30|13.43|lang-perl|Compliance mode enabled, was '13.43'|
@@ -1954,6 +1948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-scandeps|1.27|1.37|lang-perl|Compliance mode enabled, was '1.37'|
 |perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
 |perl-mozilla-ca|20180117|20250602|lang-perl|Compliance mode enabled, was '20250602'|
+|perl-mro-compat|0.13|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-namespace-autoclean|0.29|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-net-dbus|1.1.0|1.2.0|lang-perl|Compliance mode enabled, was '1.2.0'|
 |perl-net-dns|1.19<br>+02|1.53|lang-perl|Compliance mode enabled, was '1.53'|
@@ -2497,7 +2492,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.12.1|runtime-scientific|Compliance mode enabled, was '7.12.1'|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
-|sunshine|2025.924.154138|2025.1207.140157|app-multimedia|Compliance mode enabled, was '2025.1207.140157'|
+|sunshine|2025.924.154138|2025.1209.20401|app-multimedia|Compliance mode enabled, was '2025.1209.20401'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.1|app-creativity|Compliance mode enabled, was '3.14.1'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
