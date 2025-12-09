@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765257283?label=Updated)
+![Relative date](https://img.shields.io/date/1765261132?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1111,6 +1111,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksystemlog|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |ksystemstats|5.27.12|6.5.3|desktop-kde|Compliance mode enabled, was '6.5.3'|
 |kteatime|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
+|ktextaddons|1.5.3|1.8.0|desktop-kde|Compliance mode enabled, was '1.8.0'|
 |ktexteditor|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |ktextwidgets|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |ktimer|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -1594,6 +1595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minuet|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |mise|2025.8.9|2025.12.1|app-devel|Compliance mode enabled, was '2025.12.1'|
+|mitmproxy|11.0.0|12.2.1|app-network||
 |mixxx|2.5.2|2.5.3|app-creativity|Compliance mode enabled, was '2.5.3'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -2203,6 +2205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxdg|0.28|0.25|lang-python|Compliance mode enabled, was '0.25'<br>Possible downgrade from the current version (0.28 -> 0.25)|
 |pyyaml|6.0.2|6.0.3|lang-python|Compliance mode enabled, was '6.0.3'|
 |pyzmq|22.3.0|27.1.0|lang-python|Compliance mode enabled, was '27.1.0'|
+|q4wine|1.3.13|1.4.2|app-emulation|Compliance mode enabled, was '1.4.2'|
 |qasync|0.27.1|0.28.0|lang-python|Compliance mode enabled, was '0.28.0'|
 |qca|2.3.4|2.3.10|runtime-cryptography|Compliance mode enabled, was '2.3.10'|
 |qcoro|0.10.0|0.12.0|runtime-desktop|Compliance mode enabled, was '0.12.0'|
@@ -2268,6 +2271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rhash|1.4.4|1.4.6|app-utils|Compliance mode enabled, was '1.4.6'|
 |rich|13.7.1|14.2.0|lang-python|Compliance mode enabled, was '14.2.0'|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n|Compliance mode enabled, was '2023.06.15'|
+|rime-ice|2025.04.06|2025.12.08|app-i18n|Compliance mode enabled, was '2025.12.08'|
 |rinutils|0.4.1|0.10.3|runtime-common|Compliance mode enabled, was '0.10.3'|
 |ripgrep|14.1.1|15.1.0|app-utils|Compliance mode enabled, was '15.1.0'|
 |rlvm|0.14<br>+git20220404|0.14|app-games|Compliance mode enabled, was '0.14'|
@@ -2608,7 +2612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twm|1.0.11|1.0.13.1|desktop-wm|Compliance mode enabled, was '1.0.13.1'|
 |twolame|0.3.13|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |twolame+32|0.3.13|0.4.0|runtime-optenv32|Compliance mode enabled, was '0.4.0'|
-|txaio|25.6.1|25.12.1|lang-python|Compliance mode enabled, was '25.12.1'|
+|txaio|25.6.1|25.12.2|lang-python|Compliance mode enabled, was '25.12.2'|
 |txt2tags|3.7|3.9|app-doc|Compliance mode enabled, was '3.9'|
 |txtorcon|19.1.0|24.8.0|lang-python|Compliance mode enabled, was '24.8.0'|
 |types-psutil|7.0.0.20251001|7.1.3.20251202|lang-python|Compliance mode enabled, was '7.1.3.20251202'|
@@ -2809,6 +2813,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zellij|0.42.2|0.43.1|app-utils|Compliance mode enabled, was '0.43.1'|
 |zeroconf|0.28.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
+|zfs|2.3.4|2.3.5|app-admin|Compliance mode enabled, was '2.3.5'|
 |zimg|3.0.5|3.0.6|runtime-imaging|Compliance mode enabled, was '3.0.6'|
 |zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia|Compliance mode enabled, was '0.6.1'|
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia|Compliance mode enabled, was '1.11.2'|
