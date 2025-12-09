@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765261132?label=Updated)
+![Relative date](https://img.shields.io/date/1765264620?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -18,7 +18,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.7.0|3.9.0|app-utils|Compliance mode enabled, was '3.9.0'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
 |acl+32|2.3.1|2.3.2|runtime-optenv32|Compliance mode enabled, was '2.3.2'|
-|acme|5.1.0|5.2.1|lang-python|Compliance mode enabled, was '5.2.1'|
 |acme.sh|3.1.1|3.1.2|app-utils|Compliance mode enabled, was '3.1.2'|
 |acpica-unix|20250404|20250807|app-devel|Compliance mode enabled, was '20250807'|
 |ada|2.9.1|3.3.0|runtime-web|Compliance mode enabled, was '3.3.0'|
@@ -1039,7 +1038,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmousetool|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmouth|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kmplot|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
-|kmscon|9.0.0|9.1.0|app-utils|Compliance mode enabled, was '9.1.0'|
 |knavalbattle|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |knetwalk|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |knewstuff|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
