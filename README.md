@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765304157?label=Updated)
+![Relative date](https://img.shields.io/date/1765307503?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -898,6 +898,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |katomic|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kauth|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kbd|2.7.1|2.9.0|app-utils|Compliance mode enabled, was '2.9.0'|
+|kblackbox|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kblocks|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
 |kbookmarks|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |kbounce|23.08.5|25.08.3|desktop-kde|Compliance mode enabled, was '25.08.3'|
@@ -2715,7 +2716,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |werkzeug|3.0.6|3.1.4|lang-python|Compliance mode enabled, was '3.1.4'|
 |wezterm|20240203<br>+110809<br>+5046fc22<br>+git20251123|20240203-110809-5046fc22|app-utils|Compliance mode enabled, was '20240203-110809-5046fc22'|
 |wheel|0.45.0|0.46.1|lang-python|Compliance mode enabled, was '0.46.1'|
-|wheezy.template|3.1.0|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |wike|3.1.1|3.2.0|app-web|Compliance mode enabled, was '3.2.0'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
@@ -2750,6 +2750,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-user-dirs-gtk|0.11|0.14|desktop-gnome|Compliance mode enabled, was '0.14'|
 |xerces-c|3.2.3|3.3.0|runtime-common|Compliance mode enabled, was '3.3.0'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
+|xf86-input-evdev|2.10.6|2.11.0|runtime-display|Compliance mode enabled, was '2.11.0'|
 |xf86-input-libinput|1.4.0|1.5.0|runtime-display|Compliance mode enabled, was '1.5.0'|
 |xf86-input-wacom|1.2.0|1.2.4|runtime-display|Compliance mode enabled, was '1.2.4'|
 |xf86-video-amdgpu|23.0.0|25.0.0|runtime-display|Compliance mode enabled, was '25.0.0'|
