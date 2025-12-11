@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765448097?label=Updated)
+![Relative date](https://img.shields.io/date/1765451565?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -104,7 +104,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
 |atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
-|atop|2.12.0|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |atril|1.28.1|1.28.2|desktop-mate|Compliance mode enabled, was '1.28.2'|
 |attica5|5.115.0|6.20.0|desktop-kde|Compliance mode enabled, was '6.20.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
@@ -375,7 +374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |distrobox|1.8.2.0|1.8.2.2|app-utils|Compliance mode enabled, was '1.8.2.2'|
-|dmd|2.109.1|2.111.0|lang-dlang|Compliance mode enabled, was '2.111.0'|
 |dnscontrol|4.26.0|4.28.2|app-network|Compliance mode enabled, was '4.28.2'|
 |dnscrypt|2.1.7|2.1.15|app-network|Compliance mode enabled, was '2.1.15'|
 |dnsmasq|2.90|2.91|app-network|Compliance mode enabled, was '2.91'|
@@ -515,7 +513,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |fizz|2025.09.01.00|2025.12.01.00|app-network|Compliance mode enabled, was '2025.12.01.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
-|flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
 |flake8-builtins|3.0.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |flameshot|12.1.0|13.3.0|app-utils|Compliance mode enabled, was '13.3.0'|
 |flare-engine|1.14<br>+git20251120|1.14|app-games|Compliance mode enabled, was '1.14'|
@@ -1719,7 +1716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrive|2.5.5|2.5.9|app-web|Compliance mode enabled, was '2.5.9'|
 |onedrivegui|1.1.1|1.3.0|app-web|Compliance mode enabled, was '1.3.0'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
-|oolite|1.90|1.91.0.7713-251211-cf6b672|app-games|Compliance mode enabled, was '1.91.0.7713-251211-cf6b672'|
+|oolite|1.90|1.91.0.7714-251211-2c0082d|app-games|Compliance mode enabled, was '1.91.0.7714-251211-2c0082d'|
 |opam|2.1.6|2.5.0|lang-ocaml|Compliance mode enabled, was '2.5.0'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
@@ -2230,7 +2227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtxdg-tools|3.12.0|4.3.0|desktop-lxqt|Compliance mode enabled, was '4.3.0'|
 |quadrapassel|40.2|49.2.3|desktop-gnome|Compliance mode enabled, was '49.2.3'|
 |quodlibet|4.6.0|4.7.1|app-multimedia|Compliance mode enabled, was '4.7.1'|
-|quota-tools|4.09|4.10|app-admin|Compliance mode enabled, was '4.10'|
+|quota-tools|4.09|4.11|app-admin|Compliance mode enabled, was '4.11'|
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |radare2|5.9.4|6.0.7|app-devel|Compliance mode enabled, was '6.0.7'|
