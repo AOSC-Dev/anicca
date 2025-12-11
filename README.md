@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765480497?label=Updated)
+![Relative date](https://img.shields.io/date/1765484108?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1815,7 +1815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |patch-ng|1.17.4|1.19.0|lang-python|Compliance mode enabled, was '1.19.0'|
 |pathspec|0.11.0|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |patiencediff|0.2.15|0.2.18|lang-python|Compliance mode enabled, was '0.2.18'|
-|patool|1.12|4.0.2|app-utils|Compliance mode enabled, was '4.0.2'|
+|patool|1.12|4.0.3|app-utils|Compliance mode enabled, was '4.0.3'|
 |pavucontrol-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |pbr|6.0.0|7.0.3|lang-python|Compliance mode enabled, was '7.0.3'|
 |pbs-installer|2025.7.12|2025.12.5|lang-python|Compliance mode enabled, was '2025.12.5'|
@@ -2080,6 +2080,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |privoxy|3.0.34|4.0.0|app-network|Compliance mode enabled, was '4.0.0'|
 |proj|9.2.1|9.7.1|app-gis|Compliance mode enabled, was '9.7.1'|
 |projectm|4.0.0|4.1.6|runtime-multimedia|Compliance mode enabled, was '4.1.6'|
+|prometheus-node-exporter|1.9.1|1.10.2|app-admin|Compliance mode enabled, was '1.10.2'|
 |prompt-toolkit|3.0.48|3.0.52|lang-python|Compliance mode enabled, was '3.0.52'|
 |protobuf|32.0|33.2|runtime-common|Compliance mode enabled, was '33.2'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
