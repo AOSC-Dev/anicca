@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765531067?label=Updated)
+![Relative date](https://img.shields.io/date/1765534474?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -241,6 +241,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.0.2|app-devel|Compliance mode enabled, was '3.0.2'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
+|cherry-studio|1.7.2|1.7.3|app-utils|Compliance mode enabled, was '1.7.3'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.604|desktop-fonts|Compliance mode enabled, was '2.604'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
@@ -486,7 +487,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-unikey|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
 |fcron|3.4.0|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.4.0 -> 3.3.0)|
 |feedbackd|0.8.4|0.8.7|desktop-gnome|Compliance mode enabled, was '0.8.7'|
-|feedparser|6.0.8|6.0.12|lang-python|Compliance mode enabled, was '6.0.12'|
 |feeluown|4.1.15|5.0~a0|app-multimedia|Compliance mode enabled, was '5.0a0'|
 |feeluown-bilibili|0.5.1|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
 |feeluown-netease|1.0.4|1.0.6|app-multimedia|Compliance mode enabled, was '1.0.6'|
@@ -1672,7 +1672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.4|1.18.10|lang-ruby|Compliance mode enabled, was '1.18.10'|
 |nomino|1.3.1|1.6.4|app-utils|Compliance mode enabled, was '1.6.4'|
-|normaliz|3.6.3|3.11.0|app-scientific|Compliance mode enabled, was '3.11.0'|
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |novaclient|18.6.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'|
 |nsd|4.7.0|4.14.0|app-network|Compliance mode enabled, was '4.14.0'|
@@ -2058,7 +2057,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polymake|3.3|4.15|app-scientific|Compliance mode enabled, was '4.15'|
 |poppler|25.07.0|25.12.0|runtime-doc|Compliance mode enabled, was '25.12.0'|
 |popt|1.18|1.19|runtime-common|Compliance mode enabled, was '1.19'|
-|popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portmidi|2.0.4|2.0.8|runtime-multimedia|Compliance mode enabled, was '2.0.8'|
 |postfix|3.7.3|3.10.7|app-web|Compliance mode enabled, was '3.10.7'|
 |postgresql|17.5|18.1|app-database|Compliance mode enabled, was '18.1'|
@@ -2091,6 +2089,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psycopg2|2.8.6|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.5.0|runtime-creativity|Compliance mode enabled, was '2.5.0'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20251209|lang-python|Compliance mode enabled, was '1.0.2.20251209'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |puremagic|1.15|1.30|lang-python|Compliance mode enabled, was '1.30'|
