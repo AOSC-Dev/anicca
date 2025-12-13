@@ -2620,6 +2620,7 @@
 ["google-auth","1.6.3","2.43.0","lang-python",1551159549,["Compliance mode enabled, was '2.43.0'"]],
 ["owslib","0.34.1","0.35.0","lang-python",1631170545,["Compliance mode enabled, was '0.35.0'"]],
 ["pillow","10.4.0","12.0.0","lang-python",1722488599,["Compliance mode enabled, was '12.0.0'"]],
+["legacy-cgi","2.6.3","2.6.4","lang-python",1744276032,["Compliance mode enabled, was '2.6.4'"]],
 ["janus","1.0.0","2.0.0","lang-python",1640157134,["Compliance mode enabled, was '2.0.0'"]],
 ["pymysql","0.9.3","1.1.2","lang-python",1551497670,["Compliance mode enabled, was '1.1.2'"]],
 ["pyqt6-sip","13.10.2","13.10.3","lang-python",1758952268,["Compliance mode enabled, was '13.10.3'"]],
