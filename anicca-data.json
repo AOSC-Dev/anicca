@@ -1914,6 +1914,7 @@
 ["perl-encode-imaputf7","1.05","1.07","lang-perl",1678950872,["Compliance mode enabled, was '1.07'"]],
 ["perl-email-mime","1.946","1.954","lang-perl",1530196415,["Compliance mode enabled, was '1.954'"]],
 ["perl-glib","1.329","1.3294","lang-perl",1550814485,["Compliance mode enabled, was '1.3294'"]],
+["perl-template-toolkit","2.27","3.102","lang-perl",1530196414,["Compliance mode enabled, was '3.102'"]],
 ["perl-module-find","0.13","0.17","lang-perl",1488651588,["Compliance mode enabled, was '0.17'"]],
 ["perl-par-dist","0.52","0.53","lang-perl",1718471582,["Compliance mode enabled, was '0.53'"]],
 ["perl-test-nowarnings","1.04","1.06","lang-perl",1678950872,["Compliance mode enabled, was '1.06'"]],
