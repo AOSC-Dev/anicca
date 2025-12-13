@@ -505,7 +505,6 @@
 ["speedometer","2.8","2.9","app-network",1473803017,["Compliance mode enabled, was '2.9'"]],
 ["xpra","6.3.3","6.4","app-network",1759589829,["Compliance mode enabled, was '6.4'"]],
 ["vpnc","0.5.3+git20241220","0.5.3","app-network",1754725945,["Compliance mode enabled, was '0.5.3'"]],
-["zerotier-one","1.14.2","1.16.0","app-network",1730541223,["Compliance mode enabled, was '1.16.0'"]],
 ["wrk","4.1.0","4.2.0","app-network",1528905473,["Compliance mode enabled, was '4.2.0'"]],
 ["gigolo","0.5.3","0.6.0","app-network",1706025816,["Compliance mode enabled, was '0.6.0'"]],
 ["wondershaper","1.2.1","404:","app-network",1472682170,["Compliance mode enabled, was '404:'"]],
