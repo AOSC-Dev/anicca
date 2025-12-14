@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765750398?label=Updated)
+![Relative date](https://img.shields.io/date/1765753921?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -93,7 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |assimp|5.4.0|6.0.2|runtime-multimedia|Compliance mode enabled, was '6.0.2'|
-|ast-grep|0.39.6|0.40.1|app-devel|Compliance mode enabled, was '0.40.1'|
+|ast-grep|0.39.6|0.40.2|app-devel|Compliance mode enabled, was '0.40.2'|
 |astrometry.net|0.97|0.98|app-scientific|Compliance mode enabled, was '0.98'|
 |asttokens|2.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |asymptote|3.05|2.47|app-doc|Compliance mode enabled, was '2.47'<br>Possible downgrade from the current version (3.05 -> 2.47)|
@@ -463,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5|5.1.15|5.1.16|app-i18n|Compliance mode enabled, was '5.1.16'|
 |fcitx5-anthy|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
 |fcitx5-chewing|5.1.8|5.1.9|app-i18n|Compliance mode enabled, was '5.1.9'|
-|fcitx5-chinese-addons|5.1.9|5.1.10|app-i18n|Compliance mode enabled, was '5.1.10'|
 |fcitx5-configtool|5.1.10|5.1.11|app-i18n|Compliance mode enabled, was '5.1.11'|
 |fcitx5-hangul|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
 |fcitx5-kkc|5.1.7|5.1.8|app-i18n|Compliance mode enabled, was '5.1.8'|
@@ -869,6 +868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalarm|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kalgebra|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kalk|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|kalzium|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kamera|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kamoso|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kanagram|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -1428,7 +1428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxnvctrl|580.65.06|590.44.01|runtime-display|Compliance mode enabled, was '590.44.01'|
 |libxnvctrl+32|580.65.06|590.44.01|runtime-optenv32|Compliance mode enabled, was '590.44.01'|
 |libxslt|1.1.43|1.1.45|runtime-common|Compliance mode enabled, was '1.1.45'|
-|libxslt+32|1.1.43|1.1.45|runtime-optenv32|Compliance mode enabled, was '1.1.45'|
 |libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
 |liferea|1.14.6|1.16.6|app-web|Compliance mode enabled, was '1.16.6'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
@@ -2637,12 +2636,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.16|0.9.17|lang-python|Compliance mode enabled, was '0.9.17'|
 |v2ray|5.41.0|5.42.0|app-proxy|Compliance mode enabled, was '5.42.0'|
-|v2ray-rules-dat|202510042211|202512132213|runtime-data|Compliance mode enabled, was '202512132213'<br>Versions not comparable: `202510042211` and `202512132213`|
+|v2ray-rules-dat|202510042211|202512142213|runtime-data|Compliance mode enabled, was '202512142213'<br>Versions not comparable: `202510042211` and `202512142213`|
 |v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
 |v4l2loopback|0.15.2|0.15.3|app-utils|Compliance mode enabled, was '0.15.3'|
-|vacuumtube|1.3.21|1.5.1|app-multimedia|Compliance mode enabled, was '1.5.1'|
+|vacuumtube|1.3.21|1.5.2|app-multimedia|Compliance mode enabled, was '1.5.2'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
 |valgrind|3.25.0|3.26.0|app-devel|Compliance mode enabled, was '3.26.0'|
 |vamp-plugin-sdk|2.9.0|2.10.0|runtime-multimedia|Compliance mode enabled, was '2.10.0'|
