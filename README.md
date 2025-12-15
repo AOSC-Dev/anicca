@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765805872?label=Updated)
+![Relative date](https://img.shields.io/date/1765808314?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -224,7 +224,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certbot-apache|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certbot-dns-cloudflare|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
-|certbot-nginx|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certifi|2024.7.4|2025.11.12|lang-python|Compliance mode enabled, was '2025.11.12'|
 |cervisia|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |cfgv|3.4.0|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
@@ -326,7 +325,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.1.2|3.2.3|lang-python|Compliance mode enabled, was '3.2.3'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |damo|2.4.7|3.0.8|app-admin|Compliance mode enabled, was '3.0.8'|
-|dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.2|app-utils|Compliance mode enabled, was '2.8.2'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
 |dash|0.5.12|0.5.13.1|app-shells|Compliance mode enabled, was '0.5.13.1'|
@@ -498,6 +496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |file-roller|3.42.0|44.6|desktop-gnome|Compliance mode enabled, was '44.6'|
 |filelight|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
+|findpython|0.7.0|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'|
 |fio|3.35|3.41|app-utils|Compliance mode enabled, was '3.41'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
@@ -583,7 +582,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gflags|2.2.2|2.3.0|app-devel|Compliance mode enabled, was '2.3.0'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |gfxreconstruct|1.0.4|1.0.5|app-devel|Compliance mode enabled, was '1.0.5'|
-|ggml|0.9.4<br>+git20251117|0.9.4|runtime-scientific|Compliance mode enabled, was '0.9.4'|
 |ghc|9.4.8|9.12.2-release|lang-haskell|Compliance mode enabled, was '9.12.2-release'|
 |ghex|46.0|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
 |ghidra|11.3.2_build|12.0_build|app-devel||
@@ -1503,6 +1501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-powermanagement|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-qtplugin|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-runner|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
+|lxqt-session|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-sudo|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-themes|1.3.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-wallet|4.0.0|4.0.2|desktop-lxqt|Compliance mode enabled, was '4.0.2'|
@@ -2623,8 +2622,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usbutils|018|019|app-utils|Compliance mode enabled, was '019'|
 |utfcpp|3.2.1|4.0.8|runtime-common|Compliance mode enabled, was '4.0.8'|
 |uthash|2.1.0|2.3.0|runtime-common|Compliance mode enabled, was '2.3.0'|
-|util-linux|2.40.4|2.41.2|app-utils|Compliance mode enabled, was '2.41.2'|
-|util-linux+32|2.40.4|2.41.2|runtime-optenv32|Compliance mode enabled, was '2.41.2'|
+|util-linux|2.40.4|2.41.3|app-utils|Compliance mode enabled, was '2.41.3'|
+|util-linux+32|2.40.4|2.41.3|runtime-optenv32|Compliance mode enabled, was '2.41.3'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.16|0.9.17|lang-python|Compliance mode enabled, was '0.9.17'|
 |v2ray|5.41.0|5.42.0|app-proxy|Compliance mode enabled, was '5.42.0'|
