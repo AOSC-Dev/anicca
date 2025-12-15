@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765826096?label=Updated)
+![Relative date](https://img.shields.io/date/1765829710?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -359,6 +359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|8.6.0|8.8.0|desktop-kde|Compliance mode enabled, was '8.8.0'|
 |ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
+|discord|0.0.118|0.0.119|app-web|Compliance mode enabled, was '0.0.119'|
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |distlib|0.3.1|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
@@ -915,7 +916,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-cli-tools|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kde-dev-scripts|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kde-dev-utils|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kde-gtk-config|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kde-inotify-survey|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdebugsettings|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdeclarative|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
@@ -969,7 +969,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khelpcenter|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kholidays|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |khotkeys|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
-|khtml|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |ki18n|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kiconthemes|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
@@ -1455,7 +1454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lirc|0.9.4d|0.10.2|app-devices|Compliance mode enabled, was '0.10.2'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7091|7406|runtime-creativity|Compliance mode enabled, was '7406'|
+|llama.cpp|7091|7411|runtime-creativity|Compliance mode enabled, was '7411'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.4.1|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |llvm+32|20.1.8|21.1.7|runtime-optenv32|Compliance mode enabled, was '21.1.7'|
@@ -1741,6 +1740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |openscad|2021.01<br>+git20230825|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
 |openssl|3.5.4|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
+|openssl+32|3.5.4|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |openssl-1.1|1.1.1w|3.6.0|runtime-cryptography|Compliance mode enabled, was '3.6.0'|
 |openssl-1.1+32|1.1.1w|3.6.0|runtime-optenv32|Compliance mode enabled, was '3.6.0'|
 |openstack-service-types|1.7.0|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
@@ -2269,7 +2269,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipify|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hiprand|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7406|runtime-rocm|Compliance mode enabled, was '7406'|
+|rocm-llama-cpp|7.0.1|7411|runtime-rocm|Compliance mode enabled, was '7411'|
 |rocm-llvm|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2515,6 +2515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |teams-for-linux|2.2.1|2.6.19|app-web|Compliance mode enabled, was '2.6.19'|
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20240727|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
+|telegram-desktop|6.3.6|6.3.8|app-web|Compliance mode enabled, was '6.3.8'|
 |telepathy-accounts-signon|1.0|2.1|runtime-web|Compliance mode enabled, was '2.1'|
 |telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-logger-qt|15.04.0|17.09.0|runtime-web|Compliance mode enabled, was '17.09.0'|
@@ -2528,7 +2529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |testresources|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |texlive|20250308|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20250308 -> 2025)|
 |texmaker|5.1.2|6.0.1|app-doc|Compliance mode enabled, was '6.0.1'|
-|texstudio|4.8.6|4.9.0|app-doc|Compliance mode enabled, was '4.9.0'|
+|texstudio|4.8.6|4.9.1|app-doc|Compliance mode enabled, was '4.9.1'|
 |tftp-hpa|5.2<br>+git20240610|5.3|app-network|Compliance mode enabled, was '5.3'|
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
 |thin-provisioning-tools|1.0.10|1.3.1|app-admin|Compliance mode enabled, was '1.3.1'|
@@ -2554,7 +2555,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |topgrade|16.2.1|16.6.1|app-admin|Compliance mode enabled, was '16.6.1'|
 |toposort|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |tor|0.4.8.19|0.4.8.21|app-proxy|Compliance mode enabled, was '0.4.8.21'|
-|tornado|6.4.1|6.5.3|lang-python|Compliance mode enabled, was '6.5.3'|
+|tornado|6.4.1|6.5.4|lang-python|Compliance mode enabled, was '6.5.4'|
 |tortoisehg|6.6.3|7.0.1|app-vcs|Compliance mode enabled, was '7.0.1'|
 |totem|42.0|43.2|desktop-gnome|Compliance mode enabled, was '43.2'|
 |toxcore|0.2.18|0.2.21|app-web|Compliance mode enabled, was '0.2.21'|
