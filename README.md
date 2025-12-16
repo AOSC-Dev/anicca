@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765862225?label=Updated)
+![Relative date](https://img.shields.io/date/1765866059?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1105,7 +1105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ktuberling|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kturtle|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kubernetes|1.34.1|1.34.3|app-containers|Compliance mode enabled, was '1.34.3'|
 |kubo|0.38.2|0.39.0|app-proxy|Compliance mode enabled, was '0.39.0'|
 |kubrick|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kunitconversion|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
@@ -1859,7 +1858,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbd-mysql|4.052|5.013|lang-perl|Compliance mode enabled, was '5.013'|
 |perl-dbd-sqlite|1.63<br>+03|1.76|lang-perl|Compliance mode enabled, was '1.76'|
 |perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
-|perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
 |perl-digest-hmac|1.03|1.05|lang-perl|Compliance mode enabled, was '1.05'|
@@ -2134,7 +2132,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5-sip|12.17.0|12.17.2|lang-python|Compliance mode enabled, was '12.17.2'|
 |pyqt6|6.9.1|6.10.1|lang-python|Compliance mode enabled, was '6.10.1'|
 |pyqt6-sip|13.10.2|13.10.3|lang-python|Compliance mode enabled, was '13.10.3'|
-|pyqt6-webengine|6.9.0|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyscard|2.3.0|2.3.1|lang-python|Compliance mode enabled, was '2.3.1'|
 |pyside2|5.15.16|5.15.18|lang-python|Compliance mode enabled, was '5.15.18'|
@@ -2274,7 +2271,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-origami|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-rocfft|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocprim|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocprofiler-register|7.1.0|7.3.53390|runtime-rocm|Compliance mode enabled, was '7.3.53390'|
 |rocm-rocrand|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
