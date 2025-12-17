@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765966510?label=Updated)
+![Relative date](https://img.shields.io/date/1765970025?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1722,7 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.5.19.1|3.1.8.0|runtime-imaging|Compliance mode enabled, was '3.1.8.0'|
 |openixcard|1.0.1|1.1.8|app-devel|Compliance mode enabled, was '1.1.8'|
 |openjdk-11|11.0.28-ga|11.0.31+0|lang-java||
-|openjdk-17|17.0.16-ga|17.0.18+5|lang-java||
+|openjdk-17|17.0.16-ga|17.0.18+6|lang-java||
 |openjdk-21|21.0.8-ga|21.0.10+5|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
@@ -1984,7 +1984,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.4.7|8.5.1|app-devel|Compliance mode enabled, was '8.5.1'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|pikepdf|8.15.1|10.0.2|app-doc|Compliance mode enabled, was '10.0.2'|
+|pikepdf|8.15.1|10.0.3|app-doc|Compliance mode enabled, was '10.0.3'|
 |pillow|10.4.0|12.0.0|lang-python|Compliance mode enabled, was '12.0.0'|
 |pim-data-exporter|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |pim-sieve-editor|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -2650,7 +2650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
 |vim|9.1.1837|9.1.1989|app-editors|Compliance mode enabled, was '9.1.1989'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
-|vlc|3.0.21|3.0.22|app-multimedia|Compliance mode enabled, was '3.0.22'|
+|vlc|3.0.21|3.0.23|app-multimedia|Compliance mode enabled, was '3.0.23'|
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
