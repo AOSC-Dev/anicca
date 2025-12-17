@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1765963156?label=Updated)
+![Relative date](https://img.shields.io/date/1765966510?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1997,6 +1997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |plasma-browser-integration|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
+|plasma-default-settings|2025.12.0|2025.12.1|runtime-data|Compliance mode enabled, was '2025.12.1'|
 |plasma-desktop|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |plasma-disks|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |plasma-firewall|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
@@ -2310,6 +2311,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rustc+32|1.89.0|1.92.0|runtime-optenv32|Compliance mode enabled, was '1.92.0'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
+|rygel|0.40.4|45.0|desktop-gnome|Compliance mode enabled, was '45.0'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |s3transfer|0.5.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
@@ -2574,10 +2576,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tree-sitter-vimdoc|3.0.1|4.1.0|runtime-editors|Compliance mode enabled, was '4.1.0'|
 |treevsrepo|0.4.3|0.4.5|app-devel|Compliance mode enabled, was '0.4.5'|
 |triforce|0.2.0|0.3.2|runtime-multimedia|Compliance mode enabled, was '0.3.2'|
-|trinity-default-settings|2023.07.1r|2025.12.0|runtime-data|Compliance mode enabled, was '2025.12.0'|
+|trinity-default-settings|2023.07.1r|2025.12.1|runtime-data|Compliance mode enabled, was '2025.12.1'|
 |trio|0.24.0|0.32.0|lang-python|Compliance mode enabled, was '0.32.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.68.1|app-devel|Compliance mode enabled, was '0.68.1'|
+|trivy|0.55.0|0.68.2|app-devel|Compliance mode enabled, was '0.68.2'|
 |trove-classifiers|2025.8.6.13|2025.12.1.14|lang-python|Compliance mode enabled, was '2025.12.1.14'|
 |tslib|1.21|1.24|runtime-devices|Compliance mode enabled, was '1.24'|
 |tslib+32|1.21|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
