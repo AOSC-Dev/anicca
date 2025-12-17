@@ -2622,6 +2622,7 @@
 ["legacy-cgi","2.6.3","2.6.4","lang-python",1744276032,["Compliance mode enabled, was '2.6.4'"]],
 ["janus","1.0.0","2.0.0","lang-python",1640157134,["Compliance mode enabled, was '2.0.0'"]],
 ["pymysql","0.9.3","1.1.2","lang-python",1551497670,["Compliance mode enabled, was '1.1.2'"]],
+["pyqt6-sip","13.10.2","13.10.3","lang-python",1758952268,["Compliance mode enabled, was '13.10.3'"]],
 ["sysv-ipc","1.0.1","1.1.0","lang-python",1608537132,["Compliance mode enabled, was '1.1.0'"]],
 ["pymarkups","3.0.0","4.1.1","lang-python",1530553511,["Compliance mode enabled, was '4.1.1'"]],
 ["async-timeout","4.0.2","5.0.1","lang-python",1595861753,["Compliance mode enabled, was '5.0.1'"]],
