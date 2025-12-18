@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766074616?label=Updated)
+![Relative date](https://img.shields.io/date/1766078306?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -310,6 +310,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crush|0.24.0|0.27.0|app-utils|Compliance mode enabled, was '0.27.0'|
 |cryfs|0.11.4|1.0.1|app-admin|Compliance mode enabled, was '1.0.1'|
 |cryptography|46.0.2|46.0.3|lang-python|Compliance mode enabled, was '46.0.3'|
+|cryptsetup|2.8.1|2.8.2|app-admin|Compliance mode enabled, was '2.8.2'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
 |ctags|6.2.20251005.0|6.2.20251130.0|app-devel|Compliance mode enabled, was '6.2.20251130.0'|
@@ -828,7 +829,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iozone|3.492|3.508|app-admin|Compliance mode enabled, was '3.508'|
 |ipcalc|0.41|1.0.3|app-network|Compliance mode enabled, was '1.0.3'|
 |iproute2|6.17.0|6.18.0|app-network|Compliance mode enabled, was '6.18.0'|
-|ipset|7.22|7.24|app-network|Compliance mode enabled, was '7.24'|
 |ipt2socks|1.1.3|1.1.5|app-proxy|Compliance mode enabled, was '1.1.5'|
 |ipython|8.32.0|9.8.0|lang-python|Compliance mode enabled, was '9.8.0'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
@@ -982,7 +982,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimageformats|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kimagemapeditor|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kimap|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kind|0.30.0|0.31.0|app-containers|Compliance mode enabled, was '0.31.0'|
 |kinfocenter|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kinit|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kio|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
@@ -1683,7 +1682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nushell|0.108.0|0.109.1|app-shells|Compliance mode enabled, was '0.109.1'|
 |nut|2.7.4|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |nvchecker|2.15.1|2.19|app-utils|Compliance mode enabled, was '2.19'|
-|nvidia|580.119.02|590.44.01|groups|Compliance mode enabled, was '590.44.01'|
+|nvidia|580.119.02|590.48.01|groups|Compliance mode enabled, was '590.48.01'|
 |nvidia-open|580.119.02|590.44.01|runtime-display|Compliance mode enabled, was '590.44.01'|
 |nvidia-settings|580.119.02|590.44.01|app-admin|Compliance mode enabled, was '590.44.01'|
 |oath-toolkit|2.6.12|2.6.13|app-admin|Compliance mode enabled, was '2.6.13'|
@@ -2671,6 +2670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader|1.4.335.0|1.4.336|runtime-display|Compliance mode enabled, was '1.4.336'|
 |vulkan-loader+32|1.4.335.0|1.4.336|runtime-optenv32|Compliance mode enabled, was '1.4.336'|
 |vulkan-tools|1.4.335.0|1.4.335|app-utils|Compliance mode enabled, was '1.4.335'|
+|vulkan-tools+32|1.4.335.0|1.4.335|runtime-optenv32|Compliance mode enabled, was '1.4.335'|
 |vulkan-utility-libraries|1.4.335.0|1.4.336|runtime-display|Compliance mode enabled, was '1.4.336'|
 |vulkan-validationlayers|1.4.335.0|1.4.336|runtime-display|Compliance mode enabled, was '1.4.336'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
@@ -2802,7 +2802,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstandard|0.23.0|0.25.0|lang-python|Compliance mode enabled, was '0.25.0'|
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
 |zsync|0.6.2|0.6.3|app-network|Compliance mode enabled, was '0.6.3'|
-|zulip-desktop|5.12.2|5.12.3|app-web|Compliance mode enabled, was '5.12.3'|
 |zutils|1.7|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |zvbi|0.2.35|0.2.44|runtime-multimedia|Compliance mode enabled, was '0.2.44'|
 |zvm|0.8.10|0.8.11|lang-ziglang|Compliance mode enabled, was '0.8.11'|
