@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766139327?label=Updated)
+![Relative date](https://img.shields.io/date/1766142791?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -909,7 +909,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdecoration|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kded|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kdeedu-data|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kdegraphics-mobipocket|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdegraphics-thumbnailers|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdelibs4support|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kdenetwork-filesharing|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -1687,7 +1686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onedrive|2.5.5|2.5.9|app-web|Compliance mode enabled, was '2.5.9'|
 |onedrivegui|1.1.1|1.3.0|app-web|Compliance mode enabled, was '1.3.0'|
 |onefetch|2.21.0|2.25.0|app-utils|Compliance mode enabled, was '2.25.0'|
-|oolite|1.90|1.91.0.7726+251218+6934322|app-games|Compliance mode enabled, was '1.91.0.7726-251218-6934322'|
+|oolite|1.90|1.91.0.7728+251219+7857806|app-games|Compliance mode enabled, was '1.91.0.7728-251219-7857806'|
 |opam|2.1.6|2.5.0|lang-ocaml|Compliance mode enabled, was '2.5.0'|
 |open-iscsi|2.1.9|2.1.11|app-admin|Compliance mode enabled, was '2.1.11'|
 |open-isns|0.101|0.103|app-admin|Compliance mode enabled, was '0.103'|
@@ -1956,7 +1955,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser|2.44|2.47|lang-perl|Compliance mode enabled, was '2.47'|
 |perl-xml-sax|1.00|1.02|lang-perl|Compliance mode enabled, was '1.02'|
 |perl-xml-sax-expat|0.51|1.33|lang-perl|Compliance mode enabled, was '1.33'|
-|perl-xml-twig|3.52|3.54|lang-perl|Compliance mode enabled, was '3.54'|
 |perl-xml-xpath|1.44|1.48|lang-perl|Compliance mode enabled, was '1.48'|
 |perl-xs-parse-keyword|0.48|0.49|lang-perl|Compliance mode enabled, was '0.49'|
 |perl-yaml-libyaml|0.85|0.904.0|lang-perl|Compliance mode enabled, was '0.904.0'|
@@ -2632,7 +2630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
 |vim|9.1.1837|9.1.1999|app-editors|Compliance mode enabled, was '9.1.1999'|
-|virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |vlc|3.0.21|3.0.23|app-multimedia|Compliance mode enabled, was '3.0.23'|
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
@@ -2728,7 +2725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xmlsec|1.2.36|1.3.9|runtime-common|Compliance mode enabled, was '1.3.9'|
-|xonsh|0.19.9|0.21.2|lang-python|Compliance mode enabled, was '0.21.2'|
+|xonsh|0.19.9|0.22.0|lang-python|Compliance mode enabled, was '0.22.0'|
 |xorg-server|21.1.19|21.1.21|runtime-display|Compliance mode enabled, was '21.1.21'|
 |xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
