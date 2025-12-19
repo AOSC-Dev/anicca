@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766142791?label=Updated)
+![Relative date](https://img.shields.io/date/1766146910?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -13,7 +13,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.13.1|1.17.0|app-admin|Compliance mode enabled, was '1.17.0'|
 |abseil-cpp|20240722.0|20250814.1|runtime-common|Compliance mode enabled, was '20250814.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
-|accerciser|3.40.0|3.48.0|desktop-gnome|Compliance mode enabled, was '3.48.0'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
 |ack|3.7.0|3.9.0|app-utils|Compliance mode enabled, was '3.9.0'|
 |acl|2.3.1|2.3.2|app-utils|Compliance mode enabled, was '2.3.2'|
@@ -253,6 +252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.6.1|desktop-cinnamon|Compliance mode enabled, was '6.6.1'|
 |cjs|5.8.0|128.1|desktop-cinnamon|Compliance mode enabled, was '128.1'|
 |cjson|1.7.18|1.7.19|runtime-common|Compliance mode enabled, was '1.7.19'|
+|clash-verge-rev|2.4.3|2.4.4|app-proxy|Compliance mode enabled, was '2.4.4'|
 |clazy|1.15|1.16|app-devel|Compliance mode enabled, was '1.16'|
 |cli-helpers|1.1.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |cli11|2.5.0|2.6.1|runtime-common|Compliance mode enabled, was '2.6.1'|
@@ -909,6 +909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdecoration|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kded|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kdeedu-data|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|kdegraphics-mobipocket|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdegraphics-thumbnailers|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kdelibs4support|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kdenetwork-filesharing|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -1496,7 +1497,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-wallet|4.0.0|4.0.2|desktop-lxqt|Compliance mode enabled, was '4.0.2'|
 |lychee|0.18.1|0.22.0|app-web|Compliance mode enabled, was '0.22.0'|
 |lzd|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
-|lzip|1.24.1|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lziprecover|1.24|1.25|app-utils|Compliance mode enabled, was '1.25'|
 |lzlib|1.11|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |m17n-db|1.8.7|1.8.10|runtime-i18n|Compliance mode enabled, was '1.8.10'|
@@ -1955,6 +1955,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser|2.44|2.47|lang-perl|Compliance mode enabled, was '2.47'|
 |perl-xml-sax|1.00|1.02|lang-perl|Compliance mode enabled, was '1.02'|
 |perl-xml-sax-expat|0.51|1.33|lang-perl|Compliance mode enabled, was '1.33'|
+|perl-xml-twig|3.52|3.54|lang-perl|Compliance mode enabled, was '3.54'|
 |perl-xml-xpath|1.44|1.48|lang-perl|Compliance mode enabled, was '1.48'|
 |perl-xs-parse-keyword|0.48|0.49|lang-perl|Compliance mode enabled, was '0.49'|
 |perl-yaml-libyaml|0.85|0.904.0|lang-perl|Compliance mode enabled, was '0.904.0'|
@@ -2630,6 +2631,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.11.1|1.12.2|runtime-scientific|Compliance mode enabled, was '1-12-2'|
 |vim|9.1.1837|9.1.1999|app-editors|Compliance mode enabled, was '9.1.1999'|
+|virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |vlc|3.0.21|3.0.23|app-multimedia|Compliance mode enabled, was '3.0.23'|
 |vmpk|0.9.0|0.9.1|app-creativity|Compliance mode enabled, was '0.9.1'|
 |vnstat|2.4|2.13|app-network|Compliance mode enabled, was '2.13'|
