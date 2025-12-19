@@ -485,6 +485,7 @@
 ["gigolo","0.5.3","0.6.0","app-network",1706025816,["Compliance mode enabled, was '0.6.0'"]],
 ["wondershaper","1.2.1","404:","app-network",1472682170,["Compliance mode enabled, was '404:'"]],
 ["iproute2","6.17.0","6.18.0","app-network",1760702481,["Compliance mode enabled, was '6.18.0'"]],
+["6tunnel","0.13","0.14","app-network",1579641051,["Compliance mode enabled, was '0.14'"]],
 ["grpc","1.72.0","1.76.0","app-network",1748135736,["Compliance mode enabled, was '1.76.0'"]],
 ["nsd","4.7.0","4.14.0","app-network",1696572712,["Compliance mode enabled, was '4.14.0'"]],
 ["fizz","2025.09.01.00","2025.12.15.00","app-network",1757214447,["Compliance mode enabled, was '2025.12.15.00'"]],
