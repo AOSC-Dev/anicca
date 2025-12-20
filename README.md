@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766214767?label=Updated)
+![Relative date](https://img.shields.io/date/1766218616?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1340,7 +1340,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshout+32|2.4.3|2.4.6|runtime-optenv32|Compliance mode enabled, was '2.4.6'|
 |libsidplay|1.36.59|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
 |libsidplayfp|1.8.8|2.15.2|runtime-multimedia|Compliance mode enabled, was '2.15.2'|
-|libsigc++|2.10.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |libsigc++-3.0|3.4.0|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |libsigsegv|2.12|2.15|runtime-common|Compliance mode enabled, was '2.15'|
 |libsixel|1.8.7|1.10.5|runtime-imaging|Compliance mode enabled, was '1.10.5'|
@@ -1410,7 +1409,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|runtime-productivity|Compliance mode enabled, was '0.3.4'|
 |libwww-perl|6.33|6.81|lang-perl|Compliance mode enabled, was '6.81'|
 |libxcrypt+32|4.4.37|4.5.2|runtime-optenv32|Compliance mode enabled, was '4.5.2'|
-|libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxkbcommon|1.8.1|1.13|runtime-display|Compliance mode enabled, was '1.13'|
 |libxkbcommon+32|1.7.0|1.13|runtime-optenv32|Compliance mode enabled, was '1.13'|
 |libxml++-2.6|2.42.3|5.4.0|runtime-common|Compliance mode enabled, was '5.4.0'|
@@ -1459,7 +1457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|20.1.8|21.1.8|runtime-wasi|Compliance mode enabled, was '21.1.8'|
 |lmms|1.2.2<br>+git20251129|1.2.2|app-creativity|Compliance mode enabled, was '1.2.2'|
 |log4cpp|1.1.3|1.1.5|runtime-common|Compliance mode enabled, was '1.1.5'|
-|loguru|0.5.3|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |lokalize|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |loudmouth|1.5.3|1.5.4|runtime-web|Compliance mode enabled, was '1.5.4'|
 |lowdown|1.1.2|2.0.4|app-doc|Compliance mode enabled, was '2_0_4'|
@@ -2112,6 +2109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pypandoc|1.15|1.16.2|lang-python|Compliance mode enabled, was '1.16.2'|
 |pyparsing|3.2.3|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
+|pypdf|4.0.1|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
 |pypdf2|1.26.0|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
@@ -2173,6 +2171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qd|2.3.22|2.3.24|runtime-common|Compliance mode enabled, was '2.3.24'|
 |qdiskinfo|0.4|0.1|app-utils|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.4 -> 0.1)|
 |qemu|10.1.2|10.1.3|app-virtualization|Compliance mode enabled, was '10.1.3'|
+|qgis|3.44.5|3.44.6|app-gis|Compliance mode enabled, was '3.44.6'|
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome|Compliance mode enabled, was '0.9.2'|
 |qjackctl|1.0.1|1.0.4|app-multimedia|Compliance mode enabled, was '1.0.4'|
 |qmic|1.0|0.1|app-devel|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (1.0 -> 0.1)|
@@ -2698,7 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto|2024.1|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
 |x11-proto+32|2024.1|2025.1|runtime-optenv32|Compliance mode enabled, was '2025.1'|
 |x11vnc|0.9.16|0.9.17|app-network|Compliance mode enabled, was '0.9.17'|
-|x264|0<br>+git20241027|3222|runtime-multimedia|Compliance mode enabled, was '3222'|
 |x264+32|0<br>+git20241027|3222|runtime-optenv32|Compliance mode enabled, was '3222'|
 |x265|3.6|4.1|runtime-multimedia|Compliance mode enabled, was '4.1'|
 |x265+32|3.6|4.1|runtime-optenv32|Compliance mode enabled, was '4.1'|
