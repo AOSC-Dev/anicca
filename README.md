@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766326307?label=Updated)
+![Relative date](https://img.shields.io/date/1766329930?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1242,6 +1242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkdegames|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkdepim|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkeduvocdocument|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|libkexiv2|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkgapi|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkipi|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkkc|0.3.5<br>+git20240902|0.3.5|runtime-i18n|Compliance mode enabled, was '0.3.5'|
@@ -1474,6 +1475,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.38|app-admin|Compliance mode enabled, was '2.03.38'|
 |lxgwcleargothic-font|0.508|0.515|desktop-fonts|Compliance mode enabled, was '0.515'|
 |lxgwneoxihei-font|1.226|1.235|desktop-fonts|Compliance mode enabled, was '1.235'|
+|lximage-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxml|6.0.0|6.0.2|lang-python|Compliance mode enabled, was '6.0.2'|
 |lxml-html-clean|0.2.2|0.4.3|lang-python|Compliance mode enabled, was '0.4.3'|
 |lxqt-about|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
