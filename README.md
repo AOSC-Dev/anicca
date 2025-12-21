@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766329930?label=Updated)
+![Relative date](https://img.shields.io/date/1766333703?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1554,6 +1554,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
 |metee|6.0.2|6.1.0|runtime-devices|Compliance mode enabled, was '6.1.0'|
 |microsoft-gsl|3.0.1|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
+|mihomo|1.19.17|1.19.18|app-proxy|Compliance mode enabled, was '1.19.18'|
 |milou|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |mimalloc|2.2.4|3.1.5|runtime-common|Compliance mode enabled, was '3.1.5'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
@@ -1629,7 +1630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netifaces|0.10.9|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |netpbm|10.73.34|11.12.00|app-utils|Compliance mode enabled, was '11.12.00'|
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
-|nettle+32|3.10.1|3.10.2|runtime-optenv32|Compliance mode enabled, was '3.10.2'|
 |networkmanager-iodine|1.2.0<br>+git20250906|1.2.0|app-network|Compliance mode enabled, was '1.2.0'|
 |networkmanager-l2tp|1.20.20|1.20.22|app-network|Compliance mode enabled, was '1.20.22'|
 |networkmanager-openvpn|1.12.3|1.12.4|app-network|Compliance mode enabled, was '1.12.4'|
@@ -2106,7 +2106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparsing|3.2.3|3.2.5|lang-python|Compliance mode enabled, was '3.2.5'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|4.0.1|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
-|pypdf2|1.26.0|6.4.2|lang-python|Compliance mode enabled, was '6.4.2'|
+|pypdf2|1.26.0|6.5.0|lang-python|Compliance mode enabled, was '6.5.0'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-metadata|0.9.1|0.10.0|lang-python|Compliance mode enabled, was '0.10.0'|
@@ -2586,6 +2586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |types-setuptools|80.9.0.20250822|80.9.0.20251221|lang-python|Compliance mode enabled, was '80.9.0.20251221'|
 |typing-extensions|4.12.2|4.15.0|lang-python|Compliance mode enabled, was '4.15.0'|
 |tzdata|2025b|2025c|runtime-data|Compliance mode enabled, was '2025c'|
+|uboot-asahi|2025.07-1|2025.10-1|runtime-kernel||
 |ucx|1.15.0|1.19.1|runtime-scientific|Compliance mode enabled, was '1.19.1'|
 |ufw|0.36|0.36.2|app-network|Compliance mode enabled, was '0.36.2'|
 |uget|2.2.3<br>+1|2.2.2|app-web|Compliance mode enabled, was '2.2.2'<br>Possible downgrade from the current version (2.2.3+1 -> 2.2.2)|
@@ -2726,7 +2727,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-systemload-plugin|1.3.1|1.4.0|desktop-xfce|Compliance mode enabled, was '1.4.0'|
 |xfce4-time-out-plugin|1.1.2|1.2.0|desktop-xfce|Compliance mode enabled, was '1.2.0'|
 |xfdashboard|1.0.0|1.1.0|desktop-xfce|Compliance mode enabled, was '1.1.0'|
-|xfmpc|0.3.0|0.4.0|desktop-xfce|Compliance mode enabled, was '0.4.0'|
 |xfsdump|3.1.12|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
