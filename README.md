@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766484950?label=Updated)
+![Relative date](https://img.shields.io/date/1766488356?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -604,7 +604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
 |gitea|1.25.1|1.25.3|app-vcs|Compliance mode enabled, was '1.25.3'|
 |gitg|41|44|desktop-gnome|Compliance mode enabled, was '44'|
-|gitoxide|0.46.0|0.48.0|app-vcs|Compliance mode enabled, was '0.48.0'|
 |gitui|0.27.0|0.28.0|app-utils|Compliance mode enabled, was '0.28.0'|
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.85.1|1.86.0|desktop-gnome|Compliance mode enabled, was '1.86.0'|
@@ -1077,6 +1076,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kruler|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |krunner|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |krusader|2.7.2|2.9.0|desktop-kde|Compliance mode enabled, was '2.9.0'|
+|ksanecore|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kscreen|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kscreenlocker|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |kseexpr|4.0.4.0|6.0.0.0|desktop-kde|Compliance mode enabled, was '6.0.0.0'|
