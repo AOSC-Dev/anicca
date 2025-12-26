@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1766773044?label=Updated)
+![Relative date](https://img.shields.io/date/1766776264?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -36,6 +36,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adwaita-icon-theme|47.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome|Compliance mode enabled, was '1.4.2'|
 |aiobotocore|2.26.0|3.0.0|lang-python|Compliance mode enabled, was '3.0.0'|
+|aiodns|3.2.0|3.6.1|lang-python|Compliance mode enabled, was '3.6.1'|
 |aiohttp|3.12.15|3.13.2|lang-python|Compliance mode enabled, was '3.13.2'|
 |aisleriot|3.22.24|3.22.35|desktop-gnome|Compliance mode enabled, was '3.22.35'|
 |akonadi|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -770,7 +771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httpx-go|1.7.1|1.7.4|app-utils|Compliance mode enabled, was '1.7.4'|
 |httrack|3.49.2|3.49.5|app-web|Compliance mode enabled, was '3.49.5'|
 |hugin|2024.0.1|2025.0.1|app-creativity|Compliance mode enabled, was '2025.0.1'|
-|hugo|0.153.1|0.153.2|app-web|Compliance mode enabled, was '0.153.2'|
+|hugo|0.153.1|0.153.3|app-web|Compliance mode enabled, was '0.153.3'|
 |humanize|0.5.1|4.15.0|lang-python|Compliance mode enabled, was '4.15.0'|
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwloc|2.10.0|2.12.2|app-admin|Compliance mode enabled, was '2.12.2'|
@@ -785,7 +786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.17|app-i18n|Compliance mode enabled, was '1.5.17'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
 |ibus-libpinyin|1.12.0|1.16.5|app-i18n|Compliance mode enabled, was '1.16.5'|
-|ibus-m17n|1.4.7|1.4.36|app-i18n|Compliance mode enabled, was '1.4.36'|
+|ibus-m17n|1.4.7|1.4.37|app-i18n|Compliance mode enabled, was '1.4.37'|
 |ibus-qt|1.3.3|1.3.4|app-i18n|Compliance mode enabled, was '1.3.4'|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.16|app-i18n|Compliance mode enabled, was '1.17.16'|
@@ -883,7 +884,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |karchive|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kasts|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kate|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|katomic|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kauth|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kbd|2.7.1|2.9.0|app-utils|Compliance mode enabled, was '2.9.0'|
 |kblackbox|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -2048,7 +2048,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |purpose|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
-|pv|1.6.20|1.10.3|app-utils|Compliance mode enabled, was '1.10.3'|
 |py-filelock|3.14.0|3.20.1|lang-python|Compliance mode enabled, was '3.20.1'|
 |pyaaf2|1.6.0|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |pyacoustid|1.2.2|1.3.0|lang-python|Compliance mode enabled, was '1.3.0'|
@@ -2532,7 +2531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker|3.7.3|3.10.1|desktop-gnome|Compliance mode enabled, was '3.10.1'|
 |tracker-miners|3.3.1|3.10.2|desktop-gnome|Compliance mode enabled, was '3.10.2'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
-|transmission-remote-gtk|1.5.1|1.6.0|app-web|Compliance mode enabled, was '1.6.0'|
+|transmission-remote-gtk|1.5.1|1.7.0|app-web|Compliance mode enabled, was '1.7.0'|
 |trash-cli|0.17.1.14|0.24.5.26|app-utils|Compliance mode enabled, was '0.24.5.26'|
 |tre|20161208|0.9.0|app-utils|Compliance mode enabled, was '0.9.0'<br>Possible downgrade from the current version (20161208 -> 0.9.0)|
 |tree|2.1.1|2.2.1|app-utils|Compliance mode enabled, was '2.2.1'|
