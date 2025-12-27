@@ -745,7 +745,6 @@
 ["watchman","2025.09.01.00","2025.12.22.00","app-utils",1757214447,["Compliance mode enabled, was '2025.12.22.00'"]],
 ["grub-btrfs","4.13","4.10.2","app-utils",1733725573,["Compliance mode enabled, was '4.10.2'","Possible downgrade from the current version (4.13 -> 4.10.2)"]],
 ["httpx-go","1.7.1","1.7.4","app-utils",1761613628,["Compliance mode enabled, was '1.7.4'"]],
-["chafa","1.16.2","1.18.0","app-utils",1762080845,["Compliance mode enabled, was '1.18.0'"]],
 ["netpbm","10.73.34","11.12.00","app-utils",1616134410,["Compliance mode enabled, was '11.12.00'"]],
 ["lightdm-gtk-greeter-settings","1.2.2","1.2.3","app-utils",1527956211,["Compliance mode enabled, was '1.2.3'"]],
 ["debootstrap","1.0.140","1.0.142","app-utils",1735885813,["Compliance mode enabled, was '1.0.142'"]],
