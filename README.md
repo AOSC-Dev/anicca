@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767093195?label=Updated)
+![Relative date](https://img.shields.io/date/1767097328?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -647,7 +647,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-online-accounts|3.44.0|3.56.2|desktop-gnome|Compliance mode enabled, was '3.56.2'|
 |gnome-packagekit|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-panel|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
-|gnome-power-manager|3.32.0|43.0|desktop-gnome|Compliance mode enabled, was '43.0'|
 |gnome-session|42.0|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
 |gnome-settings-daemon|42.2|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-shell|42.4|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
@@ -1000,6 +999,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kjumpingcube|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kldap|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kleopatra|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|klettres|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |klickety|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |klines|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kmag|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -2379,7 +2379,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxcontrib-websupport|1.2.4|2.0.0|app-doc|Compliance mode enabled, was '2.0.0'|
 |sphinxext-opengraph|0.9.1|0.13.0|app-doc|Compliance mode enabled, was '0.13.0'|
-|spice|0.15.2|0.16.0|runtime-virtualization|Compliance mode enabled, was '0.16.0'|
 |spice-protocol|0.14.4|0.14.5|runtime-virtualization|Compliance mode enabled, was '0.14.5'|
 |spice-vdagent|0.22.1|0.23.0|runtime-virtualization|Compliance mode enabled, was '0.23.0'|
 |spike|1.1.0<br>+git20240708|1.1.0|app-emulation|Compliance mode enabled, was '1.1.0'|
@@ -2613,6 +2612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader|1.4.335.0|1.4.337|runtime-display|Compliance mode enabled, was '1.4.337'|
 |vulkan-loader+32|1.4.335.0|1.4.337|runtime-optenv32|Compliance mode enabled, was '1.4.337'|
 |vulkan-tools|1.4.335.0|1.4.337|app-utils|Compliance mode enabled, was '1.4.337'|
+|vulkan-tools+32|1.4.335.0|1.4.337|runtime-optenv32|Compliance mode enabled, was '1.4.337'|
 |vulkan-utility-libraries|1.4.335.0|1.4.337|runtime-display|Compliance mode enabled, was '1.4.337'|
 |vulkan-validationlayers|1.4.335.0|1.4.337|runtime-display|Compliance mode enabled, was '1.4.337'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
