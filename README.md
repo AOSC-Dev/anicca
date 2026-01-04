@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767521566?label=Updated)
+![Relative date](https://img.shields.io/date/1767525083?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -227,6 +227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
+|cherry-studio|1.7.8|1.7.9|app-utils|Compliance mode enabled, was '1.7.9'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.605|desktop-fonts|Compliance mode enabled, was '2.605'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
@@ -1413,6 +1414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
 |lightdm-settings|2.0.9|2.1.0|desktop-displaymanagers|Compliance mode enabled, was '2.1.0'|
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
+|lilv|0.24.12|0.26.2|runtime-multimedia|Compliance mode enabled, was '0.26.2'|
 |linux+api|6.12.50|6.12.63|core-devel|Compliance mode enabled, was '6.12.63'|
 |linux+api+32|6.12.7|6.12.63|runtime-optenv32|Compliance mode enabled, was '6.12.63'|
 |linux+kernel|6.17.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.7 -> 5.19.17)|
@@ -2008,6 +2010,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podman|5.7.0|5.7.1|app-containers||
 |podofo|0.10.3|1.0.3|runtime-doc|Compliance mode enabled, was '1.0.3'|
 |poedit|3.4.1|3.8-oss|app-i18n|Compliance mode enabled, was '3.8-oss'|
+|poetry|2.1.3|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |poetry-core|2.1.3|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |polari|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |polkit|126|127|app-admin|Compliance mode enabled, was '127'|
