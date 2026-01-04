@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767561167?label=Updated)
+![Relative date](https://img.shields.io/date/1767564798?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1013,6 +1013,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmahjongg|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kmail|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kmail-account-wizard|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|kmailtransport|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kmbox|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kmediaplayer|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kmenuedit|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
@@ -1107,7 +1108,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubernetes|1.34.1|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
 |kubo|0.38.2|0.39.0|app-proxy|Compliance mode enabled, was '0.39.0'|
 |kubrick|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kunitconversion|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kvantum|1.0.10|1.1.5|desktop-kde|Compliance mode enabled, was '1.1.5'|
 |kvirc|5.0.0|5.2.10|app-web|Compliance mode enabled, was '5.2.10'|
 |kwallet|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
@@ -1542,7 +1542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mergiraf|0.16.1|mergiraf 0.16.1|app-devel|Compliance mode enabled, was 'Mergiraf 0.16.1'<br>Possible downgrade from the current version (0.16.1 -> mergiraf 0.16.1)|
 |merkuro|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |mesa|25.3.2|25.3.3|runtime-display||
-|mesa+32|25.3.2|25.3.3|runtime-optenv32||
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.3|runtime-display|Compliance mode enabled, was '25.3.3'|
 |mesen|0.9.9|2.1.1|app-games|Compliance mode enabled, was '2.1.1'|
 |meson-python|0.17.1|0.18.0|lang-python|Compliance mode enabled, was '0.18.0'|
@@ -2239,6 +2238,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipblas|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipblas-common|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipblaslt|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-hipcub|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipfft|7.1.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipfort|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipify|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
