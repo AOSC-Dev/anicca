@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767568396?label=Updated)
+![Relative date](https://img.shields.io/date/1767574574?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1102,6 +1102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktnef|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ktorrent|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ktouch|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
+|ktrip|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ktuberling|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kturtle|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kubernetes|1.34.1|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
@@ -1185,7 +1186,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|runtime-doc|Compliance mode enabled, was '0.1.1'|
 |libertine-fonts|8.0.2|8.6.1|desktop-fonts|Compliance mode enabled, was '8.6.1'|
 |libetonyek|0.1.9|0.1.13|runtime-productivity|Compliance mode enabled, was '0.1.13'|
-|libevdev|1.13.5|1.13.6|runtime-devices|Compliance mode enabled, was '1.13.6'|
 |libexif|0.6.22|0.6.25|runtime-imaging|Compliance mode enabled, was '0.6.25'|
 |libexif+32|0.6.22|0.6.25|runtime-optenv32|Compliance mode enabled, was '0.6.25'|
 |libffi|3.4.8|3.5.2|runtime-common|Compliance mode enabled, was '3.5.2'|
@@ -1257,7 +1257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
 |libluv|1.47.0<br>+0|1.51.0+1|lang-lua|Compliance mode enabled, was '1.51.0-1'|
 |liblxqt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
-|libmanette|0.2.6|0.2.13|runtime-devices|Compliance mode enabled, was '0.2.13'|
 |libmateweather|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |libmaxminddb|1.4.3|1.12.2|runtime-web|Compliance mode enabled, was '1.12.2'|
 |libmbim|1.32.0|1.34.0|runtime-devices|Compliance mode enabled, was '1.34.0'|
@@ -1358,7 +1357,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtheora+32|1.1.1|1.2.0|runtime-optenv32|Compliance mode enabled, was '1.2.0'|
 |libticables2|1.3.4|1.3.5|runtime-devices|Compliance mode enabled, was '1.3.5'|
 |libticalcs2|1.1.8|1.1.9|runtime-devices|Compliance mode enabled, was '1.1.9'|
-|libticonv|1.1.4|1.1.5|runtime-devices|Compliance mode enabled, was '1.1.5'|
 |libtiff|4.4.0|4.7.1|runtime-imaging|Compliance mode enabled, was '4.7.1'|
 |libtiff+32|4.4.0|4.7.1|runtime-optenv32|Compliance mode enabled, was '4.7.1'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
@@ -1842,6 +1840,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbd-sqlite|1.63<br>+03|1.78|lang-perl|Compliance mode enabled, was '1.78'|
 |perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
+|perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
 |perl-devel-symdump|2.0604|2.18|lang-perl|Compliance mode enabled, was '2.18'<br>Possible downgrade from the current version (2.0604 -> 2.18)|
 |perl-digest-hmac|1.03|1.05|lang-perl|Compliance mode enabled, was '1.05'|
 |perl-email-abstract|3.008|3.010|lang-perl|Compliance mode enabled, was '3.010'|
@@ -2597,7 +2596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.40.4|2.41.3|runtime-optenv32|Compliance mode enabled, was '2.41.3'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.20|0.9.21|lang-python|Compliance mode enabled, was '0.9.21'|
-|v2ray-rules-dat|202510042211|202601032214|runtime-data|Compliance mode enabled, was '202601032214'<br>Versions not comparable: `202510042211` and `202601032214`|
+|v2ray-rules-dat|202510042211|202601042214|runtime-data|Compliance mode enabled, was '202601042214'<br>Versions not comparable: `202510042211` and `202601042214`|
 |v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
