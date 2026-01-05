@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767597876?label=Updated)
+![Relative date](https://img.shields.io/date/1767601182?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |86box|5.2|5.3|app-emulation|Compliance mode enabled, was '5.3'|
@@ -534,7 +534,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |freecell-solver|6.2.0|6.16.0|app-games|Compliance mode enabled, was '6.16.0'|
 |freeglut|3.4.0|3.8.0|runtime-display|Compliance mode enabled, was '3.8.0'|
-|freeglut+32|3.4.0|3.8.0|runtime-optenv32|Compliance mode enabled, was '3.8.0'|
 |freerdp|3.17.2|3.20.0|app-network|Compliance mode enabled, was '3.20.0'|
 |freetds|1.00.112|1.5.10|runtime-database|Compliance mode enabled, was '1.5.10'|
 |freetype|2.13.3|2.14.1|runtime-desktop|Compliance mode enabled, was '2.14.1'|
@@ -1513,6 +1512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |marshmallow|3.20.2|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |mate-menus|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |mate-notification-daemon|1.28.3|1.29.0|desktop-mate|Compliance mode enabled, was '1.29.0'|
+|mate-panel|1.28.4|1.28.7|desktop-mate|Compliance mode enabled, was '1.28.7'|
 |materialx|1.38.8|1.39.4|runtime-creativity|Compliance mode enabled, was '1.39.4'|
 |matio|1.5.28|1.5.29|runtime-scientific|Compliance mode enabled, was '1.5.29'|
 |matplotlib|3.10.3|3.10.8|lang-python|Compliance mode enabled, was '3.10.8'|
