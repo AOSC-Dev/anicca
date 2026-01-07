@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767763170?label=Updated)
+![Relative date](https://img.shields.io/date/1767766863?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1090,6 +1090,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kspaceduel|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ksquares|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ksshaskpass|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
+|kstars|3.7.8|3.8.0|desktop-kde|Compliance mode enabled, was '3.8.0'|
 |ksudoku|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ksystemlog|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |ksystemstats|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
@@ -1229,7 +1230,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libiscsi|1.18.0|1.20.3|runtime-network|Compliance mode enabled, was '1.20.3'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
-|libjcat|0.2.3|0.2.5|runtime-common|Compliance mode enabled, was '0.2.5'|
 |libkcddb|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkcompactdisc|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |libkdcraw|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
