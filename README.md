@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1767840865?label=Updated)
+![Relative date](https://img.shields.io/date/1767844775?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -104,7 +104,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |attr|2.4.48|2.5.2|runtime-common|Compliance mode enabled, was '2.5.2'|
 |attr+32|2.4.48|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
-|attrs|23.2.0|25.4.0|lang-python|Compliance mode enabled, was '25.4.0'|
 |audacity|3.7.5|3.7.7|app-creativity|Compliance mode enabled, was '3.7.7'|
 |audiocd-kio|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
@@ -349,7 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dhcp|4.4.3.P1|4.4.3p1|app-network|Compliance mode enabled, was '4.4.3-P1'|
 |dhcpcd|10.0.8|10.3.0|app-network|Compliance mode enabled, was '10.3.0'|
 |dia|0.97.3|1|app-doc|Compliance mode enabled, was '1'|
-|dialog|1.3-20251001|1.3-20251223|app-utils||
+|dialog|1.3-20251001|1.3-20260107|app-utils||
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diffuse|0.9.0|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
 |diffutils|3.11|3.12|app-utils|Compliance mode enabled, was '3.12'|
@@ -753,7 +752,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html2text|2024.2.26|2025.4.15|lang-python|Compliance mode enabled, was '2025.4.15'|
-|htslib|1.21|1.23|app-scientific|Compliance mode enabled, was '1.23'|
 |httpcore|1.0.5|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httping|4.4.0|2.5|app-network|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (4.4.0 -> 2.5)|
@@ -984,7 +982,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio|5.115.0|6.21.0|desktop-kde|Compliance mode enabled, was '6.21.0'|
 |kio-admin|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kio-extras|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
-|kio-fuse|5.0.1|5.1.1|desktop-kde|Compliance mode enabled, was '5.1.1'|
 |kio-gdrive|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kipi-plugins|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |kirigami-addons|0.11.0|1.11.0|desktop-kde|Compliance mode enabled, was '1.11.0'|
@@ -1311,6 +1308,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqmi|1.36.0|1.38.0|runtime-devices|Compliance mode enabled, was '1.38.0'|
 |libqofono|0.98|0.124|runtime-network|Compliance mode enabled, was '0.124'|
 |libqrtr-glib|1.2.2|1.4.0|runtime-network|Compliance mode enabled, was '1.4.0'|
+|libqtxdg|3.12.0|4.3.0|desktop-lxqt|Compliance mode enabled, was '4.3.0'|
 |libquotient|0.8.2|0.9.5|runtime-web|Compliance mode enabled, was '0.9.5'|
 |libraw|0.20.0|0.21.5b|runtime-imaging|Compliance mode enabled, was '0.21.5b'|
 |libreoffice|25.8.0.4|26.2.0.1|groups|Compliance mode enabled, was '26.2.0.1'|
@@ -1532,6 +1530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mengshen-pinyin-font|1.03|20250817.032955|desktop-fonts|Compliance mode enabled, was '20250817-032955'|
 |menu-cache|1.1.0|1.1.1|desktop-lxde|Compliance mode enabled, was '1.1.1'|
 |mercurial|7.0.2|7.1.2|app-vcs|Compliance mode enabled, was '7.1.2'|
+|merge3|0.0.15|0.0.16|lang-python|Compliance mode enabled, was '0.0.16'|
 |mergiraf|0.16.1|mergiraf 0.16.1|app-devel|Compliance mode enabled, was 'Mergiraf 0.16.1'<br>Possible downgrade from the current version (0.16.1 -> mergiraf 0.16.1)|
 |merkuro|23.08.5|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |mesa|25.3.2|25.3.3|runtime-display||
