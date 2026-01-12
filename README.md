@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768216450?label=Updated)
+![Relative date](https://img.shields.io/date/1768220674?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -286,6 +286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
 |configshell-fb|1.1.30|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |confuse|3.2.2|3.3|runtime-common|Compliance mode enabled, was '3.3'|
+|conmon|2.1.13|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
 |containerd|2.2.0|2.2.1|app-containers|Compliance mode enabled, was '2.2.1'|
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
 |coolercontrol|3.0.2|3.1.1|app-utils|Compliance mode enabled, was '3.1.1'|
@@ -700,6 +701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greenlet|3.2.4|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
 |grilo|0.3.15|0.3.19|desktop-gnome|Compliance mode enabled, was '0.3.19'|
 |grilo-plugins|0.3.15|0.3.18|desktop-gnome|Compliance mode enabled, was '0.3.18'|
+|gringo|5.7.1|5.8.0|app-devel|Compliance mode enabled, was '5.8.0'|
 |grpc|1.72.0|1.76.0|app-network|Compliance mode enabled, was '1.76.0'|
 |grub-btrfs|4.13|4.10.2|app-utils|Compliance mode enabled, was '4.10.2'<br>Possible downgrade from the current version (4.13 -> 4.10.2)|
 |gsasl|1.10.0|2.2.2|runtime-admin|Compliance mode enabled, was '2.2.2'|
@@ -1929,7 +1931,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-params-util|1.07|1.102|lang-perl|Compliance mode enabled, was '1.102'|
 |perl-params-validationcompiler|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-path-tiny|0.108|0.150|lang-perl|Compliance mode enabled, was '0.150'|
-|perl-pod-parser|1.63|1.67|lang-perl|Compliance mode enabled, was '1.67'|
 |perl-proc-processtable|0.56|0.637|lang-perl|Compliance mode enabled, was '0.637'|
 |perl-regexp-common|2017060201|2024080801|lang-perl|Compliance mode enabled, was '2024080801'|
 |perl-role-tiny|2.001004|2.002004|lang-perl|Compliance mode enabled, was '2.002004'|
@@ -2286,7 +2287,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.14|0.2.15|lang-python|Compliance mode enabled, was '0.2.15'|
 |ruby|3.4.7|4.0.0|lang-ruby|Compliance mode enabled, was '4.0.0'|
 |ruby-ffi|1.17.0|1.17.3|lang-ruby|Compliance mode enabled, was '1.17.3'|
-|ruby-gettext|3.2.9|3.5.1|lang-ruby|Compliance mode enabled, was '3.5.1'|
 |ruby-optimist|3.2.0|3.2.1|lang-ruby|Compliance mode enabled, was '3.2.1'|
 |ruby-pg|1.5.9|1.6.3|lang-ruby|Compliance mode enabled, was '1.6.3'|
 |ruby-pkg-config|1.5.8|1.6.5|lang-ruby|Compliance mode enabled, was '1.6.5'|
@@ -2470,6 +2470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemsettings|5.27.12|6.5.4|desktop-kde|Compliance mode enabled, was '6.5.4'|
 |sysv-ipc|1.0.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |taglib|2.0.2|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
+|taglib+32|1.13.1|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
 |tagparser|11.5.1|12.5.2|runtime-multimedia|Compliance mode enabled, was '12.5.2'|
 |tailscale|1.92.3|1.92.5|app-network|Compliance mode enabled, was '1.92.5'|
 |taisei|1.3.2|1.4.4|app-games|Compliance mode enabled, was '1.4.4'|
@@ -2496,6 +2497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |template-glib|3.28.0|3.38.0|desktop-gnome|Compliance mode enabled, was '3.38.0'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
 |termcolor|2.5.0|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
+|terminaltables|3.1.0|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |terminator|2.1.4|2.1.5|desktop-gnome|Compliance mode enabled, was '2.1.5'|
 |tesseract|5.5.0|5.5.2|app-utils|Compliance mode enabled, was '5.5.2'|
 |testresources|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
