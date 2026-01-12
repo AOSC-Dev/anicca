@@ -1,12 +1,11 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768245448?label=Updated)
+![Relative date](https://img.shields.io/date/1768248979?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
 |86box|5.2|5.3|app-emulation|Compliance mode enabled, was '5.3'|
-|a2ps|4.15.7|4.15.8|app-doc|Compliance mode enabled, was '4.15.8'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -79,7 +78,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apsw|3.50.4.0|3.51.2.0|lang-python|Compliance mode enabled, was '3.51.2.0'|
 |apt|3.0.3|3.1.13|app-admin|Compliance mode enabled, was '3.1.13'|
 |arcanist|2025.18|2025.51|app-devel|Compliance mode enabled, was '2025.51'|
-|arch-install-scripts|28|31|app-utils||
 |arduino-avr-core|1.8.3|1.8.6|app-devel|Compliance mode enabled, was '1.8.6'|
 |argcomplete|3.5.0|3.6.3|lang-python|Compliance mode enabled, was '3.6.3'|
 |argparse-manpage|4.5|4.7|lang-python|Compliance mode enabled, was '4.7'|
@@ -2145,7 +2143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-node-semver|0.8.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |python-pam|1.8.4|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|lang-python|Compliance mode enabled, was '21.3.0'|
-|python-protobuf|6.32.1|6.33.3|lang-python|Compliance mode enabled, was '6.33.3'|
+|python-protobuf|6.32.1|6.33.4|lang-python|Compliance mode enabled, was '6.33.4'|
 |python-xapp|2.0.1|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
 |python-xmp-toolkit|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |python-xxhash|3.5.0|3.6.0|lang-python|Compliance mode enabled, was '3.6.0'|
@@ -2305,6 +2303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s3fs|2025.12.0|2026.1.0|lang-python|Compliance mode enabled, was '2026.1.0'|
 |s3transfer|0.5.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |sagemath|10.7|10.8|app-scientific|Compliance mode enabled, was '10.8'|
+|samtools|1.21|1.23|app-scientific|Compliance mode enabled, was '1.23'|
 |sanlock|3.8.5|4.2.0|app-admin|Compliance mode enabled, was '4.2.0'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
 |sbc|2.0|2.1|app-multimedia|Compliance mode enabled, was '2.1'|
@@ -2316,7 +2315,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.8|lang-python|Compliance mode enabled, was '0.7.8'|
 |scikit-build-core|0.11.1|0.11.6|lang-python|Compliance mode enabled, was '0.11.6'|
-|scipy|1.15.3|1.17.0|lang-python|Compliance mode enabled, was '1.17.0'|
 |scmrepo|3.5.9|3.6.1|lang-python|Compliance mode enabled, was '3.6.1'|
 |scons|4.10.0|4.10.1|app-devel|Compliance mode enabled, was '4.10.1'|
 |scour|0.37|0.38.2|app-utils|Compliance mode enabled, was '0.38.2'|
@@ -2643,6 +2641,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscodium|1.107.18605|1.107.18627|app-editors|Compliance mode enabled, was '1.107.18627'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
+|vte|0.82.2|0.82.3|runtime-desktop|Compliance mode enabled, was '0.82.3'|
 |vulkan-extensionlayer|1.4.335.0|1.4.337|runtime-display|Compliance mode enabled, was '1.4.337'|
 |vulkan-headers|1.4.335.0|1.4.338|runtime-display|Compliance mode enabled, was '1.4.338'|
 |vulkan-headers+32|1.4.335.0|1.4.338|runtime-optenv32|Compliance mode enabled, was '1.4.338'|
