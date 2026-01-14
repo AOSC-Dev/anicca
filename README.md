@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768428842?label=Updated)
+![Relative date](https://img.shields.io/date/1768432454?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -452,6 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dua|2.32.2|2.33.0|app-utils|Compliance mode enabled, was '2.33.0'|
 |dub|1.40.0|1.41.0|lang-dlang|Compliance mode enabled, was '1.41.0'|
 |dukpy|0.4.0|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
+|dulwich|0.24.8|0.25.2|app-vcs|Compliance mode enabled, was '0.25.2'|
 |dune|3.20.2|3.21.0|lang-ocaml|Compliance mode enabled, was '3.21.0'|
 |duplicity|3.0.1|3.0.7|app-utils|Compliance mode enabled, was '3.0.7'|
 |dust|1.2.3|1.2.4|app-utils|Compliance mode enabled, was '1.2.4'|
@@ -2060,7 +2061,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-workspace-wallpapers|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasmatube|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|platformdirs|4.3.8|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
 |plocate|1.1.22|1.1.24|app-utils|Compliance mode enabled, was '1.1.24'|
 |pluggy|1.5.0|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
 |plymouth-kcm|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
