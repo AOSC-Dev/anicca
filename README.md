@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768371638?label=Updated)
+![Relative date](https://img.shields.io/date/1768375199?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -599,12 +599,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freerdp|3.17.2|3.20.0|app-network|Compliance mode enabled, was '3.20.0'|
 |freetds|1.00.112|1.5.10|runtime-database|Compliance mode enabled, was '1.5.10'|
 |freetype|2.13.3|2.14.1|runtime-desktop|Compliance mode enabled, was '2.14.1'|
-|freetype+32|2.13.3|2.14.1|runtime-optenv32|Compliance mode enabled, was '2.14.1'|
 |frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
 |fscan|2.0.0|2.0.2|app-utils|Compliance mode enabled, was '2.0.2'|
-|fsspec|2025.12.0|2026.1.0|lang-python|Compliance mode enabled, was '2026.1.0'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-3|3.16.2|3.18.1|app-admin|Compliance mode enabled, was '3.18.1'|
 |fuse-overlayfs|1.13|1.16|app-admin|Compliance mode enabled, was '1.16'|
@@ -756,6 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsettings-desktop-schemas|42.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
 |gsm|1.0.19|1.0.23|runtime-multimedia|Compliance mode enabled, was '1.0.23'|
+|gsm+32|1.0.19|1.0.23|runtime-optenv32|Compliance mode enabled, was '1.0.23'|
 |gsmartcontrol|1.1.3|2.0.2|app-admin|Compliance mode enabled, was '2.0.2'|
 |gsoap|2.8.124|2.8.139|runtime-network|Compliance mode enabled, was '2.8.139'|
 |gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
@@ -975,7 +974,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeconnect|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdecoration|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |kded|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
-|kdeedu-data|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdegraphics-mobipocket|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdegraphics-thumbnailers|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdelibs4support|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -1292,7 +1290,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkcompactdisc|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |libkdcraw|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |libkdegames|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|libkdepim|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |libkeduvocdocument|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |libkexiv2|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |libkgapi|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -2345,7 +2342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-optimist|3.2.0|3.2.1|lang-ruby|Compliance mode enabled, was '3.2.1'|
 |ruby-pg|1.5.9|1.6.3|lang-ruby|Compliance mode enabled, was '1.6.3'|
 |ruby-pkg-config|1.5.8|1.6.5|lang-ruby|Compliance mode enabled, was '1.6.5'|
-|ruby-term-ansicolor|1.11.2|1.11.3|lang-ruby|Compliance mode enabled, was '1.11.3'|
 |rust-bindgen|0.72.0|0.72.1|lang-rust|Compliance mode enabled, was '0.72.1'|
 |rustc+32|1.89.0|1.92.0|runtime-optenv32|Compliance mode enabled, was '1.92.0'|
 |rustc-demangle|0.1.21|0.1.26|runtime-common|Compliance mode enabled, was '0.1.26'|
