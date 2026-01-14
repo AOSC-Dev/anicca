@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768363704?label=Updated)
+![Relative date](https://img.shields.io/date/1768367949?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -134,6 +134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baloo-widgets|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |balz|1.20|.82|app-utils|Compliance mode enabled, was '.82'|
 |bandwhich|0.23.0|0.23.1|app-network|Compliance mode enabled, was '0.23.1'|
+|bash|5.2.37|5.3|app-shells|Compliance mode enabled, was '5.3'|
 |bash-pinyin-completion-rs|1.0.3|1.0.4|app-shells|Compliance mode enabled, was '1.0.4'|
 |bazel|8.5.0|8.5.1|app-devel|Compliance mode enabled, was '8.5.1'|
 |bcftools|1.20|1.23|app-scientific|Compliance mode enabled, was '1.23'|
@@ -259,7 +260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clazy|1.15|1.16|app-devel|Compliance mode enabled, was '1.16'|
 |cli-helpers|1.1.0|2.7.0|lang-python|Compliance mode enabled, was '2.7.0'|
 |cli11|2.5.0|2.6.1|runtime-common|Compliance mode enabled, was '2.6.1'|
-|click|8.1.7|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
+|clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cloc|2.02|2.06|app-utils|Compliance mode enabled, was '2.06'|
 |cloud-init|24.4.1|25.3|app-admin|Compliance mode enabled, was '25.3'|
@@ -407,7 +408,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker|29.1.2|29.1.4|app-containers||
 |docker-buildx|0.22.0|0.30.1|app-containers|Compliance mode enabled, was '0.30.1'|
 |docker-compose|5.0.0|5.0.1|app-containers|Compliance mode enabled, was '5.0.1'|
-|docutils|0.21.2|0.22.4|lang-python|Compliance mode enabled, was '0.22.4'|
 |doggo|1.1.2|1.1.4|app-network|Compliance mode enabled, was '1.1.4'|
 |dolphin|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |dolphin-emu|2509|2512|app-games|Compliance mode enabled, was '2512'|
@@ -1283,6 +1283,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libintl-perl|1.29|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |libipset|1.1.1<br>+git20150311|1.1.1|runtime-network|Compliance mode enabled, was '1.1.1'|
 |libipt|2.1.1|2.2|runtime-devices|Compliance mode enabled, was '2.2'|
+|libiscsi|1.18.0|1.20.3|runtime-network|Compliance mode enabled, was '1.20.3'|
 |libisoburn|1.5.2|1.5.6|runtime-devices|Compliance mode enabled, was '1.5.6'|
 |libjaylink|0.3.1|0.4.0|runtime-devices|Compliance mode enabled, was '0.4.0'|
 |libjcat|0.2.3|0.2.5|runtime-common|Compliance mode enabled, was '0.2.5'|
@@ -1876,6 +1877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-inspector|1.28|1.36|lang-perl|Compliance mode enabled, was '1.36'|
 |perl-class-method-modifiers|2.12|2.15|lang-perl|Compliance mode enabled, was '2.15'|
 |perl-class-methodmaker|2.24|2.25|lang-perl|Compliance mode enabled, was '2.25'|
+|perl-class-singleton|1.5|1.6|lang-perl|Compliance mode enabled, was '1.6'|
 |perl-clone|0.46|0.47|lang-perl|Compliance mode enabled, was '0.47'|
 |perl-common-sense|3.74|3.75|lang-perl|Compliance mode enabled, was '3.75'|
 |perl-config-file|1.50|1.54|lang-perl|Compliance mode enabled, was '1.54'|
@@ -2108,7 +2110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psycopg2|2.9.10|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.5.1|runtime-creativity|Compliance mode enabled, was '2.5.1'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20260111|lang-python|Compliance mode enabled, was '1.0.2.20260111'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20260114|lang-python|Compliance mode enabled, was '1.0.2.20260114'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |purpose|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
