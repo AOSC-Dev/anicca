@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768382588?label=Updated)
+![Relative date](https://img.shields.io/date/1768385799?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -220,6 +220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
 |cdecl|20161129|2.5|app-utils|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (20161129 -> 2.5)|
 |cdrdao|1.2.5|1.2.6|app-multimedia|Compliance mode enabled, was '1.2.6'|
+|cdrkit|1.1.11|1.1.11+5|app-multimedia|Compliance mode enabled, was '1.1.11-5'|
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |certbot|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certbot-apache|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
@@ -756,6 +757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsettings-desktop-schemas|42.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gsl|2.5|2.8|runtime-scientific|Compliance mode enabled, was '2.8'|
 |gsm|1.0.19|1.0.23|runtime-multimedia|Compliance mode enabled, was '1.0.23'|
+|gsm+32|1.0.19|1.0.23|runtime-optenv32|Compliance mode enabled, was '1.0.23'|
 |gsmartcontrol|1.1.3|2.0.2|app-admin|Compliance mode enabled, was '2.0.2'|
 |gsoap|2.8.124|2.8.139|runtime-network|Compliance mode enabled, was '2.8.139'|
 |gsound|1.0.2|1.0.3|desktop-gnome|Compliance mode enabled, was '1.0.3'|
@@ -1700,6 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nodejs-22|22.21.1|22.22.0|lang-js|Compliance mode enabled, was '22.22.0'|
 |noip|2.1.9|3.0.0|app-network|Compliance mode enabled, was '3.0.0'|
 |nokogiri|1.18.10|1.19.0|lang-ruby|Compliance mode enabled, was '1.19.0'|
+|nomino|1.3.1|1.6.4|app-utils|Compliance mode enabled, was '1.6.4'|
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |noto-fonts|2025.12.01|2026.01.01|desktop-fonts||
 |novaclient|18.11.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'<br>Possible downgrade from the current version (18.11.0 -> 18.8.0)|
@@ -2157,6 +2160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparsing|3.2.3|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|6.5.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
+|pypdf2|1.26.0|6.6.0|lang-python|Compliance mode enabled, was '6.6.0'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
 |pyproject-metadata|0.9.1|0.10.0|lang-python|Compliance mode enabled, was '0.10.0'|
@@ -2831,6 +2835,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|7.0|lang-python|Compliance mode enabled, was '7.0'|
 |zope-event|4.3.0|6.1|lang-python|Compliance mode enabled, was '6.1'|
 |zope-interface|7.2|8.2|lang-python|Compliance mode enabled, was '8.2'|
+|zotero|7.0.30|7.0.31|app-productivity|Compliance mode enabled, was '7.0.31'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.23.0|0.25.0|lang-python|Compliance mode enabled, was '0.25.0'|
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
