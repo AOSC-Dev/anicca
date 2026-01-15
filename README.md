@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768457994?label=Updated)
+![Relative date](https://img.shields.io/date/1768461573?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -313,7 +313,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cosmic-idle|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
 |cosmic-initial-setup|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
 |cosmic-launcher|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
-|cosmic-notifications|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
 |cosmic-osd|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
 |cosmic-panel|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
 |cosmic-player|1.0.1|1.0.2|desktop-cosmic|Compliance mode enabled, was '1.0.2'|
@@ -2074,7 +2073,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po4a|0.73|0.74|app-i18n|Compliance mode enabled, was '0.74'|
 |pocketsphinx|5.0.4|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5.0.4 -> 0.8)|
 |poco|1.14.1|1.14.2|runtime-network|Compliance mode enabled, was '1.14.2'|
-|podcastparser|0.6.5|0.6.11|lang-python|Compliance mode enabled, was '0.6.11'|
 |podman|5.7.0|5.7.1|app-containers||
 |podofo|0.10.3|1.0.3|runtime-doc|Compliance mode enabled, was '1.0.3'|
 |poedit|3.4.1|3.8.1-oss|app-i18n|Compliance mode enabled, was '3.8.1-oss'|
