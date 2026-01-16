@@ -17,7 +17,7 @@
 ["iso-codes","4.19.0","4.20.1","runtime-data",1765719579,["Compliance mode enabled, was '4.20.1'"]],
 ["aosc-xdg-menu","20200412","20160217","runtime-data",1587075209,["Compliance mode enabled, was '20160217'","Possible downgrade from the current version (20200412 -> 20160217)"]],
 ["mengshen-pinyin-font","1.03","20250817.032955","desktop-fonts",1706083317,["Compliance mode enabled, was '20250817-032955'"]],
-["chiron-sans-hk","2.046","2.605","desktop-fonts",1706083317,["Compliance mode enabled, was '2.605'"]],
+["chiron-sans-hk","2.046","2.606","desktop-fonts",1706083317,["Compliance mode enabled, was '2.606'"]],
 ["genwan-font","2.000","2.100","desktop-fonts",1722259650,["Compliance mode enabled, was '2.100'"]],
 ["genyo-font","1.501","2.100","desktop-fonts",1596222727,["Compliance mode enabled, was '2.100'"]],
 ["ibm-plex-fonts","6.4.0","6.4.2","desktop-fonts",1715870430,["Compliance mode enabled, was '6.4.2'"]],
