@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768538180?label=Updated)
+![Relative date](https://img.shields.io/date/1768540731?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1610,6 +1610,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|6.0.2|6.2.1|runtime-devices|Compliance mode enabled, was '6.2.1'|
 |micro|2.0.14|2.0.15|app-editors|Compliance mode enabled, was '2.0.15'|
 |microsoft-gsl|3.0.1|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
+|mihomo|1.19.18|1.19.19|app-proxy|Compliance mode enabled, was '1.19.19'|
 |miller|6.15.0|6.16.0|app-utils|Compliance mode enabled, was '6.16.0'|
 |milou|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |mimalloc|2.2.4|3.2.7|runtime-common|Compliance mode enabled, was '3.2.7'|
@@ -1710,6 +1711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |notmuch|0.38.3|0.39|app-web|Compliance mode enabled, was '0.39'|
 |noto-fonts|2025.12.01|2026.01.01|desktop-fonts||
 |novaclient|18.11.0|18.8.0|lang-python|Compliance mode enabled, was '18.8.0'<br>Possible downgrade from the current version (18.11.0 -> 18.8.0)|
+|nsd|4.7.0|4.14.0|app-network|Compliance mode enabled, was '4.14.0'|
 |nspr|4.35|4.38.2|runtime-common|Compliance mode enabled, was '4.38.2'|
 |nspr+32|4.35|4.38.2|runtime-optenv32|Compliance mode enabled, was '4.38.2'|
 |nss|3.119|3.120|runtime-cryptography|Compliance mode enabled, was '3.120'|
@@ -1858,7 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.47|runtime-optenv32|Compliance mode enabled, was '10.47'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
-|pcsx2|1.6.0<br>+git20210825|2.7.42|app-games|Compliance mode enabled, was '2.7.42'|
+|pcsx2|1.6.0<br>+git20210825|2.7.43|app-games|Compliance mode enabled, was '2.7.43'|
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20260107|app-doc|Compliance mode enabled, was '20260107'|
@@ -2050,6 +2052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-mobile|5.27.5|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-nano|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-nm|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
+|plasma-pa|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-pk-updates|0.3.2|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-sdk|5.27.12.1|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-settings|22.06|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
@@ -2574,6 +2577,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thunderbird|146.0.1|147.0|app-web|Compliance mode enabled, was '147.0'|
 |tig|2.5.12|2.6.0|app-utils|Compliance mode enabled, was '2.6.0'|
 |tiledb|2.28.0|2.30.0|runtime-database|Compliance mode enabled, was '2.30.0'|
+|tilp|1.17|1.18|app-devices|Compliance mode enabled, was '1.18'|
 |timeshift|24.06.6|25.12.4|app-utils|Compliance mode enabled, was '25.12.4'|
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
@@ -2699,14 +2703,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |voluptuous|0.15.2|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |vorbis-tools|1.4.0|1.4.3|app-multimedia|Compliance mode enabled, was '1.4.3'|
+|vpl-gpu-rt|25.4.6|26.1.0|runtime-multimedia|Compliance mode enabled, was '26.1.0'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscodium|1.107.18605|1.108.10359|app-editors|Compliance mode enabled, was '1.108.10359'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.82.2|0.82.3|runtime-desktop|Compliance mode enabled, was '0.82.3'|
 |vulkan-extensionlayer|1.4.335.0|1.4.338|runtime-display|Compliance mode enabled, was '1.4.338'|
-|vulkan-headers|1.4.335.0|1.4.338|runtime-display|Compliance mode enabled, was '1.4.338'|
-|vulkan-headers+32|1.4.335.0|1.4.338|runtime-optenv32|Compliance mode enabled, was '1.4.338'|
+|vulkan-headers|1.4.335.0|1.4.339|runtime-display|Compliance mode enabled, was '1.4.339'|
+|vulkan-headers+32|1.4.335.0|1.4.339|runtime-optenv32|Compliance mode enabled, was '1.4.339'|
 |vulkan-loader|1.4.335.0|1.4.338|runtime-display|Compliance mode enabled, was '1.4.338'|
 |vulkan-loader+32|1.4.335.0|1.4.338|runtime-optenv32|Compliance mode enabled, was '1.4.338'|
 |vulkan-tools|1.4.335.0|1.4.338|app-utils|Compliance mode enabled, was '1.4.338'|
