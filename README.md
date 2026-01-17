@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768637853?label=Updated)
+![Relative date](https://img.shields.io/date/1768641277?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -276,7 +276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|353|354|app-admin|Compliance mode enabled, was '354'|
 |cockpit-machines|344|346|app-admin|Compliance mode enabled, was '346'|
 |cockpit-podman|117|119.1|app-admin|Compliance mode enabled, was '119.1'|
-|code-server|4.107.0|4.108.0|app-utils|Compliance mode enabled, was '4.108.0'|
+|code-server|4.107.0|4.108.1|app-utils|Compliance mode enabled, was '4.108.1'|
 |coin|4.0.0<br>+git20220828|4.0.6|runtime-imaging|Compliance mode enabled, was '4.0.6'|
 |coinutils|2.11.4|2.11.12|app-scientific|Compliance mode enabled, was '2.11.12'|
 |colcon-core|0.20.0|0.20.1|app-devel|Compliance mode enabled, was '0.20.1'|
@@ -559,6 +559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firejail|0.9.76|0.9.78|app-admin|Compliance mode enabled, was '0.9.78'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
 |fish|4.2.1|4.3.3|app-shells|Compliance mode enabled, was '4.3.3'|
+|fisher|4.4.5|4.4.6|app-shells|Compliance mode enabled, was '4.4.6'|
 |five-or-more|3.32.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |fizz|2025.09.01.00|2026.01.12.00|app-network|Compliance mode enabled, was '2026.01.12.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
@@ -582,7 +583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
 |fonttools|4.53.1|4.61.1|desktop-fonts|Compliance mode enabled, was '4.61.1'|
 |foolscap|0.13.2|24.9.0|lang-python|Compliance mode enabled, was '24.9.0'|
-|forgejo|11.0.0|14.0.0|app-web|Compliance mode enabled, was '14.0.0'|
+|forgejo|11.0.0|14.0.1|app-web|Compliance mode enabled, was '14.0.1'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fping|5.1|5.5|app-network|Compliance mode enabled, was '5.5'|
 |fplll|5.4.5|5.5.0|runtime-scientific|Compliance mode enabled, was '5.5.0'|
@@ -846,7 +847,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |identify|2.6.12|2.6.16|lang-python|Compliance mode enabled, was '2.6.16'|
 |idna|3.10|3.11|lang-python|Compliance mode enabled, was '3.11'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
-|ignition|2.20.0|2.25.1|app-admin|Compliance mode enabled, was '2.25.1'|
 |igsc|1.0.0|1.0.2|runtime-devices|Compliance mode enabled, was '1.0.2'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
 |imagemagick+7|7.1.1<br>+32|7.1.2+12|app-utils|Compliance mode enabled, was '7.1.2-12'|
@@ -2256,6 +2256,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |radare2|6.0.7|6.0.8|app-devel|Compliance mode enabled, was '6.0.8'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
+|ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
 |rapidfuzz-cpp|2.0.0|3.3.3|runtime-common|Compliance mode enabled, was '3.3.3'|
 |rav1e|0.7.1|0.8.1|runtime-multimedia|Compliance mode enabled, was '0.8.1'|
 |razor-agents|2.85|2.152|app-network|Compliance mode enabled, was '2.152'|
@@ -2817,7 +2818,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yamlloader|1.5.2|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
 |yara|4.5.3|4.5.5|app-utils|Compliance mode enabled, was '4.5.5'|
 |yard|0.9.37|0.9.38|app-doc|Compliance mode enabled, was '0.9.38'|
-|yazi|25.5.31|26.1.4|app-utils|Compliance mode enabled, was '26.1.4'|
 |ydcv-rs|0.7.0|0.7.1|app-i18n|Compliance mode enabled, was '0.7.1'|
 |yelp|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |yelp-xsl|42.1|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
