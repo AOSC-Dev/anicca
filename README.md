@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768724234?label=Updated)
+![Relative date](https://img.shields.io/date/1768727655?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -455,7 +455,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dvc-s3|3.2.2|3.3.0|app-vcs|Compliance mode enabled, was '3.3.0'|
 |e2fsprogs|1.47.2|1.47.3|app-admin|Compliance mode enabled, was '1.47.3'|
 |easy-rsa|3.2.4|3.2.5|app-cryptography|Compliance mode enabled, was '3.2.5'|
-|easyeffects|7.2.5|8.1.0|app-multimedia|Compliance mode enabled, was '8.1.0'|
 |easytier|2.4.5|2.5.0|app-network|Compliance mode enabled, was '2.5.0'|
 |edencommon|2025.09.01.00|2026.01.12.00|runtime-common|Compliance mode enabled, was '2026.01.12.00'|
 |edit|1.2.0|1.2.1|app-editors|Compliance mode enabled, was '1.2.1'|
@@ -1342,6 +1341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnvme|1.16|1.16.1|runtime-devices|Compliance mode enabled, was '1.16.1'|
 |libofono-qt|0.54<br>+git20190116|1.30|runtime-network|Compliance mode enabled, was '1.30'|
 |libogg|1.3.4|1.3.6|runtime-multimedia|Compliance mode enabled, was '1.3.6'|
+|libogg+32|1.3.4|1.3.6|runtime-optenv32|Compliance mode enabled, was '1.3.6'|
 |liboggz|1.1.1|1.1.3|runtime-multimedia|Compliance mode enabled, was '1.1.3'|
 |libopenraw|0.1.3|0.3.7|runtime-imaging|Compliance mode enabled, was '0.3.7'|
 |libopusenc|0.2.1|0.3|runtime-multimedia|Compliance mode enabled, was '0.3'|
@@ -2141,6 +2141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|3.2.2|3.3.0|lang-python|Compliance mode enabled, was '3.3.0'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygit2|1.18.1|1.19.1|lang-python|Compliance mode enabled, was '1.19.1'|
+|pyglet|1.3.2|2.1.12|lang-python|Compliance mode enabled, was '2.1.12'|
 |pygments|2.19.1|2.19.2|lang-python|Compliance mode enabled, was '2.19.2'|
 |pygobject-3|3.54.3|3.54.5|lang-python|Compliance mode enabled, was '3.54.5'|
 |pygtrie|2.5.0|0.9.1|lang-python|Compliance mode enabled, was '0.9.1'<br>Possible downgrade from the current version (2.5.0 -> 0.9.1)|
@@ -2515,7 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suil|0.10.20|0.10.22|runtime-multimedia|Compliance mode enabled, was '0.10.22'|
 |suitesparse|7.6.1|7.12.1|runtime-scientific|Compliance mode enabled, was '7.12.1'|
 |sunpinyin|3.0.0~rc2|2.0.3-rel-1|app-i18n|Compliance mode enabled, was '2.0.3-rel-1'<br>Possible downgrade from the current version (3.0.0~rc2 -> 2.0.3-rel-1)|
-|sunshine|2025.924.154138|2026.117.142916|app-multimedia|Compliance mode enabled, was '2026.117.142916'|
+|sunshine|2025.924.154138|2026.118.33530|app-multimedia|Compliance mode enabled, was '2026.118.33530'|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|app-devel|Compliance mode enabled, was '1.4.2'|
 |supercollider|3.13.0|3.14.1|app-creativity|Compliance mode enabled, was '3.14.1'|
 |sushi|42.0|46.0|desktop-gnome|Compliance mode enabled, was '46.0'|
@@ -2706,6 +2707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscode|1.108.0|1.108.1|app-editors|Compliance mode enabled, was '1.108.1'|
+|vscodium|1.107.18605|1.108.10359|app-editors|Compliance mode enabled, was '1.108.10359'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.82.2|0.82.3|runtime-desktop|Compliance mode enabled, was '0.82.3'|
 |vulkan-extensionlayer|1.4.335.0|1.4.339|runtime-display|Compliance mode enabled, was '1.4.339'|
