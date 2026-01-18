@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768760192?label=Updated)
+![Relative date](https://img.shields.io/date/1768763073?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -529,7 +529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcron|3.4.0|3.3.0|app-admin|Compliance mode enabled, was '3.3.0'<br>Possible downgrade from the current version (3.4.0 -> 3.3.0)|
 |feedbackd|0.8.4|0.8.8|desktop-gnome|Compliance mode enabled, was '0.8.8'|
 |feedparser|6.0.8|6.0.12|lang-python|Compliance mode enabled, was '6.0.12'|
-|feeluown|4.1.15|5.0~a0|app-multimedia|Compliance mode enabled, was '5.0a0'|
+|feeluown|4.1.15|5.0~a1|app-multimedia|Compliance mode enabled, was '5.0a1'|
 |feeluown-bilibili|0.5.1|0.5.3|app-multimedia|Compliance mode enabled, was '0.5.3'|
 |feeluown-netease|1.0.4|1.0.6|app-multimedia|Compliance mode enabled, was '1.0.6'|
 |feeluown-qqmusic|1.0.11|1.0.15|app-multimedia|Compliance mode enabled, was '1.0.15'|
@@ -2516,7 +2516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swell-foop|41.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |swiftclient|4.6.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
 |symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
-|sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |syndication|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |synfig|1.5.3|1.5.4|app-creativity|Compliance mode enabled, was '1.5.4'|
 |syntax-highlighting|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
