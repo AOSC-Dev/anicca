@@ -263,7 +263,7 @@
 ["gnu-efi","3.0.18","4.0.4","app-devel",1736994611,["Compliance mode enabled, was '4.0.4'"]],
 ["geany","2.1","2.1.0","app-devel",1754981165,["Compliance mode enabled, was '2.1.0'"]],
 ["uncrustify","0.81.0","0.82.0","app-devel",1761059498,["Compliance mode enabled, was '0.82.0'"]],
-["bear","3.1.6","4.0.1","app-devel",1748140522,["Compliance mode enabled, was '4.0.1'"]],
+["bear","3.1.6","4.0.2","app-devel",1748140522,["Compliance mode enabled, was '4.0.2'"]],
 ["avr-libc","2.0.0","2_3_0-release","app-devel",1634066043,["Compliance mode enabled, was '2_3_0-release'"]],
 ["llvm-20","20.1.8","21.1.8","app-devel",1754315942,["Compliance mode enabled, was '21.1.8'"]],
 ["netsurf-buildsystem","1.9","1.10","app-devel",1591894752,["Compliance mode enabled, was '1.10'"]],
