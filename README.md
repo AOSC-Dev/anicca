@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768796130?label=Updated)
+![Relative date](https://img.shields.io/date/1768800387?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -530,7 +530,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.5.1|0.5.3|app-multimedia|Compliance mode enabled, was '0.5.3'|
 |feeluown-netease|1.0.4|1.0.6|app-multimedia|Compliance mode enabled, was '1.0.6'|
 |feeluown-qqmusic|1.0.11|1.0.15|app-multimedia|Compliance mode enabled, was '1.0.15'|
-|feishin|0.22.0|1.2.0|app-multimedia|Compliance mode enabled, was '1.2.0'|
+|feishin|0.22.0|1.3.0|app-multimedia|Compliance mode enabled, was '1.3.0'|
 |fend|1.5.6|1.5.7|app-utils|Compliance mode enabled, was '1.5.7'|
 |fennel|1.5.3|1.6.1|lang-lua|Compliance mode enabled, was '1.6.1'|
 |fennel-ls|0.2.1|0.2.3|lang-lua|Compliance mode enabled, was '0.2.3'|
@@ -1095,7 +1095,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kosmindoormap|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kpackage|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kparts|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
-|kpat|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kpeople|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kpimtextedit|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kpipewire|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
@@ -2387,6 +2386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |showmethekey|1.18.4|1.19.0|app-utils|Compliance mode enabled, was '1.19.0'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
+|signon-kwallet-extension|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |signon-ui|0.17<br>+17.10.20170606|0.15|runtime-desktop|Compliance mode enabled, was '0.15'<br>Possible downgrade from the current version (0.17+17.10.20170606 -> 0.15)|
 |sil-gentium|6.200|7.000|desktop-fonts|Compliance mode enabled, was '7.000'|
 |simde|0.8.4~rc1|0.8.2|runtime-common|Compliance mode enabled, was '0.8.2'<br>Possible downgrade from the current version (0.8.4~rc1 -> 0.8.2)|
