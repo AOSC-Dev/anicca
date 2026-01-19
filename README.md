@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768830047?label=Updated)
+![Relative date](https://img.shields.io/date/1768832376?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -808,6 +808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwloc|2.10.0|2.12.2|app-admin|Compliance mode enabled, was '2.12.2'|
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
+|hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hypothesis-python|6.97.4|6.150.2|lang-python|Compliance mode enabled, was '6.150.2'|
 |hysteria|2.6.3|2.7.0|app-proxy|Compliance mode enabled, was '2.7.0'|
@@ -1893,7 +1894,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|lang-perl|Compliance mode enabled, was '1.45'|
 |perl-exporter-tiny|1.006002|1.006003|lang-perl|Compliance mode enabled, was '1.006003'|
 |perl-extutils-config|0.008|0.010|lang-perl|Compliance mode enabled, was '0.010'|
-|perl-extutils-depends|0.405|0.8002|lang-perl|Compliance mode enabled, was '0.8002'|
 |perl-extutils-helpers|0.026|0.028|lang-perl|Compliance mode enabled, was '0.028'|
 |perl-extutils-installpaths|0.012|0.015|lang-perl|Compliance mode enabled, was '0.015'|
 |perl-extutils-libbuilder|0.08|0.09|lang-perl|Compliance mode enabled, was '0.09'|
@@ -2123,7 +2123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyhamcrest|2.0.3|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |pyicu|2.13.1|2.16|lang-python|Compliance mode enabled, was '2.16'|
 |pyjwt|2.3.0|2.10.1|lang-python|Compliance mode enabled, was '2.10.1'|
-|pylast|3.0.0|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
+|pylast|3.0.0|7.0.2|lang-python|Compliance mode enabled, was '7.0.2'|
 |pylibacl|0.7.2|0.7.3|lang-python|Compliance mode enabled, was '0.7.3'|
 |pylsqpack|0.3.18|0.3.23|lang-python|Compliance mode enabled, was '0.3.23'|
 |pymarkups|3.0.0|4.1.1|lang-python|Compliance mode enabled, was '4.1.1'|
