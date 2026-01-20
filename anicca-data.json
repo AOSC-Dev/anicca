@@ -463,6 +463,7 @@
 ["fcitx5-gtk","5.1.4","5.1.5","app-i18n",1753091727,["Compliance mode enabled, was '5.1.5'"]],
 ["poedit","3.4.1","3.8.1-oss","app-i18n",1721223235,["Compliance mode enabled, was '3.8.1-oss'"]],
 ["ibus-rime","1.5.1","1.6.0","app-i18n",1764939335,["Compliance mode enabled, was '1.6.0'"]],
+["fcitx5-qt","5.1.11","5.1.12","app-i18n",1763630568,["Compliance mode enabled, was '5.1.12'"]],
 ["fcitx5-configtool","5.1.10","5.1.12","app-i18n",1753091727,["Compliance mode enabled, was '5.1.12'"]],
 ["enchant","1-6-1","1.6.0","app-i18n",1749130117,["Possible downgrade from the current version (1-6-1 -> 1.6.0)"]],
 ["fcitx5-theme-fluent","0.4+git20250107","0.3.0","app-i18n",1753017987,["Compliance mode enabled, was '0.3.0'","Possible downgrade from the current version (0.4+git20250107 -> 0.3.0)"]],
