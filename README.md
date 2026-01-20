@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768907872?label=Updated)
+![Relative date](https://img.shields.io/date/1768911891?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1673,9 +1673,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|58|59|app-devices|Compliance mode enabled, was '59'|
 |nftables|1.0.9|1.1.6|app-network|Compliance mode enabled, was '1.1.6'|
 |nghttp2|1.65.0|1.68.0|runtime-web|Compliance mode enabled, was '1.68.0'|
+|nghttp3|1.14.0|1.15.0|runtime-web|Compliance mode enabled, was '1.15.0'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.29.4|app-web|Compliance mode enabled, was '1.29.4'|
 |ngspice|35|45.2|app-electronics|Compliance mode enabled, was '45.2'|
-|ngtcp2|1.5.0|1.19.0|runtime-web|Compliance mode enabled, was '1.19.0'|
+|ngtcp2|1.5.0|1.20.0|runtime-web|Compliance mode enabled, was '1.20.0'|
 |nheko|0.12.1|0.12.1+1|app-web|Compliance mode enabled, was '0.12.1-1'|
 |nng|1.10.1|1.11|runtime-network|Compliance mode enabled, was '1.11'|
 |nnn|5.0|5.1|app-utils|Compliance mode enabled, was '5.1'|
@@ -2692,7 +2693,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.4.335.0|1.4.339|runtime-display|Compliance mode enabled, was '1.4.339'|
 |waffle|1.8.0|1.8.1|runtime-common|Compliance mode enabled, was '1.8.1'|
 |wangle|2025.09.01.00|2026.01.19.00|runtime-network|Compliance mode enabled, was '2026.01.19.00'|
-|warehouse|2.1.0|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
 |warpinator|1.6.3|2.0.3|desktop-cinnamon|Compliance mode enabled, was '2.0.3'|
 |warzone2100|4.5.5|4.6.2|app-games||
 |watchman|2025.09.01.00|2026.01.19.00|app-utils|Compliance mode enabled, was '2026.01.19.00'|
@@ -2805,6 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zanshin|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
+|zed|0.219.4|0.219.5|app-editors|Compliance mode enabled, was '0.219.5'|
 |zeitgeist|1.0.4<br>+git20230111|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |zeroconf|0.28.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
