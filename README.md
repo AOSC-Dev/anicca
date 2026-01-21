@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1768990720?label=Updated)
+![Relative date](https://img.shields.io/date/1768994284?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -342,6 +342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups|2.4.14|2.4.16|app-admin|Compliance mode enabled, was '2.4.16'|
 |cups+32|2.4.14|2.4.16|runtime-optenv32|Compliance mode enabled, was '2.4.16'|
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
+|cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
 |curl|8.17.0|8.18.0|app-web|Compliance mode enabled, was '8.18.0'|
 |curl+32|8.17.0|8.18.0|runtime-optenv32|Compliance mode enabled, was '8.18.0'|
@@ -967,6 +968,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdeconnect|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdecoration|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |kded|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
+|kdeedu-data|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdegraphics-mobipocket|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdegraphics-thumbnailers|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kdelibs4support|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -1344,7 +1346,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.4|1.10.6|runtime-optenv32|Compliance mode enabled, was '1.10.6'|
 |libpeas|1.36.0|2.2.0|desktop-gnome|Compliance mode enabled, was '2.2.0'|
 |libphonenumber|8.13.38|9.0.22|runtime-i18n|Compliance mode enabled, was '9.0.22'|
-|libpinyin|2.10.2|2.11.91|runtime-i18n|Compliance mode enabled, was '2.11.91'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libpng|1.6.44|1.6.54|runtime-imaging|Compliance mode enabled, was '1.6.54'|
 |libpng+32|1.6.44|1.6.54|runtime-optenv32|Compliance mode enabled, was '1.6.54'|
@@ -2014,6 +2015,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |pipewire|1.4.9|1.4.10|app-multimedia|Compliance mode enabled, was '1.4.10'|
 |pixi|0.59.0|0.63.2|app-devel|Compliance mode enabled, was '0.63.2'|
+|pkcs11-helper|1.30.0|1.31.0|runtime-cryptography|Compliance mode enabled, was '1.31.0'|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |plasma-browser-integration|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
@@ -2039,6 +2041,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasmatube|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |platformdirs|4.3.8|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
 |plocate|1.1.22|1.1.24|app-utils|Compliance mode enabled, was '1.1.24'|
+|pluggy|1.5.0|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
 |plymouth-kcm|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plzip|1.11|1.12|app-utils|Compliance mode enabled, was '1.12'|
 |pmac-utils|1.1.3|1.1.3.orig|app-admin|Compliance mode enabled, was '1.1.3.orig'<br>Possible downgrade from the current version (1.1.3 -> 1.1.3.orig)|
@@ -2372,7 +2375,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.2|0.32.6|runtime-common|Compliance mode enabled, was '0.32.6'|
 |setroot|2.0.2|2.0.4|desktop-wm|Compliance mode enabled, was '2.0.4'|
 |setuptools-gettext|0.1.14|0.1.16|lang-python|Compliance mode enabled, was '0.1.16'|
-|setuptools-python2|44.1.0|80.9.0|lang-python|Compliance mode enabled, was '80.9.0'|
+|setuptools-python2|44.1.0|80.10.1|lang-python|Compliance mode enabled, was '80.10.1'|
+|setuptools-python3|80.9.0|80.10.1|lang-python|Compliance mode enabled, was '80.10.1'|
 |setuptools-rust|1.9.0|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
 |setuptools-scm|9.2.1|9.2.2|lang-python|Compliance mode enabled, was '9.2.2'|
 |sfml|2.5.1|3.0.2|runtime-multimedia|Compliance mode enabled, was '3.0.2'|
