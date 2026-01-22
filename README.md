@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769055007?label=Updated)
+![Relative date](https://img.shields.io/date/1769059417?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -599,7 +599,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
 |fuse-3|3.16.2|3.18.1|app-admin|Compliance mode enabled, was '3.18.1'|
 |fuse-overlayfs|1.13|1.16|app-admin|Compliance mode enabled, was '1.16'|
-|fzf|0.66.0|0.67.0|app-utils|Compliance mode enabled, was '0.67.0'|
 |game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
 |game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
 |gamescope|3.16.18|3.16.19|desktop-wm|Compliance mode enabled, was '3.16.19'|
@@ -888,6 +887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jaraco.context|6.0.1|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |jaraco.functools|4.2.1|4.4.0|lang-python|Compliance mode enabled, was '4.4.0'|
 |jasper|2.0.21|4.2.8|runtime-imaging|Compliance mode enabled, was '4.2.8'|
+|jdcal|1.4|1.4.1|lang-python|Compliance mode enabled, was '1.4.1'|
 |jedi|0.18.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |jeepney|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
 |jellyfish|1.1.1|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
@@ -1451,7 +1451,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxmlb|0.3.22|0.3.24|runtime-common|Compliance mode enabled, was '0.3.24'|
 |libxslt|1.1.43|1.1.45|runtime-common|Compliance mode enabled, was '1.1.45'|
 |libxslt+32|1.1.43|1.1.45|runtime-optenv32|Compliance mode enabled, was '1.1.45'|
-|libzip|1.11.3|1.11.4|runtime-common|Compliance mode enabled, was '1.11.4'|
 |liferea|1.14.6|1.16.7|app-web|Compliance mode enabled, was '1.16.7'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
@@ -2030,7 +2029,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-nano|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-nm|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-pa|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
-|plasma-pk-updates|0.3.2|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-sdk|5.27.12.1|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-settings|22.06|25.12.0|desktop-kde|Compliance mode enabled, was '25.12.0'|
 |plasma-systemmonitor|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
