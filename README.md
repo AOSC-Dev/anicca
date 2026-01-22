@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769080745?label=Updated)
+![Relative date](https://img.shields.io/date/1769084688?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -101,6 +101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |at-spi2-core+32|2.58.2|2.58.3|runtime-optenv32|Compliance mode enabled, was '2.58.3'|
 |atkmm|2.28.0|2.36.3|desktop-gnome|Compliance mode enabled, was '2.36.3'|
 |atomicparsley|0.9.6|20240608.083822.1ed9031|app-multimedia|Compliance mode enabled, was '20240608.083822.1ed9031'|
+|atomix|3.34.0|44.0|desktop-gnome|Compliance mode enabled, was '44.0'|
 |atop|2.12.0|2.12.1|app-utils|Compliance mode enabled, was '2.12.1'|
 |atril|1.28.1|1.28.3|desktop-mate|Compliance mode enabled, was '1.28.3'|
 |attica5|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -1072,7 +1073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmousetool|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kmouth|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kmplot|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|kmscon|9.0.0|9.2.1|app-utils|Compliance mode enabled, was '9.2.1'|
+|kmscon|9.0.0|9.3.0|app-utils|Compliance mode enabled, was '9.3.0'|
 |knavalbattle|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |knetwalk|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |knewstuff|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -2421,7 +2422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |socat|1.8.0.3|1.8.1.0|app-network|Compliance mode enabled, was '1.8.1.0'|
 |soci|4.0.1|4.1.2|runtime-database|Compliance mode enabled, was '4.1.2'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
-|sof-firmware|2025.05.1|2025.12|runtime-kernel|Compliance mode enabled, was '2025.12'|
+|sof-firmware|2025.05.1|2025.12.1|runtime-kernel|Compliance mode enabled, was '2025.12.1'|
 |sof-tools|2.13.1|2.14.2|app-multimedia|Compliance mode enabled, was '2.14.2'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
 |solaar|1.1.16|1.1.19|app-utils|Compliance mode enabled, was '1.1.19'|
