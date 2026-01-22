@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769074047?label=Updated)
+![Relative date](https://img.shields.io/date/1769077163?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -844,6 +844,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.10|3.11|lang-python|Compliance mode enabled, was '3.11'|
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |ignition|2.20.0|2.25.1|app-admin|Compliance mode enabled, was '2.25.1'|
+|igsc|1.0.0|1.0.2|runtime-devices|Compliance mode enabled, was '1.0.2'|
 |iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
 |imagemagick|6.9.13-37|6.9.13-38|app-utils||
 |imagemagick+7|7.1.1<br>+32|7.1.2+13|app-utils|Compliance mode enabled, was '7.1.2-13'|
@@ -1315,6 +1316,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmikmod|3.3.11.1|3.3.13|runtime-multimedia|Compliance mode enabled, was '3.3.13'|
 |libmikmod+32|3.3.11.1|3.3.13|runtime-optenv32|Compliance mode enabled, was '3.3.13'|
 |libmirage|3.2.7|3.2.10|runtime-multimedia|Compliance mode enabled, was '3.2.10'|
+|libmodplug+32|0.8.8.5|0.8.9.0|runtime-optenv32|Compliance mode enabled, was '0.8.9.0'|
 |libmpcdec|0.1~r495|0.1r495|runtime-multimedia|Compliance mode enabled, was '0.1~r495'|
 |libmspack|0.10.1alpha|0.11.0|runtime-common|Compliance mode enabled, was '0.11.0'|
 |libmsym|0.2.3|0.2.4.2|runtime-scientific|Compliance mode enabled, was '0.2.4.2'|
@@ -1719,7 +1721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-re|1.11.0|1.14.0|lang-ocaml|Compliance mode enabled, was '1.14.0'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
 |ocamlbuild|0.14.1|0.16.1|lang-ocaml|Compliance mode enabled, was '0.16.1'|
-|ocrmypdf|16.5.0|16.13.0|app-doc|Compliance mode enabled, was '16.13.0'|
+|ocrmypdf|16.5.0|17.0.0~b1|app-doc|Compliance mode enabled, was '17.0.0b1'|
 |ocserv|1.3.0|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |ofono|1.30|2.19|app-network|Compliance mode enabled, was '2.19'|
 |ogre|14.4.1|14.5.1|runtime-imaging|Compliance mode enabled, was '14.5.1'|
@@ -1957,7 +1959,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-dbus|1.1.0|1.2.0|lang-perl|Compliance mode enabled, was '1.2.0'|
 |perl-net-dns|1.19<br>+02|1.54|lang-perl|Compliance mode enabled, was '1.54'|
 |perl-net-http|6.18|6.24|lang-perl|Compliance mode enabled, was '6.24'|
-|perl-net-server|2.009|2.014|lang-perl|Compliance mode enabled, was '2.014'|
+|perl-net-server|2.009|2.015|lang-perl|Compliance mode enabled, was '2.015'|
 |perl-net-ssleay|1.85|1.94|lang-perl|Compliance mode enabled, was '1.94'|
 |perl-package-stash|0.38|0.40|lang-perl|Compliance mode enabled, was '0.40'|
 |perl-package-stash-xs|0.29|0.30|lang-perl|Compliance mode enabled, was '0.30'|
