@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769102629?label=Updated)
+![Relative date](https://img.shields.io/date/1769106040?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -672,7 +672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmpy2|2.2.1|2.2.2|lang-python|Compliance mode enabled, was '2.2.2'|
 |gmsynth.lv2|0.6.0|0.1.0|app-multimedia|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.6.0 -> 0.1.0)|
 |gnome-applets|3.44.0|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
-|gnome-autoar|0.4.3|0.4.5|desktop-gnome|Compliance mode enabled, was '0.4.5'|
 |gnome-backgrounds|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-bluetooth|42.2|47.1|desktop-gnome|Compliance mode enabled, was '47.1'|
 |gnome-calculator|42.2|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
@@ -1546,6 +1545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |maim|5.5.3|5.8.1|app-utils|Compliance mode enabled, was '5.8.1'|
 |marble|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|marco|1.28.1|1.29.1|desktop-mate|Compliance mode enabled, was '1.29.1'|
 |mariadb|12.1.2|12.2.1|app-database|Compliance mode enabled, was '12.2.1'|
 |marisa|0.2.7|0.3.1|runtime-common|Compliance mode enabled, was '0.3.1'|
 |markdown|3.8|3.10.1|lang-python|Compliance mode enabled, was '3.10.1'|
