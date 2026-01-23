@@ -486,7 +486,6 @@
 ["rime-ice","2025.04.06","2025.12.08","app-i18n",1748450949,["Compliance mode enabled, was '2025.12.08'"]],
 ["fcitx5-pinyin-zhwiki","0.2.5","0.3.0","app-i18n",1749975445,[]],
 ["fcitx5-skk","5.1.8","5.1.9","app-i18n",1766114921,["Compliance mode enabled, was '5.1.9'"]],
-["ibus-sunpinyin","3.0.0~rc1","2.0.3-rel-1","app-i18n",1622782977,["Compliance mode enabled, was '2.0.3-rel-1'","Possible downgrade from the current version (3.0.0~rc1 -> 2.0.3-rel-1)"]],
 ["po4a","0.73","0.74","app-i18n",1730806335,["Compliance mode enabled, was '0.74'"]],
 ["ibus-m17n","1.4.7","1.4.37","app-i18n",1633153814,["Compliance mode enabled, was '1.4.37'"]],
 ["libc+wasi","22","29","runtime-wasi",1721811147,["Compliance mode enabled, was '29'"]],
