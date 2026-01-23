@@ -1,11 +1,12 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769206384?label=Updated)
+![Relative date](https://img.shields.io/date/1769210062?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
 |86box|5.2|5.3|app-emulation|Compliance mode enabled, was '5.3'|
+|a2ps|4.15.7|4.15.8|app-doc|Compliance mode enabled, was '4.15.8'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -1570,9 +1571,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |merge3|0.0.15|0.0.16|lang-python|Compliance mode enabled, was '0.0.16'|
 |mergiraf|0.16.1|mergiraf 0.16.1|app-devel|Compliance mode enabled, was 'Mergiraf 0.16.1'<br>Possible downgrade from the current version (0.16.1 -> mergiraf 0.16.1)|
 |merkuro|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|mesa|25.3.2|25.3.3|runtime-display||
-|mesa+32|25.3.2|25.3.3|runtime-optenv32||
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.3|runtime-display|Compliance mode enabled, was '25.3.3'|
+|mesa|25.3.2|25.3.4|runtime-display||
+|mesa+32|25.3.2|25.3.4|runtime-optenv32||
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.4|runtime-display|Compliance mode enabled, was '25.3.4'|
 |mesen|0.9.9|2.1.1|app-games|Compliance mode enabled, was '2.1.1'|
 |meson|1.10.0|1.10.1|app-devel|Compliance mode enabled, was '1.10.1'|
 |meson-python|0.17.1|0.19.0|lang-python|Compliance mode enabled, was '0.19.0'|
@@ -2072,6 +2073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.4|app-shells|Compliance mode enabled, was '7.5.4'|
 |poxml|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|praat|6.4.55|6.4.56|app-scientific|Compliance mode enabled, was '6.4.56'|
 |pre-commit|4.2.0|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
 |precis-i18n|1.0.3|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
@@ -2557,7 +2559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |timezonemap|0.4.6|0.4.5.3|desktop-cinnamon|Compliance mode enabled, was '0.4.5.3'<br>Possible downgrade from the current version (0.4.6 -> 0.4.5.3)|
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
 |tinycss2|1.0.2|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
-|tinymist|0.14.4|0.14.8|app-doc|Compliance mode enabled, was '0.14.8'|
+|tinymist|0.14.4|0.14.10|app-doc|Compliance mode enabled, was '0.14.10'|
 |tinyply|2.3.4|3.0|runtime-display|Compliance mode enabled, was '3.0'|
 |tinyproxy|1.11.1|1.11.2|app-proxy|Compliance mode enabled, was '1.11.2'|
 |tk|8.6.10|9.0.3|lang-tcl|Compliance mode enabled, was '9.0.3'|
@@ -2617,7 +2619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typing-extensions|4.12.2|4.15.0|lang-python|Compliance mode enabled, was '4.15.0'|
 |typos|1.42.0|1.42.1|app-utils|Compliance mode enabled, was '1.42.1'|
 |tzdata|2025b|2025c|runtime-data|Compliance mode enabled, was '2025c'|
-|uboot-asahi|2025.07-1|2025.10-1|runtime-kernel||
+|uboot-asahi|2025.07-1|2025.10-2|runtime-kernel||
 |uboot-tools|2025.10|2026.01|app-utils|Compliance mode enabled, was '2026.01'|
 |ucx|1.15.0|1.19.1|runtime-scientific|Compliance mode enabled, was '1.19.1'|
 |udiskie|2.5.8|2.6.1|app-utils|Compliance mode enabled, was '2.6.1'|
@@ -2702,7 +2704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |wayland-utils|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
-|wcwidth|0.2.14|0.3.1|lang-python|Compliance mode enabled, was '0.3.1'|
+|wcwidth|0.2.14|0.3.2|lang-python|Compliance mode enabled, was '0.3.2'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webkit2gtk|2.50.3|2.50.4|runtime-web|Compliance mode enabled, was '2.50.4'|
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
@@ -2726,6 +2728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wrapt|1.11.2|2.0.1|lang-python|Compliance mode enabled, was '2.0.1'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
 |wsproto|1.2.0|1.3.2|lang-python|Compliance mode enabled, was '1.3.2'|
+|wxmaxima|24.11.0|26.01.0|app-scientific|Compliance mode enabled, was '26.01.0'|
 |wxpython|4.2.3|4.2.4|lang-python|Compliance mode enabled, was '4.2.4'|
 |wxwidgets|3.2.8|3.3.1|runtime-desktop|Compliance mode enabled, was '3.3.1'|
 |x11-proto|2024.1|2025.1|runtime-display|Compliance mode enabled, was '2025.1'|
