@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769238869?label=Updated)
+![Relative date](https://img.shields.io/date/1769242628?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -46,7 +46,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-import-wizard|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |akonadi-mime|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |akonadi-notes|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|akonadi-search|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |akonadiconsole|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |akregator|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |alacarte|3.54.0|3.58.0|desktop-gnome|Compliance mode enabled, was '3.58.0'|
@@ -711,6 +710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |granatier|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |grantlee-editor|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |grantleetheme|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|graphviz|14.1.1|14.1.2|app-doc|Compliance mode enabled, was '14.1.2'|
 |greenlet|3.2.4|3.3.1|lang-python|Compliance mode enabled, was '3.3.1'|
 |grilo|0.3.15|0.3.19|desktop-gnome|Compliance mode enabled, was '0.3.19'|
 |grilo-plugins|0.3.15|0.3.18|desktop-gnome|Compliance mode enabled, was '0.3.18'|
@@ -893,7 +893,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalgebra|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kalk|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kalzium|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|kamera|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kamoso|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kanagram|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kanshi|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
@@ -1446,7 +1445,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7600|7819|runtime-creativity|Compliance mode enabled, was '7819'|
+|llama.cpp|7600|7820|runtime-creativity|Compliance mode enabled, was '7820'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llvm+32|20.1.8|21.1.8|runtime-optenv32|Compliance mode enabled, was '21.1.8'|
@@ -2261,7 +2260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7819|runtime-rocm|Compliance mode enabled, was '7819'|
+|rocm-llama-cpp|7.0.1|7820|runtime-rocm|Compliance mode enabled, was '7820'|
 |rocm-llvm|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2391,7 +2390,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sniffio|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |snowball|2.1.0|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |snowballstemmer|1.2.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
-|socat|1.8.0.3|1.8.1.0|app-network|Compliance mode enabled, was '1.8.1.0'|
 |soci|4.0.1|4.1.2|runtime-database|Compliance mode enabled, was '4.1.2'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sof-firmware|2025.05.1|2025.12.1|runtime-kernel|Compliance mode enabled, was '2025.12.1'|
