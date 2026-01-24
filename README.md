@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769235578?label=Updated)
+![Relative date](https://img.shields.io/date/1769238869?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -885,6 +885,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaccounts-integration|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kaccounts-providers|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kactivities|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
+|kactivities-stats|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kactivitymanagerd|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |kaddressbook|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kajongg|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -1396,6 +1397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvips|8.17.3|8.18.0|runtime-imaging|Compliance mode enabled, was '8.18.0'|
 |libvirt|11.9.0|12.0.0|app-virtualization|Compliance mode enabled, was '12.0.0'|
 |libvirt-python|11.9.0|11.7.0|runtime-virtualization|Compliance mode enabled, was '11.7.0'<br>Possible downgrade from the current version (11.9.0 -> 11.7.0)|
+|libvisio|0.1.7|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
 |libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
 |libvoikko|4.3.1|4.3.3|runtime-i18n|Compliance mode enabled, was '4.3.3'|
 |libvpl|2.15.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
