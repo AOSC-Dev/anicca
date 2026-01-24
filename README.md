@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769292827?label=Updated)
+![Relative date](https://img.shields.io/date/1769296376?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -93,7 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.22|8.0.23|lang-dotnet|Compliance mode enabled, was '8.0.23'|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.36|app-devel|Compliance mode enabled, was '6.0.36'|
 |aspnetcore-targeting-pack-8.0|8.0.22|8.0.23|lang-dotnet|Compliance mode enabled, was '8.0.23'|
-|assimp|5.4.0|6.0.3|runtime-multimedia|Compliance mode enabled, was '6.0.3'|
+|assimp|5.4.0|6.0.4|runtime-multimedia|Compliance mode enabled, was '6.0.4'|
 |ast-grep|0.39.6|0.40.5|app-devel|Compliance mode enabled, was '0.40.5'|
 |asttokens|2.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |asymptote|3.05|2.47|app-doc|Compliance mode enabled, was '2.47'<br>Possible downgrade from the current version (3.05 -> 2.47)|
@@ -214,7 +214,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrkit|1.1.11|1.1.11+5|app-multimedia|Compliance mode enabled, was '1.1.11-5'|
 |cerberus|1.3.2|1.3.8|lang-python|Compliance mode enabled, was '1.3.8'|
 |certbot|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
-|certbot-apache|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certbot-dns-cloudflare|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certbot-nginx|5.1.0|5.2.2|app-web|Compliance mode enabled, was '5.2.2'|
 |certifi|2024.7.4|2026.1.4|lang-python|Compliance mode enabled, was '2026.1.4'|
@@ -2337,7 +2336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl2-image|2.8.8|3.4.0|runtime-multimedia|Compliance mode enabled, was '3.4.0'|
 |seatd|0.8.0|0.9.2|app-admin|Compliance mode enabled, was '0.9.2'|
 |secretstorage|3.3.3|3.5.0|lang-python|Compliance mode enabled, was '3.5.0'|
-|semver|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |sensible-utils|0.0.24|0.0.26|app-utils|Compliance mode enabled, was '0.0.26'|
 |ser2net|3.5|4.6.6|app-network|Compliance mode enabled, was '4.6.6'|
 |serd|0.32.2|0.32.6|runtime-common|Compliance mode enabled, was '0.32.6'|
@@ -2618,7 +2616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.25|0.9.26|lang-python|Compliance mode enabled, was '0.9.26'|
 |v2ray|5.43.0|5.44.1|app-proxy|Compliance mode enabled, was '5.44.1'|
-|v2ray-rules-dat|202601042214|202601232213|runtime-data|Compliance mode enabled, was '202601232213'<br>Versions not comparable: `202601042214` and `202601232213`|
+|v2ray-rules-dat|202601042214|202601242215|runtime-data|Compliance mode enabled, was '202601242215'<br>Versions not comparable: `202601042214` and `202601242215`|
 |v2raya|2.2.7.3|2.2.7.4|app-proxy|Compliance mode enabled, was '2.2.7.4'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
