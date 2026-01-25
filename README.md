@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769335998?label=Updated)
+![Relative date](https://img.shields.io/date/1769339481?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1191,6 +1191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdio-paranoia|10.2<br>+2.0.2|2.0.2|runtime-devices|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (10.2+2.0.2 -> 2.0.2)|
 |libcec|6.0.2|7.1.1|runtime-devices|Compliance mode enabled, was '7.1.1'|
 |libcgroup|2.0|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
+|libchamplain|0.12.20|0.12.21|desktop-gnome|Compliance mode enabled, was '0.12.21'|
 |libchewing|0.10.3|0.11.0|runtime-i18n|Compliance mode enabled, was '0.11.0'|
 |libcl|2.3.2|2.3.4|runtime-devices|Compliance mode enabled, was '2.3.4'|
 |libcl+32|2.3.2|2.3.4|runtime-optenv32|Compliance mode enabled, was '2.3.4'|
@@ -1269,6 +1270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksba|1.6.6|1.6.7|runtime-cryptography|Compliance mode enabled, was '1.6.7'|
 |libkscreen|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |libksieve|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|libksysguard|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |libktorrent|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |liblo|0.29|0.34|runtime-multimedia|Compliance mode enabled, was '0.34'|
 |liblqr|0.4.2|0.4.3|runtime-imaging|Compliance mode enabled, was '0.4.3'|
@@ -1315,6 +1317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.4|1.10.6|runtime-optenv32|Compliance mode enabled, was '1.10.6'|
 |libpeas|1.36.0|2.2.0|desktop-gnome|Compliance mode enabled, was '2.2.0'|
 |libphonenumber|8.13.38|9.0.22|runtime-i18n|Compliance mode enabled, was '9.0.22'|
+|libpinyin|2.10.2|2.11.91|runtime-i18n|Compliance mode enabled, was '2.11.91'|
 |libpipeline|1.5.3|1.5.8|runtime-common|Compliance mode enabled, was '1.5.8'|
 |libpng|1.6.44|1.6.54|runtime-imaging|Compliance mode enabled, was '1.6.54'|
 |libpng+32|1.6.44|1.6.54|runtime-optenv32|Compliance mode enabled, was '1.6.54'|
@@ -1331,7 +1334,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqtxdg|3.12.0|4.3.0|desktop-lxqt|Compliance mode enabled, was '4.3.0'|
 |libquotient|0.8.2|0.9.5|runtime-web|Compliance mode enabled, was '0.9.5'|
 |libraw|0.20.0|0.22.0|runtime-imaging|Compliance mode enabled, was '0.22.0'|
-|librecad|2.2.1.2|2.2.1.3|app-creativity|Compliance mode enabled, was '2.2.1.3'|
 |libreoffice|25.8.4.2|26.2.0.2|groups|Compliance mode enabled, was '26.2.0.2'|
 |librevenge|0.0.4|0.0.5|runtime-productivity|Compliance mode enabled, was '0.0.5'|
 |librime|1.11.2|1.16.1|runtime-i18n|Compliance mode enabled, was '1.16.1'|
@@ -1781,7 +1783,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.5|lang-python|Compliance mode enabled, was '0.8.5'|
 |partclone|0.3.38|0.3.42|app-admin|Compliance mode enabled, was '0.3.42'|
-|partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |passt|2025_09_19.623dbf6|2026_01_20.386b5f5|app-network||
 |patatt|0.6.3|0.7.0|app-devel|Compliance mode enabled, was '0.7.0'|
@@ -1945,7 +1946,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readline-gnu|1.36|1.47|lang-perl|Compliance mode enabled, was '1.47'|
 |perl-test-deep|1.130|1.205|lang-perl|Compliance mode enabled, was '1.205'|
 |perl-test-fatal|0.014|0.018|lang-perl|Compliance mode enabled, was '0.018'|
-|perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-text-bibtex|0.89|0.91|lang-perl|Compliance mode enabled, was '0.91'|
 |perl-text-csv|1.99|2.06|lang-perl|Compliance mode enabled, was '2.06'|
 |perl-text-csv-xs|1.38|1.61|lang-perl|Compliance mode enabled, was '1.61'|
