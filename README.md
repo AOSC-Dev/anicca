@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769302653?label=Updated)
+![Relative date](https://img.shields.io/date/1769310522?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -141,7 +141,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beniget|0.4.2.post1|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |bento4-xbmc|1.6.0-641-3|1.6.0-641-5-Piers|runtime-multimedia||
 |bijiben|40.1|40.2|desktop-gnome|Compliance mode enabled, was '40.2'|
-|binsider|0.2.1|0.3.1|app-devel|Compliance mode enabled, was '0.3.1'|
 |binutils|2.45|2.45.1|app-devel|Compliance mode enabled, was '2.45.1'|
 |binutils+32|2.43.1|2.45.1|runtime-optenv32|Compliance mode enabled, was '2.45.1'|
 |binutils+w64|2.43.1|2.45.1|runtime-optenvw64|Compliance mode enabled, was '2.45.1'|
@@ -1309,7 +1308,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libopusenc|0.2.1|0.3|runtime-multimedia|Compliance mode enabled, was '0.3'|
 |liborcus|0.20.2|0.21.0|runtime-productivity|Compliance mode enabled, was '0.21.0'|
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis|Compliance mode enabled, was '1.2.0'|
-|libpano13|2.9.19|2.9.23|runtime-imaging|Compliance mode enabled, was '2.9.23'|
 |libpaper|2.2.5|2.2.7|runtime-productivity|Compliance mode enabled, was '2.2.7'|
 |libpcap|1.10.4|1.10.6|runtime-network|Compliance mode enabled, was '1.10.6'|
 |libpcap+32|1.10.4|1.10.6|runtime-optenv32|Compliance mode enabled, was '1.10.6'|
@@ -1432,7 +1430,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.248|runtime-kernel|Compliance mode enabled, was '5.10.248'|
 |linux+kernel+retro+minimal|5.15.17|5.10.248|runtime-kernel|Compliance mode enabled, was '5.10.248'<br>Possible downgrade from the current version (5.15.17 -> 5.10.248)|
-|linux-firmware|20251014|20260110|runtime-kernel||
 |linux-kernel|6.18.6|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.6 -> 5.19.17)|
 |linux-kernel-2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux-kernel-rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
@@ -1443,8 +1440,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7600|7823|runtime-creativity|Compliance mode enabled, was '7823'|
+|llama.cpp|7600|7825|runtime-creativity|Compliance mode enabled, was '7825'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
+|llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llvm+32|20.1.8|21.1.8|runtime-optenv32|Compliance mode enabled, was '21.1.8'|
 |llvm-20|20.1.8|21.1.8|app-devel|Compliance mode enabled, was '21.1.8'|
 |llvm-21|21.1.6|21.1.8|app-devel|Compliance mode enabled, was '21.1.8'|
@@ -1606,8 +1604,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus-python|1.2.3|4.1.0|desktop-gnome|Compliance mode enabled, was '4.1.0'|
 |nbd|3.24|3.26.1|app-network|Compliance mode enabled, was '3.26.1'|
 |ncbi-blast+|2.17.0|2.17.0+|app-scientific|Compliance mode enabled, was '2.17.0+'|
-|ncurses|6.4|6.6+20260117|runtime-common|Compliance mode enabled, was '6.6-20260117'|
-|ncurses+32|6.4|6.6+20260117|runtime-optenv32|Compliance mode enabled, was '6.6-20260117'|
+|ncurses|6.4|6.6+20260124|runtime-common|Compliance mode enabled, was '6.6-20260124'|
+|ncurses+32|6.4|6.6+20260124|runtime-optenv32|Compliance mode enabled, was '6.6-20260124'|
 |nemo|6.4.0|6.6.3|desktop-cinnamon|Compliance mode enabled, was '6.6.3'|
 |nemo-extensions|6.4.0|6.6.0|desktop-cinnamon|Compliance mode enabled, was '6.6.0'|
 |neochat|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -2213,7 +2211,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-proxy|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |referencing|0.36.2|0.37.0|lang-python|Compliance mode enabled, was '0.37.0'|
 |regex|2025.11.3|2026.1.15|lang-python|Compliance mode enabled, was '2026.1.15'|
-|remmina|1.4.40|1.4.41|app-network|Compliance mode enabled, was '1.4.41'|
 |rencode|1.0.6|1.0.8|lang-python|Compliance mode enabled, was '1.0.8'|
 |renpy|8.3.7.25031702|7.5.0.22062402|runtime-games|Compliance mode enabled, was '7.5.0.22062402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.5.0.22062402)|
 |reportlab|4.2.2|4.4.9|lang-python|Compliance mode enabled, was '4.4.9'|
@@ -2253,7 +2250,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7823|runtime-rocm|Compliance mode enabled, was '7823'|
+|rocm-llama-cpp|7.0.1|7825|runtime-rocm|Compliance mode enabled, was '7825'|
 |rocm-llvm|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2478,7 +2475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysv-ipc|1.0.1|1.2.0|lang-python|Compliance mode enabled, was '1.2.0'|
 |taglib|2.0.2|2.1.1|runtime-multimedia|Compliance mode enabled, was '2.1.1'|
 |taglib+32|1.13.1|2.1.1|runtime-optenv32|Compliance mode enabled, was '2.1.1'|
-|tagparser|11.5.1|12.5.2|runtime-multimedia|Compliance mode enabled, was '12.5.2'|
 |taisei|1.3.2|1.4.4|app-games|Compliance mode enabled, was '1.4.4'|
 |tali|40.8|40.9|desktop-gnome|Compliance mode enabled, was '40.9'|
 |talloc|2.4.3|2.4.4|runtime-common|Compliance mode enabled, was '2.4.4'|
@@ -2670,7 +2666,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |wayland-utils|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
-|wcwidth|0.2.14|0.3.3|lang-python|Compliance mode enabled, was '0.3.3'|
+|wcwidth|0.2.14|0.3.4|lang-python|Compliance mode enabled, was '0.3.4'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webkit2gtk|2.50.3|2.50.4|runtime-web|Compliance mode enabled, was '2.50.4'|
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
@@ -2683,7 +2679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wheel|0.45.0|0.46.3|lang-python|Compliance mode enabled, was '0.46.3'|
 |wheezy.template|3.2.3|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|desktop-wm|Compliance mode enabled, was '0.96.0'|
-|wine|10.20|11.0|app-emulation||
+|wine|10.20|11.1|app-emulation||
 |wireless-tools|30.pre9|29|app-network|Compliance mode enabled, was '29'<br>Possible downgrade from the current version (30.pre9 -> 29)|
 |wireshark|4.6.2|4.6.3|app-network|Compliance mode enabled, was '4.6.3'|
 |wolfssl|5.8.4|5.8.4-stable|runtime-cryptography|Compliance mode enabled, was '5.8.4-stable'<br>Possible downgrade from the current version (5.8.4 -> 5.8.4-stable)|
