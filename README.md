@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769365149?label=Updated)
+![Relative date](https://img.shields.io/date/1769368308?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -318,6 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups-browsed|2.0.1|2.1.1|app-admin|Compliance mode enabled, was '2.1.1'|
 |cups-filters|2.0.0|2.0.1|runtime-doc|Compliance mode enabled, was '2.0.1'|
 |cups-pdf|3.0.1|3.0.2|runtime-doc|Compliance mode enabled, was '3.0.2'|
+|curl|8.17.0|8.18.0|app-web|Compliance mode enabled, was '8.18.0'|
 |curl+32|8.17.0|8.18.0|runtime-optenv32|Compliance mode enabled, was '8.18.0'|
 |curtail|1.12.0|1.15.0|app-imaging|Compliance mode enabled, was '1.15.0'|
 |cxxopts|3.2.0|3.3.1|runtime-common|Compliance mode enabled, was '3.3.1'|
@@ -701,7 +702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-chrome|143.0.7499.192|144.0.7559.96|app-web|Compliance mode enabled, was '144.0.7559.96'|
 |goreleaser|2.13.1|2.13.3|lang-golang|Compliance mode enabled, was '2.13.3'|
 |goverlay|1.2|1.7.1|app-utils|Compliance mode enabled, was '1.7.1'|
-|gperftools|2.13|2.17.2|app-devel|Compliance mode enabled, was '2.17.2'|
+|gperftools|2.13|2.18|app-devel|Compliance mode enabled, was '2.18'|
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
 |gphoto2|2.5.28|2.5.32|app-imaging|Compliance mode enabled, was '2.5.32'|
 |gpick|0.3|0.4|app-utils|Compliance mode enabled, was '0.4'|
@@ -924,6 +925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcolorpicker|0.2.0|0.3.1|desktop-kde|Compliance mode enabled, was '0.3.1'|
 |kcompletion|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kconfig|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
+|kconfigwidgets|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kcontacts|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kcoreaddons|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kcptun|20241227|20260101|app-proxy|Compliance mode enabled, was '20260101'|
@@ -2778,7 +2780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zanshin|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |zarith|1.9.1|1.14|lang-ocaml|Compliance mode enabled, was '1.14'|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.220.2|0.220.5|app-editors|Compliance mode enabled, was '0.220.5'|
+|zed|0.220.2|0.220.6|app-editors|Compliance mode enabled, was '0.220.6'|
 |zeitgeist|1.0.4<br>+git20230111|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |zeroconf|0.28.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
