@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769408665?label=Updated)
+![Relative date](https://img.shields.io/date/1769412153?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -780,6 +780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
 |html2text|2024.2.26|2025.4.15|lang-python|Compliance mode enabled, was '2025.4.15'|
 |htslib|1.21|1.23|app-scientific|Compliance mode enabled, was '1.23'|
+|httpcore|1.0.5|1.0.9|lang-python|Compliance mode enabled, was '1.0.9'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httping|4.4.0|2.5|app-network|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (4.4.0 -> 2.5)|
 |httplib2|0.22.0|0.31.2|lang-python|Compliance mode enabled, was '0.31.2'|
@@ -793,7 +794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|hypothesis-python|6.97.4|6.151.1|lang-python|Compliance mode enabled, was '6.151.1'|
+|hypothesis-python|6.97.4|6.151.2|lang-python|Compliance mode enabled, was '6.151.2'|
 |hysteria|2.6.3|2.7.0|app-proxy|Compliance mode enabled, was '2.7.0'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -2061,7 +2062,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ptex|2.3.2|2.5.1|runtime-creativity|Compliance mode enabled, was '2.5.1'|
 |ptyprocess|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |ptyxis|49.2|49.3|desktop-gnome|Compliance mode enabled, was '49.3'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20260124|lang-python|Compliance mode enabled, was '1.0.2.20260124'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20260126|lang-python|Compliance mode enabled, was '1.0.2.20260126'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.7.0|runtime-desktop|Compliance mode enabled, was '1.7.0'|
 |purpose|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -2613,7 +2614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upx|4.2.4|5.1.0|app-devel|Compliance mode enabled, was '5.1.0'|
 |uritemplate|3.0.1|4.2.0|lang-python|Compliance mode enabled, was '4.2.0'|
 |urwid|2.6.12|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
-|usage|2.10.0|2.13.1|app-utils|Compliance mode enabled, was '2.13.1'|
+|usage|2.10.0|2.14.0|app-utils|Compliance mode enabled, was '2.14.0'|
 |usb-modeswitch|2.6.0<br>+data20170120|2.6.2|app-utils|Compliance mode enabled, was '2.6.2'|
 |usbredir|0.8.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
 |usbutils|018|019|app-utils|Compliance mode enabled, was '019'|
