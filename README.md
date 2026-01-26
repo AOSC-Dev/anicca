@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769412153?label=Updated)
+![Relative date](https://img.shields.io/date/1769415646?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -513,7 +513,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fennel-ls|0.2.1|0.2.3|lang-lua|Compliance mode enabled, was '0.2.3'|
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1.1|8.0.1|app-multimedia|Compliance mode enabled, was '8.0.1'|
-|ffmpeg+32|7.1|8.0.1|runtime-optenv32|Compliance mode enabled, was '8.0.1'|
 |ffmpegthumbnailer|2.2.2|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
 |ffmpegthumbs|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
@@ -986,7 +985,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kglobalaccel|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kgoldrunner|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kgpg|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|kguiaddons|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |khangman|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |khealthcertificate|22.11|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |khelpcenter|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
