@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769426141?label=Updated)
+![Relative date](https://img.shields.io/date/1769430291?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -255,7 +255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cjson|1.7.18|1.7.19|runtime-common|Compliance mode enabled, was '1.7.19'|
 |clash-verge-rev|2.4.4|2.4.5|app-proxy|Compliance mode enabled, was '2.4.5'|
 |clazy|1.15|1.16|app-devel|Compliance mode enabled, was '1.16'|
-|cli-helpers|1.1.0|2.8.1|lang-python|Compliance mode enabled, was '2.8.1'|
+|cli-helpers|1.1.0|2.8.2|lang-python|Compliance mode enabled, was '2.8.2'|
 |cli11|2.5.0|2.6.1|runtime-common|Compliance mode enabled, was '2.6.1'|
 |click|8.1.7|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
@@ -1803,7 +1803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.47|runtime-optenv32|Compliance mode enabled, was '10.47'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
-|pcsx2|1.6.0<br>+git20210825|2.7.64|app-games|Compliance mode enabled, was '2.7.64'|
+|pcsx2|1.6.0<br>+git20210825|2.7.65|app-games|Compliance mode enabled, was '2.7.65'|
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20260107|app-doc|Compliance mode enabled, was '20260107'|
@@ -2044,7 +2044,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.4|app-shells|Compliance mode enabled, was '7.5.4'|
 |poxml|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|praat|6.4.55|6.4.57|app-scientific|Compliance mode enabled, was '6.4.57'|
+|praat|6.4.55|6.4.58|app-scientific|Compliance mode enabled, was '6.4.58'|
 |pre-commit|4.2.0|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
 |precis-i18n|1.0.3|1.1.2|lang-python|Compliance mode enabled, was '1.1.2'|
 |premake|5.0.0~beta1|4.3|app-utils|Compliance mode enabled, was '4.3'<br>Possible downgrade from the current version (5.0.0~beta1 -> 4.3)|
@@ -2472,7 +2472,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sweeper|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |swell-foop|41.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |swiftclient|4.6.0|4.9.0|lang-python|Compliance mode enabled, was '4.9.0'|
-|symbols-nerd-font|3.2.1|3.4.0|desktop-fonts|Compliance mode enabled, was '3.4.0'|
 |sympy|1.12|1.14.0|lang-python|Compliance mode enabled, was '1.14.0'|
 |syndication|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |synfig|1.5.3|1.5.4|app-creativity|Compliance mode enabled, was '1.5.4'|
