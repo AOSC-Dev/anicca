@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769498523?label=Updated)
+![Relative date](https://img.shields.io/date/1769501983?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -326,7 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.2.3|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |daed|1.21.1|1.22.0|app-proxy|Compliance mode enabled, was '1.22.0'|
-|damo|2.4.7|3.1.2|app-admin|Compliance mode enabled, was '3.1.2'|
+|damo|2.4.7|3.1.3|app-admin|Compliance mode enabled, was '3.1.3'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |darkhttpd|1.16|1.17|app-web|Compliance mode enabled, was '1.17'|
@@ -873,6 +873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jellyfish|1.1.1|1.2.1|lang-python|Compliance mode enabled, was '1.2.1'|
 |jetring|0.29|0.32|app-admin|Compliance mode enabled, was '0.32'|
 |jiter|0.10.0|0.12.0|lang-python|Compliance mode enabled, was '0.12.0'|
+|jmespath|0.10.0|1.1.0|lang-python|Compliance mode enabled, was '1.1.0'|
 |jmol|14.30.0|16.3.45|app-scientific|Compliance mode enabled, was '16.3.45'|
 |josepy|2.1.0|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
 |jpegoptim|1.5.5|1.5.6|app-utils|Compliance mode enabled, was '1.5.6'|
@@ -1100,6 +1101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krb5+32|1.21.3-final|1.22.1-final|runtime-optenv32||
 |krdc|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |krecorder|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|kreversi|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |krfb|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |krita|5.2.14|5.2.15|app-creativity|Compliance mode enabled, was '5.2.15'|
 |kross|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
