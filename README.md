@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769491316?label=Updated)
+![Relative date](https://img.shields.io/date/1769494969?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -887,6 +887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jupyter-client|5.2.4|8.8.0|lang-python|Compliance mode enabled, was '8.8.0'|
 |jupyter-core|4.4.0|5.9.1|lang-python|Compliance mode enabled, was '5.9.1'|
 |just|1.45.0|1.46.0|app-devel|Compliance mode enabled, was '1.46.0'|
+|k3b|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kaccounts-integration|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kaccounts-providers|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kactivities|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -1771,6 +1772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p11-kit|0.25.5|0.26.1|runtime-cryptography|Compliance mode enabled, was '0.26.1'|
 |p11-kit+32|0.25.5|0.26.1|runtime-optenv32|Compliance mode enabled, was '0.26.1'|
 |p7zip|17.05|17.06|app-utils|Compliance mode enabled, was '17.06'|
+|packagekit|1.3.0|1.3.3|app-admin|Compliance mode enabled, was '1.3.3'|
 |packagekit-qt|1.1.1|1.1.4|desktop-kde|Compliance mode enabled, was '1.1.4'|
 |packaging|24.2|26.0|lang-python|Compliance mode enabled, was '26.0'|
 |pacman|7.0.0|7.1.0|app-admin|Compliance mode enabled, was '7.1.0'|
@@ -1798,7 +1800,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |passt|2025_09_19.623dbf6|2026_01_20.386b5f5|app-network||
 |patatt|0.6.3|0.7.0|app-devel|Compliance mode enabled, was '0.7.0'|
 |patch-ng|1.17.4|1.19.0|lang-python|Compliance mode enabled, was '1.19.0'|
-|pathspec|0.11.0|1.0.3|lang-python|Compliance mode enabled, was '1.0.3'|
+|pathspec|0.11.0|1.0.4|lang-python|Compliance mode enabled, was '1.0.4'|
 |patiencediff|0.2.15|0.2.18|lang-python|Compliance mode enabled, was '0.2.18'|
 |patool|1.12|4.0.4|app-utils|Compliance mode enabled, was '4.0.4'|
 |pavucontrol-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
@@ -2769,7 +2771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsd|4.1.0~alpha11|4.2.0|app-devel|Compliance mode enabled, was '4.2.0'|
 |xsimd|10.0.0|14.0.0|runtime-common|Compliance mode enabled, was '14.0.0'|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils|Compliance mode enabled, was '0.3.0'|
-|xstreamingdesktop|1.8.2|1.9.3|app-games|Compliance mode enabled, was '1.9.3'|
+|xstreamingdesktop|1.8.2|1.9.4|app-games|Compliance mode enabled, was '1.9.4'|
 |xterm|403|406|app-utils|Compliance mode enabled, was '406'|
 |xviewer|3.4.12|3.4.16|app-imaging|Compliance mode enabled, was '3.4.16'|
 |yad|14.0|14.2|app-utils|Compliance mode enabled, was '14.2'|
