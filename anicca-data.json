@@ -2289,6 +2289,7 @@
 ["strawberry","1.2.14","1.2.17","app-multimedia",1761827225,["Compliance mode enabled, was '1.2.17'"]],
 ["streamlink","6.7.4","8.1.2","app-multimedia",1718473109,["Compliance mode enabled, was '8.1.2'"]],
 ["subtitleripper","0.3.4","0.3","app-multimedia",1678950872,["Compliance mode enabled, was '0.3'","Possible downgrade from the current version (0.3.4 -> 0.3)"]],
+["fluida.lv2","0.9.2","0.9.5","app-multimedia",1727190828,["Compliance mode enabled, was '0.9.5'"]],
 ["cdrdao","1.2.5","1.2.6","app-multimedia",1729579100,["Compliance mode enabled, was '1.2.6'"]],
 ["vorbis-tools","1.4.0","1.4.3","app-multimedia",1745233543,["Compliance mode enabled, was '1.4.3'"]],
 ["atomicparsley","0.9.6","20240608.083822.1ed9031","app-multimedia",1511158506,["Compliance mode enabled, was '20240608.083822.1ed9031'"]],
