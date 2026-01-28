@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769577756?label=Updated)
+![Relative date](https://img.shields.io/date/1769581298?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -823,7 +823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
-|hypothesis-python|6.97.4|6.151.2|lang-python|Compliance mode enabled, was '6.151.2'|
+|hypothesis-python|6.97.4|6.151.3|lang-python|Compliance mode enabled, was '6.151.3'|
 |hysteria|2.6.3|2.7.0|app-proxy|Compliance mode enabled, was '2.7.0'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
@@ -1572,7 +1572,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mengshen-pinyin-font|1.03|20250817.032955|desktop-fonts|Compliance mode enabled, was '20250817-032955'|
 |menu-cache|1.1.0|1.1.1|desktop-lxde|Compliance mode enabled, was '1.1.1'|
 |mercurial|7.0.2|7.1.2|app-vcs|Compliance mode enabled, was '7.1.2'|
-|merge3|0.0.15|0.0.16|lang-python|Compliance mode enabled, was '0.0.16'|
 |merkuro|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |mesa|25.3.2|25.3.4|runtime-display||
 |mesa+32|25.3.2|25.3.4|runtime-optenv32||
