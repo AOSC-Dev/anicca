@@ -2368,7 +2368,7 @@
 ["bullet","2.88","3.25","app-scientific",1551292850,["Compliance mode enabled, was '3.25'"]],
 ["clp","1.17.6","1.17.10","app-scientific",1600708496,["Compliance mode enabled, was '1.17.10'"]],
 ["lapack","3.12.0","3.12.1","app-scientific",1712158730,["Compliance mode enabled, was '3.12.1'"]],
-["jmol","14.30.0","16.3.45","app-scientific",1575784109,["Compliance mode enabled, was '16.3.45'"]],
+["jmol","14.30.0","16.3.47","app-scientific",1575784109,["Compliance mode enabled, was '16.3.47'"]],
 ["fribidi","1.0.14","1.0.16","app-scientific",1716443455,["Compliance mode enabled, was '1.0.16'"]],
 ["lrs","071a","073a","app-scientific",1607157998,["Compliance mode enabled, was '073a'"]],
 ["geant4","11.3.2","11.4.0","app-scientific",1745854143,["Compliance mode enabled, was '11.4.0'"]],
