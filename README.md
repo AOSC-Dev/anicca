@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769607800?label=Updated)
+![Relative date](https://img.shields.io/date/1769610190?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -114,6 +114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiocd-kio|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.2|app-admin|Compliance mode enabled, was '4.1.2'|
+|autobahn|24.4.2|25.12.2|lang-python|Compliance mode enabled, was '25.12.2'|
 |avisynthplus|3.7.3|3.7.5|runtime-multimedia|Compliance mode enabled, was '3.7.5'|
 |avogadrolibs|1.95.1|1.102.1|runtime-scientific|Compliance mode enabled, was '1.102.1'|
 |avr-binutils|2.37|2.45.1|app-devel|Compliance mode enabled, was '2.45.1'|
@@ -271,7 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmix|20|21|app-utils|Compliance mode enabled, was '21'|
 |cmocka|1.1.7|2.0.2|app-devel|Compliance mode enabled, was '2.0.2'|
 |cmus|2.11.0|2.12.0|app-multimedia|Compliance mode enabled, was '2.12.0'|
-|cni-plugins|1.7.1|1.6.2|runtime-containers|Compliance mode enabled, was '1.6.2'<br>Possible downgrade from the current version (1.7.1 -> 1.6.2)|
+|cni-plugins|1.9.0|1.6.2|runtime-containers|Compliance mode enabled, was '1.6.2'<br>Possible downgrade from the current version (1.9.0 -> 1.6.2)|
 |cock|0.6.0|0.11.0|lang-python|Compliance mode enabled, was '0.11.0'|
 |cockpit|353|355|app-admin|Compliance mode enabled, was '355'|
 |cockpit-machines|344|347|app-admin|Compliance mode enabled, was '347'|
@@ -1475,7 +1476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |liteide|38.3|38.4|app-editors|Compliance mode enabled, was '38.4'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7600|7852|runtime-creativity|Compliance mode enabled, was '7852'|
+|llama.cpp|7600|7856|runtime-creativity|Compliance mode enabled, was '7856'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llvm+32|20.1.8|21.1.8|runtime-optenv32|Compliance mode enabled, was '21.1.8'|
@@ -2289,7 +2290,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7852|runtime-rocm|Compliance mode enabled, was '7852'|
+|rocm-llama-cpp|7.0.1|7856|runtime-rocm|Compliance mode enabled, was '7856'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2781,7 +2782,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.19|app-network|Compliance mode enabled, was '1.3.19'|
 |xmlrpc-c|1.54.06|1.60.05|runtime-common|Compliance mode enabled, was '1.60.05'|
 |xonsh|0.22.0|0.22.1|lang-python|Compliance mode enabled, was '0.22.1'|
-|xorgxrdp|0.10.3|0.10.4|app-network|Compliance mode enabled, was '0.10.4'|
+|xorgxrdp|0.10.3|0.10.5|app-network|Compliance mode enabled, was '0.10.5'|
 |xosview2|2.3.3|2.3.4|app-utils|Compliance mode enabled, was '2.3.4'|
 |xpra|6.3.3|6.4.1|app-network|Compliance mode enabled, was '6.4.1'|
 |xray|25.8.31|26.1.23|app-proxy|Compliance mode enabled, was '26.1.23'|
