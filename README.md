@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769610190?label=Updated)
+![Relative date](https://img.shields.io/date/1769613759?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1759,8 +1759,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openpgl|0.5.0|0.7.1|runtime-creativity|Compliance mode enabled, was '0.7.1'|
 |openpyxl|2.6.0|3.1.5|lang-python|Compliance mode enabled, was '3.1.5'|
 |openscad|2021.01<br>+git20251218|2021.01|app-creativity|Compliance mode enabled, was '2021.01'|
-|openssl|3.5.4|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
-|openssl+32|3.5.4|3.6.1|runtime-optenv32|Compliance mode enabled, was '3.6.1'|
 |openssl-1.1|1.1.1w|3.6.1|runtime-cryptography|Compliance mode enabled, was '3.6.1'|
 |openssl-1.1+32|1.1.1w|3.6.1|runtime-optenv32|Compliance mode enabled, was '3.6.1'|
 |openstack-service-types|1.7.0|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
@@ -2433,6 +2431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sord|0.16.4|0.16.20|runtime-common|Compliance mode enabled, was '0.16.20'|
 |sortedcontainers|2.3.0|2.4.0|lang-python|Compliance mode enabled, was '2.4.0'|
 |sos|4.4|4.10.2|lang-python|Compliance mode enabled, was '4.10.2'|
+|soteria|0.3.0|0.3.1|app-admin|Compliance mode enabled, was '0.3.1'|
 |sound-juicer|3.38.0|3.40.0|desktop-gnome|Compliance mode enabled, was '3.40.0'|
 |soundtouch|2.3.3|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |soundtouch+32|2.3.3|2.4.0|runtime-optenv32|Compliance mode enabled, was '2.4.0'|
