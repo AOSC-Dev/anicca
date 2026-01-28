@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769631525?label=Updated)
+![Relative date](https://img.shields.io/date/1769635265?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -689,7 +689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-initial-setup|42.2|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-logs|3.36.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-mahjongg|3.38.3|49.1.1|desktop-gnome|Compliance mode enabled, was '49.1.1'|
-|gnome-maps|42.3|49.3|desktop-gnome|Compliance mode enabled, was '49.3'|
+|gnome-maps|42.3|49.4|desktop-gnome|Compliance mode enabled, was '49.4'|
 |gnome-menus|3.36.0|3.38.1|desktop-gnome|Compliance mode enabled, was '3.38.1'|
 |gnome-mines|40.1|49.0.1|desktop-gnome|Compliance mode enabled, was '49.0.1'|
 |gnome-multi-writer|3.32.1|3.35.90|desktop-gnome|Compliance mode enabled, was '3.35.90'|
@@ -791,7 +791,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatch-fancy-pypi-readme|24.1.0|25.1.0|lang-python|Compliance mode enabled, was '25.1.0'|
 |hatchling|1.27.0|1.28.0|lang-python|Compliance mode enabled, was '1.28.0'|
 |haveged|1.9.18|1.9.19|app-utils|Compliance mode enabled, was '1.9.19'|
-|hddtemp|0.4.3|0.4.4|app-utils|Compliance mode enabled, was '0.4.4'|
 |hdf5|1.14.6|2.0.0|runtime-scientific|Compliance mode enabled, was '2.0.0'|
 |hdrhistogram-c|0.11.8|0.11.9|runtime-common|Compliance mode enabled, was '0.11.9'|
 |hdsentinel|0.17|999e|app-utils|Compliance mode enabled, was '999e'|
