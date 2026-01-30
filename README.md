@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769765757?label=Updated)
+![Relative date](https://img.shields.io/date/1769768767?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -71,7 +71,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apache-maven|3.9.9|3.9.12|lang-java|Compliance mode enabled, was '3.9.12'|
 |apicula|0.14|0.28|app-electronics|Compliance mode enabled, was '0.28'|
 |apitrace|12.0|13.0|app-devel|Compliance mode enabled, was '13.0'|
-|apparmor|4.1.1|4.1.3|app-admin|Compliance mode enabled, was '4.1.3'|
+|apparmor|4.1.1|4.1.4|app-admin|Compliance mode enabled, was '4.1.4'|
 |appstream|1.0.4|1.1.2|app-admin|Compliance mode enabled, was '1.1.2'|
 |apr|1.7.5|1.7.6|runtime-common|Compliance mode enabled, was '1.7.6'|
 |apsw|3.50.4.0|3.51.2.0|lang-python|Compliance mode enabled, was '3.51.2.0'|
@@ -481,9 +481,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etl|1.4.5|1.5.4|runtime-common|Compliance mode enabled, was '1.5.4'|
 |eventviews|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |evince|42.3|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
-|evolution|3.44.4|3.58.2|desktop-gnome|Compliance mode enabled, was '3.58.2'|
-|evolution-data-server|3.44.4|3.58.2|desktop-gnome|Compliance mode enabled, was '3.58.2'|
-|evolution-ews|3.42.0|3.58.2|desktop-gnome|Compliance mode enabled, was '3.58.2'|
+|evolution|3.44.4|3.58.3|desktop-gnome|Compliance mode enabled, was '3.58.3'|
+|evolution-data-server|3.44.4|3.58.3|desktop-gnome|Compliance mode enabled, was '3.58.3'|
+|evolution-ews|3.42.0|3.58.3|desktop-gnome|Compliance mode enabled, was '3.58.3'|
 |exceptiongroup|1.2.2|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |executing|2.1.0|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |exempi|2.5.1|2.6.6|runtime-imaging|Compliance mode enabled, was '2.6.6'|
@@ -966,7 +966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdav|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kdbusaddons|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kddockwidgets|2.2.5|2.4.0|runtime-desktop|Compliance mode enabled, was '2.4.0'|
-|kde-cli-tools|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |kde-dev-scripts|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kde-dev-utils|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kde-gtk-config|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
@@ -1790,7 +1789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-config|9.5.0|10.2.0|lang-python|Compliance mode enabled, was '10.2.0'|
 |oslo-i18n|6.3.0|6.7.1|lang-python|Compliance mode enabled, was '6.7.1'|
 |oslo-serialization|5.8.0|5.9.0|lang-python|Compliance mode enabled, was '5.9.0'|
-|osu-lazer|2025.1029.1-lazer|2026.129.0-tachyon|app-games||
+|osu-lazer|2025.1029.1-lazer|2026.130.0-tachyon|app-games||
 |owslib|0.34.1|0.35.0|lang-python|Compliance mode enabled, was '0.35.0'|
 |oxipng|9.1.4|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
 |oxygen|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
@@ -2686,7 +2685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.9|3.10|app-emulation|Compliance mode enabled, was '3.10'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
-|vim|9.1.2103|9.1.2114|app-editors|Compliance mode enabled, was '9.1.2114'|
+|vim|9.1.2103|9.1.2115|app-editors|Compliance mode enabled, was '9.1.2115'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |virtualbox|7.2.4|7.2.6|app-virtualization|Compliance mode enabled, was '7.2.6'|
 |virtualenv|20.35.4|20.36.1|lang-python|Compliance mode enabled, was '20.36.1'|
