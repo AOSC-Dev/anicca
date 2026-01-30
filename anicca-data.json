@@ -1757,6 +1757,7 @@
 ["libwnck","2.31.0","43.3","runtime-desktop",1758982599,["Compliance mode enabled, was '43.3'"]],
 ["qmltermwidget","0.2.0+git20220109","0.6.0","runtime-desktop",1714377107,["Compliance mode enabled, was '0.6.0'"]],
 ["freetype","2.13.3","2.14.1","runtime-desktop",1729131448,["Compliance mode enabled, was '2.14.1'"]],
+["girara","0.4.5","2026.01.30","runtime-desktop",1733881968,["Compliance mode enabled, was '2026.01.30'"]],
 ["libportal","0.9.0","0.9.1","runtime-desktop",1736474079,["Compliance mode enabled, was '0.9.1'"]],
 ["libnotify","0.7.9","0.8.8","runtime-desktop",1587074916,["Compliance mode enabled, was '0.8.8'"]],
 ["harfbuzz","12.3.0","12.3.2","runtime-desktop",1766918163,["Compliance mode enabled, was '12.3.2'"]],
