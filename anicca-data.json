@@ -686,6 +686,7 @@
 ["cdecl","20161129","2.5","app-utils",1505855940,["Compliance mode enabled, was '2.5'","Possible downgrade from the current version (20161129 -> 2.5)"]],
 ["jpegoptim","1.5.5","1.5.6","app-utils",1710339808,["Compliance mode enabled, was '1.5.6'"]],
 ["pahole","1.25","1.31","app-utils",1704260843,["Compliance mode enabled, was '1.31'"]],
+["zoxide","0.9.8","0.9.9","app-utils",1748400221,["Compliance mode enabled, was '0.9.9'"]],
 ["uboot-tools","2025.10","2026.01","app-utils",1760109617,["Compliance mode enabled, was '2026.01'"]],
 ["os-prober","1.83","1.84","app-utils",1740966490,["Compliance mode enabled, was '1.84'"]],
 ["maim","5.5.3","5.8.1","app-utils",1721223235,["Compliance mode enabled, was '5.8.1'"]],
