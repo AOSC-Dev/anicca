@@ -1776,6 +1776,7 @@
 ["sing-box","1.12.17","1.12.18","app-proxy",1768624680,["Compliance mode enabled, was '1.12.18'"]],
 ["cloudflared","2025.11.1","2026.1.2","app-proxy",1762729886,["Compliance mode enabled, was '2026.1.2'"]],
 ["dante","1.4.2","1.4.4","app-proxy",1510974704,["Compliance mode enabled, was '1.4.4'"]],
+["frp","0.66.0","0.67.0","app-proxy",1767630032,["Compliance mode enabled, was '0.67.0'"]],
 ["xray","25.8.31","26.1.23","app-proxy",1761613631,["Compliance mode enabled, was '26.1.23'"]],
 ["v2raya","2.2.7.3","2.2.7.5","app-proxy",1761613631,["Compliance mode enabled, was '2.2.7.5'"]],
 ["clash-verge-rev","2.4.4","2.4.5","app-proxy",1766375409,["Compliance mode enabled, was '2.4.5'"]],
