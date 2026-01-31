@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1769829322?label=Updated)
+![Relative date](https://img.shields.io/date/1769835492?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1191,6 +1191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.3|runtime-multimedia|Compliance mode enabled, was '1.3'<br>Possible downgrade from the current version (20200418 -> 1.3)|
 |lager|0.1.1|0.1.2|runtime-common|Compliance mode enabled, was '0.1.2'|
 |lapack|3.12.0|3.12.1|app-scientific|Compliance mode enabled, was '3.12.1'|
+|lark-parser|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |lasem|0.5.2|0.6.0|runtime-productivity|Compliance mode enabled, was '0.6.0'|
 |lash|0.6.0~rc2|0.5.4|runtime-multimedia|Compliance mode enabled, was '0.5.4'<br>Possible downgrade from the current version (0.6.0~rc2 -> 0.5.4)|
 |laszip|3.4.4|3.5.0|app-scientific|Compliance mode enabled, was '3.5.0'|
@@ -2021,6 +2022,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-data-exporter|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |pim-sieve-editor|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |pimcommon|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
+|pip|25.3|26.0|lang-python|Compliance mode enabled, was '26.0'|
 |pixi|0.59.0|0.63.2|app-devel|Compliance mode enabled, was '0.63.2'|
 |pkcs11-helper|1.30.0|1.31.0|runtime-cryptography|Compliance mode enabled, was '1.31.0'|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
@@ -2724,7 +2726,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wayland+32|1.23.1|1.24.0|runtime-optenv32|Compliance mode enabled, was '1.24.0'|
 |wayland-utils|1.2.0|1.3.0|app-utils|Compliance mode enabled, was '1.3.0'|
 |waylandpp|1.0.0|1.0.1|runtime-display|Compliance mode enabled, was '1.0.1'|
-|wcwidth|0.2.14|0.5.2|lang-python|Compliance mode enabled, was '0.5.2'|
+|wcwidth|0.2.14|0.5.3|lang-python|Compliance mode enabled, was '0.5.3'|
 |wdm|1.28|1.29|desktop-displaymanagers|Compliance mode enabled, was '1.29'|
 |webkit2gtk|2.50.3|2.50.4|runtime-web|Compliance mode enabled, was '2.50.4'|
 |webrtc-audio-processing|1.3|2.1|runtime-multimedia|Compliance mode enabled, was '2.1'|
