@@ -1860,7 +1860,6 @@
 ["perl-devel-stacktrace","2.04","2.05","lang-perl",1596485703,["Compliance mode enabled, was '2.05'"]],
 ["perl-extutils-helpers","0.026","0.028","lang-perl",1678950872,["Compliance mode enabled, was '0.028'"]],
 ["perl-mro-compat","0.13","0.15","lang-perl",1596485704,["Compliance mode enabled, was '0.15'"]],
-["perl-class-singleton","1.5","1.6","lang-perl",1596485702,["Compliance mode enabled, was '1.6'"]],
 ["perl-crypt-openssl-random","0.15","0.17","lang-perl",1531878914,["Compliance mode enabled, was '0.17'"]],
 ["perl-net-ssleay","1.85","1.94","lang-perl",1530196414,["Compliance mode enabled, was '1.94'"]],
 ["perl-try-tiny","0.30","0.32","lang-perl",1530196414,["Compliance mode enabled, was '0.32'"]],
