@@ -104,7 +104,7 @@
 ["libffi","3.4.8","3.5.2","runtime-common",1744508633,["Compliance mode enabled, was '3.5.2'"]],
 ["apr","1.7.5","1.7.6","runtime-common",1724723809,["Compliance mode enabled, was '1.7.6'"]],
 ["lager","0.1.1","0.1.2","runtime-common",1710208212,["Compliance mode enabled, was '0.1.2'"]],
-["libvarlink","23","24","runtime-common",1678351353,["Compliance mode enabled, was '24'"]],
+["libvarlink","23","24.0.0","runtime-common",1678351353,["Compliance mode enabled, was '24.0.0'"]],
 ["libdwarf","20210305","2.3.0","runtime-common",1618195987,["Compliance mode enabled, was '2.3.0'","Possible downgrade from the current version (20210305 -> 2.3.0)"]],
 ["libxmlb","0.3.22","0.3.24","runtime-common",1743473069,["Compliance mode enabled, was '0.3.24'"]],
 ["libsass","3.6.4","3.6.6","runtime-common",1600321917,["Compliance mode enabled, was '3.6.6'"]],
