@@ -1299,7 +1299,6 @@
 ["lychee","0.18.1","0.22.0","app-web",1741855463,["Compliance mode enabled, was '0.22.0'"]],
 ["certbot","5.1.0","5.2.2","app-web",1760110818,["Compliance mode enabled, was '5.2.2'"]],
 ["exim","4.98.2","4.99.1","app-web",1758355108,["Compliance mode enabled, was '4.99.1'"]],
-["forgejo","11.0.0","14.0.2","app-web",1761613627,["Compliance mode enabled, was '14.0.2'"]],
 ["onedrive","2.5.5","2.5.10","app-web",1746413974,["Compliance mode enabled, was '2.5.10'"]],
 ["uget","2.2.3+1","2.2.2","app-web",1600753395,["Compliance mode enabled, was '2.2.2'","Possible downgrade from the current version (2.2.3+1 -> 2.2.2)"]],
 ["proton-bridge","3.21.2","3.22.0","app-web",1761613630,["Compliance mode enabled, was '3.22.0'"]],
