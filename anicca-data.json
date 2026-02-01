@@ -539,6 +539,7 @@
 ["tigervnc","1.15.0","1.16.0","app-network",1740063316,[]],
 ["radvd","2.19","2.20","app-network",1552787598,["Compliance mode enabled, was '2.20'"]],
 ["sslh","2.2.4","2.3.0","app-network",1754725945,["Compliance mode enabled, was '2.3.0'"]],
+["ettercap","0.8.3.1","0.8.4","app-network",1596630865,["Compliance mode enabled, was '0.8.4'"]],
 ["lldpd","1.0.18","1.0.20","app-network",1729158390,["Compliance mode enabled, was '1.0.20'"]],
 ["rtmpdump","20151223","2.4+20151223.gitfa8646d.1","app-network",1696572712,["Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'","Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)"]],
 ["chisel","1.10.1","1.11.3","app-network",1761613626,["Compliance mode enabled, was '1.11.3'"]],
