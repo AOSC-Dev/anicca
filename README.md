@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770028582?label=Updated)
+![Relative date](https://img.shields.io/date/1770031828?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -529,7 +529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.5.1|0.5.4|app-multimedia|Compliance mode enabled, was '0.5.4'|
 |feeluown-netease|1.0.4|1.0.7|app-multimedia|Compliance mode enabled, was '1.0.7'|
 |feeluown-qqmusic|1.0.11|1.0.15|app-multimedia|Compliance mode enabled, was '1.0.15'|
-|feishin|1.3.0|1.4.1|app-multimedia|Compliance mode enabled, was '1.4.1'|
+|feishin|1.3.0|1.4.2|app-multimedia|Compliance mode enabled, was '1.4.2'|
 |fend|1.5.6|1.5.8|app-utils|Compliance mode enabled, was '1.5.8'|
 |fennel|1.5.3|1.6.1|lang-lua|Compliance mode enabled, was '1.6.1'|
 |fennel-ls|0.2.1|0.2.3|lang-lua|Compliance mode enabled, was '0.2.3'|
@@ -2157,7 +2157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt6-webengine|6.9.0|6.10.0|lang-python|Compliance mode enabled, was '6.10.0'|
 |pyqtwebengine|5.15.5|5.15.7|lang-python|Compliance mode enabled, was '5.15.7'|
 |pyside2|5.15.16|5.15.18|lang-python|Compliance mode enabled, was '5.15.18'|
-|pyside6|6.10.0|6.10.1|lang-python|Compliance mode enabled, was '6.10.1'|
+|pyside6|6.10.0|6.10.2|lang-python|Compliance mode enabled, was '6.10.2'|
 |pyte|0.8.0|0.8.2|lang-python|Compliance mode enabled, was '0.8.2'|
 |pytest|8.2.2|9.0.2|lang-python|Compliance mode enabled, was '9.0.2'|
 |pytest-datafiles|3.0.0|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
@@ -2683,7 +2683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.9|3.10|app-emulation|Compliance mode enabled, was '3.10'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
-|vim|9.1.2103|9.1.2125|app-editors|Compliance mode enabled, was '9.1.2125'|
+|vim|9.1.2103|9.1.2127|app-editors|Compliance mode enabled, was '9.1.2127'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |virtualbox|7.2.4|7.2.6|app-virtualization|Compliance mode enabled, was '7.2.6'|
 |virtualenv|20.35.4|20.36.1|lang-python|Compliance mode enabled, was '20.36.1'|
