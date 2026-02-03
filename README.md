@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770089866?label=Updated)
+![Relative date](https://img.shields.io/date/1770095566?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -115,7 +115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiofile|0.3.6git20160829|0.3.6|runtime-multimedia|Compliance mode enabled, was '0.3.6'|
 |audit|4.0.2|4.1.3|app-admin|Compliance mode enabled, was '4.1.3'|
 |autobahn|24.4.2|25.12.2|lang-python|Compliance mode enabled, was '25.12.2'|
-|autobuild4|4.15.1|4.15.0|app-devel|Compliance mode enabled, was '4.15.0'<br>Possible downgrade from the current version (4.15.1 -> 4.15.0)|
 |avisynthplus|3.7.3|3.7.5|runtime-multimedia|Compliance mode enabled, was '3.7.5'|
 |avogadrolibs|1.95.1|1.102.1|runtime-scientific|Compliance mode enabled, was '1.102.1'|
 |avr-binutils|2.37|2.45.1|app-devel|Compliance mode enabled, was '2.45.1'|
@@ -263,6 +262,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|8.1.7|8.3.1|lang-python|Compliance mode enabled, was '8.3.1'|
 |clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
+|cloc|2.02|2.08|app-utils|Compliance mode enabled, was '2.08'|
 |cloud-init|24.4.1|25.3|app-admin|Compliance mode enabled, was '25.3'|
 |clp|1.17.6|1.17.10|app-scientific|Compliance mode enabled, was '1.17.10'|
 |clpeak|1.1.4|1.1.5|app-benchmarks|Compliance mode enabled, was '1.1.5'|
@@ -918,6 +918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaccounts-providers|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kactivities|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kactivities-stats|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
+|kactivitymanagerd|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |kaddressbook|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kajongg|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kalarm|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -1001,7 +1002,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |keepassxc|2.7.10|2.7.11|app-utils|Compliance mode enabled, was '2.7.11'|
 |kemoticons|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
-|kernel-tools|6.18.7|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.7 -> 5.19.17)|
+|kernel-tools|6.18.8|5.19.17|app-admin|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.8 -> 5.19.17)|
 |keyd|2.5.0|2.6.0|app-utils|Compliance mode enabled, was '2.6.0'|
 |keyring|25.6.0|25.7.0|lang-python|Compliance mode enabled, was '25.7.0'|
 |keysmith|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -1465,14 +1466,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |lilv|0.24.12|0.26.2|runtime-multimedia|Compliance mode enabled, was '0.26.2'|
 |linux+api+32|6.12.7|6.12.68|runtime-optenv32|Compliance mode enabled, was '6.12.68'|
-|linux+kernel|6.18.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.7 -> 5.19.17)|
+|linux+kernel|6.18.8|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.8 -> 5.19.17)|
 |linux+kernel+2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux+kernel+asahi|6.17.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.17.7 -> 5.19.17)|
 |linux+kernel+rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
 |linux+kernel+retro|5.10.204|5.10.248|runtime-kernel|Compliance mode enabled, was '5.10.248'|
 |linux+kernel+retro+minimal|5.15.17|5.10.248|runtime-kernel|Compliance mode enabled, was '5.10.248'<br>Possible downgrade from the current version (5.15.17 -> 5.10.248)|
 |linux-firmware|20251014|20260110|runtime-kernel||
-|linux-kernel|6.18.7|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.7 -> 5.19.17)|
+|linux-kernel|6.18.8|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.8 -> 5.19.17)|
 |linux-kernel-2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux-kernel-rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
 |linux-kernel-retro|5.10.204|5.10.248|runtime-kernel|Compliance mode enabled, was '5.10.248'|
