@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770147628?label=Updated)
+![Relative date](https://img.shields.io/date/1770150351?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -389,7 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmidecode|3.6|3.7|app-utils|Compliance mode enabled, was '3.7'|
 |dnscontrol|4.30.0|4.33.1|app-network|Compliance mode enabled, was '4.33.1'|
 |dnscrypt|2.1.7|2.1.15|app-network|Compliance mode enabled, was '2.1.15'|
-|dnsdiag|2.9.1|2.9.2|app-network|Compliance mode enabled, was '2.9.2'|
+|dnsdiag|2.9.1|2.9.3|app-network|Compliance mode enabled, was '2.9.3'|
 |dnsmasq|2.90|2.92|app-network|Compliance mode enabled, was '2.92'|
 |dnspython|2.7.0|2.8.0|lang-python|Compliance mode enabled, was '2.8.0'|
 |docbook-dtd|4.5|5.1|app-doc|Compliance mode enabled, was '5.1'|
@@ -546,7 +546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
 |findpython|0.7.0|0.7.1|lang-python|Compliance mode enabled, was '0.7.1'|
-|firefox|147.0|147.0.2|app-web|Compliance mode enabled, was '147.0.2'|
+|firefox|147.0|147.0.3|app-web|Compliance mode enabled, was '147.0.3'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.76|0.9.78|app-admin|Compliance mode enabled, was '0.9.78'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
@@ -732,6 +732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.188.0|lang-python|Compliance mode enabled, was '2.188.0'|
 |google-auth|1.6.3|2.48.0|lang-python|Compliance mode enabled, was '2.48.0'|
 |google-auth-httplib2|0.0.4|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
+|google-chrome|144.0.7559.109|144.0.7559.132|app-web|Compliance mode enabled, was '144.0.7559.132'|
 |goreleaser|2.13.1|2.13.3|lang-golang|Compliance mode enabled, was '2.13.3'|
 |goverlay|1.2|1.7.3|app-utils|Compliance mode enabled, was '1.7.3'|
 |gperftools|2.13|2.18|app-devel|Compliance mode enabled, was '2.18'|
@@ -2845,7 +2846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-component|4.4.1|7.1|lang-python|Compliance mode enabled, was '7.1'|
 |zope-event|4.3.0|6.1|lang-python|Compliance mode enabled, was '6.1'|
 |zope-interface|7.2|8.2|lang-python|Compliance mode enabled, was '8.2'|
-|zotero|8.0.0|8.0.1|app-productivity|Compliance mode enabled, was '8.0.1'|
+|zotero|8.0.0|8.0.2|app-productivity|Compliance mode enabled, was '8.0.2'|
 |zoxide|0.9.8|0.9.9|app-utils|Compliance mode enabled, was '0.9.9'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.23.0|0.25.0|lang-python|Compliance mode enabled, was '0.25.0'|
