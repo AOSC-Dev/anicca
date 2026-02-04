@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770240323?label=Updated)
+![Relative date](https://img.shields.io/date/1770243531?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -687,6 +687,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-characters|42.0|49.1|desktop-gnome|Compliance mode enabled, was '49.1'|
 |gnome-chess|42.1|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
 |gnome-clocks|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
+|gnome-color-manager|3.36.0|3.36.2|desktop-gnome|Compliance mode enabled, was '3.36.2'|
 |gnome-contacts|42.0|49.0|desktop-gnome|Compliance mode enabled, was '49.0'|
 |gnome-control-center|42.10|49.4|desktop-gnome|Compliance mode enabled, was '49.4'|
 |gnome-desktop|42.4|44.4|desktop-gnome|Compliance mode enabled, was '44.4'|
@@ -1779,7 +1780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentofu|1.11.2|1.11.4|app-admin|Compliance mode enabled, was '1.11.4'|
 |openttd|14.1|15.1|app-games||
 |openvdb|11.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
-|openvpn|2.6.17|2.6.18|app-network|Compliance mode enabled, was '2.6.18'|
+|openvpn|2.6.17|2.6.19|app-network|Compliance mode enabled, was '2.6.19'|
 |openvswitch|3.6.0|3.6.1|app-network|Compliance mode enabled, was '3.6.1'|
 |optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
 |opus|1.6|1.6.1|runtime-multimedia|Compliance mode enabled, was '1.6.1'|
