@@ -675,7 +675,7 @@
 ["hddtemp","0.4.3","0.4.4","app-utils",1762277192,["Compliance mode enabled, was '0.4.4'"]],
 ["fzf","0.66.0","0.67.0","app-utils",1761613627,["Compliance mode enabled, was '0.67.0'"]],
 ["atuin","18.10.0","18.11.0","app-utils",1765566828,["Compliance mode enabled, was '18.11.0'"]],
-["hwinfo","25.0","25.1","app-utils",1753491601,["Compliance mode enabled, was '25.1'"]],
+["hwinfo","25.0","25.2","app-utils",1753491601,["Compliance mode enabled, was '25.2'"]],
 ["plank","0.11.89+git20210222","0.11.89","app-utils",1622534172,["Compliance mode enabled, was '0.11.89'"]],
 ["pakfixer","0.1.4","0.1.3","app-utils",1753196252,["Compliance mode enabled, was '0.1.3'","Possible downgrade from the current version (0.1.4 -> 0.1.3)"]],
 ["distrobox","1.8.2.2","1.8.2.3","app-utils",1767499536,["Compliance mode enabled, was '1.8.2.3'"]],
