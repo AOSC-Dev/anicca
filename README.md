@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770215862?label=Updated)
+![Relative date](https://img.shields.io/date/1770219257?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -334,7 +334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |criu|4.1.1|4.2|app-admin|Compliance mode enabled, was '4.2'|
 |croc|10.2.7|10.3.1|app-utils|Compliance mode enabled, was '10.3.1'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
-|crush|0.29.1|0.39.0|app-utils|Compliance mode enabled, was '0.39.0'|
+|crush|0.29.1|0.39.1|app-utils|Compliance mode enabled, was '0.39.1'|
 |cryfs|0.11.4|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
 |cryptography|46.0.2|46.0.4|lang-python|Compliance mode enabled, was '46.0.4'|
 |cryptsetup|2.8.1|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
@@ -785,6 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-av|0.12.11|0.14.4|desktop-gnome|Compliance mode enabled, was '0.14.4'|
 |gupnp-dlna|0.10.5|0.12.0|desktop-gnome|Compliance mode enabled, was '0.12.0'|
 |gutenprint|5.3.4|5.3.5|app-doc|Compliance mode enabled, was '5.3.5'|
+|guvcview|2.1.0|2.2.2|app-devices|Compliance mode enabled, was '2.2.2'|
 |gvfs|1.50.2|1.59.1|desktop-gnome|Compliance mode enabled, was '1.59.1'|
 |gwenhywfar|5.12.1|5.14.1|runtime-network|Compliance mode enabled, was '5.14.1'|
 |gwenview|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -2475,7 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools+32|1.4.335.0|2026.1|runtime-optenv32|Compliance mode enabled, was '2026.1'|
 |sqlalchemy|1.2.18|2.1.0~b1|lang-python|Compliance mode enabled, was '2.1.0b1'|
 |sqlcipher|4.5.6|4.13.0|app-database|Compliance mode enabled, was '4.13.0'|
-|sqlglot|28.1.0|28.9.0|lang-python|Compliance mode enabled, was '28.9.0'|
+|sqlglot|28.1.0|28.10.0|lang-python|Compliance mode enabled, was '28.10.0'|
 |sqlite|3500400|3.51.2|app-database|Possible downgrade from the current version (3500400 -> 3.51.2)|
 |sqlite+32|3.46.1|3.51.2|runtime-optenv32|Compliance mode enabled, was '3.51.2'|
 |sqlitebrowser|3.12.1|83649a3-3357|app-database|Compliance mode enabled, was '83649a3-3357'|
