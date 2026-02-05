@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770280309?label=Updated)
+![Relative date](https://img.shields.io/date/1770284188?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1163,7 +1163,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktimer|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |ktnef|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |ktorrent|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
-|ktouch|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |ktrip|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |ktuberling|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
 |kturtle|23.08.5|25.12.1|desktop-kde|Compliance mode enabled, was '25.12.1'|
@@ -1409,7 +1408,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsysstat|0.4.4|1.1.0|desktop-lxqt|Compliance mode enabled, was '1.1.0'|
 |libtasn1|4.20.0|4.21.0|runtime-cryptography|Compliance mode enabled, was '4.21.0'|
 |libtasn1+32|4.20.0|4.21.0|runtime-optenv32|Compliance mode enabled, was '4.21.0'|
-|libtatsu|1.0.4|1.0.5|runtime-devices|Compliance mode enabled, was '1.0.5'|
 |libteam|1.31|1.32|app-network|Compliance mode enabled, was '1.32'|
 |libthai|0.1.28|0.1.30|runtime-i18n|Compliance mode enabled, was '0.1.30'|
 |libthai+32|0.1.28|0.1.30|runtime-optenv32|Compliance mode enabled, was '0.1.30'|
