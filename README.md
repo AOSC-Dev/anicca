@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770386120?label=Updated)
+![Relative date](https://img.shields.io/date/1770388605?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1479,7 +1479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps|1.10.0|1.11.2|app-admin|Compliance mode enabled, was '1.11.2'|
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7600|7954|runtime-creativity|Compliance mode enabled, was '7954'|
+|llama.cpp|7600|7955|runtime-creativity|Compliance mode enabled, was '7955'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llvm+32|20.1.8|21.1.8|runtime-optenv32|Compliance mode enabled, was '21.1.8'|
@@ -1883,7 +1883,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-locale|1.26|1.45|lang-perl|Compliance mode enabled, was '1.45'|
 |perl-datetime-timezone|2.62|2.66|lang-perl|Compliance mode enabled, was '2.66'|
 |perl-dbd-mysql|4.052|5.013|lang-perl|Compliance mode enabled, was '5.013'|
-|perl-dbd-sqlite|1.63<br>+03|1.78|lang-perl|Compliance mode enabled, was '1.78'|
 |perl-dbi|1.642|1.647|lang-perl|Compliance mode enabled, was '1.647'|
 |perl-devel-checklib|1.13|1.16|lang-perl|Compliance mode enabled, was '1.16'|
 |perl-devel-stacktrace|2.04|2.05|lang-perl|Compliance mode enabled, was '2.05'|
@@ -2046,7 +2045,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasmatube|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |platformdirs|4.3.8|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
 |plocate|1.1.22|1.1.24|app-utils|Compliance mode enabled, was '1.1.24'|
-|pluggy|1.5.0|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
 |pluma|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |plymouth-kcm|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plzip|1.11|1.12|app-utils|Compliance mode enabled, was '1.12'|
@@ -2300,7 +2298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.1.1|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|7954|runtime-rocm|Compliance mode enabled, was '7954'|
+|rocm-llama-cpp|7.0.1|7955|runtime-rocm|Compliance mode enabled, was '7955'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2593,6 +2591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|app-admin|Compliance mode enabled, was '1.3.9.2'|
 |tqdm|4.62.3|4.67.3|lang-python|Compliance mode enabled, was '4.67.3'|
 |tqftpserv|1.1|1.1.1|runtime-admin|Compliance mode enabled, was '1.1.1'|
+|trace-cmd|3.3|3.4|app-utils|Compliance mode enabled, was '3.4'|
 |tracker|3.7.3|3.10.1|desktop-gnome|Compliance mode enabled, was '3.10.1'|
 |tracker-miners|3.3.1|3.10.2|desktop-gnome|Compliance mode enabled, was '3.10.2'|
 |transfig|3.2.9|3.2.9a|app-utils|Compliance mode enabled, was '3.2.9a'<br>Possible downgrade from the current version (3.2.9 -> 3.2.9a)|
