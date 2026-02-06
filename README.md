@@ -1,12 +1,11 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770366690?label=Updated)
+![Relative date](https://img.shields.io/date/1770370573?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
 |86box|5.2|5.3|app-emulation|Compliance mode enabled, was '5.3'|
-|a2ps|4.15.7|4.15.8|app-doc|Compliance mode enabled, was '4.15.8'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -78,6 +77,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|3.0.3|3.1.15|app-admin|Compliance mode enabled, was '3.1.15'|
 |arcanist|2025.18|2025.51|app-devel|Compliance mode enabled, was '2025.51'|
 |arch-install-scripts|28|31|app-utils||
+|archlinux-keyring|20260202|20260206|runtime-data|Compliance mode enabled, was '20260206'|
 |arduino-avr-core|1.8.3|1.8.7|app-devel|Compliance mode enabled, was '1.8.7'|
 |argcomplete|3.5.0|3.6.3|lang-python|Compliance mode enabled, was '3.6.3'|
 |argparse-manpage|4.5|4.7|lang-python|Compliance mode enabled, was '4.7'|
@@ -2392,7 +2392,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-rust|1.9.0|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
 |setuptools-scm|9.2.1|9.2.2|lang-python|Compliance mode enabled, was '9.2.2'|
 |sfml|2.5.1|3.0.2|runtime-multimedia|Compliance mode enabled, was '3.0.2'|
-|sg3-utils|1.47r915|1.48|app-admin|Compliance mode enabled, was '1.48'|
 |shaderc|2025.5|2026.1|app-devel|Compliance mode enabled, was '2026.1'|
 |shadow|4.17.2|4.19.3|app-admin|Compliance mode enabled, was '4.19.3'|
 |shapelib|1.5.0|1.6.2|runtime-imaging|Compliance mode enabled, was '1.6.2'|
