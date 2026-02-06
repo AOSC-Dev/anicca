@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770360045?label=Updated)
+![Relative date](https://img.shields.io/date/1770363691?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -828,6 +828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hypothesis-python|6.97.4|6.151.5|lang-python|Compliance mode enabled, was '6.151.5'|
 |hysteria|2.6.3|2.7.0|app-proxy|Compliance mode enabled, was '2.7.0'|
 |i2pd|2.57.0|2.58.0|app-web|Compliance mode enabled, was '2.58.0'|
+|i3|4.25|4.25.1|desktop-wm|Compliance mode enabled, was '4.25.1'|
 |ibm-plex-fonts|6.4.0|6.4.2|desktop-fonts|Compliance mode enabled, was '6.4.2'|
 |ibus-anthy|1.5.13|1.5.17|app-i18n|Compliance mode enabled, was '1.5.17'|
 |ibus-hangul|1.5.4|1.5.5|app-i18n|Compliance mode enabled, was '1.5.5'|
@@ -2666,7 +2667,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.9.25|0.10.0|lang-python|Compliance mode enabled, was '0.10.0'|
 |v2ray-rules-dat|202601042214|202602052221|runtime-data|Compliance mode enabled, was '202602052221'<br>Versions not comparable: `202601042214` and `202602052221`|
-|v2raya|2.2.7.3|2.2.7.5|app-proxy|Compliance mode enabled, was '2.2.7.5'|
+|v2raya|2.2.7.3|2.3.0|app-proxy|Compliance mode enabled, was '2.3.0'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
 |vacuumtube|1.3.21|1.5.6|app-multimedia|Compliance mode enabled, was '1.5.6'|
@@ -2703,8 +2704,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vte|0.82.2|0.82.3|runtime-desktop|Compliance mode enabled, was '0.82.3'|
 |vulkan-extensionlayer|1.4.335.0|1.4.342|runtime-display|Compliance mode enabled, was '1.4.342'|
-|vulkan-headers|1.4.335.0|1.4.342|runtime-display|Compliance mode enabled, was '1.4.342'|
-|vulkan-headers+32|1.4.335.0|1.4.342|runtime-optenv32|Compliance mode enabled, was '1.4.342'|
+|vulkan-headers|1.4.335.0|1.4.343|runtime-display|Compliance mode enabled, was '1.4.343'|
+|vulkan-headers+32|1.4.335.0|1.4.343|runtime-optenv32|Compliance mode enabled, was '1.4.343'|
 |vulkan-loader|1.4.335.0|1.4.342|runtime-display|Compliance mode enabled, was '1.4.342'|
 |vulkan-loader+32|1.4.335.0|1.4.342|runtime-optenv32|Compliance mode enabled, was '1.4.342'|
 |vulkan-tools|1.4.335.0|1.4.342|app-utils|Compliance mode enabled, was '1.4.342'|
@@ -2791,6 +2792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xiaohuixiangqi|0.1.1|0.1.2|app-games|Compliance mode enabled, was '0.1.2'|
 |xinetd|2.3.15|2.3.15.4|app-network|Compliance mode enabled, was '2.3.15.4'|
 |xinit|1.4.2|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
+|xinput-calibrator|0.8.0|0.7.5|app-utils|Compliance mode enabled, was '0.7.5'<br>Possible downgrade from the current version (0.8.0 -> 0.7.5)|
 |xjadeo|0.8.13|0.8.15|app-multimedia|Compliance mode enabled, was '0.8.15'|
 |xkeyboard-config|2.40|2.46|runtime-display|Compliance mode enabled, was '2.46'|
 |xl2tpd|1.3.15|1.3.20|app-network|Compliance mode enabled, was '1.3.20'|
@@ -2835,7 +2837,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura-pdf-poppler|2026.02.03|0.3.4|app-doc|Compliance mode enabled, was '0.3.4'<br>Possible downgrade from the current version (2026.02.03 -> 0.3.4)|
 |zathura-ps|2026.02.03|0.2.9|app-doc|Compliance mode enabled, was '0.2.9'<br>Possible downgrade from the current version (2026.02.03 -> 0.2.9)|
 |zeal|0.7.0|0.7.2|app-doc|Compliance mode enabled, was '0.7.2'|
-|zed|0.221.4|0.222.3|app-editors|Compliance mode enabled, was '0.222.3'|
+|zed|0.221.4|0.222.4|app-editors|Compliance mode enabled, was '0.222.4'|
 |zeitgeist|1.0.4<br>+git20230111|1.0.4|app-admin|Compliance mode enabled, was '1.0.4'|
 |zeroconf|0.28.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
