@@ -703,7 +703,6 @@
 ["mawk","1.3.4+20240905","1.3.4+20260129","app-utils",1728901429,["Compliance mode enabled, was '1.3.4-20260129'"]],
 ["aosc-media-writer","0.4.3","5.0.9","app-utils",1763126912,["Compliance mode enabled, was '5.0.9'"]],
 ["gpick","0.3","0.4","app-utils",1700797896,["Compliance mode enabled, was '0.4'"]],
-["xinput-calibrator","0.8.0","0.7.5","app-utils",1766942098,["Compliance mode enabled, was '0.7.5'","Possible downgrade from the current version (0.8.0 -> 0.7.5)"]],
 ["xcalibrate","0.9+git20200330","0.9","app-utils",1594019096,["Compliance mode enabled, was '0.9'"]],
 ["goverlay","1.2","1.7.3","app-utils",1724823176,["Compliance mode enabled, was '1.7.3'"]],
 ["caligula","0.4.9","0.4.10","app-utils",1760431251,["Compliance mode enabled, was '0.4.10'"]],
