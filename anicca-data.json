@@ -2006,7 +2006,6 @@
 ["apt","3.0.3","3.1.15","app-admin",1757427380,["Compliance mode enabled, was '3.1.15'"]],
 ["hfsprogs","332.25","667.100.2","app-admin",1610962798,["Compliance mode enabled, was '667.100.2'"]],
 ["debconf-kde","1.1.0","1.2.0","app-admin",1707021266,["Compliance mode enabled, was '1.2.0'"]],
-["oma","1.23.5","1.23.4","app-admin",1770352524,["Compliance mode enabled, was '1.23.4'","Possible downgrade from the current version (1.23.5 -> 1.23.4)"]],
 ["linux-pam","1.7.1","1.7.2","app-admin",1750241626,["Compliance mode enabled, was '1.7.2'"]],
 ["xfsdump","3.1.12","3.2.0","app-admin",1678601027,["Compliance mode enabled, was '3.2.0'"]],
 ["partimage","0.6.9","0.7.2","app-admin",1756222826,["Compliance mode enabled, was '0.7.2'"]],
