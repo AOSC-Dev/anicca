@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770419885?label=Updated)
+![Relative date](https://img.shields.io/date/1770425920?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aardvark-dns|1.13.1|1.17.0|app-admin|Compliance mode enabled, was '1.17.0'|
 |aarty|0.6.1|0.8.2|app-utils|Compliance mode enabled, was '0.8.2'|
+|ab-download-manager|1.8.4|1.8.5|app-web|Compliance mode enabled, was '1.8.5'|
 |abseil-cpp|20240722.0|20260107.0|runtime-common|Compliance mode enabled, was '20260107.0'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
 |accerciser|3.40.0|3.48.0|desktop-gnome|Compliance mode enabled, was '3.48.0'|
@@ -562,7 +563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flare-game|1.14<br>+git20251101|1.14|app-games|Compliance mode enabled, was '1.14'|
 |flask|3.0.3|3.1.2|lang-python|Compliance mode enabled, was '3.1.2'|
 |flat-remix-icon-theme|20250709|20251119|desktop-themes|Compliance mode enabled, was '20251119'|
-|flatbuffers|25.2.10|25.12.19|runtime-common|Compliance mode enabled, was '25.12.19'|
+|flatbuffers|25.2.10|25.12.19-2026-02-06-03fffb2|runtime-common|Compliance mode enabled, was '25.12.19-2026-02-06-03fffb2'|
 |flclash|0.8.91|0.8.92|app-proxy|Compliance mode enabled, was '0.8.92'|
 |flint|3.3.1|3.4.0|runtime-scientific|Compliance mode enabled, was '3.4.0'|
 |fltk-1.3|1.3.11|1.4.4|runtime-desktop|Compliance mode enabled, was '1.4.4'|
@@ -1580,9 +1581,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mercurial|7.0.2|7.2|app-vcs|Compliance mode enabled, was '7.2'|
 |merge3|0.0.15|0.0.16|lang-python|Compliance mode enabled, was '0.0.16'|
 |merkuro|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
-|mesa|25.3.2|25.3.4|runtime-display||
-|mesa+32|25.3.2|25.3.4|runtime-optenv32||
-|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.4|runtime-display|Compliance mode enabled, was '25.3.4'|
+|mesa|25.3.2|25.3.5|runtime-display||
+|mesa+32|25.3.2|25.3.5|runtime-optenv32||
+|mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|25.3.5|runtime-display|Compliance mode enabled, was '25.3.5'|
 |mesen|0.9.9|2.1.1|app-games|Compliance mode enabled, was '2.1.1'|
 |messagelib|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |metacity|3.44.0|3.58.1|desktop-gnome|Compliance mode enabled, was '3.58.1'|
