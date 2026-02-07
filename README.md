@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770459367?label=Updated)
+![Relative date](https://img.shields.io/date/1770462956?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1197,7 +1197,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |lazarus|3.2|4.4|lang-pascal|Compliance mode enabled, was '4.4'|
 |lazy-object-proxy|1.7.1|1.12.0|lang-python|Compliance mode enabled, was '1.12.0'|
-|lazygit|0.57.0|0.58.1|app-vcs|Compliance mode enabled, was '0.58.1'|
+|lazygit|0.57.0|0.59.0|app-vcs|Compliance mode enabled, was '0.59.0'|
 |lbrowser|3.4.2039.0|3.4.2082.1|app-web||
 |lcms2|2.17|2.18|runtime-imaging|Compliance mode enabled, was '2.18'|
 |lcms2+32|2.17|2.18|runtime-optenv32|Compliance mode enabled, was '2.18'|
@@ -1636,7 +1636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutter|42.4|49.3|desktop-gnome|Compliance mode enabled, was '49.3'|
 |mvfst|2025.09.01.00|2026.02.02.00|runtime-network|Compliance mode enabled, was '2026.02.02.00'|
 |mxml|3.3.1|4.0.4|runtime-common|Compliance mode enabled, was '4.0.4'|
-|mycli|1.42.0|1.49.0|app-database|Compliance mode enabled, was '1.49.0'|
+|mycli|1.42.0|1.50.0|app-database|Compliance mode enabled, was '1.50.0'|
 |mygpoclient|1.8|1.10|lang-python|Compliance mode enabled, was '1.10'|
 |mypy|1.18.2|1.19.1|lang-python|Compliance mode enabled, was '1.19.1'|
 |n2n|2.8|3.1.1|app-network|Compliance mode enabled, was '3.1.1'|
@@ -2565,7 +2565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |testresources|2.0.1|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |texlive|20250308|2025|app-doc|Compliance mode enabled, was '2025'<br>Possible downgrade from the current version (20250308 -> 2025)|
 |texmaker|5.1.2|6.0.1|app-doc|Compliance mode enabled, was '6.0.1'|
-|texstudio|4.8.6|4.9.1|app-doc|Compliance mode enabled, was '4.9.1'|
+|texstudio|4.8.6|4.9.2|app-doc|Compliance mode enabled, was '4.9.2'|
 |tftp-hpa|5.2<br>+git20240610|5.3|app-network|Compliance mode enabled, was '5.3'|
 |the-honkers-railway-launcher|1.14.0|1.14.2|app-games|Compliance mode enabled, was '1.14.2'|
 |thedarkmod|2.09a|2.13|app-games|Compliance mode enabled, was '2.13'|
