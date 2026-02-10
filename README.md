@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770753331?label=Updated)
+![Relative date](https://img.shields.io/date/1770755743?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -339,7 +339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crush|0.29.1|0.41.0|app-utils|Compliance mode enabled, was '0.41.0'|
 |cryfs|0.11.4|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
-|cryptography|46.0.2|46.0.4|lang-python|Compliance mode enabled, was '46.0.4'|
+|cryptography|46.0.2|46.0.5|lang-python|Compliance mode enabled, was '46.0.5'|
 |cryptsetup|2.8.1|2.8.4|app-admin|Compliance mode enabled, was '2.8.4'|
 |css-parser|1.0.6|1.0.10|lang-python|Compliance mode enabled, was '1.0.10'|
 |cssselect2|0.6.0|0.8.0|lang-python|Compliance mode enabled, was '0.8.0'|
@@ -578,6 +578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth+32|2.3.6|2.5.2|runtime-optenv32|Compliance mode enabled, was '2.5.2'|
 |folks|0.15.9|0.15.12|desktop-gnome|Compliance mode enabled, was '0.15.12'|
 |folly|2025.09.01.00|2026.02.09.00|runtime-common|Compliance mode enabled, was '2026.02.09.00'|
+|font-awesome|7.1.0|7.2.0|desktop-fonts|Compliance mode enabled, was '7.2.0'|
 |fontconfig|2.15.0|2.17.1|runtime-desktop|Compliance mode enabled, was '2.17.1'|
 |fontconfig+32|2.15.0|2.17.1|runtime-optenv32|Compliance mode enabled, was '2.17.1'|
 |fonttools|4.53.1|4.61.1|desktop-fonts|Compliance mode enabled, was '4.61.1'|
@@ -728,7 +729,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnu-efi|3.0.18|4.0.4|app-devel|Compliance mode enabled, was '4.0.4'|
 |gnuchess|6.2.9|6.3.0|app-games|Compliance mode enabled, was '6.3.0'|
 |gnuplot|6.0.2|6.0.4|app-utils|Compliance mode enabled, was '6.0.4'|
-|go|1.25.4|1.25.7|lang-golang||
+|go|1.25.4|1.26.0|lang-golang||
 |go-md2man|2.0.6|2.0.7|app-doc|Compliance mode enabled, was '2.0.7'|
 |godot|4.5.1|4.6|app-devel|Compliance mode enabled, was '4.6'|
 |goffice|0.10.48|0.10.59|runtime-productivity|Compliance mode enabled, was '0.10.59'|
@@ -1126,6 +1127,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kplotting|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kpmcore|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kpty|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
+|kpublictransport|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kqtquickcharts|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kquickcharts|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |kquickimageeditor|0.2.0|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
@@ -1169,7 +1171,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktrip|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |ktuberling|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kturtle|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
-|kubernetes|1.34.1|1.35.0|app-containers|Compliance mode enabled, was '1.35.0'|
+|kubernetes|1.34.1|1.35.1|app-containers|Compliance mode enabled, was '1.35.1'|
 |kubo|0.38.2|0.39.0|app-proxy|Compliance mode enabled, was '0.39.0'|
 |kubrick|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kunitconversion|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
@@ -1467,7 +1469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liferea|1.14.6|1.16.7|app-web|Compliance mode enabled, was '1.16.7'|
 |light-locker|1.8.0|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
 |lightdm-gtk-greeter-settings|1.2.2|1.2.3|app-utils|Compliance mode enabled, was '1.2.3'|
-|lightdm-settings|2.0.9|2.1.1|desktop-displaymanagers|Compliance mode enabled, was '2.1.1'|
 |lightsoff|40.0.1|48.1|desktop-gnome|Compliance mode enabled, was '48.1'|
 |lilv|0.24.12|0.26.2|runtime-multimedia|Compliance mode enabled, was '0.26.2'|
 |linux+api|6.12.68|6.12.69|core-devel|Compliance mode enabled, was '6.12.69'|
