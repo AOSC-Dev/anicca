@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770809894?label=Updated)
+![Relative date](https://img.shields.io/date/1770813639?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -596,7 +596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.5.11|runtime-database|Compliance mode enabled, was '1.5.11'|
 |freetype|2.13.3|2.14.1|runtime-desktop|Compliance mode enabled, was '2.14.1'|
 |freetype+32|2.13.3|2.14.1|runtime-optenv32|Compliance mode enabled, was '2.14.1'|
-|frescobaldi|3.3.0|4.0.4|app-multimedia|Compliance mode enabled, was '4.0.4'|
+|frescobaldi|3.3.0|4.0.5|app-multimedia|Compliance mode enabled, was '4.0.5'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
 |frp|0.66.0|0.67.0|app-proxy|Compliance mode enabled, was '0.67.0'|
@@ -649,7 +649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gfxreconstruct|1.0.4|1.0.5|app-devel|Compliance mode enabled, was '1.0.5'|
 |ghc|9.4.8|9.14.1-release|lang-haskell|Compliance mode enabled, was '9.14.1-release'|
 |ghex|46.0|48.3|desktop-gnome|Compliance mode enabled, was '48.3'|
-|ghidra|12.0_build|12.0.2_build|app-devel|Possible downgrade from the current version (12.0_build -> 12.0.2_build)|
+|ghidra|12.0_build|12.0.3_build|app-devel|Possible downgrade from the current version (12.0_build -> 12.0.3_build)|
 |ghostscript|9.54.0|10.06.0|app-doc|Compliance mode enabled, was '10.06.0'|
 |ghostwriter|24.05.2|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |gi-docgen|2025.4|2026.1|app-doc|Compliance mode enabled, was '2026.1'|
@@ -1425,7 +1425,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff|4.4.0|4.7.1|runtime-imaging|Compliance mode enabled, was '4.7.1'|
 |libtiff+32|4.4.0|4.7.1|runtime-optenv32|Compliance mode enabled, was '4.7.1'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
-|libtpms|0.10.1|0.10.2|runtime-devices|Compliance mode enabled, was '0.10.2'|
 |libtracefs|1.8.1|1.8.3|runtime-admin|Compliance mode enabled, was '1.8.3'|
 |libtsm|4.4.2|4.3.0|runtime-common|Compliance mode enabled, was '4.3.0'<br>Possible downgrade from the current version (4.4.2 -> 4.3.0)|
 |libuninameslist|20240910|20260107|runtime-i18n|Compliance mode enabled, was '20260107'|
@@ -1729,6 +1728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml|4.14.2|5.4.0|lang-ocaml|Compliance mode enabled, was '5.4.0'|
 |ocaml-cmdliner|1.2.0|2.1.0|lang-ocaml|Compliance mode enabled, was '2.1.0'|
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml|Compliance mode enabled, was '1.5.2'|
+|ocaml-fmt|0.9.0|0.11.0|lang-ocaml|Compliance mode enabled, was '0.11.0'|
 |ocaml-graphics|5.1.0|5.2.0|lang-ocaml|Compliance mode enabled, was '5.2.0'|
 |ocaml-logs|0.7.0|0.9.0|lang-ocaml|Compliance mode enabled, was '0.9.0'|
 |ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
