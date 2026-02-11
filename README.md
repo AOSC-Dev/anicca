@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770824941?label=Updated)
+![Relative date](https://img.shields.io/date/1770828845?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -14,7 +14,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.13.1|1.17.0|app-admin|Compliance mode enabled, was '1.17.0'|
 |aarty|0.6.1|0.8.2|app-utils|Compliance mode enabled, was '0.8.2'|
 |ab-download-manager|1.8.4|1.8.5|app-web|Compliance mode enabled, was '1.8.5'|
-|abseil-cpp|20240722.0|20260107.0|runtime-common|Compliance mode enabled, was '20260107.0'|
+|abseil-cpp|20240722.0|20260107.1|runtime-common|Compliance mode enabled, was '20260107.1'|
 |abyss|2.1.5|2.3.10|app-scientific|Compliance mode enabled, was '2.3.10'|
 |accerciser|3.40.0|3.48.0|desktop-gnome|Compliance mode enabled, was '3.48.0'|
 |accountsservice|22.08.8|23.13.9|app-admin|Compliance mode enabled, was '23.13.9'|
@@ -254,7 +254,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-desktop|5.8.0|6.6.2|desktop-cinnamon|Compliance mode enabled, was '6.6.2'|
 |cinnamon-menus|5.8.0|6.6.0|desktop-cinnamon|Compliance mode enabled, was '6.6.0'|
 |cinnamon-screensaver|5.8.0|6.6.1|desktop-cinnamon|Compliance mode enabled, was '6.6.1'|
-|cinnamon-session|5.8.1|6.6.2|desktop-cinnamon|Compliance mode enabled, was '6.6.2'|
+|cinnamon-session|5.8.1|6.6.3|desktop-cinnamon|Compliance mode enabled, was '6.6.3'|
 |cinnamon-settings-daemon|5.8.1|6.6.3|desktop-cinnamon|Compliance mode enabled, was '6.6.3'|
 |cinnamon-translations|5.8.1|6.6.2|desktop-cinnamon|Compliance mode enabled, was '6.6.2'|
 |cjs|5.8.0|128.1|desktop-cinnamon|Compliance mode enabled, was '128.1'|
@@ -295,7 +295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |concurrencykit|0.7.1|0.7.2|runtime-common|Compliance mode enabled, was '0.7.2'|
 |configargparse|1.7|1.7.1|lang-python|Compliance mode enabled, was '1.7.1'|
 |configobj|5.0.6|5.0.9|lang-python|Compliance mode enabled, was '5.0.9'|
-|configshell-fb|1.1.30|2.0.2|lang-python|Compliance mode enabled, was '2.0.2'|
 |conmon|2.1.13|2.2.0|app-admin|Compliance mode enabled, was '2.2.0'|
 |containerd|2.2.0|2.2.1|app-containers|Compliance mode enabled, was '2.2.1'|
 |convertall|0.7.5|1.0.2|app-utils|Compliance mode enabled, was '1.0.2'|
@@ -734,6 +733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |go-md2man|2.0.6|2.0.7|app-doc|Compliance mode enabled, was '2.0.7'|
 |godot|4.5.1|4.6|app-devel|Compliance mode enabled, was '4.6'|
 |goffice|0.10.48|0.10.60|runtime-productivity|Compliance mode enabled, was '0.10.60'|
+|goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.5|runtime-database|Compliance mode enabled, was '0.5.5'|
 |google-api-python-client|1.7.11|2.189.0|lang-python|Compliance mode enabled, was '2.189.0'|
 |google-auth|1.6.3|2.48.0|lang-python|Compliance mode enabled, was '2.48.0'|
@@ -1222,7 +1222,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libayatana-appindicator|0.5.93|0.5.94|runtime-desktop|Compliance mode enabled, was '0.5.94'|
 |libbinio|1.5|1.4|runtime-common|Compliance mode enabled, was '1.4'<br>Possible downgrade from the current version (1.5 -> 1.4)|
 |libblkio|1.3.0|1.5.0|runtime-common|Compliance mode enabled, was '1.5.0'|
-|libbloom|1.6|2.0|runtime-common|Compliance mode enabled, was '2.0'|
 |libbpf|1.6.1|1.6.3|runtime-kernel|Compliance mode enabled, was '1.6.3'|
 |libbytesize|2.1|2.12|runtime-common|Compliance mode enabled, was '2.12'|
 |libc+wasi|22|29|runtime-wasi|Compliance mode enabled, was '29'|
