@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770796086?label=Updated)
+![Relative date](https://img.shields.io/date/1770798992?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -236,7 +236,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|2.7.1|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |cheese|41.1|44.1|desktop-gnome|Compliance mode enabled, was '44.1'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
-|cherry-studio|1.7.13|1.7.17|app-utils|Compliance mode enabled, was '1.7.17'|
+|cherry-studio|1.7.13|1.7.18|app-utils|Compliance mode enabled, was '1.7.18'|
+|chezmoi|2.69.3|2.69.4|app-utils|Compliance mode enabled, was '2.69.4'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.606|desktop-fonts|Compliance mode enabled, was '2.606'|
 |chisel|1.10.1|1.11.3|app-network|Compliance mode enabled, was '1.11.3'|
@@ -2240,7 +2241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmmp|1.7.6|2.3.1|app-multimedia|Compliance mode enabled, was '2.3.1'|
 |qpageview|0.6.2|1.0.3|lang-python|Compliance mode enabled, was '1.0.3'|
 |qpdf|12.2.0|12.3.2|app-doc|Compliance mode enabled, was '12.3.2'|
-|qps|2.8.0|2.12.0|desktop-lxqt|Compliance mode enabled, was '2.12.0'|
 |qpwgraph|0.9.8|0.9.9|app-multimedia|Compliance mode enabled, was '0.9.9'|
 |qqc2-desktop-style|5.115.0|6.22.0|desktop-kde|Compliance mode enabled, was '6.22.0'|
 |qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
