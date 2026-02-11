@@ -875,6 +875,7 @@
 ["cinnamon-settings-daemon","5.8.1","6.6.3","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.6.3'"]],
 ["cinnamon-desktop","5.8.0","6.6.2","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.6.2'"]],
 ["nemo","6.4.0","6.6.3","desktop-cinnamon",1767006852,["Compliance mode enabled, was '6.6.3'"]],
+["cinnamon-translations","5.8.1","6.6.2","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.6.2'"]],
 ["nemo-extensions","6.4.0","6.6.0","desktop-cinnamon",1767006852,["Compliance mode enabled, was '6.6.0'"]],
 ["cinnamon-session","5.8.1","6.6.3","desktop-cinnamon",1688952990,["Compliance mode enabled, was '6.6.3'"]],
 ["ghc","9.4.8","9.14.1-release","lang-haskell",1711355899,["Compliance mode enabled, was '9.14.1-release'"]],
