@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770905095?label=Updated)
+![Relative date](https://img.shields.io/date/1770910934?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -323,6 +323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cosmic-screenshot|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
 |cosmic-session|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
 |cosmic-settings|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
+|cosmic-settings-daemon|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
 |cosmic-store|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
 |cosmic-term|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
 |cosmic-wallpapers|1.0.3|1.0.6|desktop-cosmic|Compliance mode enabled, was '1.0.6'|
@@ -1791,7 +1792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openstack-service-types|1.7.0|1.8.2|lang-python|Compliance mode enabled, was '1.8.2'|
 |opensubdiv|3.6.0|3.7.0|runtime-creativity|Compliance mode enabled, was '3_7_0'|
 |opentimelineio|0.15|0.18.1|runtime-multimedia|Compliance mode enabled, was '0.18.1'|
-|opentofu|1.11.2|1.11.4|app-admin|Compliance mode enabled, was '1.11.4'|
+|opentofu|1.11.2|1.11.5|app-admin|Compliance mode enabled, was '1.11.5'|
 |openttd|14.1|15.1|app-games||
 |openvdb|11.0.0|13.0.0|runtime-common|Compliance mode enabled, was '13.0.0'|
 |openvpn|2.6.17|2.7.0|app-network|Compliance mode enabled, was '2.7.0'|
@@ -1860,7 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2+32|10.44|10.47|runtime-optenv32|Compliance mode enabled, was '10.47'|
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
-|pcsx2|1.6.0<br>+git20210825|2.7.113|app-games|Compliance mode enabled, was '2.7.113'|
+|pcsx2|1.6.0<br>+git20210825|2.7.114|app-games|Compliance mode enabled, was '2.7.114'|
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdfminer|20240706|20260107|app-doc|Compliance mode enabled, was '20260107'|
@@ -2066,7 +2067,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasma-workspace-wallpapers|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |plasmatube|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
-|platformdirs|4.3.8|4.5.1|lang-python|Compliance mode enabled, was '4.5.1'|
+|platformdirs|4.3.8|4.6.0|lang-python|Compliance mode enabled, was '4.6.0'|
 |plocate|1.1.22|1.1.24|app-utils|Compliance mode enabled, was '1.1.24'|
 |pluggy|1.5.0|1.6.0|lang-python|Compliance mode enabled, was '1.6.0'|
 |pluma|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
@@ -2092,13 +2093,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |popt+32|1.18|1.19|runtime-optenv32|Compliance mode enabled, was '1.19'|
 |portmidi|2.0.4|2.0.8|runtime-multimedia|Compliance mode enabled, was '2.0.8'|
 |postfix|3.7.3|3.10.7|app-web|Compliance mode enabled, was '3.10.7'|
-|postgresql|17.5|18.1|app-database|Compliance mode enabled, was '18.1'|
+|postgresql|17.5|18.2|app-database|Compliance mode enabled, was '18.2'|
 |postgresql-13|13.22|13.23|app-database|Compliance mode enabled, was '13.23'|
-|postgresql-14|14.19|14.20|app-database|Compliance mode enabled, was '14.20'|
-|postgresql-15|15.14|15.15|app-database|Compliance mode enabled, was '15.15'|
-|postgresql-16|16.10|16.11|app-database|Compliance mode enabled, was '16.11'|
-|postgresql-17|17.6|17.7|app-database|Compliance mode enabled, was '17.7'|
-|postgresql-18|18.0|18.1|app-database|Compliance mode enabled, was '18.1'|
+|postgresql-14|14.19|14.21|app-database|Compliance mode enabled, was '14.21'|
+|postgresql-15|15.14|15.16|app-database|Compliance mode enabled, was '15.16'|
+|postgresql-16|16.10|16.12|app-database|Compliance mode enabled, was '16.12'|
+|postgresql-17|17.6|17.8|app-database|Compliance mode enabled, was '17.8'|
+|postgresql-18|18.0|18.2|app-database|Compliance mode enabled, was '18.2'|
 |powerdevil|5.27.12|6.5.5|desktop-kde|Compliance mode enabled, was '6.5.5'|
 |powerpc-utils|1.3.12|1.3.13|app-admin|Compliance mode enabled, was '1.3.13'|
 |powershell|7.4.5|7.5.4|app-shells|Compliance mode enabled, was '7.5.4'|
@@ -2456,7 +2457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sniffio|1.3.0|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |snowball|2.1.0|3.0.1|runtime-common|Compliance mode enabled, was '3.0.1'|
 |snowballstemmer|1.2.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
-|socat|1.8.0.3|1.8.1.0|app-network|Compliance mode enabled, was '1.8.1.0'|
+|socat|1.8.0.3|1.8.1.1|app-network|Compliance mode enabled, was '1.8.1.1'|
 |soci|4.0.1|4.1.2|runtime-database|Compliance mode enabled, was '4.1.2'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sof-tools|2.13.1|2.14.3|app-multimedia|Compliance mode enabled, was '2.14.3'|
