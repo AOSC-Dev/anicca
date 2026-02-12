@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770927925?label=Updated)
+![Relative date](https://img.shields.io/date/1770931520?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -247,7 +247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
 |choose|1.3.4|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |chromaprint|1.5.1|1.6.0|runtime-multimedia|Compliance mode enabled, was '1.6.0'|
-|chromium|142.0.7444.134|145.0.7632.45|app-web|Compliance mode enabled, was '145.0.7632.45'|
+|chromium|142.0.7444.134|145.0.7632.67|app-web|Compliance mode enabled, was '145.0.7632.67'|
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cifs-utils|7.0|7.5|app-network|Compliance mode enabled, was '7.5'|
@@ -668,7 +668,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |givaro|4.2.0|4.2.1|runtime-scientific|Compliance mode enabled, was '4.2.1'|
 |gjs|1.85.1|1.86.0|desktop-gnome|Compliance mode enabled, was '1.86.0'|
 |gksu|2.0.2|2.0.12|desktop-gnome|Compliance mode enabled, was '2.0.12'|
-|glab|1.80.4|1.82.0|app-devel|Compliance mode enabled, was '1.82.0'|
+|glab|1.80.4|1.84.0|app-devel|Compliance mode enabled, was '1.84.0'|
 |glances|4.4.0|4.5.0.4|app-admin|Compliance mode enabled, was '4.5.0.4'|
 |glbinding|3.3.0|3.5.0|runtime-display|Compliance mode enabled, was '3.5.0'|
 |glew|2.2.0|2.3.1|runtime-display|Compliance mode enabled, was '2.3.1'|
@@ -741,7 +741,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.190.0|lang-python|Compliance mode enabled, was '2.190.0'|
 |google-auth|1.6.3|2.48.0|lang-python|Compliance mode enabled, was '2.48.0'|
 |google-auth-httplib2|0.0.4|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
-|google-chrome|144.0.7559.109|145.0.7632.45|app-web|Compliance mode enabled, was '145.0.7632.45'|
+|google-chrome|144.0.7559.109|145.0.7632.67|app-web|Compliance mode enabled, was '145.0.7632.67'|
 |goreleaser|2.13.1|2.13.3|lang-golang|Compliance mode enabled, was '2.13.3'|
 |goverlay|1.2|1.7.4|app-utils|Compliance mode enabled, was '1.7.4'|
 |gperftools|2.13|2.18|app-devel|Compliance mode enabled, was '2.18'|
