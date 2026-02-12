@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1770882446?label=Updated)
+![Relative date](https://img.shields.io/date/1770885342?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -626,7 +626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdal|3.12.1|3.12.2|runtime-gis|Compliance mode enabled, was '3.12.2'|
 |gdb|16.3|17.1|app-devel|Compliance mode enabled, was '17.1'|
 |gdk-pixbuf|2.44.4|2.44.5|runtime-imaging|Compliance mode enabled, was '2.44.5'|
-|gdk-pixbuf+32|2.42.12|2.44.5|runtime-optenv32|Compliance mode enabled, was '2.44.5'|
 |gdm|42.0|49.2|desktop-gnome|Compliance mode enabled, was '49.2'|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|desktop-gnome|Compliance mode enabled, was '0.8.1'|
@@ -1301,7 +1300,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkcddb|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |libkcompactdisc|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |libkdcraw|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
-|libkdegames|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |libkdepim|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |libkeduvocdocument|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |libkexiv2|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
