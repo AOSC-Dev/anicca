@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1771876379?label=Updated)
+![Relative date](https://img.shields.io/date/1771878958?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -365,7 +365,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils|Compliance mode enabled, was '3.31.1_20110601-1'|
 |diffuse|0.9.0|0.10.0|app-devel|Compliance mode enabled, was '0.10.0'|
 |dill|0.4.0|0.4.1|lang-python|Compliance mode enabled, was '0.4.1'|
-|ding-libs|0.6.1|0.6.2|runtime-admin|Compliance mode enabled, was '0.6.2'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
 |discover|5.27.12|6.6.0|desktop-kde|Compliance mode enabled, was '6.6.0'|
@@ -1431,6 +1430,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.15|app-utils|Compliance mode enabled, was '1.15'|
 |lutris|0.5.18|0.5.20|app-games|Compliance mode enabled, was '0.5.20'|
 |lvm2|2.03.31|2.03.38|app-admin|Compliance mode enabled, was '2.03.38'|
+|lxcfs|6.0.5|6.0.6|app-admin|Compliance mode enabled, was '6.0.6'|
 |lxgwcleargothic-font|0.508|0.526|desktop-fonts|Compliance mode enabled, was '0.526'|
 |lxgwneoxihei-font|1.226|1.241|desktop-fonts|Compliance mode enabled, was '1.241'|
 |lximage-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
@@ -1563,7 +1563,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.17.0|2.17.0+|app-scientific|Compliance mode enabled, was '2.17.0+'|
 |ncurses|6.4|6.6+20260221|runtime-common|Compliance mode enabled, was '6.6-20260221'|
 |ncurses+32|6.4|6.6+20260221|runtime-optenv32|Compliance mode enabled, was '6.6-20260221'|
-|needrestart|3.11|0.1|app-admin|Compliance mode enabled, was '0.1'<br>Possible downgrade from the current version (3.11 -> 0.1)|
 |nemo|6.6.3|6.6.4|desktop-cinnamon|Compliance mode enabled, was '6.6.4'|
 |neochat|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |neofetch|8.0.2|7.1.0|app-utils|Compliance mode enabled, was '7.1.0'<br>Possible downgrade from the current version (8.0.2 -> 7.1.0)|
@@ -1639,7 +1638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-pp|1.1.2|2.0.0|lang-ocaml|Compliance mode enabled, was '2.0.0'|
 |ocaml-re|1.11.0|1.14.0|lang-ocaml|Compliance mode enabled, was '1.14.0'|
 |ocaml-stdlib-shims|0.2.0|0.3.0|lang-ocaml|Compliance mode enabled, was '0.3.0'|
-|ocamlbuild|0.14.1|0.16.1|lang-ocaml|Compliance mode enabled, was '0.16.1'|
 |ocrmypdf|16.5.0|17.3.0|app-doc|Compliance mode enabled, was '17.3.0'|
 |ocserv|1.3.0|1.4.0|app-network|Compliance mode enabled, was '1.4.0'|
 |octave|10.3.0|11.1.0|app-scientific|Compliance mode enabled, was '11.1.0'|
@@ -2459,7 +2457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tectonic|0.12.0|0.15.0|app-doc|Compliance mode enabled, was '0.15.0'|
 |teeworlds|0.7.5<br>+git20250702|0.7.5|app-games|Compliance mode enabled, was '0.7.5'|
 |telegram-desktop|6.3.6|6.5.1|app-web|Compliance mode enabled, was '6.5.1'|
-|telepathy-glib|0.24.1|0.24.2|runtime-web|Compliance mode enabled, was '0.24.2'|
 |telepathy-logger-qt|15.04.0|17.09.0|runtime-web|Compliance mode enabled, was '17.09.0'|
 |telly-skout|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |tepl|6.0.2|6.9.0|runtime-editors|Compliance mode enabled, was '6.9.0'|
