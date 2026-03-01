@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772320527?label=Updated)
+![Relative date](https://img.shields.io/date/1772327334?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
 |aalib+32|1.4rc5|1.2|runtime-optenv32|Possible downgrade from the current version (1.4rc5 -> 1.2)|
+|aardvark-dns|1.13.1|1.17.0|app-admin|Compliance mode enabled, was '1.17.0'|
 |aarty|0.6.1|0.8.2|app-utils|Compliance mode enabled, was '0.8.2'|
 |ab-download-manager|1.8.6|1.8.7|app-web|Compliance mode enabled, was '1.8.7'|
 |abseil-cpp|20240722.0|20260107.1|runtime-common|Compliance mode enabled, was '20260107.1'|
@@ -223,6 +224,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chisel|1.10.1|1.11.4|app-network|Compliance mode enabled, was '1.11.4'|
 |chmlib|0.40a|0.40|runtime-doc|Compliance mode enabled, was '0.40'|
 |chntpw|1.1|140201|app-utils|Compliance mode enabled, was '140201'|
+|choose|1.3.4|1.3.7|app-utils|Compliance mode enabled, was '1.3.7'|
 |chromaprint|1.5.1|1.6.0|runtime-multimedia|Compliance mode enabled, was '1.6.0'|
 |chromium|142.0.7444.134|145.0.7632.116|app-web|Compliance mode enabled, was '145.0.7632.116'|
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
@@ -451,6 +453,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
 |fastfetch|2.58.0|2.59.0|app-utils|Compliance mode enabled, was '2.59.0'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
+|fb303|2025.09.01.00|2026.02.23.00|runtime-network|Compliance mode enabled, was '2026.02.23.00'|
 |fbthrift|2025.09.01.00|2026.02.23.00|app-network|Compliance mode enabled, was '2026.02.23.00'|
 |fceux|2.6.6<br>+git20251111|2.6.6|app-games|Compliance mode enabled, was '2.6.6'|
 |fcgi|2.4.2|2.4.7|runtime-web|Compliance mode enabled, was '2.4.7'|
@@ -1288,7 +1291,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff-5|4.4.0|4.7.1|runtime-imaging|Compliance mode enabled, was '4.7.1'|
 |libtifiles2|1.1.6|1.1.7|runtime-devices|Compliance mode enabled, was '1.1.7'|
 |libtpms|0.10.1|0.10.2|runtime-devices|Compliance mode enabled, was '0.10.2'|
-|libtracefs|1.8.1|1.8.3|runtime-admin|Compliance mode enabled, was '1.8.3'|
 |libtsm|4.4.2|4.3.0|runtime-common|Compliance mode enabled, was '4.3.0'<br>Possible downgrade from the current version (4.4.2 -> 4.3.0)|
 |libuninameslist|20240910|20260107|runtime-i18n|Compliance mode enabled, was '20260107'|
 |libunistring|1.4|1.4.2|runtime-common|Compliance mode enabled, was '1.4.2'|
@@ -1479,6 +1481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.9|app-network|Compliance mode enabled, was '2.3.9'|
 |minizip|4.0.10|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
+|minuet|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |mise|2026.1.1|2026.2.23|app-devel|Compliance mode enabled, was '2026.2.23'|
 |mixxx|2.5.2|2.5.4|app-creativity|Compliance mode enabled, was '2.5.4'|
 |mjpegtools|2.1.0|2.2.1|app-multimedia|Compliance mode enabled, was '2.2.1'|
@@ -2514,7 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
 |uv|0.10.6|0.10.7|lang-python|Compliance mode enabled, was '0.10.7'|
 |v2ray|5.44.1|5.46.0|app-proxy|Compliance mode enabled, was '5.46.0'|
-|v2ray-rules-dat|202601042214|202602272217|runtime-data|Compliance mode enabled, was '202602272217'<br>Versions not comparable: `202601042214` and `202602272217`|
+|v2ray-rules-dat|202601042214|202602282217|runtime-data|Compliance mode enabled, was '202602282217'<br>Versions not comparable: `202601042214` and `202602282217`|
 |v2raya|2.2.7.5|2.3.2|app-proxy|Compliance mode enabled, was '2.3.2'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
 |v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
