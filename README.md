@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772483359?label=Updated)
+![Relative date](https://img.shields.io/date/1772486713?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -715,7 +715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iftop|1.0pre4|0.17|app-network|Compliance mode enabled, was '0.17'<br>Possible downgrade from the current version (1.0pre4 -> 0.17)|
 |ignition|2.20.0|2.26.0|app-admin|Compliance mode enabled, was '2.26.0'|
 |igsc|1.0.0|1.0.2|runtime-devices|Compliance mode enabled, was '1.0.2'|
-|iio-sensor-proxy|3.5|3.8|app-utils|Compliance mode enabled, was '3.8'|
+|iio-sensor-proxy|3.5|3.9|app-utils|Compliance mode enabled, was '3.9'|
 |imagemagick|6.9.13-37|6.9.13-40|app-utils||
 |imagemagick+7|7.1.1<br>+32|7.1.2+15|app-utils|Compliance mode enabled, was '7.1.2-15'|
 |imath|3.1.11|3.2.2|runtime-display|Compliance mode enabled, was '3.2.2'|
@@ -1603,7 +1603,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openal-soft|1.25.0|1.25.1|runtime-multimedia|Compliance mode enabled, was '1.25.1'|
 |openal-soft+32|1.25.0|1.25.1|runtime-optenv32|Compliance mode enabled, was '1.25.1'|
 |openblas|0.3.30|0.3.31|app-scientific|Compliance mode enabled, was '0.3.31'|
-|opencascade|7.6.3|7.9.3|runtime-imaging|Compliance mode enabled, was '7.9.3'|
 |opencc|1.1.9|1.2.0|app-i18n|Compliance mode enabled, was '1.2.0'|
 |opencl-clang|20.1.0|21.1.3|runtime-common|Compliance mode enabled, was '21.1.3'|
 |opencolorio|2.1.2|2.5.1|runtime-imaging|Compliance mode enabled, was '2.5.1'|
@@ -1741,7 +1740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-ssleay|0.73<br>+06|0.72|lang-perl|Compliance mode enabled, was '0.72'<br>Possible downgrade from the current version (0.73+06 -> 0.72)|
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl|Compliance mode enabled, was '2.183'|
 |perl-data-optlist|0.110|0.114|lang-perl|Compliance mode enabled, was '0.114'|
-|perl-date-manip|6.82|6.98|lang-perl|Compliance mode enabled, was '6.98'|
+|perl-date-manip|6.82|6.99|lang-perl|Compliance mode enabled, was '6.99'|
 |perl-datetime|1.52|1.66|lang-perl|Compliance mode enabled, was '1.66'|
 |perl-datetime-format-strptime|1.77|1.80|lang-perl|Compliance mode enabled, was '1.80'|
 |perl-datetime-locale|1.26|1.45|lang-perl|Compliance mode enabled, was '1.45'|
@@ -2511,7 +2510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.9|3.10|app-emulation|Compliance mode enabled, was '3.10'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
-|vim|9.2.0|9.2.0089|app-editors|Compliance mode enabled, was '9.2.0089'|
+|vim|9.2.0|9.2.0096|app-editors|Compliance mode enabled, was '9.2.0096'|
 |virglrenderer|1.2.0|1.3.0|app-virtualization|Compliance mode enabled, was '1.3.0'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |virtualbox|7.2.4|7.2.6|app-virtualization|Compliance mode enabled, was '7.2.6'|
