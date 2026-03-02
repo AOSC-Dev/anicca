@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772459612?label=Updated)
+![Relative date](https://img.shields.io/date/1772462224?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1949,6 +1949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prison5|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |privoxy|3.0.34|4.1.0|app-network|Compliance mode enabled, was '4.1.0'|
 |procps|4.0.5|4.0.6|app-utils|Compliance mode enabled, was '4.0.6'|
+|proj|9.7.1|9.8.0|app-gis|Compliance mode enabled, was '9.8.0'|
 |projectm|4.0.0|4.1.6|runtime-multimedia|Compliance mode enabled, was '4.1.6'|
 |prometheus-node-exporter|1.9.1|1.10.2|app-admin|Compliance mode enabled, was '1.10.2'|
 |prompt-toolkit|3.0.48|3.0.52|lang-python|Compliance mode enabled, was '3.0.52'|
@@ -2000,7 +2001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparsing|3.2.3|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |pyparted|3.11.6|3.13.0|lang-python|Compliance mode enabled, was '3.13.0'|
 |pypdf|6.5.0|6.7.5|lang-python|Compliance mode enabled, was '6.7.5'|
-|pypdf2|1.26.0|6.7.4|lang-python|Compliance mode enabled, was '6.7.4'|
+|pypdf2|1.26.0|6.7.5|lang-python|Compliance mode enabled, was '6.7.5'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pyperf|2.9.0|2.10.0|lang-python|Compliance mode enabled, was '2.10.0'|
 |pypkgconfig|1.4.0|1.5.5|lang-python|Compliance mode enabled, was '1.5.5'|
@@ -2124,13 +2125,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |robin-hood-hashing|3.11.4|3.11.5|runtime-common|Compliance mode enabled, was '3.11.5'|
 |roboto-fonts|2.138|3.015|desktop-fonts|Compliance mode enabled, was '3.015'|
 |rockbox-utility|4.0<br>+final|4.0-final|app-utils|Compliance mode enabled, was '4.0-final'|
-|rocm-aqlprofile|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
+|rocm-aqlprofile|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
 |rocm-bandwidth-test|6.4.3|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-clr|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
+|rocm-clr|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
 |rocm-cmake|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-comgr|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-composable-kernel|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-core|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
+|rocm-core|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
 |rocm-device-libs|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-half|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipblas|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2152,15 +2153,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-rocblas|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocfft|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocprim|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-rocprofiler-register|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
+|rocm-rocprofiler-register|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
 |rocm-rocrand|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocthrust|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-roctracer|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
-|rocm-smi-lib|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
-|rocminfo|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
-|rocr-runtime|7.2.0|7.12.60540|runtime-rocm|Compliance mode enabled, was '7.12.60540'|
+|rocm-roctracer|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
+|rocm-smi-lib|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
+|rocminfo|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
+|rocr-runtime|7.2.0|7.12.60590|runtime-rocm|Compliance mode enabled, was '7.12.60590'|
 |rocs|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |roman-numerals|3.1.0|4.1.0|lang-python|Compliance mode enabled, was '4.1.0'|
 |rootlesskit|2.3.5|2.3.6|app-admin|Compliance mode enabled, was '2.3.6'|
