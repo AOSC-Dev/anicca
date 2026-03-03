@@ -2352,7 +2352,7 @@
 ["pep517","0.12.0","0.13.1","lang-python",1658966837,["Compliance mode enabled, was '0.13.1'"]],
 ["lazy-object-proxy","1.7.1","1.12.0","lang-python",1658217673,["Compliance mode enabled, was '1.12.0'"]],
 ["pluggy","1.5.0","1.6.0","lang-python",1718021080,["Compliance mode enabled, was '1.6.0'"]],
-["pytz","2025.2","2026.1","lang-python",1760110818,["Compliance mode enabled, was '2026.1'"]],
+["pytz","2025.2","2026.1.post1","lang-python",1760110818,["Compliance mode enabled, was '2026.1.post1'"]],
 ["jsonschema-specifications","2025.4.1","2025.9.1","lang-python",1756329026,["Compliance mode enabled, was '2025.9.1'"]],
 ["flake8-builtins","3.0.0","3.1.0","lang-python",1759633235,["Compliance mode enabled, was '3.1.0'"]],
 ["schema","0.7.5","0.7.8","lang-python",1663210209,["Compliance mode enabled, was '0.7.8'"]],
