@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772552356?label=Updated)
+![Relative date](https://img.shields.io/date/1772556004?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -39,6 +39,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-contacts|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |akonadi-import-wizard|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |akonadi-mime|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
+|akonadi-notes|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |akonadi-search|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |akonadiconsole|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |akregator|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
@@ -339,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debconf-kde|1.1.0|1.2.0|app-admin|Compliance mode enabled, was '1.2.0'|
 |debianutils|5.7|5.23.2.git|app-utils|Compliance mode enabled, was '5.23.2.git'|
 |delve|1.24.0|1.26.0|lang-golang|Compliance mode enabled, was '1.26.0'|
+|deno|2.7.1|2.7.2|lang-js|Compliance mode enabled, was '2.7.2'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |deprecated|1.2.14|1.3.1|lang-python|Compliance mode enabled, was '1.3.1'|
 |deskflow|1.25.0|1.26.0|app-utils|Compliance mode enabled, was '1.26.0'|
@@ -719,7 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iio-sensor-proxy|3.5|3.9|app-utils|Compliance mode enabled, was '3.9'|
 |imagemagick|6.9.13-37|6.9.13-40|app-utils||
 |imagemagick+7|7.1.1<br>+32|7.1.2+15|app-utils|Compliance mode enabled, was '7.1.2-15'|
-|imagesize|1.4.1|1.5.0|lang-python|Compliance mode enabled, was '1.5.0'|
+|imagesize|1.4.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |imath|3.1.11|3.2.2|runtime-display|Compliance mode enabled, was '3.2.2'|
 |img2pdf|0.5.1|0.6.3|app-doc|Compliance mode enabled, was '0.6.3'|
 |imlib2|1.5.1|1.12.6|runtime-imaging|Compliance mode enabled, was '1.12.6'|
@@ -2447,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trinity-default-settings|2023.07.1r|2025.12.1|runtime-data|Compliance mode enabled, was '2025.12.1'|
 |trio|0.24.0|0.33.0|lang-python|Compliance mode enabled, was '0.33.0'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
-|trivy|0.55.0|0.69.2|app-devel|Compliance mode enabled, was '0.69.2'|
+|trivy|0.55.0|0.69.3|app-devel|Compliance mode enabled, was '0.69.3'|
 |tslib|1.21|1.24|runtime-devices|Compliance mode enabled, was '1.24'|
 |tslib+32|1.21|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
