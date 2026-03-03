@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772556004?label=Updated)
+![Relative date](https://img.shields.io/date/1772559504?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -2213,6 +2213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sccache|0.12.0|0.14.0|app-devel|Compliance mode enabled, was '0.14.0'|
 |scdoc|1.11.2|1.11.3|app-doc|Compliance mode enabled, was '1.11.3'|
 |schema|0.7.5|0.7.8|lang-python|Compliance mode enabled, was '0.7.8'|
+|scikit-build|0.18.1|0.19.0|lang-python|Compliance mode enabled, was '0.19.0'|
 |scikit-build-core|0.11.6|0.12.1|lang-python|Compliance mode enabled, was '0.12.1'|
 |scipy|1.17.0|1.17.1|lang-python|Compliance mode enabled, was '1.17.1'|
 |scons|4.10.0|4.10.1|app-devel|Compliance mode enabled, was '4.10.1'|
@@ -2599,6 +2600,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-dbus-proxy|0.1.2|0.1.6|runtime-desktop|Compliance mode enabled, was '0.1.6'|
 |xdg-desktop-portal-cosmic|1.0.3|1.0.8|desktop-cosmic|Compliance mode enabled, was '1.0.8'|
 |xdg-desktop-portal-kde|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
+|xdotool|4.20251130.1|4.20260303.1|app-utils|Compliance mode enabled, was '4.20260303.1'|
 |xf86-input-elographics|1.4.3|1.4.4|runtime-display|Compliance mode enabled, was '1.4.4'|
 |xf86-input-evdev|2.10.6|2.11.0|runtime-display|Compliance mode enabled, was '2.11.0'|
 |xf86-input-libinput|1.4.0|1.5.0|runtime-display|Compliance mode enabled, was '1.5.0'|
@@ -2658,6 +2660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
 |yosys|0.45|0.62|app-electronics|Compliance mode enabled, was '0.62'|
 |yq|4.50.1|4.52.4|app-devel|Compliance mode enabled, was '4.52.4'|
+|yt-dlp|2026.02.21|2026.03.03|app-multimedia|Compliance mode enabled, was '2026.03.03'|
 |yt-dlp-ejs|0.3.1|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.7.2|2.7.3|app-devices|Compliance mode enabled, was '2.7.3'|
