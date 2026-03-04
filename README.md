@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772619982?label=Updated)
+![Relative date](https://img.shields.io/date/1772623422?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -154,6 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.13.3|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|62.0|app-utils|Compliance mode enabled, was '62.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 62.0)|
 |bovo|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
+|box64|0.4.1-1|0.4.1-2|app-emulation||
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
 |breeze|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
 |breeze-grub|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
@@ -1323,8 +1324,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcvt|0.1.2|0.1.3|runtime-display|Compliance mode enabled, was '0.1.3'|
 |libxfce4windowing|4.20.4|4.20.5|desktop-xfce|Compliance mode enabled, was '4.20.5'|
 |libxml++-2.6|2.42.3|5.6.0|runtime-common|Compliance mode enabled, was '5.6.0'|
-|libxml2|2.10.4|2.15.1|runtime-common|Compliance mode enabled, was '2.15.1'|
-|libxml2+32|2.10.4|2.15.1|runtime-optenv32|Compliance mode enabled, was '2.15.1'|
+|libxml2|2.10.4|2.15.2|runtime-common|Compliance mode enabled, was '2.15.2'|
+|libxml2+32|2.10.4|2.15.2|runtime-optenv32|Compliance mode enabled, was '2.15.2'|
 |libxmlb|0.3.22|0.3.25|runtime-common|Compliance mode enabled, was '0.3.25'|
 |libxslt|1.1.43|1.1.45|runtime-common|Compliance mode enabled, was '1.1.45'|
 |libxslt+32|1.1.43|1.1.45|runtime-optenv32|Compliance mode enabled, was '1.1.45'|
