@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772627570?label=Updated)
+![Relative date](https://img.shields.io/date/1772632191?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -358,7 +358,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |directx-headers+32|1.618.2|1.619.0|runtime-optenv32|Compliance mode enabled, was '1.619.0'|
 |direnv|2.35.0|2.37.1|app-utils|Compliance mode enabled, was '2.37.1'|
 |discount|3.0.0d|3.0.1.2|runtime-doc|Compliance mode enabled, was '3.0.1.2'|
-|discover|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
 |distlib|0.3.9|0.4.0|lang-python|Compliance mode enabled, was '0.4.0'|
 |distrobox|1.8.2.2|1.8.2.4|app-utils|Compliance mode enabled, was '1.8.2.4'|
 |dmd|2.109.1|2.112.1|lang-dlang|Compliance mode enabled, was '2.112.1'|
@@ -621,7 +620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpick|0.3|0.4|app-utils|Compliance mode enabled, was '0.4'|
 |gpodder|3.11.4|3.11.5|app-multimedia|Compliance mode enabled, was '3.11.5'|
 |gpsd|3.25|3.27.5|app-scientific|Compliance mode enabled, was '3.27.5'|
-|gradle|9.3.0|9.3.1|lang-java|Compliance mode enabled, was '9.3.1'|
+|gradle|9.3.0|9.4.0|lang-java|Compliance mode enabled, was '9.4.0'|
 |granatier|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |grantlee-editor|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |grantleetheme|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
@@ -1313,7 +1312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpx+32|1.15.0|1.16.0|runtime-optenv32|Compliance mode enabled, was '1.16.0'|
 |libwacom|2.17.0|2.18.0|runtime-devices|Compliance mode enabled, was '2.18.0'|
 |libwebp+32|1.3.1|1.6.0|runtime-optenv32|Compliance mode enabled, was '1.6.0'|
-|libwebsockets|4.4.1|4.5.2|runtime-web|Compliance mode enabled, was '4.5.2'|
+|libwebsockets|4.4.1|4.5.3|runtime-web|Compliance mode enabled, was '4.5.3'|
 |libwmf|0.2.13|0.2.14|runtime-imaging|Compliance mode enabled, was '0.2.14'|
 |libwnck|2.31.0|43.3|runtime-desktop|Compliance mode enabled, was '43.3'|
 |libwnck-3|40.1|43.3|runtime-desktop|Compliance mode enabled, was '43.3'|
@@ -1625,8 +1624,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|2.3.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |openimageio|2.5.19.1|3.1.11.0|runtime-imaging|Compliance mode enabled, was '3.1.11.0'|
 |openjdk-11|11.0.28-ga|11.0.31+4|lang-java||
-|openjdk-17|17.0.16-ga|17.0.19+4|lang-java||
-|openjdk-21|21.0.8-ga|21.0.11+4|lang-java||
+|openjdk-17|17.0.16-ga|17.0.19+5|lang-java||
+|openjdk-21|21.0.8-ga|21.0.11+5|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
