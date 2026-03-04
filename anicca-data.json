@@ -1723,7 +1723,7 @@
 ["gettext","0.26","1.0","app-devel",1753197099,["Compliance mode enabled, was '1.0'"]],
 ["gringo","5.7.1","5.8.0","app-devel",1721588169,["Compliance mode enabled, was '5.8.0'"]],
 ["ast-grep","0.39.6","0.41.0","app-devel",1759819153,["Compliance mode enabled, was '0.41.0'"]],
-["ghidra","12.0_build","12.0.3_build","app-devel",1767630068,["Possible downgrade from the current version (12.0_build -> 12.0.3_build)"]],
+["ghidra","12.0_build","12.0.4_build","app-devel",1767630068,["Possible downgrade from the current version (12.0_build -> 12.0.4_build)"]],
 ["gfxreconstruct","1.0.4","1.0.5","app-devel",1732609906,["Compliance mode enabled, was '1.0.5'"]],
 ["clinfo","3.0.23.01.25","3.0.25.02.14","app-devel",1721453818,["Compliance mode enabled, was '3.0.25.02.14'"]],
 ["strace","6.17","6.19","app-devel",1759329300,["Compliance mode enabled, was '6.19'"]],
