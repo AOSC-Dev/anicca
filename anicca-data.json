@@ -1874,7 +1874,6 @@
 ["ruby-pg","1.5.9","1.6.3","lang-ruby",1735985938,["Compliance mode enabled, was '1.6.3'"]],
 ["ruby-pkg-config","1.5.8","1.6.5","lang-ruby",1735985938,["Compliance mode enabled, was '1.6.5'"]],
 ["spdx-licenses","3.25.0","3.28.0","runtime-data",1732414619,["Compliance mode enabled, was '3.28.0'"]],
-["tzdata","2025c","2026a","runtime-data",1770602103,["Compliance mode enabled, was '2026a'"]],
 ["mime-types","9","99","runtime-data",1700548607,["Compliance mode enabled, was '99'"]],
 ["unicode-ucd","17.0.0","18.0.0","runtime-data",1771330864,["Compliance mode enabled, was '18.0.0'"]],
 ["intel-ucode","20251111","20260227","runtime-data",1763548967,["Compliance mode enabled, was '20260227'"]],
