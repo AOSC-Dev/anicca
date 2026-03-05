@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772745935?label=Updated)
+![Relative date](https://img.shields.io/date/1772749343?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -151,7 +151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |boost|1.83.0|1.90.0|runtime-common|Compliance mode enabled, was '1.90.0'|
 |botan|3.8.1|3.10.0|runtime-cryptography|Compliance mode enabled, was '3.10.0'|
-|boto3|1.42.54|1.42.61|lang-python|Compliance mode enabled, was '1.42.61'|
+|boto3|1.42.54|1.42.62|lang-python|Compliance mode enabled, was '1.42.62'|
 |botocore|1.42.54|1.42.61|lang-python|Compliance mode enabled, was '1.42.61'|
 |bottle|0.13.3|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|62.0|app-utils|Compliance mode enabled, was '62.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 62.0)|
@@ -532,6 +532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.3.0|4.0.5|app-multimedia|Compliance mode enabled, was '4.0.5'|
 |fribidi|1.0.14|1.0.16|app-scientific|Compliance mode enabled, was '1.0.16'|
 |fribidi+32|1.0.14|1.0.16|runtime-optenv32|Compliance mode enabled, was '1.0.16'|
+|fricas|1.3.12|1.3.13|app-scientific|Compliance mode enabled, was '1.3.13'|
 |fscan|2.0.0|2.0.2|app-utils|Compliance mode enabled, was '2.0.2'|
 |fsspec|2025.12.0|2026.2.0|lang-python|Compliance mode enabled, was '2026.2.0'|
 |fstrcmp|0.7.D001|0.7.d001|runtime-common|Compliance mode enabled, was '0.7.D001'|
@@ -832,7 +833,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfig|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kconfigwidgets|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kcontacts|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
-|kcoreaddons|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kcrash|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kcron|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdav|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
@@ -1360,7 +1360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |listenbrainz-mpd|2.3.9|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7966|8204|runtime-creativity|Compliance mode enabled, was '8204'|
+|llama.cpp|7966|8210|runtime-creativity|Compliance mode enabled, was '8210'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.3.1|runtime-web|Compliance mode enabled, was '9.3.1'|
@@ -1499,6 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mp4v2+32|4.1.3|2.1.3|runtime-optenv32|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
 |mpdecimal|4.0.0|4.0.1|runtime-common|Compliance mode enabled, was '4.0.1'|
+|mpfr+32|4.2.1|4.2.2|runtime-optenv32|Compliance mode enabled, was '4.2.2'|
 |mpg123|1.32.8|1.33.4|app-multimedia|Compliance mode enabled, was '1.33.4'|
 |mpg123+32|1.32.8|1.33.4|runtime-optenv32|Compliance mode enabled, was '1.33.4'|
 |mpmath|1.1.0|1.4.0~b4|lang-python|Compliance mode enabled, was '1.4.0b4'|
@@ -2166,7 +2167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|8204|runtime-rocm|Compliance mode enabled, was '8204'|
+|rocm-llama-cpp|7.0.1|8210|runtime-rocm|Compliance mode enabled, was '8210'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2274,6 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simdutf|7.7.0|8.0.0|runtime-common|Compliance mode enabled, was '8.0.0'|
 |simh|3.11<br>+1|3.12+2|app-emulation|Compliance mode enabled, was '3.12-2'|
 |simplejson|3.16.0|3.20.2|lang-python|Compliance mode enabled, was '3.20.2'|
+|sing-box|1.13.0|1.13.1|app-proxy|Compliance mode enabled, was '1.13.1'|
 |singular|4-4-1|4-4-1p5|app-scientific|Possible downgrade from the current version (4-4-1 -> 4-4-1p5)|
 |sip|6.12.0|6.15.1|lang-python|Compliance mode enabled, was '6.15.1'|
 |sip-4|4.19.25|6.15.1|lang-python|Compliance mode enabled, was '6.15.1'|
@@ -2346,7 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sscg|3.0.5|4.0.3|app-cryptography|Compliance mode enabled, was '4.0.3'|
 |sshfs|3.7.3|3.7.5|app-network|Compliance mode enabled, was '3.7.5'|
 |sshpass|1.06|1.10|app-network|Compliance mode enabled, was '1.10'|
-|sslh|2.2.4|2.3.0|app-network|Compliance mode enabled, was '2.3.0'|
+|sslh|2.2.4|2.3.1|app-network|Compliance mode enabled, was '2.3.1'|
 |sssd|2.11.1|2.12.0|app-admin|Compliance mode enabled, was '2.12.0'|
 |stalonetray|0.8.4|1.0.2|desktop-wm|Compliance mode enabled, was '1.0.2'|
 |stellarium|25.3|25.4|app-scientific|Compliance mode enabled, was '25.4'|
