@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772692694?label=Updated)
+![Relative date](https://img.shields.io/date/1772696238?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -196,6 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |castxml|0.6.11|0.7.0|app-devel|Compliance mode enabled, was '0.7.0'|
 |catch2|3.8.1|3.13.0|runtime-common|Compliance mode enabled, was '3.13.0'|
 |cbc|2.10.5|2.10.12|app-scientific|Compliance mode enabled, was '2.10.12'|
+|cbm|0.3.2|0.4|app-network|Compliance mode enabled, was '0.4'|
 |ccache|4.12.2|4.12.3|app-devel|Compliance mode enabled, was '4.12.3'|
 |ccid|1.5.1|1.7.1|runtime-devices|Compliance mode enabled, was '1.7.1'|
 |cddlib|0.94j|0.94n|runtime-scientific|Compliance mode enabled, was '0.94n'|
@@ -897,7 +898,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kidentitymanagement|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kidletime|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kig|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
-|kigo|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |killbots|23.08.5|25.12.2|desktop-kde|Compliance mode enabled, was '25.12.2'|
 |kimageannotator|0.6.0|0.7.2|desktop-kde|Compliance mode enabled, was '0.7.2'|
 |kimageformats|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
@@ -1661,7 +1661,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.7.2|lang-python|Compliance mode enabled, was '6.7.2'|
 |oslo-serialization|5.8.0|5.9.1|lang-python|Compliance mode enabled, was '5.9.1'|
 |oslo-utils|9.2.0|10.0.0|lang-python|Compliance mode enabled, was '10.0.0'|
-|osu-lazer|2025.1029.1-lazer|2026.304.0-tachyon|app-games||
+|osu-lazer|2025.1029.1-lazer|2026.305.0-lazer|app-games||
 |owslib|0.34.1|0.35.0|lang-python|Compliance mode enabled, was '0.35.0'|
 |oxipng|9.1.4|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
 |oxygen|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
@@ -2183,6 +2183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rsa|4.0|4.9.1|lang-python|Compliance mode enabled, was '4.9.1'|
 |rt-tests|2.9|2.10|app-utils|Compliance mode enabled, was '2.10'|
 |rtaudio|5.1.0|6.0.1|runtime-multimedia|Compliance mode enabled, was '6.0.1'|
+|rtkit|0.13|0.14|app-admin|Compliance mode enabled, was '0.14'|
 |rtmpdump|20151223|2.4+20151223.gitfa8646d.1|app-network|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtmpdump+32|20151223|2.4+20151223.gitfa8646d.1|runtime-optenv32|Compliance mode enabled, was '2.4+20151223.gitfa8646d.1'<br>Possible downgrade from the current version (20151223 -> 2.4+20151223.gitfa8646d.1)|
 |rtslib-fb|2.2.3|2.2.4|app-admin|Compliance mode enabled, was '2.2.4'|
