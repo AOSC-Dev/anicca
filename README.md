@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772699440?label=Updated)
+![Relative date](https://img.shields.io/date/1772703215?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1351,7 +1351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |listenbrainz-mpd|2.3.9|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7966|8201|runtime-creativity|Compliance mode enabled, was '8201'|
+|llama.cpp|7966|8204|runtime-creativity|Compliance mode enabled, was '8204'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.3.1|runtime-web|Compliance mode enabled, was '9.3.1'|
@@ -2155,7 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|8201|runtime-rocm|Compliance mode enabled, was '8201'|
+|rocm-llama-cpp|7.0.1|8204|runtime-rocm|Compliance mode enabled, was '8204'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
