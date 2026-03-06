@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772778960?label=Updated)
+![Relative date](https://img.shields.io/date/1772782536?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -215,6 +215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cgns|4.5.0|4.5.1|app-devel|Compliance mode enabled, was '4.5.1'|
 |chafa|1.16.2|1.18.1|app-utils|Compliance mode enabled, was '1.18.1'|
 |chardet|5.2.0|7.0.1|lang-python|Compliance mode enabled, was '7.0.1'|
+|charset-normalizer|3.4.4|3.4.5|lang-python|Compliance mode enabled, was '3.4.5'|
 |checksec|2.7.1|3.1.0|app-devel|Compliance mode enabled, was '3.1.0'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.7.13|1.7.24|app-utils|Compliance mode enabled, was '1.7.24'|
@@ -817,7 +818,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kblocks|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kbookmarks|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kbounce|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
-|kbreakout|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kbruch|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kcachegrind|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kcalc|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -1837,6 +1837,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-module-build-tiny|0.039|0.053|lang-perl|Compliance mode enabled, was '0.053'|
 |perl-module-find|0.13|0.17|lang-perl|Compliance mode enabled, was '0.17'|
 |perl-module-pluggable|5.2|6.3|lang-perl|Compliance mode enabled, was '6.3'|
+|perl-module-runtime|0.016|0.018|lang-perl|Compliance mode enabled, was '0.018'|
 |perl-module-scandeps|1.27|1.37|lang-perl|Compliance mode enabled, was '1.37'|
 |perl-moo|2.005004|2.005005|lang-perl|Compliance mode enabled, was '2.005005'|
 |perl-mozilla-ca|20180117|20250602|lang-perl|Compliance mode enabled, was '20250602'|
@@ -1870,6 +1871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-progressbar|2.22|2.23|lang-perl|Compliance mode enabled, was '2.23'|
 |perl-term-readkey|2.37|2.38|lang-perl|Compliance mode enabled, was '2.38'|
 |perl-term-readline-gnu|1.36|1.47|lang-perl|Compliance mode enabled, was '1.47'|
+|perl-test-deep|1.130|1.205|lang-perl|Compliance mode enabled, was '1.205'|
 |perl-test-fatal|0.014|0.018|lang-perl|Compliance mode enabled, was '0.018'|
 |perl-test-nowarnings|1.04|1.06|lang-perl|Compliance mode enabled, was '1.06'|
 |perl-text-bibtex|0.89|0.91|lang-perl|Compliance mode enabled, was '0.91'|
@@ -2064,6 +2066,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xmp-toolkit|2.0.1|2.1.0|lang-python|Compliance mode enabled, was '2.1.0'|
 |python-xxhash|3.5.0|3.6.0|lang-python|Compliance mode enabled, was '3.6.0'|
 |python-zxing-cpp|2.3.0|3.0.2|lang-python|Compliance mode enabled, was '3.0.2'|
+|pythran|0.16.1|0.18.1|lang-python|Compliance mode enabled, was '0.18.1'|
 |pytz|2025.2|2026.1.post1|lang-python|Compliance mode enabled, was '2026.1.post1'|
 |pyudev|0.24.3|0.24.4|lang-python|Compliance mode enabled, was '0.24.4'|
 |pywbem|1.7.3|1.9.0|lang-python|Compliance mode enabled, was '1.9.0'|
@@ -2546,7 +2549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpl-gpu-rt|26.1.2|26.1.3|runtime-multimedia|Compliance mode enabled, was '26.1.3'|
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
-|vscode|1.109.5|1.110|app-editors|Compliance mode enabled, was '1.110'|
+|vscode|1.110.0|1.110|app-editors|Compliance mode enabled, was '1.110'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vtk|9.5.2|9.6.0|app-scientific|Compliance mode enabled, was '9.6.0'|
 |vulkan-extensionlayer|1.4.341.0|1.4.344|runtime-display|Compliance mode enabled, was '1.4.344'|
