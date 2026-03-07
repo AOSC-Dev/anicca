@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772910953?label=Updated)
+![Relative date](https://img.shields.io/date/1772914496?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1296,7 +1296,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtsm|4.4.2|4.3.0|runtime-common|Compliance mode enabled, was '4.3.0'<br>Possible downgrade from the current version (4.4.2 -> 4.3.0)|
 |libuninameslist|20240910|20260107|runtime-i18n|Compliance mode enabled, was '20260107'|
 |libunistring|1.4|1.4.2|runtime-common|Compliance mode enabled, was '1.4.2'|
-|libupnp|1.14.16|1.18.1|runtime-network|Compliance mode enabled, was '1.18.1'|
 |liburcu|0.15.3|0.15.6|runtime-common|Compliance mode enabled, was '0.15.6'|
 |liburing|2.12|2.14|runtime-common|Compliance mode enabled, was '2.14'|
 |libusb-compat|0.1.5|0.1.8|runtime-devices|Compliance mode enabled, was '0.1.8'|
@@ -2544,7 +2543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3<br>+git20241220|0.5.3|app-network|Compliance mode enabled, was '0.5.3'|
 |vpnc-scripts|0<br>+git20250727|9.12|app-network|Compliance mode enabled, was '9.12'|
 |vscode|1.110.0|1.110.1|app-editors|Compliance mode enabled, was '1.110.1'|
-|vscodium|1.109.51242|1.110.01571|app-editors|Compliance mode enabled, was '1.110.01571'|
+|vscodium|1.109.51242|1.110.11602|app-editors|Compliance mode enabled, was '1.110.11602'|
 |vsftpd|3.0.3|3.0.5|app-network|Compliance mode enabled, was '3.0.5'|
 |vtk|9.5.2|9.6.0|app-scientific|Compliance mode enabled, was '9.6.0'|
 |vulkan-extensionlayer|1.4.341.0|1.4.345|runtime-display|Compliance mode enabled, was '1.4.345'|
