@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1772968514?label=Updated)
+![Relative date](https://img.shields.io/date/1772972691?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -115,7 +115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
 |awesfx|0.5.1e|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
 |ayano|0.1.4|0.1.7|app-network|Compliance mode enabled, was '0.1.7'|
-|b2sdk|2.5.0|2.10.4|lang-python|Compliance mode enabled, was '2.10.4'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
 |b43-tools|0<br>+git20250504|019|runtime-kernel|Compliance mode enabled, was '019'|
 |babel|2.17.0|2.18.0|lang-python|Compliance mode enabled, was '2.18.0'|
@@ -337,7 +336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dav1d|1.5.2|1.5.3|runtime-multimedia|Compliance mode enabled, was '1.5.3'|
 |dbus|1.14.10|1.16.2|app-admin|Compliance mode enabled, was '1.16.2'|
 |dbus+32|1.14.10|1.16.2|runtime-optenv32|Compliance mode enabled, was '1.16.2'|
-|dbus-glib|0.110|0.114|runtime-admin|Compliance mode enabled, was '0.114'|
 |dbus-glib+32|0.110|0.114|runtime-optenv32|Compliance mode enabled, was '0.114'|
 |dbus-python|1.3.2|1.4.0|lang-python|Compliance mode enabled, was '1.4.0'|
 |ddcutil|2.2.1|2.2.5|app-utils|Compliance mode enabled, was '2.2.5'|
@@ -427,7 +425,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eom|1.28.0|1.28.1|desktop-mate|Compliance mode enabled, was '1.28.1'|
 |epiphany|49.2|49.3|desktop-gnome|Compliance mode enabled, was '49.3'|
 |epub2txt2|2.08|0.1.6|app-doc|Compliance mode enabled, was '0.1.6'<br>Possible downgrade from the current version (2.08 -> 0.1.6)|
-|erofs-utils|1.8.10|1.9.1|app-admin|Compliance mode enabled, was '1.9.1'|
 |espeak-ng|1.52.0<br>+git20250909|1.52.0|app-multimedia|Compliance mode enabled, was '1.52.0'|
 |et|6.2.9|6.2.11|app-network|Compliance mode enabled, was '6.2.11'|
 |etckeeper|1.18.21|1.18.23|app-admin|Compliance mode enabled, was '1.18.23'|
@@ -730,8 +727,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ignition|2.20.0|2.26.0|app-admin|Compliance mode enabled, was '2.26.0'|
 |igsc|1.0.0|1.0.2|runtime-devices|Compliance mode enabled, was '1.0.2'|
 |iio-sensor-proxy|3.5|3.9|app-utils|Compliance mode enabled, was '3.9'|
-|imagemagick|6.9.13-37|6.9.13-40|app-utils||
-|imagemagick+7|7.1.1<br>+32|7.1.2+15|app-utils|Compliance mode enabled, was '7.1.2-15'|
+|imagemagick|6.9.13-37|6.9.13-41|app-utils||
+|imagemagick+7|7.1.1<br>+32|7.1.2+16|app-utils|Compliance mode enabled, was '7.1.2-16'|
 |imagesize|1.4.1|2.0.0|lang-python|Compliance mode enabled, was '2.0.0'|
 |imath|3.1.11|3.2.2|runtime-display|Compliance mode enabled, was '3.2.2'|
 |img2pdf|0.5.1|0.6.3|app-doc|Compliance mode enabled, was '0.6.3'|
@@ -2666,7 +2663,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.22.0|1.23.0|lang-python|Compliance mode enabled, was '1.23.0'|
 |ydcv-rs|0.7.0|0.7.1|app-i18n|Compliance mode enabled, was '0.7.1'|
 |yesplaymusic|0.4.8<br>+2|0.2.1|app-multimedia|Compliance mode enabled, was '0.2.1'<br>Possible downgrade from the current version (0.4.8+2 -> 0.2.1)|
-|yosys|0.45|0.63|app-electronics|Compliance mode enabled, was '0.63'|
 |yq|4.50.1|4.52.4|app-devel|Compliance mode enabled, was '4.52.4'|
 |yubico-pam|2.26|2.27|app-devices|Compliance mode enabled, was '2.27'|
 |yubico-piv-tool|2.7.2|2.7.3|app-devices|Compliance mode enabled, was '2.7.3'|
