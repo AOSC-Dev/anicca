@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773008160?label=Updated)
+![Relative date](https://img.shields.io/date/1773011781?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -390,6 +390,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |double-conversion|3.3.1|3.4.0|runtime-common|Compliance mode enabled, was '3.4.0'|
 |dovecot|2.4.1|2.4.2|app-web|Compliance mode enabled, was '2.4.2'|
 |doxygen|1.16.0|1.16.1|app-doc|Compliance mode enabled, was '1.16.1'|
+|doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|25.07|25.03|runtime-network|Compliance mode enabled, was '25.03'<br>Possible downgrade from the current version (25.07 -> 25.03)|
 |dpkg|1.23.5|1.23.7|app-admin|Compliance mode enabled, was '1.23.7'|
 |dragon|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -903,7 +904,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
 |khtml|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |ki18n|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
-|kicad|9.0.6|9.0.7|app-electronics|Compliance mode enabled, was '9.0.7'|
 |kiconthemes|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -1000,6 +1000,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpublictransport|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kqtquickcharts|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kquickcharts|5.115.0|6.23.0|desktop-kde|Compliance mode enabled, was '6.23.0'|
+|kquickimageeditor|0.2.0|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |kramdown|2.5.1|2.5.2|lang-ruby|Compliance mode enabled, was '2.5.2'|
 |krb5|1.22.1-final|1.22.2-final|app-network||
 |krb5+32|1.21.3-final|1.22.2-final|runtime-optenv32||
@@ -1334,7 +1335,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml2|2.10.4|2.15.2|runtime-common|Compliance mode enabled, was '2.15.2'|
 |libxml2+32|2.10.4|2.15.2|runtime-optenv32|Compliance mode enabled, was '2.15.2'|
 |libxmlb|0.3.22|0.3.25|runtime-common|Compliance mode enabled, was '0.3.25'|
-|libxnvctrl|590.48.01|595.45.04|runtime-display|Compliance mode enabled, was '595.45.04'|
 |libxnvctrl+32|590.48.01|595.45.04|runtime-optenv32|Compliance mode enabled, was '595.45.04'|
 |libxslt|1.1.43|1.1.45|runtime-common|Compliance mode enabled, was '1.1.45'|
 |libxslt+32|1.1.43|1.1.45|runtime-optenv32|Compliance mode enabled, was '1.1.45'|
@@ -1410,7 +1410,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-archiver|0.9.1|1.3.0|desktop-lxqt|Compliance mode enabled, was '1.3.0'|
 |lxqt-build-tools|0.13.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-config|1.4.0|2.3.1|desktop-lxqt|Compliance mode enabled, was '2.3.1'|
-|lxqt-globalkeys|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-menu-data|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-notificationd|1.4.0|2.3.1|desktop-lxqt|Compliance mode enabled, was '2.3.1'|
 |lxqt-panel|1.4.0|2.3.2|desktop-lxqt|Compliance mode enabled, was '2.3.2'|
