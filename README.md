@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773045215?label=Updated)
+![Relative date](https://img.shields.io/date/1773049181?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -458,7 +458,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fast-float|8.1.0|8.2.3|runtime-common|Compliance mode enabled, was '8.2.3'|
 |fastbencode|0.3.2|0.3.9|lang-python|Compliance mode enabled, was '0.3.9'|
 |fasteners|0.18|0.20|lang-python|Compliance mode enabled, was '0.20'|
-|fastfetch|2.59.0|2.60.0|app-utils|Compliance mode enabled, was '2.60.0'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |fb303|2025.09.01.00|2026.03.02.00|runtime-network|Compliance mode enabled, was '2026.03.02.00'|
 |fbthrift|2025.09.01.00|2026.03.02.00|app-network|Compliance mode enabled, was '2026.03.02.00'|
@@ -522,6 +521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folly|2025.09.01.00|2026.03.02.00|runtime-common|Compliance mode enabled, was '2026.03.02.00'|
 |fonttools|4.53.1|4.61.1|desktop-fonts|Compliance mode enabled, was '4.61.1'|
 |foot|1.25.0|1.26.0|app-utils|Compliance mode enabled, was '1.26.0'|
+|forgejo|14.0.2|14.0.3|app-web|Compliance mode enabled, was '14.0.3'|
 |fortune-mod|3.24.0|3.26.0|app-games|Compliance mode enabled, was '3.26.0'|
 |fortunes-zh|2.98|2.98.1|app-games|Compliance mode enabled, was '2.98.1'|
 |fox|1.6.59|1.6.57|runtime-desktop|Compliance mode enabled, was '1.6.57'<br>Possible downgrade from the current version (1.6.59 -> 1.6.57)|
@@ -578,7 +578,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gflags|2.2.2|2.3.0|app-devel|Compliance mode enabled, was '2.3.0'|
 |gfm|1.07|1.08|app-devices|Compliance mode enabled, was '1.08'|
 |gfxreconstruct|1.0.4|1.0.5|app-devel|Compliance mode enabled, was '1.0.5'|
-|ggml|0.9.6|0.9.7|runtime-scientific|Compliance mode enabled, was '0.9.7'|
 |ghc|9.4.8|9.14.1-release|lang-haskell|Compliance mode enabled, was '9.14.1-release'|
 |ghidra|12.0_build|12.0.4_build|app-devel|Possible downgrade from the current version (12.0_build -> 12.0.4_build)|
 |ghostscript|9.54.0|10.06.0|app-doc|Compliance mode enabled, was '10.06.0'|
@@ -1361,7 +1360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linyaps-web-store-installer|1.6.3|1.6.8|app-admin|Compliance mode enabled, was '1.6.8'|
 |listenbrainz-mpd|2.3.9|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|7966|8247|runtime-creativity|Compliance mode enabled, was '8247'|
+|llama.cpp|8232|8247|runtime-creativity|Compliance mode enabled, was '8247'|
 |lldpd|1.0.18|1.0.20|app-network|Compliance mode enabled, was '1.0.20'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.3.1|runtime-web|Compliance mode enabled, was '9.3.1'|
@@ -1699,7 +1698,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parallel|20250422|20260222|app-utils|Compliance mode enabled, was '20260222'|
 |pari|2.13.1|2.17.3|app-scientific|Compliance mode enabled, was '2.17.3'|
 |parley|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
-|parsedatetime|2.4|2.6|lang-python|Compliance mode enabled, was '2.6'|
 |parso|0.3.3|0.8.6|lang-python|Compliance mode enabled, was '0.8.6'|
 |partclone|0.3.38|0.3.46|app-admin|Compliance mode enabled, was '0.3.46'|
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
@@ -2257,7 +2255,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadow|4.17.2|4.19.4|app-admin|Compliance mode enabled, was '4.19.4'|
 |shadowsocks-libev|3.3.5|3.3.6|app-proxy|Compliance mode enabled, was '3.3.6'|
 |shapelib|1.5.0|1.6.2|runtime-imaging|Compliance mode enabled, was '1.6.2'|
-|shh|2026.1.27|2026.3.8|app-utils|Compliance mode enabled, was '2026.3.8'|
 |showmethekey|1.20.0|1.21.0|app-utils|Compliance mode enabled, was '1.21.0'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
