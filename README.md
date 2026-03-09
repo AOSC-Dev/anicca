@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773081486?label=Updated)
+![Relative date](https://img.shields.io/date/1773084878?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -69,7 +69,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apparmor|4.1.1|4.1.6|app-admin|Compliance mode enabled, was '4.1.6'|
 |appstream|1.1.1|1.1.2|app-admin|Compliance mode enabled, was '1.1.2'|
 |apr|1.7.5|1.7.6|runtime-common|Compliance mode enabled, was '1.7.6'|
-|apsw|3.50.4.0|3.51.2.0|lang-python|Compliance mode enabled, was '3.51.2.0'|
+|apsw|3.50.4.0|3.52.0.0|lang-python|Compliance mode enabled, was '3.52.0.0'|
 |apt|3.0.3|3.1.16|app-admin|Compliance mode enabled, was '3.1.16'|
 |arcanist|2025.18|2025.51|app-devel|Compliance mode enabled, was '2025.51'|
 |arch-install-scripts|28|31|app-utils||
@@ -113,7 +113,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
 |avr-libc|2.0.0|2_3_1-release|app-devel|Compliance mode enabled, was '2_3_1-release'|
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
-|awesfx|0.5.1e|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
 |ayano|0.1.4|0.1.7|app-network|Compliance mode enabled, was '0.1.7'|
 |b2sdk|2.5.0|2.10.4|lang-python|Compliance mode enabled, was '2.10.4'|
 |b43-firmware-installer|20160210|019|app-admin|Compliance mode enabled, was '019'<br>Possible downgrade from the current version (20160210 -> 019)|
@@ -394,7 +393,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxyqml|0.5.0|0.5.3|app-doc|Compliance mode enabled, was '0.5.3'|
 |dpdk|25.07|25.03|runtime-network|Compliance mode enabled, was '25.03'<br>Possible downgrade from the current version (25.07 -> 25.03)|
 |dpkg|1.23.5|1.23.7|app-admin|Compliance mode enabled, was '1.23.7'|
-|dragon|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |drkonqi|5.27.12|6.6.2|desktop-kde|Compliance mode enabled, was '6.6.2'|
 |drumstick|2.10.0|2.11.0|app-creativity|Compliance mode enabled, was '2.11.0'|
 |dssim|3.3.1|3.4.0|app-imaging|Compliance mode enabled, was '3.4.0'|
@@ -495,13 +493,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffcall|2.4|2.5|runtime-common|Compliance mode enabled, was '2.5'|
 |ffmpeg|7.1.1|8.0.1|app-multimedia|Compliance mode enabled, was '8.0.1'|
 |ffmpeg+32|7.1|8.0.1|runtime-optenv32|Compliance mode enabled, was '8.0.1'|
-|ffmpegthumbnailer|2.2.2|2.3.0|app-multimedia|Compliance mode enabled, was '2.3.0'|
 |ffmpegthumbs|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |ffnvcodec|12.1.14.0|13.0.19.0|runtime-multimedia|Compliance mode enabled, was '13.0.19.0'|
 |fido2|2.0.0|2.1.1|lang-python|Compliance mode enabled, was '2.1.1'|
 |file|5.45|5.47|app-utils|Compliance mode enabled, was '5.47'|
 |filelight|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |filezilla|3.66.4|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.66.4 -> 3.60.2)|
+|firefox|148.0|148.0.2|app-web|Compliance mode enabled, was '148.0.2'|
 |firehol|3.1.7|3.1.8|app-network|Compliance mode enabled, was '3.1.8'|
 |firejail|0.9.76|0.9.78|app-admin|Compliance mode enabled, was '0.9.78'|
 |firewalld|2.3.1|2.4.0|app-network|Compliance mode enabled, was '2.4.0'|
@@ -705,7 +703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hw-probe|1.6.5|1.6.6|app-utils|Compliance mode enabled, was '1.6.6'|
 |hwinfo|25.0|25.2|app-utils|Compliance mode enabled, was '25.2'|
 |hwloc|2.10.0|2.13.0|app-admin|Compliance mode enabled, was '2.13.0'|
-|hyper-h11|0.14.0|0.16.0|lang-python|Compliance mode enabled, was '0.16.0'|
 |hyper-h2|4.0.0|4.3.0|lang-python|Compliance mode enabled, was '4.3.0'|
 |hyperframe|6.0.0|6.1.0|lang-python|Compliance mode enabled, was '6.1.0'|
 |hypothesis-python|6.97.4|6.151.9|lang-python|Compliance mode enabled, was '6.151.9'|
@@ -1353,9 +1350,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.252|runtime-kernel|Compliance mode enabled, was '5.10.252'<br>Possible downgrade from the current version (5.15.17 -> 5.10.252)|
 |linux+kernel+vanillarc|7.0.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (7.0.0 -> 5.19.17)|
 |linux-firmware|20260110|20260221|runtime-kernel||
-|linux-kernel|6.18.12|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.12 -> 5.19.17)|
 |linux-kernel-2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux-kernel-rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
+|linux-kernel-retro|5.10.204|5.10.252|runtime-kernel|Compliance mode enabled, was '5.10.252'|
 |linux-kernel-retro-minimal|5.15.17|5.10.252|runtime-kernel|Compliance mode enabled, was '5.10.252'<br>Possible downgrade from the current version (5.15.17 -> 5.10.252)|
 |linux-kernel-vanillarc|7.0.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (7.0.0 -> 5.19.17)|
 |linux-pam|1.7.1|1.7.2|app-admin|Compliance mode enabled, was '1.7.2'|
@@ -1817,6 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tty|1.13<br>+01|1.20|lang-perl|Compliance mode enabled, was '1.20'|
 |perl-ipc-run|20180523.0|20250809.0|lang-perl|Compliance mode enabled, was '20250809.0'|
 |perl-ipc-system-simple|1.25|1.30|lang-perl|Compliance mode enabled, was '1.30'|
+|perl-javascript-minifier-xs|0.11|0.15|lang-perl|Compliance mode enabled, was '0.15'|
 |perl-json|2.90|4.10|lang-perl|Compliance mode enabled, was '4.10'|
 |perl-json-parse|0.57|0.43|lang-perl|Compliance mode enabled, was '0.43'<br>Possible downgrade from the current version (0.57 -> 0.43)|
 |perl-list-moreutils|0.428|0.430|lang-perl|Compliance mode enabled, was '0.430'|
@@ -1861,6 +1859,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-specio|0.46|0.53|lang-perl|Compliance mode enabled, was '0.53'|
 |perl-string-util|1.31|1.35|lang-perl|Compliance mode enabled, was '1.35'|
 |perl-sub-install|0.928|0.929|lang-perl|Compliance mode enabled, was '0.929'|
+|perl-sub-quote|2.006006|2.006009|lang-perl|Compliance mode enabled, was '2.006009'|
 |perl-syntax-keyword-try|0.30|0.31|lang-perl|Compliance mode enabled, was '0.31'|
 |perl-sys-virt|10.2.0|12.1.0|lang-perl|Compliance mode enabled, was '12.1.0'|
 |perl-template-toolkit|2.27|3.102|lang-perl|Compliance mode enabled, was '3.102'|
@@ -2343,6 +2342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sssd|2.11.1|2.12.0|app-admin|Compliance mode enabled, was '2.12.0'|
 |stalonetray|0.8.4|1.0.2|desktop-wm|Compliance mode enabled, was '1.0.2'|
 |stellarium|25.3|25.4|app-scientific|Compliance mode enabled, was '25.4'|
+|stellarsolver|2.6|2.7|app-scientific|Compliance mode enabled, was '2.7'|
 |step|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |stevedore|5.2.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
@@ -2681,6 +2681,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zmusic|1.1.14|1.3.0|app-games|Compliance mode enabled, was '1.3.0'|
 |zope-interface|7.2|8.2|lang-python|Compliance mode enabled, was '8.2'|
 |zotero|8.0.2|8.0.3|app-productivity|Compliance mode enabled, was '8.0.3'|
+|zsh-completions|0.35.0|0.36.0|app-shells|Compliance mode enabled, was '0.36.0'|
 |zshdb|1.1.3|1.1.4|app-shells|Compliance mode enabled, was '1.1.4'|
 |zstandard|0.23.0|0.25.0|lang-python|Compliance mode enabled, was '0.25.0'|
 |zstd+32|1.5.6|1.5.7|runtime-optenv32|Compliance mode enabled, was '1.5.7'|
