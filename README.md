@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773323912?label=Updated)
+![Relative date](https://img.shields.io/date/1773326527?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -93,6 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
 |ast-grep|0.39.6|0.41.1|app-devel|Compliance mode enabled, was '0.41.1'|
 |asttokens|2.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
+|astyle|3.6.13|3.6.14|app-devel|Compliance mode enabled, was '3.6.14'|
 |asymptote|3.05|2.47|app-doc|Compliance mode enabled, was '2.47'<br>Possible downgrade from the current version (3.05 -> 2.47)|
 |at-spi2-core|2.58.2|2.58.3|desktop-gnome|Compliance mode enabled, was '2.58.3'|
 |at-spi2-core+32|2.58.2|2.58.3|runtime-optenv32|Compliance mode enabled, was '2.58.3'|
@@ -188,6 +189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp4|4.14<br>+1|5.4+1|lang-ocaml|Compliance mode enabled, was '5.4+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
+|capnproto|1.3.0|1.4.0|runtime-common|Compliance mode enabled, was '1.4.0'|
 |capstone|5.0.3|5.0.7|app-devel|Compliance mode enabled, was '5.0.7'|
 |cargo-audit|0.22.0|0.22.1|lang-rust|Compliance mode enabled, was '0.22.1'|
 |cargo-c|0.10.15|0.10.21+cargo-0.95.0|lang-rust|Compliance mode enabled, was '0.10.21+cargo-0.95.0'|
@@ -533,6 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth|2.5.1|2.5.3|app-multimedia|Compliance mode enabled, was '2.5.3'|
 |fluidsynth+32|2.3.6|2.5.3|runtime-optenv32|Compliance mode enabled, was '2.5.3'|
 |fnm|1.38.1|1.39.0|lang-js|Compliance mode enabled, was '1.39.0'|
+|folly|2025.09.01.00|2026.03.09.00|runtime-common|Compliance mode enabled, was '2026.03.09.00'|
 |fonttools|4.53.1|4.62.0|desktop-fonts|Compliance mode enabled, was '4.62.0'|
 |foot|1.25.0|1.26.0|app-utils|Compliance mode enabled, was '1.26.0'|
 |forgejo|14.0.2|14.0.3|app-web|Compliance mode enabled, was '14.0.3'|
@@ -2105,7 +2108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|1.0.1|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |qt-5|5.15.16|5.15.18-lts-lgpl|runtime-desktop||
 |qt-6|6.10.0|6.10.2|runtime-desktop|Compliance mode enabled, was '6.10.2'|
-|qtcreator|18.0.0|18.0.2|app-devel|Compliance mode enabled, was '18.0.2'|
+|qtcreator|18.0.0|19.0.0|app-devel|Compliance mode enabled, was '19.0.0'|
 |qterminal|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |qtermwidget|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |qtpy|2.1.0|2.4.3|lang-python|Compliance mode enabled, was '2.4.3'|
