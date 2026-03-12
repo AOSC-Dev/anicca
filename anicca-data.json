@@ -200,7 +200,7 @@
 ["unixodbc","2.3.9","2.3.14","app-database",1600106563,["Compliance mode enabled, was '2.3.14'"]],
 ["postgresql-14","14.19","14.22","app-database",1759335337,["Compliance mode enabled, was '14.22'"]],
 ["postgresql-18","18.0","18.3","app-database",1758852401,["Compliance mode enabled, was '18.3'"]],
-["mycli","1.42.0","1.62.0","app-database",1766683320,["Compliance mode enabled, was '1.62.0'"]],
+["mycli","1.42.0","1.63.0","app-database",1766683320,["Compliance mode enabled, was '1.63.0'"]],
 ["postgresql-16","16.10","16.13","app-database",1759335396,["Compliance mode enabled, was '16.13'"]],
 ["mariadb","12.1.2","12.3.1","app-database",1768735345,["Compliance mode enabled, was '12.3.1'"]],
 ["sqlcipher","4.5.6","4.13.0","app-database",1709967928,["Compliance mode enabled, was '4.13.0'"]],
