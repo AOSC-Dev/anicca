@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773724848?label=Updated)
+![Relative date](https://img.shields.io/date/1773730300?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -328,7 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.2.3|3.2.4|lang-python|Compliance mode enabled, was '3.2.4'|
 |czmq|4.2.0|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |daed|1.21.1|1.24.0|app-proxy|Compliance mode enabled, was '1.24.0'|
-|damo|2.4.7|3.1.9|app-admin|Compliance mode enabled, was '3.1.9'|
+|damo|2.4.7|3.2.0|app-admin|Compliance mode enabled, was '3.2.0'|
 |dante|1.4.2|1.4.4|app-proxy|Compliance mode enabled, was '1.4.4'|
 |dar|2.7.15|2.8.3|app-utils|Compliance mode enabled, was '2.8.3'|
 |dart-sass|1.97.3|1.98.0|app-devel|Compliance mode enabled, was '1.98.0'|
@@ -671,6 +671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsm+32|1.0.19|1.0.24|runtime-optenv32|Compliance mode enabled, was '1.0.24'|
 |gsmartcontrol|1.1.3|2.0.2|app-admin|Compliance mode enabled, was '2.0.2'|
 |gsoap|2.8.124|2.8.140|runtime-network|Compliance mode enabled, was '2.8.140'|
+|gspell|1.14.2|1.14.3|desktop-gnome|Compliance mode enabled, was '1.14.3'|
 |gst-plugins-rs|0.14.4|0.15.1|runtime-multimedia|Compliance mode enabled, was '0.15.1'|
 |gstreamer|1.26.10|1.28.1|runtime-multimedia|Compliance mode enabled, was '1.28.1'|
 |gtest|1.16.0|1.17.0|app-devel|Compliance mode enabled, was '1.17.0'|
@@ -1277,7 +1278,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librsvg+32|2.59.2|2.62.0|runtime-optenv32|Compliance mode enabled, was '2.62.0'|
 |librtas|2.0.2|2.0.6|runtime-admin|Compliance mode enabled, was '2.0.6'|
 |libsamplerate|0.1.9|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
-|libsass|3.6.4|3.6.6|runtime-common|Compliance mode enabled, was '3.6.6'|
 |libsbsms|2.3.0|2.0.2|runtime-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (2.3.0 -> 2.0.2)|
 |libserialport|0.1.1|0.1.2|runtime-devices|Compliance mode enabled, was '0.1.2'|
 |libshout|2.4.3|2.4.6|runtime-multimedia|Compliance mode enabled, was '2.4.6'|
@@ -1757,7 +1757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-libxml2|0.11|0.20|lang-perl|Compliance mode enabled, was '0.20'|
 |perl-anyevent|7.14|7.17|lang-perl|Compliance mode enabled, was '7.17'|
 |perl-anyevent-i3|0.17|0.19|lang-perl|Compliance mode enabled, was '0.19'|
-|perl-app-cpanminus|1.7044|1.7049|lang-perl|Compliance mode enabled, was '1.7049'|
 |perl-archive-zip|1.64|1.68|lang-perl|Compliance mode enabled, was '1.68'|
 |perl-authen-sasl|2.1401|2.2000|lang-perl|Compliance mode enabled, was '2.2000'|
 |perl-b-hooks-endofscope|0.24|0.28|lang-perl|Compliance mode enabled, was '0.28'|
