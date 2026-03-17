@@ -2350,7 +2350,7 @@
 ["pyside2","5.15.16","5.15.18","lang-python",1753879828,["Compliance mode enabled, was '5.15.18'"]],
 ["pyqt6-webengine","6.9.0","6.10.0","lang-python",1758952268,["Compliance mode enabled, was '6.10.0'"]],
 ["scikit-build","0.18.1","0.19.0","lang-python",1744299460,["Compliance mode enabled, was '0.19.0'"]],
-["openai-python","2.26.0","2.28.0","lang-python",1773400878,["Compliance mode enabled, was '2.28.0'"]],
+["openai-python","2.26.0","2.29.0","lang-python",1773400878,["Compliance mode enabled, was '2.29.0'"]],
 ["setuptools-python3","80.9.0","82.0.1","lang-python",1756329026,["Compliance mode enabled, was '82.0.1'"]],
 ["chardet","5.2.0","7.1.0","lang-python",1771942692,["Compliance mode enabled, was '7.1.0'"]],
 ["matplotlib-inline","0.1.7","9.11.0","lang-python",1728614181,["Compliance mode enabled, was '9.11.0'"]],
