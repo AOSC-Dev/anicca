@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773833923?label=Updated)
+![Relative date](https://img.shields.io/date/1773837720?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1066,6 +1066,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |ktextaddons|1.5.3|2.0.1|desktop-kde|Compliance mode enabled, was '2.0.1'|
 |ktexteditor|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
+|ktextwidgets|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |ktimer|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |ktnef|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |ktorrent|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -1399,7 +1400,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liquidsfz|0.3.2|0.4.0|app-multimedia|Compliance mode enabled, was '0.4.0'|
 |listenbrainz-mpd|2.3.9|2.4.0|app-multimedia|Compliance mode enabled, was '2.4.0'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|8232|8400|runtime-creativity|Compliance mode enabled, was '8400'|
+|llama.cpp|8232|8405|runtime-creativity|Compliance mode enabled, was '8405'|
 |lldpd|1.0.18|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.3.1|runtime-web|Compliance mode enabled, was '9.3.1'|
@@ -1666,8 +1667,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimagedenoise|2.3.0|2.4.1|runtime-imaging|Compliance mode enabled, was '2.4.1'|
 |openimageio|2.5.19.1|3.1.11.0|runtime-imaging|Compliance mode enabled, was '3.1.11.0'|
 |openjdk-11|11.0.28-ga|11.0.31+6|lang-java||
-|openjdk-17|17.0.16-ga|17.0.19+6|lang-java||
-|openjdk-21|21.0.8-ga|21.0.11+6|lang-java||
+|openjdk-17|17.0.16-ga|17.0.19+7|lang-java||
+|openjdk-21|21.0.8-ga|21.0.11+7|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
@@ -1756,6 +1757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-tools|1.7.3|1.7.4|app-devices|Compliance mode enabled, was '1.7.4'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
 |pcsx2|2.7.181|2.7.193|app-games||
+|pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdal|2.9.3|2.10.0|runtime-gis|Compliance mode enabled, was '2.10.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
 |pdlzip|1.14|1.15|app-utils|Compliance mode enabled, was '1.15'|
@@ -2177,8 +2179,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|8400|runtime-rocm|Compliance mode enabled, was '8400'|
+|rocm-llama-cpp|7.0.1|8405|runtime-rocm|Compliance mode enabled, was '8405'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
+|rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rccl|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocblas|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2226,7 +2229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |sagemath|10.7|10.8|app-scientific|Compliance mode enabled, was '10.8'|
-|samba|4.23.4|4.23.6|app-network|Compliance mode enabled, was '4.23.6'|
+|samba|4.23.4|4.24.0|app-network|Compliance mode enabled, was '4.24.0'|
 |samtools|1.21|1.23|app-scientific|Compliance mode enabled, was '1.23'|
 |sanlock|3.8.5|5.0.0|app-admin|Compliance mode enabled, was '5.0.0'|
 |sassc|3.6.1|3.6.2|app-devel|Compliance mode enabled, was '3.6.2'|
