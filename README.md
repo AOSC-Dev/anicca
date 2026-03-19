@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773912944?label=Updated)
+![Relative date](https://img.shields.io/date/1773916351?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -193,6 +193,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp4|4.14<br>+1|5.4+1|lang-ocaml|Compliance mode enabled, was '5.4+1'|
 |camlp5|8.02.01|6023|lang-ocaml|Compliance mode enabled, was '6023'|
 |cantor|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
+|capnproto|1.3.0|1.4.0|runtime-common|Compliance mode enabled, was '1.4.0'|
 |capstone|5.0.3|5.0.7|app-devel|Compliance mode enabled, was '5.0.7'|
 |cargo-audit|0.22.0|0.22.1|lang-rust|Compliance mode enabled, was '0.22.1'|
 |cargo-c|0.10.15|0.10.21+cargo-0.95.0|lang-rust|Compliance mode enabled, was '0.10.21+cargo-0.95.0'|
@@ -2222,6 +2223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rustc+32|1.89.0|1.94.0|runtime-optenv32|Compliance mode enabled, was '1.94.0'|
 |rustc-demangle|0.1.21|0.1.27|runtime-common|Compliance mode enabled, was '0.1.27'|
 |rxvt-unicode|9.22|9.31|runtime-display|Compliance mode enabled, was '9.31'|
+|s-tui|1.3.0|1.4.0|app-utils|Compliance mode enabled, was '1.4.0'|
 |s2tc|1.0<br>+git20210317|1.0|runtime-display|Compliance mode enabled, was '1.0'|
 |s2tc+32|1.0<br>+git20210317|1.0|runtime-optenv32|Compliance mode enabled, was '1.0'|
 |sagemath|10.7|10.8|app-scientific|Compliance mode enabled, was '10.8'|
