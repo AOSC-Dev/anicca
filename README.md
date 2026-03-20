@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1773983673?label=Updated)
+![Relative date](https://img.shields.io/date/1773988902?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -938,7 +938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |khtml|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |ki18n|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
-|kicad|9.0.6|10.99.0|app-electronics|Compliance mode enabled, was '10.99.0'|
+|kicad|9.0.6|10.0.0|app-electronics|Compliance mode enabled, was '10.0.0'|
 |kiconthemes|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |kid3|3.9.5|3.9.7|app-multimedia|Compliance mode enabled, was '3.9.7'|
 |kidentitymanagement|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -1535,6 +1535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mocp|2.6.0~svn.r3005|2.5.2|app-multimedia|Compliance mode enabled, was '2.5.2'<br>Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)|
 |modemmanager-qt|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |more-itertools|10.7.0|10.8.0|lang-python|Compliance mode enabled, was '10.8.0'|
+|moreutils|0.69|0.70|app-utils|Compliance mode enabled, was '0.70'|
 |mosdns|5.3.3|5.3.4|app-network|Compliance mode enabled, was '5.3.4'|
 |mousepad|0.6.5|0.7.0|desktop-xfce|Compliance mode enabled, was '0.7.0'|
 |mp4v2|4.1.3|2.1.3|app-multimedia|Compliance mode enabled, was '2.1.3'<br>Possible downgrade from the current version (4.1.3 -> 2.1.3)|
@@ -2527,6 +2528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2ray-rules-dat|202601042214|202603192222|runtime-data|Compliance mode enabled, was '202603192222'<br>Versions not comparable: `202601042214` and `202603192222`|
 |v2raya|2.2.7.5|2.3.3|app-proxy|Compliance mode enabled, was '2.3.3'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
+|v4l-utils+32|1.22.1|1.32.0|runtime-optenv32|Compliance mode enabled, was '1.32.0'|
 |vacuumtube|1.3.21|1.6.1|app-multimedia|Compliance mode enabled, was '1.6.1'|
 |vala-panel-appmenu|0.7.4|25.04|runtime-desktop|Compliance mode enabled, was '25.04'|
 |valgrind|3.25.0|3.26.0|app-devel|Compliance mode enabled, was '3.26.0'|
