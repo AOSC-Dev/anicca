@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774109857?label=Updated)
+![Relative date](https://img.shields.io/date/1774113525?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -238,7 +238,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromium|142.0.7444.134|146.0.7680.153|app-web|Compliance mode enabled, was '146.0.7680.153'|
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
-|ciel|3.10.2|3.10.1|app-devel|Compliance mode enabled, was '3.10.1'<br>Possible downgrade from the current version (3.10.2 -> 3.10.1)|
 |cinny-desktop|4.10.5|4.11.2|app-web|Compliance mode enabled, was '4.11.2'|
 |cjson|1.7.18|1.7.19|runtime-common|Compliance mode enabled, was '1.7.19'|
 |clamav|1.5.1|1.5.2|app-admin|Compliance mode enabled, was '1.5.2'|
@@ -1748,7 +1747,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm|2.46.3|2.56.1|runtime-desktop|Compliance mode enabled, was '2.56.1'|
 |paper-icon-theme|20180816|1.5.0|desktop-themes|Compliance mode enabled, was '1.5.0'<br>Possible downgrade from the current version (20180816 -> 1.5.0)|
 |papers|49.4|50.0|desktop-gnome|Compliance mode enabled, was '50.0'|
-|paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |par2cmdline|1.0.0|1.1.1|app-utils|Compliance mode enabled, was '1.1.1'|
 |parallel|20250422|20260222|app-utils|Compliance mode enabled, was '20260222'|
 |pari|2.13.1|2.17.3|app-scientific|Compliance mode enabled, was '2.17.3'|
