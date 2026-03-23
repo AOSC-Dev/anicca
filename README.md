@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774294941?label=Updated)
+![Relative date](https://img.shields.io/date/1774297866?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -658,6 +658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.60|runtime-productivity|Compliance mode enabled, was '0.10.60'|
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.6|runtime-database|Compliance mode enabled, was '0.5.6'|
+|google-chrome|146.0.7680.153|146.0.7680.164|app-web|Compliance mode enabled, was '146.0.7680.164'|
 |goreleaser|2.13.1|2.14.3|lang-golang|Compliance mode enabled, was '2.14.3'|
 |goverlay|1.2|1.7.5|app-utils|Compliance mode enabled, was '1.7.5'|
 |gperftools|2.13|2.18.1|app-devel|Compliance mode enabled, was '2.18.1'|
@@ -1748,6 +1749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partimage|0.6.9|0.7.2|app-admin|Compliance mode enabled, was '0.7.2'|
 |partitionmanager|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |passt|2025_09_19.623dbf6|2026_01_20.386b5f5|app-network||
+|patch-ng|1.17.4|1.19.0|lang-python|Compliance mode enabled, was '1.19.0'|
 |pathspec|0.11.0|1.0.4|lang-python|Compliance mode enabled, was '1.0.4'|
 |patool|1.12|4.0.4|app-utils|Compliance mode enabled, was '4.0.4'|
 |pavucontrol-qt|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
@@ -2123,7 +2125,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|runtime-desktop|Compliance mode enabled, was '6.3.0'|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|app-games|Compliance mode enabled, was '3.2.2.3'|
 |r|4.5.2|4.5.3|app-scientific|Compliance mode enabled, was '4.5.3'|
-|radare2|6.0.7|6.1.2|app-devel|Compliance mode enabled, was '6.1.2'|
 |radvd|2.19|2.20|app-network|Compliance mode enabled, was '2.20'|
 |ragel|6.10|7.0.4|app-devel|Compliance mode enabled, was '7.0.4'|
 |ranger|1.9.3|1.9.4|app-utils|Compliance mode enabled, was '1.9.4'|
