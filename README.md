@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774281162?label=Updated)
+![Relative date](https://img.shields.io/date/1774284310?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1743,7 +1743,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|app-utils|Compliance mode enabled, was '10t'|
 |par2cmdline|1.0.0|1.1.1|app-utils|Compliance mode enabled, was '1.1.1'|
 |parallel|20250422|20260222|app-utils|Compliance mode enabled, was '20260222'|
-|pari|2.13.1|2.17.3|app-scientific|Compliance mode enabled, was '2.17.3'|
 |parley|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |parso|0.3.3|0.8.6|lang-python|Compliance mode enabled, was '0.8.6'|
 |partclone|0.3.38|0.3.47|app-admin|Compliance mode enabled, was '0.3.47'|
@@ -1764,7 +1763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.3|1.7.4|app-devices|Compliance mode enabled, was '1.7.4'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
-|pcsx2|2.7.181|2.7.210|app-games||
+|pcsx2|2.7.181|2.7.211|app-games||
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdal|2.9.3|2.10.0|runtime-gis|Compliance mode enabled, was '2.10.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
@@ -2045,8 +2044,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyopengl|3.1.5|3.1.10|lang-python|Compliance mode enabled, was '3.1.10'|
 |pyopenssl|25.3.0|26.0.0|lang-python|Compliance mode enabled, was '26.0.0'|
 |pyparsing|3.2.3|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
-|pypdf|6.5.0|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
-|pypdf2|1.26.0|6.9.1|lang-python|Compliance mode enabled, was '6.9.1'|
+|pypdf|6.5.0|6.9.2|lang-python|Compliance mode enabled, was '6.9.2'|
+|pypdf2|1.26.0|6.9.2|lang-python|Compliance mode enabled, was '6.9.2'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
 |pyperf|2.9.0|2.10.0|lang-python|Compliance mode enabled, was '2.10.0'|
 |pypsutil|5.9.8|7.2.2|lang-python|Compliance mode enabled, was '7.2.2'|
@@ -2110,7 +2109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qps|2.8.0|2.12.0|desktop-lxqt|Compliance mode enabled, was '2.12.0'|
 |qpwgraph|0.9.9|1.0.0|app-multimedia|Compliance mode enabled, was '1.0.0'|
 |qqc2-desktop-style|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
-|qrencode|4.0.2|4.1.1|runtime-imaging|Compliance mode enabled, was '4.1.1'|
 |qrtr|1.1|1.2|runtime-admin|Compliance mode enabled, was '1.2'|
 |qsynth|1.0.1|1.0.5|app-multimedia|Compliance mode enabled, was '1.0.5'|
 |qt-5|5.15.16|5.15.18-lts-lgpl|runtime-desktop||
@@ -2597,7 +2595,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wlroots|0.19.2|0.19.3|runtime-display|Compliance mode enabled, was '0.19.3'|
 |wolfssl|5.8.4|5.9.0-stable|runtime-cryptography|Compliance mode enabled, was '5.9.0-stable'|
 |wondershaper|1.2.1|404:|app-network|Compliance mode enabled, was '404:'|
-|wpebackend-fdo|1.16.0|1.16.1|runtime-web|Compliance mode enabled, was '1.16.1'|
 |wpmeta|0.2.2|0.1.0|app-utils|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.2.2 -> 0.1.0)|
 |wqy-unibit|1.1.0|9.5.0|desktop-fonts|Compliance mode enabled, was '9.5.0'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
