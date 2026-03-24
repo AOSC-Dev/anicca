@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774348886?label=Updated)
+![Relative date](https://img.shields.io/date/1774352421?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -1163,7 +1163,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libexif+32|0.6.22|0.6.25|runtime-optenv32|Compliance mode enabled, was '0.6.25'|
 |libffi|3.4.8|3.5.2|runtime-common|Compliance mode enabled, was '3.5.2'|
 |libffi+32|3.4.7|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
-|libfilezilla|0.54.1|403|runtime-network|Compliance mode enabled, was '403'|
 |libfm|1.4.0|1.4.1|desktop-lxde|Compliance mode enabled, was '1.4.1'|
 |libfm-qt|1.4.0|2.3.1|desktop-lxqt|Compliance mode enabled, was '2.3.1'|
 |libfreeaptx|0.1.1|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
@@ -1349,7 +1348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt|11.9.0|12.1.0|app-virtualization|Compliance mode enabled, was '12.1.0'|
 |libvirt-python|11.9.0|11.7.0|runtime-virtualization|Compliance mode enabled, was '11.7.0'<br>Possible downgrade from the current version (11.9.0 -> 11.7.0)|
 |libvisio|0.1.7|0.1.10|runtime-productivity|Compliance mode enabled, was '0.1.10'|
-|libvncserver|0.9.13|0.9.15|runtime-network|Compliance mode enabled, was '0.9.15'|
 |libvoikko|4.3.1|4.3.3|runtime-i18n|Compliance mode enabled, was '4.3.3'|
 |libvpl|2.15.0|2023.4.0|runtime-multimedia|Compliance mode enabled, was '2023.4.0'|
 |libvpx|1.15.0|1.16.0|runtime-multimedia|Compliance mode enabled, was '1.16.0'|
@@ -1974,7 +1972,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |po-debconf|1.0.21|1.0.22|app-admin|Compliance mode enabled, was '1.0.22'|
 |po4a|0.73|0.74|app-i18n|Compliance mode enabled, was '0.74'|
 |pocketsphinx|5.0.4|0.8|app-utils|Compliance mode enabled, was '0.8'<br>Possible downgrade from the current version (5.0.4 -> 0.8)|
-|poco|1.14.1|1.15.0|runtime-network|Compliance mode enabled, was '1.15.0'|
+|poco|1.14.1|1.15.1|runtime-network|Compliance mode enabled, was '1.15.1'|
 |podcastparser|0.6.5|0.6.11|lang-python|Compliance mode enabled, was '0.6.11'|
 |podman|5.7.0|5.8.1|app-containers||
 |podofo|0.10.3|1.0.3|runtime-doc|Compliance mode enabled, was '1.0.3'|
@@ -2438,7 +2436,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycdb|0.78|0.81|app-database|Compliance mode enabled, was '0.81'|
 |tinycss2|1.0.2|1.5.1|lang-python|Compliance mode enabled, was '1.5.1'|
 |tinymist|0.14.4|0.14.12|app-doc|Compliance mode enabled, was '0.14.12'|
-|tinyply|2.3.4|3.0|runtime-display|Compliance mode enabled, was '3.0'|
 |tinyproxy|1.11.1|1.11.3|app-proxy|Compliance mode enabled, was '1.11.3'|
 |tinysparql|3.10.1|3.11.0|desktop-gnome|Compliance mode enabled, was '3.11.0'|
 |tk|8.6.10|9.0.3|lang-tcl|Compliance mode enabled, was '9.0.3'|
