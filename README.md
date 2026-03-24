@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774384310?label=Updated)
+![Relative date](https://img.shields.io/date/1774387742?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -157,8 +157,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |boost|1.83.0|1.90.0|runtime-common|Compliance mode enabled, was '1.90.0'|
 |botan|3.8.1|3.11.0|runtime-cryptography|Compliance mode enabled, was '3.11.0'|
-|boto3|1.42.54|1.42.74|lang-python|Compliance mode enabled, was '1.42.74'|
-|botocore|1.42.54|1.42.74|lang-python|Compliance mode enabled, was '1.42.74'|
+|boto3|1.42.54|1.42.75|lang-python|Compliance mode enabled, was '1.42.75'|
+|botocore|1.42.54|1.42.75|lang-python|Compliance mode enabled, was '1.42.75'|
 |bottle|0.13.3|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
 |bottles|2022.2.28<br>+trento<br>+4|63.0|app-utils|Compliance mode enabled, was '63.0'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 63.0)|
 |bovo|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -730,6 +730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|app-web|Compliance mode enabled, was '2.16.2'|
 |hfsprogs|332.25|667.100.2|app-admin|Compliance mode enabled, was '667.100.2'|
 |hidapi|0.14.0|0.15.0|runtime-devices|Compliance mode enabled, was '0.15.0'|
+|highlight|4.12|4.19|app-devel|Compliance mode enabled, was '4.19'|
 |hmcl|3.11.2|3.6.18|app-games|Compliance mode enabled, was '3.6.18'<br>Possible downgrade from the current version (3.11.2 -> 3.6.18)|
 |hotspot|1.5.1|1.6.0|app-devel|Compliance mode enabled, was '1.6.0'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
@@ -1681,6 +1682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openimageio|2.5.19.1|3.1.11.0|runtime-imaging|Compliance mode enabled, was '3.1.11.0'|
 |openjdk-11|11.0.28-ga|11.0.31+6|lang-java||
 |openjdk-17|17.0.16-ga|17.0.19+7|lang-java||
+|openjdk-21|21.0.8-ga|21.0.11+7|lang-java||
 |openjdk-22|22.0.2-ga|22.0.2+9|lang-java||
 |openjdk-23|23.0.2-ga|23.0.2+7|lang-java||
 |openjdk-24|24.0.2-ga|24.0.2+12|lang-java||
@@ -1931,6 +1933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-sax|1.00|1.02|lang-perl|Compliance mode enabled, was '1.02'|
 |perl-xml-sax-expat|0.51|1.33|lang-perl|Compliance mode enabled, was '1.33'|
 |perl-xml-twig|3.52|3.54|lang-perl|Compliance mode enabled, was '3.54'|
+|perl-xml-xpath|1.44|1.48|lang-perl|Compliance mode enabled, was '1.48'|
 |perl-xs-parse-keyword|0.48|0.49|lang-perl|Compliance mode enabled, was '0.49'|
 |perl-yaml-libyaml|0.85|0.904.0|lang-perl|Compliance mode enabled, was '0.904.0'|
 |perl-yaml-tiny|1.73|1.76|lang-perl|Compliance mode enabled, was '1.76'|
@@ -2539,7 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vhs|0.10.0|0.11.0|app-utils|Compliance mode enabled, was '0.11.0'|
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
-|vim|9.2.0209|9.2.0235|app-editors|Compliance mode enabled, was '9.2.0235'|
+|vim|9.2.0209|9.2.0239|app-editors|Compliance mode enabled, was '9.2.0239'|
 |virglrenderer|1.2.0|1.3.0|app-virtualization|Compliance mode enabled, was '1.3.0'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |virtualbox|7.2.4|7.2.6|app-virtualization|Compliance mode enabled, was '7.2.6'|
