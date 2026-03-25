@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774454427?label=Updated)
+![Relative date](https://img.shields.io/date/1774457756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -69,6 +69,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-xdg-menu|20200412|20160217|runtime-data|Compliance mode enabled, was '20160217'<br>Possible downgrade from the current version (20200412 -> 20160217)|
 |apache-arrow|23.0.0|23.0.1|runtime-database|Compliance mode enabled, was '23.0.1'|
 |apache-maven|3.9.9|3.9.14|lang-java|Compliance mode enabled, was '3.9.14'|
+|apicula|0.14|0.31|app-electronics|Compliance mode enabled, was '0.31'|
 |apitrace|12.0|14.0|app-devel|Compliance mode enabled, was '14.0'|
 |apparmor|4.1.1|4.1.7|app-admin|Compliance mode enabled, was '4.1.7'|
 |appstream|1.1.1|1.1.2|app-admin|Compliance mode enabled, was '1.1.2'|
@@ -528,7 +529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freecell-solver|6.2.0|6.16.0|app-games|Compliance mode enabled, was '6.16.0'|
 |freeciv|3.2.2|3.2.4|app-games|Compliance mode enabled, was '3.2.4'|
 |freeglut+32|3.4.0|3.8.0|runtime-optenv32|Compliance mode enabled, was '3.8.0'|
-|freerdp|3.24.0|3.24.1|app-network|Compliance mode enabled, was '3.24.1'|
+|freerdp|3.24.0|3.24.2|app-network|Compliance mode enabled, was '3.24.2'|
 |freetds|1.00.112|1.5.15|runtime-database|Compliance mode enabled, was '1.5.15'|
 |freetype|2.14.2|2.14.3|runtime-desktop|Compliance mode enabled, was '2.14.3'|
 |freetype+32|2.14.2|2.14.3|runtime-optenv32|Compliance mode enabled, was '2.14.3'|
@@ -940,6 +941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-gallery|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kirigami2|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |kiriki|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
+|kitemmodels|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |kitemviews|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
 |kiten|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kitinerary|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -982,13 +984,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-inputstream-ffmpegdirect|21.3.7|22.2.3-piers|app-multimedia|Compliance mode enabled, was '22.2.3-Piers'|
 |kodi-inputstream-rtmp|21.1.2|2.0.2|app-multimedia|Compliance mode enabled, was '2.0.2'<br>Possible downgrade from the current version (21.1.2 -> 2.0.2)|
 |kodi-pvr-iptvsimple|21.10.2|22.6.4-piers|app-multimedia|Compliance mode enabled, was '22.6.4-Piers'|
-|koko|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kolf|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kollision|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kolourpaint|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kompare|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kongress|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
-|konqueror|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |konquest|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |konsole|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kontact|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -1496,6 +1496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
 |mini-portile|2.8.8|2.8.9|lang-ruby|Compliance mode enabled, was '2.8.9'|
 |minicom|2.10|2.11.1|app-utils|Compliance mode enabled, was '2.11.1'|
+|minikube|1.35.0|1.38.1|app-containers|Compliance mode enabled, was '1.38.1'|
 |miniserve|0.29.0|0.33.0|app-web|Compliance mode enabled, was '0.33.0'|
 |miniupnpc|2.1|2.3.3|app-network|Compliance mode enabled, was '2.3.3'|
 |miniupnpd|2.3.5|2.3.10|app-network|Compliance mode enabled, was '2.3.10'|
@@ -1695,7 +1696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.7.2|lang-python|Compliance mode enabled, was '6.7.2'|
 |oslo-serialization|5.8.0|5.9.1|lang-python|Compliance mode enabled, was '5.9.1'|
 |oslo-utils|9.2.0|10.0.0|lang-python|Compliance mode enabled, was '10.0.0'|
-|osu-lazer|2026.305.0-lazer|2026.318.0-tachyon|app-games||
+|osu-lazer|2026.305.0-lazer|2026.326.0-tachyon|app-games||
 |owslib|0.34.1|0.35.0|lang-python|Compliance mode enabled, was '0.35.0'|
 |oxipng|9.1.4|10.1.0|app-utils|Compliance mode enabled, was '10.1.0'|
 |oxygen|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
@@ -1742,7 +1743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.3|1.7.4|app-devices|Compliance mode enabled, was '1.7.4'|
 |pcsclite|1.9.9|2.4.1|app-devices|Compliance mode enabled, was '2.4.1'|
-|pcsx2|2.7.181|2.7.213|app-games||
+|pcsx2|2.7.181|2.7.215|app-games||
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdal|2.9.3|2.10.0|runtime-gis|Compliance mode enabled, was '2.10.0'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
@@ -2026,7 +2027,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparsing|3.2.3|3.3.2|lang-python|Compliance mode enabled, was '3.3.2'|
 |pypdf|6.5.0|6.9.2|lang-python|Compliance mode enabled, was '6.9.2'|
 |pyperclip|1.8.2|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
-|pyperf|2.9.0|2.10.0|lang-python|Compliance mode enabled, was '2.10.0'|
 |pypsutil|5.9.8|7.2.2|lang-python|Compliance mode enabled, was '7.2.2'|
 |pyqt-builder|1.18.0|1.19.1|lang-python|Compliance mode enabled, was '1.19.1'|
 |pyqt5-sip|12.17.0|12.18.0|lang-python|Compliance mode enabled, was '12.18.0'|
