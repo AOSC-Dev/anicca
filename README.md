@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774514581?label=Updated)
+![Relative date](https://img.shields.io/date/1774518753?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |0ad|0.27.1|0.28.0|app-games|Compliance mode enabled, was '0.28.0'|
@@ -48,6 +48,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadiconsole|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |akregator|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |alembic|1.8.6|1.8.11|runtime-creativity|Compliance mode enabled, was '1.8.11'|
+|allegro|5.2.6.0|5.2.11.3|runtime-games|Compliance mode enabled, was '5.2.11.3'|
 |alligator|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |alsa-utils|1.2.15.1|1.2.15.2|app-multimedia|Compliance mode enabled, was '1.2.15.2'|
 |aml|0.3.0|1.0.0|runtime-network|Compliance mode enabled, was '1.0.0'|
@@ -1585,8 +1586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nng|1.10.1|1.11|runtime-network|Compliance mode enabled, was '1.11'|
 |nnn|5.0|5.2|app-utils|Compliance mode enabled, was '5.2'|
 |noctalia-qs|0.0.4|0.0.10|runtime-desktop|Compliance mode enabled, was '0.0.10'|
-|nodejs-22|22.22.0|22.22.2|lang-js|Compliance mode enabled, was '22.22.2'|
-|nodejs-24|24.13.1|24.14.1|lang-js|Compliance mode enabled, was '24.14.1'|
 |noip|2.1.9|3.3.0|app-network|Compliance mode enabled, was '3.3.0'|
 |nokogiri|1.18.10|1.19.2|lang-ruby|Compliance mode enabled, was '1.19.2'|
 |nomino|1.3.1|1.6.4|app-utils|Compliance mode enabled, was '1.6.4'|
@@ -1680,7 +1679,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |optipng|0.7.7|7.9.1|app-utils|Compliance mode enabled, was '7.9.1'|
 |opus|1.6|1.6.1|runtime-multimedia|Compliance mode enabled, was '1.6.1'|
 |opus+32|1.6|1.6.1|runtime-optenv32|Compliance mode enabled, was '1.6.1'|
-|opusfile|0.11|0.12|runtime-multimedia|Compliance mode enabled, was '0.12'|
 |orc|0.4.41|0.4.42|app-devel|Compliance mode enabled, was '0.4.42'|
 |orc+32|0.4.32|0.4.42|runtime-optenv32|Compliance mode enabled, was '0.4.42'|
 |orca|49.5|50.0.9|desktop-gnome|Compliance mode enabled, was '50.0.9'|
@@ -1917,6 +1915,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pip|25.3|26.0.1|lang-python|Compliance mode enabled, was '26.0.1'|
 |pipewire|1.6.1|1.6.2|app-multimedia|Compliance mode enabled, was '1.6.2'|
 |pipx|1.8.0|1.11.0|lang-python|Compliance mode enabled, was '1.11.0'|
+|pixi|0.59.0|0.66.0|app-devel|Compliance mode enabled, was '0.66.0'|
 |pkcs11-helper|1.30.0|1.31.0|runtime-cryptography|Compliance mode enabled, was '1.31.0'|
 |plank|0.11.89<br>+git20210222|0.11.89|app-utils|Compliance mode enabled, was '0.11.89'|
 |plasma-angelfish|22.06|26.03.80|desktop-kde|Compliance mode enabled, was '26.03.80'|
@@ -1928,6 +1927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-integration|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |plasma-mobile|5.27.5|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |plasma-nano|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
+|plasma-nm|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |plasma-pa|5.27.12|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |plasma-pk-updates|0.3.2|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
 |plasma-sdk|5.27.12.1|6.6.3|desktop-kde|Compliance mode enabled, was '6.6.3'|
@@ -2442,6 +2442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |triforce|0.2.0|0.3.2|runtime-multimedia|Compliance mode enabled, was '0.3.2'|
 |trinity-default-settings|2023.07.1r|2025.12.1|runtime-data|Compliance mode enabled, was '2025.12.1'|
 |trio-websocket|0.11.1|0.12.2|lang-python|Compliance mode enabled, was '0.12.2'|
+|trivy|0.55.0|0.69.3|app-devel|Compliance mode enabled, was '0.69.3'|
 |tslib|1.21|1.24|runtime-devices|Compliance mode enabled, was '1.24'|
 |tslib+32|1.21|1.24|runtime-optenv32|Compliance mode enabled, was '1.24'|
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts|Compliance mode enabled, was '1.901'|
