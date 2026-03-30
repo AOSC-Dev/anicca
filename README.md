@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1774833314?label=Updated)
+![Relative date](https://img.shields.io/date/1774845388?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -214,7 +214,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |celluloid|0.29|0.30|app-multimedia|Compliance mode enabled, was '0.30'|
 |certbot|5.3.1|5.4.0|groups|Compliance mode enabled, was '5.4.0'|
 |certbot-apache|5.3.1|5.4.0|app-web|Compliance mode enabled, was '5.4.0'|
-|certbot-dns-cloudflare|5.3.1|5.4.0|app-web|Compliance mode enabled, was '5.4.0'|
 |certbot-nginx|5.3.1|5.4.0|app-web|Compliance mode enabled, was '5.4.0'|
 |certifi|2026.1.4|2026.2.25|lang-python|Compliance mode enabled, was '2026.2.25'|
 |cervisia|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -515,7 +514,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatpak|1.17.2|1.17.3|app-admin|Compliance mode enabled, was '1.17.3'|
 |flint|3.3.1|3.4.0|runtime-scientific|Compliance mode enabled, was '3.4.0'|
 |fltk-1.3|1.3.11|1.4.4|runtime-desktop|Compliance mode enabled, was '1.4.4'|
-|fluida.lv2|0.9.2|0.9.5|app-multimedia|Compliance mode enabled, was '0.9.5'|
 |fnm|1.38.1|1.39.0|lang-js|Compliance mode enabled, was '1.39.0'|
 |folly|2026.03.02.00|2026.03.23.00|runtime-common|Compliance mode enabled, was '2026.03.23.00'|
 |fonttools|4.53.1|4.62.1|desktop-fonts|Compliance mode enabled, was '4.62.1'|
@@ -640,7 +638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.60|runtime-productivity|Compliance mode enabled, was '0.10.60'|
 |goldendict|1.5.0|1.5.1|app-i18n|Compliance mode enabled, was '1.5.1'|
 |gom|0.4|0.5.6|runtime-database|Compliance mode enabled, was '0.5.6'|
-|goreleaser|2.13.1|2.14.3|lang-golang|Compliance mode enabled, was '2.14.3'|
+|goreleaser|2.13.1|2.15.0|lang-golang|Compliance mode enabled, was '2.15.0'|
 |goverlay|1.2|1.7.5|app-utils|Compliance mode enabled, was '1.7.5'|
 |gperftools|2.13|2.18.1|app-devel|Compliance mode enabled, was '2.18.1'|
 |gpgme|1.24.3|2.0.1|runtime-cryptography|Compliance mode enabled, was '2.0.1'|
@@ -872,7 +870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdegraphics-mobipocket|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdegraphics-thumbnailers|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdelibs4support|5.115.0|6.24.0|desktop-kde|Compliance mode enabled, was '6.24.0'|
-|kdenetwork-filesharing|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdenlive|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdepim-addons|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |kdepim-runtime|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -2257,7 +2254,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadow|4.17.2|4.19.4|app-admin|Compliance mode enabled, was '4.19.4'|
 |shadowsocks-libev|3.3.5|3.3.6|app-proxy|Compliance mode enabled, was '3.3.6'|
 |shapelib|1.5.0|1.6.3|runtime-imaging|Compliance mode enabled, was '1.6.3'|
-|showmethekey|1.20.0|1.21.0|app-utils|Compliance mode enabled, was '1.21.0'|
 |siege|4.0.7|4.1.7|app-network|Compliance mode enabled, was '4.1.7'|
 |signon|8.60|8.61|app-admin|Compliance mode enabled, was '8.61'|
 |signon-kwallet-extension|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
@@ -2548,7 +2544,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wand|0.6.13|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |wangle|2026.03.02.00|2026.03.23.00|runtime-network|Compliance mode enabled, was '2026.03.23.00'|
 |warzone2100|4.5.5|4.6.3|app-games||
-|watchman|2026.03.02.00|2026.03.23.00|groups|Compliance mode enabled, was '2026.03.23.00'|
 |wavemon|0.9.6|0.9.7|app-network|Compliance mode enabled, was '0.9.7'|
 |wavpack|5.8.1|5.9.0|app-multimedia|Compliance mode enabled, was '5.9.0'|
 |wavpack+32|5.8.1|5.9.0|runtime-optenv32|Compliance mode enabled, was '5.9.0'|
