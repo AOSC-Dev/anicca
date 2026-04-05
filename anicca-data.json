@@ -1515,6 +1515,7 @@
 ["wondershaper","1.2.1","404:","app-network",1472682170,["Compliance mode enabled, was '404:'"]],
 ["passt","2025_09_19.623dbf6","2026_01_20.386b5f5","app-network",1764939253,[]],
 ["fbthrift","2026.03.02.00","2026.03.30.00","app-network",1774421216,["Compliance mode enabled, was '2026.03.30.00'"]],
+["ethtool","6.11","6.19","app-network",1732091390,["Compliance mode enabled, was '6.19'"]],
 ["radvd","2.19","2.20","app-network",1552787598,["Compliance mode enabled, was '2.20'"]],
 ["tcpdump","4.99.5","4.99.6","app-network",1761924486,["Compliance mode enabled, was '4.99.6'"]],
 ["xl2tpd","1.3.15","1.3.20","app-network",1573873544,["Compliance mode enabled, was '1.3.20'"]],
