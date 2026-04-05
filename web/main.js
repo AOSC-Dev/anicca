@@ -40,6 +40,7 @@ async function renderDataTable() {
       50,
       100,
       { label: "8d", value: 0x8d },
+      { label: "a1", value: 0xa1 },
       { label: "All", value: -1 },
     ],
     search: {
