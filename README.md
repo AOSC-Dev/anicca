@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1775629010?label=Updated)
+![Relative date](https://img.shields.io/date/1775635659?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -263,6 +263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit-machines|344|351|app-admin|Compliance mode enabled, was '351'|
 |cockpit-podman|117|124|app-admin|Compliance mode enabled, was '124'|
 |code-server|4.107.0|4.114.1|app-utils|Compliance mode enabled, was '4.114.1'|
+|coeurl|0.3.1|0.3.2|runtime-network|Compliance mode enabled, was '0.3.2'|
 |coherent.build|0.35.2|0.36.2|lang-python|Compliance mode enabled, was '0.36.2'|
 |coin|4.0.0<br>+git20220828|4.0.8|runtime-imaging|Compliance mode enabled, was '4.0.8'|
 |coinutils|2.11.4|2.11.13|app-scientific|Compliance mode enabled, was '2.11.13'|
@@ -1919,7 +1920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-www-mechanize|1.91|2.20|lang-perl|Compliance mode enabled, was '2.20'|
 |perl-x11-protocol-other|30|31|lang-perl|Compliance mode enabled, was '31'|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl|Compliance mode enabled, was '1.12'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
-|perl-xml-parser|2.51|2.56|lang-perl|Compliance mode enabled, was '2.56'|
+|perl-xml-parser|2.51|2.57|lang-perl|Compliance mode enabled, was '2.57'|
 |perl-xml-sax|1.00|1.02|lang-perl|Compliance mode enabled, was '1.02'|
 |perl-xml-sax-expat|0.51|1.33|lang-perl|Compliance mode enabled, was '1.33'|
 |perl-xml-twig|3.52|3.54|lang-perl|Compliance mode enabled, was '3.54'|
@@ -2010,7 +2011,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pstate-frequency|3.16.1|3.17.0|app-admin|Compliance mode enabled, was '3.17.0'|
 |psycopg2|2.9.10|2.9.11|lang-python|Compliance mode enabled, was '2.9.11'|
 |ptex|2.3.2|2.5.1|runtime-creativity|Compliance mode enabled, was '2.5.1'|
-|publicsuffixlist|1.0.2.20250809|1.0.2.20260403|lang-python|Compliance mode enabled, was '1.0.2.20260403'|
+|publicsuffixlist|1.0.2.20250809|1.0.2.20260408|lang-python|Compliance mode enabled, was '1.0.2.20260408'|
 |puccinialin|0.1.8|0.1.9|lang-python|Compliance mode enabled, was '0.1.9'|
 |pugixml|1.14|1.15|runtime-common|Compliance mode enabled, was '1.15'|
 |pulseaudio-qt|1.3|1.8.1|runtime-desktop|Compliance mode enabled, was '1.8.1'|
