@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1776253701?label=Updated)
+![Relative date](https://img.shields.io/date/1776257848?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -88,8 +88,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asar|4.1.0|4.2.0|app-utils|Compliance mode enabled, was '4.2.0'|
 |asgiref|3.8.1|3.11.1|lang-python|Compliance mode enabled, was '3.11.1'|
 |aspell|0.60.8.1|0.60.8.2|app-i18n||
-|aspnetcore-runtime-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|aspnetcore-targeting-pack-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
+|aspnetcore-runtime-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|aspnetcore-targeting-pack-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
 |ast-grep|0.39.6|0.42.1|app-devel|Compliance mode enabled, was '0.42.1'|
 |asttokens|2.4.1|3.0.1|lang-python|Compliance mode enabled, was '3.0.1'|
 |astyle|3.6.13|3.6.14|app-devel|Compliance mode enabled, was '3.6.14'|
@@ -407,14 +407,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-plugins|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
 |dos2unix|7.5.3|7.5.5|app-utils|Compliance mode enabled, was '7.5.5'|
 |dotconf|1.3|1.4.1|runtime-common|Compliance mode enabled, was '1.4.1'|
-|dotnet-apphost-pack-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|dotnet-hostfxr-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|dotnet-runtime-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|dotnet-runtime-deps-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|dotnet-sdk-8.0|8.0.418|8.0.420|lang-dotnet|Compliance mode enabled, was '8.0.420'|
-|dotnet-targeting-pack-8.0|8.0.24|8.0.26|lang-dotnet|Compliance mode enabled, was '8.0.26'|
-|dotnet-templates-8.0|8.0.418|8.0.420|lang-dotnet|Compliance mode enabled, was '8.0.420'|
-|dotnet8|8.0.418|8.0.420|groups|Compliance mode enabled, was '8.0.420'|
+|dotnet-apphost-pack-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|dotnet-hostfxr-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|dotnet-runtime-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|dotnet-runtime-deps-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|dotnet-sdk-8.0|8.0.418|8.0.419|lang-dotnet|Compliance mode enabled, was '8.0.419'|
+|dotnet-targeting-pack-8.0|8.0.24|8.0.25|lang-dotnet|Compliance mode enabled, was '8.0.25'|
+|dotnet-templates-8.0|8.0.418|8.0.419|lang-dotnet|Compliance mode enabled, was '8.0.419'|
+|dotnet8|8.0.418|8.0.419|groups|Compliance mode enabled, was '8.0.419'|
 |double-conversion|3.3.1|3.4.0|runtime-common|Compliance mode enabled, was '3.4.0'|
 |dovecot|2.4.1|2.4.3|app-web|Compliance mode enabled, was '2.4.3'|
 |doxygen|1.16.0|1.16.1|app-doc|Compliance mode enabled, was '1.16.1'|
@@ -1407,7 +1407,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liquidsfz|0.3.2|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
 |listenbrainz-mpd|2.3.9|2.5.1|app-multimedia|Compliance mode enabled, was '2.5.1'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|8642|8798|runtime-creativity|Compliance mode enabled, was '8798'|
+|llama.cpp|8642|8799|runtime-creativity|Compliance mode enabled, was '8799'|
 |lldpd|1.0.18|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.3.1|runtime-web|Compliance mode enabled, was '9.3.1'|
@@ -1532,7 +1532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.10|app-network|Compliance mode enabled, was '2.3.10'|
 |minizip|4.0.10|4.1.0|runtime-common|Compliance mode enabled, was '4.1.0'|
 |minuet|23.08.5|25.12.3|desktop-kde|Compliance mode enabled, was '25.12.3'|
-|mise|2026.1.1|2026.4.11|app-devel|Compliance mode enabled, was '2026.4.11'|
+|mise|2026.1.1|2026.4.12|app-devel|Compliance mode enabled, was '2026.4.12'|
 |mitmproxy|12.2.1|12.2.2|app-network||
 |mixxx|2.5.2|2.5.6|app-creativity|Compliance mode enabled, was '2.5.6'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
@@ -1599,7 +1599,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netcdf|4.7.4|4.10.0|runtime-scientific|Compliance mode enabled, was '4.10.0'|
 |nethack|3.6.6|3.6.7_released|app-games|Compliance mode enabled, was '3.6.7_Released'|
 |netpbm|10.86.48|11.14.00|app-utils|Compliance mode enabled, was '11.14.00'|
-|netstandard-targeting-pack-2.1|8.0.418|8.0.420|lang-dotnet|Compliance mode enabled, was '8.0.420'|
+|netstandard-targeting-pack-2.1|8.0.418|8.0.419|lang-dotnet|Compliance mode enabled, was '8.0.419'|
 |netsurf-buildsystem|1.9|1.10|app-devel|Compliance mode enabled, was '1.10'|
 |nettle|3.10.2|4.0|runtime-cryptography|Compliance mode enabled, was '4.0'|
 |nettle+32|3.10.1|4.0|runtime-optenv32|Compliance mode enabled, was '4.0'|
@@ -2207,7 +2207,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|8798|runtime-rocm|Compliance mode enabled, was '8798'|
+|rocm-llama-cpp|7.0.1|8799|runtime-rocm|Compliance mode enabled, was '8799'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2730,6 +2730,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zerotier-one|1.14.2|1.16.0|app-network|Compliance mode enabled, was '1.16.0'|
 |zig|0.15.2|0.16.0|lang-ziglang|Compliance mode enabled, was '0.16.0'|
 |zipp|3.23.0|3.23.1|lang-python|Compliance mode enabled, was '3.23.1'|
+|zlib+32|2.2.3|2.3.3|runtime-optenv32|Compliance mode enabled, was '2.3.3'|
 |zmusic|1.1.14|1.3.0|app-games|Compliance mode enabled, was '1.3.0'|
 |zope-interface|8.2|8.3|lang-python|Compliance mode enabled, was '8.3'|
 |zotero|8.0.2|9.0.0|app-productivity|Compliance mode enabled, was '9.0.0'|
