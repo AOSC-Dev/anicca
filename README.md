@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1776598164?label=Updated)
+![Relative date](https://img.shields.io/date/1776602079?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -225,7 +225,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |charset-normalizer|3.4.4|3.4.7|lang-python|Compliance mode enabled, was '3.4.7'|
 |cheetah3|3.2.5|3.2.6.post2|lang-python|Compliance mode enabled, was '3.2.6.post2'|
 |cherry-studio|1.7.13|1.9.1|app-utils|Compliance mode enabled, was '1.9.1'|
-|chezmoi|2.70.0|2.70.2|app-utils|Compliance mode enabled, was '2.70.2'|
 |chinadns-ng|2024.07.16|2025.08.09|app-web|Compliance mode enabled, was '2025.08.09'|
 |chiron-sans-hk|2.046|2.608|desktop-fonts|Compliance mode enabled, was '2.608'|
 |chisel|1.10.1|1.11.5|app-network|Compliance mode enabled, was '1.11.5'|
@@ -1476,7 +1475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-sudo|1.4.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-themes|1.3.0|2.3.0|desktop-lxqt|Compliance mode enabled, was '2.3.0'|
 |lxqt-wallet|4.0.0|4.0.2|desktop-lxqt|Compliance mode enabled, was '4.0.2'|
-|lychee|0.18.1|0.23.0|app-web|Compliance mode enabled, was '0.23.0'|
 |lyx|2.5.0|2.5.1|app-doc|Compliance mode enabled, was '2.5.1'|
 |lzd|1.4|1.5|app-utils|Compliance mode enabled, was '1.5'|
 |lzip|1.24.1|1.26|app-utils|Compliance mode enabled, was '1.26'|
@@ -1617,7 +1615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nextpnr|0.9|0.10|app-electronics|Compliance mode enabled, was '0.10'|
 |nfs-utils|2.8.4|2.9.1|app-utils|Compliance mode enabled, was '2.9.1'|
 |nftables|1.0.9|1.1.6|app-network|Compliance mode enabled, was '1.1.6'|
-|nghttp2|1.65.0|1.68.1|runtime-web|Compliance mode enabled, was '1.68.1'|
+|nghttp2|1.65.0|1.69.0|runtime-web|Compliance mode enabled, was '1.69.0'|
 |nghttp3|1.14.0|1.15.0|runtime-web|Compliance mode enabled, was '1.15.0'|
 |nginx|1.28.0<br>+brotli1.0.0~rc1<br>+git20231009|1.30.0|app-web|Compliance mode enabled, was '1.30.0'|
 |ngspice|35|46|app-electronics|Compliance mode enabled, was '46'|
@@ -1962,6 +1960,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php-ds|1.6.0|2.0.0|lang-php|Compliance mode enabled, was '2.0.0'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
+|pim-data-exporter|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |pim-sieve-editor|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |pimcommon|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |pip|25.3|26.0.1|lang-python|Compliance mode enabled, was '26.0.1'|
