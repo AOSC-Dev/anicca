@@ -1,11 +1,12 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1776721222?label=Updated)
+![Relative date](https://img.shields.io/date/1776724541?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
 |86box|5.2|5.3|app-emulation|Compliance mode enabled, was '5.3'|
+|a2ps|4.15.7|4.15.8|app-doc|Compliance mode enabled, was '4.15.8'|
 |a52dec|0.7.4|0.8.0|runtime-multimedia|Compliance mode enabled, was '0.8.0'|
 |a52dec+32|0.7.4|0.8.0|runtime-optenv32|Compliance mode enabled, was '0.8.0'|
 |aalib|1.4rc5|1.2|runtime-multimedia|Possible downgrade from the current version (1.4rc5 -> 1.2)|
@@ -334,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |croc|10.2.7|10.4.2|app-utils|Compliance mode enabled, was '10.4.2'|
 |crow-translate|2.11.1|4.0.2|app-i18n|Compliance mode enabled, was '4.0.2'|
 |crun|1.26|1.27|app-admin|Compliance mode enabled, was '1.27'|
-|crush|0.56.0|0.60.0|app-utils|Compliance mode enabled, was '0.60.0'|
+|crush|0.56.0|0.61.0|app-utils|Compliance mode enabled, was '0.61.0'|
 |cryfs|0.11.4|1.0.3|app-admin|Compliance mode enabled, was '1.0.3'|
 |cryptsetup|2.8.1|2.8.6|app-admin|Compliance mode enabled, was '2.8.6'|
 |cssselect2|0.6.0|0.9.0|lang-python|Compliance mode enabled, was '0.9.0'|
@@ -591,8 +592,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-3|3.16.2|3.18.2|app-admin|Compliance mode enabled, was '3.18.2'|
 |fuzzel|1.14.0|1.14.1|app-utils|Compliance mode enabled, was '1.14.1'|
 |fzf|0.66.0|0.71.0|app-utils|Compliance mode enabled, was '0.71.0'|
-|game-music-emu|0.6.3|0.6.4|runtime-multimedia|Compliance mode enabled, was '0.6.4'|
-|game-music-emu+32|0.6.3|0.6.4|runtime-optenv32|Compliance mode enabled, was '0.6.4'|
+|game-music-emu|0.6.3|0.6.5|runtime-multimedia|Compliance mode enabled, was '0.6.5'|
+|game-music-emu+32|0.6.3|0.6.5|runtime-optenv32|Compliance mode enabled, was '0.6.5'|
 |gamescope|3.16.22|3.16.23|desktop-wm|Compliance mode enabled, was '3.16.23'|
 |gammaray|3.3.0|3.4.0|app-devel|Compliance mode enabled, was '3.4.0'|
 |gap|4.10.2|4.15.1|app-scientific|Compliance mode enabled, was '4.15.1'|
@@ -634,7 +635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.32.0|1.34.0|app-imaging|Compliance mode enabled, was '1.34.0'|
 |gigolo|0.5.3|0.6.0|app-network|Compliance mode enabled, was '0.6.0'|
 |gimp|3.2.2|3.2.4|app-creativity|Compliance mode enabled, was '3.2.4'|
-|git|2.52.0|2.53.0|app-vcs|Compliance mode enabled, was '2.53.0'|
+|git|2.52.0|2.54.0|app-vcs|Compliance mode enabled, was '2.54.0'|
 |git-absorb|0.8.0|0.9.0|app-devel|Compliance mode enabled, was '0.9.0'|
 |git-cinnabar|0.7.3|0.7.4|app-vcs|Compliance mode enabled, was '0.7.4'|
 |git-lfs|3.6.1|3.7.1|app-devel|Compliance mode enabled, was '3.7.1'|
@@ -1187,7 +1188,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffi|3.4.8|3.5.2|runtime-common|Compliance mode enabled, was '3.5.2'|
 |libffi+32|3.4.7|3.5.2|runtime-optenv32|Compliance mode enabled, was '3.5.2'|
 |libfilezilla|0.54.1|403|runtime-network|Compliance mode enabled, was '403'|
-|libfm|1.4.0|1.4.1|desktop-lxde|Compliance mode enabled, was '1.4.1'|
 |libfm-qt|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |libfreeaptx|0.1.1|0.2.2|runtime-multimedia|Compliance mode enabled, was '0.2.2'|
 |libfyaml|0.9.2|0.9.6|runtime-common|Compliance mode enabled, was '0.9.6'|
@@ -1327,6 +1327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsigc++|2.10.8|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |libsigc++-3.0|3.4.0|3.8.0|runtime-common|Compliance mode enabled, was '3.8.0'|
 |libsigrok|0.5.2<br>+git20241021|0.5.2|runtime-electronics|Compliance mode enabled, was '0.5.2'|
+|libsixel|1.8.7-r1|1.10.5|runtime-imaging||
 |libskk|1.0.5|1.1.1|runtime-i18n|Compliance mode enabled, was '1.1.1'|
 |libslirp|4.6.1|4.9.1|runtime-emulation|Compliance mode enabled, was '4.9.1'|
 |libsodium|1.0.21|1.0.22-release|runtime-cryptography|Compliance mode enabled, was '1.0.22-RELEASE'|
