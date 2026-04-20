@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1776701021?label=Updated)
+![Relative date](https://img.shields.io/date/1776704804?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -294,7 +294,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coolercontrol|3.1.1|4.1.0|app-utils|Compliance mode enabled, was '4.1.0'|
 |copyq|14.0.0|15.0.0|app-utils|Compliance mode enabled, was '15.0.0'|
 |coreboot-utils|24.08|26.03|app-admin|Compliance mode enabled, was '26.03'|
-|coreutils|9.9|9.10|app-utils|Compliance mode enabled, was '9.10'|
+|coreutils|9.9|9.11|app-utils|Compliance mode enabled, was '9.11'|
 |corrosion|0.4.10|0.6.1|app-devel|Compliance mode enabled, was '0.6.1'|
 |cosmic-app-library|1.0.8|1.0.10|desktop-cosmic|Compliance mode enabled, was '1.0.10'|
 |cosmic-applets|1.0.8|1.0.10|desktop-cosmic|Compliance mode enabled, was '1.0.10'|
@@ -372,7 +372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |debootstrap|1.0.142|1.0.143|app-utils|Compliance mode enabled, was '1.0.143'|
 |debtcollector|3.0.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
 |delta|0.18.2|0.19.2|app-devel|Compliance mode enabled, was '0.19.2'|
-|delve|1.24.0|1.26.1|lang-golang|Compliance mode enabled, was '1.26.1'|
+|delve|1.24.0|1.26.2|lang-golang|Compliance mode enabled, was '1.26.2'|
 |deno|2.7.10|2.7.12|lang-js|Compliance mode enabled, was '2.7.12'|
 |dephell-specifier|0.2.2|0.3.0|lang-python|Compliance mode enabled, was '0.3.0'|
 |devscripts|2.25.30|2.26.7|app-devel|Compliance mode enabled, was '2.26.7'|
@@ -443,7 +443,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |easytier|2.4.5|2.6.1|app-network|Compliance mode enabled, was '2.6.1'|
 |ecdsa|0.19.1|0.19.2|lang-python|Compliance mode enabled, was '0.19.2'|
 |ecl|24.5.10|26.3.27|lang-lisp|Compliance mode enabled, was '26.3.27'|
-|edencommon|2026.03.02.00|2026.04.13.00|runtime-common|Compliance mode enabled, was '2026.04.13.00'|
+|edencommon|2026.03.02.00|2026.04.20.00|runtime-common|Compliance mode enabled, was '2026.04.20.00'|
 |edit|1.2.0|1.2.1|app-editors|Compliance mode enabled, was '1.2.1'|
 |editorconfig-core-c|0.12.10|0.12.11|runtime-editors|Compliance mode enabled, was '0.12.11'|
 |edk2-test|202509|edk2-test-rc1_202404|app-benchmarks|Possible downgrade from the current version (202509 -> edk2-test-rc1_202404)|
@@ -493,8 +493,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fast-float|8.1.0|8.2.5|runtime-common|Compliance mode enabled, was '8.2.5'|
 |fastbencode|0.3.2|0.3.10|lang-python|Compliance mode enabled, was '0.3.10'|
 |fatattr|1.0.1|1.0.1.orig|app-utils|Compliance mode enabled, was '1.0.1.orig'<br>Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
-|fb303|2026.03.02.00|2026.04.13.00|runtime-network|Compliance mode enabled, was '2026.04.13.00'|
-|fbthrift|2026.03.02.00|2026.04.13.00|app-network|Compliance mode enabled, was '2026.04.13.00'|
+|fb303|2026.03.02.00|2026.04.20.00|runtime-network|Compliance mode enabled, was '2026.04.20.00'|
+|fbthrift|2026.03.02.00|2026.04.20.00|app-network|Compliance mode enabled, was '2026.04.20.00'|
 |fceux|2.6.6<br>+git20251111|2.6.6|app-games|Compliance mode enabled, was '2.6.6'|
 |fcgi|2.4.2|2.4.7|runtime-web|Compliance mode enabled, was '2.4.7'|
 |fcitx5|5.1.16|5.1.19|groups|Compliance mode enabled, was '5.1.19'|
@@ -542,7 +542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firejail|0.9.76|0.9.80|app-admin|Compliance mode enabled, was '0.9.80'|
 |firewalld|2.3.1|2.4.1|app-network|Compliance mode enabled, was '2.4.1'|
 |fish|4.5.0|4.6.0|app-shells|Compliance mode enabled, was '4.6.0'|
-|fizz|2026.03.02.00|2026.04.13.00|app-network|Compliance mode enabled, was '2026.04.13.00'|
+|fizz|2026.03.02.00|2026.04.20.00|app-network|Compliance mode enabled, was '2026.04.20.00'|
 |flac+32|1.4.3|1.5.0|runtime-optenv32|Compliance mode enabled, was '1.5.0'|
 |flacon|11.4.0|12.0.0|app-multimedia|Compliance mode enabled, was '12.0.0'|
 |flake8-builtins|3.0.0|3.1.0|lang-python|Compliance mode enabled, was '3.1.0'|
@@ -561,7 +561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth|2.5.3|2.5.4|app-multimedia|Compliance mode enabled, was '2.5.4'|
 |fluidsynth+32|2.5.3|2.5.4|runtime-optenv32|Compliance mode enabled, was '2.5.4'|
 |fnm|1.38.1|1.39.0|lang-js|Compliance mode enabled, was '1.39.0'|
-|folly|2026.03.02.00|2026.04.13.00|runtime-common|Compliance mode enabled, was '2026.04.13.00'|
+|folly|2026.03.02.00|2026.04.20.00|runtime-common|Compliance mode enabled, was '2026.04.20.00'|
 |fonttools|4.53.1|4.62.1|desktop-fonts|Compliance mode enabled, was '4.62.1'|
 |foot|1.25.0|1.26.1|app-utils|Compliance mode enabled, was '1.26.1'|
 |forgejo|14.0.2|15.0.0|app-web|Compliance mode enabled, was '15.0.0'|
@@ -1473,7 +1473,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxqt-panel|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |lxqt-policykit|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |lxqt-powermanagement|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
-|lxqt-qtplugin|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |lxqt-runner|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |lxqt-session|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
 |lxqt-sudo|1.4.0|2.4.0|desktop-lxqt|Compliance mode enabled, was '2.4.0'|
@@ -2060,8 +2059,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pybind11|3.0.2|3.0.4|lang-python|Compliance mode enabled, was '3.0.4'|
 |pycairo|1.28.0|1.29.0|lang-python|Compliance mode enabled, was '1.29.0'|
 |pycparser|2.22|3.0|lang-python|Compliance mode enabled, was '3.0'|
-|pydantic|2.12.5|2.13.2|lang-python|Compliance mode enabled, was '2.13.2'|
-|pydantic-core|2.41.5|2.46.2|lang-python|Compliance mode enabled, was '2.46.2'|
+|pydantic|2.12.5|2.13.3|lang-python|Compliance mode enabled, was '2.13.3'|
+|pydantic-core|2.41.5|2.46.3|lang-python|Compliance mode enabled, was '2.46.3'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygit2|1.18.1|1.19.2|lang-python|Compliance mode enabled, was '1.19.2'|
