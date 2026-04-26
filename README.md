@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1777191144?label=Updated)
+![Relative date](https://img.shields.io/date/1777196756?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -1118,7 +1118,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland|5.115.0|6.25.0|desktop-kde|Compliance mode enabled, was '6.25.0'|
 |kwayland-integration|5.27.12|6.6.4|desktop-kde|Compliance mode enabled, was '6.6.4'|
 |kweather|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
-|kweathercore|0.7|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |kwidgetsaddons|5.115.0|6.25.0|desktop-kde|Compliance mode enabled, was '6.25.0'|
 |kwin|5.27.12|6.6.4|desktop-kde|Compliance mode enabled, was '6.6.4'|
 |kwindowsystem|5.115.0|6.25.0|desktop-kde|Compliance mode enabled, was '6.25.0'|
@@ -1507,8 +1506,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.3.10|1.3.11|lang-python|Compliance mode enabled, was '1.3.11'|
 |mako-notification-daemon|1.10.0|1.11.0|app-utils|Compliance mode enabled, was '1.11.0'|
 |malcontent|0.13.1|0.14.0|runtime-desktop|Compliance mode enabled, was '0.14.0'|
-|man-pages|6.17|6.18|runtime-data||
-|mangohud|0.8.2|0.8.3|app-utils|Compliance mode enabled, was '0.8.3'|
 |mangohud+32|0.8.2|0.8.3|runtime-optenv32|Compliance mode enabled, was '0.8.3'|
 |marble|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |mariadb|12.1.2|12.3.1|app-database|Compliance mode enabled, was '12.3.1'|
@@ -1842,7 +1839,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-method-modifiers|2.12|2.15|lang-perl|Compliance mode enabled, was '2.15'|
 |perl-class-methodmaker|2.24|2.25|lang-perl|Compliance mode enabled, was '2.25'|
 |perl-class-singleton|1.5|1.6|lang-perl|Compliance mode enabled, was '1.6'|
-|perl-clone|0.46|0.50|lang-perl|Compliance mode enabled, was '0.50'|
 |perl-common-sense|3.74|3.75|lang-perl|Compliance mode enabled, was '3.75'|
 |perl-config-file|1.50|1.54|lang-perl|Compliance mode enabled, was '1.54'|
 |perl-convert-asn1|0.27|0.34|lang-perl|Compliance mode enabled, was '0.34'|
@@ -2062,6 +2058,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prometheus-node-exporter|1.9.1|1.11.1|app-admin|Compliance mode enabled, was '1.11.1'|
 |protobuf|32.0|34.1|runtime-common|Compliance mode enabled, was '34.1'|
 |proton-bridge|3.21.2|3.24.2|app-web|Compliance mode enabled, was '3.24.2'|
+|protonplus|0.5.17|0.5.20|app-utils|Compliance mode enabled, was '0.5.20'|
 |psmisc|23.6|23.7|app-utils|Compliance mode enabled, was '23.7'|
 |pstate-frequency|3.16.1|3.17.0|app-admin|Compliance mode enabled, was '3.17.0'|
 |psycopg2|2.9.10|2.9.12|lang-python|Compliance mode enabled, was '2.9.12'|
@@ -2420,7 +2417,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stevedore|5.2.0|5.7.0|lang-python|Compliance mode enabled, was '5.7.0'|
 |stlink|1.7.0|1.8.0|app-devel|Compliance mode enabled, was '1.8.0'|
 |strace|6.17|6.19|app-devel|Compliance mode enabled, was '6.19'|
-|strawberry|1.2.14|1.2.19|app-multimedia|Compliance mode enabled, was '1.2.19'|
 |streamlink|6.7.4|8.3.0|app-multimedia|Compliance mode enabled, was '8.3.0'|
 |strongswan|6.0.3|6.0.6|app-network|Compliance mode enabled, was '6.0.6'|
 |stunnel|5.73|5.78|app-network|Compliance mode enabled, was '5.78'|
@@ -2594,7 +2590,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia|Compliance mode enabled, was '1.1.1'|
 |vifm|0.13|0.14.3|app-utils|Compliance mode enabled, was '0.14.3'|
 |vigra|1.12.3|1.12.4|runtime-scientific|Compliance mode enabled, was '1-12-4'|
-|vim|9.2.0387|9.2.0392|app-editors|Compliance mode enabled, was '9.2.0392'|
+|vim|9.2.0387|9.2.0395|app-editors|Compliance mode enabled, was '9.2.0395'|
 |virtiofsd|1.13.2|1.13.3|app-virtualization|Compliance mode enabled, was '1.13.3'|
 |virtualbox|7.2.4|7.2.8|app-virtualization|Compliance mode enabled, was '7.2.8'|
 |virtualenv|21.0.0|21.2.4|lang-python|Compliance mode enabled, was '21.2.4'|
