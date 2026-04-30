@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1777548473?label=Updated)
+![Relative date](https://img.shields.io/date/1777555109?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -42,6 +42,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-calendar-tools|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |akonadi-contacts|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |akonadi-import-wizard|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
+|akonadi-mime|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |akonadi-notes|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |akonadi-search|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |akonadiconsole|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
@@ -116,7 +117,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avisynthplus|3.7.3|3.7.5|runtime-multimedia|Compliance mode enabled, was '3.7.5'|
 |avogadrolibs|1.95.1|2.0.0|runtime-scientific|Compliance mode enabled, was '2.0.0'|
 |avr-binutils|2.37|2.46.0|app-devel|Compliance mode enabled, was '2.46.0'|
-|avr-gcc|10.3.1<br>+git20210510|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
+|avr-gcc|10.3.1<br>+git20210510|16.1.0|app-devel|Compliance mode enabled, was '16.1.0'|
 |avr-libc|2.0.0|2_3_1-release|app-devel|Compliance mode enabled, was '2_3_1-release'|
 |avrdude|6.3|8.1|app-devel|Compliance mode enabled, was '8.1'|
 |awesfx|0.5.1e|0.5.2|app-multimedia|Compliance mode enabled, was '0.5.2'|
@@ -141,7 +142,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bear|3.1.6|4.1.2|app-devel|Compliance mode enabled, was '4.1.2'|
 |beniget|0.4.2.post1|0.5.0|lang-python|Compliance mode enabled, was '0.5.0'|
 |bento4-xbmc|1.6.0-641-3|1.6.0-641-5-Piers|runtime-multimedia||
-|bfs|4.1|4.1.1|app-utils|Compliance mode enabled, was '4.1.1'|
 |bgpq4|1.15|1.16|app-network|Compliance mode enabled, was '1.16'|
 |bibletime-trinity|14.1.5|14.1.6|desktop-trinity|Compliance mode enabled, was '14.1.6'|
 |bind|9.20.18|9.20.22|app-network|Compliance mode enabled, was '9.20.22'|
@@ -239,7 +239,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chrony|4.5|4.8|app-admin|Compliance mode enabled, was '4.8'|
 |chrpath|0.16|0.18|app-utils|Compliance mode enabled, was '0.18'|
 |cinnamon|6.6.7|6.7.0-unstable|groups|Compliance mode enabled, was '6.7.0-unstable'|
-|cinnamon-control-center|6.6.0|6.7.0-unstable|desktop-cinnamon|Compliance mode enabled, was '6.7.0-unstable'|
 |cinnamon-desktop|6.6.2|6.7.0-unstable|desktop-cinnamon|Compliance mode enabled, was '6.7.0-unstable'|
 |cinnamon-menus|6.6.0|6.7.0-unstable|desktop-cinnamon|Compliance mode enabled, was '6.7.0-unstable'|
 |cinnamon-screensaver|6.6.1|6.7.1-unstable|desktop-cinnamon|Compliance mode enabled, was '6.7.1-unstable'|
@@ -616,14 +615,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gast|0.6.0|0.7.0|lang-python|Compliance mode enabled, was '0.7.0'|
 |gaupol|1.15|1.16|app-multimedia|Compliance mode enabled, was '1.16'|
 |gc|8.2.12|8.2.8|runtime-common|Compliance mode enabled, was '8.2.8'<br>Possible downgrade from the current version (8.2.12 -> 8.2.8)|
-|gcc+32|14.3.0|15.2.0|runtime-optenv32|Compliance mode enabled, was '15.2.0'|
-|gcc+cross|14.3.0<br>+glibc2.40<br>+3|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
-|gcc-14|14.3.0|15.2.0|app-devel|Compliance mode enabled, was '15.2.0'|
+|gcc|15.2.0|16.1.0|core-devel|Compliance mode enabled, was '16.1.0'|
+|gcc+32|14.3.0|16.1.0|runtime-optenv32|Compliance mode enabled, was '16.1.0'|
+|gcc+cross|14.3.0<br>+glibc2.40<br>+3|16.1.0|app-devel|Compliance mode enabled, was '16.1.0'|
+|gcc+w64|15.2.0|16.1.0|runtime-optenvw64|Compliance mode enabled, was '16.1.0'|
+|gcc-14|14.3.0|16.1.0|app-devel|Compliance mode enabled, was '16.1.0'|
 |gdal|3.12.1|3.12.4|runtime-gis|Compliance mode enabled, was '3.12.4'|
 |gdk-pixbuf|2.44.4|2.44.6|runtime-imaging|Compliance mode enabled, was '2.44.6'|
 |gdk-pixbuf+32|2.42.12|2.44.6|runtime-optenv32|Compliance mode enabled, was '2.44.6'|
 |gdm|49.2|50.0|desktop-gnome|Compliance mode enabled, was '50.0'|
-|gdmd|0.1.0<br>+git20230214|script-0.1.0|lang-dlang|Compliance mode enabled, was 'script-0.1.0'<br>Possible downgrade from the current version (0.1.0+git20230214 -> script-0.1.0)|
 |gdu|5.35.0|5.36.1|app-utils|Compliance mode enabled, was '5.36.1'|
 |geant4|11.3.2|11.4.1|app-scientific|Compliance mode enabled, was '11.4.1'|
 |geany|2.1|2.1.0|app-devel|Compliance mode enabled, was '2.1.0'|
@@ -1183,6 +1183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent-trinity|14.1.5|14.1.6|desktop-trinity|Compliance mode enabled, was '14.1.6'|
 |ktouch|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |ktrip|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
+|ktuberling|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |kturtle|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |kubernetes|1.34.1|1.36.0|app-containers|Compliance mode enabled, was '1.36.0'|
 |kubo|0.40.1|0.41.0|app-proxy|Compliance mode enabled, was '0.41.0'|
@@ -1269,6 +1270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdatachannel|0.24.1|0.24.2|runtime-multimedia|Compliance mode enabled, was '0.24.2'|
 |libdatrie|0.2.13|0.2.14|runtime-i18n|Compliance mode enabled, was '0.2.14'|
 |libdatrie+32|0.2.13|0.2.14|runtime-optenv32|Compliance mode enabled, was '0.2.14'|
+|libdicom|1.2.0|1.2.1|runtime-scientific|Compliance mode enabled, was '1.2.1'|
 |libdiscid|0.6.2|0.6.5|runtime-multimedia|Compliance mode enabled, was '0.6.5'|
 |libdispatch|5.6.1|6.3.1-release|runtime-common|Compliance mode enabled, was '6.3.1-RELEASE'|
 |libdmtx|0.7.7|0.7.8|runtime-imaging|Compliance mode enabled, was '0.7.8'|
@@ -1398,7 +1400,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqaccessibilityclient|0.4.1|0.6.0|desktop-kde|Compliance mode enabled, was '0.6.0'|
 |libqalculate|4.5.1|5.10.0|runtime-scientific|Compliance mode enabled, was '5.10.0'|
 |libqmi|1.36.0|1.38.0|runtime-devices|Compliance mode enabled, was '1.38.0'|
-|libqofono|0.98|0.128|runtime-network|Compliance mode enabled, was '0.128'|
+|libqofono|0.98|0.129|runtime-network|Compliance mode enabled, was '0.129'|
 |libqrtr-glib|1.2.2|1.4.0|runtime-network|Compliance mode enabled, was '1.4.0'|
 |libqtxdg|3.12.0|4.4.0|desktop-lxqt|Compliance mode enabled, was '4.4.0'|
 |libquotient|0.8.2|0.9.6.1|runtime-web|Compliance mode enabled, was '0.9.6.1'|
@@ -1499,24 +1501,24 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux+kernel+asahi|6.18.16|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.16 -> 5.19.17)|
 |linux+kernel+rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
-|linux+kernel+retro|5.10.204|5.10.253|runtime-kernel|Compliance mode enabled, was '5.10.253'|
-|linux+kernel+retro+minimal|5.15.17|5.10.253|runtime-kernel|Compliance mode enabled, was '5.10.253'<br>Possible downgrade from the current version (5.15.17 -> 5.10.253)|
+|linux+kernel+retro|5.10.204|5.10.254|runtime-kernel|Compliance mode enabled, was '5.10.254'|
+|linux+kernel+retro+minimal|5.15.17|5.10.254|runtime-kernel|Compliance mode enabled, was '5.10.254'<br>Possible downgrade from the current version (5.15.17 -> 5.10.254)|
 |linux+kernel+vanillarc|7.0.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (7.0.0 -> 5.19.17)|
 |linux-firmware|20260221|20260410|runtime-kernel||
 |linux-kernel|6.18.25|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.25 -> 5.19.17)|
 |linux-kernel-2k0300|6.12.59|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.12.59 -> 5.19.17)|
 |linux-kernel-rc|6.18.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (6.18.0 -> 5.19.17)|
-|linux-kernel-retro|5.10.204|5.10.253|runtime-kernel|Compliance mode enabled, was '5.10.253'|
-|linux-kernel-retro-minimal|5.15.17|5.10.253|runtime-kernel|Compliance mode enabled, was '5.10.253'<br>Possible downgrade from the current version (5.15.17 -> 5.10.253)|
+|linux-kernel-retro|5.10.204|5.10.254|runtime-kernel|Compliance mode enabled, was '5.10.254'|
+|linux-kernel-retro-minimal|5.15.17|5.10.254|runtime-kernel|Compliance mode enabled, was '5.10.254'<br>Possible downgrade from the current version (5.15.17 -> 5.10.254)|
 |linux-kernel-vanillarc|7.0.0|5.19.17|runtime-kernel|Compliance mode enabled, was '5.19.17'<br>Possible downgrade from the current version (7.0.0 -> 5.19.17)|
 |linyaps|1.10.0|1.12.3|app-admin|Compliance mode enabled, was '1.12.3'|
 |liquidsfz|0.3.2|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
 |listenbrainz-mpd|2.3.9|2.5.1|app-multimedia|Compliance mode enabled, was '2.5.1'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|8642|8979|runtime-creativity|Compliance mode enabled, was '8979'|
+|llama.cpp|8642|8984|runtime-creativity|Compliance mode enabled, was '8984'|
 |lldpd|1.0.18|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
-|llhttp|9.3.0|9.4.0|runtime-web|Compliance mode enabled, was '9.4.0'|
+|llhttp|9.3.0|9.4.1|runtime-web|Compliance mode enabled, was '9.4.1'|
 |llvm+32|20.1.8|22.1.4|runtime-optenv32|Compliance mode enabled, was '22.1.4'|
 |llvm-20|20.1.8|22.1.4|app-devel|Compliance mode enabled, was '22.1.4'|
 |llvm-21|21.1.8|22.1.4|app-devel|Compliance mode enabled, was '22.1.4'|
@@ -1633,6 +1635,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-pvr-ddk119|22.1.3<br>+vf2sdk3.8.2|26.0.6|runtime-display|Compliance mode enabled, was '26.0.6'|
 |mesen|0.9.9|2.1.1|app-games|Compliance mode enabled, was '2.1.1'|
 |meson|1.10.1|1.11.1|app-devel|Compliance mode enabled, was '1.11.1'|
+|messagelib|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
 |microsoft-gsl|3.0.1|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |miller|6.15.0|6.18.1|app-utils|Compliance mode enabled, was '6.18.1'|
 |milou|5.27.12|6.6.4|desktop-kde|Compliance mode enabled, was '6.6.4'|
@@ -1646,9 +1649,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.10|app-network|Compliance mode enabled, was '2.3.10'|
 |minizip|4.0.10|4.2.1|runtime-common|Compliance mode enabled, was '4.2.1'|
 |minuet|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
-|mise|2026.1.1|2026.4.27|app-devel|Compliance mode enabled, was '2026.4.27'|
+|mise|2026.1.1|2026.4.28|app-devel|Compliance mode enabled, was '2026.4.28'|
 |mitmproxy|12.2.1|12.2.2|app-network||
-|mixxx|2.5.2|2.5.6|app-creativity|Compliance mode enabled, was '2.5.6'|
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32|Compliance mode enabled, was '2.2.1'|
 |mkvtoolnix|91.0|98.0|app-multimedia|Compliance mode enabled, was '98.0'|
 |mlt|7.36.1|7.38.0|runtime-multimedia|Compliance mode enabled, was '7.38.0'|
@@ -1697,7 +1699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nbd|3.24|3.27.1|app-network|Compliance mode enabled, was '3.27.1'|
 |ncbi-blast+|2.17.0|2.17.0+|app-scientific|Compliance mode enabled, was '2.17.0+'|
 |ncbi-vdb|3.3.0|3.4.1|app-scientific|Compliance mode enabled, was '3.4.1'|
-|ncurses|6.6|6.6+20260425|runtime-common|Compliance mode enabled, was '6.6-20260425'|
 |ncurses+32|6.6|6.6+20260425|runtime-optenv32|Compliance mode enabled, was '6.6-20260425'|
 |ndctl|83|84|app-admin|Compliance mode enabled, was '84'|
 |neatvnc|0.9.5|1.0.0|runtime-network|Compliance mode enabled, was '1.0.0'|
@@ -2332,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|8979|runtime-rocm|Compliance mode enabled, was '8979'|
+|rocm-llama-cpp|7.0.1|8984|runtime-rocm|Compliance mode enabled, was '8984'|
 |rocm-llvm|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2346,7 +2347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-rocsparse|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-rocthrust|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-roctracer|7.2.0|7.13.61190|runtime-rocm|Compliance mode enabled, was '7.13.61190'|
-|rocm-smi-lib|7.2.0|7.13.61190|runtime-rocm|Compliance mode enabled, was '7.13.61190'|
 |rocminfo|7.2.0|7.13.61190|runtime-rocm|Compliance mode enabled, was '7.13.61190'|
 |rocr-runtime|7.2.0|7.13.61190|runtime-rocm|Compliance mode enabled, was '7.13.61190'|
 |rocs|23.08.5|26.04.0|desktop-kde|Compliance mode enabled, was '26.04.0'|
