@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1779459097?label=Updated)
+![Relative date](https://img.shields.io/date/1779469482?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -757,7 +757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gumbo-parser|0.13.1|0.13.2|app-devel|Compliance mode enabled, was '0.13.2'|
 |guvcview|2.1.0|2.2.2|app-devices|Compliance mode enabled, was '2.2.2'|
 |gvfs|1.58.1|1.60.0|desktop-gnome|Compliance mode enabled, was '1.60.0'|
-|gweather-locations|2025.1|2026.2|desktop-gnome|Compliance mode enabled, was '2026.2'|
 |gwenhywfar|5.12.1|5.14.1|runtime-network|Compliance mode enabled, was '5.14.1'|
 |gwenview|23.08.5|26.04.1|desktop-kde|Compliance mode enabled, was '26.04.1'|
 |gwenview-trinity|14.1.5|14.1.6|desktop-trinity|Compliance mode enabled, was '14.1.6'|
@@ -790,7 +789,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hplip|3.25.8|3.26.4|app-doc|Compliance mode enabled, was '3.26.4'|
 |htdig|3.2.0b6|3.2.0~b6|app-web|Compliance mode enabled, was '3.2.0b6'|
 |html2ps|1.0b7|1.0~b7|app-doc|Compliance mode enabled, was '1.0b7'|
-|html2text|2024.2.26|2025.4.15|lang-python|Compliance mode enabled, was '2025.4.15'|
 |httpie|3.2.3|3.2.4|app-web|Compliance mode enabled, was '3.2.4'|
 |httping|4.4.0|2.5|app-network|Compliance mode enabled, was '2.5'<br>Possible downgrade from the current version (4.4.0 -> 2.5)|
 |httpx-go|1.7.1|1.9.0|app-utils|Compliance mode enabled, was '1.9.0'|
@@ -1664,7 +1662,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mm-common|1.0.6|1.0.7|app-devel|Compliance mode enabled, was '1.0.7'|
 |mocp|2.6.0~svn.r3005|2.5.2|app-multimedia|Compliance mode enabled, was '2.5.2'<br>Possible downgrade from the current version (2.6.0~svn.r3005 -> 2.5.2)|
 |modemmanager-qt|5.115.0|6.26.0|desktop-kde|Compliance mode enabled, was '6.26.0'|
-|more-itertools|10.7.0|11.0.2|lang-python|Compliance mode enabled, was '11.0.2'|
+|more-itertools|10.7.0|11.1.0|lang-python|Compliance mode enabled, was '11.1.0'|
 |moreutils|0.69|0.70|app-utils|Compliance mode enabled, was '0.70'|
 |motrix-next|3.8.8|3.9.0|app-web|Compliance mode enabled, was '3.9.0'|
 |mousepad|0.6.5|0.7.0|desktop-xfce|Compliance mode enabled, was '0.7.0'|
@@ -1740,7 +1738,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.8.4|2.9.1|app-utils|Compliance mode enabled, was '2.9.1'|
 |nftables|1.0.9|1.1.6|app-network|Compliance mode enabled, was '1.1.6'|
 |nghttp3|1.14.0|1.15.0|runtime-web|Compliance mode enabled, was '1.15.0'|
-|nginx|1.30.1<br>+brotli1.0.0~rc1<br>+git20231009|1.31.0|app-web|Compliance mode enabled, was '1.31.0'|
+|nginx|1.30.1<br>+brotli1.0.0~rc1<br>+git20231009|1.31.1|app-web|Compliance mode enabled, was '1.31.1'|
 |ngspice|35|46|app-electronics|Compliance mode enabled, was '46'|
 |ngtcp2|1.5.0|1.22.1|runtime-web|Compliance mode enabled, was '1.22.1'|
 |nheko|0.12.1|0.12.1+1|app-web|Compliance mode enabled, was '0.12.1-1'|
@@ -1868,7 +1866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oslo-i18n|6.3.0|6.8.0|lang-python|Compliance mode enabled, was '6.8.0'|
 |oslo-serialization|5.8.0|5.10.0|lang-python|Compliance mode enabled, was '5.10.0'|
 |oslo-utils|9.2.0|10.0.1|lang-python|Compliance mode enabled, was '10.0.1'|
-|osu-lazer|2026.305.0-lazer|2026.522.0-tachyon|app-games||
+|osu-lazer|2026.305.0-lazer|2026.522.1-tachyon|app-games||
 |owntone|29.0|29.2|app-multimedia|Compliance mode enabled, was '29.2'|
 |owslib|0.34.1|0.35.0|lang-python|Compliance mode enabled, was '0.35.0'|
 |oxipng|9.1.4|10.1.1|app-utils|Compliance mode enabled, was '10.1.1'|
@@ -2198,7 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycparser|2.22|3.0|lang-python|Compliance mode enabled, was '3.0'|
 |pycurl|7.45.7|7.46.0|lang-python|Compliance mode enabled, was '7.46.0'|
 |pydantic|2.12.5|2.13.4|lang-python|Compliance mode enabled, was '2.13.4'|
-|pydantic-core|2.41.5|2.46.4|lang-python|Compliance mode enabled, was '2.46.4'|
+|pydantic-core|2.41.5|2.47.0|lang-python|Compliance mode enabled, was '2.47.0'|
 |pyelftools|0.31|0.32|lang-python|Compliance mode enabled, was '0.32'|
 |pygame-sdl2|8.3.7.25031702|7.8.1.24090402|lang-python|Compliance mode enabled, was '7.8.1.24090402'<br>Possible downgrade from the current version (8.3.7.25031702 -> 7.8.1.24090402)|
 |pygit2|1.18.1|1.19.2|lang-python|Compliance mode enabled, was '1.19.2'|
@@ -2737,6 +2735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uhttpmock|0.5.3|0.11.0|runtime-web|Compliance mode enabled, was '0.11.0'|
 |ujson|5.12.0|1.36|lang-python|Compliance mode enabled, was '1.36'<br>Possible downgrade from the current version (5.12.0 -> 1.36)|
 |umbrello|23.08.5|26.04.1|desktop-kde|Compliance mode enabled, was '26.04.1'|
+|uml-utilities|20070815.4|20070815.4.orig|app-utils|Compliance mode enabled, was '20070815.4.orig'<br>Possible downgrade from the current version (20070815.4 -> 20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2+080608|desktop-fonts|Compliance mode enabled, was '1.0.2-080608'|
 |unace|2.5|2.5.orig|app-utils|Compliance mode enabled, was '2.5.orig'<br>Possible downgrade from the current version (2.5 -> 2.5.orig)|
 |unbound|1.24.2|1.25.1|app-network||
@@ -2852,7 +2851,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wpebackend-fdo|1.16.0|1.16.1|runtime-web|Compliance mode enabled, was '1.16.1'|
 |wpmeta|0.2.2|0.1.0|app-utils|Compliance mode enabled, was '0.1.0'<br>Possible downgrade from the current version (0.2.2 -> 0.1.0)|
 |wqy-unibit|1.1.0|9.5.0|desktop-fonts|Compliance mode enabled, was '9.5.0'|
-|wrapt|2.1.2|2.2.0|lang-python|Compliance mode enabled, was '2.2.0'|
+|wrapt|2.1.2|2.2.1|lang-python|Compliance mode enabled, was '2.2.1'|
 |wrk|4.1.0|4.2.0|app-network|Compliance mode enabled, was '4.2.0'|
 |wsproto|1.2.0|1.3.2|lang-python|Compliance mode enabled, was '1.3.2'|
 |wtforms|3.2.1|3.2.2|lang-python|Compliance mode enabled, was '3.2.2'|
