@@ -235,7 +235,7 @@
 ["perl-extutils-libbuilder","0.08","0.09","lang-perl",1625211688,["Compliance mode enabled, was '0.09'"]],
 ["perl-app-cpanminus","1.7044","1.7049","lang-perl",1678950872,["Compliance mode enabled, was '1.7049'"]],
 ["perl-http-date","6.02","6.06","lang-perl",1678950872,["Compliance mode enabled, was '6.06'"]],
-["perl-www-mechanize","1.91","2.21","lang-perl",1551145817,["Compliance mode enabled, was '2.21'"]],
+["perl-www-mechanize","1.91","2.22","lang-perl",1551145817,["Compliance mode enabled, was '2.22'"]],
 ["perl-http-cookies","6.01","6.11","lang-perl",1678950872,["Compliance mode enabled, was '6.11'"]],
 ["perl-extutils-config","0.008","0.010","lang-perl",1678950872,["Compliance mode enabled, was '0.010'"]],
 ["perl-mro-compat","0.13","0.15","lang-perl",1596485704,["Compliance mode enabled, was '0.15'"]],
