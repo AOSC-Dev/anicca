@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1781921314?label=Updated)
+![Relative date](https://img.shields.io/date/1781938546?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -177,6 +177,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.42.54|1.43.34|lang-python|Compliance mode enabled, was '1.43.34'|
 |botocore|1.42.54|1.43.34|lang-python|Compliance mode enabled, was '1.43.34'|
 |bottle|0.13.3|0.13.4|lang-python|Compliance mode enabled, was '0.13.4'|
+|bottom|0.12.3|0.13.0|app-admin|Compliance mode enabled, was '0.13.0'|
 |bovo|23.08.5|26.04.2|desktop-kde|Compliance mode enabled, was '26.04.2'|
 |bpftrace|0.24.2|0.26.1|app-admin|Compliance mode enabled, was '0.26.1'|
 |breathe|4.35.0|4.36.0|lang-python|Compliance mode enabled, was '4.36.0'|
@@ -1527,7 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liquidsfz|0.3.2|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
 |litehtml|0.9|0.10|runtime-web|Compliance mode enabled, was '0.10'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|9568|9731|runtime-creativity|Compliance mode enabled, was '9731'|
+|llama.cpp|9568|9733|runtime-creativity|Compliance mode enabled, was '9733'|
 |lldpd|1.0.18|1.0.22|app-network|Compliance mode enabled, was '1.0.22'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.4.2|runtime-web|Compliance mode enabled, was '9.4.2'|
@@ -1638,6 +1639,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdds|3.1.0|3.2.1|runtime-productivity|Compliance mode enabled, was '3.2.1'|
 |mdk4|4.2<br>+git20240816|4.2|app-penetration|Compliance mode enabled, was '4.2'|
 |mediainfo|25.04|26.05|app-multimedia|Compliance mode enabled, was '26.05'|
+|meld|3.23.1|3.24.0|app-devel|Compliance mode enabled, was '3.24.0'|
 |memtest86plus|8.00|8.10|app-benchmarks|Compliance mode enabled, was '8.10'|
 |mengshen-pinyin-font|1.03|20260307.164439|desktop-fonts|Compliance mode enabled, was '20260307-164439'|
 |menu-cache|1.1.0|1.1.1|desktop-lxde|Compliance mode enabled, was '1.1.1'|
@@ -1910,7 +1912,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsc-perl|1.4.14|1.4.16|lang-perl|Compliance mode enabled, was '1.4.16'|
 |pcsc-tools|1.7.3|1.7.5|app-devices|Compliance mode enabled, was '1.7.5'|
 |pcsclite|2.4.1|2.5.1|app-devices|Compliance mode enabled, was '2.5.1'|
-|pcsx2|2.7.181|2.7.419|app-games||
+|pcsx2|2.7.181|2.7.421|app-games||
 |pd-mapper|1.0|1.1|runtime-admin|Compliance mode enabled, was '1.1'|
 |pdal|2.10.1|2.10.2|runtime-gis|Compliance mode enabled, was '2.10.2'|
 |pdfgrep|2.1.2|2.2.0|app-doc|Compliance mode enabled, was '2.2.0'|
@@ -2338,7 +2340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|9731|runtime-rocm|Compliance mode enabled, was '9731'|
+|rocm-llama-cpp|7.0.1|9733|runtime-rocm|Compliance mode enabled, was '9733'|
 |rocm-llvm|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.2.0|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2471,7 +2473,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snowball|2.1.0|3.1.1|runtime-common|Compliance mode enabled, was '3.1.1'|
 |snowballstemmer|1.2.1|3.1.1|lang-python|Compliance mode enabled, was '3.1.1'|
 |socat|1.8.0.3|1.8.1.1|app-network|Compliance mode enabled, was '1.8.1.1'|
-|soci|4.0.1|4.1.3|runtime-database|Compliance mode enabled, was '4.1.3'|
+|soci|4.0.1|4.1.4|runtime-database|Compliance mode enabled, was '4.1.4'|
 |socksio|1.0.0<br>+git20240301|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
 |sof-tools|2.13.1|2.14.3_corrected_tag|app-multimedia|Compliance mode enabled, was '2.14.3_corrected_tag'|
 |sofia-sip|1.12.11|1.13.17|runtime-web|Compliance mode enabled, was '1.13.17'|
