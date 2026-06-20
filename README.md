@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1781913650?label=Updated)
+![Relative date](https://img.shields.io/date/1781921314?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -278,7 +278,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clinfo|3.0.23.01.25|3.0.25.02.14|app-devel|Compliance mode enabled, was '3.0.25.02.14'|
 |clipit|1.4.2|1.4.5|app-utils|Compliance mode enabled, was '1.4.5'|
 |cloc|2.02|2.08|app-utils|Compliance mode enabled, was '2.08'|
-|cloudflared|2026.5.0|2026.6.1|app-proxy|Compliance mode enabled, was '2026.6.1'|
 |clp|1.17.6|1.17.11|app-scientific|Compliance mode enabled, was '1.17.11'|
 |clpeak|1.1.4|2.0.13|app-benchmarks|Compliance mode enabled, was '2.0.13'|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common|Compliance mode enabled, was '2.3.3.4'|
@@ -562,7 +561,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fftw|3.3.10|3.3.11|runtime-scientific|Compliance mode enabled, was '3.3.11'|
 |fftw+32|3.3.10|3.3.11|runtime-optenv32|Compliance mode enabled, was '3.3.11'|
 |file|5.47|5.48|app-utils|Compliance mode enabled, was '5.48'|
-|filebrowser|2.63.13|2.63.15|app-web|Compliance mode enabled, was '2.63.15'|
 |filelight|23.08.5|26.04.2|desktop-kde|Compliance mode enabled, was '26.04.2'|
 |filelight-trinity|14.1.5|14.1.6|desktop-trinity|Compliance mode enabled, was '14.1.6'|
 |filezilla|3.69.6|3.60.2|app-network|Compliance mode enabled, was '3.60.2'<br>Possible downgrade from the current version (3.69.6 -> 3.60.2)|
@@ -1654,7 +1652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metasploit-framework|6.4.131|6.4.139|app-penetration|Compliance mode enabled, was '6.4.139'|
 |metee|6.2.3|6.2.4|runtime-devices|Compliance mode enabled, was '6.2.4'|
 |microsoft-gsl|3.0.1|4.2.2|runtime-common|Compliance mode enabled, was '4.2.2'|
-|miller|6.15.0|6.18.1|app-utils|Compliance mode enabled, was '6.18.1'|
+|miller|6.15.0|6.19.0|app-utils|Compliance mode enabled, was '6.19.0'|
 |milou|5.27.12|6.7.0|desktop-kde|Compliance mode enabled, was '6.7.0'|
 |mimalloc|3.2.8|3.3.2|runtime-common|Compliance mode enabled, was '3.3.2'|
 |mime-types|9|99|runtime-data|Compliance mode enabled, was '99'|
@@ -2088,7 +2086,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php-ds|1.6.0|2.0.0|lang-php|Compliance mode enabled, was '2.0.0'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|26.04.2|desktop-kde|Compliance mode enabled, was '26.04.2'|
-|pikepdf|10.5.1|10.9.0|app-doc|Compliance mode enabled, was '10.9.0'|
+|pikepdf|10.5.1|10.9.1|app-doc|Compliance mode enabled, was '10.9.1'|
 |piklab-trinity|14.1.5|14.1.6|desktop-trinity|Compliance mode enabled, was '14.1.6'|
 |pim-data-exporter|23.08.5|26.04.2|desktop-kde|Compliance mode enabled, was '26.04.2'|
 |pim-sieve-editor|23.08.5|26.04.2|desktop-kde|Compliance mode enabled, was '26.04.2'|
@@ -2724,7 +2722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux|2.42|2.42.2|app-utils|Compliance mode enabled, was '2.42.2'|
 |util-linux+32|2.42|2.42.2|runtime-optenv32|Compliance mode enabled, was '2.42.2'|
 |util-macros|1.20.1|1.20.2|runtime-display|Compliance mode enabled, was '1.20.2'|
-|uv|0.11.19|0.11.23|lang-python|Compliance mode enabled, was '0.11.23'|
+|uv|0.11.21|0.11.23|lang-python|Compliance mode enabled, was '0.11.23'|
 |v2ray-rules-dat|202601042214|202606192250|runtime-data|Compliance mode enabled, was '202606192250'<br>Versions not comparable: `202601042214` and `202606192250`|
 |v2raya|2.2.7.5|2.4.0|app-proxy|Compliance mode enabled, was '2.4.0'|
 |v4l-utils|1.22.1|1.32.0|app-multimedia|Compliance mode enabled, was '1.32.0'|
