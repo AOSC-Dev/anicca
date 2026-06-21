@@ -2359,7 +2359,7 @@
 ["libsass","3.6.4","3.6.6","runtime-common",1600321917,["Compliance mode enabled, was '3.6.6'"]],
 ["cpeditor","7.0.2","7.1.1","app-editors",1781361373,["Compliance mode enabled, was '7.1.1'"]],
 ["zed","1.6.3","1.7.2","app-editors",1781348878,["Compliance mode enabled, was '1.7.2'"]],
-["vim","9.2.0680","9.2.0697","app-editors",1782050050,["Compliance mode enabled, was '9.2.0697'"]],
+["vim","9.2.0680","9.2.0699","app-editors",1782050050,["Compliance mode enabled, was '9.2.0699'"]],
 ["vscode","1.124.0","1.125.0","app-editors",1781254016,["Compliance mode enabled, was '1.125.0'"]],
 ["rustc","1.95.0","1.96.0","lang-rust",1779420544,["Compliance mode enabled, was '1.96.0'"]],
 ["cargo-c","0.10.15","0.10.23","lang-rust",1758250462,["Compliance mode enabled, was '0.10.23'"]],
