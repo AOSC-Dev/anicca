@@ -1,7 +1,7 @@
 # Anicca
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1783415100?label=Updated)
+![Relative date](https://img.shields.io/date/1783425153?label=Updated)
 | Package | Repo Version | New Version | Category | Warnings |
 |---------|--------------|-------------|------|----------|
 |6tunnel|0.13|0.14|app-network|Compliance mode enabled, was '0.14'|
@@ -882,6 +882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iprange|1.0.4|2.1.1|app-network|Compliance mode enabled, was '2.1.1'|
 |iproute2|6.17.0|7.1.0|app-network|Compliance mode enabled, was '7.1.0'|
 |ipset|7.22|7.24|app-network|Compliance mode enabled, was '7.24'|
+|ipt2socks|1.1.3|1.1.5|app-proxy|Compliance mode enabled, was '1.1.5'|
 |iptables|1.8.11|1.8.13|app-network|Compliance mode enabled, was '1.8.13'|
 |irrlicht|1.8.4|1.8.5|runtime-games|Compliance mode enabled, was '1.8.5'|
 |isl|0.27|0.28|core-libs|Compliance mode enabled, was '0.28'|
@@ -1544,7 +1545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liquidsfz|0.3.2|0.4.1|app-multimedia|Compliance mode enabled, was '0.4.1'|
 |litehtml|0.9|0.10|runtime-web|Compliance mode enabled, was '0.10'|
 |lksctp-tools|1.0.17|1.0.21|app-network|Compliance mode enabled, was '1.0.21'|
-|llama.cpp|9568|9894|runtime-creativity|Compliance mode enabled, was '9894'|
+|llama.cpp|9568|9895|runtime-creativity|Compliance mode enabled, was '9895'|
 |lldpd|1.0.18|1.0.22|app-network|Compliance mode enabled, was '1.0.22'|
 |llfuse|1.5.1|1.5.2|lang-python|Compliance mode enabled, was '1.5.2'|
 |llhttp|9.3.0|9.4.2|runtime-web|Compliance mode enabled, was '9.4.2'|
@@ -1945,7 +1946,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-yaml-libyaml|0.908.0|0.910.0|lang-perl|Compliance mode enabled, was '0.910.0'|
 |pgxnclient|1.3.1|1.3.2|app-database|Compliance mode enabled, was '1.3.2'|
 |php|8.5.6|8.5.8|app-devel|Compliance mode enabled, was '8.5.8'|
-|php-ds|1.6.0|2.0.0|lang-php|Compliance mode enabled, was '2.0.0'|
 |physfs|3.0.2|3.2.0|runtime-common|Compliance mode enabled, was '3.2.0'|
 |picmi|23.08.5|26.04.3|desktop-kde|Compliance mode enabled, was '26.04.3'|
 |pikepdf|10.5.1|10.9.1|app-doc|Compliance mode enabled, was '10.9.1'|
@@ -2155,7 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|app-utils|Compliance mode enabled, was '1.3.6'|
 |rdfind|1.7.0|1.8.0|app-utils|Compliance mode enabled, was '1.8.0'|
 |rdiscount|2.2.7.3|2.2.7.5|lang-ruby|Compliance mode enabled, was '2.2.7.5'|
-|rdma-core|61.0|63.0|app-admin|Compliance mode enabled, was '63.0'|
+|rdma-core|61.0|63.1|app-admin|Compliance mode enabled, was '63.1'|
 |re2c|3.1|4.5.1|runtime-common|Compliance mode enabled, was '4.5.1'|
 |readline+32|8.2.1|8.3|runtime-optenv32|Compliance mode enabled, was '8.3'|
 |recode|3.7.14|3.7.15|app-utils|Compliance mode enabled, was '3.7.15'|
@@ -2200,7 +2200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-hipsolver|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparse|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-hipsparselt|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
-|rocm-llama-cpp|7.0.1|9894|runtime-rocm|Compliance mode enabled, was '9894'|
+|rocm-llama-cpp|7.0.1|9895|runtime-rocm|Compliance mode enabled, was '9895'|
 |rocm-llvm|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-miopen|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
 |rocm-origami|7.13|20250912.42|runtime-rocm|Compliance mode enabled, was '20250912-42'|
@@ -2265,7 +2265,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.6.5|2.6.6|lang-lisp|Compliance mode enabled, was '2.6.6'|
 |sbt|1.9.8|1.11.7|app-devel|Compliance mode enabled, was '1.11.7'|
 |scantailor-advanced|1.0.19|1.2.1|app-doc|Compliance mode enabled, was '1.2.1'|
-|scdoc|1.11.2|1.11.4|app-doc|Compliance mode enabled, was '1.11.4'|
+|scdoc|1.11.2|1.11.5|app-doc|Compliance mode enabled, was '1.11.5'|
 |schema|0.7.5|0.7.8|lang-python|Compliance mode enabled, was '0.7.8'|
 |scikit-build|0.18.1|0.19.1|lang-python|Compliance mode enabled, was '0.19.1'|
 |scikit-build-core|0.11.6|1.0.0|lang-python|Compliance mode enabled, was '1.0.0'|
