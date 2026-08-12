@@ -1,6 +1,5 @@
 [
 ["bomber","23.08.5","26.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '26.04.3'"]],
-["kpat","23.08.5","26.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '26.04.3'"]],
 ["kde-gtk-config","5.27.12","6.7.4","desktop-kde",1739757926,["Compliance mode enabled, was '6.7.4'"]],
 ["kjs","5.115.0","6.28.0","desktop-kde",1714377107,["Compliance mode enabled, was '6.28.0'"]],
 ["khelpcenter","23.08.5","26.04.3","desktop-kde",1714377107,["Compliance mode enabled, was '26.04.3'"]],
@@ -642,7 +641,7 @@
 ["dbus-python","1.3.2","1.4.0","lang-python",1716874927,["Compliance mode enabled, was '1.4.0'"]],
 ["parso","0.8.6","0.8.7","lang-python",1774510168,["Compliance mode enabled, was '0.8.7'"]],
 ["typeguard","4.5.2","4.6.0","lang-python",1781171959,["Compliance mode enabled, was '4.6.0'"]],
-["dart-sdk","3.11.6","3.12.2","lang-dart",1778319413,["Compliance mode enabled, was '3.12.2'"]],
+["dart-sdk","3.11.6","3.13.0","lang-dart",1778319413,["Compliance mode enabled, was '3.13.0'"]],
 ["fvm","4.1.0","4.1.2","lang-dart",1778478676,["Compliance mode enabled, was '4.1.2'"]],
 ["frp","0.70.0","0.70.1","app-proxy",1784520805,["Compliance mode enabled, was '0.70.1'"]],
 ["graftcp","0.7.4","0.8.3","app-proxy",1780137467,["Compliance mode enabled, was '0.8.3'"]],
@@ -1368,7 +1367,6 @@
 ["hw-probe","1.6.5","1.6.6","app-utils",1692624794,["Compliance mode enabled, was '1.6.6'"]],
 ["ms-sys","2.8.0","2.9.0","app-utils",1730884357,["Compliance mode enabled, was '2.9.0'"]],
 ["wpmeta","0.2.2","0.1.0","app-utils",1766192373,["Compliance mode enabled, was '0.1.0'","Possible downgrade from the current version (0.2.2 -> 0.1.0)"]],
-["imagemagick","7.1.2+27","7.1.2+29","app-utils",1784978131,["Compliance mode enabled, was '7.1.2-29'"]],
 ["id3","0.81","0.82","app-utils",1734961082,["Compliance mode enabled, was '0.82'"]],
 ["ack","3.7.0","3.10.0","app-utils",1722992165,["Compliance mode enabled, was '3.10.0'"]],
 ["pocketsphinx","5.0.4","0.8","app-utils",1744688169,["Compliance mode enabled, was '0.8'","Possible downgrade from the current version (5.0.4 -> 0.8)"]],
